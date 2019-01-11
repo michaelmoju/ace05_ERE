@@ -1,0 +1,37 @@
+;!<y
+;-----------------------------------------------------
+Run all the function for evidence search project
+Author: Moju Wu
+Date: 2018/12/26
+;-----------------------------------------------------
+;>
+
+export CYG_DIR_HOME=/media/moju/data/work
+export CYG_DIR_EXEC=/media/moju/data/exp
+export WIN_DIR_HOME=/media/moju/data/work
+
+
+YMD=20181226; TSK=RE; EXP=_test
+export T=$CYG_DIR_HOME/task.$TSK
+export E=$CYG_DIR_EXEC/EXP.$YMD.$TSK$EXP
+export WT=$T; export WE=$E
+export PYTHONPATH="$WIN_DIR_HOME/.plib:$WIN_DIR_HOME/task.SSQA/bat:$WT/bat"
+
+if [ ! -e $E ]; then mkdir $E; fi
+(echo $T $WT; echo $E $WE; echo $PYTHONPATH);
+
+
+;!<g
+;-------------------------------------------------------------------------------
+Relation Extraction project
+;-------------------------------------------------------------------------------
+;>
+
+rlc="-rlc @::bc::bn::cts::nw::un::wl"
+rlc="-rlc @::adj::fp1::fp2::timex2norm"
+
+#g test_read
+(date; cd $E;
+rfs="-rfs r::$E/bc/@/*.apf.xml"
+python3.6 $WT/bat/run_relation_extraction.py -cmd test_read $rfs $rlc -force
+date)
