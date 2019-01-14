@@ -1,25 +1,8 @@
-
-from std import *
-from Runner import Runner
-import jpype
-import glob
-from collections import OrderedDict
-
-from SSQA import Docxer, Dotter, Plotter, Scanner
-
-
 class Entity:
 	def __init__(self):
-		self.id = ''
+		self.entityID = ''
 		self.type = ''
 		self.subType = ''
-		self.mentions = []
-
-	def set(self, id, type, subType, mentions):
-		self.id = id
-		self.type = type
-		self.subType = subType
-		self.mentions = mentions
 
 	def match(self, type):
 		if self.type == type:
@@ -27,20 +10,16 @@ class Entity:
 		else:
 			return False
 
-	def dump(self):
-		pass
 
-
-class EntityMention:
-	def __init__(self):
-		self.id = ''
-		self.extent = ''
-		self.position = None
-
-	def set(self, id, extent, position):
-		self.id = id
+class EntityMention(Entity):
+	def __init__(self, extent, position):
+		super().__init__()
+		self.mentionID = ''
 		self.extent = extent
 		self.position = position
 
-
-
+	def set(self, mentionID, entityID, type, subType):
+		self.mentionID = mentionID
+		super().entityID = entityID
+		super().type = type
+		super().subType = subType

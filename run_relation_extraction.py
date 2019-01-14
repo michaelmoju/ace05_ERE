@@ -5,16 +5,21 @@ Last update: 2019/1/11
 Author: Moju Wu
 """
 
-
 from std import *
 from Runner import Runner
 import jpype
 import glob
+
 from collections import OrderedDict
 
 from SSQA import Docxer, Dotter, Plotter, Scanner
 
+from aceAnnotationStructure.ACEEntity import *
+from aceAnnotationStructure.ACERelation import *
+from aceAnnotationStructure.ACEEvent import *
+
 _log = Logger(__name__)
+
 
 def _init_java(args):
 	myPaths = []
@@ -42,9 +47,43 @@ def _read_src(fp):
 
 
 def _read_bench(fp):
+	# [doc["docID"], doc["entityList"], doc["relationList"], doc["eventList"]]
 	doc = json.loads(fp)
-	out = [doc["docID"], doc["entityList"], doc["relationList"], doc["eventList"]]
-	return out
+	lprint(doc['docID'])
+
+	entityMentions = []
+	for entityObj in doc['entityList']:
+		for entityMentionObj in entityObj['entityMentionList']:
+			myMention = EntityMention(entityMentionObj['extent'], entityMentionObj['postion'])
+			myMention.set(entityMentionObj['id'], entityObj['entityID'], entityObj['entityType'],
+						  entityObj['entitySubType'])
+			entityMentions.append(myMention)
+
+	relationMentions = []
+	for relationObj in doc['relationList']:
+		for relationMentionObj in relationObj['relationMentionList']:
+			myMention = RelationMention(relationMentionObj['mentionArg1']['extent'],
+										relationMentionObj['mentionArg2']['extent'],
+										relationMentionObj['position'])
+			myMention.mentionArg1.setID(relationMentionObj['mentionArg1']['id'])
+			myMention.mentionArg2.setID(relationMentionObj['mentionArg2']['id'])
+			myMention.set(relationMentionObj['id'], relationMentionObj['extent'], relationObj['relationID'],
+						  relationObj['relationArg1'], relationObj['relationArg2'], relationObj['relationType'],
+						  relationObj['relationSubType'])
+			relationMentions.append(myMention)
+
+	eventMentions = []
+	for eventObj in doc['eventList']:
+		for eventMentionObj in eventObj['eventMentionList']:
+			myMention = EventMention(eventMentionObj['extent'], eventMentionObj['position'], eventMentionObj['anchor'],
+									 eventMentionObj['eventMentionArgList'])
+			myMention.setID(eventMentionObj['id'], eventObj['eventID'])
+			myMention.setType(eventObj['eventType'])
+			myMention.setSubType(eventObj['eventSubType'])
+			myMention.setArgs(eventObj['eventArgList'])
+			eventMentions.append(myMention)
+
+	return entityMentions, relationMentions, entityMentions
 
 
 def _read_ere(fp):
@@ -54,9 +93,9 @@ def _read_ere(fp):
 
 
 def _fmeasure(matchedCount, ieLen, benchLen):
-	p = matchedCount/ieLen
-	r = matchedCount/benchLen
-	fmeasure = 2*p*r / (p+r)
+	p = matchedCount / ieLen
+	r = matchedCount / benchLen
+	fmeasure = 2 * p * r / (p + r)
 	return fmeasure
 
 
@@ -67,17 +106,16 @@ def _evaluate(bench, ere):
 	entityMatchCount = 0
 	# evaluate entity
 	for ientity in entity:
-		for ientityB in entityListB:
-			if ientityB.type == entity.type:
+		for entityB in entityListB:
+			if entityB.type == entity.type:
 				entityMatchCount += 1
 
 	fmeasureEntity = _fmeasure(entityMatchCount, len(entity), len(entityListB))
 
 
+# evaluate relation
 
-	# evaluate relation
-
-	# evaluate event
+# evaluate event
 
 
 class _Runner(Runner):
@@ -94,8 +132,9 @@ class _Runner(Runner):
 	@staticmethod
 	def cmd__test_read(fs):
 		sfh, bfh = fs  # r:source, r:benchmark
-		docIDS, documentID, sentences = _read_src(sfh)
-		docIDB, entityList, relationList = _read_bench(bfh)
+		# docIDS, documentID, sentences = _read_src(sfh)
+		entityMentions, relationMentions, entityMentions = _read_bench(bfh)
+		lprint(entityMentions[0].type)
 
 	@staticmethod
 	def cmd__test_eval(self, fs):
