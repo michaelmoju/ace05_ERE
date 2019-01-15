@@ -5,12 +5,6 @@ class Event:
 		self.subType = ''
 		self.args = []
 
-	def match(self, type):
-		if self.type == type:
-			return True
-		else:
-			return False
-
 
 class EventArg:
 	def __init__(self, id, role):
@@ -31,17 +25,17 @@ class EventMention(Event):
 
 	def setID(self, mentionID, eventID):
 		self.mentionID = mentionID
-		super().eventID = eventID
+		self.eventID = eventID
 
 	def setType(self, type):
-		super().type = type
+		self.type = type
 
 	def setSubType(self, subType):
-		super().subType = subType
+		self.subType = subType
 
 	def setArgs(self, eventArgList):
 		for eventArg in eventArgList:
-			super().args.append(EventArg(eventArg['id'], eventArg['role']))
+			self.args.append(EventArg(eventArg['id'], eventArg['role']))
 
 
 class EvMentionArg:

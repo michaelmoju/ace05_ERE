@@ -6,12 +6,6 @@ class Relation:
 		self.arg1 = ''
 		self.arg2 = ''
 
-	def match(self, type):
-		if self.type == type:
-			return True
-		else:
-			return False
-
 
 class RelationMention(Relation):
 	def __init__(self, ReMentionArg1, ReMentionArg2, position):
@@ -25,11 +19,11 @@ class RelationMention(Relation):
 	def set(self, id, extent, relationID, arg1, arg2, type, subType):
 		self.mentionID = id
 		self.extent = extent
-		super().relationID = relationID
-		super().arg1 = arg1
-		super().arg2 = arg2
-		super().type = type
-		super().subType = subType
+		self.relationID = relationID
+		self.arg1 = arg1
+		self.arg2 = arg2
+		self.type = type
+		self.subType = subType
 
 
 class ReMentionArg:

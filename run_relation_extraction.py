@@ -1,7 +1,7 @@
 """
 Date: 2018/12/26
 Version: 0
-Last update: 2019/1/11
+Last update: 2019/1/14
 Author: Moju Wu
 """
 
@@ -19,6 +19,12 @@ from aceAnnotationStructure.ACERelation import *
 from aceAnnotationStructure.ACEEvent import *
 
 _log = Logger(__name__)
+
+# =================================== Global =======================================#
+
+ENTITY_MATCH_COUNT, ENTITY_COUNT, ENTITY_BENCH_COUNT = 0, 0, 0
+RELATION_MATCH_COUNT, RELATION_COUNT, RELATION_BENCH_COUNT = 0, 0, 0
+EVENT_MATCH_COUNT, EVENT_COUNT, EVENT_BENCH_COUNT = 0, 0, 0
 
 
 def _init_java(args):
@@ -48,13 +54,13 @@ def _read_src(fp):
 
 def _read_bench(fp):
 	# [doc["docID"], doc["entityList"], doc["relationList"], doc["eventList"]]
-	doc = json.loads(fp)
+	doc = json.load(fp)
 	lprint(doc['docID'])
 
 	entityMentions = []
 	for entityObj in doc['entityList']:
 		for entityMentionObj in entityObj['entityMentionList']:
-			myMention = EntityMention(entityMentionObj['extent'], entityMentionObj['postion'])
+			myMention = EntityMention(entityMentionObj['extent'], entityMentionObj['position'])
 			myMention.set(entityMentionObj['id'], entityObj['entityID'], entityObj['entityType'],
 						  entityObj['entitySubType'])
 			entityMentions.append(myMention)
@@ -100,22 +106,44 @@ def _fmeasure(matchedCount, ieLen, benchLen):
 
 
 def _evaluate(bench, ere):
-	_, entityListB, relationListB, eventListB = bench
-	entity, relation, event = ere
+	entityMentions_bench, relationMentions_bench, eventMentions_bench = bench
+	entityMentions, relationMentions, eventMentions = ere
 
-	entityMatchCount = 0
+	global ENTITY_MATCH_COUNT, ENTITY_COUNT, ENTITY_BENCH_COUNT
+
 	# evaluate entity
-	for ientity in entity:
-		for entityB in entityListB:
-			if entityB.type == entity.type:
-				entityMatchCount += 1
+	for entityMention in entityMentions:
+		for entityMention_bench in entityMentions_bench:
+			if entityMention.position == entityMention_bench:
+				if (entityMention.extent == entityMention_bench.extent) & \
+						(entityMention.type == entityMention_bench.type):
+					ENTITY_MATCH_COUNT += 1
+	ENTITY_COUNT += len(entityMentions)
+	ENTITY_BENCH_COUNT += len(entityMentions_bench)
 
-	fmeasureEntity = _fmeasure(entityMatchCount, len(entity), len(entityListB))
+	global RELATION_MATCH_COUNT, RELATION_COUNT, RELATION_BENCH_COUNT
 
+	# evaluate relation
+	for relationMention in relationMentions:
+		for relationMention_bench in relationMentions_bench:
+			if relationMention.position == relationMention_bench.position:
+				if (relationMention.mentionArg1 == relationMention_bench.mentionArg1) & \
+						(relationMention.mentionArg2 == relationMention_bench.mentionArg2) & \
+						(relationMention.type == relationMention_bench.type):
+					RELATION_MATCH_COUNT += 1
+	RELATION_COUNT += len(relationMentions)
+	RELATION_BENCH_COUNT += len(relationMentions_bench)
 
-# evaluate relation
+	global EVENT_MATCH_COUNT, EVENT_COUNT, EVENT_BENCH_COUNT
 
-# evaluate event
+	# evaluate event
+	for eventMention in eventMentions:
+		for eventMention_bench in eventMentions_bench:
+			if eventMention.position == eventMention_bench.position:
+				if eventMention.type == eventMention_bench.type:
+					EVENT_MATCH_COUNT += 1
+	EVENT_COUNT += len(eventMentions)
+	EVENT_BENCH_COUNT += len(eventMentions_bench)
 
 
 class _Runner(Runner):
@@ -131,15 +159,25 @@ class _Runner(Runner):
 
 	@staticmethod
 	def cmd__test_read(fs):
-		sfh, bfh = fs  # r:source, r:benchmark
+		# sfh, bfh = fs  # r:source, r:benchmark
+		bfh, = fs
 		# docIDS, documentID, sentences = _read_src(sfh)
 		entityMentions, relationMentions, entityMentions = _read_bench(bfh)
 		lprint(entityMentions[0].type)
 
-	@staticmethod
-	def cmd__test_eval(self, fs):
-		erefh, bfh = fs  # r:entity/relation/event r:benchmark
-		_evaluate(_read_bench(bfh), _read_ere(erefh))
+	def cmd__test_eval(self, fhs, plg=False, elg=False):
+		if plg:
+			bfh, erefh = fhs  # r:entity/relation/event r:benchmark
+			bench, ere = _read_bench(bfh), _read_ere(erefh)
+			self.rja['__cmd_vars'] = bench, ere
+			return
+		# ----
+		bench, ere = self.rja['__cmd_vars']
+		# ----
+		if elg:
+			lprint(_fmeasure(ENTITY_MATCH_COUNT, ENTITY_COUNT, ENTITY_BENCH_COUNT))
+
+		_evaluate(bench, ere)
 
 
 def get_runner(arg):

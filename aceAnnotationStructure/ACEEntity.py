@@ -4,12 +4,6 @@ class Entity:
 		self.type = ''
 		self.subType = ''
 
-	def match(self, type):
-		if self.type == type:
-			return True
-		else:
-			return False
-
 
 class EntityMention(Entity):
 	def __init__(self, extent, position):
@@ -20,6 +14,6 @@ class EntityMention(Entity):
 
 	def set(self, mentionID, entityID, type, subType):
 		self.mentionID = mentionID
-		super().entityID = entityID
-		super().type = type
-		super().subType = subType
+		self.entityID = entityID
+		self.type = type
+		self.subType = subType
