@@ -34,3 +34,9 @@ rlc="-rlc @::adj::fp1::fp2::timex2norm"
 rfs="-rfs r::$E/bc/@/*.apf.xml.annotation.json"
 python3.6 $WT/run_relation_extraction.py -cmd test_read $rfs $rlc -force
 date)
+
+#g test_eval
+(date; cd $E;
+rfs="-rfs r::$E/bc/@/*.apf.xml.annotation.json r::$E/bc/@/*.extract.json"
+python3.6 $WT/run_relation_extraction.py -cmd test_eval -rpe $rfs $rlc -force
+date)

@@ -114,7 +114,7 @@ def _evaluate(bench, ere):
 	# evaluate entity
 	for entityMention in entityMentions:
 		for entityMention_bench in entityMentions_bench:
-			if entityMention.position == entityMention_bench:
+			if entityMention.position == entityMention_bench.position:
 				if (entityMention.extent == entityMention_bench.extent) & \
 						(entityMention.type == entityMention_bench.type):
 					ENTITY_MATCH_COUNT += 1
@@ -167,12 +167,10 @@ class _Runner(Runner):
 
 	def cmd__test_eval(self, fhs, plg=False, elg=False):
 		if plg:
-			bfh, erefh = fhs  # r:entity/relation/event r:benchmark
-			bench, ere = _read_bench(bfh), _read_ere(erefh)
-			self.rja['__cmd_vars'] = bench, ere
 			return
 		# ----
-		bench, ere = self.rja['__cmd_vars']
+		bfh, erefh = fhs
+		bench, ere = _read_bench(bfh), _read_ere(erefh)
 		# ----
 		if elg:
 			lprint(_fmeasure(ENTITY_MATCH_COUNT, ENTITY_COUNT, ENTITY_BENCH_COUNT))
