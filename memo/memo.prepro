@@ -1,0 +1,35 @@
+;!<y
+;-----------------------------------------------------
+Author: Moju Wu
+Date: 2019/2/11
+;-----------------------------------------------------
+;>
+
+export WORK_DIR_HOME=/media/moju/data/work
+
+TSK=ace05_ERE
+export T=$WORK_DIR_HOME/$TSK
+export WT=$T
+export PYTHONPATH="$WORK_DIR_HOME/.plib:$WORK_DIR_HOME/task.SSQA/bat:$WT/bat"
+
+;!<g
+;-------------------------------------------------------------------------------
+preprocessing
+;-------------------------------------------------------------------------------
+;>
+
+#g prepro
+
+catogories = [bc, bn, cts, nw, un, wl]
+
+#g bn
+(date;
+python3.6 $WT/prepro.py -dir /media/moju/data/Data/Corpus/LDC2006T06/data/English/bn/adj/
+date)
+
+#g nw
+(date;
+python3.6 $WT/prepro.py -dir /media/moju/data/Data/Corpus/LDC2006T06/data/English/nw/adj/
+date)
+
+
