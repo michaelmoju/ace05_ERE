@@ -66,7 +66,6 @@ def prepro_file(fpath, nlp, props):
 	return annotation, category
 
 
-
 def prepro_files(fdir):
 	from stanfordcorenlp import StanfordCoreNLP
 
@@ -106,5 +105,4 @@ if __name__ == '__main__':
 	myArg = ap.parse_args()
 
 	if myArg.dir:
-		# fdir = '/media/moju/data/Data/Corpus/LDC2006T06/data/English/bn/adj/'
 		prepro_files(myArg.dir)

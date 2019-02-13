@@ -40,3 +40,13 @@ date)
 rfs="-rfs r::$E/bc/@/*.apf.xml.annotation.json r::$E/bc/@/*.extract.json"
 python3.6 $WT/run_relation_extraction.py -cmd test_eval -rpe $rfs $rlc -force
 date)
+
+--------------------------------------------------------------------------------
+process entity and relation
+--------------------------------------------------------------------------------
+
+#g prepro_entity
+(date; cd $E;
+rfs="-rfs r::$E/bc/@/*.apf.xml.annotation.json"
+python3.6 $WT/run_relation_extraction.py -cmd test_read $rfs $rlc -force
+date)

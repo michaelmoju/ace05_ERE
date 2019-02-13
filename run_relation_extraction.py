@@ -10,8 +10,6 @@ from Runner import Runner
 import jpype
 import glob
 
-import prepro
-
 from collections import OrderedDict
 
 from SSQA import Docxer, Dotter, Plotter, Scanner
@@ -27,6 +25,10 @@ _log = Logger(__name__)
 ENTITY_MATCH_COUNT, ENTITY_COUNT, ENTITY_BENCH_COUNT = 0, 0, 0
 RELATION_MATCH_COUNT, RELATION_COUNT, RELATION_BENCH_COUNT = 0, 0, 0
 EVENT_MATCH_COUNT, EVENT_COUNT, EVENT_BENCH_COUNT = 0, 0, 0
+
+PREPRO_DIR = '/media/moju/data/work/ace05_ERE/data/prepro/'
+ENTITY_DIR = '/media/moju/data/work/ace05_ERE/data/entity/'
+RELATION_DIR = '/media/moju/data/work/ace05_ERE/data/relation/'
 
 
 def _init_java(args):
@@ -91,7 +93,7 @@ def _read_bench(fp):
 			myMention.setArgs(eventObj['eventArgList'])
 			eventMentions.append(myMention)
 
-	return entityMentions, relationMentions, entityMentions
+	return entityMentions, relationMentions, eventMentions
 
 
 def _read_ere(fp):
@@ -164,7 +166,7 @@ class _Runner(Runner):
 		# sfh, bfh = fs  # r:source, r:benchmark
 		bfh, = fs
 		# docIDS, documentID, sentences = _read_src(sfh)
-		entityMentions, relationMentions, entityMentions = _read_bench(bfh)
+		entityMentions, relationMentions, eventMentions = _read_bench(bfh)
 		lprint(entityMentions[0].type)
 
 	def cmd__test_eval(self, fhs, plg=False, elg=False):
