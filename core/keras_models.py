@@ -33,8 +33,6 @@ _, position2idx = embeddings.init_random(np.arange(-model_params['max_sent_len']
 
 p0_index = 1
 
-# tryee
-
 MAX_EDGES_PER_GRAPH = 7
 POSITION_EMBEDDING_MODE = "mark-bi"
 POSITION_VOCAB_SIZE = 4
