@@ -1,0 +1,199 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "PLO leader Yasser Arafat died in a Paris hospital last week, after a lot of controversy surrounding his illness and death",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "a Paris hospital",
+    "argMentionid" : "fsh_29592-E53-236",
+    "start" : 14,
+    "end" : 16
+  },
+  "relationID" : "fsh_29592-R1",
+  "mentionArg1" : {
+    "extent" : "PLO leader Yasser Arafat",
+    "argMentionid" : "fsh_29592-E8-1",
+    "start" : 8,
+    "end" : 11
+  },
+  "id" : "fsh_29592-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Death of Arafat ( 2 ) PLO leader PLO leader Yasser Arafat died in a Paris hospital last week , after a lot of controversy surrounding his illness and death .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Death", "of", "Arafat", "(", "2", ")", "PLO", "leader", "PLO", "leader", "Yasser", "Arafat", "died", "in", "a", "Paris", "hospital", "last", "week", ",", "after", "a", "lot", "of", "controversy", "surrounding", "his", "illness", "and", "death", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a senior US official",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "fsh_29592-E59-246",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "fsh_29592-R2",
+  "mentionArg1" : {
+    "extent" : "a senior US official",
+    "argMentionid" : "fsh_29592-E58-245",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "fsh_29592-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Should President Bush or a senior US official have attended Arafat 's funeral ?",
+  "sentence_index" : 4,
+  "Tokens" : [ "Should", "President", "Bush", "or", "a", "senior", "US", "official", "have", "attended", "Arafat", "'s", "funeral", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Marco from Illinois",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "Illinois",
+    "argMentionid" : "fsh_29592-E3-7",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "fsh_29592-R3",
+  "mentionArg1" : {
+    "extent" : "Marco",
+    "argMentionid" : "fsh_29592-E2-6",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "fsh_29592-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Marco Hello , th- I 'm Marco from Illinois .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Marco", "Hello", ",", "th-", "I", "'m", "Marco", "from", "Illinois", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Mike from New Jersey",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "New Jersey",
+    "argMentionid" : "fsh_29592-E5-11",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "fsh_29592-R4",
+  "mentionArg1" : {
+    "extent" : "Mike",
+    "argMentionid" : "fsh_29592-E4-10",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "fsh_29592-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Mike Hi , I 'm Mike from New Jersey .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Mike", "Hi", ",", "I", "'m", "Mike", "from", "New", "Jersey", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Jewish people",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "Jewish people",
+    "argMentionid" : "fsh_29592-E11-89",
+    "start" : 18,
+    "end" : 19
+  },
+  "relationID" : "fsh_29592-R5",
+  "mentionArg1" : {
+    "extent" : "Jewish",
+    "argMentionid" : "fsh_29592-E12-90",
+    "start" : 18,
+    "end" : 18
+  },
+  "id" : "fsh_29592-R5-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Mike Um , you know , you- e- -- granted , you know , there were there were Jewish people already living there , but -- all the Jewish people started going there and they j- basically just- you know , they just took over .",
+  "sentence_index" : 33,
+  "Tokens" : [ "Mike", "Um", ",", "you", "know", ",", "you-", "e-", "--", "granted", ",", "you", "know", ",", "there", "were", "there", "were", "Jewish", "people", "already", "living", "there", ",", "but", "--", "all", "the", "Jewish", "people", "started", "going", "there", "and", "they", "j-", "basically", "just-", "you", "know", ",", "they", "just", "took", "over", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the militants of -- Palestine",
+  "sentence_length" : 88,
+  "mentionArg2" : {
+    "extent" : "Palestine",
+    "argMentionid" : "fsh_29592-E38-178",
+    "start" : 45,
+    "end" : 45
+  },
+  "relationID" : "fsh_29592-R6",
+  "mentionArg1" : {
+    "extent" : "the militants of -- Palestine",
+    "argMentionid" : "fsh_29592-E37-177",
+    "start" : 41,
+    "end" : 45
+  },
+  "id" : "fsh_29592-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Marco But if Arafat had n't been I do n't know if he 's -- directly -- been linked to Hamas ' acts , uh , but he was put in a -- pretty -- sticky situation having to negotiate -- the militants of -- Palestine -- the international leaders -- and if it if Hara- Arafat had n't -- somehow appeased -- the Hamas groups or the Palestinian militants , then -- he would 've been kicked out , overthrown -- by- -- by the Palestinians .",
+  "sentence_index" : 58,
+  "Tokens" : [ "Marco", "But", "if", "Arafat", "had", "n't", "been", "I", "do", "n't", "know", "if", "he", "'s", "--", "directly", "--", "been", "linked", "to", "Hamas", "'", "acts", ",", "uh", ",", "but", "he", "was", "put", "in", "a", "--", "pretty", "--", "sticky", "situation", "having", "to", "negotiate", "--", "the", "militants", "of", "--", "Palestine", "--", "the", "international", "leaders", "--", "and", "if", "it", "if", "Hara-", "Arafat", "had", "n't", "--", "somehow", "appeased", "--", "the", "Hamas", "groups", "or", "the", "Palestinian", "militants", ",", "then", "--", "he", "would", "'ve", "been", "kicked", "out", ",", "overthrown", "--", "by-", "--", "by", "the", "Palestinians", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the Palestinian militants",
+  "sentence_length" : 88,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "fsh_29592-E38-183",
+    "start" : 68,
+    "end" : 68
+  },
+  "relationID" : "fsh_29592-R6",
+  "mentionArg1" : {
+    "extent" : "the Palestinian militants",
+    "argMentionid" : "fsh_29592-E37-182",
+    "start" : 67,
+    "end" : 69
+  },
+  "id" : "fsh_29592-R6-2",
+  "relationSubType" : "Located",
+  "Sentence" : "Marco But if Arafat had n't been I do n't know if he 's -- directly -- been linked to Hamas ' acts , uh , but he was put in a -- pretty -- sticky situation having to negotiate -- the militants of -- Palestine -- the international leaders -- and if it if Hara- Arafat had n't -- somehow appeased -- the Hamas groups or the Palestinian militants , then -- he would 've been kicked out , overthrown -- by- -- by the Palestinians .",
+  "sentence_index" : 58,
+  "Tokens" : [ "Marco", "But", "if", "Arafat", "had", "n't", "been", "I", "do", "n't", "know", "if", "he", "'s", "--", "directly", "--", "been", "linked", "to", "Hamas", "'", "acts", ",", "uh", ",", "but", "he", "was", "put", "in", "a", "--", "pretty", "--", "sticky", "situation", "having", "to", "negotiate", "--", "the", "militants", "of", "--", "Palestine", "--", "the", "international", "leaders", "--", "and", "if", "it", "if", "Hara-", "Arafat", "had", "n't", "--", "somehow", "appeased", "--", "the", "Hamas", "groups", "or", "the", "Palestinian", "militants", ",", "then", "--", "he", "would", "'ve", "been", "kicked", "out", ",", "overthrown", "--", "by-", "--", "by", "the", "Palestinians", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Israeli team",
+  "sentence_length" : 82,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "fsh_29592-E7-199",
+    "start" : 79,
+    "end" : 79
+  },
+  "relationID" : "fsh_29592-R7",
+  "mentionArg1" : {
+    "extent" : "the Israeli team",
+    "argMentionid" : "fsh_29592-E44-198",
+    "start" : 78,
+    "end" : 80
+  },
+  "id" : "fsh_29592-R7-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Well , it it 's not really Arafat -- as an individual , I think it 's just -- whatever leader -- is -- placed in the position of- Mike He was he was basically -- I mean , I 've read I 've read articles an- and- and- and -- stories that basically have linked him to the to the to the Munich -- massacre -- th- you know , the Munich Olympic massacre th- the Is- the Israeli team .",
+  "sentence_index" : 64,
+  "Tokens" : [ "Well", ",", "it", "it", "'s", "not", "really", "Arafat", "--", "as", "an", "individual", ",", "I", "think", "it", "'s", "just", "--", "whatever", "leader", "--", "is", "--", "placed", "in", "the", "position", "of-", "Mike", "He", "was", "he", "was", "basically", "--", "I", "mean", ",", "I", "'ve", "read", "I", "'ve", "read", "articles", "an-", "and-", "and-", "and", "--", "stories", "that", "basically", "have", "linked", "him", "to", "the", "to", "the", "to", "the", "Munich", "--", "massacre", "--", "th-", "you", "know", ",", "the", "Munich", "Olympic", "massacre", "th-", "the", "Is-", "the", "Israeli", "team", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Jewish people",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "Jewish",
+    "argMentionid" : "fsh_29592-E12-92",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "fsh_29592-R8",
+  "mentionArg1" : {
+    "extent" : "the Jewish people",
+    "argMentionid" : "fsh_29592-E13-91",
+    "start" : 27,
+    "end" : 29
+  },
+  "id" : "fsh_29592-R8-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Mike Um , you know , you- e- -- granted , you know , there were there were Jewish people already living there , but -- all the Jewish people started going there and they j- basically just- you know , they just took over .",
+  "sentence_index" : 33,
+  "Tokens" : [ "Mike", "Um", ",", "you", "know", ",", "you-", "e-", "--", "granted", ",", "you", "know", ",", "there", "were", "there", "were", "Jewish", "people", "already", "living", "there", ",", "but", "--", "all", "the", "Jewish", "people", "started", "going", "there", "and", "they", "j-", "basically", "just-", "you", "know", ",", "they", "just", "took", "over", "." ]
+} ]

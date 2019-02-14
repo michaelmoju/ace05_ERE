@@ -1,0 +1,67 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "white house aides",
+  "sentence_length" : 200,
+  "mentionArg2" : {
+    "extent" : "white house",
+    "argMentionid" : "CNN_ENG_20030501_160459.0-E1-2",
+    "start" : 137,
+    "end" : 138
+  },
+  "relationID" : "CNN_ENG_20030501_160459.0-R1",
+  "mentionArg1" : {
+    "extent" : "white house aides",
+    "argMentionid" : "CNN_ENG_20030501_160459.0-E17-30",
+    "start" : 137,
+    "end" : 139
+  },
+  "id" : "CNN_ENG_20030501_160459.0-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "letdownch * * at the helm came in on final to the \" uss abraham lincoln \" and landed hitting the fore wire , a safe trap. one of 12,675 takeoffs and traps that have taken place aboard the \" uss abraham lincoln \" during this 10 month long deployment , the longest deployment of an aircraft carrier in the u . s. since the vietnam era. after the president came aboard , he then spent a considerable amount of time talking to many of the young men and women on the flight deck , taking photographs with them , still wearing his flight suit throughout much of that period , talking to them and again this evening , he will be issuing a major address to the american people reguarding the end of major combat operation. white house aides calling it an important moment. he -- after landing and taking a brief tour of part of the ship , he also went out on to the flight deck and observed some of the flight operations of some of the f-18 aircraft that are now leaving these aircraft , headed to lamore after this 10-month long deploy am. wolf ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "letdownch", "*", "*", "at", "the", "helm", "came", "in", "on", "final", "to", "the", "\"", "uss", "abraham", "lincoln", "\"", "and", "landed", "hitting", "the", "fore", "wire", ",", "a", "safe", "trap.", "one", "of", "12,675", "takeoffs", "and", "traps", "that", "have", "taken", "place", "aboard", "the", "\"", "uss", "abraham", "lincoln", "\"", "during", "this", "10", "month", "long", "deployment", ",", "the", "longest", "deployment", "of", "an", "aircraft", "carrier", "in", "the", "u", ".", "s.", "since", "the", "vietnam", "era.", "after", "the", "president", "came", "aboard", ",", "he", "then", "spent", "a", "considerable", "amount", "of", "time", "talking", "to", "many", "of", "the", "young", "men", "and", "women", "on", "the", "flight", "deck", ",", "taking", "photographs", "with", "them", ",", "still", "wearing", "his", "flight", "suit", "throughout", "much", "of", "that", "period", ",", "talking", "to", "them", "and", "again", "this", "evening", ",", "he", "will", "be", "issuing", "a", "major", "address", "to", "the", "american", "people", "reguarding", "the", "end", "of", "major", "combat", "operation.", "white", "house", "aides", "calling", "it", "an", "important", "moment.", "he", "--", "after", "landing", "and", "taking", "a", "brief", "tour", "of", "part", "of", "the", "ship", ",", "he", "also", "went", "out", "on", "to", "the", "flight", "deck", "and", "observed", "some", "of", "the", "flight", "operations", "of", "some", "of", "the", "f-18", "aircraft", "that", "are", "now", "leaving", "these", "aircraft", ",", "headed", "to", "lamore", "after", "this", "10-month", "long", "deploy", "am.", "wolf", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "part of the ship",
+  "sentence_length" : 200,
+  "mentionArg2" : {
+    "extent" : "the ship",
+    "argMentionid" : "CNN_ENG_20030501_160459.0-E7-5",
+    "start" : 157,
+    "end" : 158
+  },
+  "relationID" : "CNN_ENG_20030501_160459.0-R2",
+  "mentionArg1" : {
+    "extent" : "part of the ship",
+    "argMentionid" : "CNN_ENG_20030501_160459.0-E2-4",
+    "start" : 155,
+    "end" : 158
+  },
+  "id" : "CNN_ENG_20030501_160459.0-R2-1",
+  "relationSubType" : "Artifact",
+  "Sentence" : "letdownch * * at the helm came in on final to the \" uss abraham lincoln \" and landed hitting the fore wire , a safe trap. one of 12,675 takeoffs and traps that have taken place aboard the \" uss abraham lincoln \" during this 10 month long deployment , the longest deployment of an aircraft carrier in the u . s. since the vietnam era. after the president came aboard , he then spent a considerable amount of time talking to many of the young men and women on the flight deck , taking photographs with them , still wearing his flight suit throughout much of that period , talking to them and again this evening , he will be issuing a major address to the american people reguarding the end of major combat operation. white house aides calling it an important moment. he -- after landing and taking a brief tour of part of the ship , he also went out on to the flight deck and observed some of the flight operations of some of the f-18 aircraft that are now leaving these aircraft , headed to lamore after this 10-month long deploy am. wolf ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "letdownch", "*", "*", "at", "the", "helm", "came", "in", "on", "final", "to", "the", "\"", "uss", "abraham", "lincoln", "\"", "and", "landed", "hitting", "the", "fore", "wire", ",", "a", "safe", "trap.", "one", "of", "12,675", "takeoffs", "and", "traps", "that", "have", "taken", "place", "aboard", "the", "\"", "uss", "abraham", "lincoln", "\"", "during", "this", "10", "month", "long", "deployment", ",", "the", "longest", "deployment", "of", "an", "aircraft", "carrier", "in", "the", "u", ".", "s.", "since", "the", "vietnam", "era.", "after", "the", "president", "came", "aboard", ",", "he", "then", "spent", "a", "considerable", "amount", "of", "time", "talking", "to", "many", "of", "the", "young", "men", "and", "women", "on", "the", "flight", "deck", ",", "taking", "photographs", "with", "them", ",", "still", "wearing", "his", "flight", "suit", "throughout", "much", "of", "that", "period", ",", "talking", "to", "them", "and", "again", "this", "evening", ",", "he", "will", "be", "issuing", "a", "major", "address", "to", "the", "american", "people", "reguarding", "the", "end", "of", "major", "combat", "operation.", "white", "house", "aides", "calling", "it", "an", "important", "moment.", "he", "--", "after", "landing", "and", "taking", "a", "brief", "tour", "of", "part", "of", "the", "ship", ",", "he", "also", "went", "out", "on", "to", "the", "flight", "deck", "and", "observed", "some", "of", "the", "flight", "operations", "of", "some", "of", "the", "f-18", "aircraft", "that", "are", "now", "leaving", "these", "aircraft", ",", "headed", "to", "lamore", "after", "this", "10-month", "long", "deploy", "am.", "wolf", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "an aircraft carrier in the u.s",
+  "sentence_length" : 200,
+  "mentionArg2" : {
+    "extent" : "an aircraft carrier in the u.s",
+    "argMentionid" : "CNN_ENG_20030501_160459.0-E8-15",
+    "start" : 55,
+    "end" : 62
+  },
+  "relationID" : "CNN_ENG_20030501_160459.0-R3",
+  "mentionArg1" : {
+    "extent" : "the u.s",
+    "argMentionid" : "CNN_ENG_20030501_160459.0-E9-16",
+    "start" : 59,
+    "end" : 62
+  },
+  "id" : "CNN_ENG_20030501_160459.0-R3-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "letdownch * * at the helm came in on final to the \" uss abraham lincoln \" and landed hitting the fore wire , a safe trap. one of 12,675 takeoffs and traps that have taken place aboard the \" uss abraham lincoln \" during this 10 month long deployment , the longest deployment of an aircraft carrier in the u . s. since the vietnam era. after the president came aboard , he then spent a considerable amount of time talking to many of the young men and women on the flight deck , taking photographs with them , still wearing his flight suit throughout much of that period , talking to them and again this evening , he will be issuing a major address to the american people reguarding the end of major combat operation. white house aides calling it an important moment. he -- after landing and taking a brief tour of part of the ship , he also went out on to the flight deck and observed some of the flight operations of some of the f-18 aircraft that are now leaving these aircraft , headed to lamore after this 10-month long deploy am. wolf ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "letdownch", "*", "*", "at", "the", "helm", "came", "in", "on", "final", "to", "the", "\"", "uss", "abraham", "lincoln", "\"", "and", "landed", "hitting", "the", "fore", "wire", ",", "a", "safe", "trap.", "one", "of", "12,675", "takeoffs", "and", "traps", "that", "have", "taken", "place", "aboard", "the", "\"", "uss", "abraham", "lincoln", "\"", "during", "this", "10", "month", "long", "deployment", ",", "the", "longest", "deployment", "of", "an", "aircraft", "carrier", "in", "the", "u", ".", "s.", "since", "the", "vietnam", "era.", "after", "the", "president", "came", "aboard", ",", "he", "then", "spent", "a", "considerable", "amount", "of", "time", "talking", "to", "many", "of", "the", "young", "men", "and", "women", "on", "the", "flight", "deck", ",", "taking", "photographs", "with", "them", ",", "still", "wearing", "his", "flight", "suit", "throughout", "much", "of", "that", "period", ",", "talking", "to", "them", "and", "again", "this", "evening", ",", "he", "will", "be", "issuing", "a", "major", "address", "to", "the", "american", "people", "reguarding", "the", "end", "of", "major", "combat", "operation.", "white", "house", "aides", "calling", "it", "an", "important", "moment.", "he", "--", "after", "landing", "and", "taking", "a", "brief", "tour", "of", "part", "of", "the", "ship", ",", "he", "also", "went", "out", "on", "to", "the", "flight", "deck", "and", "observed", "some", "of", "the", "flight", "operations", "of", "some", "of", "the", "f-18", "aircraft", "that", "are", "now", "leaving", "these", "aircraft", ",", "headed", "to", "lamore", "after", "this", "10-month", "long", "deploy", "am.", "wolf", "?" ]
+} ]

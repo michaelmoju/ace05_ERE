@@ -1,0 +1,397 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "paul vercammen joins me now from martinez, california, with the latest for us",
+  "sentence_length" : 65,
+  "mentionArg2" : {
+    "extent" : "martinez, california",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E36-95",
+    "start" : 54,
+    "end" : 56
+  },
+  "relationID" : "CNN_ENG_20030415_183752.14-R1",
+  "mentionArg1" : {
+    "extent" : "paul vercammen",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E34-93",
+    "start" : 48,
+    "end" : 49
+  },
+  "id" : "CNN_ENG_20030415_183752.14-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "the coroner examining the remains of two bodies recovered near san francisco bay yesterday was unable to determine the cause of death. police are now considering the possibility that the remains are those of laci peterson and her unborn child. peterson disappeared on christmas eve of last year. paul vercammen joins me now from martinez , california , with the latest for us. paul ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "the", "coroner", "examining", "the", "remains", "of", "two", "bodies", "recovered", "near", "san", "francisco", "bay", "yesterday", "was", "unable", "to", "determine", "the", "cause", "of", "death.", "police", "are", "now", "considering", "the", "possibility", "that", "the", "remains", "are", "those", "of", "laci", "peterson", "and", "her", "unborn", "child.", "peterson", "disappeared", "on", "christmas", "eve", "of", "last", "year.", "paul", "vercammen", "joins", "me", "now", "from", "martinez", ",", "california", ",", "with", "the", "latest", "for", "us.", "paul", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "reporting live from martinez, california, i'm paul vercammen, now back to you",
+  "sentence_length" : 244,
+  "mentionArg2" : {
+    "extent" : "martinez, california",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E36-62",
+    "start" : 230,
+    "end" : 232
+  },
+  "relationID" : "CNN_ENG_20030415_183752.14-R1",
+  "mentionArg1" : {
+    "extent" : "i",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E34-64",
+    "start" : 234,
+    "end" : 234
+  },
+  "id" : "CNN_ENG_20030415_183752.14-R1-2",
+  "relationSubType" : "Located",
+  "Sentence" : "reporter : and yet another reason why that bone could be a key link , there are reports that have surfaced that in terms of the female remains that were found the skeleton was not completely intact. now this case is also taking on a rather , we should say , almost a tv episodic forensic pathology angle because they 're going to bring in an expert on what 's called alufating decay , and basically this person is going to come in here and look at the body. this is in the damage aspect of it. and they say these experts will be able to tell how long the body had been in there and if the remains of the almost full-term baby boy were inside the female 's remains at the time of death. also , the coroner could know right now but is not saying if there was some sort of trauma to either of these skeletons , for example , if they could see the bone compromised in some way they could tell if there had been a stab or a shooting. we may learn a lot more on this in just 15 minutes. that 's because modesto police have scheduled a news conference and while they may not say much at all they could also drop some major bomb shells , lou. reporting live from martinez , california , i 'm paul vercammen , now back to you .",
+  "sentence_index" : 4,
+  "Tokens" : [ "reporter", ":", "and", "yet", "another", "reason", "why", "that", "bone", "could", "be", "a", "key", "link", ",", "there", "are", "reports", "that", "have", "surfaced", "that", "in", "terms", "of", "the", "female", "remains", "that", "were", "found", "the", "skeleton", "was", "not", "completely", "intact.", "now", "this", "case", "is", "also", "taking", "on", "a", "rather", ",", "we", "should", "say", ",", "almost", "a", "tv", "episodic", "forensic", "pathology", "angle", "because", "they", "'re", "going", "to", "bring", "in", "an", "expert", "on", "what", "'s", "called", "alufating", "decay", ",", "and", "basically", "this", "person", "is", "going", "to", "come", "in", "here", "and", "look", "at", "the", "body.", "this", "is", "in", "the", "damage", "aspect", "of", "it.", "and", "they", "say", "these", "experts", "will", "be", "able", "to", "tell", "how", "long", "the", "body", "had", "been", "in", "there", "and", "if", "the", "remains", "of", "the", "almost", "full-term", "baby", "boy", "were", "inside", "the", "female", "'s", "remains", "at", "the", "time", "of", "death.", "also", ",", "the", "coroner", "could", "know", "right", "now", "but", "is", "not", "saying", "if", "there", "was", "some", "sort", "of", "trauma", "to", "either", "of", "these", "skeletons", ",", "for", "example", ",", "if", "they", "could", "see", "the", "bone", "compromised", "in", "some", "way", "they", "could", "tell", "if", "there", "had", "been", "a", "stab", "or", "a", "shooting.", "we", "may", "learn", "a", "lot", "more", "on", "this", "in", "just", "15", "minutes.", "that", "'s", "because", "modesto", "police", "have", "scheduled", "a", "news", "conference", "and", "while", "they", "may", "not", "say", "much", "at", "all", "they", "could", "also", "drop", "some", "major", "bomb", "shells", ",", "lou.", "reporting", "live", "from", "martinez", ",", "california", ",", "i", "'m", "paul", "vercammen", ",", "now", "back", "to", "you", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "martinez, california",
+  "sentence_length" : 65,
+  "mentionArg2" : {
+    "extent" : "california",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E37-96",
+    "start" : 56,
+    "end" : 56
+  },
+  "relationID" : "CNN_ENG_20030415_183752.14-R2",
+  "mentionArg1" : {
+    "extent" : "martinez, california",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E36-95",
+    "start" : 54,
+    "end" : 56
+  },
+  "id" : "CNN_ENG_20030415_183752.14-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "the coroner examining the remains of two bodies recovered near san francisco bay yesterday was unable to determine the cause of death. police are now considering the possibility that the remains are those of laci peterson and her unborn child. peterson disappeared on christmas eve of last year. paul vercammen joins me now from martinez , california , with the latest for us. paul ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "the", "coroner", "examining", "the", "remains", "of", "two", "bodies", "recovered", "near", "san", "francisco", "bay", "yesterday", "was", "unable", "to", "determine", "the", "cause", "of", "death.", "police", "are", "now", "considering", "the", "possibility", "that", "the", "remains", "are", "those", "of", "laci", "peterson", "and", "her", "unborn", "child.", "peterson", "disappeared", "on", "christmas", "eve", "of", "last", "year.", "paul", "vercammen", "joins", "me", "now", "from", "martinez", ",", "california", ",", "with", "the", "latest", "for", "us.", "paul", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "martinez, california",
+  "sentence_length" : 244,
+  "mentionArg2" : {
+    "extent" : "california",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E37-63",
+    "start" : 232,
+    "end" : 232
+  },
+  "relationID" : "CNN_ENG_20030415_183752.14-R2",
+  "mentionArg1" : {
+    "extent" : "martinez, california",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E36-62",
+    "start" : 230,
+    "end" : 232
+  },
+  "id" : "CNN_ENG_20030415_183752.14-R2-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "reporter : and yet another reason why that bone could be a key link , there are reports that have surfaced that in terms of the female remains that were found the skeleton was not completely intact. now this case is also taking on a rather , we should say , almost a tv episodic forensic pathology angle because they 're going to bring in an expert on what 's called alufating decay , and basically this person is going to come in here and look at the body. this is in the damage aspect of it. and they say these experts will be able to tell how long the body had been in there and if the remains of the almost full-term baby boy were inside the female 's remains at the time of death. also , the coroner could know right now but is not saying if there was some sort of trauma to either of these skeletons , for example , if they could see the bone compromised in some way they could tell if there had been a stab or a shooting. we may learn a lot more on this in just 15 minutes. that 's because modesto police have scheduled a news conference and while they may not say much at all they could also drop some major bomb shells , lou. reporting live from martinez , california , i 'm paul vercammen , now back to you .",
+  "sentence_index" : 4,
+  "Tokens" : [ "reporter", ":", "and", "yet", "another", "reason", "why", "that", "bone", "could", "be", "a", "key", "link", ",", "there", "are", "reports", "that", "have", "surfaced", "that", "in", "terms", "of", "the", "female", "remains", "that", "were", "found", "the", "skeleton", "was", "not", "completely", "intact.", "now", "this", "case", "is", "also", "taking", "on", "a", "rather", ",", "we", "should", "say", ",", "almost", "a", "tv", "episodic", "forensic", "pathology", "angle", "because", "they", "'re", "going", "to", "bring", "in", "an", "expert", "on", "what", "'s", "called", "alufating", "decay", ",", "and", "basically", "this", "person", "is", "going", "to", "come", "in", "here", "and", "look", "at", "the", "body.", "this", "is", "in", "the", "damage", "aspect", "of", "it.", "and", "they", "say", "these", "experts", "will", "be", "able", "to", "tell", "how", "long", "the", "body", "had", "been", "in", "there", "and", "if", "the", "remains", "of", "the", "almost", "full-term", "baby", "boy", "were", "inside", "the", "female", "'s", "remains", "at", "the", "time", "of", "death.", "also", ",", "the", "coroner", "could", "know", "right", "now", "but", "is", "not", "saying", "if", "there", "was", "some", "sort", "of", "trauma", "to", "either", "of", "these", "skeletons", ",", "for", "example", ",", "if", "they", "could", "see", "the", "bone", "compromised", "in", "some", "way", "they", "could", "tell", "if", "there", "had", "been", "a", "stab", "or", "a", "shooting.", "we", "may", "learn", "a", "lot", "more", "on", "this", "in", "just", "15", "minutes.", "that", "'s", "because", "modesto", "police", "have", "scheduled", "a", "news", "conference", "and", "while", "they", "may", "not", "say", "much", "at", "all", "they", "could", "also", "drop", "some", "major", "bomb", "shells", ",", "lou.", "reporting", "live", "from", "martinez", ",", "california", ",", "i", "'m", "paul", "vercammen", ",", "now", "back", "to", "you", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her unborn child",
+  "sentence_length" : 65,
+  "mentionArg2" : {
+    "extent" : "her unborn child",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E20-46",
+    "start" : 37,
+    "end" : 39
+  },
+  "relationID" : "CNN_ENG_20030415_183752.14-R3",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E19-45",
+    "start" : 37,
+    "end" : 37
+  },
+  "id" : "CNN_ENG_20030415_183752.14-R3-1",
+  "relationSubType" : "Family",
+  "Sentence" : "the coroner examining the remains of two bodies recovered near san francisco bay yesterday was unable to determine the cause of death. police are now considering the possibility that the remains are those of laci peterson and her unborn child. peterson disappeared on christmas eve of last year. paul vercammen joins me now from martinez , california , with the latest for us. paul ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "the", "coroner", "examining", "the", "remains", "of", "two", "bodies", "recovered", "near", "san", "francisco", "bay", "yesterday", "was", "unable", "to", "determine", "the", "cause", "of", "death.", "police", "are", "now", "considering", "the", "possibility", "that", "the", "remains", "are", "those", "of", "laci", "peterson", "and", "her", "unborn", "child.", "peterson", "disappeared", "on", "christmas", "eve", "of", "last", "year.", "paul", "vercammen", "joins", "me", "now", "from", "martinez", ",", "california", ",", "with", "the", "latest", "for", "us.", "paul", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "her modesto home",
+  "sentence_length" : 135,
+  "mentionArg2" : {
+    "extent" : "her modesto home",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E28-88",
+    "start" : 56,
+    "end" : 58
+  },
+  "relationID" : "CNN_ENG_20030415_183752.14-R4",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E19-50",
+    "start" : 56,
+    "end" : 56
+  },
+  "id" : "CNN_ENG_20030415_183752.14-R4-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "reporter : well , lou , one thing that the coroner has been able to determine is that the skeletal remains are those of one , an adult female , and two , the remains of the almost full-term baby boy. and of course , this is significant because laci peterson , when she disappeared from her modesto home , was 7 1/2 months pregnant. that was on christmas eve. her husband , scott , at the time said that he was fishing in the berkeley marina. now , in a strange twist in all of this , just yesterday separate from the skeletal remains i alluded to earlier a man hiking near the berkeley marina found a bone , and they are now looking at that as another possible lead in this case .",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "well", ",", "lou", ",", "one", "thing", "that", "the", "coroner", "has", "been", "able", "to", "determine", "is", "that", "the", "skeletal", "remains", "are", "those", "of", "one", ",", "an", "adult", "female", ",", "and", "two", ",", "the", "remains", "of", "the", "almost", "full-term", "baby", "boy.", "and", "of", "course", ",", "this", "is", "significant", "because", "laci", "peterson", ",", "when", "she", "disappeared", "from", "her", "modesto", "home", ",", "was", "7", "1/2", "months", "pregnant.", "that", "was", "on", "christmas", "eve.", "her", "husband", ",", "scott", ",", "at", "the", "time", "said", "that", "he", "was", "fishing", "in", "the", "berkeley", "marina.", "now", ",", "in", "a", "strange", "twist", "in", "all", "of", "this", ",", "just", "yesterday", "separate", "from", "the", "skeletal", "remains", "i", "alluded", "to", "earlier", "a", "man", "hiking", "near", "the", "berkeley", "marina", "found", "a", "bone", ",", "and", "they", "are", "now", "looking", "at", "that", "as", "another", "possible", "lead", "in", "this", "case", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "her modesto home",
+  "sentence_length" : 135,
+  "mentionArg2" : {
+    "extent" : "modesto",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E3-100",
+    "start" : 57,
+    "end" : 57
+  },
+  "relationID" : "CNN_ENG_20030415_183752.14-R5",
+  "mentionArg1" : {
+    "extent" : "her modesto home",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E28-88",
+    "start" : 56,
+    "end" : 58
+  },
+  "id" : "CNN_ENG_20030415_183752.14-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "reporter : well , lou , one thing that the coroner has been able to determine is that the skeletal remains are those of one , an adult female , and two , the remains of the almost full-term baby boy. and of course , this is significant because laci peterson , when she disappeared from her modesto home , was 7 1/2 months pregnant. that was on christmas eve. her husband , scott , at the time said that he was fishing in the berkeley marina. now , in a strange twist in all of this , just yesterday separate from the skeletal remains i alluded to earlier a man hiking near the berkeley marina found a bone , and they are now looking at that as another possible lead in this case .",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "well", ",", "lou", ",", "one", "thing", "that", "the", "coroner", "has", "been", "able", "to", "determine", "is", "that", "the", "skeletal", "remains", "are", "those", "of", "one", ",", "an", "adult", "female", ",", "and", "two", ",", "the", "remains", "of", "the", "almost", "full-term", "baby", "boy.", "and", "of", "course", ",", "this", "is", "significant", "because", "laci", "peterson", ",", "when", "she", "disappeared", "from", "her", "modesto", "home", ",", "was", "7", "1/2", "months", "pregnant.", "that", "was", "on", "christmas", "eve.", "her", "husband", ",", "scott", ",", "at", "the", "time", "said", "that", "he", "was", "fishing", "in", "the", "berkeley", "marina.", "now", ",", "in", "a", "strange", "twist", "in", "all", "of", "this", ",", "just", "yesterday", "separate", "from", "the", "skeletal", "remains", "i", "alluded", "to", "earlier", "a", "man", "hiking", "near", "the", "berkeley", "marina", "found", "a", "bone", ",", "and", "they", "are", "now", "looking", "at", "that", "as", "another", "possible", "lead", "in", "this", "case", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her husband",
+  "sentence_length" : 135,
+  "mentionArg2" : {
+    "extent" : "her husband",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E5-10",
+    "start" : 70,
+    "end" : 71
+  },
+  "relationID" : "CNN_ENG_20030415_183752.14-R6",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E19-51",
+    "start" : 70,
+    "end" : 70
+  },
+  "id" : "CNN_ENG_20030415_183752.14-R6-1",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : well , lou , one thing that the coroner has been able to determine is that the skeletal remains are those of one , an adult female , and two , the remains of the almost full-term baby boy. and of course , this is significant because laci peterson , when she disappeared from her modesto home , was 7 1/2 months pregnant. that was on christmas eve. her husband , scott , at the time said that he was fishing in the berkeley marina. now , in a strange twist in all of this , just yesterday separate from the skeletal remains i alluded to earlier a man hiking near the berkeley marina found a bone , and they are now looking at that as another possible lead in this case .",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "well", ",", "lou", ",", "one", "thing", "that", "the", "coroner", "has", "been", "able", "to", "determine", "is", "that", "the", "skeletal", "remains", "are", "those", "of", "one", ",", "an", "adult", "female", ",", "and", "two", ",", "the", "remains", "of", "the", "almost", "full-term", "baby", "boy.", "and", "of", "course", ",", "this", "is", "significant", "because", "laci", "peterson", ",", "when", "she", "disappeared", "from", "her", "modesto", "home", ",", "was", "7", "1/2", "months", "pregnant.", "that", "was", "on", "christmas", "eve.", "her", "husband", ",", "scott", ",", "at", "the", "time", "said", "that", "he", "was", "fishing", "in", "the", "berkeley", "marina.", "now", ",", "in", "a", "strange", "twist", "in", "all", "of", "this", ",", "just", "yesterday", "separate", "from", "the", "skeletal", "remains", "i", "alluded", "to", "earlier", "a", "man", "hiking", "near", "the", "berkeley", "marina", "found", "a", "bone", ",", "and", "they", "are", "now", "looking", "at", "that", "as", "another", "possible", "lead", "in", "this", "case", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "her husband, scott, at the time said that he was fishing in the berkeley marina",
+  "sentence_length" : 135,
+  "mentionArg2" : {
+    "extent" : "the berkeley marina",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E7-12",
+    "start" : 84,
+    "end" : 86
+  },
+  "relationID" : "CNN_ENG_20030415_183752.14-R7",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E5-11",
+    "start" : 80,
+    "end" : 80
+  },
+  "id" : "CNN_ENG_20030415_183752.14-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "reporter : well , lou , one thing that the coroner has been able to determine is that the skeletal remains are those of one , an adult female , and two , the remains of the almost full-term baby boy. and of course , this is significant because laci peterson , when she disappeared from her modesto home , was 7 1/2 months pregnant. that was on christmas eve. her husband , scott , at the time said that he was fishing in the berkeley marina. now , in a strange twist in all of this , just yesterday separate from the skeletal remains i alluded to earlier a man hiking near the berkeley marina found a bone , and they are now looking at that as another possible lead in this case .",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "well", ",", "lou", ",", "one", "thing", "that", "the", "coroner", "has", "been", "able", "to", "determine", "is", "that", "the", "skeletal", "remains", "are", "those", "of", "one", ",", "an", "adult", "female", ",", "and", "two", ",", "the", "remains", "of", "the", "almost", "full-term", "baby", "boy.", "and", "of", "course", ",", "this", "is", "significant", "because", "laci", "peterson", ",", "when", "she", "disappeared", "from", "her", "modesto", "home", ",", "was", "7", "1/2", "months", "pregnant.", "that", "was", "on", "christmas", "eve.", "her", "husband", ",", "scott", ",", "at", "the", "time", "said", "that", "he", "was", "fishing", "in", "the", "berkeley", "marina.", "now", ",", "in", "a", "strange", "twist", "in", "all", "of", "this", ",", "just", "yesterday", "separate", "from", "the", "skeletal", "remains", "i", "alluded", "to", "earlier", "a", "man", "hiking", "near", "the", "berkeley", "marina", "found", "a", "bone", ",", "and", "they", "are", "now", "looking", "at", "that", "as", "another", "possible", "lead", "in", "this", "case", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the berkeley marina",
+  "sentence_length" : 135,
+  "mentionArg2" : {
+    "extent" : "berkeley",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E8-13",
+    "start" : 85,
+    "end" : 85
+  },
+  "relationID" : "CNN_ENG_20030415_183752.14-R8",
+  "mentionArg1" : {
+    "extent" : "the berkeley marina",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E7-12",
+    "start" : 84,
+    "end" : 86
+  },
+  "id" : "CNN_ENG_20030415_183752.14-R8-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "reporter : well , lou , one thing that the coroner has been able to determine is that the skeletal remains are those of one , an adult female , and two , the remains of the almost full-term baby boy. and of course , this is significant because laci peterson , when she disappeared from her modesto home , was 7 1/2 months pregnant. that was on christmas eve. her husband , scott , at the time said that he was fishing in the berkeley marina. now , in a strange twist in all of this , just yesterday separate from the skeletal remains i alluded to earlier a man hiking near the berkeley marina found a bone , and they are now looking at that as another possible lead in this case .",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "well", ",", "lou", ",", "one", "thing", "that", "the", "coroner", "has", "been", "able", "to", "determine", "is", "that", "the", "skeletal", "remains", "are", "those", "of", "one", ",", "an", "adult", "female", ",", "and", "two", ",", "the", "remains", "of", "the", "almost", "full-term", "baby", "boy.", "and", "of", "course", ",", "this", "is", "significant", "because", "laci", "peterson", ",", "when", "she", "disappeared", "from", "her", "modesto", "home", ",", "was", "7", "1/2", "months", "pregnant.", "that", "was", "on", "christmas", "eve.", "her", "husband", ",", "scott", ",", "at", "the", "time", "said", "that", "he", "was", "fishing", "in", "the", "berkeley", "marina.", "now", ",", "in", "a", "strange", "twist", "in", "all", "of", "this", ",", "just", "yesterday", "separate", "from", "the", "skeletal", "remains", "i", "alluded", "to", "earlier", "a", "man", "hiking", "near", "the", "berkeley", "marina", "found", "a", "bone", ",", "and", "they", "are", "now", "looking", "at", "that", "as", "another", "possible", "lead", "in", "this", "case", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the berkeley marina",
+  "sentence_length" : 135,
+  "mentionArg2" : {
+    "extent" : "berkeley",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E8-18",
+    "start" : 114,
+    "end" : 114
+  },
+  "relationID" : "CNN_ENG_20030415_183752.14-R8",
+  "mentionArg1" : {
+    "extent" : "the berkeley marina",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E7-17",
+    "start" : 113,
+    "end" : 115
+  },
+  "id" : "CNN_ENG_20030415_183752.14-R8-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "reporter : well , lou , one thing that the coroner has been able to determine is that the skeletal remains are those of one , an adult female , and two , the remains of the almost full-term baby boy. and of course , this is significant because laci peterson , when she disappeared from her modesto home , was 7 1/2 months pregnant. that was on christmas eve. her husband , scott , at the time said that he was fishing in the berkeley marina. now , in a strange twist in all of this , just yesterday separate from the skeletal remains i alluded to earlier a man hiking near the berkeley marina found a bone , and they are now looking at that as another possible lead in this case .",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "well", ",", "lou", ",", "one", "thing", "that", "the", "coroner", "has", "been", "able", "to", "determine", "is", "that", "the", "skeletal", "remains", "are", "those", "of", "one", ",", "an", "adult", "female", ",", "and", "two", ",", "the", "remains", "of", "the", "almost", "full-term", "baby", "boy.", "and", "of", "course", ",", "this", "is", "significant", "because", "laci", "peterson", ",", "when", "she", "disappeared", "from", "her", "modesto", "home", ",", "was", "7", "1/2", "months", "pregnant.", "that", "was", "on", "christmas", "eve.", "her", "husband", ",", "scott", ",", "at", "the", "time", "said", "that", "he", "was", "fishing", "in", "the", "berkeley", "marina.", "now", ",", "in", "a", "strange", "twist", "in", "all", "of", "this", ",", "just", "yesterday", "separate", "from", "the", "skeletal", "remains", "i", "alluded", "to", "earlier", "a", "man", "hiking", "near", "the", "berkeley", "marina", "found", "a", "bone", ",", "and", "they", "are", "now", "looking", "at", "that", "as", "another", "possible", "lead", "in", "this", "case", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a man hiking near the berkeley marina",
+  "sentence_length" : 135,
+  "mentionArg2" : {
+    "extent" : "the berkeley marina",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E7-17",
+    "start" : 113,
+    "end" : 115
+  },
+  "relationID" : "CNN_ENG_20030415_183752.14-R9",
+  "mentionArg1" : {
+    "extent" : "a man hiking near the berkeley marina",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E9-16",
+    "start" : 109,
+    "end" : 115
+  },
+  "id" : "CNN_ENG_20030415_183752.14-R9-1",
+  "relationSubType" : "Near",
+  "Sentence" : "reporter : well , lou , one thing that the coroner has been able to determine is that the skeletal remains are those of one , an adult female , and two , the remains of the almost full-term baby boy. and of course , this is significant because laci peterson , when she disappeared from her modesto home , was 7 1/2 months pregnant. that was on christmas eve. her husband , scott , at the time said that he was fishing in the berkeley marina. now , in a strange twist in all of this , just yesterday separate from the skeletal remains i alluded to earlier a man hiking near the berkeley marina found a bone , and they are now looking at that as another possible lead in this case .",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "well", ",", "lou", ",", "one", "thing", "that", "the", "coroner", "has", "been", "able", "to", "determine", "is", "that", "the", "skeletal", "remains", "are", "those", "of", "one", ",", "an", "adult", "female", ",", "and", "two", ",", "the", "remains", "of", "the", "almost", "full-term", "baby", "boy.", "and", "of", "course", ",", "this", "is", "significant", "because", "laci", "peterson", ",", "when", "she", "disappeared", "from", "her", "modesto", "home", ",", "was", "7", "1/2", "months", "pregnant.", "that", "was", "on", "christmas", "eve.", "her", "husband", ",", "scott", ",", "at", "the", "time", "said", "that", "he", "was", "fishing", "in", "the", "berkeley", "marina.", "now", ",", "in", "a", "strange", "twist", "in", "all", "of", "this", ",", "just", "yesterday", "separate", "from", "the", "skeletal", "remains", "i", "alluded", "to", "earlier", "a", "man", "hiking", "near", "the", "berkeley", "marina", "found", "a", "bone", ",", "and", "they", "are", "now", "looking", "at", "that", "as", "another", "possible", "lead", "in", "this", "case", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "this person came across the bone at the shore",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the shore",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E11-21",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "CNN_ENG_20030415_183752.14-R11",
+  "mentionArg1" : {
+    "extent" : "this person",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E9-20",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_ENG_20030415_183752.14-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "this person came across the bone at the shore. he brought it home and contacted the authorities , and we took possession of it .",
+  "sentence_index" : 2,
+  "Tokens" : [ "this", "person", "came", "across", "the", "bone", "at", "the", "shore.", "he", "brought", "it", "home", "and", "contacted", "the", "authorities", ",", "and", "we", "took", "possession", "of", "it", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "modesto police",
+  "sentence_length" : 244,
+  "mentionArg2" : {
+    "extent" : "modesto",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E3-58",
+    "start" : 201,
+    "end" : 201
+  },
+  "relationID" : "CNN_ENG_20030415_183752.14-R12",
+  "mentionArg1" : {
+    "extent" : "modesto police",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E22-57",
+    "start" : 201,
+    "end" : 202
+  },
+  "id" : "CNN_ENG_20030415_183752.14-R12-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "reporter : and yet another reason why that bone could be a key link , there are reports that have surfaced that in terms of the female remains that were found the skeleton was not completely intact. now this case is also taking on a rather , we should say , almost a tv episodic forensic pathology angle because they 're going to bring in an expert on what 's called alufating decay , and basically this person is going to come in here and look at the body. this is in the damage aspect of it. and they say these experts will be able to tell how long the body had been in there and if the remains of the almost full-term baby boy were inside the female 's remains at the time of death. also , the coroner could know right now but is not saying if there was some sort of trauma to either of these skeletons , for example , if they could see the bone compromised in some way they could tell if there had been a stab or a shooting. we may learn a lot more on this in just 15 minutes. that 's because modesto police have scheduled a news conference and while they may not say much at all they could also drop some major bomb shells , lou. reporting live from martinez , california , i 'm paul vercammen , now back to you .",
+  "sentence_index" : 4,
+  "Tokens" : [ "reporter", ":", "and", "yet", "another", "reason", "why", "that", "bone", "could", "be", "a", "key", "link", ",", "there", "are", "reports", "that", "have", "surfaced", "that", "in", "terms", "of", "the", "female", "remains", "that", "were", "found", "the", "skeleton", "was", "not", "completely", "intact.", "now", "this", "case", "is", "also", "taking", "on", "a", "rather", ",", "we", "should", "say", ",", "almost", "a", "tv", "episodic", "forensic", "pathology", "angle", "because", "they", "'re", "going", "to", "bring", "in", "an", "expert", "on", "what", "'s", "called", "alufating", "decay", ",", "and", "basically", "this", "person", "is", "going", "to", "come", "in", "here", "and", "look", "at", "the", "body.", "this", "is", "in", "the", "damage", "aspect", "of", "it.", "and", "they", "say", "these", "experts", "will", "be", "able", "to", "tell", "how", "long", "the", "body", "had", "been", "in", "there", "and", "if", "the", "remains", "of", "the", "almost", "full-term", "baby", "boy", "were", "inside", "the", "female", "'s", "remains", "at", "the", "time", "of", "death.", "also", ",", "the", "coroner", "could", "know", "right", "now", "but", "is", "not", "saying", "if", "there", "was", "some", "sort", "of", "trauma", "to", "either", "of", "these", "skeletons", ",", "for", "example", ",", "if", "they", "could", "see", "the", "bone", "compromised", "in", "some", "way", "they", "could", "tell", "if", "there", "had", "been", "a", "stab", "or", "a", "shooting.", "we", "may", "learn", "a", "lot", "more", "on", "this", "in", "just", "15", "minutes.", "that", "'s", "because", "modesto", "police", "have", "scheduled", "a", "news", "conference", "and", "while", "they", "may", "not", "say", "much", "at", "all", "they", "could", "also", "drop", "some", "major", "bomb", "shells", ",", "lou.", "reporting", "live", "from", "martinez", ",", "california", ",", "i", "'m", "paul", "vercammen", ",", "now", "back", "to", "you", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the modesto, california police",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "modesto, california",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E3-85",
+    "start" : 14,
+    "end" : 16
+  },
+  "relationID" : "CNN_ENG_20030415_183752.14-R12",
+  "mentionArg1" : {
+    "extent" : "modesto, california police",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E22-84",
+    "start" : 14,
+    "end" : 17
+  },
+  "id" : "CNN_ENG_20030415_183752.14-R12-2",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "okay. paul vercammen , thank you very much. as paul just reported , the modesto , california police department will be holding a news conference just a few minutes from now , and cnn of course will be carrying that news conference live. stay with us .",
+  "sentence_index" : 7,
+  "Tokens" : [ "okay.", "paul", "vercammen", ",", "thank", "you", "very", "much.", "as", "paul", "just", "reported", ",", "the", "modesto", ",", "california", "police", "department", "will", "be", "holding", "a", "news", "conference", "just", "a", "few", "minutes", "from", "now", ",", "and", "cnn", "of", "course", "will", "be", "carrying", "that", "news", "conference", "live.", "stay", "with", "us", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the modesto, california police department",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "modesto, california police",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E22-84",
+    "start" : 14,
+    "end" : 17
+  },
+  "relationID" : "CNN_ENG_20030415_183752.14-R15",
+  "mentionArg1" : {
+    "extent" : "the modesto, california police department",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E22-83",
+    "start" : 13,
+    "end" : 18
+  },
+  "id" : "CNN_ENG_20030415_183752.14-R15-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "okay. paul vercammen , thank you very much. as paul just reported , the modesto , california police department will be holding a news conference just a few minutes from now , and cnn of course will be carrying that news conference live. stay with us .",
+  "sentence_index" : 7,
+  "Tokens" : [ "okay.", "paul", "vercammen", ",", "thank", "you", "very", "much.", "as", "paul", "just", "reported", ",", "the", "modesto", ",", "california", "police", "department", "will", "be", "holding", "a", "news", "conference", "just", "a", "few", "minutes", "from", "now", ",", "and", "cnn", "of", "course", "will", "be", "carrying", "that", "news", "conference", "live.", "stay", "with", "us", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "modesto, california",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "california",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E37-86",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "CNN_ENG_20030415_183752.14-R17",
+  "mentionArg1" : {
+    "extent" : "modesto, california",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E3-85",
+    "start" : 14,
+    "end" : 16
+  },
+  "id" : "CNN_ENG_20030415_183752.14-R17-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "okay. paul vercammen , thank you very much. as paul just reported , the modesto , california police department will be holding a news conference just a few minutes from now , and cnn of course will be carrying that news conference live. stay with us .",
+  "sentence_index" : 7,
+  "Tokens" : [ "okay.", "paul", "vercammen", ",", "thank", "you", "very", "much.", "as", "paul", "just", "reported", ",", "the", "modesto", ",", "california", "police", "department", "will", "be", "holding", "a", "news", "conference", "just", "a", "few", "minutes", "from", "now", ",", "and", "cnn", "of", "course", "will", "be", "carrying", "that", "news", "conference", "live.", "stay", "with", "us", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the remains of two bodies recovered near san francisco bay yesterday",
+  "sentence_length" : 65,
+  "mentionArg2" : {
+    "extent" : "san francisco bay",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E30-91",
+    "start" : 10,
+    "end" : 12
+  },
+  "relationID" : "CNN_ENG_20030415_183752.14-R18",
+  "mentionArg1" : {
+    "extent" : "the remains of two bodies recovered near san francisco bay yesterday",
+    "argMentionid" : "CNN_ENG_20030415_183752.14-E1-90",
+    "start" : 3,
+    "end" : 13
+  },
+  "id" : "CNN_ENG_20030415_183752.14-R18-1",
+  "relationSubType" : "Near",
+  "Sentence" : "the coroner examining the remains of two bodies recovered near san francisco bay yesterday was unable to determine the cause of death. police are now considering the possibility that the remains are those of laci peterson and her unborn child. peterson disappeared on christmas eve of last year. paul vercammen joins me now from martinez , california , with the latest for us. paul ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "the", "coroner", "examining", "the", "remains", "of", "two", "bodies", "recovered", "near", "san", "francisco", "bay", "yesterday", "was", "unable", "to", "determine", "the", "cause", "of", "death.", "police", "are", "now", "considering", "the", "possibility", "that", "the", "remains", "are", "those", "of", "laci", "peterson", "and", "her", "unborn", "child.", "peterson", "disappeared", "on", "christmas", "eve", "of", "last", "year.", "paul", "vercammen", "joins", "me", "now", "from", "martinez", ",", "california", ",", "with", "the", "latest", "for", "us.", "paul", "?" ]
+} ]

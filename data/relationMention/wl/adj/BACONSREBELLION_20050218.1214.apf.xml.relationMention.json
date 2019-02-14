@@ -1,0 +1,375 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a data center in Richmond",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "Richmond",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E34-52",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "BACONSREBELLION_20050218.1214-R1",
+  "mentionArg1" : {
+    "extent" : "a data center",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E33-51",
+    "start" : 10,
+    "end" : 12
+  },
+  "id" : "BACONSREBELLION_20050218.1214-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Will Vehrs 2005-02-18T12:14:00 Virginia is apparently going to be build a data center in Richmond , a back-up data center , and a help desk / call center as a follow-on to the creation of VITA , the Virginia Information Technology Agency .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Will", "Vehrs", "2005-02-18T12:14:00", "Virginia", "is", "apparently", "going", "to", "be", "build", "a", "data", "center", "in", "Richmond", ",", "a", "back-up", "data", "center", ",", "and", "a", "help", "desk", "/", "call", "center", "as", "a", "follow-on", "to", "the", "creation", "of", "VITA", ",", "the", "Virginia", "Information", "Technology", "Agency", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Virginia is apparently going to be build a data center in Richmond, a back-up data center, and a help desk/call center as a follow-on to the creation of VITA, the Virginia Information Technology Agency",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "a data center",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E33-51",
+    "start" : 10,
+    "end" : 12
+  },
+  "relationID" : "BACONSREBELLION_20050218.1214-R2",
+  "mentionArg1" : {
+    "extent" : "Virginia",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E12-1",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "BACONSREBELLION_20050218.1214-R2-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Will Vehrs 2005-02-18T12:14:00 Virginia is apparently going to be build a data center in Richmond , a back-up data center , and a help desk / call center as a follow-on to the creation of VITA , the Virginia Information Technology Agency .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Will", "Vehrs", "2005-02-18T12:14:00", "Virginia", "is", "apparently", "going", "to", "be", "build", "a", "data", "center", "in", "Richmond", ",", "a", "back-up", "data", "center", ",", "and", "a", "help", "desk", "/", "call", "center", "as", "a", "follow-on", "to", "the", "creation", "of", "VITA", ",", "the", "Virginia", "Information", "Technology", "Agency", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Virginia is apparently going to be build a data center in Richmond, a back-up data center, and a help desk/call center as a follow-on to the creation of VITA, the Virginia Information Technology Agency",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "a back-up data center",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E35-54",
+    "start" : 16,
+    "end" : 19
+  },
+  "relationID" : "BACONSREBELLION_20050218.1214-R3",
+  "mentionArg1" : {
+    "extent" : "Virginia",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E12-1",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "BACONSREBELLION_20050218.1214-R3-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Will Vehrs 2005-02-18T12:14:00 Virginia is apparently going to be build a data center in Richmond , a back-up data center , and a help desk / call center as a follow-on to the creation of VITA , the Virginia Information Technology Agency .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Will", "Vehrs", "2005-02-18T12:14:00", "Virginia", "is", "apparently", "going", "to", "be", "build", "a", "data", "center", "in", "Richmond", ",", "a", "back-up", "data", "center", ",", "and", "a", "help", "desk", "/", "call", "center", "as", "a", "follow-on", "to", "the", "creation", "of", "VITA", ",", "the", "Virginia", "Information", "Technology", "Agency", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Virginia is apparently going to be build a data center in Richmond, a back-up data center, and a help desk/call center as a follow-on to the creation of VITA, the Virginia Information Technology Agency",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "a help desk/call center",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E37-56",
+    "start" : 22,
+    "end" : 27
+  },
+  "relationID" : "BACONSREBELLION_20050218.1214-R4",
+  "mentionArg1" : {
+    "extent" : "Virginia",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E12-1",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "BACONSREBELLION_20050218.1214-R4-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Will Vehrs 2005-02-18T12:14:00 Virginia is apparently going to be build a data center in Richmond , a back-up data center , and a help desk / call center as a follow-on to the creation of VITA , the Virginia Information Technology Agency .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Will", "Vehrs", "2005-02-18T12:14:00", "Virginia", "is", "apparently", "going", "to", "be", "build", "a", "data", "center", "in", "Richmond", ",", "a", "back-up", "data", "center", ",", "and", "a", "help", "desk", "/", "call", "center", "as", "a", "follow-on", "to", "the", "creation", "of", "VITA", ",", "the", "Virginia", "Information", "Technology", "Agency", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "The Bristol Herald Courier editorial page is urging that the back-up center be built in Wise County to take advantage of UVA-Wise",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Wise County",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E43-63",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "BACONSREBELLION_20050218.1214-R5",
+  "mentionArg1" : {
+    "extent" : "the back-up center",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E35-62",
+    "start" : 9,
+    "end" : 11
+  },
+  "id" : "BACONSREBELLION_20050218.1214-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The Bristol Herald Courier editorial page is urging that the back-up center be built in Wise County to take advantage of UVA-Wise .",
+  "sentence_index" : 1,
+  "Tokens" : [ "The", "Bristol", "Herald", "Courier", "editorial", "page", "is", "urging", "that", "the", "back-up", "center", "be", "built", "in", "Wise", "County", "to", "take", "advantage", "of", "UVA-Wise", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a new university in Southside",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Southside",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E6-11",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "BACONSREBELLION_20050218.1214-R6",
+  "mentionArg1" : {
+    "extent" : "a new university in Southside",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E3-5",
+    "start" : 19,
+    "end" : 23
+  },
+  "id" : "BACONSREBELLION_20050218.1214-R6-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "SCHEV , of course , told the General Assembly that UVA-Wise did n't generate any economic development , so a new university in Southside wouldn't , either .",
+  "sentence_index" : 2,
+  "Tokens" : [ "SCHEV", ",", "of", "course", ",", "told", "the", "General", "Assembly", "that", "UVA-Wise", "did", "n't", "generate", "any", "economic", "development", ",", "so", "a", "new", "university", "in", "Southside", "wouldn't", ",", "either", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "I believe that any new state-wide service facilities should be located in either Southside or Southwest",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Southside",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E6-15",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "BACONSREBELLION_20050218.1214-R7",
+  "mentionArg1" : {
+    "extent" : "any new state-wide service facilities",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E9-14",
+    "start" : 3,
+    "end" : 7
+  },
+  "id" : "BACONSREBELLION_20050218.1214-R7-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "I believe that any new state-wide service facilities should be located in either Southside or Southwest .",
+  "sentence_index" : 5,
+  "Tokens" : [ "I", "believe", "that", "any", "new", "state-wide", "service", "facilities", "should", "be", "located", "in", "either", "Southside", "or", "Southwest", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "I believe that any new state-wide service facilities should be located in either Southside or Southwest",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Southwest",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E10-16",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "BACONSREBELLION_20050218.1214-R8",
+  "mentionArg1" : {
+    "extent" : "any new state-wide service facilities",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E9-14",
+    "start" : 3,
+    "end" : 7
+  },
+  "id" : "BACONSREBELLION_20050218.1214-R8-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "I believe that any new state-wide service facilities should be located in either Southside or Southwest .",
+  "sentence_index" : 5,
+  "Tokens" : [ "I", "believe", "that", "any", "new", "state-wide", "service", "facilities", "should", "be", "located", "in", "either", "Southside", "or", "Southwest", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "all state procurement officials",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "state",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E12-21",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "BACONSREBELLION_20050218.1214-R9",
+  "mentionArg1" : {
+    "extent" : "all state procurement officials",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E11-20",
+    "start" : 5,
+    "end" : 8
+  },
+  "id" : "BACONSREBELLION_20050218.1214-R9-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "If we can tie up all state procurement officials and all vendors in a quest to help under-represented small , minority , and woman-owned businesses , we should commit all new state facility spending in a quest to help our economically disadvantaged regions .",
+  "sentence_index" : 6,
+  "Tokens" : [ "If", "we", "can", "tie", "up", "all", "state", "procurement", "officials", "and", "all", "vendors", "in", "a", "quest", "to", "help", "under-represented", "small", ",", "minority", ",", "and", "woman-owned", "businesses", ",", "we", "should", "commit", "all", "new", "state", "facility", "spending", "in", "a", "quest", "to", "help", "our", "economically", "disadvantaged", "regions", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "under-represented small, minority, and woman-owned businesses",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "under-represented small, minority, and woman-owned businesses",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E42-55",
+    "start" : 17,
+    "end" : 24
+  },
+  "relationID" : "BACONSREBELLION_20050218.1214-R10",
+  "mentionArg1" : {
+    "extent" : "minority",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E16-25",
+    "start" : 20,
+    "end" : 20
+  },
+  "id" : "BACONSREBELLION_20050218.1214-R10-1",
+  "relationSubType" : "Ownership",
+  "Sentence" : "If we can tie up all state procurement officials and all vendors in a quest to help under-represented small , minority , and woman-owned businesses , we should commit all new state facility spending in a quest to help our economically disadvantaged regions .",
+  "sentence_index" : 6,
+  "Tokens" : [ "If", "we", "can", "tie", "up", "all", "state", "procurement", "officials", "and", "all", "vendors", "in", "a", "quest", "to", "help", "under-represented", "small", ",", "minority", ",", "and", "woman-owned", "businesses", ",", "we", "should", "commit", "all", "new", "state", "facility", "spending", "in", "a", "quest", "to", "help", "our", "economically", "disadvantaged", "regions", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "under-represented small, minority, and woman-owned businesses",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "under-represented small, minority, and woman-owned businesses",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E42-55",
+    "start" : 17,
+    "end" : 24
+  },
+  "relationID" : "BACONSREBELLION_20050218.1214-R11",
+  "mentionArg1" : {
+    "extent" : "woman",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E14-22",
+    "start" : 23,
+    "end" : 23
+  },
+  "id" : "BACONSREBELLION_20050218.1214-R11-1",
+  "relationSubType" : "Ownership",
+  "Sentence" : "If we can tie up all state procurement officials and all vendors in a quest to help under-represented small , minority , and woman-owned businesses , we should commit all new state facility spending in a quest to help our economically disadvantaged regions .",
+  "sentence_index" : 6,
+  "Tokens" : [ "If", "we", "can", "tie", "up", "all", "state", "procurement", "officials", "and", "all", "vendors", "in", "a", "quest", "to", "help", "under-represented", "small", ",", "minority", ",", "and", "woman-owned", "businesses", ",", "we", "should", "commit", "all", "new", "state", "facility", "spending", "in", "a", "quest", "to", "help", "our", "economically", "disadvantaged", "regions", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "our economically disadvantaged regions",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E12-24",
+    "start" : 39,
+    "end" : 39
+  },
+  "relationID" : "BACONSREBELLION_20050218.1214-R12",
+  "mentionArg1" : {
+    "extent" : "our economically disadvantaged regions",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E15-23",
+    "start" : 39,
+    "end" : 42
+  },
+  "id" : "BACONSREBELLION_20050218.1214-R12-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "If we can tie up all state procurement officials and all vendors in a quest to help under-represented small , minority , and woman-owned businesses , we should commit all new state facility spending in a quest to help our economically disadvantaged regions .",
+  "sentence_index" : 6,
+  "Tokens" : [ "If", "we", "can", "tie", "up", "all", "state", "procurement", "officials", "and", "all", "vendors", "in", "a", "quest", "to", "help", "under-represented", "small", ",", "minority", ",", "and", "woman-owned", "businesses", ",", "we", "should", "commit", "all", "new", "state", "facility", "spending", "in", "a", "quest", "to", "help", "our", "economically", "disadvantaged", "regions", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "our profligate Republican Delegates",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E12-33",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "BACONSREBELLION_20050218.1214-R13",
+  "mentionArg1" : {
+    "extent" : "Republican",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E23-32",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "BACONSREBELLION_20050218.1214-R13-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Will Vehrs ???? - ?? - ?? T12:42:00 Let 's name it after one of our profligate Republican Delegates !",
+  "sentence_index" : 9,
+  "Tokens" : [ "Will", "Vehrs", "????", "-", "??", "-", "??", "T12:42:00", "Let", "'s", "name", "it", "after", "one", "of", "our", "profligate", "Republican", "Delegates", "!" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our profligate Republican Delegates",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Republican",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E23-32",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "BACONSREBELLION_20050218.1214-R14",
+  "mentionArg1" : {
+    "extent" : "our profligate Republican Delegates",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E22-31",
+    "start" : 15,
+    "end" : 18
+  },
+  "id" : "BACONSREBELLION_20050218.1214-R14-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Will Vehrs ???? - ?? - ?? T12:42:00 Let 's name it after one of our profligate Republican Delegates !",
+  "sentence_index" : 9,
+  "Tokens" : [ "Will", "Vehrs", "????", "-", "??", "-", "??", "T12:42:00", "Let", "'s", "name", "it", "after", "one", "of", "our", "profligate", "Republican", "Delegates", "!" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Barnie, have you ever been to the National Conservation and Training Center near Shepherdstown, WVA",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "the National Conservation and Training Center near Shepherdstown, WVA",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E25-36",
+    "start" : 7,
+    "end" : 16
+  },
+  "relationID" : "BACONSREBELLION_20050218.1214-R15",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E17-35",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "BACONSREBELLION_20050218.1214-R15-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Barnie , have you ever been to the National Conservation and Training Center near Shepherdstown , WVA ?",
+  "sentence_index" : 10,
+  "Tokens" : [ "Barnie", ",", "have", "you", "ever", "been", "to", "the", "National", "Conservation", "and", "Training", "Center", "near", "Shepherdstown", ",", "WVA", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the National Conservation and Training Center near Shepherdstown, WVA",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "Shepherdstown, WVA",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E26-37",
+    "start" : 14,
+    "end" : 16
+  },
+  "relationID" : "BACONSREBELLION_20050218.1214-R16",
+  "mentionArg1" : {
+    "extent" : "the National Conservation and Training Center near Shepherdstown, WVA",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E25-36",
+    "start" : 7,
+    "end" : 16
+  },
+  "id" : "BACONSREBELLION_20050218.1214-R16-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Barnie , have you ever been to the National Conservation and Training Center near Shepherdstown , WVA ?",
+  "sentence_index" : 10,
+  "Tokens" : [ "Barnie", ",", "have", "you", "ever", "been", "to", "the", "National", "Conservation", "and", "Training", "Center", "near", "Shepherdstown", ",", "WVA", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "He'll have the Washington Monument in West Virginia, if he can just figure out how to haul it",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "West Virginia",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E27-48",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "BACONSREBELLION_20050218.1214-R17",
+  "mentionArg1" : {
+    "extent" : "the Washington Monument",
+    "argMentionid" : "BACONSREBELLION_20050218.1214-E32-47",
+    "start" : 11,
+    "end" : 13
+  },
+  "id" : "BACONSREBELLION_20050218.1214-R17-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Barnie Day ???? - ?? - ?? T13:20:00 He 'll have the Washington Monument in West Virginia , if he can just figure out how to haul it .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Barnie", "Day", "????", "-", "??", "-", "??", "T13:20:00", "He", "'ll", "have", "the", "Washington", "Monument", "in", "West", "Virginia", ",", "if", "he", "can", "just", "figure", "out", "how", "to", "haul", "it", "." ]
+} ]

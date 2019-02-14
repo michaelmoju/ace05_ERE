@@ -1,0 +1,375 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "EL SEGUNDO, California",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "California",
+    "argMentionid" : "APW_ENG_20030419.0358-E17-41",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030419.0358-R1",
+  "mentionArg1" : {
+    "extent" : "EL SEGUNDO, California",
+    "argMentionid" : "APW_ENG_20030419.0358-E16-1",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "APW_ENG_20030419.0358-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "EL SEGUNDO , California ( AP ) Shaquille O'Neal 's wife gave birth to a baby boy early Saturday , eliminating any chance that the Los Angeles Lakers center might skip a playoff game to witness the birth .",
+  "sentence_index" : 0,
+  "Tokens" : [ "EL", "SEGUNDO", ",", "California", "(", "AP", ")", "Shaquille", "O'Neal", "'s", "wife", "gave", "birth", "to", "a", "baby", "boy", "early", "Saturday", ",", "eliminating", "any", "chance", "that", "the", "Los", "Angeles", "Lakers", "center", "might", "skip", "a", "playoff", "game", "to", "witness", "the", "birth", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Shaquille O'Neal's wife",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "Shaquille O'Neal's wife",
+    "argMentionid" : "APW_ENG_20030419.0358-E20-44",
+    "start" : 7,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030419.0358-R2",
+  "mentionArg1" : {
+    "extent" : "Shaquille O'Neal",
+    "argMentionid" : "APW_ENG_20030419.0358-E19-43",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030419.0358-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "EL SEGUNDO , California ( AP ) Shaquille O'Neal 's wife gave birth to a baby boy early Saturday , eliminating any chance that the Los Angeles Lakers center might skip a playoff game to witness the birth .",
+  "sentence_index" : 0,
+  "Tokens" : [ "EL", "SEGUNDO", ",", "California", "(", "AP", ")", "Shaquille", "O'Neal", "'s", "wife", "gave", "birth", "to", "a", "baby", "boy", "early", "Saturday", ",", "eliminating", "any", "chance", "that", "the", "Los", "Angeles", "Lakers", "center", "might", "skip", "a", "playoff", "game", "to", "witness", "the", "birth", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Shaquille O'Neal's wife gave birth to a baby boy early Saturday, eliminating any chance that the Los Angeles Lakers center might skip a playoff game to witness the birth",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "a baby boy",
+    "argMentionid" : "APW_ENG_20030419.0358-E21-45",
+    "start" : 14,
+    "end" : 16
+  },
+  "relationID" : "APW_ENG_20030419.0358-R3",
+  "mentionArg1" : {
+    "extent" : "Shaquille O'Neal's wife",
+    "argMentionid" : "APW_ENG_20030419.0358-E20-44",
+    "start" : 7,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030419.0358-R3-1",
+  "relationSubType" : "Family",
+  "Sentence" : "EL SEGUNDO , California ( AP ) Shaquille O'Neal 's wife gave birth to a baby boy early Saturday , eliminating any chance that the Los Angeles Lakers center might skip a playoff game to witness the birth .",
+  "sentence_index" : 0,
+  "Tokens" : [ "EL", "SEGUNDO", ",", "California", "(", "AP", ")", "Shaquille", "O'Neal", "'s", "wife", "gave", "birth", "to", "a", "baby", "boy", "early", "Saturday", ",", "eliminating", "any", "chance", "that", "the", "Los", "Angeles", "Lakers", "center", "might", "skip", "a", "playoff", "game", "to", "witness", "the", "birth", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Shaunie O'Neal gave birth to the couple's third child at 1:52 a.m. at a Los Angeles-area hospital, team spokesman John Black said",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "the couple's third child",
+    "argMentionid" : "APW_ENG_20030419.0358-E21-50",
+    "start" : 5,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030419.0358-R3",
+  "mentionArg1" : {
+    "extent" : "Shaunie O'Neal",
+    "argMentionid" : "APW_ENG_20030419.0358-E20-49",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030419.0358-R3-2",
+  "relationSubType" : "Family",
+  "Sentence" : "Shaunie O'Neal gave birth to the couple 's third child at 1:52 a . m. at a Los Angeles-area hospital , team spokesman John Black said .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Shaunie", "O'Neal", "gave", "birth", "to", "the", "couple", "'s", "third", "child", "at", "1:52", "a", ".", "m.", "at", "a", "Los", "Angeles-area", "hospital", ",", "team", "spokesman", "John", "Black", "said", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Los Angeles Lakers center",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "Los Angeles Lakers",
+    "argMentionid" : "APW_ENG_20030419.0358-E3-48",
+    "start" : 25,
+    "end" : 27
+  },
+  "relationID" : "APW_ENG_20030419.0358-R4",
+  "mentionArg1" : {
+    "extent" : "the Los Angeles Lakers center",
+    "argMentionid" : "APW_ENG_20030419.0358-E19-46",
+    "start" : 24,
+    "end" : 28
+  },
+  "id" : "APW_ENG_20030419.0358-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "EL SEGUNDO , California ( AP ) Shaquille O'Neal 's wife gave birth to a baby boy early Saturday , eliminating any chance that the Los Angeles Lakers center might skip a playoff game to witness the birth .",
+  "sentence_index" : 0,
+  "Tokens" : [ "EL", "SEGUNDO", ",", "California", "(", "AP", ")", "Shaquille", "O'Neal", "'s", "wife", "gave", "birth", "to", "a", "baby", "boy", "early", "Saturday", ",", "eliminating", "any", "chance", "that", "the", "Los", "Angeles", "Lakers", "center", "might", "skip", "a", "playoff", "game", "to", "witness", "the", "birth", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the couple's third child",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "the couple's third child",
+    "argMentionid" : "APW_ENG_20030419.0358-E21-50",
+    "start" : 5,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030419.0358-R5",
+  "mentionArg1" : {
+    "extent" : "the couple",
+    "argMentionid" : "APW_ENG_20030419.0358-E24-51",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030419.0358-R5-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Shaunie O'Neal gave birth to the couple 's third child at 1:52 a . m. at a Los Angeles-area hospital , team spokesman John Black said .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Shaunie", "O'Neal", "gave", "birth", "to", "the", "couple", "'s", "third", "child", "at", "1:52", "a", ".", "m.", "at", "a", "Los", "Angeles-area", "hospital", ",", "team", "spokesman", "John", "Black", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a Los Angeles-area hospital",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Los Angeles-area",
+    "argMentionid" : "APW_ENG_20030419.0358-E26-53",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030419.0358-R6",
+  "mentionArg1" : {
+    "extent" : "a Los Angeles-area hospital",
+    "argMentionid" : "APW_ENG_20030419.0358-E25-52",
+    "start" : 16,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030419.0358-R6-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Shaunie O'Neal gave birth to the couple 's third child at 1:52 a . m. at a Los Angeles-area hospital , team spokesman John Black said .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Shaunie", "O'Neal", "gave", "birth", "to", "the", "couple", "'s", "third", "child", "at", "1:52", "a", ".", "m.", "at", "a", "Los", "Angeles-area", "hospital", ",", "team", "spokesman", "John", "Black", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Los Angeles-area",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Los Angeles-area",
+    "argMentionid" : "APW_ENG_20030419.0358-E26-53",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030419.0358-R7",
+  "mentionArg1" : {
+    "extent" : "Los Angeles",
+    "argMentionid" : "APW_ENG_20030419.0358-E27-54",
+    "start" : 17,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030419.0358-R7-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Shaunie O'Neal gave birth to the couple 's third child at 1:52 a . m. at a Los Angeles-area hospital , team spokesman John Black said .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Shaunie", "O'Neal", "gave", "birth", "to", "the", "couple", "'s", "third", "child", "at", "1:52", "a", ".", "m.", "at", "a", "Los", "Angeles-area", "hospital", ",", "team", "spokesman", "John", "Black", "said", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "team spokesman",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "team",
+    "argMentionid" : "APW_ENG_20030419.0358-E3-4",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "APW_ENG_20030419.0358-R8",
+  "mentionArg1" : {
+    "extent" : "team spokesman",
+    "argMentionid" : "APW_ENG_20030419.0358-E1-3",
+    "start" : 21,
+    "end" : 22
+  },
+  "id" : "APW_ENG_20030419.0358-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Shaunie O'Neal gave birth to the couple 's third child at 1:52 a . m. at a Los Angeles-area hospital , team spokesman John Black said .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Shaunie", "O'Neal", "gave", "birth", "to", "the", "couple", "'s", "third", "child", "at", "1:52", "a", ".", "m.", "at", "a", "Los", "Angeles-area", "hospital", ",", "team", "spokesman", "John", "Black", "said", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Shaunie O'Neal gave birth to the couple's third child at 1:52 a.m. at a Los Angeles-area hospital, team spokesman John Black said",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "a Los Angeles-area hospital",
+    "argMentionid" : "APW_ENG_20030419.0358-E25-52",
+    "start" : 16,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030419.0358-R9",
+  "mentionArg1" : {
+    "extent" : "Shaunie O'Neal",
+    "argMentionid" : "APW_ENG_20030419.0358-E20-49",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030419.0358-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Shaunie O'Neal gave birth to the couple 's third child at 1:52 a . m. at a Los Angeles-area hospital , team spokesman John Black said .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Shaunie", "O'Neal", "gave", "birth", "to", "the", "couple", "'s", "third", "child", "at", "1:52", "a", ".", "m.", "at", "a", "Los", "Angeles-area", "hospital", ",", "team", "spokesman", "John", "Black", "said", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Shaunie O'Neal gave birth to the couple's third child at 1:52 a.m. at a Los Angeles-area hospital, team spokesman John Black said",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "a Los Angeles-area hospital",
+    "argMentionid" : "APW_ENG_20030419.0358-E25-52",
+    "start" : 16,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030419.0358-R10",
+  "mentionArg1" : {
+    "extent" : "the couple's third child",
+    "argMentionid" : "APW_ENG_20030419.0358-E21-50",
+    "start" : 5,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030419.0358-R10-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Shaunie O'Neal gave birth to the couple 's third child at 1:52 a . m. at a Los Angeles-area hospital , team spokesman John Black said .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Shaunie", "O'Neal", "gave", "birth", "to", "the", "couple", "'s", "third", "child", "at", "1:52", "a", ".", "m.", "at", "a", "Los", "Angeles-area", "hospital", ",", "team", "spokesman", "John", "Black", "said", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "He was scheduled to fly on his own to Minneapolis late Saturday for Sunday's opening game of a first-round playoff series against the Minnesota Timberwolves",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Minneapolis",
+    "argMentionid" : "APW_ENG_20030419.0358-E4-10",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030419.0358-R11",
+  "mentionArg1" : {
+    "extent" : "He",
+    "argMentionid" : "APW_ENG_20030419.0358-E19-8",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "APW_ENG_20030419.0358-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "He was scheduled to fly on his own to Minneapolis late Saturday for Sunday 's opening game of a first-round playoff series against the Minnesota Timberwolves .",
+  "sentence_index" : 4,
+  "Tokens" : [ "He", "was", "scheduled", "to", "fly", "on", "his", "own", "to", "Minneapolis", "late", "Saturday", "for", "Sunday", "'s", "opening", "game", "of", "a", "first-round", "playoff", "series", "against", "the", "Minnesota", "Timberwolves", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Hopefully he can get to Minneapolis, get some rest and be ready to play the first game",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Minneapolis",
+    "argMentionid" : "APW_ENG_20030419.0358-E4-17",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030419.0358-R11",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "APW_ENG_20030419.0358-E19-16",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030419.0358-R11-2",
+  "relationSubType" : "Located",
+  "Sentence" : "`` Hopefully he can get to Minneapolis , get some rest and be ready to play the first game .",
+  "sentence_index" : 6,
+  "Tokens" : [ "``", "Hopefully", "he", "can", "get", "to", "Minneapolis", ",", "get", "some", "rest", "and", "be", "ready", "to", "play", "the", "first", "game", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Teammate Kobe Bryant said he would not be surprised if O'Neal had a big game Sunday despite his expected late arrival in Minneapolis",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Minneapolis",
+    "argMentionid" : "APW_ENG_20030419.0358-E4-28",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "APW_ENG_20030419.0358-R11",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "APW_ENG_20030419.0358-E19-27",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030419.0358-R11-3",
+  "relationSubType" : "Located",
+  "Sentence" : "Teammate Kobe Bryant said he would not be surprised if O'Neal had a big game Sunday despite his expected late arrival in Minneapolis .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Teammate", "Kobe", "Bryant", "said", "he", "would", "not", "be", "surprised", "if", "O'Neal", "had", "a", "big", "game", "Sunday", "despite", "his", "expected", "late", "arrival", "in", "Minneapolis", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Teammate Kobe Bryant said he would not be surprised if O'Neal had a big game Sunday despite his expected late arrival in Minneapolis",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "O'Neal",
+    "argMentionid" : "APW_ENG_20030419.0358-E19-26",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030419.0358-R12",
+  "mentionArg1" : {
+    "extent" : "Teammate Kobe Bryant",
+    "argMentionid" : "APW_ENG_20030419.0358-E9-23",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030419.0358-R12-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Teammate Kobe Bryant said he would not be surprised if O'Neal had a big game Sunday despite his expected late arrival in Minneapolis .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Teammate", "Kobe", "Bryant", "said", "he", "would", "not", "be", "surprised", "if", "O'Neal", "had", "a", "big", "game", "Sunday", "despite", "his", "expected", "late", "arrival", "in", "Minneapolis", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "You just roll off the adrenaline,'' said Bryant, who scored 48 points in a 2001 playoff game at Sacramento after leaving the team to attend to a personal matter",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "Sacramento",
+    "argMentionid" : "APW_ENG_20030419.0358-E12-32",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "APW_ENG_20030419.0358-R13",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "APW_ENG_20030419.0358-E9-30",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030419.0358-R13-1",
+  "relationSubType" : "Located",
+  "Sentence" : "`` You just roll off the adrenaline , '' said Bryant , who scored 48 points in a 2001 playoff game at Sacramento after leaving the team to attend to a personal matter .",
+  "sentence_index" : 11,
+  "Tokens" : [ "``", "You", "just", "roll", "off", "the", "adrenaline", ",", "''", "said", "Bryant", ",", "who", "scored", "48", "points", "in", "a", "2001", "playoff", "game", "at", "Sacramento", "after", "leaving", "the", "team", "to", "attend", "to", "a", "personal", "matter", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "O'Neal's maternal grandfather",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "O'Neal's maternal grandfather",
+    "argMentionid" : "APW_ENG_20030419.0358-E13-36",
+    "start" : 8,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030419.0358-R14",
+  "mentionArg1" : {
+    "extent" : "O'Neal",
+    "argMentionid" : "APW_ENG_20030419.0358-E19-34",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030419.0358-R14-1",
+  "relationSubType" : "Family",
+  "Sentence" : "The birth comes days after the death of O'Neal 's maternal grandfather , Sirlester O'Neal .",
+  "sentence_index" : 12,
+  "Tokens" : [ "The", "birth", "comes", "days", "after", "the", "death", "of", "O'Neal", "'s", "maternal", "grandfather", ",", "Sirlester", "O'Neal", "." ]
+} ]

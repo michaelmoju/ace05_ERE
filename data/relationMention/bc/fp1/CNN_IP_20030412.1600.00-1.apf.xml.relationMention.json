@@ -1,0 +1,1123 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "coalition forces",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E79-220",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R5",
+  "mentionArg1" : {
+    "extent" : "coalition forces",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E103-219",
+    "start" : 10,
+    "end" : 11
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Now that Saddam Hussein 's regime has been toppled , coalition forces are intensifying their search for weapons of mass destruction .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Now", "that", "Saddam", "Hussein", "'s", "regime", "has", "been", "toppled", ",", "coalition", "forces", "are", "intensifying", "their", "search", "for", "weapons", "of", "mass", "destruction", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "coalition forces",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E79-171",
+    "start" : 37,
+    "end" : 37
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R5",
+  "mentionArg1" : {
+    "extent" : "coalition forces",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E103-170",
+    "start" : 37,
+    "end" : 38
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R5-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Well , of all people , this man may have a wealth of information , not only about past family members but also about where the regime members that so far have slipped through the fingers of coalition forces may have gone .",
+  "sentence_index" : 42,
+  "Tokens" : [ "Well", ",", "of", "all", "people", ",", "this", "man", "may", "have", "a", "wealth", "of", "information", ",", "not", "only", "about", "past", "family", "members", "but", "also", "about", "where", "the", "regime", "members", "that", "so", "far", "have", "slipped", "through", "the", "fingers", "of", "coalition", "forces", "may", "have", "gone", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "an Iraqi air base in northern Iraq",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "an Iraqi air base in northern Iraq",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E108-225",
+    "start" : 7,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R6",
+  "mentionArg1" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E2-226",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R6-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Soldiers found a suspected chemical warhead at an Iraqi air base in northern Iraq , but they got conflicting test results on whether the warhead has traces of a nerve agent .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Soldiers", "found", "a", "suspected", "chemical", "warhead", "at", "an", "Iraqi", "air", "base", "in", "northern", "Iraq", ",", "but", "they", "got", "conflicting", "test", "results", "on", "whether", "the", "warhead", "has", "traces", "of", "a", "nerve", "agent", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "an Iraqi air base in northern Iraq",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "northern Iraq",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E111-227",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R7",
+  "mentionArg1" : {
+    "extent" : "an Iraqi air base in northern Iraq",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E108-225",
+    "start" : 7,
+    "end" : 13
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R7-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Soldiers found a suspected chemical warhead at an Iraqi air base in northern Iraq , but they got conflicting test results on whether the warhead has traces of a nerve agent .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Soldiers", "found", "a", "suspected", "chemical", "warhead", "at", "an", "Iraqi", "air", "base", "in", "northern", "Iraq", ",", "but", "they", "got", "conflicting", "test", "results", "on", "whether", "the", "warhead", "has", "traces", "of", "a", "nerve", "agent", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Iraqi weapons of mass destruction",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Iraqi weapons of mass destruction",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E105-6",
+    "start" : 8,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R8",
+  "mentionArg1" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E2-4",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R8-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Syria today denied that it 's helping hide Iraqi weapons of mass destruction , or sheltering leaders or Iraq 's former regime .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Syria", "today", "denied", "that", "it", "'s", "helping", "hide", "Iraqi", "weapons", "of", "mass", "destruction", ",", "or", "sheltering", "leaders", "or", "Iraq", "'s", "former", "regime", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "He went and spoke to first, before he went and turned himself in, he spoke to a German television crew and he told them that even as he is turning himself in, he's still maintaining Iraq's line that Iraq doesn't have weapons of mass destruction",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "weapons of mass destruction",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E105-49",
+    "start" : 47,
+    "end" : 50
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R8",
+  "mentionArg1" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E2-48",
+    "start" : 43,
+    "end" : 43
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R8-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "He went and spoke to first , before he went and turned himself in , he spoke to a German television crew and he told them that even as he is turning himself in , he 's still maintaining Iraq 's line that Iraq does n't have weapons of mass destruction .",
+  "sentence_index" : 13,
+  "Tokens" : [ "He", "went", "and", "spoke", "to", "first", ",", "before", "he", "went", "and", "turned", "himself", "in", ",", "he", "spoke", "to", "a", "German", "television", "crew", "and", "he", "told", "them", "that", "even", "as", "he", "is", "turning", "himself", "in", ",", "he", "'s", "still", "maintaining", "Iraq", "'s", "line", "that", "Iraq", "does", "n't", "have", "weapons", "of", "mass", "destruction", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "So many times he headed the Iraqi team that dealt with the U.N. weapons inspectors, and so many times he defended the regime's line, Iraq doesn't have weapons of mass destruction and it's not trying to acquire them",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "them",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E105-56",
+    "start" : 42,
+    "end" : 42
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R8",
+  "mentionArg1" : {
+    "extent" : "it",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E2-55",
+    "start" : 36,
+    "end" : 36
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R8-3",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "So many times he headed the Iraqi team that dealt with the U.N. weapons inspectors , and so many times he defended the regime 's line , Iraq does n't have weapons of mass destruction and it 's not trying to acquire them .",
+  "sentence_index" : 15,
+  "Tokens" : [ "So", "many", "times", "he", "headed", "the", "Iraqi", "team", "that", "dealt", "with", "the", "U.N.", "weapons", "inspectors", ",", "and", "so", "many", "times", "he", "defended", "the", "regime", "'s", "line", ",", "Iraq", "does", "n't", "have", "weapons", "of", "mass", "destruction", "and", "it", "'s", "not", "trying", "to", "acquire", "them", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "leaders or Iraq's former regime",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Iraq's former regime",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E78-8",
+    "start" : 18,
+    "end" : 21
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R9",
+  "mentionArg1" : {
+    "extent" : "leaders or Iraq's former regime",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E3-7",
+    "start" : 16,
+    "end" : 21
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R9-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Syria today denied that it 's helping hide Iraqi weapons of mass destruction , or sheltering leaders or Iraq 's former regime .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Syria", "today", "denied", "that", "it", "'s", "helping", "hide", "Iraqi", "weapons", "of", "mass", "destruction", ",", "or", "sheltering", "leaders", "or", "Iraq", "'s", "former", "regime", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Iraq's former regime",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E2-5",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R10",
+  "mentionArg1" : {
+    "extent" : "Iraq's former regime",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E78-8",
+    "start" : 18,
+    "end" : 21
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R10-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Syria today denied that it 's helping hide Iraqi weapons of mass destruction , or sheltering leaders or Iraq 's former regime .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Syria", "today", "denied", "that", "it", "'s", "helping", "hide", "Iraqi", "weapons", "of", "mass", "destruction", ",", "or", "sheltering", "leaders", "or", "Iraq", "'s", "former", "regime", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "fanatic circles in the Bush administration",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "the Bush administration",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E8-13",
+    "start" : 16,
+    "end" : 18
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R11",
+  "mentionArg1" : {
+    "extent" : "fanatic circles in the Bush administration",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E7-12",
+    "start" : 13,
+    "end" : 18
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R11-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Former minister -- Foreign Minister Farouk Al-Shara says that the allegations come from fanatic circles in the Bush administration .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Former", "minister", "--", "Foreign", "Minister", "Farouk", "Al-Shara", "says", "that", "the", "allegations", "come", "from", "fanatic", "circles", "in", "the", "Bush", "administration", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Bush administration",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "the Bush administration",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E8-13",
+    "start" : 16,
+    "end" : 18
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R12",
+  "mentionArg1" : {
+    "extent" : "Bush",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E9-14",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R12-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Former minister -- Foreign Minister Farouk Al-Shara says that the allegations come from fanatic circles in the Bush administration .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Former", "minister", "--", "Foreign", "Minister", "Farouk", "Al-Shara", "says", "that", "the", "allegations", "come", "from", "fanatic", "circles", "in", "the", "Bush", "administration", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Saddam Hussein's regime",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Saddam Hussein's regime",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E78-213",
+    "start" : 2,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R13",
+  "mentionArg1" : {
+    "extent" : "Saddam Hussein",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E96-200",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R13-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Now that Saddam Hussein 's regime has been toppled , coalition forces are intensifying their search for weapons of mass destruction .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Now", "that", "Saddam", "Hussein", "'s", "regime", "has", "been", "toppled", ",", "coalition", "forces", "are", "intensifying", "their", "search", "for", "weapons", "of", "mass", "destruction", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In Baghdad, Marines ran from tree to tree as a gun battle erupted near the Palestine Hotel",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "the Palestine Hotel",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E12-17",
+    "start" : 15,
+    "end" : 17
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R14",
+  "mentionArg1" : {
+    "extent" : "Marines",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E11-16",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R14-1",
+  "relationSubType" : "Near",
+  "Sentence" : "In Baghdad , Marines ran from tree to tree as a gun battle erupted near the Palestine Hotel .",
+  "sentence_index" : 6,
+  "Tokens" : [ "In", "Baghdad", ",", "Marines", "ran", "from", "tree", "to", "tree", "as", "a", "gun", "battle", "erupted", "near", "the", "Palestine", "Hotel", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In Baghdad, Marines",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E10-15",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R15",
+  "mentionArg1" : {
+    "extent" : "Marines",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E11-16",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R15-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In Baghdad , Marines ran from tree to tree as a gun battle erupted near the Palestine Hotel .",
+  "sentence_index" : 6,
+  "Tokens" : [ "In", "Baghdad", ",", "Marines", "ran", "from", "tree", "to", "tree", "as", "a", "gun", "battle", "erupted", "near", "the", "Palestine", "Hotel", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Iraqi capital",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E2-19",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R16",
+  "mentionArg1" : {
+    "extent" : "the Iraqi capital",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E10-18",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R16-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Looting and general disorder remain the rule inside the Iraqi capital , where Iraq 's top scientist today delivered himself to U.S. troops .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Looting", "and", "general", "disorder", "remain", "the", "rule", "inside", "the", "Iraqi", "capital", ",", "where", "Iraq", "'s", "top", "scientist", "today", "delivered", "himself", "to", "U.S.", "troops", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Iraqi capital",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E2-33",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R16",
+  "mentionArg1" : {
+    "extent" : "the Iraqi capital",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E10-32",
+    "start" : 10,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R16-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Our Rula Amin is standing by with the latest from the Iraqi capital .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Our", "Rula", "Amin", "is", "standing", "by", "with", "the", "latest", "from", "the", "Iraqi", "capital", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iraq's top scientist",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E2-20",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R17",
+  "mentionArg1" : {
+    "extent" : "Iraq's top scientist",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E14-21",
+    "start" : 13,
+    "end" : 16
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R17-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Looting and general disorder remain the rule inside the Iraqi capital , where Iraq 's top scientist today delivered himself to U.S. troops .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Looting", "and", "general", "disorder", "remain", "the", "rule", "inside", "the", "Iraqi", "capital", ",", "where", "Iraq", "'s", "top", "scientist", "today", "delivered", "himself", "to", "U.S.", "troops", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the first high Iraqi officer that we know of who has turned himself in so far in Baghdad",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E2-207",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R17",
+  "mentionArg1" : {
+    "extent" : "the first high Iraqi officer that we know of who has turned himself in so far in Baghdad",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E14-36",
+    "start" : 3,
+    "end" : 20
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R17-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Amir Al-Saadi is the first high Iraqi officer that we know of who has turned himself in so far in Baghdad .",
+  "sentence_index" : 12,
+  "Tokens" : [ "Amir", "Al-Saadi", "is", "the", "first", "high", "Iraqi", "officer", "that", "we", "know", "of", "who", "has", "turned", "himself", "in", "so", "far", "in", "Baghdad", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. troops",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E16-24",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R18",
+  "mentionArg1" : {
+    "extent" : "U.S. troops",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E15-23",
+    "start" : 21,
+    "end" : 22
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R18-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Looting and general disorder remain the rule inside the Iraqi capital , where Iraq 's top scientist today delivered himself to U.S. troops .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Looting", "and", "general", "disorder", "remain", "the", "rule", "inside", "the", "Iraqi", "capital", ",", "where", "Iraq", "'s", "top", "scientist", "today", "delivered", "himself", "to", "U.S.", "troops", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "parts of Baghdad",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E10-28",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R19",
+  "mentionArg1" : {
+    "extent" : "parts of Baghdad",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E19-27",
+    "start" : 14,
+    "end" : 16
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R19-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The surrender of Amir Al-Saadi came as mob of looters continued to roam through parts of Baghdad .",
+  "sentence_index" : 8,
+  "Tokens" : [ "The", "surrender", "of", "Amir", "Al-Saadi", "came", "as", "mob", "of", "looters", "continued", "to", "roam", "through", "parts", "of", "Baghdad", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Our Rula Amin",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "Our",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E21-30",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R20",
+  "mentionArg1" : {
+    "extent" : "Our Rula Amin",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E20-29",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R20-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Our Rula Amin is standing by with the latest from the Iraqi capital .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Our", "Rula", "Amin", "is", "standing", "by", "with", "the", "latest", "from", "the", "Iraqi", "capital", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the first high Iraqi officer that we know of who has turned himself in so far in Baghdad",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E10-208",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R22",
+  "mentionArg1" : {
+    "extent" : "the first high Iraqi officer that we know of who has turned himself in so far in Baghdad",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E14-36",
+    "start" : 3,
+    "end" : 20
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R22-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Amir Al-Saadi is the first high Iraqi officer that we know of who has turned himself in so far in Baghdad .",
+  "sentence_index" : 12,
+  "Tokens" : [ "Amir", "Al-Saadi", "is", "the", "first", "high", "Iraqi", "officer", "that", "we", "know", "of", "who", "has", "turned", "himself", "in", "so", "far", "in", "Baghdad", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the U.N. weapons inspectors",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "U.N",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E33-67",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R25",
+  "mentionArg1" : {
+    "extent" : "the U.N. weapons inspectors",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E34-68",
+    "start" : 11,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R25-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "So many times he headed the Iraqi team that dealt with the U.N. weapons inspectors , and so many times he defended the regime 's line , Iraq does n't have weapons of mass destruction and it 's not trying to acquire them .",
+  "sentence_index" : 15,
+  "Tokens" : [ "So", "many", "times", "he", "headed", "the", "Iraqi", "team", "that", "dealt", "with", "the", "U.N.", "weapons", "inspectors", ",", "and", "so", "many", "times", "he", "defended", "the", "regime", "'s", "line", ",", "Iraq", "does", "n't", "have", "weapons", "of", "mass", "destruction", "and", "it", "'s", "not", "trying", "to", "acquire", "them", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Iraqi team that dealt with the U.N. weapons inspectors",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E2-66",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R26",
+  "mentionArg1" : {
+    "extent" : "the Iraqi team that dealt with the U.N. weapons inspectors",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E31-65",
+    "start" : 5,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R26-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "So many times he headed the Iraqi team that dealt with the U.N. weapons inspectors , and so many times he defended the regime 's line , Iraq does n't have weapons of mass destruction and it 's not trying to acquire them .",
+  "sentence_index" : 15,
+  "Tokens" : [ "So", "many", "times", "he", "headed", "the", "Iraqi", "team", "that", "dealt", "with", "the", "U.N.", "weapons", "inspectors", ",", "and", "so", "many", "times", "he", "defended", "the", "regime", "'s", "line", ",", "Iraq", "does", "n't", "have", "weapons", "of", "mass", "destruction", "and", "it", "'s", "not", "trying", "to", "acquire", "them", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "any Iraqi official",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E2-73",
+    "start" : 30,
+    "end" : 30
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R27",
+  "mentionArg1" : {
+    "extent" : "any Iraqi official",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E37-72",
+    "start" : 29,
+    "end" : 31
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R27-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "This is significant , the fact that he came ahead on his own , is very significant , because so far , we have n't seen such moves from any Iraqi official , even on the level of ministers .",
+  "sentence_index" : 16,
+  "Tokens" : [ "This", "is", "significant", ",", "the", "fact", "that", "he", "came", "ahead", "on", "his", "own", ",", "is", "very", "significant", ",", "because", "so", "far", ",", "we", "have", "n't", "seen", "such", "moves", "from", "any", "Iraqi", "official", ",", "even", "on", "the", "level", "of", "ministers", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his two sons",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "his two sons",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E40-83",
+    "start" : 3,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R28",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E96-77",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R28-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Saddam Hussein , his two sons and most of his aides and his ministers have just disappeared , and we do n't know anything about them .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Saddam", "Hussein", ",", "his", "two", "sons", "and", "most", "of", "his", "aides", "and", "his", "ministers", "have", "just", "disappeared", ",", "and", "we", "do", "n't", "know", "anything", "about", "them", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the Marines here today",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E10-114",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R29",
+  "mentionArg1" : {
+    "extent" : "the Marines here today",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E45-92",
+    "start" : 10,
+    "end" : 13
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R29-1",
+  "relationSubType" : "Located",
+  "Sentence" : "At the same time today , we do know that the Marines here today had to fight back when two gunmen shot at a U.S. checkpoint here in Baghdad .",
+  "sentence_index" : 19,
+  "Tokens" : [ "At", "the", "same", "time", "today", ",", "we", "do", "know", "that", "the", "Marines", "here", "today", "had", "to", "fight", "back", "when", "two", "gunmen", "shot", "at", "a", "U.S.", "checkpoint", "here", "in", "Baghdad", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the Marines here",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E10-116",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R29",
+  "mentionArg1" : {
+    "extent" : "the Marines here",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E45-113",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R29-2",
+  "relationSubType" : "Located",
+  "Sentence" : "This caused concern among the Marines here , put them on alarm , especially after the fact that they have found about 40 vests , suicide vests in a school .",
+  "sentence_index" : 22,
+  "Tokens" : [ "This", "caused", "concern", "among", "the", "Marines", "here", ",", "put", "them", "on", "alarm", ",", "especially", "after", "the", "fact", "that", "they", "have", "found", "about", "40", "vests", ",", "suicide", "vests", "in", "a", "school", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a U.S. checkpoint here in Baghdad",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E10-106",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R30",
+  "mentionArg1" : {
+    "extent" : "a U.S. checkpoint",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E47-94",
+    "start" : 23,
+    "end" : 25
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R30-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "At the same time today , we do know that the Marines here today had to fight back when two gunmen shot at a U.S. checkpoint here in Baghdad .",
+  "sentence_index" : 19,
+  "Tokens" : [ "At", "the", "same", "time", "today", ",", "we", "do", "know", "that", "the", "Marines", "here", "today", "had", "to", "fight", "back", "when", "two", "gunmen", "shot", "at", "a", "U.S.", "checkpoint", "here", "in", "Baghdad", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a U.S. checkpoint",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "a U.S. checkpoint",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E47-94",
+    "start" : 23,
+    "end" : 25
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R31",
+  "mentionArg1" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E16-95",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R31-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "At the same time today , we do know that the Marines here today had to fight back when two gunmen shot at a U.S. checkpoint here in Baghdad .",
+  "sentence_index" : 19,
+  "Tokens" : [ "At", "the", "same", "time", "today", ",", "we", "do", "know", "that", "the", "Marines", "here", "today", "had", "to", "fight", "back", "when", "two", "gunmen", "shot", "at", "a", "U.S.", "checkpoint", "here", "in", "Baghdad", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "one U.S. Marine",
+  "sentence_length" : 6,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E16-96",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R32",
+  "mentionArg1" : {
+    "extent" : "one U.S. Marine",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E53-108",
+    "start" : 2,
+    "end" : 4
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R32-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "They killed one U.S. Marine .",
+  "sentence_index" : 20,
+  "Tokens" : [ "They", "killed", "one", "U.S.", "Marine", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Marines on patrol inside Baghdad today",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E10-133",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R34",
+  "mentionArg1" : {
+    "extent" : "Marines on patrol inside Baghdad today",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E61-134",
+    "start" : 0,
+    "end" : 5
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R34-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Marines on patrol inside Baghdad today found Iraqi weapons in an unusual place , as well as a potential new source of information about Saddam Hussein .",
+  "sentence_index" : 34,
+  "Tokens" : [ "Marines", "on", "patrol", "inside", "Baghdad", "today", "found", "Iraqi", "weapons", "in", "an", "unusual", "place", ",", "as", "well", "as", "a", "potential", "new", "source", "of", "information", "about", "Saddam", "Hussein", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Iraqi weapons",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Iraqi weapons",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E64-138",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R35",
+  "mentionArg1" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E2-135",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R35-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Marines on patrol inside Baghdad today found Iraqi weapons in an unusual place , as well as a potential new source of information about Saddam Hussein .",
+  "sentence_index" : 34,
+  "Tokens" : [ "Marines", "on", "patrol", "inside", "Baghdad", "today", "found", "Iraqi", "weapons", "in", "an", "unusual", "place", ",", "as", "well", "as", "a", "potential", "new", "source", "of", "information", "about", "Saddam", "Hussein", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "CNN's Martin Savidge",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E21-136",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R36",
+  "mentionArg1" : {
+    "extent" : "CNN's Martin Savidge",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E63-137",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R36-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "CNN 's Martin Savidge has more .",
+  "sentence_index" : 35,
+  "Tokens" : [ "CNN", "'s", "Martin", "Savidge", "has", "more", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "First of all, the Marines were out this morning, were investigating a school, and there they say they found what is a suicide bomb making or vest bomb making facility",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "a school",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E66-143",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R37",
+  "mentionArg1" : {
+    "extent" : "a suicide bomb making or vest bomb making facility",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E68-211",
+    "start" : 24,
+    "end" : 32
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R37-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "First of all , the Marines were out this morning , were investigating a school , and there they say they found what is a suicide bomb making or vest bomb making facility .",
+  "sentence_index" : 38,
+  "Tokens" : [ "First", "of", "all", ",", "the", "Marines", "were", "out", "this", "morning", ",", "were", "investigating", "a", "school", ",", "and", "there", "they", "say", "they", "found", "what", "is", "a", "suicide", "bomb", "making", "or", "vest", "bomb", "making", "facility", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "At this particular school, they found what they said was a fabricating plant where they made the vests that would be used for the attacks; 300 vests were also found inside that facility right here in Baghdad",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "this particular school",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E66-148",
+    "start" : 1,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R37",
+  "mentionArg1" : {
+    "extent" : "a fabricating plant where they made the vests that would be used for the attacks",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E68-152",
+    "start" : 11,
+    "end" : 25
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R37-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "At this particular school , they found what they said was a fabricating plant where they made the vests that would be used for the attacks ; 300 vests were also found inside that facility right here in Baghdad .",
+  "sentence_index" : 40,
+  "Tokens" : [ "At", "this", "particular", "school", ",", "they", "found", "what", "they", "said", "was", "a", "fabricating", "plant", "where", "they", "made", "the", "vests", "that", "would", "be", "used", "for", "the", "attacks", ";", "300", "vests", "were", "also", "found", "inside", "that", "facility", "right", "here", "in", "Baghdad", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "300 vests were also found inside that facility right here in Baghdad",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E10-105",
+    "start" : 38,
+    "end" : 38
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R38",
+  "mentionArg1" : {
+    "extent" : "that facility",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E66-155",
+    "start" : 33,
+    "end" : 34
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R38-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "At this particular school , they found what they said was a fabricating plant where they made the vests that would be used for the attacks ; 300 vests were also found inside that facility right here in Baghdad .",
+  "sentence_index" : 40,
+  "Tokens" : [ "At", "this", "particular", "school", ",", "they", "found", "what", "they", "said", "was", "a", "fabricating", "plant", "where", "they", "made", "the", "vests", "that", "would", "be", "used", "for", "the", "attacks", ";", "300", "vests", "were", "also", "found", "inside", "that", "facility", "right", "here", "in", "Baghdad", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Well, of all people, this man may have a wealth of information, not only about past family members but also about where the regime members that so far have slipped through the fingers of coalition forces may have gone",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "where",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E76-166",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R39",
+  "mentionArg1" : {
+    "extent" : "the regime members that so far have slipped through the fingers of coalition forces",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E77-167",
+    "start" : 25,
+    "end" : 38
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R39-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Well , of all people , this man may have a wealth of information , not only about past family members but also about where the regime members that so far have slipped through the fingers of coalition forces may have gone .",
+  "sentence_index" : 42,
+  "Tokens" : [ "Well", ",", "of", "all", "people", ",", "this", "man", "may", "have", "a", "wealth", "of", "information", ",", "not", "only", "about", "past", "family", "members", "but", "also", "about", "where", "the", "regime", "members", "that", "so", "far", "have", "slipped", "through", "the", "fingers", "of", "coalition", "forces", "may", "have", "gone", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Right now, he's being interviewed intensely by the intelligence officers with the U.S. Marines to see if he truly knows where those leaders went",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "where",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E76-214",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R39",
+  "mentionArg1" : {
+    "extent" : "those leaders",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E77-176",
+    "start" : 23,
+    "end" : 24
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R39-2",
+  "relationSubType" : "Located",
+  "Sentence" : "Right now , he 's being interviewed intensely by the intelligence officers with the U.S. Marines to see if he truly knows where those leaders went .",
+  "sentence_index" : 43,
+  "Tokens" : [ "Right", "now", ",", "he", "'s", "being", "interviewed", "intensely", "by", "the", "intelligence", "officers", "with", "the", "U.S.", "Marines", "to", "see", "if", "he", "truly", "knows", "where", "those", "leaders", "went", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the regime members that so far have slipped through the fingers of coalition forces",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "regime",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E78-169",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R40",
+  "mentionArg1" : {
+    "extent" : "the regime members that so far have slipped through the fingers of coalition forces",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E77-167",
+    "start" : 25,
+    "end" : 38
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R40-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Well , of all people , this man may have a wealth of information , not only about past family members but also about where the regime members that so far have slipped through the fingers of coalition forces may have gone .",
+  "sentence_index" : 42,
+  "Tokens" : [ "Well", ",", "of", "all", "people", ",", "this", "man", "may", "have", "a", "wealth", "of", "information", ",", "not", "only", "about", "past", "family", "members", "but", "also", "about", "where", "the", "regime", "members", "that", "so", "far", "have", "slipped", "through", "the", "fingers", "of", "coalition", "forces", "may", "have", "gone", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the intelligence officers with the U.S. Marines",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "the U.S. Marines",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E65-174",
+    "start" : 13,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R41",
+  "mentionArg1" : {
+    "extent" : "the intelligence officers with the U.S. Marines",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E80-173",
+    "start" : 9,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R41-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Right now , he 's being interviewed intensely by the intelligence officers with the U.S. Marines to see if he truly knows where those leaders went .",
+  "sentence_index" : 43,
+  "Tokens" : [ "Right", "now", ",", "he", "'s", "being", "interviewed", "intensely", "by", "the", "intelligence", "officers", "with", "the", "U.S.", "Marines", "to", "see", "if", "he", "truly", "knows", "where", "those", "leaders", "went", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the U.S. Marines",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E16-97",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R42",
+  "mentionArg1" : {
+    "extent" : "the U.S. Marines",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E65-174",
+    "start" : 13,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R42-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Right now , he 's being interviewed intensely by the intelligence officers with the U.S. Marines to see if he truly knows where those leaders went .",
+  "sentence_index" : 43,
+  "Tokens" : [ "Right", "now", ",", "he", "'s", "being", "interviewed", "intensely", "by", "the", "intelligence", "officers", "with", "the", "U.S.", "Marines", "to", "see", "if", "he", "truly", "knows", "where", "those", "leaders", "went", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the U.S. Army",
+  "sentence_length" : 6,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E16-98",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R44",
+  "mentionArg1" : {
+    "extent" : "the U.S. Army",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E81-178",
+    "start" : 2,
+    "end" : 4
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R44-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "So is the U.S. Army .",
+  "sentence_index" : 47,
+  "Tokens" : [ "So", "is", "the", "U.S.", "Army", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "CNN crews",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E21-181",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R45",
+  "mentionArg1" : {
+    "extent" : "CNN crews",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E83-180",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R45-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "And here is one of the problems that CNN crews have found going out on the street -- the streets are safe as long as there is a U.S. military presence on that street .",
+  "sentence_index" : 50,
+  "Tokens" : [ "And", "here", "is", "one", "of", "the", "problems", "that", "CNN", "crews", "have", "found", "going", "out", "on", "the", "street", "--", "the", "streets", "are", "safe", "as", "long", "as", "there", "is", "a", "U.S.", "military", "presence", "on", "that", "street", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a U.S. military presence",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "U.S. military",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E87-184",
+    "start" : 28,
+    "end" : 29
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R46",
+  "mentionArg1" : {
+    "extent" : "a U.S. military presence",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E88-185",
+    "start" : 27,
+    "end" : 30
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R46-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "And here is one of the problems that CNN crews have found going out on the street -- the streets are safe as long as there is a U.S. military presence on that street .",
+  "sentence_index" : 50,
+  "Tokens" : [ "And", "here", "is", "one", "of", "the", "problems", "that", "CNN", "crews", "have", "found", "going", "out", "on", "the", "street", "--", "the", "streets", "are", "safe", "as", "long", "as", "there", "is", "a", "U.S.", "military", "presence", "on", "that", "street", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "U.S. military",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E16-99",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R47",
+  "mentionArg1" : {
+    "extent" : "U.S. military",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E87-184",
+    "start" : 28,
+    "end" : 29
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R47-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "And here is one of the problems that CNN crews have found going out on the street -- the streets are safe as long as there is a U.S. military presence on that street .",
+  "sentence_index" : 50,
+  "Tokens" : [ "And", "here", "is", "one", "of", "the", "problems", "that", "CNN", "crews", "have", "found", "going", "out", "on", "the", "street", "--", "the", "streets", "are", "safe", "as", "long", "as", "there", "is", "a", "U.S.", "military", "presence", "on", "that", "street", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "And here is one of the problems that CNN crews have found going out on the street -- the streets are safe as long as there is a U.S. military presence on that street",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "that street",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E86-183",
+    "start" : 32,
+    "end" : 33
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R48",
+  "mentionArg1" : {
+    "extent" : "a U.S. military presence",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E88-185",
+    "start" : 27,
+    "end" : 30
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R48-1",
+  "relationSubType" : "Located",
+  "Sentence" : "And here is one of the problems that CNN crews have found going out on the street -- the streets are safe as long as there is a U.S. military presence on that street .",
+  "sentence_index" : 50,
+  "Tokens" : [ "And", "here", "is", "one", "of", "the", "problems", "that", "CNN", "crews", "have", "found", "going", "out", "on", "the", "street", "--", "the", "streets", "are", "safe", "as", "long", "as", "there", "is", "a", "U.S.", "military", "presence", "on", "that", "street", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "One crew went out to an area around the Ministry of Information",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "an area around the Ministry of Information",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E92-189",
+    "start" : 5,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R49",
+  "mentionArg1" : {
+    "extent" : "One crew",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E91-188",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R49-1",
+  "relationSubType" : "Located",
+  "Sentence" : "One crew went out to an area around the Ministry of Information .",
+  "sentence_index" : 52,
+  "Tokens" : [ "One", "crew", "went", "out", "to", "an", "area", "around", "the", "Ministry", "of", "Information", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "When they got there, what they found was a melee going on and they were shot at",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E92-195",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R49",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E91-194",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R49-2",
+  "relationSubType" : "Located",
+  "Sentence" : "When they got there , what they found was a melee going on and they were shot at .",
+  "sentence_index" : 54,
+  "Tokens" : [ "When", "they", "got", "there", ",", "what", "they", "found", "was", "a", "melee", "going", "on", "and", "they", "were", "shot", "at", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "So many times he headed the Iraqi team that dealt with the U.N. weapons inspectors, and so many times he defended the regime's line, Iraq doesn't have weapons of mass destruction and it's not trying to acquire them",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "U.N",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E33-67",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R50",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E14-52",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R50-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "So many times he headed the Iraqi team that dealt with the U.N. weapons inspectors , and so many times he defended the regime 's line , Iraq does n't have weapons of mass destruction and it 's not trying to acquire them .",
+  "sentence_index" : 15,
+  "Tokens" : [ "So", "many", "times", "he", "headed", "the", "Iraqi", "team", "that", "dealt", "with", "the", "U.N.", "weapons", "inspectors", ",", "and", "so", "many", "times", "he", "defended", "the", "regime", "'s", "line", ",", "Iraq", "does", "n't", "have", "weapons", "of", "mass", "destruction", "and", "it", "'s", "not", "trying", "to", "acquire", "them", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "And here is one of the problems that CNN crews have found going out on the street -- the streets are safe as long as there is a U.S. military presence on that street",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "the street",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E102-218",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "CNN_IP_20030412.1600.00-1-R51",
+  "mentionArg1" : {
+    "extent" : "CNN crews",
+    "argMentionid" : "CNN_IP_20030412.1600.00-1-E83-180",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030412.1600.00-1-R51-1",
+  "relationSubType" : "Located",
+  "Sentence" : "And here is one of the problems that CNN crews have found going out on the street -- the streets are safe as long as there is a U.S. military presence on that street .",
+  "sentence_index" : 50,
+  "Tokens" : [ "And", "here", "is", "one", "of", "the", "problems", "that", "CNN", "crews", "have", "found", "going", "out", "on", "the", "street", "--", "the", "streets", "are", "safe", "as", "long", "as", "there", "is", "a", "U.S.", "military", "presence", "on", "that", "street", "." ]
+} ]

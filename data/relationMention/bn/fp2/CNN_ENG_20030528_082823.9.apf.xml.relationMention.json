@@ -1,0 +1,177 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "the u.s. women's soccer team",
+  "sentence_length" : 208,
+  "mentionArg2" : {
+    "extent" : "u.s",
+    "argMentionid" : "CNN_ENG_20030528_082823.9-E9-30",
+    "start" : 7,
+    "end" : 9
+  },
+  "relationID" : "CNN_ENG_20030528_082823.9-R1",
+  "mentionArg1" : {
+    "extent" : "the u.s. women's soccer team",
+    "argMentionid" : "CNN_ENG_20030528_082823.9-E14-1",
+    "start" : 6,
+    "end" : 13
+  },
+  "id" : "CNN_ENG_20030528_082823.9-R1-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "it 's been four years since the u . s. women 's soccer team made history winning the world cup before more than 90,000 fans at the rose bowl. everybody remembers that scene. brandy chastain's kick and mia hamm ripping the shirt off. the super bowl of women 's soccer is returning to the u . s. after concerns about sars in china prompted a change in venue for this year 's tournament. lynn morgan president of the soccer association is one of those who has the job of organizing this global event that has only got four months to get put together instead of four years as usual and she joins us from atlanta this morning. you see her there. in washington , with us now is mia hamm , one of the stars of the ' 99 u . s. team. she 's now playing for the washington freedom of the wusa. ladies , thanks for coming out and talking with us this morning. mia , when you heard the news about china now saying they want the u . s. to run the tournament , when you heard that , did you think this is a pleasant surprise or you got to be kidding ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "it", "'s", "been", "four", "years", "since", "the", "u", ".", "s.", "women", "'s", "soccer", "team", "made", "history", "winning", "the", "world", "cup", "before", "more", "than", "90,000", "fans", "at", "the", "rose", "bowl.", "everybody", "remembers", "that", "scene.", "brandy", "chastain's", "kick", "and", "mia", "hamm", "ripping", "the", "shirt", "off.", "the", "super", "bowl", "of", "women", "'s", "soccer", "is", "returning", "to", "the", "u", ".", "s.", "after", "concerns", "about", "sars", "in", "china", "prompted", "a", "change", "in", "venue", "for", "this", "year", "'s", "tournament.", "lynn", "morgan", "president", "of", "the", "soccer", "association", "is", "one", "of", "those", "who", "has", "the", "job", "of", "organizing", "this", "global", "event", "that", "has", "only", "got", "four", "months", "to", "get", "put", "together", "instead", "of", "four", "years", "as", "usual", "and", "she", "joins", "us", "from", "atlanta", "this", "morning.", "you", "see", "her", "there.", "in", "washington", ",", "with", "us", "now", "is", "mia", "hamm", ",", "one", "of", "the", "stars", "of", "the", "'", "99", "u", ".", "s.", "team.", "she", "'s", "now", "playing", "for", "the", "washington", "freedom", "of", "the", "wusa.", "ladies", ",", "thanks", "for", "coming", "out", "and", "talking", "with", "us", "this", "morning.", "mia", ",", "when", "you", "heard", "the", "news", "about", "china", "now", "saying", "they", "want", "the", "u", ".", "s.", "to", "run", "the", "tournament", ",", "when", "you", "heard", "that", ",", "did", "you", "think", "this", "is", "a", "pleasant", "surprise", "or", "you", "got", "to", "be", "kidding", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the u.s. women's soccer team",
+  "sentence_length" : 208,
+  "mentionArg2" : {
+    "extent" : "the u.s. women's soccer team",
+    "argMentionid" : "CNN_ENG_20030528_082823.9-E14-1",
+    "start" : 6,
+    "end" : 13
+  },
+  "relationID" : "CNN_ENG_20030528_082823.9-R2",
+  "mentionArg1" : {
+    "extent" : "women's",
+    "argMentionid" : "CNN_ENG_20030528_082823.9-E17-31",
+    "start" : 10,
+    "end" : 11
+  },
+  "id" : "CNN_ENG_20030528_082823.9-R2-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "it 's been four years since the u . s. women 's soccer team made history winning the world cup before more than 90,000 fans at the rose bowl. everybody remembers that scene. brandy chastain's kick and mia hamm ripping the shirt off. the super bowl of women 's soccer is returning to the u . s. after concerns about sars in china prompted a change in venue for this year 's tournament. lynn morgan president of the soccer association is one of those who has the job of organizing this global event that has only got four months to get put together instead of four years as usual and she joins us from atlanta this morning. you see her there. in washington , with us now is mia hamm , one of the stars of the ' 99 u . s. team. she 's now playing for the washington freedom of the wusa. ladies , thanks for coming out and talking with us this morning. mia , when you heard the news about china now saying they want the u . s. to run the tournament , when you heard that , did you think this is a pleasant surprise or you got to be kidding ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "it", "'s", "been", "four", "years", "since", "the", "u", ".", "s.", "women", "'s", "soccer", "team", "made", "history", "winning", "the", "world", "cup", "before", "more", "than", "90,000", "fans", "at", "the", "rose", "bowl.", "everybody", "remembers", "that", "scene.", "brandy", "chastain's", "kick", "and", "mia", "hamm", "ripping", "the", "shirt", "off.", "the", "super", "bowl", "of", "women", "'s", "soccer", "is", "returning", "to", "the", "u", ".", "s.", "after", "concerns", "about", "sars", "in", "china", "prompted", "a", "change", "in", "venue", "for", "this", "year", "'s", "tournament.", "lynn", "morgan", "president", "of", "the", "soccer", "association", "is", "one", "of", "those", "who", "has", "the", "job", "of", "organizing", "this", "global", "event", "that", "has", "only", "got", "four", "months", "to", "get", "put", "together", "instead", "of", "four", "years", "as", "usual", "and", "she", "joins", "us", "from", "atlanta", "this", "morning.", "you", "see", "her", "there.", "in", "washington", ",", "with", "us", "now", "is", "mia", "hamm", ",", "one", "of", "the", "stars", "of", "the", "'", "99", "u", ".", "s.", "team.", "she", "'s", "now", "playing", "for", "the", "washington", "freedom", "of", "the", "wusa.", "ladies", ",", "thanks", "for", "coming", "out", "and", "talking", "with", "us", "this", "morning.", "mia", ",", "when", "you", "heard", "the", "news", "about", "china", "now", "saying", "they", "want", "the", "u", ".", "s.", "to", "run", "the", "tournament", ",", "when", "you", "heard", "that", ",", "did", "you", "think", "this", "is", "a", "pleasant", "surprise", "or", "you", "got", "to", "be", "kidding", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "president of the soccer association",
+  "sentence_length" : 208,
+  "mentionArg2" : {
+    "extent" : "the soccer association",
+    "argMentionid" : "CNN_ENG_20030528_082823.9-E26-43",
+    "start" : 77,
+    "end" : 79
+  },
+  "relationID" : "CNN_ENG_20030528_082823.9-R3",
+  "mentionArg1" : {
+    "extent" : "president of the soccer association",
+    "argMentionid" : "CNN_ENG_20030528_082823.9-E24-42",
+    "start" : 75,
+    "end" : 79
+  },
+  "id" : "CNN_ENG_20030528_082823.9-R3-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "it 's been four years since the u . s. women 's soccer team made history winning the world cup before more than 90,000 fans at the rose bowl. everybody remembers that scene. brandy chastain's kick and mia hamm ripping the shirt off. the super bowl of women 's soccer is returning to the u . s. after concerns about sars in china prompted a change in venue for this year 's tournament. lynn morgan president of the soccer association is one of those who has the job of organizing this global event that has only got four months to get put together instead of four years as usual and she joins us from atlanta this morning. you see her there. in washington , with us now is mia hamm , one of the stars of the ' 99 u . s. team. she 's now playing for the washington freedom of the wusa. ladies , thanks for coming out and talking with us this morning. mia , when you heard the news about china now saying they want the u . s. to run the tournament , when you heard that , did you think this is a pleasant surprise or you got to be kidding ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "it", "'s", "been", "four", "years", "since", "the", "u", ".", "s.", "women", "'s", "soccer", "team", "made", "history", "winning", "the", "world", "cup", "before", "more", "than", "90,000", "fans", "at", "the", "rose", "bowl.", "everybody", "remembers", "that", "scene.", "brandy", "chastain's", "kick", "and", "mia", "hamm", "ripping", "the", "shirt", "off.", "the", "super", "bowl", "of", "women", "'s", "soccer", "is", "returning", "to", "the", "u", ".", "s.", "after", "concerns", "about", "sars", "in", "china", "prompted", "a", "change", "in", "venue", "for", "this", "year", "'s", "tournament.", "lynn", "morgan", "president", "of", "the", "soccer", "association", "is", "one", "of", "those", "who", "has", "the", "job", "of", "organizing", "this", "global", "event", "that", "has", "only", "got", "four", "months", "to", "get", "put", "together", "instead", "of", "four", "years", "as", "usual", "and", "she", "joins", "us", "from", "atlanta", "this", "morning.", "you", "see", "her", "there.", "in", "washington", ",", "with", "us", "now", "is", "mia", "hamm", ",", "one", "of", "the", "stars", "of", "the", "'", "99", "u", ".", "s.", "team.", "she", "'s", "now", "playing", "for", "the", "washington", "freedom", "of", "the", "wusa.", "ladies", ",", "thanks", "for", "coming", "out", "and", "talking", "with", "us", "this", "morning.", "mia", ",", "when", "you", "heard", "the", "news", "about", "china", "now", "saying", "they", "want", "the", "u", ".", "s.", "to", "run", "the", "tournament", ",", "when", "you", "heard", "that", ",", "did", "you", "think", "this", "is", "a", "pleasant", "surprise", "or", "you", "got", "to", "be", "kidding", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "lynn morgan president of the soccer association is one of those who has the job of organizing this global event that has only got four months to get put together instead of four years as usual and she joins us from atlanta this morning",
+  "sentence_length" : 208,
+  "mentionArg2" : {
+    "extent" : "atlanta",
+    "argMentionid" : "CNN_ENG_20030528_082823.9-E3-5",
+    "start" : 114,
+    "end" : 114
+  },
+  "relationID" : "CNN_ENG_20030528_082823.9-R4",
+  "mentionArg1" : {
+    "extent" : "lynn morgan",
+    "argMentionid" : "CNN_ENG_20030528_082823.9-E24-41",
+    "start" : 73,
+    "end" : 74
+  },
+  "id" : "CNN_ENG_20030528_082823.9-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "it 's been four years since the u . s. women 's soccer team made history winning the world cup before more than 90,000 fans at the rose bowl. everybody remembers that scene. brandy chastain's kick and mia hamm ripping the shirt off. the super bowl of women 's soccer is returning to the u . s. after concerns about sars in china prompted a change in venue for this year 's tournament. lynn morgan president of the soccer association is one of those who has the job of organizing this global event that has only got four months to get put together instead of four years as usual and she joins us from atlanta this morning. you see her there. in washington , with us now is mia hamm , one of the stars of the ' 99 u . s. team. she 's now playing for the washington freedom of the wusa. ladies , thanks for coming out and talking with us this morning. mia , when you heard the news about china now saying they want the u . s. to run the tournament , when you heard that , did you think this is a pleasant surprise or you got to be kidding ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "it", "'s", "been", "four", "years", "since", "the", "u", ".", "s.", "women", "'s", "soccer", "team", "made", "history", "winning", "the", "world", "cup", "before", "more", "than", "90,000", "fans", "at", "the", "rose", "bowl.", "everybody", "remembers", "that", "scene.", "brandy", "chastain's", "kick", "and", "mia", "hamm", "ripping", "the", "shirt", "off.", "the", "super", "bowl", "of", "women", "'s", "soccer", "is", "returning", "to", "the", "u", ".", "s.", "after", "concerns", "about", "sars", "in", "china", "prompted", "a", "change", "in", "venue", "for", "this", "year", "'s", "tournament.", "lynn", "morgan", "president", "of", "the", "soccer", "association", "is", "one", "of", "those", "who", "has", "the", "job", "of", "organizing", "this", "global", "event", "that", "has", "only", "got", "four", "months", "to", "get", "put", "together", "instead", "of", "four", "years", "as", "usual", "and", "she", "joins", "us", "from", "atlanta", "this", "morning.", "you", "see", "her", "there.", "in", "washington", ",", "with", "us", "now", "is", "mia", "hamm", ",", "one", "of", "the", "stars", "of", "the", "'", "99", "u", ".", "s.", "team.", "she", "'s", "now", "playing", "for", "the", "washington", "freedom", "of", "the", "wusa.", "ladies", ",", "thanks", "for", "coming", "out", "and", "talking", "with", "us", "this", "morning.", "mia", ",", "when", "you", "heard", "the", "news", "about", "china", "now", "saying", "they", "want", "the", "u", ".", "s.", "to", "run", "the", "tournament", ",", "when", "you", "heard", "that", ",", "did", "you", "think", "this", "is", "a", "pleasant", "surprise", "or", "you", "got", "to", "be", "kidding", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "you see her there",
+  "sentence_length" : 208,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "CNN_ENG_20030528_082823.9-E3-8",
+    "start" : 120,
+    "end" : 120
+  },
+  "relationID" : "CNN_ENG_20030528_082823.9-R4",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_ENG_20030528_082823.9-E24-7",
+    "start" : 119,
+    "end" : 119
+  },
+  "id" : "CNN_ENG_20030528_082823.9-R4-2",
+  "relationSubType" : "Located",
+  "Sentence" : "it 's been four years since the u . s. women 's soccer team made history winning the world cup before more than 90,000 fans at the rose bowl. everybody remembers that scene. brandy chastain's kick and mia hamm ripping the shirt off. the super bowl of women 's soccer is returning to the u . s. after concerns about sars in china prompted a change in venue for this year 's tournament. lynn morgan president of the soccer association is one of those who has the job of organizing this global event that has only got four months to get put together instead of four years as usual and she joins us from atlanta this morning. you see her there. in washington , with us now is mia hamm , one of the stars of the ' 99 u . s. team. she 's now playing for the washington freedom of the wusa. ladies , thanks for coming out and talking with us this morning. mia , when you heard the news about china now saying they want the u . s. to run the tournament , when you heard that , did you think this is a pleasant surprise or you got to be kidding ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "it", "'s", "been", "four", "years", "since", "the", "u", ".", "s.", "women", "'s", "soccer", "team", "made", "history", "winning", "the", "world", "cup", "before", "more", "than", "90,000", "fans", "at", "the", "rose", "bowl.", "everybody", "remembers", "that", "scene.", "brandy", "chastain's", "kick", "and", "mia", "hamm", "ripping", "the", "shirt", "off.", "the", "super", "bowl", "of", "women", "'s", "soccer", "is", "returning", "to", "the", "u", ".", "s.", "after", "concerns", "about", "sars", "in", "china", "prompted", "a", "change", "in", "venue", "for", "this", "year", "'s", "tournament.", "lynn", "morgan", "president", "of", "the", "soccer", "association", "is", "one", "of", "those", "who", "has", "the", "job", "of", "organizing", "this", "global", "event", "that", "has", "only", "got", "four", "months", "to", "get", "put", "together", "instead", "of", "four", "years", "as", "usual", "and", "she", "joins", "us", "from", "atlanta", "this", "morning.", "you", "see", "her", "there.", "in", "washington", ",", "with", "us", "now", "is", "mia", "hamm", ",", "one", "of", "the", "stars", "of", "the", "'", "99", "u", ".", "s.", "team.", "she", "'s", "now", "playing", "for", "the", "washington", "freedom", "of", "the", "wusa.", "ladies", ",", "thanks", "for", "coming", "out", "and", "talking", "with", "us", "this", "morning.", "mia", ",", "when", "you", "heard", "the", "news", "about", "china", "now", "saying", "they", "want", "the", "u", ".", "s.", "to", "run", "the", "tournament", ",", "when", "you", "heard", "that", ",", "did", "you", "think", "this", "is", "a", "pleasant", "surprise", "or", "you", "got", "to", "be", "kidding", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "in washington, with us now is mia hamm, one of the stars of the '99 u.s. team",
+  "sentence_length" : 208,
+  "mentionArg2" : {
+    "extent" : "washington",
+    "argMentionid" : "CNN_ENG_20030528_082823.9-E5-9",
+    "start" : 122,
+    "end" : 122
+  },
+  "relationID" : "CNN_ENG_20030528_082823.9-R6",
+  "mentionArg1" : {
+    "extent" : "mia hamm",
+    "argMentionid" : "CNN_ENG_20030528_082823.9-E6-12",
+    "start" : 128,
+    "end" : 129
+  },
+  "id" : "CNN_ENG_20030528_082823.9-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "it 's been four years since the u . s. women 's soccer team made history winning the world cup before more than 90,000 fans at the rose bowl. everybody remembers that scene. brandy chastain's kick and mia hamm ripping the shirt off. the super bowl of women 's soccer is returning to the u . s. after concerns about sars in china prompted a change in venue for this year 's tournament. lynn morgan president of the soccer association is one of those who has the job of organizing this global event that has only got four months to get put together instead of four years as usual and she joins us from atlanta this morning. you see her there. in washington , with us now is mia hamm , one of the stars of the ' 99 u . s. team. she 's now playing for the washington freedom of the wusa. ladies , thanks for coming out and talking with us this morning. mia , when you heard the news about china now saying they want the u . s. to run the tournament , when you heard that , did you think this is a pleasant surprise or you got to be kidding ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "it", "'s", "been", "four", "years", "since", "the", "u", ".", "s.", "women", "'s", "soccer", "team", "made", "history", "winning", "the", "world", "cup", "before", "more", "than", "90,000", "fans", "at", "the", "rose", "bowl.", "everybody", "remembers", "that", "scene.", "brandy", "chastain's", "kick", "and", "mia", "hamm", "ripping", "the", "shirt", "off.", "the", "super", "bowl", "of", "women", "'s", "soccer", "is", "returning", "to", "the", "u", ".", "s.", "after", "concerns", "about", "sars", "in", "china", "prompted", "a", "change", "in", "venue", "for", "this", "year", "'s", "tournament.", "lynn", "morgan", "president", "of", "the", "soccer", "association", "is", "one", "of", "those", "who", "has", "the", "job", "of", "organizing", "this", "global", "event", "that", "has", "only", "got", "four", "months", "to", "get", "put", "together", "instead", "of", "four", "years", "as", "usual", "and", "she", "joins", "us", "from", "atlanta", "this", "morning.", "you", "see", "her", "there.", "in", "washington", ",", "with", "us", "now", "is", "mia", "hamm", ",", "one", "of", "the", "stars", "of", "the", "'", "99", "u", ".", "s.", "team.", "she", "'s", "now", "playing", "for", "the", "washington", "freedom", "of", "the", "wusa.", "ladies", ",", "thanks", "for", "coming", "out", "and", "talking", "with", "us", "this", "morning.", "mia", ",", "when", "you", "heard", "the", "news", "about", "china", "now", "saying", "they", "want", "the", "u", ".", "s.", "to", "run", "the", "tournament", ",", "when", "you", "heard", "that", ",", "did", "you", "think", "this", "is", "a", "pleasant", "surprise", "or", "you", "got", "to", "be", "kidding", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "she's now playing for the washington freedom of the wusa",
+  "sentence_length" : 208,
+  "mentionArg2" : {
+    "extent" : "the washington freedom of the wusa",
+    "argMentionid" : "CNN_ENG_20030528_082823.9-E10-18",
+    "start" : 148,
+    "end" : 153
+  },
+  "relationID" : "CNN_ENG_20030528_082823.9-R7",
+  "mentionArg1" : {
+    "extent" : "she",
+    "argMentionid" : "CNN_ENG_20030528_082823.9-E6-17",
+    "start" : 143,
+    "end" : 143
+  },
+  "id" : "CNN_ENG_20030528_082823.9-R7-1",
+  "relationSubType" : "Sports-Affiliation",
+  "Sentence" : "it 's been four years since the u . s. women 's soccer team made history winning the world cup before more than 90,000 fans at the rose bowl. everybody remembers that scene. brandy chastain's kick and mia hamm ripping the shirt off. the super bowl of women 's soccer is returning to the u . s. after concerns about sars in china prompted a change in venue for this year 's tournament. lynn morgan president of the soccer association is one of those who has the job of organizing this global event that has only got four months to get put together instead of four years as usual and she joins us from atlanta this morning. you see her there. in washington , with us now is mia hamm , one of the stars of the ' 99 u . s. team. she 's now playing for the washington freedom of the wusa. ladies , thanks for coming out and talking with us this morning. mia , when you heard the news about china now saying they want the u . s. to run the tournament , when you heard that , did you think this is a pleasant surprise or you got to be kidding ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "it", "'s", "been", "four", "years", "since", "the", "u", ".", "s.", "women", "'s", "soccer", "team", "made", "history", "winning", "the", "world", "cup", "before", "more", "than", "90,000", "fans", "at", "the", "rose", "bowl.", "everybody", "remembers", "that", "scene.", "brandy", "chastain's", "kick", "and", "mia", "hamm", "ripping", "the", "shirt", "off.", "the", "super", "bowl", "of", "women", "'s", "soccer", "is", "returning", "to", "the", "u", ".", "s.", "after", "concerns", "about", "sars", "in", "china", "prompted", "a", "change", "in", "venue", "for", "this", "year", "'s", "tournament.", "lynn", "morgan", "president", "of", "the", "soccer", "association", "is", "one", "of", "those", "who", "has", "the", "job", "of", "organizing", "this", "global", "event", "that", "has", "only", "got", "four", "months", "to", "get", "put", "together", "instead", "of", "four", "years", "as", "usual", "and", "she", "joins", "us", "from", "atlanta", "this", "morning.", "you", "see", "her", "there.", "in", "washington", ",", "with", "us", "now", "is", "mia", "hamm", ",", "one", "of", "the", "stars", "of", "the", "'", "99", "u", ".", "s.", "team.", "she", "'s", "now", "playing", "for", "the", "washington", "freedom", "of", "the", "wusa.", "ladies", ",", "thanks", "for", "coming", "out", "and", "talking", "with", "us", "this", "morning.", "mia", ",", "when", "you", "heard", "the", "news", "about", "china", "now", "saying", "they", "want", "the", "u", ".", "s.", "to", "run", "the", "tournament", ",", "when", "you", "heard", "that", ",", "did", "you", "think", "this", "is", "a", "pleasant", "surprise", "or", "you", "got", "to", "be", "kidding", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the washington freedom of the wusa",
+  "sentence_length" : 208,
+  "mentionArg2" : {
+    "extent" : "the wusa",
+    "argMentionid" : "CNN_ENG_20030528_082823.9-E11-19",
+    "start" : 152,
+    "end" : 153
+  },
+  "relationID" : "CNN_ENG_20030528_082823.9-R8",
+  "mentionArg1" : {
+    "extent" : "the washington freedom of the wusa",
+    "argMentionid" : "CNN_ENG_20030528_082823.9-E10-18",
+    "start" : 148,
+    "end" : 153
+  },
+  "id" : "CNN_ENG_20030528_082823.9-R8-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "it 's been four years since the u . s. women 's soccer team made history winning the world cup before more than 90,000 fans at the rose bowl. everybody remembers that scene. brandy chastain's kick and mia hamm ripping the shirt off. the super bowl of women 's soccer is returning to the u . s. after concerns about sars in china prompted a change in venue for this year 's tournament. lynn morgan president of the soccer association is one of those who has the job of organizing this global event that has only got four months to get put together instead of four years as usual and she joins us from atlanta this morning. you see her there. in washington , with us now is mia hamm , one of the stars of the ' 99 u . s. team. she 's now playing for the washington freedom of the wusa. ladies , thanks for coming out and talking with us this morning. mia , when you heard the news about china now saying they want the u . s. to run the tournament , when you heard that , did you think this is a pleasant surprise or you got to be kidding ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "it", "'s", "been", "four", "years", "since", "the", "u", ".", "s.", "women", "'s", "soccer", "team", "made", "history", "winning", "the", "world", "cup", "before", "more", "than", "90,000", "fans", "at", "the", "rose", "bowl.", "everybody", "remembers", "that", "scene.", "brandy", "chastain's", "kick", "and", "mia", "hamm", "ripping", "the", "shirt", "off.", "the", "super", "bowl", "of", "women", "'s", "soccer", "is", "returning", "to", "the", "u", ".", "s.", "after", "concerns", "about", "sars", "in", "china", "prompted", "a", "change", "in", "venue", "for", "this", "year", "'s", "tournament.", "lynn", "morgan", "president", "of", "the", "soccer", "association", "is", "one", "of", "those", "who", "has", "the", "job", "of", "organizing", "this", "global", "event", "that", "has", "only", "got", "four", "months", "to", "get", "put", "together", "instead", "of", "four", "years", "as", "usual", "and", "she", "joins", "us", "from", "atlanta", "this", "morning.", "you", "see", "her", "there.", "in", "washington", ",", "with", "us", "now", "is", "mia", "hamm", ",", "one", "of", "the", "stars", "of", "the", "'", "99", "u", ".", "s.", "team.", "she", "'s", "now", "playing", "for", "the", "washington", "freedom", "of", "the", "wusa.", "ladies", ",", "thanks", "for", "coming", "out", "and", "talking", "with", "us", "this", "morning.", "mia", ",", "when", "you", "heard", "the", "news", "about", "china", "now", "saying", "they", "want", "the", "u", ".", "s.", "to", "run", "the", "tournament", ",", "when", "you", "heard", "that", ",", "did", "you", "think", "this", "is", "a", "pleasant", "surprise", "or", "you", "got", "to", "be", "kidding", "?" ]
+} ]

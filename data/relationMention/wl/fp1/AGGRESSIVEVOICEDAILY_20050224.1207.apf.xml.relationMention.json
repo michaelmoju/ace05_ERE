@@ -1,0 +1,353 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "Some Florida legislators",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Florida",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E7-68",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050224.1207-R1",
+  "mentionArg1" : {
+    "extent" : "Some Florida legislators",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E42-64",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050224.1207-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Scott 2005-02-24T12:07:00 From the St. Pete Times : Some Florida legislators want to give people the right to shoot an attacker in a public place .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Scott", "2005-02-24T12:07:00", "From", "the", "St.", "Pete", "Times", ":", "Some", "Florida", "legislators", "want", "to", "give", "people", "the", "right", "to", "shoot", "an", "attacker", "in", "a", "public", "place", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "people the right to shoot an attacker in a public place",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "a public place",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E46-71",
+    "start" : 22,
+    "end" : 24
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050224.1207-R2",
+  "mentionArg1" : {
+    "extent" : "people",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E44-69",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050224.1207-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Scott 2005-02-24T12:07:00 From the St. Pete Times : Some Florida legislators want to give people the right to shoot an attacker in a public place .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Scott", "2005-02-24T12:07:00", "From", "the", "St.", "Pete", "Times", ":", "Some", "Florida", "legislators", "want", "to", "give", "people", "the", "right", "to", "shoot", "an", "attacker", "in", "a", "public", "place", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "A House committee voted Wednesday to allow people to shoot to kill in self-defense if they are attacked \"in any other place where he or she has a right to be",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "in any other place where he or she has a right to be",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E46-76",
+    "start" : 19,
+    "end" : 31
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050224.1207-R2",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E44-75",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050224.1207-R2-2",
+  "relationSubType" : "Located",
+  "Sentence" : "A House committee voted Wednesday to allow people to shoot to kill in self-defense if they are attacked \" in any other place where he or she has a right to be . \"",
+  "sentence_index" : 1,
+  "Tokens" : [ "A", "House", "committee", "voted", "Wednesday", "to", "allow", "people", "to", "shoot", "to", "kill", "in", "self-defense", "if", "they", "are", "attacked", "\"", "in", "any", "other", "place", "where", "he", "or", "she", "has", "a", "right", "to", "be", ".", "\"" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "But this legislation says a person who is under attack in a public place \"has no duty to retreat",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "a public place",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E46-12",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050224.1207-R2",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E44-11",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050224.1207-R2-3",
+  "relationSubType" : "Located",
+  "Sentence" : "But this legislation says a person who is under attack in a public place \" has no duty to retreat . \"",
+  "sentence_index" : 5,
+  "Tokens" : [ "But", "this", "legislation", "says", "a", "person", "who", "is", "under", "attack", "in", "a", "public", "place", "\"", "has", "no", "duty", "to", "retreat", ".", "\"" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "people the right to shoot an attacker in a public place",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "a public place",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E46-71",
+    "start" : 22,
+    "end" : 24
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050224.1207-R3",
+  "mentionArg1" : {
+    "extent" : "an attacker",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E45-70",
+    "start" : 19,
+    "end" : 20
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050224.1207-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Scott 2005-02-24T12:07:00 From the St. Pete Times : Some Florida legislators want to give people the right to shoot an attacker in a public place .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Scott", "2005-02-24T12:07:00", "From", "the", "St.", "Pete", "Times", ":", "Some", "Florida", "legislators", "want", "to", "give", "people", "the", "right", "to", "shoot", "an", "attacker", "in", "a", "public", "place", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "A House committee",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "House",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E16-73",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050224.1207-R4",
+  "mentionArg1" : {
+    "extent" : "A House committee",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E47-72",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050224.1207-R4-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "A House committee voted Wednesday to allow people to shoot to kill in self-defense if they are attacked \" in any other place where he or she has a right to be . \"",
+  "sentence_index" : 1,
+  "Tokens" : [ "A", "House", "committee", "voted", "Wednesday", "to", "allow", "people", "to", "shoot", "to", "kill", "in", "self-defense", "if", "they", "are", "attacked", "\"", "in", "any", "other", "place", "where", "he", "or", "she", "has", "a", "right", "to", "be", ".", "\"" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Florida courts",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Florida",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E7-8",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050224.1207-R6",
+  "mentionArg1" : {
+    "extent" : "Florida courts",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E6-7",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050224.1207-R6-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Florida courts consider deadly force a last resort and have held that a person being attacked has the \" duty to use every reasonable means to avoid the danger , including retreat , prior to using deadly force . \"",
+  "sentence_index" : 4,
+  "Tokens" : [ "Florida", "courts", "consider", "deadly", "force", "a", "last", "resort", "and", "have", "held", "that", "a", "person", "being", "attacked", "has", "the", "\"", "duty", "to", "use", "every", "reasonable", "means", "to", "avoid", "the", "danger", ",", "including", "retreat", ",", "prior", "to", "using", "deadly", "force", ".", "\"" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "NRA lobbyist",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "NRA",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E11-19",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050224.1207-R8",
+  "mentionArg1" : {
+    "extent" : "NRA lobbyist",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E9-18",
+    "start" : 21,
+    "end" : 22
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050224.1207-R8-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "\" Law-abiding people should not be told that if they are attacked , they should turn around and run , \" NRA lobbyist Marion Hammer told lawmakers .",
+  "sentence_index" : 6,
+  "Tokens" : [ "\"", "Law-abiding", "people", "should", "not", "be", "told", "that", "if", "they", "are", "attacked", ",", "they", "should", "turn", "around", "and", "run", ",", "\"", "NRA", "lobbyist", "Marion", "Hammer", "told", "lawmakers", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "62 House members",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "House",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E16-31",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050224.1207-R9",
+  "mentionArg1" : {
+    "extent" : "62 House members",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E15-30",
+    "start" : 2,
+    "end" : 4
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050224.1207-R9-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "He said 62 House members , a majority , have endorsed his bill , and supporters include Attorney General Charlie Crist and groups representing Florida sheriffs , police chiefs and police officers .",
+  "sentence_index" : 9,
+  "Tokens" : [ "He", "said", "62", "House", "members", ",", "a", "majority", ",", "have", "endorsed", "his", "bill", ",", "and", "supporters", "include", "Attorney", "General", "Charlie", "Crist", "and", "groups", "representing", "Florida", "sheriffs", ",", "police", "chiefs", "and", "police", "officers", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Florida sheriffs, police chiefs and police officers",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Florida",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E7-40",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050224.1207-R10",
+  "mentionArg1" : {
+    "extent" : "Florida sheriffs, police chiefs and police officers",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E22-37",
+    "start" : 24,
+    "end" : 31
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050224.1207-R10-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "He said 62 House members , a majority , have endorsed his bill , and supporters include Attorney General Charlie Crist and groups representing Florida sheriffs , police chiefs and police officers .",
+  "sentence_index" : 9,
+  "Tokens" : [ "He", "said", "62", "House", "members", ",", "a", "majority", ",", "have", "endorsed", "his", "bill", ",", "and", "supporters", "include", "Attorney", "General", "Charlie", "Crist", "and", "groups", "representing", "Florida", "sheriffs", ",", "police", "chiefs", "and", "police", "officers", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Florida sheriffs, police chiefs and police officers",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Florida",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E7-40",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050224.1207-R11",
+  "mentionArg1" : {
+    "extent" : "Florida sheriffs, police chiefs and police officers",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E23-38",
+    "start" : 24,
+    "end" : 31
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050224.1207-R11-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "He said 62 House members , a majority , have endorsed his bill , and supporters include Attorney General Charlie Crist and groups representing Florida sheriffs , police chiefs and police officers .",
+  "sentence_index" : 9,
+  "Tokens" : [ "He", "said", "62", "House", "members", ",", "a", "majority", ",", "have", "endorsed", "his", "bill", ",", "and", "supporters", "include", "Attorney", "General", "Charlie", "Crist", "and", "groups", "representing", "Florida", "sheriffs", ",", "police", "chiefs", "and", "police", "officers", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Florida sheriffs, police chiefs and police officers",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Florida",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E7-40",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050224.1207-R12",
+  "mentionArg1" : {
+    "extent" : "Florida sheriffs, police chiefs and police officers",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E24-39",
+    "start" : 24,
+    "end" : 31
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050224.1207-R12-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "He said 62 House members , a majority , have endorsed his bill , and supporters include Attorney General Charlie Crist and groups representing Florida sheriffs , police chiefs and police officers .",
+  "sentence_index" : 9,
+  "Tokens" : [ "He", "said", "62", "House", "members", ",", "a", "majority", ",", "have", "endorsed", "his", "bill", ",", "and", "supporters", "include", "Attorney", "General", "Charlie", "Crist", "and", "groups", "representing", "Florida", "sheriffs", ",", "police", "chiefs", "and", "police", "officers", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Rep. Jeff Kottkamp, R-Cape Coral",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Cape Coral",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E28-44",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050224.1207-R13",
+  "mentionArg1" : {
+    "extent" : "Rep. Jeff Kottkamp",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E26-42",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050224.1207-R13-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Rep. Jeff Kottkamp , R-Cape Coral , said the bill reminded him of a sign he saw on a constituent 's house while campaigning door-to-door .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Rep.", "Jeff", "Kottkamp", ",", "R-Cape", "Coral", ",", "said", "the", "bill", "reminded", "him", "of", "a", "sign", "he", "saw", "on", "a", "constituent", "'s", "house", "while", "campaigning", "door-to-door", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Rep. Jeff Kottkamp, R-Cape Coral",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "R",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E29-45",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050224.1207-R14",
+  "mentionArg1" : {
+    "extent" : "Rep. Jeff Kottkamp",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E26-42",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050224.1207-R14-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Rep. Jeff Kottkamp , R-Cape Coral , said the bill reminded him of a sign he saw on a constituent 's house while campaigning door-to-door .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Rep.", "Jeff", "Kottkamp", ",", "R-Cape", "Coral", ",", "said", "the", "bill", "reminded", "him", "of", "a", "sign", "he", "saw", "on", "a", "constituent", "'s", "house", "while", "campaigning", "door-to-door", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a constituent's house",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "a constituent's house",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E30-48",
+    "start" : 18,
+    "end" : 21
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050224.1207-R15",
+  "mentionArg1" : {
+    "extent" : "a constituent",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E31-49",
+    "start" : 18,
+    "end" : 19
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050224.1207-R15-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Rep. Jeff Kottkamp , R-Cape Coral , said the bill reminded him of a sign he saw on a constituent 's house while campaigning door-to-door .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Rep.", "Jeff", "Kottkamp", ",", "R-Cape", "Coral", ",", "said", "the", "bill", "reminded", "him", "of", "a", "sign", "he", "saw", "on", "a", "constituent", "'s", "house", "while", "campaigning", "door-to-door", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Florida gun carriers",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Florida",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E7-56",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050224.1207-R16",
+  "mentionArg1" : {
+    "extent" : "Florida gun carriers",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050224.1207-E35-54",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050224.1207-R16-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "This is great news for Florida gun carriers because now to defend yourself you do n't have to first make sure a \" duty to retreat \" is impossible .",
+  "sentence_index" : 12,
+  "Tokens" : [ "This", "is", "great", "news", "for", "Florida", "gun", "carriers", "because", "now", "to", "defend", "yourself", "you", "do", "n't", "have", "to", "first", "make", "sure", "a", "\"", "duty", "to", "retreat", "\"", "is", "impossible", "." ]
+} ]

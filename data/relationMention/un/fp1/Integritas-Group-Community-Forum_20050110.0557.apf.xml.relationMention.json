@@ -1,0 +1,265 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Watertown, MA",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "MA",
+    "argMentionid" : "Integritas-Group-Community-Forum_20050110.0557-E51-126",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "Integritas-Group-Community-Forum_20050110.0557-R1",
+  "mentionArg1" : {
+    "extent" : "Watertown, MA",
+    "argMentionid" : "Integritas-Group-Community-Forum_20050110.0557-E50-125",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "Integritas-Group-Community-Forum_20050110.0557-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "I now live in Watertown , MA , 12 miles from Boston 's Logan airport , in a lovely two family house I bought as an investment with my boss , my 9 year old Yorkshire Terrier , Teddy !",
+  "sentence_index" : 3,
+  "Tokens" : [ "I", "now", "live", "in", "Watertown", ",", "MA", ",", "12", "miles", "from", "Boston", "'s", "Logan", "airport", ",", "in", "a", "lovely", "two", "family", "house", "I", "bought", "as", "an", "investment", "with", "my", "boss", ",", "my", "9", "year", "old", "Yorkshire", "Terrier", ",", "Teddy", "!" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "I now live in Watertown, MA, 12 miles from Boston's Logan airport, in a lovely two family house I bought as an investment with my boss, my 9 year old Yorkshire Terrier, Teddy",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Watertown, MA",
+    "argMentionid" : "Integritas-Group-Community-Forum_20050110.0557-E50-125",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "Integritas-Group-Community-Forum_20050110.0557-R2",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "Integritas-Group-Community-Forum_20050110.0557-E28-124",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "Integritas-Group-Community-Forum_20050110.0557-R2-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "I now live in Watertown , MA , 12 miles from Boston 's Logan airport , in a lovely two family house I bought as an investment with my boss , my 9 year old Yorkshire Terrier , Teddy !",
+  "sentence_index" : 3,
+  "Tokens" : [ "I", "now", "live", "in", "Watertown", ",", "MA", ",", "12", "miles", "from", "Boston", "'s", "Logan", "airport", ",", "in", "a", "lovely", "two", "family", "house", "I", "bought", "as", "an", "investment", "with", "my", "boss", ",", "my", "9", "year", "old", "Yorkshire", "Terrier", ",", "Teddy", "!" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Boston's Logan airport",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Boston",
+    "argMentionid" : "Integritas-Group-Community-Forum_20050110.0557-E52-127",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "Integritas-Group-Community-Forum_20050110.0557-R3",
+  "mentionArg1" : {
+    "extent" : "Boston's Logan airport",
+    "argMentionid" : "Integritas-Group-Community-Forum_20050110.0557-E53-128",
+    "start" : 11,
+    "end" : 14
+  },
+  "id" : "Integritas-Group-Community-Forum_20050110.0557-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "I now live in Watertown , MA , 12 miles from Boston 's Logan airport , in a lovely two family house I bought as an investment with my boss , my 9 year old Yorkshire Terrier , Teddy !",
+  "sentence_index" : 3,
+  "Tokens" : [ "I", "now", "live", "in", "Watertown", ",", "MA", ",", "12", "miles", "from", "Boston", "'s", "Logan", "airport", ",", "in", "a", "lovely", "two", "family", "house", "I", "bought", "as", "an", "investment", "with", "my", "boss", ",", "my", "9", "year", "old", "Yorkshire", "Terrier", ",", "Teddy", "!" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I now live in Watertown, MA, 12 miles from Boston's Logan airport, in a lovely two family house I bought as an investment with my boss, my 9 year old Yorkshire Terrier, Teddy",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "a lovely two family house I bought as an investment",
+    "argMentionid" : "Integritas-Group-Community-Forum_20050110.0557-E54-129",
+    "start" : 17,
+    "end" : 26
+  },
+  "relationID" : "Integritas-Group-Community-Forum_20050110.0557-R4",
+  "mentionArg1" : {
+    "extent" : "Boston's Logan airport",
+    "argMentionid" : "Integritas-Group-Community-Forum_20050110.0557-E53-128",
+    "start" : 11,
+    "end" : 14
+  },
+  "id" : "Integritas-Group-Community-Forum_20050110.0557-R4-1",
+  "relationSubType" : "Near",
+  "Sentence" : "I now live in Watertown , MA , 12 miles from Boston 's Logan airport , in a lovely two family house I bought as an investment with my boss , my 9 year old Yorkshire Terrier , Teddy !",
+  "sentence_index" : 3,
+  "Tokens" : [ "I", "now", "live", "in", "Watertown", ",", "MA", ",", "12", "miles", "from", "Boston", "'s", "Logan", "airport", ",", "in", "a", "lovely", "two", "family", "house", "I", "bought", "as", "an", "investment", "with", "my", "boss", ",", "my", "9", "year", "old", "Yorkshire", "Terrier", ",", "Teddy", "!" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "my own company",
+  "sentence_length" : 54,
+  "mentionArg2" : {
+    "extent" : "my own company",
+    "argMentionid" : "Integritas-Group-Community-Forum_20050110.0557-E2-3",
+    "start" : 12,
+    "end" : 14
+  },
+  "relationID" : "Integritas-Group-Community-Forum_20050110.0557-R5",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "Integritas-Group-Community-Forum_20050110.0557-E28-2",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "Integritas-Group-Community-Forum_20050110.0557-R5-1",
+  "relationSubType" : "Ownership",
+  "Sentence" : "I ran a software company for a few years and then started my own company , Pinnacle Business Enterprises and was under a 5 year exclusive contract with PriceWaterhouoseCoopers doing a lot of interesting things like Business Process Engineering , processes but mostly people and the effect new process would have on them .",
+  "sentence_index" : 6,
+  "Tokens" : [ "I", "ran", "a", "software", "company", "for", "a", "few", "years", "and", "then", "started", "my", "own", "company", ",", "Pinnacle", "Business", "Enterprises", "and", "was", "under", "a", "5", "year", "exclusive", "contract", "with", "PriceWaterhouoseCoopers", "doing", "a", "lot", "of", "interesting", "things", "like", "Business", "Process", "Engineering", ",", "processes", "but", "mostly", "people", "and", "the", "effect", "new", "process", "would", "have", "on", "them", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Those of you in Louisianna",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "Louisianna",
+    "argMentionid" : "Integritas-Group-Community-Forum_20050110.0557-E8-18",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "Integritas-Group-Community-Forum_20050110.0557-R6",
+  "mentionArg1" : {
+    "extent" : "Those of you in Louisianna",
+    "argMentionid" : "Integritas-Group-Community-Forum_20050110.0557-E6-16",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "Integritas-Group-Community-Forum_20050110.0557-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Those of you in Louisianna are very familiar with what used to be The Akzo Salt Mines .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Those", "of", "you", "in", "Louisianna", "are", "very", "familiar", "with", "what", "used", "to", "be", "The", "Akzo", "Salt", "Mines", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "On a client visit one day, unexpectedly, they dressed me up in safety equipment and ran me down the mine shaft",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "the mine shaft",
+    "argMentionid" : "Integritas-Group-Community-Forum_20050110.0557-E13-25",
+    "start" : 20,
+    "end" : 22
+  },
+  "relationID" : "Integritas-Group-Community-Forum_20050110.0557-R7",
+  "mentionArg1" : {
+    "extent" : "me",
+    "argMentionid" : "Integritas-Group-Community-Forum_20050110.0557-E28-23",
+    "start" : 18,
+    "end" : 18
+  },
+  "id" : "Integritas-Group-Community-Forum_20050110.0557-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "On a client visit one day , unexpectedly , they dressed me up in safety equipment and ran me down the mine shaft .",
+  "sentence_index" : 10,
+  "Tokens" : [ "On", "a", "client", "visit", "one", "day", ",", "unexpectedly", ",", "they", "dressed", "me", "up", "in", "safety", "equipment", "and", "ran", "me", "down", "the", "mine", "shaft", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my father",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "my father",
+    "argMentionid" : "Integritas-Group-Community-Forum_20050110.0557-E32-67",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "Integritas-Group-Community-Forum_20050110.0557-R8",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "Integritas-Group-Community-Forum_20050110.0557-E28-66",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "Integritas-Group-Community-Forum_20050110.0557-R8-1",
+  "relationSubType" : "Family",
+  "Sentence" : "I grew up in what at that time was rural NJ and my father was an avid hunter and sportsman .",
+  "sentence_index" : 20,
+  "Tokens" : [ "I", "grew", "up", "in", "what", "at", "that", "time", "was", "rural", "NJ", "and", "my", "father", "was", "an", "avid", "hunter", "and", "sportsman", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "My father",
+  "sentence_length" : 77,
+  "mentionArg2" : {
+    "extent" : "My father",
+    "argMentionid" : "Integritas-Group-Community-Forum_20050110.0557-E32-69",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "Integritas-Group-Community-Forum_20050110.0557-R8",
+  "mentionArg1" : {
+    "extent" : "My",
+    "argMentionid" : "Integritas-Group-Community-Forum_20050110.0557-E28-68",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "Integritas-Group-Community-Forum_20050110.0557-R8-2",
+  "relationSubType" : "Family",
+  "Sentence" : "My father , way ahead of his time in his thinking , was an equal oportunty thinker ... that is why I can and love to shoot skeet , was a champion archer as a child , learned to camp and hike and drive a speedboat , kayack of course canoe and when I recover Chris , I will join you white wather rafing because I have only done level three but what an unbelievable rush !!",
+  "sentence_index" : 21,
+  "Tokens" : [ "My", "father", ",", "way", "ahead", "of", "his", "time", "in", "his", "thinking", ",", "was", "an", "equal", "oportunty", "thinker", "...", "that", "is", "why", "I", "can", "and", "love", "to", "shoot", "skeet", ",", "was", "a", "champion", "archer", "as", "a", "child", ",", "learned", "to", "camp", "and", "hike", "and", "drive", "a", "speedboat", ",", "kayack", "of", "course", "canoe", "and", "when", "I", "recover", "Chris", ",", "I", "will", "join", "you", "white", "wather", "rafing", "because", "I", "have", "only", "done", "level", "three", "but", "what", "an", "unbelievable", "rush", "!!" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "ALL AMERICAN GIRL",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "ALL AMERICAN",
+    "argMentionid" : "Integritas-Group-Community-Forum_20050110.0557-E39-88",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "Integritas-Group-Community-Forum_20050110.0557-R10",
+  "mentionArg1" : {
+    "extent" : "ALL AMERICAN GIRL",
+    "argMentionid" : "Integritas-Group-Community-Forum_20050110.0557-E28-87",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "Integritas-Group-Community-Forum_20050110.0557-R10-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "I consider myself and \" ALL AMERICAN GIRL \" when that was n't a politically incorrect phrase to use .",
+  "sentence_index" : 23,
+  "Tokens" : [ "I", "consider", "myself", "and", "\"", "ALL", "AMERICAN", "GIRL", "\"", "when", "that", "was", "n't", "a", "politically", "incorrect", "phrase", "to", "use", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Both my houses, in NJ and Boston",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Both my houses, in NJ and Boston",
+    "argMentionid" : "Integritas-Group-Community-Forum_20050110.0557-E44-102",
+    "start" : 0,
+    "end" : 7
+  },
+  "relationID" : "Integritas-Group-Community-Forum_20050110.0557-R11",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "Integritas-Group-Community-Forum_20050110.0557-E28-103",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "Integritas-Group-Community-Forum_20050110.0557-R11-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Both my houses , in NJ and Boston are always open to friends and those who would be friends .",
+  "sentence_index" : 25,
+  "Tokens" : [ "Both", "my", "houses", ",", "in", "NJ", "and", "Boston", "are", "always", "open", "to", "friends", "and", "those", "who", "would", "be", "friends", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "that is why I can and love to shoot skeet, was a champion archer as a child, learned to camp and hike and drive a speedboat, kayack of course canoe and when I recover Chris, I will join you white wather rafing because I have only done level three but what an unbelievable rush",
+  "sentence_length" : 77,
+  "mentionArg2" : {
+    "extent" : "a speedboat",
+    "argMentionid" : "Integritas-Group-Community-Forum_20050110.0557-E49-119",
+    "start" : 44,
+    "end" : 45
+  },
+  "relationID" : "Integritas-Group-Community-Forum_20050110.0557-R12",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "Integritas-Group-Community-Forum_20050110.0557-E28-75",
+    "start" : 21,
+    "end" : 21
+  },
+  "id" : "Integritas-Group-Community-Forum_20050110.0557-R12-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "My father , way ahead of his time in his thinking , was an equal oportunty thinker ... that is why I can and love to shoot skeet , was a champion archer as a child , learned to camp and hike and drive a speedboat , kayack of course canoe and when I recover Chris , I will join you white wather rafing because I have only done level three but what an unbelievable rush !!",
+  "sentence_index" : 21,
+  "Tokens" : [ "My", "father", ",", "way", "ahead", "of", "his", "time", "in", "his", "thinking", ",", "was", "an", "equal", "oportunty", "thinker", "...", "that", "is", "why", "I", "can", "and", "love", "to", "shoot", "skeet", ",", "was", "a", "champion", "archer", "as", "a", "child", ",", "learned", "to", "camp", "and", "hike", "and", "drive", "a", "speedboat", ",", "kayack", "of", "course", "canoe", "and", "when", "I", "recover", "Chris", ",", "I", "will", "join", "you", "white", "wather", "rafing", "because", "I", "have", "only", "done", "level", "three", "but", "what", "an", "unbelievable", "rush", "!!" ]
+} ]

@@ -1,0 +1,221 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "a palestinian terrorist leader",
+  "sentence_length" : 105,
+  "mentionArg2" : {
+    "extent" : "palestinian",
+    "argMentionid" : "CNNHL_ENG_20030415_193729.5-E13-19",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "CNNHL_ENG_20030415_193729.5-R1",
+  "mentionArg1" : {
+    "extent" : "terrorist",
+    "argMentionid" : "CNNHL_ENG_20030415_193729.5-E11-15",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "CNNHL_ENG_20030415_193729.5-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "a palestinian terrorist leader wanted for a deadly 1985 cruise ship hijacking is in u . s. custody in iraq. u . s. sources tell cnn mohammed \" abu \" abbas was captured about 50 miles west of baghdad. palestinian sources say he had tried to flee into syria , but was turned away at the border. in october of 1985 , four hijackers under his command took over the italian cruise ship \" achille lauro \" and killed a wheelchair- bound american tourist , leo klinghoffer. abbas was convicted in absentia by an italian court and sentenced to five life terms in prison .",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "palestinian", "terrorist", "leader", "wanted", "for", "a", "deadly", "1985", "cruise", "ship", "hijacking", "is", "in", "u", ".", "s.", "custody", "in", "iraq.", "u", ".", "s.", "sources", "tell", "cnn", "mohammed", "\"", "abu", "\"", "abbas", "was", "captured", "about", "50", "miles", "west", "of", "baghdad.", "palestinian", "sources", "say", "he", "had", "tried", "to", "flee", "into", "syria", ",", "but", "was", "turned", "away", "at", "the", "border.", "in", "october", "of", "1985", ",", "four", "hijackers", "under", "his", "command", "took", "over", "the", "italian", "cruise", "ship", "\"", "achille", "lauro", "\"", "and", "killed", "a", "wheelchair-", "bound", "american", "tourist", ",", "leo", "klinghoffer.", "abbas", "was", "convicted", "in", "absentia", "by", "an", "italian", "court", "and", "sentenced", "to", "five", "life", "terms", "in", "prison", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a palestinian terrorist leader wanted for a deadly 1985 cruise ship hijacking is in u.s. custody in iraq",
+  "sentence_length" : 105,
+  "mentionArg2" : {
+    "extent" : "iraq",
+    "argMentionid" : "CNNHL_ENG_20030415_193729.5-E19-24",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "CNNHL_ENG_20030415_193729.5-R2",
+  "mentionArg1" : {
+    "extent" : "a palestinian terrorist leader",
+    "argMentionid" : "CNNHL_ENG_20030415_193729.5-E22-18",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNNHL_ENG_20030415_193729.5-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "a palestinian terrorist leader wanted for a deadly 1985 cruise ship hijacking is in u . s. custody in iraq. u . s. sources tell cnn mohammed \" abu \" abbas was captured about 50 miles west of baghdad. palestinian sources say he had tried to flee into syria , but was turned away at the border. in october of 1985 , four hijackers under his command took over the italian cruise ship \" achille lauro \" and killed a wheelchair- bound american tourist , leo klinghoffer. abbas was convicted in absentia by an italian court and sentenced to five life terms in prison .",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "palestinian", "terrorist", "leader", "wanted", "for", "a", "deadly", "1985", "cruise", "ship", "hijacking", "is", "in", "u", ".", "s.", "custody", "in", "iraq.", "u", ".", "s.", "sources", "tell", "cnn", "mohammed", "\"", "abu", "\"", "abbas", "was", "captured", "about", "50", "miles", "west", "of", "baghdad.", "palestinian", "sources", "say", "he", "had", "tried", "to", "flee", "into", "syria", ",", "but", "was", "turned", "away", "at", "the", "border.", "in", "october", "of", "1985", ",", "four", "hijackers", "under", "his", "command", "took", "over", "the", "italian", "cruise", "ship", "\"", "achille", "lauro", "\"", "and", "killed", "a", "wheelchair-", "bound", "american", "tourist", ",", "leo", "klinghoffer.", "abbas", "was", "convicted", "in", "absentia", "by", "an", "italian", "court", "and", "sentenced", "to", "five", "life", "terms", "in", "prison", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "u.s. sources tell cnn mohammed \"abu\" abbas was captured about 50 miles west of baghdad",
+  "sentence_length" : 105,
+  "mentionArg2" : {
+    "extent" : "baghdad",
+    "argMentionid" : "CNNHL_ENG_20030415_193729.5-E23-28",
+    "start" : 38,
+    "end" : 38
+  },
+  "relationID" : "CNNHL_ENG_20030415_193729.5-R3",
+  "mentionArg1" : {
+    "extent" : "mohammed \"abu\" abbas",
+    "argMentionid" : "CNNHL_ENG_20030415_193729.5-E22-27",
+    "start" : 26,
+    "end" : 30
+  },
+  "id" : "CNNHL_ENG_20030415_193729.5-R3-1",
+  "relationSubType" : "Near",
+  "Sentence" : "a palestinian terrorist leader wanted for a deadly 1985 cruise ship hijacking is in u . s. custody in iraq. u . s. sources tell cnn mohammed \" abu \" abbas was captured about 50 miles west of baghdad. palestinian sources say he had tried to flee into syria , but was turned away at the border. in october of 1985 , four hijackers under his command took over the italian cruise ship \" achille lauro \" and killed a wheelchair- bound american tourist , leo klinghoffer. abbas was convicted in absentia by an italian court and sentenced to five life terms in prison .",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "palestinian", "terrorist", "leader", "wanted", "for", "a", "deadly", "1985", "cruise", "ship", "hijacking", "is", "in", "u", ".", "s.", "custody", "in", "iraq.", "u", ".", "s.", "sources", "tell", "cnn", "mohammed", "\"", "abu", "\"", "abbas", "was", "captured", "about", "50", "miles", "west", "of", "baghdad.", "palestinian", "sources", "say", "he", "had", "tried", "to", "flee", "into", "syria", ",", "but", "was", "turned", "away", "at", "the", "border.", "in", "october", "of", "1985", ",", "four", "hijackers", "under", "his", "command", "took", "over", "the", "italian", "cruise", "ship", "\"", "achille", "lauro", "\"", "and", "killed", "a", "wheelchair-", "bound", "american", "tourist", ",", "leo", "klinghoffer.", "abbas", "was", "convicted", "in", "absentia", "by", "an", "italian", "court", "and", "sentenced", "to", "five", "life", "terms", "in", "prison", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "palestinian sources say he had tried to flee into syria, but was turned away at the border",
+  "sentence_length" : 105,
+  "mentionArg2" : {
+    "extent" : "the border",
+    "argMentionid" : "CNNHL_ENG_20030415_193729.5-E1-1",
+    "start" : 55,
+    "end" : 56
+  },
+  "relationID" : "CNNHL_ENG_20030415_193729.5-R4",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "CNNHL_ENG_20030415_193729.5-E22-30",
+    "start" : 42,
+    "end" : 42
+  },
+  "id" : "CNNHL_ENG_20030415_193729.5-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "a palestinian terrorist leader wanted for a deadly 1985 cruise ship hijacking is in u . s. custody in iraq. u . s. sources tell cnn mohammed \" abu \" abbas was captured about 50 miles west of baghdad. palestinian sources say he had tried to flee into syria , but was turned away at the border. in october of 1985 , four hijackers under his command took over the italian cruise ship \" achille lauro \" and killed a wheelchair- bound american tourist , leo klinghoffer. abbas was convicted in absentia by an italian court and sentenced to five life terms in prison .",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "palestinian", "terrorist", "leader", "wanted", "for", "a", "deadly", "1985", "cruise", "ship", "hijacking", "is", "in", "u", ".", "s.", "custody", "in", "iraq.", "u", ".", "s.", "sources", "tell", "cnn", "mohammed", "\"", "abu", "\"", "abbas", "was", "captured", "about", "50", "miles", "west", "of", "baghdad.", "palestinian", "sources", "say", "he", "had", "tried", "to", "flee", "into", "syria", ",", "but", "was", "turned", "away", "at", "the", "border.", "in", "october", "of", "1985", ",", "four", "hijackers", "under", "his", "command", "took", "over", "the", "italian", "cruise", "ship", "\"", "achille", "lauro", "\"", "and", "killed", "a", "wheelchair-", "bound", "american", "tourist", ",", "leo", "klinghoffer.", "abbas", "was", "convicted", "in", "absentia", "by", "an", "italian", "court", "and", "sentenced", "to", "five", "life", "terms", "in", "prison", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "four hijackers under his command",
+  "sentence_length" : 105,
+  "mentionArg2" : {
+    "extent" : "his",
+    "argMentionid" : "CNNHL_ENG_20030415_193729.5-E22-3",
+    "start" : 65,
+    "end" : 65
+  },
+  "relationID" : "CNNHL_ENG_20030415_193729.5-R5",
+  "mentionArg1" : {
+    "extent" : "four hijackers under his command",
+    "argMentionid" : "CNNHL_ENG_20030415_193729.5-E2-2",
+    "start" : 62,
+    "end" : 66
+  },
+  "id" : "CNNHL_ENG_20030415_193729.5-R5-1",
+  "relationSubType" : "Business",
+  "Sentence" : "a palestinian terrorist leader wanted for a deadly 1985 cruise ship hijacking is in u . s. custody in iraq. u . s. sources tell cnn mohammed \" abu \" abbas was captured about 50 miles west of baghdad. palestinian sources say he had tried to flee into syria , but was turned away at the border. in october of 1985 , four hijackers under his command took over the italian cruise ship \" achille lauro \" and killed a wheelchair- bound american tourist , leo klinghoffer. abbas was convicted in absentia by an italian court and sentenced to five life terms in prison .",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "palestinian", "terrorist", "leader", "wanted", "for", "a", "deadly", "1985", "cruise", "ship", "hijacking", "is", "in", "u", ".", "s.", "custody", "in", "iraq.", "u", ".", "s.", "sources", "tell", "cnn", "mohammed", "\"", "abu", "\"", "abbas", "was", "captured", "about", "50", "miles", "west", "of", "baghdad.", "palestinian", "sources", "say", "he", "had", "tried", "to", "flee", "into", "syria", ",", "but", "was", "turned", "away", "at", "the", "border.", "in", "october", "of", "1985", ",", "four", "hijackers", "under", "his", "command", "took", "over", "the", "italian", "cruise", "ship", "\"", "achille", "lauro", "\"", "and", "killed", "a", "wheelchair-", "bound", "american", "tourist", ",", "leo", "klinghoffer.", "abbas", "was", "convicted", "in", "absentia", "by", "an", "italian", "court", "and", "sentenced", "to", "five", "life", "terms", "in", "prison", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the italian cruise ship",
+  "sentence_length" : 105,
+  "mentionArg2" : {
+    "extent" : "the italian cruise ship",
+    "argMentionid" : "CNNHL_ENG_20030415_193729.5-E12-16",
+    "start" : 69,
+    "end" : 72
+  },
+  "relationID" : "CNNHL_ENG_20030415_193729.5-R6",
+  "mentionArg1" : {
+    "extent" : "italian",
+    "argMentionid" : "CNNHL_ENG_20030415_193729.5-E3-4",
+    "start" : 70,
+    "end" : 70
+  },
+  "id" : "CNNHL_ENG_20030415_193729.5-R6-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "a palestinian terrorist leader wanted for a deadly 1985 cruise ship hijacking is in u . s. custody in iraq. u . s. sources tell cnn mohammed \" abu \" abbas was captured about 50 miles west of baghdad. palestinian sources say he had tried to flee into syria , but was turned away at the border. in october of 1985 , four hijackers under his command took over the italian cruise ship \" achille lauro \" and killed a wheelchair- bound american tourist , leo klinghoffer. abbas was convicted in absentia by an italian court and sentenced to five life terms in prison .",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "palestinian", "terrorist", "leader", "wanted", "for", "a", "deadly", "1985", "cruise", "ship", "hijacking", "is", "in", "u", ".", "s.", "custody", "in", "iraq.", "u", ".", "s.", "sources", "tell", "cnn", "mohammed", "\"", "abu", "\"", "abbas", "was", "captured", "about", "50", "miles", "west", "of", "baghdad.", "palestinian", "sources", "say", "he", "had", "tried", "to", "flee", "into", "syria", ",", "but", "was", "turned", "away", "at", "the", "border.", "in", "october", "of", "1985", ",", "four", "hijackers", "under", "his", "command", "took", "over", "the", "italian", "cruise", "ship", "\"", "achille", "lauro", "\"", "and", "killed", "a", "wheelchair-", "bound", "american", "tourist", ",", "leo", "klinghoffer.", "abbas", "was", "convicted", "in", "absentia", "by", "an", "italian", "court", "and", "sentenced", "to", "five", "life", "terms", "in", "prison", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a wheelchair- bound american tourist",
+  "sentence_length" : 105,
+  "mentionArg2" : {
+    "extent" : "wheelchair",
+    "argMentionid" : "CNNHL_ENG_20030415_193729.5-E6-9",
+    "start" : 80,
+    "end" : 80
+  },
+  "relationID" : "CNNHL_ENG_20030415_193729.5-R7",
+  "mentionArg1" : {
+    "extent" : "a wheelchair- bound american tourist",
+    "argMentionid" : "CNNHL_ENG_20030415_193729.5-E4-6",
+    "start" : 79,
+    "end" : 83
+  },
+  "id" : "CNNHL_ENG_20030415_193729.5-R7-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "a palestinian terrorist leader wanted for a deadly 1985 cruise ship hijacking is in u . s. custody in iraq. u . s. sources tell cnn mohammed \" abu \" abbas was captured about 50 miles west of baghdad. palestinian sources say he had tried to flee into syria , but was turned away at the border. in october of 1985 , four hijackers under his command took over the italian cruise ship \" achille lauro \" and killed a wheelchair- bound american tourist , leo klinghoffer. abbas was convicted in absentia by an italian court and sentenced to five life terms in prison .",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "palestinian", "terrorist", "leader", "wanted", "for", "a", "deadly", "1985", "cruise", "ship", "hijacking", "is", "in", "u", ".", "s.", "custody", "in", "iraq.", "u", ".", "s.", "sources", "tell", "cnn", "mohammed", "\"", "abu", "\"", "abbas", "was", "captured", "about", "50", "miles", "west", "of", "baghdad.", "palestinian", "sources", "say", "he", "had", "tried", "to", "flee", "into", "syria", ",", "but", "was", "turned", "away", "at", "the", "border.", "in", "october", "of", "1985", ",", "four", "hijackers", "under", "his", "command", "took", "over", "the", "italian", "cruise", "ship", "\"", "achille", "lauro", "\"", "and", "killed", "a", "wheelchair-", "bound", "american", "tourist", ",", "leo", "klinghoffer.", "abbas", "was", "convicted", "in", "absentia", "by", "an", "italian", "court", "and", "sentenced", "to", "five", "life", "terms", "in", "prison", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "an italian court",
+  "sentence_length" : 105,
+  "mentionArg2" : {
+    "extent" : "italian",
+    "argMentionid" : "CNNHL_ENG_20030415_193729.5-E3-13",
+    "start" : 94,
+    "end" : 94
+  },
+  "relationID" : "CNNHL_ENG_20030415_193729.5-R8",
+  "mentionArg1" : {
+    "extent" : "an italian court",
+    "argMentionid" : "CNNHL_ENG_20030415_193729.5-E8-12",
+    "start" : 93,
+    "end" : 95
+  },
+  "id" : "CNNHL_ENG_20030415_193729.5-R8-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "a palestinian terrorist leader wanted for a deadly 1985 cruise ship hijacking is in u . s. custody in iraq. u . s. sources tell cnn mohammed \" abu \" abbas was captured about 50 miles west of baghdad. palestinian sources say he had tried to flee into syria , but was turned away at the border. in october of 1985 , four hijackers under his command took over the italian cruise ship \" achille lauro \" and killed a wheelchair- bound american tourist , leo klinghoffer. abbas was convicted in absentia by an italian court and sentenced to five life terms in prison .",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "palestinian", "terrorist", "leader", "wanted", "for", "a", "deadly", "1985", "cruise", "ship", "hijacking", "is", "in", "u", ".", "s.", "custody", "in", "iraq.", "u", ".", "s.", "sources", "tell", "cnn", "mohammed", "\"", "abu", "\"", "abbas", "was", "captured", "about", "50", "miles", "west", "of", "baghdad.", "palestinian", "sources", "say", "he", "had", "tried", "to", "flee", "into", "syria", ",", "but", "was", "turned", "away", "at", "the", "border.", "in", "october", "of", "1985", ",", "four", "hijackers", "under", "his", "command", "took", "over", "the", "italian", "cruise", "ship", "\"", "achille", "lauro", "\"", "and", "killed", "a", "wheelchair-", "bound", "american", "tourist", ",", "leo", "klinghoffer.", "abbas", "was", "convicted", "in", "absentia", "by", "an", "italian", "court", "and", "sentenced", "to", "five", "life", "terms", "in", "prison", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "u.s. sources",
+  "sentence_length" : 105,
+  "mentionArg2" : {
+    "extent" : "u.s",
+    "argMentionid" : "CNNHL_ENG_20030415_193729.5-E5-25",
+    "start" : 20,
+    "end" : 22
+  },
+  "relationID" : "CNNHL_ENG_20030415_193729.5-R9",
+  "mentionArg1" : {
+    "extent" : "u.s. sources",
+    "argMentionid" : "CNNHL_ENG_20030415_193729.5-E14-20",
+    "start" : 20,
+    "end" : 23
+  },
+  "id" : "CNNHL_ENG_20030415_193729.5-R9-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "a palestinian terrorist leader wanted for a deadly 1985 cruise ship hijacking is in u . s. custody in iraq. u . s. sources tell cnn mohammed \" abu \" abbas was captured about 50 miles west of baghdad. palestinian sources say he had tried to flee into syria , but was turned away at the border. in october of 1985 , four hijackers under his command took over the italian cruise ship \" achille lauro \" and killed a wheelchair- bound american tourist , leo klinghoffer. abbas was convicted in absentia by an italian court and sentenced to five life terms in prison .",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "palestinian", "terrorist", "leader", "wanted", "for", "a", "deadly", "1985", "cruise", "ship", "hijacking", "is", "in", "u", ".", "s.", "custody", "in", "iraq.", "u", ".", "s.", "sources", "tell", "cnn", "mohammed", "\"", "abu", "\"", "abbas", "was", "captured", "about", "50", "miles", "west", "of", "baghdad.", "palestinian", "sources", "say", "he", "had", "tried", "to", "flee", "into", "syria", ",", "but", "was", "turned", "away", "at", "the", "border.", "in", "october", "of", "1985", ",", "four", "hijackers", "under", "his", "command", "took", "over", "the", "italian", "cruise", "ship", "\"", "achille", "lauro", "\"", "and", "killed", "a", "wheelchair-", "bound", "american", "tourist", ",", "leo", "klinghoffer.", "abbas", "was", "convicted", "in", "absentia", "by", "an", "italian", "court", "and", "sentenced", "to", "five", "life", "terms", "in", "prison", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "palestinian sources",
+  "sentence_length" : 105,
+  "mentionArg2" : {
+    "extent" : "palestinian",
+    "argMentionid" : "CNNHL_ENG_20030415_193729.5-E13-29",
+    "start" : 39,
+    "end" : 39
+  },
+  "relationID" : "CNNHL_ENG_20030415_193729.5-R10",
+  "mentionArg1" : {
+    "extent" : "palestinian sources",
+    "argMentionid" : "CNNHL_ENG_20030415_193729.5-E18-21",
+    "start" : 39,
+    "end" : 40
+  },
+  "id" : "CNNHL_ENG_20030415_193729.5-R10-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "a palestinian terrorist leader wanted for a deadly 1985 cruise ship hijacking is in u . s. custody in iraq. u . s. sources tell cnn mohammed \" abu \" abbas was captured about 50 miles west of baghdad. palestinian sources say he had tried to flee into syria , but was turned away at the border. in october of 1985 , four hijackers under his command took over the italian cruise ship \" achille lauro \" and killed a wheelchair- bound american tourist , leo klinghoffer. abbas was convicted in absentia by an italian court and sentenced to five life terms in prison .",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "palestinian", "terrorist", "leader", "wanted", "for", "a", "deadly", "1985", "cruise", "ship", "hijacking", "is", "in", "u", ".", "s.", "custody", "in", "iraq.", "u", ".", "s.", "sources", "tell", "cnn", "mohammed", "\"", "abu", "\"", "abbas", "was", "captured", "about", "50", "miles", "west", "of", "baghdad.", "palestinian", "sources", "say", "he", "had", "tried", "to", "flee", "into", "syria", ",", "but", "was", "turned", "away", "at", "the", "border.", "in", "october", "of", "1985", ",", "four", "hijackers", "under", "his", "command", "took", "over", "the", "italian", "cruise", "ship", "\"", "achille", "lauro", "\"", "and", "killed", "a", "wheelchair-", "bound", "american", "tourist", ",", "leo", "klinghoffer.", "abbas", "was", "convicted", "in", "absentia", "by", "an", "italian", "court", "and", "sentenced", "to", "five", "life", "terms", "in", "prison", "." ]
+} ]

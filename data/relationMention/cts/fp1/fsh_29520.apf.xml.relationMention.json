@@ -1,0 +1,287 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "Obo in Ithaca, New York",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Ithaca, New York",
+    "argMentionid" : "fsh_29520-E45-209",
+    "start" : 9,
+    "end" : 12
+  },
+  "relationID" : "fsh_29520-R1",
+  "mentionArg1" : {
+    "extent" : "Obo",
+    "argMentionid" : "fsh_29520-E43-208",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "fsh_29520-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Obo Hello , my my name is Obo in Ithaca , New York Ted Hi , my na- -- Hey , my name is Ted and I 'm in Jacksonville , Florida .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Obo", "Hello", ",", "my", "my", "name", "is", "Obo", "in", "Ithaca", ",", "New", "York", "Ted", "Hi", ",", "my", "na-", "--", "Hey", ",", "my", "name", "is", "Ted", "and", "I", "'m", "in", "Jacksonville", ",", "Florida", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Ithaca, New York",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "New York",
+    "argMentionid" : "fsh_29520-E1-2",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "fsh_29520-R2",
+  "mentionArg1" : {
+    "extent" : "Ithaca, New York",
+    "argMentionid" : "fsh_29520-E45-209",
+    "start" : 9,
+    "end" : 12
+  },
+  "id" : "fsh_29520-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Obo Hello , my my name is Obo in Ithaca , New York Ted Hi , my na- -- Hey , my name is Ted and I 'm in Jacksonville , Florida .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Obo", "Hello", ",", "my", "my", "name", "is", "Obo", "in", "Ithaca", ",", "New", "York", "Ted", "Hi", ",", "my", "na-", "--", "Hey", ",", "my", "name", "is", "Ted", "and", "I", "'m", "in", "Jacksonville", ",", "Florida", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I'm in Jacksonville, Florida",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Jacksonville, Florida",
+    "argMentionid" : "fsh_29520-E4-7",
+    "start" : 29,
+    "end" : 31
+  },
+  "relationID" : "fsh_29520-R3",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29520-E2-6",
+    "start" : 26,
+    "end" : 26
+  },
+  "id" : "fsh_29520-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Obo Hello , my my name is Obo in Ithaca , New York Ted Hi , my na- -- Hey , my name is Ted and I 'm in Jacksonville , Florida .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Obo", "Hello", ",", "my", "my", "name", "is", "Obo", "in", "Ithaca", ",", "New", "York", "Ted", "Hi", ",", "my", "na-", "--", "Hey", ",", "my", "name", "is", "Ted", "and", "I", "'m", "in", "Jacksonville", ",", "Florida", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Jacksonville, Florida",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Florida",
+    "argMentionid" : "fsh_29520-E5-8",
+    "start" : 31,
+    "end" : 31
+  },
+  "relationID" : "fsh_29520-R4",
+  "mentionArg1" : {
+    "extent" : "Jacksonville, Florida",
+    "argMentionid" : "fsh_29520-E4-7",
+    "start" : 29,
+    "end" : 31
+  },
+  "id" : "fsh_29520-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Obo Hello , my my name is Obo in Ithaca , New York Ted Hi , my na- -- Hey , my name is Ted and I 'm in Jacksonville , Florida .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Obo", "Hello", ",", "my", "my", "name", "is", "Obo", "in", "Ithaca", ",", "New", "York", "Ted", "Hi", ",", "my", "na-", "--", "Hey", ",", "my", "name", "is", "Ted", "and", "I", "'m", "in", "Jacksonville", ",", "Florida", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "And, ah -- It's, it's just that -- Like, I I just, I think that the last fifty years, the government has been mes- messed up by both these parties, honestly",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "both these parties",
+    "argMentionid" : "fsh_29520-E9-38",
+    "start" : 34,
+    "end" : 36
+  },
+  "relationID" : "fsh_29520-R5",
+  "mentionArg1" : {
+    "extent" : "the government",
+    "argMentionid" : "fsh_29520-E32-37",
+    "start" : 26,
+    "end" : 27
+  },
+  "id" : "fsh_29520-R5-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Obo And , ah -- It's , it 's just that -- Like , I I just , I think that the last fifty years , the government has been mes- messed up by both these parties , honestly .",
+  "sentence_index" : 19,
+  "Tokens" : [ "Obo", "And", ",", "ah", "--", "It's", ",", "it", "'s", "just", "that", "--", "Like", ",", "I", "I", "just", ",", "I", "think", "that", "the", "last", "fifty", "years", ",", "the", "government", "has", "been", "mes-", "messed", "up", "by", "both", "these", "parties", ",", "honestly", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "um, but I think so much attention is being paid to that -- that -- as you mentioned, over the past fifty years, the two parties that run the country -- um, have definitely taken a, um -- streamlined approach to whatever their agenda may be and not the will of the people",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "the two parties that run the country",
+    "argMentionid" : "fsh_29520-E9-106",
+    "start" : 27,
+    "end" : 33
+  },
+  "relationID" : "fsh_29520-R5",
+  "mentionArg1" : {
+    "extent" : "the country",
+    "argMentionid" : "fsh_29520-E32-108",
+    "start" : 32,
+    "end" : 33
+  },
+  "id" : "fsh_29520-R5-2",
+  "relationSubType" : "Membership",
+  "Sentence" : "Ted um , but I think so much attention is being paid to that -- that -- as you mentioned , over the past fifty years , the two parties that run the country -- um , have definitely taken a , um -- streamlined approach to whatever their agenda may be and not the will of the people .",
+  "sentence_index" : 34,
+  "Tokens" : [ "Ted", "um", ",", "but", "I", "think", "so", "much", "attention", "is", "being", "paid", "to", "that", "--", "that", "--", "as", "you", "mentioned", ",", "over", "the", "past", "fifty", "years", ",", "the", "two", "parties", "that", "run", "the", "country", "--", "um", ",", "have", "definitely", "taken", "a", ",", "um", "--", "streamlined", "approach", "to", "whatever", "their", "agenda", "may", "be", "and", "not", "the", "will", "of", "the", "people", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "So, I, I usually do third party -- um, and the way it was working this year was that the Democrats really pushed to get Ralph Nader off the ballot",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "third party",
+    "argMentionid" : "fsh_29520-E10-41",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "fsh_29520-R6",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29520-E43-40",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "fsh_29520-R6-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "So , I , I usually do third party -- um , and the way it was working this year was that the Democrats really pushed to get Ralph Nader off the ballot Ted Yeah .",
+  "sentence_index" : 21,
+  "Tokens" : [ "So", ",", "I", ",", "I", "usually", "do", "third", "party", "--", "um", ",", "and", "the", "way", "it", "was", "working", "this", "year", "was", "that", "the", "Democrats", "really", "pushed", "to", "get", "Ralph", "Nader", "off", "the", "ballot", "Ted", "Yeah", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "and, ah -- I mean, and, and a lot of it has to do -- and then, I just didn't know much, John Edwards seemed nice, but he just, you know, he was just, he just got elected to the Senate,  and,  I wasn't really familiar too much with hi- I mean, I think it's great that he got into the vice presidential role, but -- again, it's the whole parties that I'm really not really I don't like their policies",
+  "sentence_length" : 103,
+  "mentionArg2" : {
+    "extent" : "the Senate",
+    "argMentionid" : "fsh_29520-E18-70",
+    "start" : 50,
+    "end" : 51
+  },
+  "relationID" : "fsh_29520-R7",
+  "mentionArg1" : {
+    "extent" : "John Edwards",
+    "argMentionid" : "fsh_29520-E41-66",
+    "start" : 29,
+    "end" : 30
+  },
+  "id" : "fsh_29520-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Obo and , ah -- I mean , and , and a lot of it has to do -- and then , I just did n't know much , John Edwards seemed nice , but he just , you know , he was just , he just got elected to the Senate , and , I was n't really familiar too much with hi- I mean , I think it 's great that he got into the vice presidential role , but -- again , it 's the whole parties that I 'm really not really I do n't like their policies .",
+  "sentence_index" : 26,
+  "Tokens" : [ "Obo", "and", ",", "ah", "--", "I", "mean", ",", "and", ",", "and", "a", "lot", "of", "it", "has", "to", "do", "--", "and", "then", ",", "I", "just", "did", "n't", "know", "much", ",", "John", "Edwards", "seemed", "nice", ",", "but", "he", "just", ",", "you", "know", ",", "he", "was", "just", ",", "he", "just", "got", "elected", "to", "the", "Senate", ",", "and", ",", "I", "was", "n't", "really", "familiar", "too", "much", "with", "hi-", "I", "mean", ",", "I", "think", "it", "'s", "great", "that", "he", "got", "into", "the", "vice", "presidential", "role", ",", "but", "--", "again", ",", "it", "'s", "the", "whole", "parties", "that", "I", "'m", "really", "not", "really", "I", "do", "n't", "like", "their", "policies", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "And the reason was was that, ah, I'm retired Air Force -- and before, ah, because I was in the military -- ah, didn't didn't really think that my vote, um, counted one way or the other, that's that was my thinking",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "Air Force",
+    "argMentionid" : "fsh_29520-E20-87",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "fsh_29520-R8",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29520-E2-86",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "fsh_29520-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "And the reason was was that , ah , I 'm retired Air Force -- and before , ah , because I was in the military -- ah , did n't did n't really think that my vote , um , counted one way or the other , that 's that was my thinking .",
+  "sentence_index" : 28,
+  "Tokens" : [ "And", "the", "reason", "was", "was", "that", ",", "ah", ",", "I", "'m", "retired", "Air", "Force", "--", "and", "before", ",", "ah", ",", "because", "I", "was", "in", "the", "military", "--", "ah", ",", "did", "n't", "did", "n't", "really", "think", "that", "my", "vote", ",", "um", ",", "counted", "one", "way", "or", "the", "other", ",", "that", "'s", "that", "was", "my", "thinking", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "And the reason was was that, ah, I'm retired Air Force -- and before, ah, because I was in the military -- ah, didn't didn't really think that my vote, um, counted one way or the other, that's that was my thinking",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "the military",
+    "argMentionid" : "fsh_29520-E21-89",
+    "start" : 24,
+    "end" : 25
+  },
+  "relationID" : "fsh_29520-R9",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29520-E2-88",
+    "start" : 21,
+    "end" : 21
+  },
+  "id" : "fsh_29520-R9-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "And the reason was was that , ah , I 'm retired Air Force -- and before , ah , because I was in the military -- ah , did n't did n't really think that my vote , um , counted one way or the other , that 's that was my thinking .",
+  "sentence_index" : 28,
+  "Tokens" : [ "And", "the", "reason", "was", "was", "that", ",", "ah", ",", "I", "'m", "retired", "Air", "Force", "--", "and", "before", ",", "ah", ",", "because", "I", "was", "in", "the", "military", "--", "ah", ",", "did", "n't", "did", "n't", "really", "think", "that", "my", "vote", ",", "um", ",", "counted", "one", "way", "or", "the", "other", ",", "that", "'s", "that", "was", "my", "thinking", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the biggest power in the world",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "the world",
+    "argMentionid" : "fsh_29520-E24-125",
+    "start" : 36,
+    "end" : 37
+  },
+  "relationID" : "fsh_29520-R11",
+  "mentionArg1" : {
+    "extent" : "the biggest power in the world",
+    "argMentionid" : "fsh_29520-E32-124",
+    "start" : 32,
+    "end" : 37
+  },
+  "id" : "fsh_29520-R11-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Obo I I Ted I mean , if we do n't start looking inward and start taking care of things at home -- uh , right now , yeah , we are the biggest power in the world .",
+  "sentence_index" : 38,
+  "Tokens" : [ "Obo", "I", "I", "Ted", "I", "mean", ",", "if", "we", "do", "n't", "start", "looking", "inward", "and", "start", "taking", "care", "of", "things", "at", "home", "--", "uh", ",", "right", "now", ",", "yeah", ",", "we", "are", "the", "biggest", "power", "in", "the", "world", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "some power in the world",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "the world",
+    "argMentionid" : "fsh_29520-E24-133",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "fsh_29520-R12",
+  "mentionArg1" : {
+    "extent" : "some power in the world",
+    "argMentionid" : "fsh_29520-E26-132",
+    "start" : 14,
+    "end" : 18
+  },
+  "id" : "fsh_29520-R12-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "If i- if if -- the United States is not the big dog , some power in the world is going to step up and be just that .",
+  "sentence_index" : 41,
+  "Tokens" : [ "If", "i-", "if", "if", "--", "the", "United", "States", "is", "not", "the", "big", "dog", ",", "some", "power", "in", "the", "world", "is", "going", "to", "step", "up", "and", "be", "just", "that", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "hot spots in the world",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "the world",
+    "argMentionid" : "fsh_29520-E24-137",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "fsh_29520-R13",
+  "mentionArg1" : {
+    "extent" : "hot spots in the world",
+    "argMentionid" : "fsh_29520-E28-136",
+    "start" : 12,
+    "end" : 16
+  },
+  "id" : "fsh_29520-R13-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "We got so many crises and tension uh what do you -- hot spots in the world , that , uh , instead of getting better , it seems to be growing .",
+  "sentence_index" : 42,
+  "Tokens" : [ "We", "got", "so", "many", "crises", "and", "tension", "uh", "what", "do", "you", "--", "hot", "spots", "in", "the", "world", ",", "that", ",", "uh", ",", "instead", "of", "getting", "better", ",", "it", "seems", "to", "be", "growing", "." ]
+} ]

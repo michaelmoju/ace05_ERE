@@ -1,0 +1,45 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "carrie lee in new york",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "new york",
+    "argMentionid" : "CNNHL_ENG_20030416_133739.13-E10-18",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "CNNHL_ENG_20030416_133739.13-R1",
+  "mentionArg1" : {
+    "extent" : "carrie lee in new york",
+    "argMentionid" : "CNNHL_ENG_20030416_133739.13-E9-1",
+    "start" : 8,
+    "end" : 12
+  },
+  "id" : "CNNHL_ENG_20030416_133739.13-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "time now to check the business news with carrie lee in new york. carrie. a you said it , renay. the dow was in negative territory much of the day. a couple stocks losing ground , coca cola , down 6.1 % .",
+  "sentence_index" : 0,
+  "Tokens" : [ "time", "now", "to", "check", "the", "business", "news", "with", "carrie", "lee", "in", "new", "york.", "carrie.", "a", "you", "said", "it", ",", "renay.", "the", "dow", "was", "in", "negative", "territory", "much", "of", "the", "day.", "a", "couple", "stocks", "losing", "ground", ",", "coca", "cola", ",", "down", "6.1", "%", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the pilots union",
+  "sentence_length" : 80,
+  "mentionArg2" : {
+    "extent" : "the pilots union",
+    "argMentionid" : "CNNHL_ENG_20030416_133739.13-E3-5",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "CNNHL_ENG_20030416_133739.13-R2",
+  "mentionArg1" : {
+    "extent" : "pilots",
+    "argMentionid" : "CNNHL_ENG_20030416_133739.13-E5-7",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "CNNHL_ENG_20030416_133739.13-R2-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "the flight attendants have until 6:00 today to ratify labor concessions. the pilots union and ground crew did so yesterday. the flight attendants came in with a close vote rejecting these concessions so the ceo has extended the deadline today , if they do n't ratify these agreements , amr will have to file for bankruptcy. investors are betting they will agree , 16.8 % to the upside is certainly a vote of confidence. back to you , guys .",
+  "sentence_index" : 4,
+  "Tokens" : [ "the", "flight", "attendants", "have", "until", "6:00", "today", "to", "ratify", "labor", "concessions.", "the", "pilots", "union", "and", "ground", "crew", "did", "so", "yesterday.", "the", "flight", "attendants", "came", "in", "with", "a", "close", "vote", "rejecting", "these", "concessions", "so", "the", "ceo", "has", "extended", "the", "deadline", "today", ",", "if", "they", "do", "n't", "ratify", "these", "agreements", ",", "amr", "will", "have", "to", "file", "for", "bankruptcy.", "investors", "are", "betting", "they", "will", "agree", ",", "16.8", "%", "to", "the", "upside", "is", "certainly", "a", "vote", "of", "confidence.", "back", "to", "you", ",", "guys", "." ]
+} ]

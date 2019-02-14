@@ -1,0 +1,155 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "exxon mobil shareholders",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "exxon mobil",
+    "argMentionid" : "CNN_ENG_20030528_125956.8-E14-40",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNN_ENG_20030528_125956.8-R1",
+  "mentionArg1" : {
+    "extent" : "exxon mobil shareholders",
+    "argMentionid" : "CNN_ENG_20030528_125956.8-E13-1",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "CNN_ENG_20030528_125956.8-R1-1",
+  "relationSubType" : "Investor-Shareholder",
+  "Sentence" : "well , security is tight as exxon mobil shareholders meet today in dallas. allan chernoff live from the new york stock exchange to tell us what 's behind the precautions .",
+  "sentence_index" : 0,
+  "Tokens" : [ "well", ",", "security", "is", "tight", "as", "exxon", "mobil", "shareholders", "meet", "today", "in", "dallas.", "allan", "chernoff", "live", "from", "the", "new", "york", "stock", "exchange", "to", "tell", "us", "what", "'s", "behind", "the", "precautions", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "exxon mobil shareholder",
+  "sentence_length" : 98,
+  "mentionArg2" : {
+    "extent" : "exxon mobil",
+    "argMentionid" : "CNN_ENG_20030528_125956.8-E14-48",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "CNN_ENG_20030528_125956.8-R1",
+  "mentionArg1" : {
+    "extent" : "exxon mobil shareholder",
+    "argMentionid" : "CNN_ENG_20030528_125956.8-E13-47",
+    "start" : 7,
+    "end" : 9
+  },
+  "id" : "CNN_ENG_20030528_125956.8-R1-2",
+  "relationSubType" : "Investor-Shareholder",
+  "Sentence" : "we 've got controversy at this meeting. exxon mobil shareholder set to vote on resolutions dealing with steps to promote global energy and the risks of global warming. management , not surprisingly , opposes the resolutions. environmentalists are pressuring the oil giant not to drop it 's greenhouse emissions limits. yesterday , protesters blocked the entrance to protest what they claim is the company 's inaction against global warming. exxon mobil maintains it does take the issue skreersly and it is being targeted unfairly zblen ron also engaging in a blame game. who is the latest target ?",
+  "sentence_index" : 1,
+  "Tokens" : [ "we", "'ve", "got", "controversy", "at", "this", "meeting.", "exxon", "mobil", "shareholder", "set", "to", "vote", "on", "resolutions", "dealing", "with", "steps", "to", "promote", "global", "energy", "and", "the", "risks", "of", "global", "warming.", "management", ",", "not", "surprisingly", ",", "opposes", "the", "resolutions.", "environmentalists", "are", "pressuring", "the", "oil", "giant", "not", "to", "drop", "it", "'s", "greenhouse", "emissions", "limits.", "yesterday", ",", "protesters", "blocked", "the", "entrance", "to", "protest", "what", "they", "claim", "is", "the", "company", "'s", "inaction", "against", "global", "warming.", "exxon", "mobil", "maintains", "it", "does", "take", "the", "issue", "skreersly", "and", "it", "is", "being", "targeted", "unfairly", "zblen", "ron", "also", "engaging", "in", "a", "blame", "game.", "who", "is", "the", "latest", "target", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "well, security is tight as exxon mobil shareholders meet today in dallas",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "dallas",
+    "argMentionid" : "CNN_ENG_20030528_125956.8-E16-41",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "CNN_ENG_20030528_125956.8-R2",
+  "mentionArg1" : {
+    "extent" : "exxon mobil shareholders",
+    "argMentionid" : "CNN_ENG_20030528_125956.8-E13-1",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "CNN_ENG_20030528_125956.8-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "well , security is tight as exxon mobil shareholders meet today in dallas. allan chernoff live from the new york stock exchange to tell us what 's behind the precautions .",
+  "sentence_index" : 0,
+  "Tokens" : [ "well", ",", "security", "is", "tight", "as", "exxon", "mobil", "shareholders", "meet", "today", "in", "dallas.", "allan", "chernoff", "live", "from", "the", "new", "york", "stock", "exchange", "to", "tell", "us", "what", "'s", "behind", "the", "precautions", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "allan chernoff live from the new york stock exchange",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "the new york stock exchange",
+    "argMentionid" : "CNN_ENG_20030528_125956.8-E19-44",
+    "start" : 17,
+    "end" : 21
+  },
+  "relationID" : "CNN_ENG_20030528_125956.8-R3",
+  "mentionArg1" : {
+    "extent" : "allan chernoff",
+    "argMentionid" : "CNN_ENG_20030528_125956.8-E17-42",
+    "start" : 13,
+    "end" : 14
+  },
+  "id" : "CNN_ENG_20030528_125956.8-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "well , security is tight as exxon mobil shareholders meet today in dallas. allan chernoff live from the new york stock exchange to tell us what 's behind the precautions .",
+  "sentence_index" : 0,
+  "Tokens" : [ "well", ",", "security", "is", "tight", "as", "exxon", "mobil", "shareholders", "meet", "today", "in", "dallas.", "allan", "chernoff", "live", "from", "the", "new", "york", "stock", "exchange", "to", "tell", "us", "what", "'s", "behind", "the", "precautions", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "its own investment bankers",
+  "sentence_length" : 211,
+  "mentionArg2" : {
+    "extent" : "its own",
+    "argMentionid" : "CNN_ENG_20030528_125956.8-E1-16",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "CNN_ENG_20030528_125956.8-R5",
+  "mentionArg1" : {
+    "extent" : "its own investment bankers",
+    "argMentionid" : "CNN_ENG_20030528_125956.8-E4-15",
+    "start" : 13,
+    "end" : 16
+  },
+  "id" : "CNN_ENG_20030528_125956.8-R5-1",
+  "relationSubType" : "Investor-Shareholder",
+  "Sentence" : "very also story with enron. a source tell us enron is considering suing its own investment bankers for giving it bad financial advice. of course , the notorious energy trader is the subject of a slew of investigations for alleged financial trickery. enron may actually try to blame its bankers , including jpmorgan chase and citigroup , for dishing out advice that actually helped the company 's downfall. the latest move here is part of a new bush by enron 's new chief executive to settle pending litigation. jpmorgan , citigroup , and other advisers have already been sued by shareholders and they also face regulatory investigations. let 's turn our attention to wall street. we 've got some green arrows here. stocks are struggling to hold on to modest gains right now. we 've got solid corporate profit reports today. and of course a little momentum after yesterday 's rally. and let 's have a look at the dow jones industrial average. it is up by a little more than five points. it 's been zigging and zagging between green and red. right now , holding on to the green. and the nasdaq composite also in positive territory right now , still. the nasdaq at its highest level in nearly",
+  "sentence_index" : 2,
+  "Tokens" : [ "very", "also", "story", "with", "enron.", "a", "source", "tell", "us", "enron", "is", "considering", "suing", "its", "own", "investment", "bankers", "for", "giving", "it", "bad", "financial", "advice.", "of", "course", ",", "the", "notorious", "energy", "trader", "is", "the", "subject", "of", "a", "slew", "of", "investigations", "for", "alleged", "financial", "trickery.", "enron", "may", "actually", "try", "to", "blame", "its", "bankers", ",", "including", "jpmorgan", "chase", "and", "citigroup", ",", "for", "dishing", "out", "advice", "that", "actually", "helped", "the", "company", "'s", "downfall.", "the", "latest", "move", "here", "is", "part", "of", "a", "new", "bush", "by", "enron", "'s", "new", "chief", "executive", "to", "settle", "pending", "litigation.", "jpmorgan", ",", "citigroup", ",", "and", "other", "advisers", "have", "already", "been", "sued", "by", "shareholders", "and", "they", "also", "face", "regulatory", "investigations.", "let", "'s", "turn", "our", "attention", "to", "wall", "street.", "we", "'ve", "got", "some", "green", "arrows", "here.", "stocks", "are", "struggling", "to", "hold", "on", "to", "modest", "gains", "right", "now.", "we", "'ve", "got", "solid", "corporate", "profit", "reports", "today.", "and", "of", "course", "a", "little", "momentum", "after", "yesterday", "'s", "rally.", "and", "let", "'s", "have", "a", "look", "at", "the", "dow", "jones", "industrial", "average.", "it", "is", "up", "by", "a", "little", "more", "than", "five", "points.", "it", "'s", "been", "zigging", "and", "zagging", "between", "green", "and", "red.", "right", "now", ",", "holding", "on", "to", "the", "green.", "and", "the", "nasdaq", "composite", "also", "in", "positive", "territory", "right", "now", ",", "still.", "the", "nasdaq", "at", "its", "highest", "level", "in", "nearly" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "its bankers, including jpmorgan chase and citigroup",
+  "sentence_length" : 211,
+  "mentionArg2" : {
+    "extent" : "its",
+    "argMentionid" : "CNN_ENG_20030528_125956.8-E1-23",
+    "start" : 48,
+    "end" : 48
+  },
+  "relationID" : "CNN_ENG_20030528_125956.8-R5",
+  "mentionArg1" : {
+    "extent" : "its bankers, including jpmorgan chase and citigroup",
+    "argMentionid" : "CNN_ENG_20030528_125956.8-E4-22",
+    "start" : 48,
+    "end" : 55
+  },
+  "id" : "CNN_ENG_20030528_125956.8-R5-2",
+  "relationSubType" : "Investor-Shareholder",
+  "Sentence" : "very also story with enron. a source tell us enron is considering suing its own investment bankers for giving it bad financial advice. of course , the notorious energy trader is the subject of a slew of investigations for alleged financial trickery. enron may actually try to blame its bankers , including jpmorgan chase and citigroup , for dishing out advice that actually helped the company 's downfall. the latest move here is part of a new bush by enron 's new chief executive to settle pending litigation. jpmorgan , citigroup , and other advisers have already been sued by shareholders and they also face regulatory investigations. let 's turn our attention to wall street. we 've got some green arrows here. stocks are struggling to hold on to modest gains right now. we 've got solid corporate profit reports today. and of course a little momentum after yesterday 's rally. and let 's have a look at the dow jones industrial average. it is up by a little more than five points. it 's been zigging and zagging between green and red. right now , holding on to the green. and the nasdaq composite also in positive territory right now , still. the nasdaq at its highest level in nearly",
+  "sentence_index" : 2,
+  "Tokens" : [ "very", "also", "story", "with", "enron.", "a", "source", "tell", "us", "enron", "is", "considering", "suing", "its", "own", "investment", "bankers", "for", "giving", "it", "bad", "financial", "advice.", "of", "course", ",", "the", "notorious", "energy", "trader", "is", "the", "subject", "of", "a", "slew", "of", "investigations", "for", "alleged", "financial", "trickery.", "enron", "may", "actually", "try", "to", "blame", "its", "bankers", ",", "including", "jpmorgan", "chase", "and", "citigroup", ",", "for", "dishing", "out", "advice", "that", "actually", "helped", "the", "company", "'s", "downfall.", "the", "latest", "move", "here", "is", "part", "of", "a", "new", "bush", "by", "enron", "'s", "new", "chief", "executive", "to", "settle", "pending", "litigation.", "jpmorgan", ",", "citigroup", ",", "and", "other", "advisers", "have", "already", "been", "sued", "by", "shareholders", "and", "they", "also", "face", "regulatory", "investigations.", "let", "'s", "turn", "our", "attention", "to", "wall", "street.", "we", "'ve", "got", "some", "green", "arrows", "here.", "stocks", "are", "struggling", "to", "hold", "on", "to", "modest", "gains", "right", "now.", "we", "'ve", "got", "solid", "corporate", "profit", "reports", "today.", "and", "of", "course", "a", "little", "momentum", "after", "yesterday", "'s", "rally.", "and", "let", "'s", "have", "a", "look", "at", "the", "dow", "jones", "industrial", "average.", "it", "is", "up", "by", "a", "little", "more", "than", "five", "points.", "it", "'s", "been", "zigging", "and", "zagging", "between", "green", "and", "red.", "right", "now", ",", "holding", "on", "to", "the", "green.", "and", "the", "nasdaq", "composite", "also", "in", "positive", "territory", "right", "now", ",", "still.", "the", "nasdaq", "at", "its", "highest", "level", "in", "nearly" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "enron's new chief executive",
+  "sentence_length" : 211,
+  "mentionArg2" : {
+    "extent" : "enron",
+    "argMentionid" : "CNN_ENG_20030528_125956.8-E1-28",
+    "start" : 79,
+    "end" : 79
+  },
+  "relationID" : "CNN_ENG_20030528_125956.8-R7",
+  "mentionArg1" : {
+    "extent" : "enron's new chief executive",
+    "argMentionid" : "CNN_ENG_20030528_125956.8-E8-27",
+    "start" : 79,
+    "end" : 83
+  },
+  "id" : "CNN_ENG_20030528_125956.8-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "very also story with enron. a source tell us enron is considering suing its own investment bankers for giving it bad financial advice. of course , the notorious energy trader is the subject of a slew of investigations for alleged financial trickery. enron may actually try to blame its bankers , including jpmorgan chase and citigroup , for dishing out advice that actually helped the company 's downfall. the latest move here is part of a new bush by enron 's new chief executive to settle pending litigation. jpmorgan , citigroup , and other advisers have already been sued by shareholders and they also face regulatory investigations. let 's turn our attention to wall street. we 've got some green arrows here. stocks are struggling to hold on to modest gains right now. we 've got solid corporate profit reports today. and of course a little momentum after yesterday 's rally. and let 's have a look at the dow jones industrial average. it is up by a little more than five points. it 's been zigging and zagging between green and red. right now , holding on to the green. and the nasdaq composite also in positive territory right now , still. the nasdaq at its highest level in nearly",
+  "sentence_index" : 2,
+  "Tokens" : [ "very", "also", "story", "with", "enron.", "a", "source", "tell", "us", "enron", "is", "considering", "suing", "its", "own", "investment", "bankers", "for", "giving", "it", "bad", "financial", "advice.", "of", "course", ",", "the", "notorious", "energy", "trader", "is", "the", "subject", "of", "a", "slew", "of", "investigations", "for", "alleged", "financial", "trickery.", "enron", "may", "actually", "try", "to", "blame", "its", "bankers", ",", "including", "jpmorgan", "chase", "and", "citigroup", ",", "for", "dishing", "out", "advice", "that", "actually", "helped", "the", "company", "'s", "downfall.", "the", "latest", "move", "here", "is", "part", "of", "a", "new", "bush", "by", "enron", "'s", "new", "chief", "executive", "to", "settle", "pending", "litigation.", "jpmorgan", ",", "citigroup", ",", "and", "other", "advisers", "have", "already", "been", "sued", "by", "shareholders", "and", "they", "also", "face", "regulatory", "investigations.", "let", "'s", "turn", "our", "attention", "to", "wall", "street.", "we", "'ve", "got", "some", "green", "arrows", "here.", "stocks", "are", "struggling", "to", "hold", "on", "to", "modest", "gains", "right", "now.", "we", "'ve", "got", "solid", "corporate", "profit", "reports", "today.", "and", "of", "course", "a", "little", "momentum", "after", "yesterday", "'s", "rally.", "and", "let", "'s", "have", "a", "look", "at", "the", "dow", "jones", "industrial", "average.", "it", "is", "up", "by", "a", "little", "more", "than", "five", "points.", "it", "'s", "been", "zigging", "and", "zagging", "between", "green", "and", "red.", "right", "now", ",", "holding", "on", "to", "the", "green.", "and", "the", "nasdaq", "composite", "also", "in", "positive", "territory", "right", "now", ",", "still.", "the", "nasdaq", "at", "its", "highest", "level", "in", "nearly" ]
+} ]

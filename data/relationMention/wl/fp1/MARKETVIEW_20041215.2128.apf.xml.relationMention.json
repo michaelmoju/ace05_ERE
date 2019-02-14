@@ -1,0 +1,89 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "the company's founder",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "the company",
+    "argMentionid" : "MARKETVIEW_20041215.2128-E18-4",
+    "start" : 27,
+    "end" : 28
+  },
+  "relationID" : "MARKETVIEW_20041215.2128-R1",
+  "mentionArg1" : {
+    "extent" : "the company's founder",
+    "argMentionid" : "MARKETVIEW_20041215.2128-E1-3",
+    "start" : 27,
+    "end" : 30
+  },
+  "id" : "MARKETVIEW_20041215.2128-R1-1",
+  "relationSubType" : "Founder",
+  "Sentence" : "Wynn Resorts , another owner of the lucrative Macau license that captured investors 's attention during the IPO , illustrates this well enough : Steve Wynn , the company 's founder , made a gigantic fortune when he bet his company 's future on Atlantic City .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Wynn", "Resorts", ",", "another", "owner", "of", "the", "lucrative", "Macau", "license", "that", "captured", "investors", "'s", "attention", "during", "the", "IPO", ",", "illustrates", "this", "well", "enough", ":", "Steve", "Wynn", ",", "the", "company", "'s", "founder", ",", "made", "a", "gigantic", "fortune", "when", "he", "bet", "his", "company", "'s", "future", "on", "Atlantic", "City", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "his company",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "his company",
+    "argMentionid" : "MARKETVIEW_20041215.2128-E18-6",
+    "start" : 39,
+    "end" : 40
+  },
+  "relationID" : "MARKETVIEW_20041215.2128-R1",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "MARKETVIEW_20041215.2128-E1-7",
+    "start" : 39,
+    "end" : 39
+  },
+  "id" : "MARKETVIEW_20041215.2128-R1-2",
+  "relationSubType" : "Founder",
+  "Sentence" : "Wynn Resorts , another owner of the lucrative Macau license that captured investors 's attention during the IPO , illustrates this well enough : Steve Wynn , the company 's founder , made a gigantic fortune when he bet his company 's future on Atlantic City .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Wynn", "Resorts", ",", "another", "owner", "of", "the", "lucrative", "Macau", "license", "that", "captured", "investors", "'s", "attention", "during", "the", "IPO", ",", "illustrates", "this", "well", "enough", ":", "Steve", "Wynn", ",", "the", "company", "'s", "founder", ",", "made", "a", "gigantic", "fortune", "when", "he", "bet", "his", "company", "'s", "future", "on", "Atlantic", "City", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Wynn Resorts , another owner of the lucrative Macau license that captured investors's attention during the IPO, illustrates this well enough: Steve Wynn, the company's founder, made a gigantic fortune when he bet his company's future on Atlantic City",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "Atlantic City",
+    "argMentionid" : "MARKETVIEW_20041215.2128-E3-8",
+    "start" : 44,
+    "end" : 45
+  },
+  "relationID" : "MARKETVIEW_20041215.2128-R3",
+  "mentionArg1" : {
+    "extent" : "his company",
+    "argMentionid" : "MARKETVIEW_20041215.2128-E18-6",
+    "start" : 39,
+    "end" : 40
+  },
+  "id" : "MARKETVIEW_20041215.2128-R3-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Wynn Resorts , another owner of the lucrative Macau license that captured investors 's attention during the IPO , illustrates this well enough : Steve Wynn , the company 's founder , made a gigantic fortune when he bet his company 's future on Atlantic City .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Wynn", "Resorts", ",", "another", "owner", "of", "the", "lucrative", "Macau", "license", "that", "captured", "investors", "'s", "attention", "during", "the", "IPO", ",", "illustrates", "this", "well", "enough", ":", "Steve", "Wynn", ",", "the", "company", "'s", "founder", ",", "made", "a", "gigantic", "fortune", "when", "he", "bet", "his", "company", "'s", "future", "on", "Atlantic", "City", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Wynn Resorts , another owner of the lucrative Macau license that captured investors's attention during the IPO, illustrates this well enough: Steve Wynn, the company's founder, made a gigantic fortune when he bet his company's future on Atlantic City",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "Macau",
+    "argMentionid" : "MARKETVIEW_20041215.2128-E20-38",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "MARKETVIEW_20041215.2128-R4",
+  "mentionArg1" : {
+    "extent" : "another owner of the lucrative Macau license that captured investors's attention during the IPO",
+    "argMentionid" : "MARKETVIEW_20041215.2128-E18-37",
+    "start" : 3,
+    "end" : 17
+  },
+  "id" : "MARKETVIEW_20041215.2128-R4-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Wynn Resorts , another owner of the lucrative Macau license that captured investors 's attention during the IPO , illustrates this well enough : Steve Wynn , the company 's founder , made a gigantic fortune when he bet his company 's future on Atlantic City .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Wynn", "Resorts", ",", "another", "owner", "of", "the", "lucrative", "Macau", "license", "that", "captured", "investors", "'s", "attention", "during", "the", "IPO", ",", "illustrates", "this", "well", "enough", ":", "Steve", "Wynn", ",", "the", "company", "'s", "founder", ",", "made", "a", "gigantic", "fortune", "when", "he", "bet", "his", "company", "'s", "future", "on", "Atlantic", "City", "." ]
+} ]

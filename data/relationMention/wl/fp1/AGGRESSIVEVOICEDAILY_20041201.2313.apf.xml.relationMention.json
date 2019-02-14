@@ -1,0 +1,133 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "Chai Vang of St. Paul, Minn",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "St. Paul, Minn",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E21-45",
+    "start" : 20,
+    "end" : 23
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041201.2313-R1",
+  "mentionArg1" : {
+    "extent" : "Chai Vang of St. Paul, Minn",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E19-44",
+    "start" : 17,
+    "end" : 23
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041201.2313-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "But as for the assault weapons ban issue , the man accused of the brutal killings , Chai Vang of St. Paul , Minn , used a Russian-built Saiga 7.62 mm , SKS semiautomatic rifle .",
+  "sentence_index" : 3,
+  "Tokens" : [ "But", "as", "for", "the", "assault", "weapons", "ban", "issue", ",", "the", "man", "accused", "of", "the", "brutal", "killings", ",", "Chai", "Vang", "of", "St.", "Paul", ",", "Minn", ",", "used", "a", "Russian-built", "Saiga", "7.62", "mm", ",", "SKS", "semiautomatic", "rifle", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "St. Paul, Minn",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "Minn",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E22-46",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041201.2313-R2",
+  "mentionArg1" : {
+    "extent" : "St. Paul, Minn",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E21-45",
+    "start" : 20,
+    "end" : 23
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041201.2313-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "But as for the assault weapons ban issue , the man accused of the brutal killings , Chai Vang of St. Paul , Minn , used a Russian-built Saiga 7.62 mm , SKS semiautomatic rifle .",
+  "sentence_index" : 3,
+  "Tokens" : [ "But", "as", "for", "the", "assault", "weapons", "ban", "issue", ",", "the", "man", "accused", "of", "the", "brutal", "killings", ",", "Chai", "Vang", "of", "St.", "Paul", ",", "Minn", ",", "used", "a", "Russian-built", "Saiga", "7.62", "mm", ",", "SKS", "semiautomatic", "rifle", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a Russian-built Saiga 7.62 mm, SKS semiautomatic rifle",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "a Russian-built Saiga 7.62 mm, SKS semiautomatic rifle",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E24-48",
+    "start" : 26,
+    "end" : 34
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041201.2313-R3",
+  "mentionArg1" : {
+    "extent" : "Russian",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E23-47",
+    "start" : 27,
+    "end" : 27
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041201.2313-R3-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "But as for the assault weapons ban issue , the man accused of the brutal killings , Chai Vang of St. Paul , Minn , used a Russian-built Saiga 7.62 mm , SKS semiautomatic rifle .",
+  "sentence_index" : 3,
+  "Tokens" : [ "But", "as", "for", "the", "assault", "weapons", "ban", "issue", ",", "the", "man", "accused", "of", "the", "brutal", "killings", ",", "Chai", "Vang", "of", "St.", "Paul", ",", "Minn", ",", "used", "a", "Russian-built", "Saiga", "7.62", "mm", ",", "SKS", "semiautomatic", "rifle", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the families of the victims",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "the victims",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E16-34",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041201.2313-R4",
+  "mentionArg1" : {
+    "extent" : "the families of the victims",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E13-33",
+    "start" : 11,
+    "end" : 15
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041201.2313-R4-1",
+  "relationSubType" : "Family",
+  "Sentence" : "I look forward to Vang 's conviction and I pray for the families of the victims .",
+  "sentence_index" : 12,
+  "Tokens" : [ "I", "look", "forward", "to", "Vang", "'s", "conviction", "and", "I", "pray", "for", "the", "families", "of", "the", "victims", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "So let's not center our discussion around the gun, let's talk about the person behind the trigger",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "the gun",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E24-25",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041201.2313-R5",
+  "mentionArg1" : {
+    "extent" : "the person behind the trigger",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E19-27",
+    "start" : 15,
+    "end" : 19
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041201.2313-R5-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "So let 's not center our discussion around the gun , let 's talk about the person behind the trigger .",
+  "sentence_index" : 10,
+  "Tokens" : [ "So", "let", "'s", "not", "center", "our", "discussion", "around", "the", "gun", ",", "let", "'s", "talk", "about", "the", "person", "behind", "the", "trigger", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "But as for the assault weapons ban issue, the man accused of the brutal killings, Chai Vang of St. Paul, Minn, used a Russian-built Saiga 7.62 mm, SKS semiautomatic rifle",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "a Russian-built Saiga 7.62 mm, SKS semiautomatic rifle",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E24-48",
+    "start" : 26,
+    "end" : 34
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041201.2313-R5",
+  "mentionArg1" : {
+    "extent" : "the man accused of the brutal killings",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E19-43",
+    "start" : 9,
+    "end" : 15
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041201.2313-R5-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "But as for the assault weapons ban issue , the man accused of the brutal killings , Chai Vang of St. Paul , Minn , used a Russian-built Saiga 7.62 mm , SKS semiautomatic rifle .",
+  "sentence_index" : 3,
+  "Tokens" : [ "But", "as", "for", "the", "assault", "weapons", "ban", "issue", ",", "the", "man", "accused", "of", "the", "brutal", "killings", ",", "Chai", "Vang", "of", "St.", "Paul", ",", "Minn", ",", "used", "a", "Russian-built", "Saiga", "7.62", "mm", ",", "SKS", "semiautomatic", "rifle", "." ]
+} ]

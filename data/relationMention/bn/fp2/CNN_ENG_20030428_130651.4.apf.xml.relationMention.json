@@ -1,0 +1,155 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "an international tourist in new york city did most of his sight seeing inside a hospital",
+  "sentence_length" : 120,
+  "mentionArg2" : {
+    "extent" : "a hospital",
+    "argMentionid" : "CNN_ENG_20030428_130651.4-E11-14",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "CNN_ENG_20030428_130651.4-R1",
+  "mentionArg1" : {
+    "extent" : "an international tourist in new york city",
+    "argMentionid" : "CNN_ENG_20030428_130651.4-E9-11",
+    "start" : 0,
+    "end" : 6
+  },
+  "id" : "CNN_ENG_20030428_130651.4-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "an international tourist in new york city did most of his sight seeing inside a hospital. health officials say they had to forcibly detain the man who exhibited possible sars symptoms. officials say the unnamed tourist had knicks tickets and was determined to use them. here are some numbers to put the spread of sars in perspective for you. across the globe , there have been almost 5,000 documented cases of sars in 27 different countries. china , the country where sars originated , has been the hardest hit , with thousands of cases and more than 100 deaths. here in the united states , however , there have been no deaths among the 41 probable cases of sars .",
+  "sentence_index" : 0,
+  "Tokens" : [ "an", "international", "tourist", "in", "new", "york", "city", "did", "most", "of", "his", "sight", "seeing", "inside", "a", "hospital.", "health", "officials", "say", "they", "had", "to", "forcibly", "detain", "the", "man", "who", "exhibited", "possible", "sars", "symptoms.", "officials", "say", "the", "unnamed", "tourist", "had", "knicks", "tickets", "and", "was", "determined", "to", "use", "them.", "here", "are", "some", "numbers", "to", "put", "the", "spread", "of", "sars", "in", "perspective", "for", "you.", "across", "the", "globe", ",", "there", "have", "been", "almost", "5,000", "documented", "cases", "of", "sars", "in", "27", "different", "countries.", "china", ",", "the", "country", "where", "sars", "originated", ",", "has", "been", "the", "hardest", "hit", ",", "with", "thousands", "of", "cases", "and", "more", "than", "100", "deaths.", "here", "in", "the", "united", "states", ",", "however", ",", "there", "have", "been", "no", "deaths", "among", "the", "41", "probable", "cases", "of", "sars", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "an international tourist in new york city did most of his sight seeing inside a hospital",
+  "sentence_length" : 120,
+  "mentionArg2" : {
+    "extent" : "new york city",
+    "argMentionid" : "CNN_ENG_20030428_130651.4-E10-12",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "CNN_ENG_20030428_130651.4-R2",
+  "mentionArg1" : {
+    "extent" : "a hospital",
+    "argMentionid" : "CNN_ENG_20030428_130651.4-E11-14",
+    "start" : 14,
+    "end" : 15
+  },
+  "id" : "CNN_ENG_20030428_130651.4-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "an international tourist in new york city did most of his sight seeing inside a hospital. health officials say they had to forcibly detain the man who exhibited possible sars symptoms. officials say the unnamed tourist had knicks tickets and was determined to use them. here are some numbers to put the spread of sars in perspective for you. across the globe , there have been almost 5,000 documented cases of sars in 27 different countries. china , the country where sars originated , has been the hardest hit , with thousands of cases and more than 100 deaths. here in the united states , however , there have been no deaths among the 41 probable cases of sars .",
+  "sentence_index" : 0,
+  "Tokens" : [ "an", "international", "tourist", "in", "new", "york", "city", "did", "most", "of", "his", "sight", "seeing", "inside", "a", "hospital.", "health", "officials", "say", "they", "had", "to", "forcibly", "detain", "the", "man", "who", "exhibited", "possible", "sars", "symptoms.", "officials", "say", "the", "unnamed", "tourist", "had", "knicks", "tickets", "and", "was", "determined", "to", "use", "them.", "here", "are", "some", "numbers", "to", "put", "the", "spread", "of", "sars", "in", "perspective", "for", "you.", "across", "the", "globe", ",", "there", "have", "been", "almost", "5,000", "documented", "cases", "of", "sars", "in", "27", "different", "countries.", "china", ",", "the", "country", "where", "sars", "originated", ",", "has", "been", "the", "hardest", "hit", ",", "with", "thousands", "of", "cases", "and", "more", "than", "100", "deaths.", "here", "in", "the", "united", "states", ",", "however", ",", "there", "have", "been", "no", "deaths", "among", "the", "41", "probable", "cases", "of", "sars", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "health officials",
+  "sentence_length" : 120,
+  "mentionArg2" : {
+    "extent" : "health",
+    "argMentionid" : "CNN_ENG_20030428_130651.4-E13-19",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "CNN_ENG_20030428_130651.4-R3",
+  "mentionArg1" : {
+    "extent" : "health officials",
+    "argMentionid" : "CNN_ENG_20030428_130651.4-E12-15",
+    "start" : 16,
+    "end" : 17
+  },
+  "id" : "CNN_ENG_20030428_130651.4-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "an international tourist in new york city did most of his sight seeing inside a hospital. health officials say they had to forcibly detain the man who exhibited possible sars symptoms. officials say the unnamed tourist had knicks tickets and was determined to use them. here are some numbers to put the spread of sars in perspective for you. across the globe , there have been almost 5,000 documented cases of sars in 27 different countries. china , the country where sars originated , has been the hardest hit , with thousands of cases and more than 100 deaths. here in the united states , however , there have been no deaths among the 41 probable cases of sars .",
+  "sentence_index" : 0,
+  "Tokens" : [ "an", "international", "tourist", "in", "new", "york", "city", "did", "most", "of", "his", "sight", "seeing", "inside", "a", "hospital.", "health", "officials", "say", "they", "had", "to", "forcibly", "detain", "the", "man", "who", "exhibited", "possible", "sars", "symptoms.", "officials", "say", "the", "unnamed", "tourist", "had", "knicks", "tickets", "and", "was", "determined", "to", "use", "them.", "here", "are", "some", "numbers", "to", "put", "the", "spread", "of", "sars", "in", "perspective", "for", "you.", "across", "the", "globe", ",", "there", "have", "been", "almost", "5,000", "documented", "cases", "of", "sars", "in", "27", "different", "countries.", "china", ",", "the", "country", "where", "sars", "originated", ",", "has", "been", "the", "hardest", "hit", ",", "with", "thousands", "of", "cases", "and", "more", "than", "100", "deaths.", "here", "in", "the", "united", "states", ",", "however", ",", "there", "have", "been", "no", "deaths", "among", "the", "41", "probable", "cases", "of", "sars", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "across the globe, there have been almost 5,000 documented cases of sars in 27 different countries",
+  "sentence_length" : 120,
+  "mentionArg2" : {
+    "extent" : "the globe",
+    "argMentionid" : "CNN_ENG_20030428_130651.4-E16-24",
+    "start" : 60,
+    "end" : 61
+  },
+  "relationID" : "CNN_ENG_20030428_130651.4-R4",
+  "mentionArg1" : {
+    "extent" : "27 different countries",
+    "argMentionid" : "CNN_ENG_20030428_130651.4-E17-25",
+    "start" : 73,
+    "end" : 75
+  },
+  "id" : "CNN_ENG_20030428_130651.4-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "an international tourist in new york city did most of his sight seeing inside a hospital. health officials say they had to forcibly detain the man who exhibited possible sars symptoms. officials say the unnamed tourist had knicks tickets and was determined to use them. here are some numbers to put the spread of sars in perspective for you. across the globe , there have been almost 5,000 documented cases of sars in 27 different countries. china , the country where sars originated , has been the hardest hit , with thousands of cases and more than 100 deaths. here in the united states , however , there have been no deaths among the 41 probable cases of sars .",
+  "sentence_index" : 0,
+  "Tokens" : [ "an", "international", "tourist", "in", "new", "york", "city", "did", "most", "of", "his", "sight", "seeing", "inside", "a", "hospital.", "health", "officials", "say", "they", "had", "to", "forcibly", "detain", "the", "man", "who", "exhibited", "possible", "sars", "symptoms.", "officials", "say", "the", "unnamed", "tourist", "had", "knicks", "tickets", "and", "was", "determined", "to", "use", "them.", "here", "are", "some", "numbers", "to", "put", "the", "spread", "of", "sars", "in", "perspective", "for", "you.", "across", "the", "globe", ",", "there", "have", "been", "almost", "5,000", "documented", "cases", "of", "sars", "in", "27", "different", "countries.", "china", ",", "the", "country", "where", "sars", "originated", ",", "has", "been", "the", "hardest", "hit", ",", "with", "thousands", "of", "cases", "and", "more", "than", "100", "deaths.", "here", "in", "the", "united", "states", ",", "however", ",", "there", "have", "been", "no", "deaths", "among", "the", "41", "probable", "cases", "of", "sars", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "here in the united states, however, there have been no deaths among the 41 probable cases of sars",
+  "sentence_length" : 120,
+  "mentionArg2" : {
+    "extent" : "the united states",
+    "argMentionid" : "CNN_ENG_20030428_130651.4-E3-4",
+    "start" : 101,
+    "end" : 103
+  },
+  "relationID" : "CNN_ENG_20030428_130651.4-R5",
+  "mentionArg1" : {
+    "extent" : "the 41 probable cases of sars",
+    "argMentionid" : "CNN_ENG_20030428_130651.4-E4-5",
+    "start" : 113,
+    "end" : 118
+  },
+  "id" : "CNN_ENG_20030428_130651.4-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "an international tourist in new york city did most of his sight seeing inside a hospital. health officials say they had to forcibly detain the man who exhibited possible sars symptoms. officials say the unnamed tourist had knicks tickets and was determined to use them. here are some numbers to put the spread of sars in perspective for you. across the globe , there have been almost 5,000 documented cases of sars in 27 different countries. china , the country where sars originated , has been the hardest hit , with thousands of cases and more than 100 deaths. here in the united states , however , there have been no deaths among the 41 probable cases of sars .",
+  "sentence_index" : 0,
+  "Tokens" : [ "an", "international", "tourist", "in", "new", "york", "city", "did", "most", "of", "his", "sight", "seeing", "inside", "a", "hospital.", "health", "officials", "say", "they", "had", "to", "forcibly", "detain", "the", "man", "who", "exhibited", "possible", "sars", "symptoms.", "officials", "say", "the", "unnamed", "tourist", "had", "knicks", "tickets", "and", "was", "determined", "to", "use", "them.", "here", "are", "some", "numbers", "to", "put", "the", "spread", "of", "sars", "in", "perspective", "for", "you.", "across", "the", "globe", ",", "there", "have", "been", "almost", "5,000", "documented", "cases", "of", "sars", "in", "27", "different", "countries.", "china", ",", "the", "country", "where", "sars", "originated", ",", "has", "been", "the", "hardest", "hit", ",", "with", "thousands", "of", "cases", "and", "more", "than", "100", "deaths.", "here", "in", "the", "united", "states", ",", "however", ",", "there", "have", "been", "no", "deaths", "among", "the", "41", "probable", "cases", "of", "sars", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "but just to put the threat of sars in perspective, in the united states, 284 people died last year from the west nile virus while 36,000 people die every year from the flu",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "the united states",
+    "argMentionid" : "CNN_ENG_20030428_130651.4-E3-8",
+    "start" : 24,
+    "end" : 26
+  },
+  "relationID" : "CNN_ENG_20030428_130651.4-R6",
+  "mentionArg1" : {
+    "extent" : "284 people",
+    "argMentionid" : "CNN_ENG_20030428_130651.4-E7-9",
+    "start" : 28,
+    "end" : 29
+  },
+  "id" : "CNN_ENG_20030428_130651.4-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "17 states have probable cases while another 21 states have suspected cases. but just to put the threat of sars in perspective , in the united states , 284 people died last year from the west nile virus while 36,000 people die every year from the flu .",
+  "sentence_index" : 1,
+  "Tokens" : [ "17", "states", "have", "probable", "cases", "while", "another", "21", "states", "have", "suspected", "cases.", "but", "just", "to", "put", "the", "threat", "of", "sars", "in", "perspective", ",", "in", "the", "united", "states", ",", "284", "people", "died", "last", "year", "from", "the", "west", "nile", "virus", "while", "36,000", "people", "die", "every", "year", "from", "the", "flu", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "but just to put the threat of sars in perspective, in the united states, 284 people died last year from the west nile virus while 36,000 people die every year from the flu",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "the united states",
+    "argMentionid" : "CNN_ENG_20030428_130651.4-E3-8",
+    "start" : 24,
+    "end" : 26
+  },
+  "relationID" : "CNN_ENG_20030428_130651.4-R7",
+  "mentionArg1" : {
+    "extent" : "36,000 people",
+    "argMentionid" : "CNN_ENG_20030428_130651.4-E8-10",
+    "start" : 39,
+    "end" : 40
+  },
+  "id" : "CNN_ENG_20030428_130651.4-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "17 states have probable cases while another 21 states have suspected cases. but just to put the threat of sars in perspective , in the united states , 284 people died last year from the west nile virus while 36,000 people die every year from the flu .",
+  "sentence_index" : 1,
+  "Tokens" : [ "17", "states", "have", "probable", "cases", "while", "another", "21", "states", "have", "suspected", "cases.", "but", "just", "to", "put", "the", "threat", "of", "sars", "in", "perspective", ",", "in", "the", "united", "states", ",", "284", "people", "died", "last", "year", "from", "the", "west", "nile", "virus", "while", "36,000", "people", "die", "every", "year", "from", "the", "flu", "." ]
+} ]

@@ -1,0 +1,331 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Bush White House",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "the Bush White House",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E58-103",
+    "start" : 14,
+    "end" : 17
+  },
+  "relationID" : "FLOPPINGACES_20050101.2244.048-R1",
+  "mentionArg1" : {
+    "extent" : "Bush",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E40-104",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "FLOPPINGACES_20050101.2244.048-R1-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "From a European perspective , three things are making it easier to warm to the Bush White House .",
+  "sentence_index" : 4,
+  "Tokens" : [ "From", "a", "European", "perspective", ",", "three", "things", "are", "making", "it", "easier", "to", "warm", "to", "the", "Bush", "White", "House", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the next Palestinian leader",
+  "sentence_length" : 49,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E8-16",
+    "start" : 46,
+    "end" : 46
+  },
+  "relationID" : "FLOPPINGACES_20050101.2244.048-R2",
+  "mentionArg1" : {
+    "extent" : "the next Palestinian leader",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E6-15",
+    "start" : 44,
+    "end" : 47
+  },
+  "id" : "FLOPPINGACES_20050101.2244.048-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "But since Arafat 's death , Europeans and Americans have been able to find common ground : supporting Ariel Sharon 's withdrawal from Gaza , putting pressure on Israel to let the Palestinians hold elections and , covertly , backing Mahmoud Abbas to become the next Palestinian leader .",
+  "sentence_index" : 10,
+  "Tokens" : [ "But", "since", "Arafat", "'s", "death", ",", "Europeans", "and", "Americans", "have", "been", "able", "to", "find", "common", "ground", ":", "supporting", "Ariel", "Sharon", "'s", "withdrawal", "from", "Gaza", ",", "putting", "pressure", "on", "Israel", "to", "let", "the", "Palestinians", "hold", "elections", "and", ",", "covertly", ",", "backing", "Mahmoud", "Abbas", "to", "become", "the", "next", "Palestinian", "leader", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a provocative Dutch filmmaker",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Dutch",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E16-38",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "FLOPPINGACES_20050101.2244.048-R3",
+  "mentionArg1" : {
+    "extent" : "a provocative Dutch filmmaker",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E14-37",
+    "start" : 9,
+    "end" : 12
+  },
+  "id" : "FLOPPINGACES_20050101.2244.048-R3-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The murder in November of Theo van Gogh , a provocative Dutch filmmaker , at the hands of an Islamic militant has been called Europe 's 9 / 11 .",
+  "sentence_index" : 12,
+  "Tokens" : [ "The", "murder", "in", "November", "of", "Theo", "van", "Gogh", ",", "a", "provocative", "Dutch", "filmmaker", ",", "at", "the", "hands", "of", "an", "Islamic", "militant", "has", "been", "called", "Europe", "'s", "9", "/", "11", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "American conservatives",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E9-19",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "FLOPPINGACES_20050101.2244.048-R4",
+  "mentionArg1" : {
+    "extent" : "American conservatives",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E18-42",
+    "start" : 15,
+    "end" : 16
+  },
+  "id" : "FLOPPINGACES_20050101.2244.048-R4-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Though the two events are obviously not fully comparable , it is certainly true that American conservatives , such as Francis Fukuyama and Bernard Lewis , have found a wider audience recently for the idea that radical Islam is inimical to European traditions of tolerance .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Though", "the", "two", "events", "are", "obviously", "not", "fully", "comparable", ",", "it", "is", "certainly", "true", "that", "American", "conservatives", ",", "such", "as", "Francis", "Fukuyama", "and", "Bernard", "Lewis", ",", "have", "found", "a", "wider", "audience", "recently", "for", "the", "idea", "that", "radical", "Islam", "is", "inimical", "to", "European", "traditions", "of", "tolerance", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the cowards in Spain",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Spain",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E26-51",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "FLOPPINGACES_20050101.2244.048-R5",
+  "mentionArg1" : {
+    "extent" : "the cowards in Spain",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E25-48",
+    "start" : 8,
+    "end" : 11
+  },
+  "id" : "FLOPPINGACES_20050101.2244.048-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Get outta here .... Keep doing business like the cowards in Spain and they will more then likely have their very own 9/11 to cry about .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Get", "outta", "here", "....", "Keep", "doing", "business", "like", "the", "cowards", "in", "Spain", "and", "they", "will", "more", "then", "likely", "have", "their", "very", "own", "9/11", "to", "cry", "about", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "European diplomats",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "European",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E10-21",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "FLOPPINGACES_20050101.2244.048-R6",
+  "mentionArg1" : {
+    "extent" : "European diplomats",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E33-60",
+    "start" : 20,
+    "end" : 21
+  },
+  "id" : "FLOPPINGACES_20050101.2244.048-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The Ukrainian election --- complete with its KGB-style poisoning of the opposition leader and heavy-handed electoral fraud -- has reminded European diplomats of Vladimir V. Putin 's determination to control his \" near abroad . \"",
+  "sentence_index" : 18,
+  "Tokens" : [ "The", "Ukrainian", "election", "---", "complete", "with", "its", "KGB-style", "poisoning", "of", "the", "opposition", "leader", "and", "heavy-handed", "electoral", "fraud", "--", "has", "reminded", "European", "diplomats", "of", "Vladimir", "V.", "Putin", "'s", "determination", "to", "control", "his", "\"", "near", "abroad", ".", "\"" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Many European leaders",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "European",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E10-24",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "FLOPPINGACES_20050101.2244.048-R7",
+  "mentionArg1" : {
+    "extent" : "Many European leaders",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E38-71",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "FLOPPINGACES_20050101.2244.048-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Many European leaders once swallowed the Michael Moore version of history : that Bush was an ignorant interloper who stole the White House .",
+  "sentence_index" : 23,
+  "Tokens" : [ "Many", "European", "leaders", "once", "swallowed", "the", "Michael", "Moore", "version", "of", "history", ":", "that", "Bush", "was", "an", "ignorant", "interloper", "who", "stole", "the", "White", "House", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the European Governments",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "European",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E10-83",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "FLOPPINGACES_20050101.2244.048-R8",
+  "mentionArg1" : {
+    "extent" : "the European Governments",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E19-1",
+    "start" : 3,
+    "end" : 5
+  },
+  "id" : "FLOPPINGACES_20050101.2244.048-R8-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "It describes how the European Governments look to be changing their tune in regards to President Bush .",
+  "sentence_index" : 1,
+  "Tokens" : [ "It", "describes", "how", "the", "European", "Governments", "look", "to", "be", "changing", "their", "tune", "in", "regards", "to", "President", "Bush", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "May he rot in hell",
+  "sentence_length" : 6,
+  "mentionArg2" : {
+    "extent" : "hell",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E3-9",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "FLOPPINGACES_20050101.2244.048-R9",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E1-7",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "FLOPPINGACES_20050101.2244.048-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "May he rot in hell .",
+  "sentence_index" : 9,
+  "Tokens" : [ "May", "he", "rot", "in", "hell", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "an Islamic militant",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Islamic",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E47-94",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "FLOPPINGACES_20050101.2244.048-R10",
+  "mentionArg1" : {
+    "extent" : "an Islamic militant",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E17-41",
+    "start" : 18,
+    "end" : 20
+  },
+  "id" : "FLOPPINGACES_20050101.2244.048-R10-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The murder in November of Theo van Gogh , a provocative Dutch filmmaker , at the hands of an Islamic militant has been called Europe 's 9 / 11 .",
+  "sentence_index" : 12,
+  "Tokens" : [ "The", "murder", "in", "November", "of", "Theo", "van", "Gogh", ",", "a", "provocative", "Dutch", "filmmaker", ",", "at", "the", "hands", "of", "an", "Islamic", "militant", "has", "been", "called", "Europe", "'s", "9", "/", "11", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Though the two events are obviously not fully comparable, it is certainly true that American conservatives, such as Francis Fukuyama and Bernard Lewis, have found a wider audience recently for the idea that radical Islam is inimical to European traditions of tolerance",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "Francis Fukuyama",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E20-43",
+    "start" : 20,
+    "end" : 21
+  },
+  "relationID" : "FLOPPINGACES_20050101.2244.048-R11",
+  "mentionArg1" : {
+    "extent" : "American conservatives",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E18-42",
+    "start" : 15,
+    "end" : 16
+  },
+  "id" : "FLOPPINGACES_20050101.2244.048-R11-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Though the two events are obviously not fully comparable , it is certainly true that American conservatives , such as Francis Fukuyama and Bernard Lewis , have found a wider audience recently for the idea that radical Islam is inimical to European traditions of tolerance .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Though", "the", "two", "events", "are", "obviously", "not", "fully", "comparable", ",", "it", "is", "certainly", "true", "that", "American", "conservatives", ",", "such", "as", "Francis", "Fukuyama", "and", "Bernard", "Lewis", ",", "have", "found", "a", "wider", "audience", "recently", "for", "the", "idea", "that", "radical", "Islam", "is", "inimical", "to", "European", "traditions", "of", "tolerance", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Though the two events are obviously not fully comparable, it is certainly true that American conservatives, such as Francis Fukuyama and Bernard Lewis, have found a wider audience recently for the idea that radical Islam is inimical to European traditions of tolerance",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "Bernard Lewis",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E21-44",
+    "start" : 23,
+    "end" : 24
+  },
+  "relationID" : "FLOPPINGACES_20050101.2244.048-R12",
+  "mentionArg1" : {
+    "extent" : "American conservatives",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E18-42",
+    "start" : 15,
+    "end" : 16
+  },
+  "id" : "FLOPPINGACES_20050101.2244.048-R12-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Though the two events are obviously not fully comparable , it is certainly true that American conservatives , such as Francis Fukuyama and Bernard Lewis , have found a wider audience recently for the idea that radical Islam is inimical to European traditions of tolerance .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Though", "the", "two", "events", "are", "obviously", "not", "fully", "comparable", ",", "it", "is", "certainly", "true", "that", "American", "conservatives", ",", "such", "as", "Francis", "Fukuyama", "and", "Bernard", "Lewis", ",", "have", "found", "a", "wider", "audience", "recently", "for", "the", "idea", "that", "radical", "Islam", "is", "inimical", "to", "European", "traditions", "of", "tolerance", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "his \"near abroad",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "his \"near abroad",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E44-86",
+    "start" : 30,
+    "end" : 33
+  },
+  "relationID" : "FLOPPINGACES_20050101.2244.048-R13",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E34-62",
+    "start" : 30,
+    "end" : 30
+  },
+  "id" : "FLOPPINGACES_20050101.2244.048-R13-1",
+  "relationSubType" : "Near",
+  "Sentence" : "The Ukrainian election --- complete with its KGB-style poisoning of the opposition leader and heavy-handed electoral fraud -- has reminded European diplomats of Vladimir V. Putin 's determination to control his \" near abroad . \"",
+  "sentence_index" : 18,
+  "Tokens" : [ "The", "Ukrainian", "election", "---", "complete", "with", "its", "KGB-style", "poisoning", "of", "the", "opposition", "leader", "and", "heavy-handed", "electoral", "fraud", "--", "has", "reminded", "European", "diplomats", "of", "Vladimir", "V.", "Putin", "'s", "determination", "to", "control", "his", "\"", "near", "abroad", ".", "\"" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I believe Putin is slowly sliding Russia back to what it once was",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Russia",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E28-65",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "FLOPPINGACES_20050101.2244.048-R14",
+  "mentionArg1" : {
+    "extent" : "Putin",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E34-64",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "FLOPPINGACES_20050101.2244.048-R14-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "They should be very worried about this item , I believe Putin is slowly sliding Russia back to what it once was .",
+  "sentence_index" : 19,
+  "Tokens" : [ "They", "should", "be", "very", "worried", "about", "this", "item", ",", "I", "believe", "Putin", "is", "slowly", "sliding", "Russia", "back", "to", "what", "it", "once", "was", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the gormless Hollywood actor",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Hollywood",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E51-96",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "FLOPPINGACES_20050101.2244.048-R15",
+  "mentionArg1" : {
+    "extent" : "the gormless Hollywood actor",
+    "argMentionid" : "FLOPPINGACES_20050101.2244.048-E37-68",
+    "start" : 9,
+    "end" : 12
+  },
+  "id" : "FLOPPINGACES_20050101.2244.048-R15-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Just as the snooty continentals eventually came to admire the gormless Hollywood actor , there is a grudging willingness to rethink some prejudices about the inarticulate Texan .",
+  "sentence_index" : 22,
+  "Tokens" : [ "Just", "as", "the", "snooty", "continentals", "eventually", "came", "to", "admire", "the", "gormless", "Hollywood", "actor", ",", "there", "is", "a", "grudging", "willingness", "to", "rethink", "some", "prejudices", "about", "the", "inarticulate", "Texan", "." ]
+} ]

@@ -1,0 +1,375 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "For more now on the unique challenges posed by urban combat, let's go back to Atlanta and join the man whose voice we just heard, Miles O'Brien",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Atlanta",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E69-162",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R1",
+  "mentionArg1" : {
+    "extent" : "the man whose voice we just heard, Miles O'Brien",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E70-163",
+    "start" : 20,
+    "end" : 29
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "For more now on the unique challenges posed by urban combat , let 's go back to Atlanta and join the man whose voice we just heard , Miles O'Brien .",
+  "sentence_index" : 1,
+  "Tokens" : [ "For", "more", "now", "on", "the", "unique", "challenges", "posed", "by", "urban", "combat", ",", "let", "'s", "go", "back", "to", "Atlanta", "and", "join", "the", "man", "whose", "voice", "we", "just", "heard", ",", "Miles", "O'Brien", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "his sidearm",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "his sidearm",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E9-26",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R2",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E7-25",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R2-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Now , you just see this soldier right here , he 's going to his sidearm to make a little bit more mobile .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Now", ",", "you", "just", "see", "this", "soldier", "right", "here", ",", "he", "'s", "going", "to", "his", "sidearm", "to", "make", "a", "little", "bit", "more", "mobile", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his partner",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "his partner",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E10-29",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R3",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E7-30",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R3-1",
+  "relationSubType" : "Business",
+  "Sentence" : "And he 's got to be careful of his muzzle pointing at his partner right here .",
+  "sentence_index" : 18,
+  "Tokens" : [ "And", "he", "'s", "got", "to", "be", "careful", "of", "his", "muzzle", "pointing", "at", "his", "partner", "right", "here", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "As you make every entry, Miles, there are two dead spots, one, of course, in this direction right here, which you can't see from the doorway, the other in this direction right here, and that's always the problem, because as you come in here, you've got to be able to get in there quickly and make sure that this person here doesn't get shot in the back",
+  "sentence_length" : 87,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E13-37",
+    "start" : 59,
+    "end" : 59
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R4",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E1-35",
+    "start" : 56,
+    "end" : 56
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Go ahead and stop the tape.As you make every entry , Miles , there are two dead spots , one , of course , in this direction right here , which you ca n't see from the doorway , the other in this direction right here , and that 's always the problem , because as you come in here , you 've got to be able to get in there quickly and make sure that this person here does n't get shot in the back .",
+  "sentence_index" : 20,
+  "Tokens" : [ "Go", "ahead", "and", "stop", "the", "tape.As", "you", "make", "every", "entry", ",", "Miles", ",", "there", "are", "two", "dead", "spots", ",", "one", ",", "of", "course", ",", "in", "this", "direction", "right", "here", ",", "which", "you", "ca", "n't", "see", "from", "the", "doorway", ",", "the", "other", "in", "this", "direction", "right", "here", ",", "and", "that", "'s", "always", "the", "problem", ",", "because", "as", "you", "come", "in", "here", ",", "you", "'ve", "got", "to", "be", "able", "to", "get", "in", "there", "quickly", "and", "make", "sure", "that", "this", "person", "here", "does", "n't", "get", "shot", "in", "the", "back", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "As you make every entry, Miles, there are two dead spots, one, of course, in this direction right here, which you can't see from the doorway, the other in this direction right here, and that's always the problem, because as you come in here, you've got to be able to get in there quickly and make sure that this person here doesn't get shot in the back",
+  "sentence_length" : 87,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E14-39",
+    "start" : 70,
+    "end" : 70
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R5",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E1-38",
+    "start" : 61,
+    "end" : 61
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Go ahead and stop the tape.As you make every entry , Miles , there are two dead spots , one , of course , in this direction right here , which you ca n't see from the doorway , the other in this direction right here , and that 's always the problem , because as you come in here , you 've got to be able to get in there quickly and make sure that this person here does n't get shot in the back .",
+  "sentence_index" : 20,
+  "Tokens" : [ "Go", "ahead", "and", "stop", "the", "tape.As", "you", "make", "every", "entry", ",", "Miles", ",", "there", "are", "two", "dead", "spots", ",", "one", ",", "of", "course", ",", "in", "this", "direction", "right", "here", ",", "which", "you", "ca", "n't", "see", "from", "the", "doorway", ",", "the", "other", "in", "this", "direction", "right", "here", ",", "and", "that", "'s", "always", "the", "problem", ",", "because", "as", "you", "come", "in", "here", ",", "you", "'ve", "got", "to", "be", "able", "to", "get", "in", "there", "quickly", "and", "make", "sure", "that", "this", "person", "here", "does", "n't", "get", "shot", "in", "the", "back", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "his sidearm",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "his sidearm",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E18-45",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R6",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E17-44",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R6-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Let 's roll tape and continue on here and talk about -- Now , I notice his hand -- his sidearm is attached to him .",
+  "sentence_index" : 30,
+  "Tokens" : [ "Let", "'s", "roll", "tape", "and", "continue", "on", "here", "and", "talk", "about", "--", "Now", ",", "I", "notice", "his", "hand", "--", "his", "sidearm", "is", "attached", "to", "him", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "So he goes down the hallway, and you can see once that's called clear, straight trigger finger, in case there's any sympathetic muscle tightening, there's no problem",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "the hallway",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E63-153",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R7",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E17-47",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "So he goes down the hallway , and you can see once that 's called clear , straight trigger finger , in case there 's any sympathetic muscle tightening , there 's no problem .",
+  "sentence_index" : 32,
+  "Tokens" : [ "So", "he", "goes", "down", "the", "hallway", ",", "and", "you", "can", "see", "once", "that", "'s", "called", "clear", ",", "straight", "trigger", "finger", ",", "in", "case", "there", "'s", "any", "sympathetic", "muscle", "tightening", ",", "there", "'s", "no", "problem", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Same thing when you come into a building",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "a building",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E23-63",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R8",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E1-62",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Same thing when you come into a building .",
+  "sentence_index" : 47,
+  "Tokens" : [ "Same", "thing", "when", "you", "come", "into", "a", "building", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "he's got a sidearm, he's calling the team in",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "a sidearm",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E29-75",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R9",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E28-74",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R9-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Now , you see right here , he 's got a sidearm , he 's calling the team in .",
+  "sentence_index" : 55,
+  "Tokens" : [ "Now", ",", "you", "see", "right", "here", ",", "he", "'s", "got", "a", "sidearm", ",", "he", "'s", "calling", "the", "team", "in", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "he's got a sidearm, he's calling the team in",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "the team",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E31-77",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R10",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E28-76",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R10-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Now , you see right here , he 's got a sidearm , he 's calling the team in .",
+  "sentence_index" : 55,
+  "Tokens" : [ "Now", ",", "you", "see", "right", "here", ",", "he", "'s", "got", "a", "sidearm", ",", "he", "'s", "calling", "the", "team", "in", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Imagine a person that is concealed anywhere in here",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "anywhere in here",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E33-79",
+    "start" : 7,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R11",
+  "mentionArg1" : {
+    "extent" : "a person",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E32-78",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "MCCANN Imagine a person that is concealed anywhere in here .",
+  "sentence_index" : 58,
+  "Tokens" : [ "MCCANN", "Imagine", "a", "person", "that", "is", "concealed", "anywhere", "in", "here", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "anywhere in here",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E34-80",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R12",
+  "mentionArg1" : {
+    "extent" : "anywhere in here",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E33-79",
+    "start" : 7,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R12-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "MCCANN Imagine a person that is concealed anywhere in here .",
+  "sentence_index" : 58,
+  "Tokens" : [ "MCCANN", "Imagine", "a", "person", "that", "is", "concealed", "anywhere", "in", "here", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "anyone with a rifle back in these areas here",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "a rifle",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E36-84",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R13",
+  "mentionArg1" : {
+    "extent" : "anyone with a rifle back in these areas here",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E35-83",
+    "start" : 6,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R13-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "I mean , you could have anyone with a rifle back in these areas here ... O'BRIEN Up in this area here , here ... MCCANN ... in any of these recesses back over here .",
+  "sentence_index" : 59,
+  "Tokens" : [ "I", "mean", ",", "you", "could", "have", "anyone", "with", "a", "rifle", "back", "in", "these", "areas", "here", "...", "O'BRIEN", "Up", "in", "this", "area", "here", ",", "here", "...", "MCCANN", "...", "in", "any", "of", "these", "recesses", "back", "over", "here", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I mean, you could have anyone with a rifle back in these areas here",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "these areas here",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E37-85",
+    "start" : 12,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R14",
+  "mentionArg1" : {
+    "extent" : "anyone with a rifle back in these areas here",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E35-83",
+    "start" : 6,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R14-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I mean , you could have anyone with a rifle back in these areas here ... O'BRIEN Up in this area here , here ... MCCANN ... in any of these recesses back over here .",
+  "sentence_index" : 59,
+  "Tokens" : [ "I", "mean", ",", "you", "could", "have", "anyone", "with", "a", "rifle", "back", "in", "these", "areas", "here", "...", "O'BRIEN", "Up", "in", "this", "area", "here", ",", "here", "...", "MCCANN", "...", "in", "any", "of", "these", "recesses", "back", "over", "here", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "All these areas up in here, you know, could be subjected to people hiding, et cetera",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "All these areas up in here",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E47-118",
+    "start" : 0,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R15",
+  "mentionArg1" : {
+    "extent" : "people",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E48-121",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R15-1",
+  "relationSubType" : "Located",
+  "Sentence" : "All these areas up in here , you know , could be subjected to people hiding , et cetera .",
+  "sentence_index" : 76,
+  "Tokens" : [ "All", "these", "areas", "up", "in", "here", ",", "you", "know", ",", "could", "be", "subjected", "to", "people", "hiding", ",", "et", "cetera", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a city of 5 million",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "a city of 5 million",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E55-137",
+    "start" : 6,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R16",
+  "mentionArg1" : {
+    "extent" : "5 million",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E56-138",
+    "start" : 9,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R16-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "And that -- compound that by a city of 5 million , it kind of boggles the mind and really gives you a sense of what lies head for U.S. and coalition forces .",
+  "sentence_index" : 91,
+  "Tokens" : [ "And", "that", "--", "compound", "that", "by", "a", "city", "of", "5", "million", ",", "it", "kind", "of", "boggles", "the", "mind", "and", "really", "gives", "you", "a", "sense", "of", "what", "lies", "head", "for", "U.S.", "and", "coalition", "forces", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "that -- compound that by a city of 5 million",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "a city of 5 million",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E55-137",
+    "start" : 6,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R17",
+  "mentionArg1" : {
+    "extent" : "that -- compound that by a city of 5 million",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E67-160",
+    "start" : 1,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R17-1",
+  "relationSubType" : "Near",
+  "Sentence" : "And that -- compound that by a city of 5 million , it kind of boggles the mind and really gives you a sense of what lies head for U.S. and coalition forces .",
+  "sentence_index" : 91,
+  "Tokens" : [ "And", "that", "--", "compound", "that", "by", "a", "city", "of", "5", "million", ",", "it", "kind", "of", "boggles", "the", "mind", "and", "really", "gives", "you", "a", "sense", "of", "what", "lies", "head", "for", "U.S.", "and", "coalition", "forces", "." ]
+} ]

@@ -1,0 +1,133 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "Hi, this is Sara, from California",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "California",
+    "argMentionid" : "fsh_29097-E3-5",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "fsh_29097-R1",
+  "mentionArg1" : {
+    "extent" : "Sara",
+    "argMentionid" : "fsh_29097-E2-4",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "fsh_29097-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Sara Hi , this is Sara , from California .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Sara", "Hi", ",", "this", "is", "Sara", ",", "from", "California", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Well, I mean, you live in California",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "California",
+    "argMentionid" : "fsh_29097-E3-131",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "fsh_29097-R1",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29097-E2-130",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "fsh_29097-R1-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Suzanne Well , I mean , you live in California .",
+  "sentence_index" : 50,
+  "Tokens" : [ "Suzanne", "Well", ",", "I", "mean", ",", "you", "live", "in", "California", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "your state",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "your state",
+    "argMentionid" : "fsh_29097-E3-133",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "fsh_29097-R1",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29097-E2-134",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "fsh_29097-R1-3",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "How is he doing -- in your state ?",
+  "sentence_index" : 51,
+  "Tokens" : [ "How", "is", "he", "doing", "--", "in", "your", "state", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my husband",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "my husband",
+    "argMentionid" : "fsh_29097-E4-15",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "fsh_29097-R2",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29097-E2-16",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "fsh_29097-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "I know my husband said he thinks -- that uh -- Colin Powell should -- but I do n't think he will .",
+  "sentence_index" : 14,
+  "Tokens" : [ "I", "know", "my", "husband", "said", "he", "thinks", "--", "that", "uh", "--", "Colin", "Powell", "should", "--", "but", "I", "do", "n't", "think", "he", "will", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Canadian-born governor of I think Minnesota",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Minnesota",
+    "argMentionid" : "fsh_29097-E28-157",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "fsh_29097-R3",
+  "mentionArg1" : {
+    "extent" : "the Canadian-born governor of I think Minnesota",
+    "argMentionid" : "fsh_29097-E27-156",
+    "start" : 9,
+    "end" : 15
+  },
+  "id" : "fsh_29097-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Suzanne um -- They 've been talking about getting the Canadian-born governor of I think Minnesota Sara Mhm .",
+  "sentence_index" : 55,
+  "Tokens" : [ "Suzanne", "um", "--", "They", "'ve", "been", "talking", "about", "getting", "the", "Canadian-born", "governor", "of", "I", "think", "Minnesota", "Sara", "Mhm", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Hi, I'm Suzanne from Philadelphia",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "Philadelphia",
+    "argMentionid" : "fsh_29097-E1-2",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "fsh_29097-R6",
+  "mentionArg1" : {
+    "extent" : "Suzanne",
+    "argMentionid" : "fsh_29097-E47-246",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "fsh_29097-R6-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Suzanne Hi , I 'm Suzanne from Philadelphia .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Suzanne", "Hi", ",", "I", "'m", "Suzanne", "from", "Philadelphia", "." ]
+} ]

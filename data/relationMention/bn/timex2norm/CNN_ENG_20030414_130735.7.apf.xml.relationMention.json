@@ -1,0 +1,661 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "ft. hood, texas, where she spoke to williams' wife michelle",
+  "sentence_length" : 103,
+  "mentionArg2" : {
+    "extent" : "texas",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E35-7",
+    "start" : 83,
+    "end" : 83
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R2",
+  "mentionArg1" : {
+    "extent" : "ft. hood, texas, where she spoke to williams' wife michelle",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E23-6",
+    "start" : 80,
+    "end" : 92
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "in were also big celebrations at ft. hood , texas , home base to two other p . o . w . s , david williams and ronald young. those pilots were captured on march 24th , after their apache helicopter went down in iraqi territory. today , their families are learning new and actually harrowing details about the days after their capture. cnn national correspondent susan candiotti is with the young family in georgia , jamie cole by at ft. hood , texas , where she spoke to williams ' wife michelle. susan , why do n't we start with you ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "were", "also", "big", "celebrations", "at", "ft.", "hood", ",", "texas", ",", "home", "base", "to", "two", "other", "p", ".", "o", ".", "w", ".", "s", ",", "david", "williams", "and", "ronald", "young.", "those", "pilots", "were", "captured", "on", "march", "24th", ",", "after", "their", "apache", "helicopter", "went", "down", "in", "iraqi", "territory.", "today", ",", "their", "families", "are", "learning", "new", "and", "actually", "harrowing", "details", "about", "the", "days", "after", "their", "capture.", "cnn", "national", "correspondent", "susan", "candiotti", "is", "with", "the", "young", "family", "in", "georgia", ",", "jamie", "cole", "by", "at", "ft.", "hood", ",", "texas", ",", "where", "she", "spoke", "to", "williams", "'", "wife", "michelle.", "susan", ",", "why", "do", "n't", "we", "start", "with", "you", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "ft. hood, texas",
+  "sentence_length" : 103,
+  "mentionArg2" : {
+    "extent" : "texas",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E35-156",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R2",
+  "mentionArg1" : {
+    "extent" : "ft. hood, texas",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E23-148",
+    "start" : 6,
+    "end" : 9
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R2-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "in were also big celebrations at ft. hood , texas , home base to two other p . o . w . s , david williams and ronald young. those pilots were captured on march 24th , after their apache helicopter went down in iraqi territory. today , their families are learning new and actually harrowing details about the days after their capture. cnn national correspondent susan candiotti is with the young family in georgia , jamie cole by at ft. hood , texas , where she spoke to williams ' wife michelle. susan , why do n't we start with you ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "were", "also", "big", "celebrations", "at", "ft.", "hood", ",", "texas", ",", "home", "base", "to", "two", "other", "p", ".", "o", ".", "w", ".", "s", ",", "david", "williams", "and", "ronald", "young.", "those", "pilots", "were", "captured", "on", "march", "24th", ",", "after", "their", "apache", "helicopter", "went", "down", "in", "iraqi", "territory.", "today", ",", "their", "families", "are", "learning", "new", "and", "actually", "harrowing", "details", "about", "the", "days", "after", "their", "capture.", "cnn", "national", "correspondent", "susan", "candiotti", "is", "with", "the", "young", "family", "in", "georgia", ",", "jamie", "cole", "by", "at", "ft.", "hood", ",", "texas", ",", "where", "she", "spoke", "to", "williams", "'", "wife", "michelle.", "susan", ",", "why", "do", "n't", "we", "start", "with", "you", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "cnn national correspondent susan candiotti is with the young family in georgia, jamie cole by at ft. hood, texas, where she spoke to williams' wife michelle",
+  "sentence_length" : 103,
+  "mentionArg2" : {
+    "extent" : "where",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E23-8",
+    "start" : 85,
+    "end" : 85
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R3",
+  "mentionArg1" : {
+    "extent" : "she",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E6-9",
+    "start" : 86,
+    "end" : 86
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "in were also big celebrations at ft. hood , texas , home base to two other p . o . w . s , david williams and ronald young. those pilots were captured on march 24th , after their apache helicopter went down in iraqi territory. today , their families are learning new and actually harrowing details about the days after their capture. cnn national correspondent susan candiotti is with the young family in georgia , jamie cole by at ft. hood , texas , where she spoke to williams ' wife michelle. susan , why do n't we start with you ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "were", "also", "big", "celebrations", "at", "ft.", "hood", ",", "texas", ",", "home", "base", "to", "two", "other", "p", ".", "o", ".", "w", ".", "s", ",", "david", "williams", "and", "ronald", "young.", "those", "pilots", "were", "captured", "on", "march", "24th", ",", "after", "their", "apache", "helicopter", "went", "down", "in", "iraqi", "territory.", "today", ",", "their", "families", "are", "learning", "new", "and", "actually", "harrowing", "details", "about", "the", "days", "after", "their", "capture.", "cnn", "national", "correspondent", "susan", "candiotti", "is", "with", "the", "young", "family", "in", "georgia", ",", "jamie", "cole", "by", "at", "ft.", "hood", ",", "texas", ",", "where", "she", "spoke", "to", "williams", "'", "wife", "michelle.", "susan", ",", "why", "do", "n't", "we", "start", "with", "you", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "jamie at ft. hood, texas, where she's been talking with the family of chief warrant officer david williams",
+  "sentence_length" : 63,
+  "mentionArg2" : {
+    "extent" : "ft. hood, texas, where she's been talking with the family of chief warrant officer david williams",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E23-84",
+    "start" : 21,
+    "end" : 39
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R3",
+  "mentionArg1" : {
+    "extent" : "jamie at ft. hood, texas, where she's been talking with the family of chief warrant officer david williams",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E6-83",
+    "start" : 19,
+    "end" : 39
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R3-2",
+  "relationSubType" : "Located",
+  "Sentence" : "at least , we would think , if that 's the case. thanks very much. let 's turn to jamie at ft. hood , texas , where she 's been talking with the family of chief warrant officer david williams. for them , jamie , begin what we just heard about the knife at his throat , they must be incredibly relieved .",
+  "sentence_index" : 8,
+  "Tokens" : [ "at", "least", ",", "we", "would", "think", ",", "if", "that", "'s", "the", "case.", "thanks", "very", "much.", "let", "'s", "turn", "to", "jamie", "at", "ft.", "hood", ",", "texas", ",", "where", "she", "'s", "been", "talking", "with", "the", "family", "of", "chief", "warrant", "officer", "david", "williams.", "for", "them", ",", "jamie", ",", "begin", "what", "we", "just", "heard", "about", "the", "knife", "at", "his", "throat", ",", "they", "must", "be", "incredibly", "relieved", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "hello, judy. during a brief phone call with their son from kuwait on surngd the arm asked the young family not to get into any specific details about what happened during their son's capture and release",
+  "sentence_length" : 221,
+  "mentionArg2" : {
+    "extent" : "kuwait",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E11-20",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R4",
+  "mentionArg1" : {
+    "extent" : "their son",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E31-18",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "reporter : hello , judy. during a brief phone call with their son from kuwait on surngd the arm asked the young family not to get into any specific details about what happened during their son 's capture and release. however , the family did get in a company of questions about how he was treated. they learned he lost 20 pound pounds and also their son told them that in the last few days of his capture , things were n't so bad but that they were very rough in the beginning. now they are learning more details that their son in fact was kicked and beaten after his capture , and that his fellow pilot david williams had a knife held to his throat immediately after an tur , according to an interview their son was allowed to conduct with \" the washington post \" , who flew with him into kuwait. their son is said to be in very good spirits now and back here in georgia , after three weeks of not knowing exactly what had happened to him , finally , for the very first time in three weeks , the young family members got some sleep last night for the first time in a long time. well , at least some family members did .",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "hello", ",", "judy.", "during", "a", "brief", "phone", "call", "with", "their", "son", "from", "kuwait", "on", "surngd", "the", "arm", "asked", "the", "young", "family", "not", "to", "get", "into", "any", "specific", "details", "about", "what", "happened", "during", "their", "son", "'s", "capture", "and", "release.", "however", ",", "the", "family", "did", "get", "in", "a", "company", "of", "questions", "about", "how", "he", "was", "treated.", "they", "learned", "he", "lost", "20", "pound", "pounds", "and", "also", "their", "son", "told", "them", "that", "in", "the", "last", "few", "days", "of", "his", "capture", ",", "things", "were", "n't", "so", "bad", "but", "that", "they", "were", "very", "rough", "in", "the", "beginning.", "now", "they", "are", "learning", "more", "details", "that", "their", "son", "in", "fact", "was", "kicked", "and", "beaten", "after", "his", "capture", ",", "and", "that", "his", "fellow", "pilot", "david", "williams", "had", "a", "knife", "held", "to", "his", "throat", "immediately", "after", "an", "tur", ",", "according", "to", "an", "interview", "their", "son", "was", "allowed", "to", "conduct", "with", "\"", "the", "washington", "post", "\"", ",", "who", "flew", "with", "him", "into", "kuwait.", "their", "son", "is", "said", "to", "be", "in", "very", "good", "spirits", "now", "and", "back", "here", "in", "georgia", ",", "after", "three", "weeks", "of", "not", "knowing", "exactly", "what", "had", "happened", "to", "him", ",", "finally", ",", "for", "the", "very", "first", "time", "in", "three", "weeks", ",", "the", "young", "family", "members", "got", "some", "sleep", "last", "night", "for", "the", "first", "time", "in", "a", "long", "time.", "well", ",", "at", "least", "some", "family", "members", "did", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "now they are learning more details that their son in fact was kicked and beaten after his capture, and that his fellow pilot david williams had a knife held to his throat immediately after an tur, according to an interview their son was allowed to conduct with \"the washington post\", who flew with him into kuwait",
+  "sentence_length" : 221,
+  "mentionArg2" : {
+    "extent" : "kuwait",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E11-46",
+    "start" : 153,
+    "end" : 153
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R4",
+  "mentionArg1" : {
+    "extent" : "him",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E31-45",
+    "start" : 151,
+    "end" : 151
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R4-2",
+  "relationSubType" : "Located",
+  "Sentence" : "reporter : hello , judy. during a brief phone call with their son from kuwait on surngd the arm asked the young family not to get into any specific details about what happened during their son 's capture and release. however , the family did get in a company of questions about how he was treated. they learned he lost 20 pound pounds and also their son told them that in the last few days of his capture , things were n't so bad but that they were very rough in the beginning. now they are learning more details that their son in fact was kicked and beaten after his capture , and that his fellow pilot david williams had a knife held to his throat immediately after an tur , according to an interview their son was allowed to conduct with \" the washington post \" , who flew with him into kuwait. their son is said to be in very good spirits now and back here in georgia , after three weeks of not knowing exactly what had happened to him , finally , for the very first time in three weeks , the young family members got some sleep last night for the first time in a long time. well , at least some family members did .",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "hello", ",", "judy.", "during", "a", "brief", "phone", "call", "with", "their", "son", "from", "kuwait", "on", "surngd", "the", "arm", "asked", "the", "young", "family", "not", "to", "get", "into", "any", "specific", "details", "about", "what", "happened", "during", "their", "son", "'s", "capture", "and", "release.", "however", ",", "the", "family", "did", "get", "in", "a", "company", "of", "questions", "about", "how", "he", "was", "treated.", "they", "learned", "he", "lost", "20", "pound", "pounds", "and", "also", "their", "son", "told", "them", "that", "in", "the", "last", "few", "days", "of", "his", "capture", ",", "things", "were", "n't", "so", "bad", "but", "that", "they", "were", "very", "rough", "in", "the", "beginning.", "now", "they", "are", "learning", "more", "details", "that", "their", "son", "in", "fact", "was", "kicked", "and", "beaten", "after", "his", "capture", ",", "and", "that", "his", "fellow", "pilot", "david", "williams", "had", "a", "knife", "held", "to", "his", "throat", "immediately", "after", "an", "tur", ",", "according", "to", "an", "interview", "their", "son", "was", "allowed", "to", "conduct", "with", "\"", "the", "washington", "post", "\"", ",", "who", "flew", "with", "him", "into", "kuwait.", "their", "son", "is", "said", "to", "be", "in", "very", "good", "spirits", "now", "and", "back", "here", "in", "georgia", ",", "after", "three", "weeks", "of", "not", "knowing", "exactly", "what", "had", "happened", "to", "him", ",", "finally", ",", "for", "the", "very", "first", "time", "in", "three", "weeks", ",", "the", "young", "family", "members", "got", "some", "sleep", "last", "night", "for", "the", "first", "time", "in", "a", "long", "time.", "well", ",", "at", "least", "some", "family", "members", "did", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her husband",
+  "sentence_length" : 149,
+  "mentionArg2" : {
+    "extent" : "her husband",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E12-105",
+    "start" : 52,
+    "end" : 53
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R5",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E7-106",
+    "start" : 52,
+    "end" : 52
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R5-1",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : you know , judy , they have been learning more and more as the day goes on. the focus is clearly not on their treatment or their capture but their freedom. i was on the phone with michelle williams yesterday , when she saw those first pictures on cnn of her husband , and she sleeked with delight. for three weeks she 's watched and waited for some news. the only other pictures was his abandoned helicopter. she knew instantly when she saw it , because of the 1st cavalry emblem and special markings it was his. it 's been a long three weeks. today is date she was waiting for. ihood a chance to spend some time with her yesterday. this morning on \" american morning \" she told us about what her reaction was when she saw those first pictures of her husband free .",
+  "sentence_index" : 9,
+  "Tokens" : [ "reporter", ":", "you", "know", ",", "judy", ",", "they", "have", "been", "learning", "more", "and", "more", "as", "the", "day", "goes", "on.", "the", "focus", "is", "clearly", "not", "on", "their", "treatment", "or", "their", "capture", "but", "their", "freedom.", "i", "was", "on", "the", "phone", "with", "michelle", "williams", "yesterday", ",", "when", "she", "saw", "those", "first", "pictures", "on", "cnn", "of", "her", "husband", ",", "and", "she", "sleeked", "with", "delight.", "for", "three", "weeks", "she", "'s", "watched", "and", "waited", "for", "some", "news.", "the", "only", "other", "pictures", "was", "his", "abandoned", "helicopter.", "she", "knew", "instantly", "when", "she", "saw", "it", ",", "because", "of", "the", "1st", "cavalry", "emblem", "and", "special", "markings", "it", "was", "his.", "it", "'s", "been", "a", "long", "three", "weeks.", "today", "is", "date", "she", "was", "waiting", "for.", "ihood", "a", "chance", "to", "spend", "some", "time", "with", "her", "yesterday.", "this", "morning", "on", "\"", "american", "morning", "\"", "she", "told", "us", "about", "what", "her", "reaction", "was", "when", "she", "saw", "those", "first", "pictures", "of", "her", "husband", "free", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her husband",
+  "sentence_length" : 149,
+  "mentionArg2" : {
+    "extent" : "her husband",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E12-122",
+    "start" : 145,
+    "end" : 146
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R5",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E7-123",
+    "start" : 145,
+    "end" : 145
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R5-2",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : you know , judy , they have been learning more and more as the day goes on. the focus is clearly not on their treatment or their capture but their freedom. i was on the phone with michelle williams yesterday , when she saw those first pictures on cnn of her husband , and she sleeked with delight. for three weeks she 's watched and waited for some news. the only other pictures was his abandoned helicopter. she knew instantly when she saw it , because of the 1st cavalry emblem and special markings it was his. it 's been a long three weeks. today is date she was waiting for. ihood a chance to spend some time with her yesterday. this morning on \" american morning \" she told us about what her reaction was when she saw those first pictures of her husband free .",
+  "sentence_index" : 9,
+  "Tokens" : [ "reporter", ":", "you", "know", ",", "judy", ",", "they", "have", "been", "learning", "more", "and", "more", "as", "the", "day", "goes", "on.", "the", "focus", "is", "clearly", "not", "on", "their", "treatment", "or", "their", "capture", "but", "their", "freedom.", "i", "was", "on", "the", "phone", "with", "michelle", "williams", "yesterday", ",", "when", "she", "saw", "those", "first", "pictures", "on", "cnn", "of", "her", "husband", ",", "and", "she", "sleeked", "with", "delight.", "for", "three", "weeks", "she", "'s", "watched", "and", "waited", "for", "some", "news.", "the", "only", "other", "pictures", "was", "his", "abandoned", "helicopter.", "she", "knew", "instantly", "when", "she", "saw", "it", ",", "because", "of", "the", "1st", "cavalry", "emblem", "and", "special", "markings", "it", "was", "his.", "it", "'s", "been", "a", "long", "three", "weeks.", "today", "is", "date", "she", "was", "waiting", "for.", "ihood", "a", "chance", "to", "spend", "some", "time", "with", "her", "yesterday.", "this", "morning", "on", "\"", "american", "morning", "\"", "she", "told", "us", "about", "what", "her", "reaction", "was", "when", "she", "saw", "those", "first", "pictures", "of", "her", "husband", "free", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "williams' wife",
+  "sentence_length" : 103,
+  "mentionArg2" : {
+    "extent" : "williams",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E12-11",
+    "start" : 89,
+    "end" : 89
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R5",
+  "mentionArg1" : {
+    "extent" : "williams' wife",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E7-13",
+    "start" : 89,
+    "end" : 91
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R5-3",
+  "relationSubType" : "Family",
+  "Sentence" : "in were also big celebrations at ft. hood , texas , home base to two other p . o . w . s , david williams and ronald young. those pilots were captured on march 24th , after their apache helicopter went down in iraqi territory. today , their families are learning new and actually harrowing details about the days after their capture. cnn national correspondent susan candiotti is with the young family in georgia , jamie cole by at ft. hood , texas , where she spoke to williams ' wife michelle. susan , why do n't we start with you ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "were", "also", "big", "celebrations", "at", "ft.", "hood", ",", "texas", ",", "home", "base", "to", "two", "other", "p", ".", "o", ".", "w", ".", "s", ",", "david", "williams", "and", "ronald", "young.", "those", "pilots", "were", "captured", "on", "march", "24th", ",", "after", "their", "apache", "helicopter", "went", "down", "in", "iraqi", "territory.", "today", ",", "their", "families", "are", "learning", "new", "and", "actually", "harrowing", "details", "about", "the", "days", "after", "their", "capture.", "cnn", "national", "correspondent", "susan", "candiotti", "is", "with", "the", "young", "family", "in", "georgia", ",", "jamie", "cole", "by", "at", "ft.", "hood", ",", "texas", ",", "where", "she", "spoke", "to", "williams", "'", "wife", "michelle.", "susan", ",", "why", "do", "n't", "we", "start", "with", "you", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "their apache helicopter",
+  "sentence_length" : 103,
+  "mentionArg2" : {
+    "extent" : "their apache helicopter",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E40-164",
+    "start" : 38,
+    "end" : 40
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R13",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E37-163",
+    "start" : 38,
+    "end" : 38
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R13-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "in were also big celebrations at ft. hood , texas , home base to two other p . o . w . s , david williams and ronald young. those pilots were captured on march 24th , after their apache helicopter went down in iraqi territory. today , their families are learning new and actually harrowing details about the days after their capture. cnn national correspondent susan candiotti is with the young family in georgia , jamie cole by at ft. hood , texas , where she spoke to williams ' wife michelle. susan , why do n't we start with you ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "were", "also", "big", "celebrations", "at", "ft.", "hood", ",", "texas", ",", "home", "base", "to", "two", "other", "p", ".", "o", ".", "w", ".", "s", ",", "david", "williams", "and", "ronald", "young.", "those", "pilots", "were", "captured", "on", "march", "24th", ",", "after", "their", "apache", "helicopter", "went", "down", "in", "iraqi", "territory.", "today", ",", "their", "families", "are", "learning", "new", "and", "actually", "harrowing", "details", "about", "the", "days", "after", "their", "capture.", "cnn", "national", "correspondent", "susan", "candiotti", "is", "with", "the", "young", "family", "in", "georgia", ",", "jamie", "cole", "by", "at", "ft.", "hood", ",", "texas", ",", "where", "she", "spoke", "to", "williams", "'", "wife", "michelle.", "susan", ",", "why", "do", "n't", "we", "start", "with", "you", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "iraqi territory",
+  "sentence_length" : 103,
+  "mentionArg2" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E29-145",
+    "start" : 44,
+    "end" : 44
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R15",
+  "mentionArg1" : {
+    "extent" : "iraqi territory",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E42-166",
+    "start" : 44,
+    "end" : 45
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R15-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "in were also big celebrations at ft. hood , texas , home base to two other p . o . w . s , david williams and ronald young. those pilots were captured on march 24th , after their apache helicopter went down in iraqi territory. today , their families are learning new and actually harrowing details about the days after their capture. cnn national correspondent susan candiotti is with the young family in georgia , jamie cole by at ft. hood , texas , where she spoke to williams ' wife michelle. susan , why do n't we start with you ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "were", "also", "big", "celebrations", "at", "ft.", "hood", ",", "texas", ",", "home", "base", "to", "two", "other", "p", ".", "o", ".", "w", ".", "s", ",", "david", "williams", "and", "ronald", "young.", "those", "pilots", "were", "captured", "on", "march", "24th", ",", "after", "their", "apache", "helicopter", "went", "down", "in", "iraqi", "territory.", "today", ",", "their", "families", "are", "learning", "new", "and", "actually", "harrowing", "details", "about", "the", "days", "after", "their", "capture.", "cnn", "national", "correspondent", "susan", "candiotti", "is", "with", "the", "young", "family", "in", "georgia", ",", "jamie", "cole", "by", "at", "ft.", "hood", ",", "texas", ",", "where", "she", "spoke", "to", "williams", "'", "wife", "michelle.", "susan", ",", "why", "do", "n't", "we", "start", "with", "you", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their families",
+  "sentence_length" : 103,
+  "mentionArg2" : {
+    "extent" : "their families",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E43-168",
+    "start" : 48,
+    "end" : 49
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R16",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E37-167",
+    "start" : 48,
+    "end" : 48
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R16-1",
+  "relationSubType" : "Family",
+  "Sentence" : "in were also big celebrations at ft. hood , texas , home base to two other p . o . w . s , david williams and ronald young. those pilots were captured on march 24th , after their apache helicopter went down in iraqi territory. today , their families are learning new and actually harrowing details about the days after their capture. cnn national correspondent susan candiotti is with the young family in georgia , jamie cole by at ft. hood , texas , where she spoke to williams ' wife michelle. susan , why do n't we start with you ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "were", "also", "big", "celebrations", "at", "ft.", "hood", ",", "texas", ",", "home", "base", "to", "two", "other", "p", ".", "o", ".", "w", ".", "s", ",", "david", "williams", "and", "ronald", "young.", "those", "pilots", "were", "captured", "on", "march", "24th", ",", "after", "their", "apache", "helicopter", "went", "down", "in", "iraqi", "territory.", "today", ",", "their", "families", "are", "learning", "new", "and", "actually", "harrowing", "details", "about", "the", "days", "after", "their", "capture.", "cnn", "national", "correspondent", "susan", "candiotti", "is", "with", "the", "young", "family", "in", "georgia", ",", "jamie", "cole", "by", "at", "ft.", "hood", ",", "texas", ",", "where", "she", "spoke", "to", "williams", "'", "wife", "michelle.", "susan", ",", "why", "do", "n't", "we", "start", "with", "you", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "cnn national correspondent",
+  "sentence_length" : 103,
+  "mentionArg2" : {
+    "extent" : "cnn",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E2-3",
+    "start" : 63,
+    "end" : 63
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R17",
+  "mentionArg1" : {
+    "extent" : "cnn national correspondent",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E1-2",
+    "start" : 63,
+    "end" : 65
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R17-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "in were also big celebrations at ft. hood , texas , home base to two other p . o . w . s , david williams and ronald young. those pilots were captured on march 24th , after their apache helicopter went down in iraqi territory. today , their families are learning new and actually harrowing details about the days after their capture. cnn national correspondent susan candiotti is with the young family in georgia , jamie cole by at ft. hood , texas , where she spoke to williams ' wife michelle. susan , why do n't we start with you ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "were", "also", "big", "celebrations", "at", "ft.", "hood", ",", "texas", ",", "home", "base", "to", "two", "other", "p", ".", "o", ".", "w", ".", "s", ",", "david", "williams", "and", "ronald", "young.", "those", "pilots", "were", "captured", "on", "march", "24th", ",", "after", "their", "apache", "helicopter", "went", "down", "in", "iraqi", "territory.", "today", ",", "their", "families", "are", "learning", "new", "and", "actually", "harrowing", "details", "about", "the", "days", "after", "their", "capture.", "cnn", "national", "correspondent", "susan", "candiotti", "is", "with", "the", "young", "family", "in", "georgia", ",", "jamie", "cole", "by", "at", "ft.", "hood", ",", "texas", ",", "where", "she", "spoke", "to", "williams", "'", "wife", "michelle.", "susan", ",", "why", "do", "n't", "we", "start", "with", "you", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "cnn national correspondent susan candiotti is with the young family in georgia, jamie cole by at ft. hood, texas, where she spoke to williams' wife michelle",
+  "sentence_length" : 103,
+  "mentionArg2" : {
+    "extent" : "where",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E23-8",
+    "start" : 85,
+    "end" : 85
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R20",
+  "mentionArg1" : {
+    "extent" : "williams' wife michelle",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E7-12",
+    "start" : 89,
+    "end" : 92
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R20-1",
+  "relationSubType" : "Located",
+  "Sentence" : "in were also big celebrations at ft. hood , texas , home base to two other p . o . w . s , david williams and ronald young. those pilots were captured on march 24th , after their apache helicopter went down in iraqi territory. today , their families are learning new and actually harrowing details about the days after their capture. cnn national correspondent susan candiotti is with the young family in georgia , jamie cole by at ft. hood , texas , where she spoke to williams ' wife michelle. susan , why do n't we start with you ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "were", "also", "big", "celebrations", "at", "ft.", "hood", ",", "texas", ",", "home", "base", "to", "two", "other", "p", ".", "o", ".", "w", ".", "s", ",", "david", "williams", "and", "ronald", "young.", "those", "pilots", "were", "captured", "on", "march", "24th", ",", "after", "their", "apache", "helicopter", "went", "down", "in", "iraqi", "territory.", "today", ",", "their", "families", "are", "learning", "new", "and", "actually", "harrowing", "details", "about", "the", "days", "after", "their", "capture.", "cnn", "national", "correspondent", "susan", "candiotti", "is", "with", "the", "young", "family", "in", "georgia", ",", "jamie", "cole", "by", "at", "ft.", "hood", ",", "texas", ",", "where", "she", "spoke", "to", "williams", "'", "wife", "michelle.", "susan", ",", "why", "do", "n't", "we", "start", "with", "you", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the young family in georgia",
+  "sentence_length" : 103,
+  "mentionArg2" : {
+    "extent" : "georgia",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E5-5",
+    "start" : 74,
+    "end" : 74
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R21",
+  "mentionArg1" : {
+    "extent" : "the young family in georgia",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E4-4",
+    "start" : 70,
+    "end" : 74
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R21-1",
+  "relationSubType" : "Located",
+  "Sentence" : "in were also big celebrations at ft. hood , texas , home base to two other p . o . w . s , david williams and ronald young. those pilots were captured on march 24th , after their apache helicopter went down in iraqi territory. today , their families are learning new and actually harrowing details about the days after their capture. cnn national correspondent susan candiotti is with the young family in georgia , jamie cole by at ft. hood , texas , where she spoke to williams ' wife michelle. susan , why do n't we start with you ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "were", "also", "big", "celebrations", "at", "ft.", "hood", ",", "texas", ",", "home", "base", "to", "two", "other", "p", ".", "o", ".", "w", ".", "s", ",", "david", "williams", "and", "ronald", "young.", "those", "pilots", "were", "captured", "on", "march", "24th", ",", "after", "their", "apache", "helicopter", "went", "down", "in", "iraqi", "territory.", "today", ",", "their", "families", "are", "learning", "new", "and", "actually", "harrowing", "details", "about", "the", "days", "after", "their", "capture.", "cnn", "national", "correspondent", "susan", "candiotti", "is", "with", "the", "young", "family", "in", "georgia", ",", "jamie", "cole", "by", "at", "ft.", "hood", ",", "texas", ",", "where", "she", "spoke", "to", "williams", "'", "wife", "michelle.", "susan", ",", "why", "do", "n't", "we", "start", "with", "you", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their son",
+  "sentence_length" : 221,
+  "mentionArg2" : {
+    "extent" : "their son",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E31-18",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R22",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E4-19",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R22-1",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : hello , judy. during a brief phone call with their son from kuwait on surngd the arm asked the young family not to get into any specific details about what happened during their son 's capture and release. however , the family did get in a company of questions about how he was treated. they learned he lost 20 pound pounds and also their son told them that in the last few days of his capture , things were n't so bad but that they were very rough in the beginning. now they are learning more details that their son in fact was kicked and beaten after his capture , and that his fellow pilot david williams had a knife held to his throat immediately after an tur , according to an interview their son was allowed to conduct with \" the washington post \" , who flew with him into kuwait. their son is said to be in very good spirits now and back here in georgia , after three weeks of not knowing exactly what had happened to him , finally , for the very first time in three weeks , the young family members got some sleep last night for the first time in a long time. well , at least some family members did .",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "hello", ",", "judy.", "during", "a", "brief", "phone", "call", "with", "their", "son", "from", "kuwait", "on", "surngd", "the", "arm", "asked", "the", "young", "family", "not", "to", "get", "into", "any", "specific", "details", "about", "what", "happened", "during", "their", "son", "'s", "capture", "and", "release.", "however", ",", "the", "family", "did", "get", "in", "a", "company", "of", "questions", "about", "how", "he", "was", "treated.", "they", "learned", "he", "lost", "20", "pound", "pounds", "and", "also", "their", "son", "told", "them", "that", "in", "the", "last", "few", "days", "of", "his", "capture", ",", "things", "were", "n't", "so", "bad", "but", "that", "they", "were", "very", "rough", "in", "the", "beginning.", "now", "they", "are", "learning", "more", "details", "that", "their", "son", "in", "fact", "was", "kicked", "and", "beaten", "after", "his", "capture", ",", "and", "that", "his", "fellow", "pilot", "david", "williams", "had", "a", "knife", "held", "to", "his", "throat", "immediately", "after", "an", "tur", ",", "according", "to", "an", "interview", "their", "son", "was", "allowed", "to", "conduct", "with", "\"", "the", "washington", "post", "\"", ",", "who", "flew", "with", "him", "into", "kuwait.", "their", "son", "is", "said", "to", "be", "in", "very", "good", "spirits", "now", "and", "back", "here", "in", "georgia", ",", "after", "three", "weeks", "of", "not", "knowing", "exactly", "what", "had", "happened", "to", "him", ",", "finally", ",", "for", "the", "very", "first", "time", "in", "three", "weeks", ",", "the", "young", "family", "members", "got", "some", "sleep", "last", "night", "for", "the", "first", "time", "in", "a", "long", "time.", "well", ",", "at", "least", "some", "family", "members", "did", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their son",
+  "sentence_length" : 221,
+  "mentionArg2" : {
+    "extent" : "their son",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E31-23",
+    "start" : 34,
+    "end" : 35
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R22",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E4-24",
+    "start" : 34,
+    "end" : 34
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R22-2",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : hello , judy. during a brief phone call with their son from kuwait on surngd the arm asked the young family not to get into any specific details about what happened during their son 's capture and release. however , the family did get in a company of questions about how he was treated. they learned he lost 20 pound pounds and also their son told them that in the last few days of his capture , things were n't so bad but that they were very rough in the beginning. now they are learning more details that their son in fact was kicked and beaten after his capture , and that his fellow pilot david williams had a knife held to his throat immediately after an tur , according to an interview their son was allowed to conduct with \" the washington post \" , who flew with him into kuwait. their son is said to be in very good spirits now and back here in georgia , after three weeks of not knowing exactly what had happened to him , finally , for the very first time in three weeks , the young family members got some sleep last night for the first time in a long time. well , at least some family members did .",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "hello", ",", "judy.", "during", "a", "brief", "phone", "call", "with", "their", "son", "from", "kuwait", "on", "surngd", "the", "arm", "asked", "the", "young", "family", "not", "to", "get", "into", "any", "specific", "details", "about", "what", "happened", "during", "their", "son", "'s", "capture", "and", "release.", "however", ",", "the", "family", "did", "get", "in", "a", "company", "of", "questions", "about", "how", "he", "was", "treated.", "they", "learned", "he", "lost", "20", "pound", "pounds", "and", "also", "their", "son", "told", "them", "that", "in", "the", "last", "few", "days", "of", "his", "capture", ",", "things", "were", "n't", "so", "bad", "but", "that", "they", "were", "very", "rough", "in", "the", "beginning.", "now", "they", "are", "learning", "more", "details", "that", "their", "son", "in", "fact", "was", "kicked", "and", "beaten", "after", "his", "capture", ",", "and", "that", "his", "fellow", "pilot", "david", "williams", "had", "a", "knife", "held", "to", "his", "throat", "immediately", "after", "an", "tur", ",", "according", "to", "an", "interview", "their", "son", "was", "allowed", "to", "conduct", "with", "\"", "the", "washington", "post", "\"", ",", "who", "flew", "with", "him", "into", "kuwait.", "their", "son", "is", "said", "to", "be", "in", "very", "good", "spirits", "now", "and", "back", "here", "in", "georgia", ",", "after", "three", "weeks", "of", "not", "knowing", "exactly", "what", "had", "happened", "to", "him", ",", "finally", ",", "for", "the", "very", "first", "time", "in", "three", "weeks", ",", "the", "young", "family", "members", "got", "some", "sleep", "last", "night", "for", "the", "first", "time", "in", "a", "long", "time.", "well", ",", "at", "least", "some", "family", "members", "did", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their son",
+  "sentence_length" : 221,
+  "mentionArg2" : {
+    "extent" : "their son",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E31-29",
+    "start" : 65,
+    "end" : 66
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R22",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E4-30",
+    "start" : 65,
+    "end" : 65
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R22-3",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : hello , judy. during a brief phone call with their son from kuwait on surngd the arm asked the young family not to get into any specific details about what happened during their son 's capture and release. however , the family did get in a company of questions about how he was treated. they learned he lost 20 pound pounds and also their son told them that in the last few days of his capture , things were n't so bad but that they were very rough in the beginning. now they are learning more details that their son in fact was kicked and beaten after his capture , and that his fellow pilot david williams had a knife held to his throat immediately after an tur , according to an interview their son was allowed to conduct with \" the washington post \" , who flew with him into kuwait. their son is said to be in very good spirits now and back here in georgia , after three weeks of not knowing exactly what had happened to him , finally , for the very first time in three weeks , the young family members got some sleep last night for the first time in a long time. well , at least some family members did .",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "hello", ",", "judy.", "during", "a", "brief", "phone", "call", "with", "their", "son", "from", "kuwait", "on", "surngd", "the", "arm", "asked", "the", "young", "family", "not", "to", "get", "into", "any", "specific", "details", "about", "what", "happened", "during", "their", "son", "'s", "capture", "and", "release.", "however", ",", "the", "family", "did", "get", "in", "a", "company", "of", "questions", "about", "how", "he", "was", "treated.", "they", "learned", "he", "lost", "20", "pound", "pounds", "and", "also", "their", "son", "told", "them", "that", "in", "the", "last", "few", "days", "of", "his", "capture", ",", "things", "were", "n't", "so", "bad", "but", "that", "they", "were", "very", "rough", "in", "the", "beginning.", "now", "they", "are", "learning", "more", "details", "that", "their", "son", "in", "fact", "was", "kicked", "and", "beaten", "after", "his", "capture", ",", "and", "that", "his", "fellow", "pilot", "david", "williams", "had", "a", "knife", "held", "to", "his", "throat", "immediately", "after", "an", "tur", ",", "according", "to", "an", "interview", "their", "son", "was", "allowed", "to", "conduct", "with", "\"", "the", "washington", "post", "\"", ",", "who", "flew", "with", "him", "into", "kuwait.", "their", "son", "is", "said", "to", "be", "in", "very", "good", "spirits", "now", "and", "back", "here", "in", "georgia", ",", "after", "three", "weeks", "of", "not", "knowing", "exactly", "what", "had", "happened", "to", "him", ",", "finally", ",", "for", "the", "very", "first", "time", "in", "three", "weeks", ",", "the", "young", "family", "members", "got", "some", "sleep", "last", "night", "for", "the", "first", "time", "in", "a", "long", "time.", "well", ",", "at", "least", "some", "family", "members", "did", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their son",
+  "sentence_length" : 221,
+  "mentionArg2" : {
+    "extent" : "their son",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E31-33",
+    "start" : 100,
+    "end" : 101
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R22",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E4-34",
+    "start" : 100,
+    "end" : 100
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R22-4",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : hello , judy. during a brief phone call with their son from kuwait on surngd the arm asked the young family not to get into any specific details about what happened during their son 's capture and release. however , the family did get in a company of questions about how he was treated. they learned he lost 20 pound pounds and also their son told them that in the last few days of his capture , things were n't so bad but that they were very rough in the beginning. now they are learning more details that their son in fact was kicked and beaten after his capture , and that his fellow pilot david williams had a knife held to his throat immediately after an tur , according to an interview their son was allowed to conduct with \" the washington post \" , who flew with him into kuwait. their son is said to be in very good spirits now and back here in georgia , after three weeks of not knowing exactly what had happened to him , finally , for the very first time in three weeks , the young family members got some sleep last night for the first time in a long time. well , at least some family members did .",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "hello", ",", "judy.", "during", "a", "brief", "phone", "call", "with", "their", "son", "from", "kuwait", "on", "surngd", "the", "arm", "asked", "the", "young", "family", "not", "to", "get", "into", "any", "specific", "details", "about", "what", "happened", "during", "their", "son", "'s", "capture", "and", "release.", "however", ",", "the", "family", "did", "get", "in", "a", "company", "of", "questions", "about", "how", "he", "was", "treated.", "they", "learned", "he", "lost", "20", "pound", "pounds", "and", "also", "their", "son", "told", "them", "that", "in", "the", "last", "few", "days", "of", "his", "capture", ",", "things", "were", "n't", "so", "bad", "but", "that", "they", "were", "very", "rough", "in", "the", "beginning.", "now", "they", "are", "learning", "more", "details", "that", "their", "son", "in", "fact", "was", "kicked", "and", "beaten", "after", "his", "capture", ",", "and", "that", "his", "fellow", "pilot", "david", "williams", "had", "a", "knife", "held", "to", "his", "throat", "immediately", "after", "an", "tur", ",", "according", "to", "an", "interview", "their", "son", "was", "allowed", "to", "conduct", "with", "\"", "the", "washington", "post", "\"", ",", "who", "flew", "with", "him", "into", "kuwait.", "their", "son", "is", "said", "to", "be", "in", "very", "good", "spirits", "now", "and", "back", "here", "in", "georgia", ",", "after", "three", "weeks", "of", "not", "knowing", "exactly", "what", "had", "happened", "to", "him", ",", "finally", ",", "for", "the", "very", "first", "time", "in", "three", "weeks", ",", "the", "young", "family", "members", "got", "some", "sleep", "last", "night", "for", "the", "first", "time", "in", "a", "long", "time.", "well", ",", "at", "least", "some", "family", "members", "did", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their son",
+  "sentence_length" : 221,
+  "mentionArg2" : {
+    "extent" : "their son",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E31-41",
+    "start" : 135,
+    "end" : 136
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R22",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E4-42",
+    "start" : 135,
+    "end" : 135
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R22-5",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : hello , judy. during a brief phone call with their son from kuwait on surngd the arm asked the young family not to get into any specific details about what happened during their son 's capture and release. however , the family did get in a company of questions about how he was treated. they learned he lost 20 pound pounds and also their son told them that in the last few days of his capture , things were n't so bad but that they were very rough in the beginning. now they are learning more details that their son in fact was kicked and beaten after his capture , and that his fellow pilot david williams had a knife held to his throat immediately after an tur , according to an interview their son was allowed to conduct with \" the washington post \" , who flew with him into kuwait. their son is said to be in very good spirits now and back here in georgia , after three weeks of not knowing exactly what had happened to him , finally , for the very first time in three weeks , the young family members got some sleep last night for the first time in a long time. well , at least some family members did .",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "hello", ",", "judy.", "during", "a", "brief", "phone", "call", "with", "their", "son", "from", "kuwait", "on", "surngd", "the", "arm", "asked", "the", "young", "family", "not", "to", "get", "into", "any", "specific", "details", "about", "what", "happened", "during", "their", "son", "'s", "capture", "and", "release.", "however", ",", "the", "family", "did", "get", "in", "a", "company", "of", "questions", "about", "how", "he", "was", "treated.", "they", "learned", "he", "lost", "20", "pound", "pounds", "and", "also", "their", "son", "told", "them", "that", "in", "the", "last", "few", "days", "of", "his", "capture", ",", "things", "were", "n't", "so", "bad", "but", "that", "they", "were", "very", "rough", "in", "the", "beginning.", "now", "they", "are", "learning", "more", "details", "that", "their", "son", "in", "fact", "was", "kicked", "and", "beaten", "after", "his", "capture", ",", "and", "that", "his", "fellow", "pilot", "david", "williams", "had", "a", "knife", "held", "to", "his", "throat", "immediately", "after", "an", "tur", ",", "according", "to", "an", "interview", "their", "son", "was", "allowed", "to", "conduct", "with", "\"", "the", "washington", "post", "\"", ",", "who", "flew", "with", "him", "into", "kuwait.", "their", "son", "is", "said", "to", "be", "in", "very", "good", "spirits", "now", "and", "back", "here", "in", "georgia", ",", "after", "three", "weeks", "of", "not", "knowing", "exactly", "what", "had", "happened", "to", "him", ",", "finally", ",", "for", "the", "very", "first", "time", "in", "three", "weeks", ",", "the", "young", "family", "members", "got", "some", "sleep", "last", "night", "for", "the", "first", "time", "in", "a", "long", "time.", "well", ",", "at", "least", "some", "family", "members", "did", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their son",
+  "sentence_length" : 221,
+  "mentionArg2" : {
+    "extent" : "their son",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E31-47",
+    "start" : 154,
+    "end" : 155
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R22",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E4-48",
+    "start" : 154,
+    "end" : 154
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R22-6",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : hello , judy. during a brief phone call with their son from kuwait on surngd the arm asked the young family not to get into any specific details about what happened during their son 's capture and release. however , the family did get in a company of questions about how he was treated. they learned he lost 20 pound pounds and also their son told them that in the last few days of his capture , things were n't so bad but that they were very rough in the beginning. now they are learning more details that their son in fact was kicked and beaten after his capture , and that his fellow pilot david williams had a knife held to his throat immediately after an tur , according to an interview their son was allowed to conduct with \" the washington post \" , who flew with him into kuwait. their son is said to be in very good spirits now and back here in georgia , after three weeks of not knowing exactly what had happened to him , finally , for the very first time in three weeks , the young family members got some sleep last night for the first time in a long time. well , at least some family members did .",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "hello", ",", "judy.", "during", "a", "brief", "phone", "call", "with", "their", "son", "from", "kuwait", "on", "surngd", "the", "arm", "asked", "the", "young", "family", "not", "to", "get", "into", "any", "specific", "details", "about", "what", "happened", "during", "their", "son", "'s", "capture", "and", "release.", "however", ",", "the", "family", "did", "get", "in", "a", "company", "of", "questions", "about", "how", "he", "was", "treated.", "they", "learned", "he", "lost", "20", "pound", "pounds", "and", "also", "their", "son", "told", "them", "that", "in", "the", "last", "few", "days", "of", "his", "capture", ",", "things", "were", "n't", "so", "bad", "but", "that", "they", "were", "very", "rough", "in", "the", "beginning.", "now", "they", "are", "learning", "more", "details", "that", "their", "son", "in", "fact", "was", "kicked", "and", "beaten", "after", "his", "capture", ",", "and", "that", "his", "fellow", "pilot", "david", "williams", "had", "a", "knife", "held", "to", "his", "throat", "immediately", "after", "an", "tur", ",", "according", "to", "an", "interview", "their", "son", "was", "allowed", "to", "conduct", "with", "\"", "the", "washington", "post", "\"", ",", "who", "flew", "with", "him", "into", "kuwait.", "their", "son", "is", "said", "to", "be", "in", "very", "good", "spirits", "now", "and", "back", "here", "in", "georgia", ",", "after", "three", "weeks", "of", "not", "knowing", "exactly", "what", "had", "happened", "to", "him", ",", "finally", ",", "for", "the", "very", "first", "time", "in", "three", "weeks", ",", "the", "young", "family", "members", "got", "some", "sleep", "last", "night", "for", "the", "first", "time", "in", "a", "long", "time.", "well", ",", "at", "least", "some", "family", "members", "did", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their son",
+  "sentence_length" : 65,
+  "mentionArg2" : {
+    "extent" : "their son",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E31-71",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R22",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E4-72",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R22-7",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : of course , pictures and videotape and a phone call is one thing. but seeing their son in person is quite another. and they are , of course , hoping that will happen very soon. young 's mother says , when she sees her son , she plans on hugging him for a good solid half hour. back to you , judy .",
+  "sentence_index" : 7,
+  "Tokens" : [ "reporter", ":", "of", "course", ",", "pictures", "and", "videotape", "and", "a", "phone", "call", "is", "one", "thing.", "but", "seeing", "their", "son", "in", "person", "is", "quite", "another.", "and", "they", "are", ",", "of", "course", ",", "hoping", "that", "will", "happen", "very", "soon.", "young", "'s", "mother", "says", ",", "when", "she", "sees", "her", "son", ",", "she", "plans", "on", "hugging", "him", "for", "a", "good", "solid", "half", "hour.", "back", "to", "you", ",", "judy", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his fellow pilot",
+  "sentence_length" : 221,
+  "mentionArg2" : {
+    "extent" : "his fellow pilot",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E12-38",
+    "start" : 114,
+    "end" : 116
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R23",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E31-37",
+    "start" : 114,
+    "end" : 114
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R23-1",
+  "relationSubType" : "Business",
+  "Sentence" : "reporter : hello , judy. during a brief phone call with their son from kuwait on surngd the arm asked the young family not to get into any specific details about what happened during their son 's capture and release. however , the family did get in a company of questions about how he was treated. they learned he lost 20 pound pounds and also their son told them that in the last few days of his capture , things were n't so bad but that they were very rough in the beginning. now they are learning more details that their son in fact was kicked and beaten after his capture , and that his fellow pilot david williams had a knife held to his throat immediately after an tur , according to an interview their son was allowed to conduct with \" the washington post \" , who flew with him into kuwait. their son is said to be in very good spirits now and back here in georgia , after three weeks of not knowing exactly what had happened to him , finally , for the very first time in three weeks , the young family members got some sleep last night for the first time in a long time. well , at least some family members did .",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "hello", ",", "judy.", "during", "a", "brief", "phone", "call", "with", "their", "son", "from", "kuwait", "on", "surngd", "the", "arm", "asked", "the", "young", "family", "not", "to", "get", "into", "any", "specific", "details", "about", "what", "happened", "during", "their", "son", "'s", "capture", "and", "release.", "however", ",", "the", "family", "did", "get", "in", "a", "company", "of", "questions", "about", "how", "he", "was", "treated.", "they", "learned", "he", "lost", "20", "pound", "pounds", "and", "also", "their", "son", "told", "them", "that", "in", "the", "last", "few", "days", "of", "his", "capture", ",", "things", "were", "n't", "so", "bad", "but", "that", "they", "were", "very", "rough", "in", "the", "beginning.", "now", "they", "are", "learning", "more", "details", "that", "their", "son", "in", "fact", "was", "kicked", "and", "beaten", "after", "his", "capture", ",", "and", "that", "his", "fellow", "pilot", "david", "williams", "had", "a", "knife", "held", "to", "his", "throat", "immediately", "after", "an", "tur", ",", "according", "to", "an", "interview", "their", "son", "was", "allowed", "to", "conduct", "with", "\"", "the", "washington", "post", "\"", ",", "who", "flew", "with", "him", "into", "kuwait.", "their", "son", "is", "said", "to", "be", "in", "very", "good", "spirits", "now", "and", "back", "here", "in", "georgia", ",", "after", "three", "weeks", "of", "not", "knowing", "exactly", "what", "had", "happened", "to", "him", ",", "finally", ",", "for", "the", "very", "first", "time", "in", "three", "weeks", ",", "the", "young", "family", "members", "got", "some", "sleep", "last", "night", "for", "the", "first", "time", "in", "a", "long", "time.", "well", ",", "at", "least", "some", "family", "members", "did", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "i came home, she was in bed, i laid on the couch for a couple of hours, walked around, i thought, i'm going to sleep tonight, i really am",
+  "sentence_length" : 67,
+  "mentionArg2" : {
+    "extent" : "home",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E18-59",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R25",
+  "mentionArg1" : {
+    "extent" : "i",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E17-57",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R25-1",
+  "relationSubType" : "Located",
+  "Sentence" : "i came home , she was in bed , i laid on the couch for a couple of hours , walked around , i thought , i 'm going to sleep tonight , i really am. i got in there , laid downer she must have took a pill or something. sounded like a saw mill going on next to me. back on the couch again .",
+  "sentence_index" : 4,
+  "Tokens" : [ "i", "came", "home", ",", "she", "was", "in", "bed", ",", "i", "laid", "on", "the", "couch", "for", "a", "couple", "of", "hours", ",", "walked", "around", ",", "i", "thought", ",", "i", "'m", "going", "to", "sleep", "tonight", ",", "i", "really", "am.", "i", "got", "in", "there", ",", "laid", "downer", "she", "must", "have", "took", "a", "pill", "or", "something.", "sounded", "like", "a", "saw", "mill", "going", "on", "next", "to", "me.", "back", "on", "the", "couch", "again", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "young's mother",
+  "sentence_length" : 65,
+  "mentionArg2" : {
+    "extent" : "young's mother",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E16-74",
+    "start" : 37,
+    "end" : 39
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R26",
+  "mentionArg1" : {
+    "extent" : "young",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E31-75",
+    "start" : 37,
+    "end" : 37
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R26-1",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : of course , pictures and videotape and a phone call is one thing. but seeing their son in person is quite another. and they are , of course , hoping that will happen very soon. young 's mother says , when she sees her son , she plans on hugging him for a good solid half hour. back to you , judy .",
+  "sentence_index" : 7,
+  "Tokens" : [ "reporter", ":", "of", "course", ",", "pictures", "and", "videotape", "and", "a", "phone", "call", "is", "one", "thing.", "but", "seeing", "their", "son", "in", "person", "is", "quite", "another.", "and", "they", "are", ",", "of", "course", ",", "hoping", "that", "will", "happen", "very", "soon.", "young", "'s", "mother", "says", ",", "when", "she", "sees", "her", "son", ",", "she", "plans", "on", "hugging", "him", "for", "a", "good", "solid", "half", "hour.", "back", "to", "you", ",", "judy", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her son",
+  "sentence_length" : 65,
+  "mentionArg2" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E16-79",
+    "start" : 45,
+    "end" : 45
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R26",
+  "mentionArg1" : {
+    "extent" : "her son",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E31-77",
+    "start" : 45,
+    "end" : 46
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R26-2",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : of course , pictures and videotape and a phone call is one thing. but seeing their son in person is quite another. and they are , of course , hoping that will happen very soon. young 's mother says , when she sees her son , she plans on hugging him for a good solid half hour. back to you , judy .",
+  "sentence_index" : 7,
+  "Tokens" : [ "reporter", ":", "of", "course", ",", "pictures", "and", "videotape", "and", "a", "phone", "call", "is", "one", "thing.", "but", "seeing", "their", "son", "in", "person", "is", "quite", "another.", "and", "they", "are", ",", "of", "course", ",", "hoping", "that", "will", "happen", "very", "soon.", "young", "'s", "mother", "says", ",", "when", "she", "sees", "her", "son", ",", "she", "plans", "on", "hugging", "him", "for", "a", "good", "solid", "half", "hour.", "back", "to", "you", ",", "judy", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the family of chief warrant officer david williams",
+  "sentence_length" : 63,
+  "mentionArg2" : {
+    "extent" : "chief warrant officer david williams",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E12-89",
+    "start" : 35,
+    "end" : 39
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R27",
+  "mentionArg1" : {
+    "extent" : "the family of chief warrant officer david williams",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E20-88",
+    "start" : 32,
+    "end" : 39
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R27-1",
+  "relationSubType" : "Family",
+  "Sentence" : "at least , we would think , if that 's the case. thanks very much. let 's turn to jamie at ft. hood , texas , where she 's been talking with the family of chief warrant officer david williams. for them , jamie , begin what we just heard about the knife at his throat , they must be incredibly relieved .",
+  "sentence_index" : 8,
+  "Tokens" : [ "at", "least", ",", "we", "would", "think", ",", "if", "that", "'s", "the", "case.", "thanks", "very", "much.", "let", "'s", "turn", "to", "jamie", "at", "ft.", "hood", ",", "texas", ",", "where", "she", "'s", "been", "talking", "with", "the", "family", "of", "chief", "warrant", "officer", "david", "williams.", "for", "them", ",", "jamie", ",", "begin", "what", "we", "just", "heard", "about", "the", "knife", "at", "his", "throat", ",", "they", "must", "be", "incredibly", "relieved", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "his abandoned helicopter",
+  "sentence_length" : 149,
+  "mentionArg2" : {
+    "extent" : "his abandoned helicopter",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E40-109",
+    "start" : 76,
+    "end" : 78
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R28",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E12-110",
+    "start" : 76,
+    "end" : 76
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R28-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "reporter : you know , judy , they have been learning more and more as the day goes on. the focus is clearly not on their treatment or their capture but their freedom. i was on the phone with michelle williams yesterday , when she saw those first pictures on cnn of her husband , and she sleeked with delight. for three weeks she 's watched and waited for some news. the only other pictures was his abandoned helicopter. she knew instantly when she saw it , because of the 1st cavalry emblem and special markings it was his. it 's been a long three weeks. today is date she was waiting for. ihood a chance to spend some time with her yesterday. this morning on \" american morning \" she told us about what her reaction was when she saw those first pictures of her husband free .",
+  "sentence_index" : 9,
+  "Tokens" : [ "reporter", ":", "you", "know", ",", "judy", ",", "they", "have", "been", "learning", "more", "and", "more", "as", "the", "day", "goes", "on.", "the", "focus", "is", "clearly", "not", "on", "their", "treatment", "or", "their", "capture", "but", "their", "freedom.", "i", "was", "on", "the", "phone", "with", "michelle", "williams", "yesterday", ",", "when", "she", "saw", "those", "first", "pictures", "on", "cnn", "of", "her", "husband", ",", "and", "she", "sleeked", "with", "delight.", "for", "three", "weeks", "she", "'s", "watched", "and", "waited", "for", "some", "news.", "the", "only", "other", "pictures", "was", "his", "abandoned", "helicopter.", "she", "knew", "instantly", "when", "she", "saw", "it", ",", "because", "of", "the", "1st", "cavalry", "emblem", "and", "special", "markings", "it", "was", "his.", "it", "'s", "been", "a", "long", "three", "weeks.", "today", "is", "date", "she", "was", "waiting", "for.", "ihood", "a", "chance", "to", "spend", "some", "time", "with", "her", "yesterday.", "this", "morning", "on", "\"", "american", "morning", "\"", "she", "told", "us", "about", "what", "her", "reaction", "was", "when", "she", "saw", "those", "first", "pictures", "of", "her", "husband", "free", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the two met, michelle and david in flight school",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "flight school",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E27-139",
+    "start" : 23,
+    "end" : 24
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R29",
+  "mentionArg1" : {
+    "extent" : "the two",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E26-136",
+    "start" : 15,
+    "end" : 16
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R29-1",
+  "relationSubType" : "Student-Alum",
+  "Sentence" : "reporter : incredible support from military spouses , but this is a true love story. the two met , michelle and david in flight school. they have been at ft. hood for a short time. both are pilots. michelle is",
+  "sentence_index" : 11,
+  "Tokens" : [ "reporter", ":", "incredible", "support", "from", "military", "spouses", ",", "but", "this", "is", "a", "true", "love", "story.", "the", "two", "met", ",", "michelle", "and", "david", "in", "flight", "school.", "they", "have", "been", "at", "ft.", "hood", "for", "a", "short", "time.", "both", "are", "pilots.", "michelle", "is" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "they have been at ft. hood for a short time",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "ft. hood",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E23-141",
+    "start" : 29,
+    "end" : 30
+  },
+  "relationID" : "CNN_ENG_20030414_130735.7-R30",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_ENG_20030414_130735.7-E26-140",
+    "start" : 25,
+    "end" : 25
+  },
+  "id" : "CNN_ENG_20030414_130735.7-R30-1",
+  "relationSubType" : "Located",
+  "Sentence" : "reporter : incredible support from military spouses , but this is a true love story. the two met , michelle and david in flight school. they have been at ft. hood for a short time. both are pilots. michelle is",
+  "sentence_index" : 11,
+  "Tokens" : [ "reporter", ":", "incredible", "support", "from", "military", "spouses", ",", "but", "this", "is", "a", "true", "love", "story.", "the", "two", "met", ",", "michelle", "and", "david", "in", "flight", "school.", "they", "have", "been", "at", "ft.", "hood", "for", "a", "short", "time.", "both", "are", "pilots.", "michelle", "is" ]
+} ]

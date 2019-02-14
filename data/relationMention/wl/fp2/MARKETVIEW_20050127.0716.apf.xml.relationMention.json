@@ -1,0 +1,45 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "a 200-to-1 ratio of Nearly Starving Peasant Laborers to Absurdly Well-Off Government Employees",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Government",
+    "argMentionid" : "MARKETVIEW_20050127.0716-E2-1",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "MARKETVIEW_20050127.0716-R1",
+  "mentionArg1" : {
+    "extent" : "a 200-to-1 ratio of Nearly Starving Peasant Laborers to Absurdly Well-Off Government Employees",
+    "argMentionid" : "MARKETVIEW_20050127.0716-E19-37",
+    "start" : 7,
+    "end" : 19
+  },
+  "id" : "MARKETVIEW_20050127.0716-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Their biggest problem : There 's usually a 200-to-1 ratio of Nearly Starving Peasant Laborers to Absurdly Well-Off Government Employees .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Their", "biggest", "problem", ":", "There", "'s", "usually", "a", "200-to-1", "ratio", "of", "Nearly", "Starving", "Peasant", "Laborers", "to", "Absurdly", "Well-Off", "Government", "Employees", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "their stock market",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "their",
+    "argMentionid" : "MARKETVIEW_20050127.0716-E17-19",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "MARKETVIEW_20050127.0716-R2",
+  "mentionArg1" : {
+    "extent" : "their stock market",
+    "argMentionid" : "MARKETVIEW_20050127.0716-E14-27",
+    "start" : 16,
+    "end" : 18
+  },
+  "id" : "MARKETVIEW_20050127.0716-R2-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Tanger ???? - ?? - ?? T10:10:00 I dunno if you want anything to do with their stock market .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Tanger", "????", "-", "??", "-", "??", "T10:10:00", "I", "dunno", "if", "you", "want", "anything", "to", "do", "with", "their", "stock", "market", "." ]
+} ]

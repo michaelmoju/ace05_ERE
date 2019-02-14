@@ -1,0 +1,529 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "Five Iraqi civilians, including a woman",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "XIN_ENG_20030324.0191-E2-44",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "XIN_ENG_20030324.0191-R1",
+  "mentionArg1" : {
+    "extent" : "Five Iraqi civilians, including a woman",
+    "argMentionid" : "XIN_ENG_20030324.0191-E33-43",
+    "start" : 7,
+    "end" : 13
+  },
+  "id" : "XIN_ENG_20030324.0191-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "BAGHDAD , March 24 ( Xinhua ) Five Iraqi civilians , including a woman , were killed Monday when their houses were hit by a missile fired by the US-led coalition warplanes , witnesses said .",
+  "sentence_index" : 0,
+  "Tokens" : [ "BAGHDAD", ",", "March", "24", "(", "Xinhua", ")", "Five", "Iraqi", "civilians", ",", "including", "a", "woman", ",", "were", "killed", "Monday", "when", "their", "houses", "were", "hit", "by", "a", "missile", "fired", "by", "the", "US-led", "coalition", "warplanes", ",", "witnesses", "said", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Five Iraqi civilians, including a woman",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "a woman",
+    "argMentionid" : "XIN_ENG_20030324.0191-E36-45",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "XIN_ENG_20030324.0191-R2",
+  "mentionArg1" : {
+    "extent" : "Five Iraqi civilians, including a woman",
+    "argMentionid" : "XIN_ENG_20030324.0191-E33-43",
+    "start" : 7,
+    "end" : 13
+  },
+  "id" : "XIN_ENG_20030324.0191-R2-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "BAGHDAD , March 24 ( Xinhua ) Five Iraqi civilians , including a woman , were killed Monday when their houses were hit by a missile fired by the US-led coalition warplanes , witnesses said .",
+  "sentence_index" : 0,
+  "Tokens" : [ "BAGHDAD", ",", "March", "24", "(", "Xinhua", ")", "Five", "Iraqi", "civilians", ",", "including", "a", "woman", ",", "were", "killed", "Monday", "when", "their", "houses", "were", "hit", "by", "a", "missile", "fired", "by", "the", "US-led", "coalition", "warplanes", ",", "witnesses", "said", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "their houses",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "their houses",
+    "argMentionid" : "XIN_ENG_20030324.0191-E37-46",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "XIN_ENG_20030324.0191-R3",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "XIN_ENG_20030324.0191-E33-47",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "XIN_ENG_20030324.0191-R3-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "BAGHDAD , March 24 ( Xinhua ) Five Iraqi civilians , including a woman , were killed Monday when their houses were hit by a missile fired by the US-led coalition warplanes , witnesses said .",
+  "sentence_index" : 0,
+  "Tokens" : [ "BAGHDAD", ",", "March", "24", "(", "Xinhua", ")", "Five", "Iraqi", "civilians", ",", "including", "a", "woman", ",", "were", "killed", "Monday", "when", "their", "houses", "were", "hit", "by", "a", "missile", "fired", "by", "the", "US-led", "coalition", "warplanes", ",", "witnesses", "said", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Their houses",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Their houses",
+    "argMentionid" : "XIN_ENG_20030324.0191-E37-52",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "XIN_ENG_20030324.0191-R3",
+  "mentionArg1" : {
+    "extent" : "Their",
+    "argMentionid" : "XIN_ENG_20030324.0191-E33-53",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "XIN_ENG_20030324.0191-R3-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Their houses are located in Al-Azamiyah , one of the most populous areas in the Iraqi capital of Baghdad , they said .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Their", "houses", "are", "located", "in", "Al-Azamiyah", ",", "one", "of", "the", "most", "populous", "areas", "in", "the", "Iraqi", "capital", "of", "Baghdad", ",", "they", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Their houses are located in Al-Azamiyah, one of the most populous areas in the Iraqi capital of Baghdad, they said",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Al-Azamiyah",
+    "argMentionid" : "XIN_ENG_20030324.0191-E10-55",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "XIN_ENG_20030324.0191-R4",
+  "mentionArg1" : {
+    "extent" : "Their houses",
+    "argMentionid" : "XIN_ENG_20030324.0191-E37-52",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "XIN_ENG_20030324.0191-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Their houses are located in Al-Azamiyah , one of the most populous areas in the Iraqi capital of Baghdad , they said .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Their", "houses", "are", "located", "in", "Al-Azamiyah", ",", "one", "of", "the", "most", "populous", "areas", "in", "the", "Iraqi", "capital", "of", "Baghdad", ",", "they", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "one of the most populous areas in the Iraqi capital of Baghdad",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "the most populous areas in the Iraqi capital of Baghdad",
+    "argMentionid" : "XIN_ENG_20030324.0191-E1-15",
+    "start" : 9,
+    "end" : 18
+  },
+  "relationID" : "XIN_ENG_20030324.0191-R6",
+  "mentionArg1" : {
+    "extent" : "one of the most populous areas in the Iraqi capital of Baghdad",
+    "argMentionid" : "XIN_ENG_20030324.0191-E10-7",
+    "start" : 7,
+    "end" : 18
+  },
+  "id" : "XIN_ENG_20030324.0191-R6-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Their houses are located in Al-Azamiyah , one of the most populous areas in the Iraqi capital of Baghdad , they said .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Their", "houses", "are", "located", "in", "Al-Azamiyah", ",", "one", "of", "the", "most", "populous", "areas", "in", "the", "Iraqi", "capital", "of", "Baghdad", ",", "they", "said", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the bus they were traveling in",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "the bus they were traveling in",
+    "argMentionid" : "XIN_ENG_20030324.0191-E21-32",
+    "start" : 26,
+    "end" : 31
+  },
+  "relationID" : "XIN_ENG_20030324.0191-R7",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "XIN_ENG_20030324.0191-E28-42",
+    "start" : 28,
+    "end" : 28
+  },
+  "id" : "XIN_ENG_20030324.0191-R7-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "According to other reports reaching here , five Syrian bus passengers were killed and 10 others were injured on Sunday morning when a US missile hit the bus they were traveling in near the Iraqi border .",
+  "sentence_index" : 7,
+  "Tokens" : [ "According", "to", "other", "reports", "reaching", "here", ",", "five", "Syrian", "bus", "passengers", "were", "killed", "and", "10", "others", "were", "injured", "on", "Sunday", "morning", "when", "a", "US", "missile", "hit", "the", "bus", "they", "were", "traveling", "in", "near", "the", "Iraqi", "border", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "One house was destroyed during the strike and casualties have been removed from the area",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "the area",
+    "argMentionid" : "XIN_ENG_20030324.0191-E10-40",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "XIN_ENG_20030324.0191-R8",
+  "mentionArg1" : {
+    "extent" : "casualties",
+    "argMentionid" : "XIN_ENG_20030324.0191-E5-6",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "XIN_ENG_20030324.0191-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "One house was destroyed during the strike and casualties have been removed from the area .",
+  "sentence_index" : 2,
+  "Tokens" : [ "One", "house", "was", "destroyed", "during", "the", "strike", "and", "casualties", "have", "been", "removed", "from", "the", "area", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "One house was destroyed during the strike and casualties have been removed from the area",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "the area",
+    "argMentionid" : "XIN_ENG_20030324.0191-E10-40",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "XIN_ENG_20030324.0191-R9",
+  "mentionArg1" : {
+    "extent" : "One house",
+    "argMentionid" : "XIN_ENG_20030324.0191-E4-5",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "XIN_ENG_20030324.0191-R9-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "One house was destroyed during the strike and casualties have been removed from the area .",
+  "sentence_index" : 2,
+  "Tokens" : [ "One", "house", "was", "destroyed", "during", "the", "strike", "and", "casualties", "have", "been", "removed", "from", "the", "area", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The US-led coalition forces",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "The US-led coalition",
+    "argMentionid" : "XIN_ENG_20030324.0191-E7-9",
+    "start" : 0,
+    "end" : 2
+  },
+  "relationID" : "XIN_ENG_20030324.0191-R10",
+  "mentionArg1" : {
+    "extent" : "The US-led coalition forces",
+    "argMentionid" : "XIN_ENG_20030324.0191-E6-8",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "XIN_ENG_20030324.0191-R10-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The US-led coalition forces launched a new round of airstrikes on Baghdad at 2:30 p . m .",
+  "sentence_index" : 3,
+  "Tokens" : [ "The", "US-led", "coalition", "forces", "launched", "a", "new", "round", "of", "airstrikes", "on", "Baghdad", "at", "2:30", "p", ".", "m", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the most populous areas in the Iraqi capital of Baghdad",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "the Iraqi capital of Baghdad",
+    "argMentionid" : "XIN_ENG_20030324.0191-E27-38",
+    "start" : 14,
+    "end" : 18
+  },
+  "relationID" : "XIN_ENG_20030324.0191-R11",
+  "mentionArg1" : {
+    "extent" : "the most populous areas in the Iraqi capital of Baghdad",
+    "argMentionid" : "XIN_ENG_20030324.0191-E1-15",
+    "start" : 9,
+    "end" : 18
+  },
+  "id" : "XIN_ENG_20030324.0191-R11-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Their houses are located in Al-Azamiyah , one of the most populous areas in the Iraqi capital of Baghdad , they said .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Their", "houses", "are", "located", "in", "Al-Azamiyah", ",", "one", "of", "the", "most", "populous", "areas", "in", "the", "Iraqi", "capital", "of", "Baghdad", ",", "they", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "different parts of Baghdad",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "XIN_ENG_20030324.0191-E27-13",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "XIN_ENG_20030324.0191-R12",
+  "mentionArg1" : {
+    "extent" : "different parts of Baghdad",
+    "argMentionid" : "XIN_ENG_20030324.0191-E9-12",
+    "start" : 5,
+    "end" : 8
+  },
+  "id" : "XIN_ENG_20030324.0191-R12-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Huge explosions were heard in different parts of Baghdad and air raid siren sounded throughout the capital city , they said , adding that Iraqi anti-aircraft artillery had begun to fire back .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Huge", "explosions", "were", "heard", "in", "different", "parts", "of", "Baghdad", "and", "air", "raid", "siren", "sounded", "throughout", "the", "capital", "city", ",", "they", "said", ",", "adding", "that", "Iraqi", "anti-aircraft", "artillery", "had", "begun", "to", "fire", "back", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Iraqi anti-aircraft artillery",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Iraqi anti-aircraft artillery",
+    "argMentionid" : "XIN_ENG_20030324.0191-E11-17",
+    "start" : 24,
+    "end" : 26
+  },
+  "relationID" : "XIN_ENG_20030324.0191-R13",
+  "mentionArg1" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "XIN_ENG_20030324.0191-E2-19",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "XIN_ENG_20030324.0191-R13-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Huge explosions were heard in different parts of Baghdad and air raid siren sounded throughout the capital city , they said , adding that Iraqi anti-aircraft artillery had begun to fire back .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Huge", "explosions", "were", "heard", "in", "different", "parts", "of", "Baghdad", "and", "air", "raid", "siren", "sounded", "throughout", "the", "capital", "city", ",", "they", "said", ",", "adding", "that", "Iraqi", "anti-aircraft", "artillery", "had", "begun", "to", "fire", "back", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the coalition leaders",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "the coalition",
+    "argMentionid" : "XIN_ENG_20030324.0191-E7-21",
+    "start" : 1,
+    "end" : 2
+  },
+  "relationID" : "XIN_ENG_20030324.0191-R14",
+  "mentionArg1" : {
+    "extent" : "the coalition leaders",
+    "argMentionid" : "XIN_ENG_20030324.0191-E14-20",
+    "start" : 1,
+    "end" : 3
+  },
+  "id" : "XIN_ENG_20030324.0191-R14-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Although the coalition leaders have repeatedly assured that every effort would be made to minimize civilian casualties in the current Iraq war , at least 130 Iraqi civilians have been reportedly killed since the war started five days ago .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Although", "the", "coalition", "leaders", "have", "repeatedly", "assured", "that", "every", "effort", "would", "be", "made", "to", "minimize", "civilian", "casualties", "in", "the", "current", "Iraq", "war", ",", "at", "least", "130", "Iraqi", "civilians", "have", "been", "reportedly", "killed", "since", "the", "war", "started", "five", "days", "ago", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "at least 130 Iraqi civilians",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "XIN_ENG_20030324.0191-E2-25",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "XIN_ENG_20030324.0191-R15",
+  "mentionArg1" : {
+    "extent" : "at least 130 Iraqi civilians",
+    "argMentionid" : "XIN_ENG_20030324.0191-E18-24",
+    "start" : 23,
+    "end" : 27
+  },
+  "id" : "XIN_ENG_20030324.0191-R15-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Although the coalition leaders have repeatedly assured that every effort would be made to minimize civilian casualties in the current Iraq war , at least 130 Iraqi civilians have been reportedly killed since the war started five days ago .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Although", "the", "coalition", "leaders", "have", "repeatedly", "assured", "that", "every", "effort", "would", "be", "made", "to", "minimize", "civilian", "casualties", "in", "the", "current", "Iraq", "war", ",", "at", "least", "130", "Iraqi", "civilians", "have", "been", "reportedly", "killed", "since", "the", "war", "started", "five", "days", "ago", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Iraqi capital of Baghdad",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "XIN_ENG_20030324.0191-E2-2",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "XIN_ENG_20030324.0191-R16",
+  "mentionArg1" : {
+    "extent" : "the Iraqi capital of Baghdad",
+    "argMentionid" : "XIN_ENG_20030324.0191-E27-38",
+    "start" : 14,
+    "end" : 18
+  },
+  "id" : "XIN_ENG_20030324.0191-R16-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Their houses are located in Al-Azamiyah , one of the most populous areas in the Iraqi capital of Baghdad , they said .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Their", "houses", "are", "located", "in", "Al-Azamiyah", ",", "one", "of", "the", "most", "populous", "areas", "in", "the", "Iraqi", "capital", "of", "Baghdad", ",", "they", "said", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "five Syrian bus passengers",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "bus",
+    "argMentionid" : "XIN_ENG_20030324.0191-E21-27",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "XIN_ENG_20030324.0191-R17",
+  "mentionArg1" : {
+    "extent" : "five Syrian bus passengers",
+    "argMentionid" : "XIN_ENG_20030324.0191-E20-26",
+    "start" : 7,
+    "end" : 10
+  },
+  "id" : "XIN_ENG_20030324.0191-R17-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "According to other reports reaching here , five Syrian bus passengers were killed and 10 others were injured on Sunday morning when a US missile hit the bus they were traveling in near the Iraqi border .",
+  "sentence_index" : 7,
+  "Tokens" : [ "According", "to", "other", "reports", "reaching", "here", ",", "five", "Syrian", "bus", "passengers", "were", "killed", "and", "10", "others", "were", "injured", "on", "Sunday", "morning", "when", "a", "US", "missile", "hit", "the", "bus", "they", "were", "traveling", "in", "near", "the", "Iraqi", "border", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "five Syrian bus passengers",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Syrian",
+    "argMentionid" : "XIN_ENG_20030324.0191-E23-28",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "XIN_ENG_20030324.0191-R18",
+  "mentionArg1" : {
+    "extent" : "five Syrian bus passengers",
+    "argMentionid" : "XIN_ENG_20030324.0191-E20-26",
+    "start" : 7,
+    "end" : 10
+  },
+  "id" : "XIN_ENG_20030324.0191-R18-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "According to other reports reaching here , five Syrian bus passengers were killed and 10 others were injured on Sunday morning when a US missile hit the bus they were traveling in near the Iraqi border .",
+  "sentence_index" : 7,
+  "Tokens" : [ "According", "to", "other", "reports", "reaching", "here", ",", "five", "Syrian", "bus", "passengers", "were", "killed", "and", "10", "others", "were", "injured", "on", "Sunday", "morning", "when", "a", "US", "missile", "hit", "the", "bus", "they", "were", "traveling", "in", "near", "the", "Iraqi", "border", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a US missile",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "a US missile",
+    "argMentionid" : "XIN_ENG_20030324.0191-E25-30",
+    "start" : 22,
+    "end" : 24
+  },
+  "relationID" : "XIN_ENG_20030324.0191-R19",
+  "mentionArg1" : {
+    "extent" : "US",
+    "argMentionid" : "XIN_ENG_20030324.0191-E8-31",
+    "start" : 23,
+    "end" : 23
+  },
+  "id" : "XIN_ENG_20030324.0191-R19-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "According to other reports reaching here , five Syrian bus passengers were killed and 10 others were injured on Sunday morning when a US missile hit the bus they were traveling in near the Iraqi border .",
+  "sentence_index" : 7,
+  "Tokens" : [ "According", "to", "other", "reports", "reaching", "here", ",", "five", "Syrian", "bus", "passengers", "were", "killed", "and", "10", "others", "were", "injured", "on", "Sunday", "morning", "when", "a", "US", "missile", "hit", "the", "bus", "they", "were", "traveling", "in", "near", "the", "Iraqi", "border", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the US-led coalition warplanes",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "the US-led coalition warplanes",
+    "argMentionid" : "XIN_ENG_20030324.0191-E39-49",
+    "start" : 28,
+    "end" : 31
+  },
+  "relationID" : "XIN_ENG_20030324.0191-R20",
+  "mentionArg1" : {
+    "extent" : "US-led coalition",
+    "argMentionid" : "XIN_ENG_20030324.0191-E7-50",
+    "start" : 29,
+    "end" : 30
+  },
+  "id" : "XIN_ENG_20030324.0191-R20-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "BAGHDAD , March 24 ( Xinhua ) Five Iraqi civilians , including a woman , were killed Monday when their houses were hit by a missile fired by the US-led coalition warplanes , witnesses said .",
+  "sentence_index" : 0,
+  "Tokens" : [ "BAGHDAD", ",", "March", "24", "(", "Xinhua", ")", "Five", "Iraqi", "civilians", ",", "including", "a", "woman", ",", "were", "killed", "Monday", "when", "their", "houses", "were", "hit", "by", "a", "missile", "fired", "by", "the", "US-led", "coalition", "warplanes", ",", "witnesses", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Iraqi border",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "XIN_ENG_20030324.0191-E2-34",
+    "start" : 34,
+    "end" : 34
+  },
+  "relationID" : "XIN_ENG_20030324.0191-R21",
+  "mentionArg1" : {
+    "extent" : "the Iraqi border",
+    "argMentionid" : "XIN_ENG_20030324.0191-E29-33",
+    "start" : 33,
+    "end" : 35
+  },
+  "id" : "XIN_ENG_20030324.0191-R21-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "According to other reports reaching here , five Syrian bus passengers were killed and 10 others were injured on Sunday morning when a US missile hit the bus they were traveling in near the Iraqi border .",
+  "sentence_index" : 7,
+  "Tokens" : [ "According", "to", "other", "reports", "reaching", "here", ",", "five", "Syrian", "bus", "passengers", "were", "killed", "and", "10", "others", "were", "injured", "on", "Sunday", "morning", "when", "a", "US", "missile", "hit", "the", "bus", "they", "were", "traveling", "in", "near", "the", "Iraqi", "border", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "According to other reports reaching here, five Syrian bus passengers were killed and 10 others were injured on Sunday morning when a US missile hit the bus they were traveling in near the Iraqi border",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "the Iraqi border",
+    "argMentionid" : "XIN_ENG_20030324.0191-E29-33",
+    "start" : 33,
+    "end" : 35
+  },
+  "relationID" : "XIN_ENG_20030324.0191-R22",
+  "mentionArg1" : {
+    "extent" : "10 others",
+    "argMentionid" : "XIN_ENG_20030324.0191-E24-29",
+    "start" : 14,
+    "end" : 15
+  },
+  "id" : "XIN_ENG_20030324.0191-R22-1",
+  "relationSubType" : "Near",
+  "Sentence" : "According to other reports reaching here , five Syrian bus passengers were killed and 10 others were injured on Sunday morning when a US missile hit the bus they were traveling in near the Iraqi border .",
+  "sentence_index" : 7,
+  "Tokens" : [ "According", "to", "other", "reports", "reaching", "here", ",", "five", "Syrian", "bus", "passengers", "were", "killed", "and", "10", "others", "were", "injured", "on", "Sunday", "morning", "when", "a", "US", "missile", "hit", "the", "bus", "they", "were", "traveling", "in", "near", "the", "Iraqi", "border", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The vehicle was carrying Syrians fleeing the war in Iraq",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "XIN_ENG_20030324.0191-E2-37",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "XIN_ENG_20030324.0191-R23",
+  "mentionArg1" : {
+    "extent" : "Syrians fleeing the war in Iraq",
+    "argMentionid" : "XIN_ENG_20030324.0191-E31-36",
+    "start" : 4,
+    "end" : 9
+  },
+  "id" : "XIN_ENG_20030324.0191-R23-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The vehicle was carrying Syrians fleeing the war in Iraq .",
+  "sentence_index" : 8,
+  "Tokens" : [ "The", "vehicle", "was", "carrying", "Syrians", "fleeing", "the", "war", "in", "Iraq", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "The vehicle was carrying Syrians fleeing the war in Iraq",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "The vehicle",
+    "argMentionid" : "XIN_ENG_20030324.0191-E21-35",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "XIN_ENG_20030324.0191-R24",
+  "mentionArg1" : {
+    "extent" : "Syrians fleeing the war in Iraq",
+    "argMentionid" : "XIN_ENG_20030324.0191-E31-36",
+    "start" : 4,
+    "end" : 9
+  },
+  "id" : "XIN_ENG_20030324.0191-R24-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The vehicle was carrying Syrians fleeing the war in Iraq .",
+  "sentence_index" : 8,
+  "Tokens" : [ "The", "vehicle", "was", "carrying", "Syrians", "fleeing", "the", "war", "in", "Iraq", "." ]
+} ]

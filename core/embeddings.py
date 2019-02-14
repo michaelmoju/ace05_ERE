@@ -142,7 +142,7 @@ def init_random(elements_to_embed, embedding_size, add_all_zeroes=False, add_unk
 
 def timedistributed_to_one_hot(y, nb_classes):
     """
-    Encodes the categorical input as on-hot vectors using the second axis of the array. The input is a two-dimensional
+    Encodes the categorical input as one-hot vectors using the second axis of the array. The input is a two-dimensional
     array where the first dimension corresponds to time steps and the second is associated with the same input.
 
     :param y: the two-dimensional array.

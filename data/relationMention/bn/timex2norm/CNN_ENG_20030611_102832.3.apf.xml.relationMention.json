@@ -1,0 +1,155 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "embattled imclone founder",
+  "sentence_length" : 165,
+  "mentionArg2" : {
+    "extent" : "imclone",
+    "argMentionid" : "CNN_ENG_20030611_102832.3-E10-18",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_ENG_20030611_102832.3-R2",
+  "mentionArg1" : {
+    "extent" : "embattled imclone founder",
+    "argMentionid" : "CNN_ENG_20030611_102832.3-E7-14",
+    "start" : 10,
+    "end" : 12
+  },
+  "id" : "CNN_ENG_20030611_102832.3-R2-1",
+  "relationSubType" : "Founder",
+  "Sentence" : "we are now hitting 33 after the hour this morning. embattled imclone founder sam waksal sentenced to more than seven years in prison for insider trading. the scandal drew national headlines when it ensnared domestic diva martha stewart. waksal admitted advising his daughter to dump her stock , stewart is being accused of unloading her stock after also learning some inside information. waksal is the first chief executive to be sentenced in a wave of corporate scandals and that started with the big enron bankruptcy into 2001. top executives at the company accused of cooking the books to hide billions of dollars in debt. former enron vice president sherron watkins who wrote that now-famous memo questioning the accounting practice and joining us now from houston , we want to talk to her about the fate of her form are company as justice department continues to build its case against key enroan executives and insight on maybe some other headlines we are seeing this morning .",
+  "sentence_index" : 0,
+  "Tokens" : [ "we", "are", "now", "hitting", "33", "after", "the", "hour", "this", "morning.", "embattled", "imclone", "founder", "sam", "waksal", "sentenced", "to", "more", "than", "seven", "years", "in", "prison", "for", "insider", "trading.", "the", "scandal", "drew", "national", "headlines", "when", "it", "ensnared", "domestic", "diva", "martha", "stewart.", "waksal", "admitted", "advising", "his", "daughter", "to", "dump", "her", "stock", ",", "stewart", "is", "being", "accused", "of", "unloading", "her", "stock", "after", "also", "learning", "some", "inside", "information.", "waksal", "is", "the", "first", "chief", "executive", "to", "be", "sentenced", "in", "a", "wave", "of", "corporate", "scandals", "and", "that", "started", "with", "the", "big", "enron", "bankruptcy", "into", "2001.", "top", "executives", "at", "the", "company", "accused", "of", "cooking", "the", "books", "to", "hide", "billions", "of", "dollars", "in", "debt.", "former", "enron", "vice", "president", "sherron", "watkins", "who", "wrote", "that", "now-famous", "memo", "questioning", "the", "accounting", "practice", "and", "joining", "us", "now", "from", "houston", ",", "we", "want", "to", "talk", "to", "her", "about", "the", "fate", "of", "her", "form", "are", "company", "as", "justice", "department", "continues", "to", "build", "its", "case", "against", "key", "enroan", "executives", "and", "insight", "on", "maybe", "some", "other", "headlines", "we", "are", "seeing", "this", "morning", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his daughter",
+  "sentence_length" : 165,
+  "mentionArg2" : {
+    "extent" : "his daughter",
+    "argMentionid" : "CNN_ENG_20030611_102832.3-E14-24",
+    "start" : 41,
+    "end" : 42
+  },
+  "relationID" : "CNN_ENG_20030611_102832.3-R3",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_ENG_20030611_102832.3-E7-23",
+    "start" : 41,
+    "end" : 41
+  },
+  "id" : "CNN_ENG_20030611_102832.3-R3-1",
+  "relationSubType" : "Family",
+  "Sentence" : "we are now hitting 33 after the hour this morning. embattled imclone founder sam waksal sentenced to more than seven years in prison for insider trading. the scandal drew national headlines when it ensnared domestic diva martha stewart. waksal admitted advising his daughter to dump her stock , stewart is being accused of unloading her stock after also learning some inside information. waksal is the first chief executive to be sentenced in a wave of corporate scandals and that started with the big enron bankruptcy into 2001. top executives at the company accused of cooking the books to hide billions of dollars in debt. former enron vice president sherron watkins who wrote that now-famous memo questioning the accounting practice and joining us now from houston , we want to talk to her about the fate of her form are company as justice department continues to build its case against key enroan executives and insight on maybe some other headlines we are seeing this morning .",
+  "sentence_index" : 0,
+  "Tokens" : [ "we", "are", "now", "hitting", "33", "after", "the", "hour", "this", "morning.", "embattled", "imclone", "founder", "sam", "waksal", "sentenced", "to", "more", "than", "seven", "years", "in", "prison", "for", "insider", "trading.", "the", "scandal", "drew", "national", "headlines", "when", "it", "ensnared", "domestic", "diva", "martha", "stewart.", "waksal", "admitted", "advising", "his", "daughter", "to", "dump", "her", "stock", ",", "stewart", "is", "being", "accused", "of", "unloading", "her", "stock", "after", "also", "learning", "some", "inside", "information.", "waksal", "is", "the", "first", "chief", "executive", "to", "be", "sentenced", "in", "a", "wave", "of", "corporate", "scandals", "and", "that", "started", "with", "the", "big", "enron", "bankruptcy", "into", "2001.", "top", "executives", "at", "the", "company", "accused", "of", "cooking", "the", "books", "to", "hide", "billions", "of", "dollars", "in", "debt.", "former", "enron", "vice", "president", "sherron", "watkins", "who", "wrote", "that", "now-famous", "memo", "questioning", "the", "accounting", "practice", "and", "joining", "us", "now", "from", "houston", ",", "we", "want", "to", "talk", "to", "her", "about", "the", "fate", "of", "her", "form", "are", "company", "as", "justice", "department", "continues", "to", "build", "its", "case", "against", "key", "enroan", "executives", "and", "insight", "on", "maybe", "some", "other", "headlines", "we", "are", "seeing", "this", "morning", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "top executives at the company",
+  "sentence_length" : 165,
+  "mentionArg2" : {
+    "extent" : "the company",
+    "argMentionid" : "CNN_ENG_20030611_102832.3-E5-32",
+    "start" : 90,
+    "end" : 91
+  },
+  "relationID" : "CNN_ENG_20030611_102832.3-R4",
+  "mentionArg1" : {
+    "extent" : "top executives at the company",
+    "argMentionid" : "CNN_ENG_20030611_102832.3-E18-31",
+    "start" : 87,
+    "end" : 91
+  },
+  "id" : "CNN_ENG_20030611_102832.3-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "we are now hitting 33 after the hour this morning. embattled imclone founder sam waksal sentenced to more than seven years in prison for insider trading. the scandal drew national headlines when it ensnared domestic diva martha stewart. waksal admitted advising his daughter to dump her stock , stewart is being accused of unloading her stock after also learning some inside information. waksal is the first chief executive to be sentenced in a wave of corporate scandals and that started with the big enron bankruptcy into 2001. top executives at the company accused of cooking the books to hide billions of dollars in debt. former enron vice president sherron watkins who wrote that now-famous memo questioning the accounting practice and joining us now from houston , we want to talk to her about the fate of her form are company as justice department continues to build its case against key enroan executives and insight on maybe some other headlines we are seeing this morning .",
+  "sentence_index" : 0,
+  "Tokens" : [ "we", "are", "now", "hitting", "33", "after", "the", "hour", "this", "morning.", "embattled", "imclone", "founder", "sam", "waksal", "sentenced", "to", "more", "than", "seven", "years", "in", "prison", "for", "insider", "trading.", "the", "scandal", "drew", "national", "headlines", "when", "it", "ensnared", "domestic", "diva", "martha", "stewart.", "waksal", "admitted", "advising", "his", "daughter", "to", "dump", "her", "stock", ",", "stewart", "is", "being", "accused", "of", "unloading", "her", "stock", "after", "also", "learning", "some", "inside", "information.", "waksal", "is", "the", "first", "chief", "executive", "to", "be", "sentenced", "in", "a", "wave", "of", "corporate", "scandals", "and", "that", "started", "with", "the", "big", "enron", "bankruptcy", "into", "2001.", "top", "executives", "at", "the", "company", "accused", "of", "cooking", "the", "books", "to", "hide", "billions", "of", "dollars", "in", "debt.", "former", "enron", "vice", "president", "sherron", "watkins", "who", "wrote", "that", "now-famous", "memo", "questioning", "the", "accounting", "practice", "and", "joining", "us", "now", "from", "houston", ",", "we", "want", "to", "talk", "to", "her", "about", "the", "fate", "of", "her", "form", "are", "company", "as", "justice", "department", "continues", "to", "build", "its", "case", "against", "key", "enroan", "executives", "and", "insight", "on", "maybe", "some", "other", "headlines", "we", "are", "seeing", "this", "morning", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "key enroan executives",
+  "sentence_length" : 165,
+  "mentionArg2" : {
+    "extent" : "enroan",
+    "argMentionid" : "CNN_ENG_20030611_102832.3-E5-9",
+    "start" : 150,
+    "end" : 150
+  },
+  "relationID" : "CNN_ENG_20030611_102832.3-R4",
+  "mentionArg1" : {
+    "extent" : "key enroan executives",
+    "argMentionid" : "CNN_ENG_20030611_102832.3-E18-10",
+    "start" : 149,
+    "end" : 151
+  },
+  "id" : "CNN_ENG_20030611_102832.3-R4-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "we are now hitting 33 after the hour this morning. embattled imclone founder sam waksal sentenced to more than seven years in prison for insider trading. the scandal drew national headlines when it ensnared domestic diva martha stewart. waksal admitted advising his daughter to dump her stock , stewart is being accused of unloading her stock after also learning some inside information. waksal is the first chief executive to be sentenced in a wave of corporate scandals and that started with the big enron bankruptcy into 2001. top executives at the company accused of cooking the books to hide billions of dollars in debt. former enron vice president sherron watkins who wrote that now-famous memo questioning the accounting practice and joining us now from houston , we want to talk to her about the fate of her form are company as justice department continues to build its case against key enroan executives and insight on maybe some other headlines we are seeing this morning .",
+  "sentence_index" : 0,
+  "Tokens" : [ "we", "are", "now", "hitting", "33", "after", "the", "hour", "this", "morning.", "embattled", "imclone", "founder", "sam", "waksal", "sentenced", "to", "more", "than", "seven", "years", "in", "prison", "for", "insider", "trading.", "the", "scandal", "drew", "national", "headlines", "when", "it", "ensnared", "domestic", "diva", "martha", "stewart.", "waksal", "admitted", "advising", "his", "daughter", "to", "dump", "her", "stock", ",", "stewart", "is", "being", "accused", "of", "unloading", "her", "stock", "after", "also", "learning", "some", "inside", "information.", "waksal", "is", "the", "first", "chief", "executive", "to", "be", "sentenced", "in", "a", "wave", "of", "corporate", "scandals", "and", "that", "started", "with", "the", "big", "enron", "bankruptcy", "into", "2001.", "top", "executives", "at", "the", "company", "accused", "of", "cooking", "the", "books", "to", "hide", "billions", "of", "dollars", "in", "debt.", "former", "enron", "vice", "president", "sherron", "watkins", "who", "wrote", "that", "now-famous", "memo", "questioning", "the", "accounting", "practice", "and", "joining", "us", "now", "from", "houston", ",", "we", "want", "to", "talk", "to", "her", "about", "the", "fate", "of", "her", "form", "are", "company", "as", "justice", "department", "continues", "to", "build", "its", "case", "against", "key", "enroan", "executives", "and", "insight", "on", "maybe", "some", "other", "headlines", "we", "are", "seeing", "this", "morning", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "former enron vice president",
+  "sentence_length" : 165,
+  "mentionArg2" : {
+    "extent" : "enron",
+    "argMentionid" : "CNN_ENG_20030611_102832.3-E5-33",
+    "start" : 105,
+    "end" : 105
+  },
+  "relationID" : "CNN_ENG_20030611_102832.3-R5",
+  "mentionArg1" : {
+    "extent" : "former enron vice president",
+    "argMentionid" : "CNN_ENG_20030611_102832.3-E1-1",
+    "start" : 104,
+    "end" : 107
+  },
+  "id" : "CNN_ENG_20030611_102832.3-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "we are now hitting 33 after the hour this morning. embattled imclone founder sam waksal sentenced to more than seven years in prison for insider trading. the scandal drew national headlines when it ensnared domestic diva martha stewart. waksal admitted advising his daughter to dump her stock , stewart is being accused of unloading her stock after also learning some inside information. waksal is the first chief executive to be sentenced in a wave of corporate scandals and that started with the big enron bankruptcy into 2001. top executives at the company accused of cooking the books to hide billions of dollars in debt. former enron vice president sherron watkins who wrote that now-famous memo questioning the accounting practice and joining us now from houston , we want to talk to her about the fate of her form are company as justice department continues to build its case against key enroan executives and insight on maybe some other headlines we are seeing this morning .",
+  "sentence_index" : 0,
+  "Tokens" : [ "we", "are", "now", "hitting", "33", "after", "the", "hour", "this", "morning.", "embattled", "imclone", "founder", "sam", "waksal", "sentenced", "to", "more", "than", "seven", "years", "in", "prison", "for", "insider", "trading.", "the", "scandal", "drew", "national", "headlines", "when", "it", "ensnared", "domestic", "diva", "martha", "stewart.", "waksal", "admitted", "advising", "his", "daughter", "to", "dump", "her", "stock", ",", "stewart", "is", "being", "accused", "of", "unloading", "her", "stock", "after", "also", "learning", "some", "inside", "information.", "waksal", "is", "the", "first", "chief", "executive", "to", "be", "sentenced", "in", "a", "wave", "of", "corporate", "scandals", "and", "that", "started", "with", "the", "big", "enron", "bankruptcy", "into", "2001.", "top", "executives", "at", "the", "company", "accused", "of", "cooking", "the", "books", "to", "hide", "billions", "of", "dollars", "in", "debt.", "former", "enron", "vice", "president", "sherron", "watkins", "who", "wrote", "that", "now-famous", "memo", "questioning", "the", "accounting", "practice", "and", "joining", "us", "now", "from", "houston", ",", "we", "want", "to", "talk", "to", "her", "about", "the", "fate", "of", "her", "form", "are", "company", "as", "justice", "department", "continues", "to", "build", "its", "case", "against", "key", "enroan", "executives", "and", "insight", "on", "maybe", "some", "other", "headlines", "we", "are", "seeing", "this", "morning", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "her form are company",
+  "sentence_length" : 165,
+  "mentionArg2" : {
+    "extent" : "her form are company",
+    "argMentionid" : "CNN_ENG_20030611_102832.3-E5-6",
+    "start" : 136,
+    "end" : 139
+  },
+  "relationID" : "CNN_ENG_20030611_102832.3-R5",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_ENG_20030611_102832.3-E1-5",
+    "start" : 136,
+    "end" : 136
+  },
+  "id" : "CNN_ENG_20030611_102832.3-R5-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "we are now hitting 33 after the hour this morning. embattled imclone founder sam waksal sentenced to more than seven years in prison for insider trading. the scandal drew national headlines when it ensnared domestic diva martha stewart. waksal admitted advising his daughter to dump her stock , stewart is being accused of unloading her stock after also learning some inside information. waksal is the first chief executive to be sentenced in a wave of corporate scandals and that started with the big enron bankruptcy into 2001. top executives at the company accused of cooking the books to hide billions of dollars in debt. former enron vice president sherron watkins who wrote that now-famous memo questioning the accounting practice and joining us now from houston , we want to talk to her about the fate of her form are company as justice department continues to build its case against key enroan executives and insight on maybe some other headlines we are seeing this morning .",
+  "sentence_index" : 0,
+  "Tokens" : [ "we", "are", "now", "hitting", "33", "after", "the", "hour", "this", "morning.", "embattled", "imclone", "founder", "sam", "waksal", "sentenced", "to", "more", "than", "seven", "years", "in", "prison", "for", "insider", "trading.", "the", "scandal", "drew", "national", "headlines", "when", "it", "ensnared", "domestic", "diva", "martha", "stewart.", "waksal", "admitted", "advising", "his", "daughter", "to", "dump", "her", "stock", ",", "stewart", "is", "being", "accused", "of", "unloading", "her", "stock", "after", "also", "learning", "some", "inside", "information.", "waksal", "is", "the", "first", "chief", "executive", "to", "be", "sentenced", "in", "a", "wave", "of", "corporate", "scandals", "and", "that", "started", "with", "the", "big", "enron", "bankruptcy", "into", "2001.", "top", "executives", "at", "the", "company", "accused", "of", "cooking", "the", "books", "to", "hide", "billions", "of", "dollars", "in", "debt.", "former", "enron", "vice", "president", "sherron", "watkins", "who", "wrote", "that", "now-famous", "memo", "questioning", "the", "accounting", "practice", "and", "joining", "us", "now", "from", "houston", ",", "we", "want", "to", "talk", "to", "her", "about", "the", "fate", "of", "her", "form", "are", "company", "as", "justice", "department", "continues", "to", "build", "its", "case", "against", "key", "enroan", "executives", "and", "insight", "on", "maybe", "some", "other", "headlines", "we", "are", "seeing", "this", "morning", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "former enron vice president sherron watkins who wrote that now-famous memo questioning the accounting practice and joining us now from houston, we want to talk to her about the fate of her form are company as justice department continues to build its case against key enroan executives and insight on maybe some other headlines we are seeing this morning",
+  "sentence_length" : 165,
+  "mentionArg2" : {
+    "extent" : "houston",
+    "argMentionid" : "CNN_ENG_20030611_102832.3-E6-11",
+    "start" : 124,
+    "end" : 124
+  },
+  "relationID" : "CNN_ENG_20030611_102832.3-R6",
+  "mentionArg1" : {
+    "extent" : "former enron vice president",
+    "argMentionid" : "CNN_ENG_20030611_102832.3-E1-1",
+    "start" : 104,
+    "end" : 107
+  },
+  "id" : "CNN_ENG_20030611_102832.3-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "we are now hitting 33 after the hour this morning. embattled imclone founder sam waksal sentenced to more than seven years in prison for insider trading. the scandal drew national headlines when it ensnared domestic diva martha stewart. waksal admitted advising his daughter to dump her stock , stewart is being accused of unloading her stock after also learning some inside information. waksal is the first chief executive to be sentenced in a wave of corporate scandals and that started with the big enron bankruptcy into 2001. top executives at the company accused of cooking the books to hide billions of dollars in debt. former enron vice president sherron watkins who wrote that now-famous memo questioning the accounting practice and joining us now from houston , we want to talk to her about the fate of her form are company as justice department continues to build its case against key enroan executives and insight on maybe some other headlines we are seeing this morning .",
+  "sentence_index" : 0,
+  "Tokens" : [ "we", "are", "now", "hitting", "33", "after", "the", "hour", "this", "morning.", "embattled", "imclone", "founder", "sam", "waksal", "sentenced", "to", "more", "than", "seven", "years", "in", "prison", "for", "insider", "trading.", "the", "scandal", "drew", "national", "headlines", "when", "it", "ensnared", "domestic", "diva", "martha", "stewart.", "waksal", "admitted", "advising", "his", "daughter", "to", "dump", "her", "stock", ",", "stewart", "is", "being", "accused", "of", "unloading", "her", "stock", "after", "also", "learning", "some", "inside", "information.", "waksal", "is", "the", "first", "chief", "executive", "to", "be", "sentenced", "in", "a", "wave", "of", "corporate", "scandals", "and", "that", "started", "with", "the", "big", "enron", "bankruptcy", "into", "2001.", "top", "executives", "at", "the", "company", "accused", "of", "cooking", "the", "books", "to", "hide", "billions", "of", "dollars", "in", "debt.", "former", "enron", "vice", "president", "sherron", "watkins", "who", "wrote", "that", "now-famous", "memo", "questioning", "the", "accounting", "practice", "and", "joining", "us", "now", "from", "houston", ",", "we", "want", "to", "talk", "to", "her", "about", "the", "fate", "of", "her", "form", "are", "company", "as", "justice", "department", "continues", "to", "build", "its", "case", "against", "key", "enroan", "executives", "and", "insight", "on", "maybe", "some", "other", "headlines", "we", "are", "seeing", "this", "morning", "." ]
+} ]

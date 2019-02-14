@@ -1,0 +1,331 @@
+[ {
+  "relationType" : "ART",
+  "extent" : "his sidearm",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "his sidearm",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E6-28",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R2",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E4-27",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R2-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Now , you just see this soldier right here , he 's going to his sidearm to make a little bit more mobile .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Now", ",", "you", "just", "see", "this", "soldier", "right", "here", ",", "he", "'s", "going", "to", "his", "sidearm", "to", "make", "a", "little", "bit", "more", "mobile", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "his sidearm",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "his sidearm",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E6-198",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R2",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E4-185",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R2-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Let 's roll tape and continue on here and talk about -- Now , I notice his hand -- his sidearm is attached to him .",
+  "sentence_index" : 30,
+  "Tokens" : [ "Let", "'s", "roll", "tape", "and", "continue", "on", "here", "and", "talk", "about", "--", "Now", ",", "I", "notice", "his", "hand", "--", "his", "sidearm", "is", "attached", "to", "him", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his partner",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "his partner",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E7-31",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R3",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E4-32",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R3-1",
+  "relationSubType" : "Business",
+  "Sentence" : "And he 's got to be careful of his muzzle pointing at his partner right here .",
+  "sentence_index" : 18,
+  "Tokens" : [ "And", "he", "'s", "got", "to", "be", "careful", "of", "his", "muzzle", "pointing", "at", "his", "partner", "right", "here", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "So he goes down the hallway, and you can see once that's called clear, straight trigger finger, in case there's any sympathetic muscle tightening, there's no problem",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "the hallway",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E46-174",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R4",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E4-187",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "So he goes down the hallway , and you can see once that 's called clear , straight trigger finger , in case there 's any sympathetic muscle tightening , there 's no problem .",
+  "sentence_index" : 32,
+  "Tokens" : [ "So", "he", "goes", "down", "the", "hallway", ",", "and", "you", "can", "see", "once", "that", "'s", "called", "clear", ",", "straight", "trigger", "finger", ",", "in", "case", "there", "'s", "any", "sympathetic", "muscle", "tightening", ",", "there", "'s", "no", "problem", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Same thing when you come into a building",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "a building",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E15-76",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R5",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E1-75",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Same thing when you come into a building .",
+  "sentence_index" : 47,
+  "Tokens" : [ "Same", "thing", "when", "you", "come", "into", "a", "building", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "he's got a sidearm, he's calling the team in",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "a sidearm",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E19-90",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R6",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E18-89",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R6-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Now , you see right here , he 's got a sidearm , he 's calling the team in .",
+  "sentence_index" : 55,
+  "Tokens" : [ "Now", ",", "you", "see", "right", "here", ",", "he", "'s", "got", "a", "sidearm", ",", "he", "'s", "calling", "the", "team", "in", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Imagine a person that is concealed anywhere in here",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E23-96",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R7",
+  "mentionArg1" : {
+    "extent" : "a person that is concealed anywhere in here",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E22-93",
+    "start" : 2,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "MCCANN Imagine a person that is concealed anywhere in here .",
+  "sentence_index" : 58,
+  "Tokens" : [ "MCCANN", "Imagine", "a", "person", "that", "is", "concealed", "anywhere", "in", "here", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a city of 5 million",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "a city of 5 million",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E38-158",
+    "start" : 6,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R8",
+  "mentionArg1" : {
+    "extent" : "5 million",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E39-159",
+    "start" : 9,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R8-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "And that -- compound that by a city of 5 million , it kind of boggles the mind and really gives you a sense of what lies head for U.S. and coalition forces .",
+  "sentence_index" : 91,
+  "Tokens" : [ "And", "that", "--", "compound", "that", "by", "a", "city", "of", "5", "million", ",", "it", "kind", "of", "boggles", "the", "mind", "and", "really", "gives", "you", "a", "sense", "of", "what", "lies", "head", "for", "U.S.", "and", "coalition", "forces", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "that -- compound that by a city of 5 million",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "a city of 5 million",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E38-158",
+    "start" : 6,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R9",
+  "mentionArg1" : {
+    "extent" : "that -- compound that by a city of 5 million",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E49-178",
+    "start" : 1,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R9-1",
+  "relationSubType" : "Near",
+  "Sentence" : "And that -- compound that by a city of 5 million , it kind of boggles the mind and really gives you a sense of what lies head for U.S. and coalition forces .",
+  "sentence_index" : 91,
+  "Tokens" : [ "And", "that", "--", "compound", "that", "by", "a", "city", "of", "5", "million", ",", "it", "kind", "of", "boggles", "the", "mind", "and", "really", "gives", "you", "a", "sense", "of", "what", "lies", "head", "for", "U.S.", "and", "coalition", "forces", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Well, U.S. forces entering Baghdad do face the prospect of urban combat, a type of battle they have trained for, but, of course, they would prefer to avoid",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E38-114",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R10",
+  "mentionArg1" : {
+    "extent" : "U.S. forces entering Baghdad",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E26-104",
+    "start" : 3,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R10-1",
+  "relationSubType" : "Located",
+  "Sentence" : "WOODRUFF Well , U.S. forces entering Baghdad do face the prospect of urban combat , a type of battle they have trained for , but , of course , they would prefer to avoid .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WOODRUFF", "Well", ",", "U.S.", "forces", "entering", "Baghdad", "do", "face", "the", "prospect", "of", "urban", "combat", ",", "a", "type", "of", "battle", "they", "have", "trained", "for", ",", "but", ",", "of", "course", ",", "they", "would", "prefer", "to", "avoid", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our security analyst",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E55-188",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R11",
+  "mentionArg1" : {
+    "extent" : "our security analyst",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E60-218",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R11-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "I 'm joined by J. Kelly McCann , our security analyst , a man who 's spent a lot of time learning about urban combat .",
+  "sentence_index" : 4,
+  "Tokens" : [ "I", "'m", "joined", "by", "J.", "Kelly", "McCann", ",", "our", "security", "analyst", ",", "a", "man", "who", "'s", "spent", "a", "lot", "of", "time", "learning", "about", "urban", "combat", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "anyone with a rifle back in these areas here",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E23-219",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R12",
+  "mentionArg1" : {
+    "extent" : "anyone with a rifle back in these areas here",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E24-99",
+    "start" : 6,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I mean , you could have anyone with a rifle back in these areas here ... O'BRIEN Up in this area here , here ... MCCANN ... in any of these recesses back over here .",
+  "sentence_index" : 59,
+  "Tokens" : [ "I", "mean", ",", "you", "could", "have", "anyone", "with", "a", "rifle", "back", "in", "these", "areas", "here", "...", "O'BRIEN", "Up", "in", "this", "area", "here", ",", "here", "...", "MCCANN", "...", "in", "any", "of", "these", "recesses", "back", "over", "here", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "anyone with a rifle back in these areas here",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "a rifle",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E25-100",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R13",
+  "mentionArg1" : {
+    "extent" : "anyone with a rifle back in these areas here",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E24-99",
+    "start" : 6,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R13-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "I mean , you could have anyone with a rifle back in these areas here ... O'BRIEN Up in this area here , here ... MCCANN ... in any of these recesses back over here .",
+  "sentence_index" : 59,
+  "Tokens" : [ "I", "mean", ",", "you", "could", "have", "anyone", "with", "a", "rifle", "back", "in", "these", "areas", "here", "...", "O'BRIEN", "Up", "in", "this", "area", "here", ",", "here", "...", "MCCANN", "...", "in", "any", "of", "these", "recesses", "back", "over", "here", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. and coalition forces",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E20-161",
+    "start" : 29,
+    "end" : 29
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R14",
+  "mentionArg1" : {
+    "extent" : "U.S. and coalition forces",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E53-183",
+    "start" : 29,
+    "end" : 32
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R14-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "And that -- compound that by a city of 5 million , it kind of boggles the mind and really gives you a sense of what lies head for U.S. and coalition forces .",
+  "sentence_index" : 91,
+  "Tokens" : [ "And", "that", "--", "compound", "that", "by", "a", "city", "of", "5", "million", ",", "it", "kind", "of", "boggles", "the", "mind", "and", "really", "gives", "you", "a", "sense", "of", "what", "lies", "head", "for", "U.S.", "and", "coalition", "forces", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. and coalition forces",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E41-162",
+    "start" : 31,
+    "end" : 31
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-2-R15",
+  "mentionArg1" : {
+    "extent" : "U.S. and coalition forces",
+    "argMentionid" : "CNN_IP_20030405.1600.01-2-E53-183",
+    "start" : 29,
+    "end" : 32
+  },
+  "id" : "CNN_IP_20030405.1600.01-2-R15-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "And that -- compound that by a city of 5 million , it kind of boggles the mind and really gives you a sense of what lies head for U.S. and coalition forces .",
+  "sentence_index" : 91,
+  "Tokens" : [ "And", "that", "--", "compound", "that", "by", "a", "city", "of", "5", "million", ",", "it", "kind", "of", "boggles", "the", "mind", "and", "really", "gives", "you", "a", "sense", "of", "what", "lies", "head", "for", "U.S.", "and", "coalition", "forces", "." ]
+} ]

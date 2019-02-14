@@ -1,0 +1,89 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "allan chernoff live from the new york stock exchange",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "the new york stock exchange",
+    "argMentionid" : "CNN_ENG_20030530_130025.12-E10-18",
+    "start" : 13,
+    "end" : 17
+  },
+  "relationID" : "CNN_ENG_20030530_130025.12-R1",
+  "mentionArg1" : {
+    "extent" : "allan chernoff",
+    "argMentionid" : "CNN_ENG_20030530_130025.12-E9-17",
+    "start" : 9,
+    "end" : 10
+  },
+  "id" : "CNN_ENG_20030530_130025.12-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "aol time warner and microsoft are burying the hatchet. allan chernoff live from the new york stock exchange with more. bring us up to speed. aol time warner , of course , our parent company .",
+  "sentence_index" : 0,
+  "Tokens" : [ "aol", "time", "warner", "and", "microsoft", "are", "burying", "the", "hatchet.", "allan", "chernoff", "live", "from", "the", "new", "york", "stock", "exchange", "with", "more.", "bring", "us", "up", "to", "speed.", "aol", "time", "warner", ",", "of", "course", ",", "our", "parent", "company", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "our parent company",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "our parent company",
+    "argMentionid" : "CNN_ENG_20030530_130025.12-E7-21",
+    "start" : 32,
+    "end" : 34
+  },
+  "relationID" : "CNN_ENG_20030530_130025.12-R2",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_ENG_20030530_130025.12-E12-22",
+    "start" : 32,
+    "end" : 32
+  },
+  "id" : "CNN_ENG_20030530_130025.12-R2-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "aol time warner and microsoft are burying the hatchet. allan chernoff live from the new york stock exchange with more. bring us up to speed. aol time warner , of course , our parent company .",
+  "sentence_index" : 0,
+  "Tokens" : [ "aol", "time", "warner", "and", "microsoft", "are", "burying", "the", "hatchet.", "allan", "chernoff", "live", "from", "the", "new", "york", "stock", "exchange", "with", "more.", "bring", "us", "up", "to", "speed.", "aol", "time", "warner", ",", "of", "course", ",", "our", "parent", "company", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "our corporate parent",
+  "sentence_length" : 98,
+  "mentionArg2" : {
+    "extent" : "our corporate parent",
+    "argMentionid" : "CNN_ENG_20030530_130025.12-E7-30",
+    "start" : 32,
+    "end" : 34
+  },
+  "relationID" : "CNN_ENG_20030530_130025.12-R2",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_ENG_20030530_130025.12-E12-31",
+    "start" : 32,
+    "end" : 32
+  },
+  "id" : "CNN_ENG_20030530_130025.12-R2-2",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "exactly in question about that. bill gates and dick parson , the ceos of these two companies , smoking a peace pipe right now. the companies settling a lawsuit. aol time warnerings our corporate parent , will get $750 million from microsoft. the software giant paying to settle charges it used its monopoly power in after to block the aol netscape browser. as part of the deal , microsoft will license its browser to aol for seven years without charging royalties. aol is allowed to collaborate with microsoft on making their interest mess angers work smoothly together .",
+  "sentence_index" : 1,
+  "Tokens" : [ "exactly", "in", "question", "about", "that.", "bill", "gates", "and", "dick", "parson", ",", "the", "ceos", "of", "these", "two", "companies", ",", "smoking", "a", "peace", "pipe", "right", "now.", "the", "companies", "settling", "a", "lawsuit.", "aol", "time", "warnerings", "our", "corporate", "parent", ",", "will", "get", "$750", "million", "from", "microsoft.", "the", "software", "giant", "paying", "to", "settle", "charges", "it", "used", "its", "monopoly", "power", "in", "after", "to", "block", "the", "aol", "netscape", "browser.", "as", "part", "of", "the", "deal", ",", "microsoft", "will", "license", "its", "browser", "to", "aol", "for", "seven", "years", "without", "charging", "royalties.", "aol", "is", "allowed", "to", "collaborate", "with", "microsoft", "on", "making", "their", "interest", "mess", "angers", "work", "smoothly", "together", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the ceos of these two companies",
+  "sentence_length" : 98,
+  "mentionArg2" : {
+    "extent" : "these two companies",
+    "argMentionid" : "CNN_ENG_20030530_130025.12-E17-27",
+    "start" : 14,
+    "end" : 16
+  },
+  "relationID" : "CNN_ENG_20030530_130025.12-R3",
+  "mentionArg1" : {
+    "extent" : "the ceos of these two companies",
+    "argMentionid" : "CNN_ENG_20030530_130025.12-E16-26",
+    "start" : 11,
+    "end" : 16
+  },
+  "id" : "CNN_ENG_20030530_130025.12-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "exactly in question about that. bill gates and dick parson , the ceos of these two companies , smoking a peace pipe right now. the companies settling a lawsuit. aol time warnerings our corporate parent , will get $750 million from microsoft. the software giant paying to settle charges it used its monopoly power in after to block the aol netscape browser. as part of the deal , microsoft will license its browser to aol for seven years without charging royalties. aol is allowed to collaborate with microsoft on making their interest mess angers work smoothly together .",
+  "sentence_index" : 1,
+  "Tokens" : [ "exactly", "in", "question", "about", "that.", "bill", "gates", "and", "dick", "parson", ",", "the", "ceos", "of", "these", "two", "companies", ",", "smoking", "a", "peace", "pipe", "right", "now.", "the", "companies", "settling", "a", "lawsuit.", "aol", "time", "warnerings", "our", "corporate", "parent", ",", "will", "get", "$750", "million", "from", "microsoft.", "the", "software", "giant", "paying", "to", "settle", "charges", "it", "used", "its", "monopoly", "power", "in", "after", "to", "block", "the", "aol", "netscape", "browser.", "as", "part", "of", "the", "deal", ",", "microsoft", "will", "license", "its", "browser", "to", "aol", "for", "seven", "years", "without", "charging", "royalties.", "aol", "is", "allowed", "to", "collaborate", "with", "microsoft", "on", "making", "their", "interest", "mess", "angers", "work", "smoothly", "together", "." ]
+} ]

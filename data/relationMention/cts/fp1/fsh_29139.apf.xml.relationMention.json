@@ -1,0 +1,441 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "your current or former workplace",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "your current or former workplace",
+    "argMentionid" : "fsh_29139-E10-113",
+    "start" : 7,
+    "end" : 11
+  },
+  "relationID" : "fsh_29139-R1",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29139-E38-144",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "fsh_29139-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Workplace Culture Describe the organizational structure of your current or former workplace .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Workplace", "Culture", "Describe", "the", "organizational", "structure", "of", "your", "current", "or", "former", "workplace", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "your company",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "your company",
+    "argMentionid" : "fsh_29139-E10-214",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "fsh_29139-R1",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29139-E38-213",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29139-R1-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Do you think your company is well-run ?",
+  "sentence_index" : 6,
+  "Tokens" : [ "Do", "you", "think", "your", "company", "is", "well-run", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "How many people work there, and what is the hierarchy",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "fsh_29139-E10-204",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "fsh_29139-R2",
+  "mentionArg1" : {
+    "extent" : "How many people",
+    "argMentionid" : "fsh_29139-E39-203",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "fsh_29139-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "How many people work there , and what is the hierarchy ?",
+  "sentence_index" : 2,
+  "Tokens" : [ "How", "many", "people", "work", "there", ",", "and", "what", "is", "the", "hierarchy", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Describe some of the people that you work with and the jobs they do",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29139-E38-210",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "fsh_29139-R3",
+  "mentionArg1" : {
+    "extent" : "some of the people that you work with",
+    "argMentionid" : "fsh_29139-E42-208",
+    "start" : 1,
+    "end" : 8
+  },
+  "id" : "fsh_29139-R3-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Describe some of the people that you work with and the jobs they do .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Describe", "some", "of", "the", "people", "that", "you", "work", "with", "and", "the", "jobs", "they", "do", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Well, um all I can say about big corporations -- is there's too many -- chiefs",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "big corporations",
+    "argMentionid" : "fsh_29139-E46-218",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "fsh_29139-R5",
+  "mentionArg1" : {
+    "extent" : "too many -- chiefs",
+    "argMentionid" : "fsh_29139-E1-2",
+    "start" : 14,
+    "end" : 17
+  },
+  "id" : "fsh_29139-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Well , um all I can say about big corporations -- is there 's too many -- chiefs .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Well", ",", "um", "all", "I", "can", "say", "about", "big", "corporations", "--", "is", "there", "'s", "too", "many", "--", "chiefs", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The uh ~CEO we had before we merged with Nations Bank -- he uh -- he about ran as into the ground with some hedge funds that he had gone into",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "we",
+    "argMentionid" : "fsh_29139-E44-10",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "fsh_29139-R6",
+  "mentionArg1" : {
+    "extent" : "The uh ~CEO we had before we merged with Nations Bank",
+    "argMentionid" : "fsh_29139-E6-9",
+    "start" : 0,
+    "end" : 11
+  },
+  "id" : "fsh_29139-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The uh ~ CEO we had before we merged with Nations Bank -- he uh -- he about ran as into the ground with some hedge funds that he had gone into .",
+  "sentence_index" : 18,
+  "Tokens" : [ "The", "uh", "~", "CEO", "we", "had", "before", "we", "merged", "with", "Nations", "Bank", "--", "he", "uh", "--", "he", "about", "ran", "as", "into", "the", "ground", "with", "some", "hedge", "funds", "that", "he", "had", "gone", "into", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his family",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "his family",
+    "argMentionid" : "fsh_29139-E8-20",
+    "start" : 28,
+    "end" : 29
+  },
+  "relationID" : "fsh_29139-R7",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29139-E6-19",
+    "start" : 28,
+    "end" : 28
+  },
+  "id" : "fsh_29139-R7-1",
+  "relationSubType" : "Family",
+  "Sentence" : "B And then , and then when we finish merging , they give the guy something like a twenty-five million dollar package , and if he dies , his family still gets all the money .",
+  "sentence_index" : 20,
+  "Tokens" : [ "B", "And", "then", ",", "and", "then", "when", "we", "finish", "merging", ",", "they", "give", "the", "guy", "something", "like", "a", "twenty-five", "million", "dollar", "package", ",", "and", "if", "he", "dies", ",", "his", "family", "still", "gets", "all", "the", "money", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I've been there for a long time, I used to be a manager there",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "fsh_29139-E44-27",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "fsh_29139-R8",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29139-E9-24",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29139-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "I 've been there for a long time , I used to be a manager there .",
+  "sentence_index" : 24,
+  "Tokens" : [ "I", "'ve", "been", "there", "for", "a", "long", "time", ",", "I", "used", "to", "be", "a", "manager", "there", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I've been there for a long time, I used to be a manager there",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "fsh_29139-E44-28",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "fsh_29139-R8",
+  "mentionArg1" : {
+    "extent" : "a manager",
+    "argMentionid" : "fsh_29139-E9-29",
+    "start" : 13,
+    "end" : 14
+  },
+  "id" : "fsh_29139-R8-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "I 've been there for a long time , I used to be a manager there .",
+  "sentence_index" : 24,
+  "Tokens" : [ "I", "'ve", "been", "there", "for", "a", "long", "time", ",", "I", "used", "to", "be", "a", "manager", "there", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I remember Bank of America was -- kind of like that in the department I used to work in, years and years ago",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Bank of America",
+    "argMentionid" : "fsh_29139-E44-99",
+    "start" : 2,
+    "end" : 4
+  },
+  "relationID" : "fsh_29139-R8",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29139-E9-98",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29139-R8-3",
+  "relationSubType" : "Employment",
+  "Sentence" : "I remember Bank of America was -- kind of like that in the department I used to work in , years and years ago .",
+  "sentence_index" : 74,
+  "Tokens" : [ "I", "remember", "Bank", "of", "America", "was", "--", "kind", "of", "like", "that", "in", "the", "department", "I", "used", "to", "work", "in", ",", "years", "and", "years", "ago", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Like uh -- uh I'm pretty busy with other, you know -- student organizations, and hanging out with friends and stuff, so I don't have to work on the weekends, and then I can take off sometimes",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "student organizations",
+    "argMentionid" : "fsh_29139-E13-55",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "fsh_29139-R10",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29139-E4-47",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "fsh_29139-R10-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Like uh -- uh I 'm pretty busy with other , you know -- student organizations , and hanging out with friends and stuff , so I do n't have to work on the weekends , and then I can take off sometimes .",
+  "sentence_index" : 44,
+  "Tokens" : [ "Like", "uh", "--", "uh", "I", "'m", "pretty", "busy", "with", "other", ",", "you", "know", "--", "student", "organizations", ",", "and", "hanging", "out", "with", "friends", "and", "stuff", ",", "so", "I", "do", "n't", "have", "to", "work", "on", "the", "weekends", ",", "and", "then", "I", "can", "take", "off", "sometimes", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Like uh -- uh I'm pretty busy with other, you know -- student organizations, and hanging out with friends and stuff, so I don't have to work on the weekends, and then I can take off sometimes",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "friends",
+    "argMentionid" : "fsh_29139-E14-56",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "fsh_29139-R11",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29139-E4-47",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "fsh_29139-R11-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "Like uh -- uh I 'm pretty busy with other , you know -- student organizations , and hanging out with friends and stuff , so I do n't have to work on the weekends , and then I can take off sometimes .",
+  "sentence_index" : 44,
+  "Tokens" : [ "Like", "uh", "--", "uh", "I", "'m", "pretty", "busy", "with", "other", ",", "you", "know", "--", "student", "organizations", ",", "and", "hanging", "out", "with", "friends", "and", "stuff", ",", "so", "I", "do", "n't", "have", "to", "work", "on", "the", "weekends", ",", "and", "then", "I", "can", "take", "off", "sometimes", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "our boss",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "our boss",
+    "argMentionid" : "fsh_29139-E16-61",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "fsh_29139-R12",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "fsh_29139-E15-62",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "fsh_29139-R12-1",
+  "relationSubType" : "Business",
+  "Sentence" : "A and uh I think really that what brings that on is our boss .",
+  "sentence_index" : 49,
+  "Tokens" : [ "A", "and", "uh", "I", "think", "really", "that", "what", "brings", "that", "on", "is", "our", "boss", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Yeah, I've had many many different kinds of managers, and when they're laid back don't micro- manage -- you know, you definitely,  work harder for them, and do a better job and",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "many many different kinds of managers",
+    "argMentionid" : "fsh_29139-E20-78",
+    "start" : 5,
+    "end" : 10
+  },
+  "relationID" : "fsh_29139-R13",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29139-E9-72",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "fsh_29139-R13-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Yeah , I 've had many many different kinds of managers , and when they 're laid back do n't micro- manage -- you know , you definitely , work harder for them , and do a better job and A Yeah .",
+  "sentence_index" : 60,
+  "Tokens" : [ "Yeah", ",", "I", "'ve", "had", "many", "many", "different", "kinds", "of", "managers", ",", "and", "when", "they", "'re", "laid", "back", "do", "n't", "micro-", "manage", "--", "you", "know", ",", "you", "definitely", ",", "work", "harder", "for", "them", ",", "and", "do", "a", "better", "job", "and", "A", "Yeah", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I remember Bank of America was -- kind of like that in the department I used to work in, years and years ago",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the department I used to work in",
+    "argMentionid" : "fsh_29139-E24-100",
+    "start" : 12,
+    "end" : 18
+  },
+  "relationID" : "fsh_29139-R15",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29139-E9-101",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "fsh_29139-R15-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "I remember Bank of America was -- kind of like that in the department I used to work in , years and years ago .",
+  "sentence_index" : 74,
+  "Tokens" : [ "I", "remember", "Bank", "of", "America", "was", "--", "kind", "of", "like", "that", "in", "the", "department", "I", "used", "to", "work", "in", ",", "years", "and", "years", "ago", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I think more companies are going for the uh -- you know, employee satisfaction",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "more companies",
+    "argMentionid" : "fsh_29139-E28-108",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "fsh_29139-R16",
+  "mentionArg1" : {
+    "extent" : "employee",
+    "argMentionid" : "fsh_29139-E29-110",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "fsh_29139-R16-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "I think more companies are going for the uh -- you know , employee satisfaction .",
+  "sentence_index" : 83,
+  "Tokens" : [ "I", "think", "more", "companies", "are", "going", "for", "the", "uh", "--", "you", "know", ",", "employee", "satisfaction", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "your employees",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "your employees",
+    "argMentionid" : "fsh_29139-E32-125",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "fsh_29139-R17",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29139-E12-124",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "fsh_29139-R17-1",
+  "relationSubType" : "Business",
+  "Sentence" : "A Yeah , well , you got to make your employees happy , otherwise you 're not going to come out with the next product .",
+  "sentence_index" : 92,
+  "Tokens" : [ "A", "Yeah", ",", "well", ",", "you", "got", "to", "make", "your", "employees", "happy", ",", "otherwise", "you", "'re", "not", "going", "to", "come", "out", "with", "the", "next", "product", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "They're not going to work so hard for ya",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "They",
+    "argMentionid" : "fsh_29139-E32-128",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "fsh_29139-R17",
+  "mentionArg1" : {
+    "extent" : "ya",
+    "argMentionid" : "fsh_29139-E12-130",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "fsh_29139-R17-2",
+  "relationSubType" : "Business",
+  "Sentence" : "They 're not going to work so hard for ya .",
+  "sentence_index" : 95,
+  "Tokens" : [ "They", "'re", "not", "going", "to", "work", "so", "hard", "for", "ya", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I also, I worked for uh, like kind of like a Subway, uh Atlanta Bread Company",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Atlanta Bread Company",
+    "argMentionid" : "fsh_29139-E34-138",
+    "start" : 16,
+    "end" : 18
+  },
+  "relationID" : "fsh_29139-R19",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29139-E4-135",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29139-R19-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "I also , I worked for uh , like kind of like a Subway , uh Atlanta Bread Company .",
+  "sentence_index" : 105,
+  "Tokens" : [ "I", "also", ",", "I", "worked", "for", "uh", ",", "like", "kind", "of", "like", "a", "Subway", ",", "uh", "Atlanta", "Bread", "Company", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my boss",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "my boss",
+    "argMentionid" : "fsh_29139-E36-140",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "fsh_29139-R20",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29139-E4-141",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "fsh_29139-R20-1",
+  "relationSubType" : "Business",
+  "Sentence" : "A So , and man , oh this is for a summer job , and my boss was like -- well he was also the owner",
+  "sentence_index" : 107,
+  "Tokens" : [ "A", "So", ",", "and", "man", ",", "oh", "this", "is", "for", "a", "summer", "job", ",", "and", "my", "boss", "was", "like", "--", "well", "he", "was", "also", "the", "owner" ]
+} ]

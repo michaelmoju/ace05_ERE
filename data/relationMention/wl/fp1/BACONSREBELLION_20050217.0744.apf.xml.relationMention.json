@@ -1,0 +1,199 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "Many of the good-governiks who write for Bacon's Rebellion have pointed out the deleterious effects of gerrymandering on Virginia",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Bacon's Rebellion",
+    "argMentionid" : "BACONSREBELLION_20050217.0744-E40-62",
+    "start" : 10,
+    "end" : 12
+  },
+  "relationID" : "BACONSREBELLION_20050217.0744-R1",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "BACONSREBELLION_20050217.0744-E39-61",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "BACONSREBELLION_20050217.0744-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Will Vehrs 2005-02-17T07:44:00 Many of the good-governiks who write for Bacon 's Rebellion have pointed out the deleterious effects of gerrymandering on Virginia .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Will", "Vehrs", "2005-02-17T07:44:00", "Many", "of", "the", "good-governiks", "who", "write", "for", "Bacon", "'s", "Rebellion", "have", "pointed", "out", "the", "deleterious", "effects", "of", "gerrymandering", "on", "Virginia", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Mickey Kaus of Slate",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Slate",
+    "argMentionid" : "BACONSREBELLION_20050217.0744-E47-70",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "BACONSREBELLION_20050217.0744-R2",
+  "mentionArg1" : {
+    "extent" : "Mickey Kaus of Slate",
+    "argMentionid" : "BACONSREBELLION_20050217.0744-E46-69",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "BACONSREBELLION_20050217.0744-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Mickey Kaus of Slate reminds us that the California initiative bears watching and we should follow the motives of those who support or oppose the current redistricting process .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Mickey", "Kaus", "of", "Slate", "reminds", "us", "that", "the", "California", "initiative", "bears", "watching", "and", "we", "should", "follow", "the", "motives", "of", "those", "who", "support", "or", "oppose", "the", "current", "redistricting", "process", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the state House and Senate",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "state",
+    "argMentionid" : "BACONSREBELLION_20050217.0744-E5-9",
+    "start" : 30,
+    "end" : 30
+  },
+  "relationID" : "BACONSREBELLION_20050217.0744-R3",
+  "mentionArg1" : {
+    "extent" : "the state House and Senate",
+    "argMentionid" : "BACONSREBELLION_20050217.0744-E3-7",
+    "start" : 29,
+    "end" : 33
+  },
+  "id" : "BACONSREBELLION_20050217.0744-R3-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Barnie Day ???? - ?? - ?? T09:01:00 Hand in hand with any consideration of the redistricting process , we shoul give some thought to the structural relationship between the state House and Senate .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Barnie", "Day", "????", "-", "??", "-", "??", "T09:01:00", "Hand", "in", "hand", "with", "any", "consideration", "of", "the", "redistricting", "process", ",", "we", "shoul", "give", "some", "thought", "to", "the", "structural", "relationship", "between", "the", "state", "House", "and", "Senate", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the state House and Senate",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "state",
+    "argMentionid" : "BACONSREBELLION_20050217.0744-E5-9",
+    "start" : 30,
+    "end" : 30
+  },
+  "relationID" : "BACONSREBELLION_20050217.0744-R4",
+  "mentionArg1" : {
+    "extent" : "the state House and Senate",
+    "argMentionid" : "BACONSREBELLION_20050217.0744-E4-8",
+    "start" : 29,
+    "end" : 33
+  },
+  "id" : "BACONSREBELLION_20050217.0744-R4-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Barnie Day ???? - ?? - ?? T09:01:00 Hand in hand with any consideration of the redistricting process , we shoul give some thought to the structural relationship between the state House and Senate .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Barnie", "Day", "????", "-", "??", "-", "??", "T09:01:00", "Hand", "in", "hand", "with", "any", "consideration", "of", "the", "redistricting", "process", ",", "we", "shoul", "give", "some", "thought", "to", "the", "structural", "relationship", "between", "the", "state", "House", "and", "Senate", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "each House member",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "House",
+    "argMentionid" : "BACONSREBELLION_20050217.0744-E3-11",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "BACONSREBELLION_20050217.0744-R5",
+  "mentionArg1" : {
+    "extent" : "each House member",
+    "argMentionid" : "BACONSREBELLION_20050217.0744-E6-10",
+    "start" : 2,
+    "end" : 4
+  },
+  "id" : "BACONSREBELLION_20050217.0744-R5-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Currently , each House member represents approximately 75,000 Virginians , while each Senator represents appoximately 187,500 .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Currently", ",", "each", "House", "member", "represents", "approximately", "75,000", "Virginians", ",", "while", "each", "Senator", "represents", "appoximately", "187,500", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Some senators represent people pools that are in turn fractured into five or six House districts",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "five or six House districts",
+    "argMentionid" : "BACONSREBELLION_20050217.0744-E16-20",
+    "start" : 11,
+    "end" : 15
+  },
+  "relationID" : "BACONSREBELLION_20050217.0744-R6",
+  "mentionArg1" : {
+    "extent" : "that",
+    "argMentionid" : "BACONSREBELLION_20050217.0744-E12-17",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "BACONSREBELLION_20050217.0744-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Some senators represent people pools that are in turn fractured into five or six House districts .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Some", "senators", "represent", "people", "pools", "that", "are", "in", "turn", "fractured", "into", "five", "or", "six", "House", "districts", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "membership in the Senate",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "the Senate",
+    "argMentionid" : "BACONSREBELLION_20050217.0744-E4-33",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "BACONSREBELLION_20050217.0744-R7",
+  "mentionArg1" : {
+    "extent" : "membership in the Senate",
+    "argMentionid" : "BACONSREBELLION_20050217.0744-E23-32",
+    "start" : 7,
+    "end" : 10
+  },
+  "id" : "BACONSREBELLION_20050217.0744-R7-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "He has suggested that we either increase membership in the Senate to 50 , or decrease House membership to 80 , producing a scenario wherein 1 Senator would represent a block of people who are represented by exactly 2 Delegates .",
+  "sentence_index" : 12,
+  "Tokens" : [ "He", "has", "suggested", "that", "we", "either", "increase", "membership", "in", "the", "Senate", "to", "50", ",", "or", "decrease", "House", "membership", "to", "80", ",", "producing", "a", "scenario", "wherein", "1", "Senator", "would", "represent", "a", "block", "of", "people", "who", "are", "represented", "by", "exactly", "2", "Delegates", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "House membership",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "House",
+    "argMentionid" : "BACONSREBELLION_20050217.0744-E3-37",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "BACONSREBELLION_20050217.0744-R8",
+  "mentionArg1" : {
+    "extent" : "House membership",
+    "argMentionid" : "BACONSREBELLION_20050217.0744-E25-35",
+    "start" : 16,
+    "end" : 17
+  },
+  "id" : "BACONSREBELLION_20050217.0744-R8-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "He has suggested that we either increase membership in the Senate to 50 , or decrease House membership to 80 , producing a scenario wherein 1 Senator would represent a block of people who are represented by exactly 2 Delegates .",
+  "sentence_index" : 12,
+  "Tokens" : [ "He", "has", "suggested", "that", "we", "either", "increase", "membership", "in", "the", "Senate", "to", "50", ",", "or", "decrease", "House", "membership", "to", "80", ",", "producing", "a", "scenario", "wherein", "1", "Senator", "would", "represent", "a", "block", "of", "people", "who", "are", "represented", "by", "exactly", "2", "Delegates", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "half a dozen Delegates of two parties--three, if you count independents",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "two parties",
+    "argMentionid" : "BACONSREBELLION_20050217.0744-E35-54",
+    "start" : 26,
+    "end" : 27
+  },
+  "relationID" : "BACONSREBELLION_20050217.0744-R9",
+  "mentionArg1" : {
+    "extent" : "half a dozen Delegates of two parties--three, if you count independents",
+    "argMentionid" : "BACONSREBELLION_20050217.0744-E34-53",
+    "start" : 21,
+    "end" : 32
+  },
+  "id" : "BACONSREBELLION_20050217.0744-R9-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "You certainly would n't have these dysfunctional groupings we now have , where 1 Senator often represents a population divided among half a dozen Delegates of two parties--three , if you count independents .",
+  "sentence_index" : 14,
+  "Tokens" : [ "You", "certainly", "would", "n't", "have", "these", "dysfunctional", "groupings", "we", "now", "have", ",", "where", "1", "Senator", "often", "represents", "a", "population", "divided", "among", "half", "a", "dozen", "Delegates", "of", "two", "parties--three", ",", "if", "you", "count", "independents", "." ]
+} ]

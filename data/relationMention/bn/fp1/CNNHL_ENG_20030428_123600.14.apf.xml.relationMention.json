@@ -1,0 +1,89 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "an american astronaut",
+  "sentence_length" : 105,
+  "mentionArg2" : {
+    "extent" : "american",
+    "argMentionid" : "CNNHL_ENG_20030428_123600.14-E1-5",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "CNNHL_ENG_20030428_123600.14-R1",
+  "mentionArg1" : {
+    "extent" : "an american astronaut",
+    "argMentionid" : "CNNHL_ENG_20030428_123600.14-E9-1",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "CNNHL_ENG_20030428_123600.14-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "an american astronaut and russian cosmonaut are settling in at the international space station. a russian soyuz capsule dropped them off this morning after docking perfectly at the orbiting outpost. it was the first manned flight to the space station since the february first shuttle \" columbia \" disaster. about 90 minutes after the docking , the crews opened the hatch between the two spacecraft. edward lu and yuri malenchenko of russia will spend the next six months in the space station. they 're replacing the two astronauts and one cosmonaut currently there. the soyuz will carry that crew back to earth may 4th .",
+  "sentence_index" : 0,
+  "Tokens" : [ "an", "american", "astronaut", "and", "russian", "cosmonaut", "are", "settling", "in", "at", "the", "international", "space", "station.", "a", "russian", "soyuz", "capsule", "dropped", "them", "off", "this", "morning", "after", "docking", "perfectly", "at", "the", "orbiting", "outpost.", "it", "was", "the", "first", "manned", "flight", "to", "the", "space", "station", "since", "the", "february", "first", "shuttle", "\"", "columbia", "\"", "disaster.", "about", "90", "minutes", "after", "the", "docking", ",", "the", "crews", "opened", "the", "hatch", "between", "the", "two", "spacecraft.", "edward", "lu", "and", "yuri", "malenchenko", "of", "russia", "will", "spend", "the", "next", "six", "months", "in", "the", "space", "station.", "they", "'re", "replacing", "the", "two", "astronauts", "and", "one", "cosmonaut", "currently", "there.", "the", "soyuz", "will", "carry", "that", "crew", "back", "to", "earth", "may", "4th", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "russian cosmonaut",
+  "sentence_length" : 105,
+  "mentionArg2" : {
+    "extent" : "russian",
+    "argMentionid" : "CNNHL_ENG_20030428_123600.14-E13-21",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNNHL_ENG_20030428_123600.14-R2",
+  "mentionArg1" : {
+    "extent" : "russian cosmonaut",
+    "argMentionid" : "CNNHL_ENG_20030428_123600.14-E10-17",
+    "start" : 4,
+    "end" : 5
+  },
+  "id" : "CNNHL_ENG_20030428_123600.14-R2-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "an american astronaut and russian cosmonaut are settling in at the international space station. a russian soyuz capsule dropped them off this morning after docking perfectly at the orbiting outpost. it was the first manned flight to the space station since the february first shuttle \" columbia \" disaster. about 90 minutes after the docking , the crews opened the hatch between the two spacecraft. edward lu and yuri malenchenko of russia will spend the next six months in the space station. they 're replacing the two astronauts and one cosmonaut currently there. the soyuz will carry that crew back to earth may 4th .",
+  "sentence_index" : 0,
+  "Tokens" : [ "an", "american", "astronaut", "and", "russian", "cosmonaut", "are", "settling", "in", "at", "the", "international", "space", "station.", "a", "russian", "soyuz", "capsule", "dropped", "them", "off", "this", "morning", "after", "docking", "perfectly", "at", "the", "orbiting", "outpost.", "it", "was", "the", "first", "manned", "flight", "to", "the", "space", "station", "since", "the", "february", "first", "shuttle", "\"", "columbia", "\"", "disaster.", "about", "90", "minutes", "after", "the", "docking", ",", "the", "crews", "opened", "the", "hatch", "between", "the", "two", "spacecraft.", "edward", "lu", "and", "yuri", "malenchenko", "of", "russia", "will", "spend", "the", "next", "six", "months", "in", "the", "space", "station.", "they", "'re", "replacing", "the", "two", "astronauts", "and", "one", "cosmonaut", "currently", "there.", "the", "soyuz", "will", "carry", "that", "crew", "back", "to", "earth", "may", "4th", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "yuri malenchenko of russia",
+  "sentence_length" : 105,
+  "mentionArg2" : {
+    "extent" : "russia",
+    "argMentionid" : "CNNHL_ENG_20030428_123600.14-E13-4",
+    "start" : 71,
+    "end" : 71
+  },
+  "relationID" : "CNNHL_ENG_20030428_123600.14-R2",
+  "mentionArg1" : {
+    "extent" : "yuri malenchenko",
+    "argMentionid" : "CNNHL_ENG_20030428_123600.14-E10-3",
+    "start" : 68,
+    "end" : 69
+  },
+  "id" : "CNNHL_ENG_20030428_123600.14-R2-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "an american astronaut and russian cosmonaut are settling in at the international space station. a russian soyuz capsule dropped them off this morning after docking perfectly at the orbiting outpost. it was the first manned flight to the space station since the february first shuttle \" columbia \" disaster. about 90 minutes after the docking , the crews opened the hatch between the two spacecraft. edward lu and yuri malenchenko of russia will spend the next six months in the space station. they 're replacing the two astronauts and one cosmonaut currently there. the soyuz will carry that crew back to earth may 4th .",
+  "sentence_index" : 0,
+  "Tokens" : [ "an", "american", "astronaut", "and", "russian", "cosmonaut", "are", "settling", "in", "at", "the", "international", "space", "station.", "a", "russian", "soyuz", "capsule", "dropped", "them", "off", "this", "morning", "after", "docking", "perfectly", "at", "the", "orbiting", "outpost.", "it", "was", "the", "first", "manned", "flight", "to", "the", "space", "station", "since", "the", "february", "first", "shuttle", "\"", "columbia", "\"", "disaster.", "about", "90", "minutes", "after", "the", "docking", ",", "the", "crews", "opened", "the", "hatch", "between", "the", "two", "spacecraft.", "edward", "lu", "and", "yuri", "malenchenko", "of", "russia", "will", "spend", "the", "next", "six", "months", "in", "the", "space", "station.", "they", "'re", "replacing", "the", "two", "astronauts", "and", "one", "cosmonaut", "currently", "there.", "the", "soyuz", "will", "carry", "that", "crew", "back", "to", "earth", "may", "4th", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a russian soyuz capsule",
+  "sentence_length" : 105,
+  "mentionArg2" : {
+    "extent" : "a russian soyuz capsule",
+    "argMentionid" : "CNNHL_ENG_20030428_123600.14-E12-19",
+    "start" : 14,
+    "end" : 17
+  },
+  "relationID" : "CNNHL_ENG_20030428_123600.14-R3",
+  "mentionArg1" : {
+    "extent" : "russian",
+    "argMentionid" : "CNNHL_ENG_20030428_123600.14-E13-20",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "CNNHL_ENG_20030428_123600.14-R3-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "an american astronaut and russian cosmonaut are settling in at the international space station. a russian soyuz capsule dropped them off this morning after docking perfectly at the orbiting outpost. it was the first manned flight to the space station since the february first shuttle \" columbia \" disaster. about 90 minutes after the docking , the crews opened the hatch between the two spacecraft. edward lu and yuri malenchenko of russia will spend the next six months in the space station. they 're replacing the two astronauts and one cosmonaut currently there. the soyuz will carry that crew back to earth may 4th .",
+  "sentence_index" : 0,
+  "Tokens" : [ "an", "american", "astronaut", "and", "russian", "cosmonaut", "are", "settling", "in", "at", "the", "international", "space", "station.", "a", "russian", "soyuz", "capsule", "dropped", "them", "off", "this", "morning", "after", "docking", "perfectly", "at", "the", "orbiting", "outpost.", "it", "was", "the", "first", "manned", "flight", "to", "the", "space", "station", "since", "the", "february", "first", "shuttle", "\"", "columbia", "\"", "disaster.", "about", "90", "minutes", "after", "the", "docking", ",", "the", "crews", "opened", "the", "hatch", "between", "the", "two", "spacecraft.", "edward", "lu", "and", "yuri", "malenchenko", "of", "russia", "will", "spend", "the", "next", "six", "months", "in", "the", "space", "station.", "they", "'re", "replacing", "the", "two", "astronauts", "and", "one", "cosmonaut", "currently", "there.", "the", "soyuz", "will", "carry", "that", "crew", "back", "to", "earth", "may", "4th", "." ]
+} ]

@@ -1,0 +1,463 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "more than a million babies awaiting adoption in china today",
+  "sentence_length" : 79,
+  "mentionArg2" : {
+    "extent" : "china",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E30-102",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "CNN_ENG_20030617_193116.10-R1",
+  "mentionArg1" : {
+    "extent" : "more than a million babies",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E9-1",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "CNN_ENG_20030617_193116.10-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "more than a million babies awaiting adoption in china today. a california family is now bigger by one. tonight they 're welcoming little abby kramer in the world was anything but simple. her new mom and dad had to contend with international red tape , traveling thousands of miles to meet the new addition and cope with the sars crisis going on in china. their story is remarkable. thelma gutierrez telling the story of the kramers meeting kramer .",
+  "sentence_index" : 1,
+  "Tokens" : [ "more", "than", "a", "million", "babies", "awaiting", "adoption", "in", "china", "today.", "a", "california", "family", "is", "now", "bigger", "by", "one.", "tonight", "they", "'re", "welcoming", "little", "abby", "kramer", "in", "the", "world", "was", "anything", "but", "simple.", "her", "new", "mom", "and", "dad", "had", "to", "contend", "with", "international", "red", "tape", ",", "traveling", "thousands", "of", "miles", "to", "meet", "the", "new", "addition", "and", "cope", "with", "the", "sars", "crisis", "going", "on", "in", "china.", "their", "story", "is", "remarkable.", "thelma", "gutierrez", "telling", "the", "story", "of", "the", "kramers", "meeting", "kramer", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a california family",
+  "sentence_length" : 79,
+  "mentionArg2" : {
+    "extent" : "california",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E40-212",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_ENG_20030617_193116.10-R2",
+  "mentionArg1" : {
+    "extent" : "a california family",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E39-204",
+    "start" : 10,
+    "end" : 12
+  },
+  "id" : "CNN_ENG_20030617_193116.10-R2-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "more than a million babies awaiting adoption in china today. a california family is now bigger by one. tonight they 're welcoming little abby kramer in the world was anything but simple. her new mom and dad had to contend with international red tape , traveling thousands of miles to meet the new addition and cope with the sars crisis going on in china. their story is remarkable. thelma gutierrez telling the story of the kramers meeting kramer .",
+  "sentence_index" : 1,
+  "Tokens" : [ "more", "than", "a", "million", "babies", "awaiting", "adoption", "in", "china", "today.", "a", "california", "family", "is", "now", "bigger", "by", "one.", "tonight", "they", "'re", "welcoming", "little", "abby", "kramer", "in", "the", "world", "was", "anything", "but", "simple.", "her", "new", "mom", "and", "dad", "had", "to", "contend", "with", "international", "red", "tape", ",", "traveling", "thousands", "of", "miles", "to", "meet", "the", "new", "addition", "and", "cope", "with", "the", "sars", "crisis", "going", "on", "in", "china.", "their", "story", "is", "remarkable.", "thelma", "gutierrez", "telling", "the", "story", "of", "the", "kramers", "meeting", "kramer", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her new mom and dad",
+  "sentence_length" : 79,
+  "mentionArg2" : {
+    "extent" : "her new mom and dad",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E45-218",
+    "start" : 32,
+    "end" : 36
+  },
+  "relationID" : "CNN_ENG_20030617_193116.10-R3",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E43-217",
+    "start" : 32,
+    "end" : 32
+  },
+  "id" : "CNN_ENG_20030617_193116.10-R3-1",
+  "relationSubType" : "Family",
+  "Sentence" : "more than a million babies awaiting adoption in china today. a california family is now bigger by one. tonight they 're welcoming little abby kramer in the world was anything but simple. her new mom and dad had to contend with international red tape , traveling thousands of miles to meet the new addition and cope with the sars crisis going on in china. their story is remarkable. thelma gutierrez telling the story of the kramers meeting kramer .",
+  "sentence_index" : 1,
+  "Tokens" : [ "more", "than", "a", "million", "babies", "awaiting", "adoption", "in", "china", "today.", "a", "california", "family", "is", "now", "bigger", "by", "one.", "tonight", "they", "'re", "welcoming", "little", "abby", "kramer", "in", "the", "world", "was", "anything", "but", "simple.", "her", "new", "mom", "and", "dad", "had", "to", "contend", "with", "international", "red", "tape", ",", "traveling", "thousands", "of", "miles", "to", "meet", "the", "new", "addition", "and", "cope", "with", "the", "sars", "crisis", "going", "on", "in", "china.", "their", "story", "is", "remarkable.", "thelma", "gutierrez", "telling", "the", "story", "of", "the", "kramers", "meeting", "kramer", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "mark and denise are going to china to pick up a baby girl",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "china",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E30-6",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "CNN_ENG_20030617_193116.10-R4",
+  "mentionArg1" : {
+    "extent" : "mark",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E28-4",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "CNN_ENG_20030617_193116.10-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "reporter : mark and denise are going to china to pick up a baby girl. her new parents will call her abby .",
+  "sentence_index" : 4,
+  "Tokens" : [ "reporter", ":", "mark", "and", "denise", "are", "going", "to", "china", "to", "pick", "up", "a", "baby", "girl.", "her", "new", "parents", "will", "call", "her", "abby", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her new parents",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "her new parents",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E3-9",
+    "start" : 15,
+    "end" : 17
+  },
+  "relationID" : "CNN_ENG_20030617_193116.10-R5",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E43-8",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "CNN_ENG_20030617_193116.10-R5-1",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : mark and denise are going to china to pick up a baby girl. her new parents will call her abby .",
+  "sentence_index" : 4,
+  "Tokens" : [ "reporter", ":", "mark", "and", "denise", "are", "going", "to", "china", "to", "pick", "up", "a", "baby", "girl.", "her", "new", "parents", "will", "call", "her", "abby", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "our abigail",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E3-74",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "CNN_ENG_20030617_193116.10-R5",
+  "mentionArg1" : {
+    "extent" : "our abigail",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E43-73",
+    "start" : 14,
+    "end" : 15
+  },
+  "id" : "CNN_ENG_20030617_193116.10-R5-2",
+  "relationSubType" : "Family",
+  "Sentence" : "sod is the big day. we 're an hour and a half from getting our abigail .",
+  "sentence_index" : 21,
+  "Tokens" : [ "sod", "is", "the", "big", "day.", "we", "'re", "an", "hour", "and", "a", "half", "from", "getting", "our", "abigail", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their little girl",
+  "sentence_length" : 66,
+  "mentionArg2" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E3-83",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "CNN_ENG_20030617_193116.10-R5",
+  "mentionArg1" : {
+    "extent" : "their little girl",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E43-84",
+    "start" : 25,
+    "end" : 27
+  },
+  "id" : "CNN_ENG_20030617_193116.10-R5-3",
+  "relationSubType" : "Family",
+  "Sentence" : "i kind of leaned over and gave her a kiss on the forehead and she looked up and -- reporter : they know little about their little girl , found by the side of the road days after she was born. she spent most of her life in an orphannage. now abby has a new life in california with the kramers and their two kids .",
+  "sentence_index" : 24,
+  "Tokens" : [ "i", "kind", "of", "leaned", "over", "and", "gave", "her", "a", "kiss", "on", "the", "forehead", "and", "she", "looked", "up", "and", "--", "reporter", ":", "they", "know", "little", "about", "their", "little", "girl", ",", "found", "by", "the", "side", "of", "the", "road", "days", "after", "she", "was", "born.", "she", "spent", "most", "of", "her", "life", "in", "an", "orphannage.", "now", "abby", "has", "a", "new", "life", "in", "california", "with", "the", "kramers", "and", "their", "two", "kids", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the newest and cutest perhaps, member of their family",
+  "sentence_length" : 54,
+  "mentionArg2" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E3-112",
+    "start" : 32,
+    "end" : 32
+  },
+  "relationID" : "CNN_ENG_20030617_193116.10-R5",
+  "mentionArg1" : {
+    "extent" : "the newest and cutest perhaps, member of their family",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E43-111",
+    "start" : 24,
+    "end" : 33
+  },
+  "id" : "CNN_ENG_20030617_193116.10-R5-4",
+  "relationSubType" : "Family",
+  "Sentence" : "well , it is our turn to meet the kramers back in the u . s. after their journey to china to bring home the newest and cutest perhaps , member of their family , in los angeles , the proud parents of 11 mnth abigail kramer. thank you for being with us .",
+  "sentence_index" : 27,
+  "Tokens" : [ "well", ",", "it", "is", "our", "turn", "to", "meet", "the", "kramers", "back", "in", "the", "u", ".", "s.", "after", "their", "journey", "to", "china", "to", "bring", "home", "the", "newest", "and", "cutest", "perhaps", ",", "member", "of", "their", "family", ",", "in", "los", "angeles", ",", "the", "proud", "parents", "of", "11", "mnth", "abigail", "kramer.", "thank", "you", "for", "being", "with", "us", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the proud parents of 11 mnth abigail kramer",
+  "sentence_length" : 54,
+  "mentionArg2" : {
+    "extent" : "the proud parents of 11 mnth abigail kramer",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E3-114",
+    "start" : 39,
+    "end" : 46
+  },
+  "relationID" : "CNN_ENG_20030617_193116.10-R5",
+  "mentionArg1" : {
+    "extent" : "11 mnth abigail kramer",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E43-115",
+    "start" : 43,
+    "end" : 46
+  },
+  "id" : "CNN_ENG_20030617_193116.10-R5-5",
+  "relationSubType" : "Family",
+  "Sentence" : "well , it is our turn to meet the kramers back in the u . s. after their journey to china to bring home the newest and cutest perhaps , member of their family , in los angeles , the proud parents of 11 mnth abigail kramer. thank you for being with us .",
+  "sentence_index" : 27,
+  "Tokens" : [ "well", ",", "it", "is", "our", "turn", "to", "meet", "the", "kramers", "back", "in", "the", "u", ".", "s.", "after", "their", "journey", "to", "china", "to", "bring", "home", "the", "newest", "and", "cutest", "perhaps", ",", "member", "of", "their", "family", ",", "in", "los", "angeles", ",", "the", "proud", "parents", "of", "11", "mnth", "abigail", "kramer.", "thank", "you", "for", "being", "with", "us", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "they're heading to quinn joe",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "quinn joe",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E4-28",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "CNN_ENG_20030617_193116.10-R6",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E3-27",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "CNN_ENG_20030617_193116.10-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "reporter : still they have concerns. they 're heading to quinn joe .",
+  "sentence_index" : 9,
+  "Tokens" : [ "reporter", ":", "still", "they", "have", "concerns.", "they", "'re", "heading", "to", "quinn", "joe", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the people that gave birth to you",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "you",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E43-41",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_ENG_20030617_193116.10-R7",
+  "mentionArg1" : {
+    "extent" : "the people that gave birth to you",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E5-40",
+    "start" : 0,
+    "end" : 6
+  },
+  "id" : "CNN_ENG_20030617_193116.10-R7-1",
+  "relationSubType" : "Family",
+  "Sentence" : "the people that gave birth to you are not necessarily your mom and dad. they 're the ones that love you and care for you. we are .",
+  "sentence_index" : 12,
+  "Tokens" : [ "the", "people", "that", "gave", "birth", "to", "you", "are", "not", "necessarily", "your", "mom", "and", "dad.", "they", "'re", "the", "ones", "that", "love", "you", "and", "care", "for", "you.", "we", "are", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the kramers must wait and travel to another town for abby",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "another town",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E15-68",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "CNN_ENG_20030617_193116.10-R8",
+  "mentionArg1" : {
+    "extent" : "the kramers",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E3-67",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "CNN_ENG_20030617_193116.10-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "reporter : the kramers must wait and travel to another town for abby. on the next flight , passengers wear masks and their temperatures are taken for signs of sars .",
+  "sentence_index" : 20,
+  "Tokens" : [ "reporter", ":", "the", "kramers", "must", "wait", "and", "travel", "to", "another", "town", "for", "abby.", "on", "the", "next", "flight", ",", "passengers", "wear", "masks", "and", "their", "temperatures", "are", "taken", "for", "signs", "of", "sars", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their two kids",
+  "sentence_length" : 66,
+  "mentionArg2" : {
+    "extent" : "their two kids",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E20-94",
+    "start" : 62,
+    "end" : 64
+  },
+  "relationID" : "CNN_ENG_20030617_193116.10-R10",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E3-93",
+    "start" : 62,
+    "end" : 62
+  },
+  "id" : "CNN_ENG_20030617_193116.10-R10-1",
+  "relationSubType" : "Family",
+  "Sentence" : "i kind of leaned over and gave her a kiss on the forehead and she looked up and -- reporter : they know little about their little girl , found by the side of the road days after she was born. she spent most of her life in an orphannage. now abby has a new life in california with the kramers and their two kids .",
+  "sentence_index" : 24,
+  "Tokens" : [ "i", "kind", "of", "leaned", "over", "and", "gave", "her", "a", "kiss", "on", "the", "forehead", "and", "she", "looked", "up", "and", "--", "reporter", ":", "they", "know", "little", "about", "their", "little", "girl", ",", "found", "by", "the", "side", "of", "the", "road", "days", "after", "she", "was", "born.", "she", "spent", "most", "of", "her", "life", "in", "an", "orphannage.", "now", "abby", "has", "a", "new", "life", "in", "california", "with", "the", "kramers", "and", "their", "two", "kids", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "thelma gutierrez, cnn, los angeles",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "cnn",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E10-103",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_ENG_20030617_193116.10-R11",
+  "mentionArg1" : {
+    "extent" : "thelma gutierrez",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E48-101",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "CNN_ENG_20030617_193116.10-R11-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "reporter : thelma gutierrez , cnn , los angeles .",
+  "sentence_index" : 26,
+  "Tokens" : [ "reporter", ":", "thelma", "gutierrez", ",", "cnn", ",", "los", "angeles", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "thelma gutierrez, cnn, los angeles",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "los angeles",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E22-104",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "CNN_ENG_20030617_193116.10-R12",
+  "mentionArg1" : {
+    "extent" : "thelma gutierrez",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E48-101",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "CNN_ENG_20030617_193116.10-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "reporter : thelma gutierrez , cnn , los angeles .",
+  "sentence_index" : 26,
+  "Tokens" : [ "reporter", ":", "thelma", "gutierrez", ",", "cnn", ",", "los", "angeles", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the hotel room",
+  "sentence_length" : 68,
+  "mentionArg2" : {
+    "extent" : "hotel",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E31-153",
+    "start" : 50,
+    "end" : 50
+  },
+  "relationID" : "CNN_ENG_20030617_193116.10-R14",
+  "mentionArg1" : {
+    "extent" : "the hotel room",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E29-152",
+    "start" : 49,
+    "end" : 51
+  },
+  "id" : "CNN_ENG_20030617_193116.10-R14-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "yes , this was probably her first experience ever seeing a fair- skinned , bearded goatee , monster looking guy and she just freaked out the first time she saw me. it took about a day and a half for her to warm up. i had to hide in the hotel room. she would find me in the room and start crying every time she saw me .",
+  "sentence_index" : 34,
+  "Tokens" : [ "yes", ",", "this", "was", "probably", "her", "first", "experience", "ever", "seeing", "a", "fair-", "skinned", ",", "bearded", "goatee", ",", "monster", "looking", "guy", "and", "she", "just", "freaked", "out", "the", "first", "time", "she", "saw", "me.", "it", "took", "about", "a", "day", "and", "a", "half", "for", "her", "to", "warm", "up.", "i", "had", "to", "hide", "in", "the", "hotel", "room.", "she", "would", "find", "me", "in", "the", "room", "and", "start", "crying", "every", "time", "she", "saw", "me", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the hotel room",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "hotel",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E31-161",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_ENG_20030617_193116.10-R14",
+  "mentionArg1" : {
+    "extent" : "the hotel room",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E29-160",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "CNN_ENG_20030617_193116.10-R14-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "you had to hide in the hotel room ?",
+  "sentence_index" : 35,
+  "Tokens" : [ "you", "had", "to", "hide", "in", "the", "hotel", "room", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "she would find me in the room and start crying every time she saw me",
+  "sentence_length" : 68,
+  "mentionArg2" : {
+    "extent" : "the room",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E29-156",
+    "start" : 57,
+    "end" : 58
+  },
+  "relationID" : "CNN_ENG_20030617_193116.10-R15",
+  "mentionArg1" : {
+    "extent" : "me",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E28-155",
+    "start" : 55,
+    "end" : 55
+  },
+  "id" : "CNN_ENG_20030617_193116.10-R15-1",
+  "relationSubType" : "Located",
+  "Sentence" : "yes , this was probably her first experience ever seeing a fair- skinned , bearded goatee , monster looking guy and she just freaked out the first time she saw me. it took about a day and a half for her to warm up. i had to hide in the hotel room. she would find me in the room and start crying every time she saw me .",
+  "sentence_index" : 34,
+  "Tokens" : [ "yes", ",", "this", "was", "probably", "her", "first", "experience", "ever", "seeing", "a", "fair-", "skinned", ",", "bearded", "goatee", ",", "monster", "looking", "guy", "and", "she", "just", "freaked", "out", "the", "first", "time", "she", "saw", "me.", "it", "took", "about", "a", "day", "and", "a", "half", "for", "her", "to", "warm", "up.", "i", "had", "to", "hide", "in", "the", "hotel", "room.", "she", "would", "find", "me", "in", "the", "room", "and", "start", "crying", "every", "time", "she", "saw", "me", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the side of the road",
+  "sentence_length" : 82,
+  "mentionArg2" : {
+    "extent" : "the road",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E19-192",
+    "start" : 40,
+    "end" : 41
+  },
+  "relationID" : "CNN_ENG_20030617_193116.10-R16",
+  "mentionArg1" : {
+    "extent" : "the side of the road",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E18-191",
+    "start" : 37,
+    "end" : 41
+  },
+  "id" : "CNN_ENG_20030617_193116.10-R16-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "you know , mark , i hope this is n't too personal a question. if it is , just simply tell me to shut up. but when -- in the story i saw abby was abandoned on the side of the road , which is just -- it 's unthinkable. you ca n't even imagine a parent doing that. what do you think you 're going to tell her when she grows up about how she came to live with you ?",
+  "sentence_index" : 41,
+  "Tokens" : [ "you", "know", ",", "mark", ",", "i", "hope", "this", "is", "n't", "too", "personal", "a", "question.", "if", "it", "is", ",", "just", "simply", "tell", "me", "to", "shut", "up.", "but", "when", "--", "in", "the", "story", "i", "saw", "abby", "was", "abandoned", "on", "the", "side", "of", "the", "road", ",", "which", "is", "just", "--", "it", "'s", "unthinkable.", "you", "ca", "n't", "even", "imagine", "a", "parent", "doing", "that.", "what", "do", "you", "think", "you", "'re", "going", "to", "tell", "her", "when", "she", "grows", "up", "about", "how", "she", "came", "to", "live", "with", "you", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her new mom and dad",
+  "sentence_length" : 79,
+  "mentionArg2" : {
+    "extent" : "her new mom and dad",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E28-219",
+    "start" : 32,
+    "end" : 36
+  },
+  "relationID" : "CNN_ENG_20030617_193116.10-R17",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E43-217",
+    "start" : 32,
+    "end" : 32
+  },
+  "id" : "CNN_ENG_20030617_193116.10-R17-1",
+  "relationSubType" : "Family",
+  "Sentence" : "more than a million babies awaiting adoption in china today. a california family is now bigger by one. tonight they 're welcoming little abby kramer in the world was anything but simple. her new mom and dad had to contend with international red tape , traveling thousands of miles to meet the new addition and cope with the sars crisis going on in china. their story is remarkable. thelma gutierrez telling the story of the kramers meeting kramer .",
+  "sentence_index" : 1,
+  "Tokens" : [ "more", "than", "a", "million", "babies", "awaiting", "adoption", "in", "china", "today.", "a", "california", "family", "is", "now", "bigger", "by", "one.", "tonight", "they", "'re", "welcoming", "little", "abby", "kramer", "in", "the", "world", "was", "anything", "but", "simple.", "her", "new", "mom", "and", "dad", "had", "to", "contend", "with", "international", "red", "tape", ",", "traveling", "thousands", "of", "miles", "to", "meet", "the", "new", "addition", "and", "cope", "with", "the", "sars", "crisis", "going", "on", "in", "china.", "their", "story", "is", "remarkable.", "thelma", "gutierrez", "telling", "the", "story", "of", "the", "kramers", "meeting", "kramer", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "mark and denise are going to china to pick up a baby girl",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "china",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E30-6",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "CNN_ENG_20030617_193116.10-R18",
+  "mentionArg1" : {
+    "extent" : "denise",
+    "argMentionid" : "CNN_ENG_20030617_193116.10-E45-5",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "CNN_ENG_20030617_193116.10-R18-1",
+  "relationSubType" : "Located",
+  "Sentence" : "reporter : mark and denise are going to china to pick up a baby girl. her new parents will call her abby .",
+  "sentence_index" : 4,
+  "Tokens" : [ "reporter", ":", "mark", "and", "denise", "are", "going", "to", "china", "to", "pick", "up", "a", "baby", "girl.", "her", "new", "parents", "will", "call", "her", "abby", "." ]
+} ]

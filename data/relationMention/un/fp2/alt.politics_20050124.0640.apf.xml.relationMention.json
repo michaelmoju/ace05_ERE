@@ -1,0 +1,507 @@
+[ {
+  "relationType" : "ART",
+  "extent" : "America's biggest-in-the-world stockpile of chemical and biological weapons",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "America's biggest-in-the-world stockpile of chemical and biological weapons",
+    "argMentionid" : "alt.politics_20050124.0640-E41-58",
+    "start" : 41,
+    "end" : 49
+  },
+  "relationID" : "alt.politics_20050124.0640-R1",
+  "mentionArg1" : {
+    "extent" : "America",
+    "argMentionid" : "alt.politics_20050124.0640-E45-61",
+    "start" : 41,
+    "end" : 41
+  },
+  "id" : "alt.politics_20050124.0640-R1-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Bush administration quietly stops destroying chemical and biological weapons J Mon , 24 Jan 2005 05:40:37 - 0600 Bush administration quietly stops destroying chemical and biological weapons Unnoticed by anyone else , the Bush administration has quietly ditched programs to destroy America 's biggest-in-the-world stockpile of chemical and biological weapons .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Bush", "administration", "quietly", "stops", "destroying", "chemical", "and", "biological", "weapons", "J", "Mon", ",", "24", "Jan", "2005", "05:40:37", "-", "0600", "Bush", "administration", "quietly", "stops", "destroying", "chemical", "and", "biological", "weapons", "Unnoticed", "by", "anyone", "else", ",", "the", "Bush", "administration", "has", "quietly", "ditched", "programs", "to", "destroy", "America", "'s", "biggest-in-the-world", "stockpile", "of", "chemical", "and", "biological", "weapons", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Eight places in the US",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the US",
+    "argMentionid" : "alt.politics_20050124.0640-E45-64",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "alt.politics_20050124.0640-R2",
+  "mentionArg1" : {
+    "extent" : "Eight places in the US",
+    "argMentionid" : "alt.politics_20050124.0640-E47-63",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "alt.politics_20050124.0640-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Eight places in the US are used to stockpile chemical weapons -- including blister agents , riot agents , and the dreaded nerve agents .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Eight", "places", "in", "the", "US", "are", "used", "to", "stockpile", "chemical", "weapons", "--", "including", "blister", "agents", ",", "riot", "agents", ",", "and", "the", "dreaded", "nerve", "agents", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Anniston Army Depot, Anniston, AL",
+  "sentence_length" : 71,
+  "mentionArg2" : {
+    "extent" : "Anniston, AL",
+    "argMentionid" : "alt.politics_20050124.0640-E6-10",
+    "start" : 9,
+    "end" : 11
+  },
+  "relationID" : "alt.politics_20050124.0640-R3",
+  "mentionArg1" : {
+    "extent" : "Anniston Army Depot",
+    "argMentionid" : "alt.politics_20050124.0640-E5-9",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "alt.politics_20050124.0640-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Storage locations include : -- Anniston Army Depot , Anniston , AL -- Rocky Mountain Arsenal , Pueblo , CO -- Bluegrass Army Depot , Lexington , KY -- Aberdeen Proving Grounds , MD -- Toelle Army Depot , Toelle , UT ( the granddaddy of them all ) Destruction is underway in Anniston where the Dept of Defense built and is operating an incinerator to burn weapons located there .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Storage", "locations", "include", ":", "--", "Anniston", "Army", "Depot", ",", "Anniston", ",", "AL", "--", "Rocky", "Mountain", "Arsenal", ",", "Pueblo", ",", "CO", "--", "Bluegrass", "Army", "Depot", ",", "Lexington", ",", "KY", "--", "Aberdeen", "Proving", "Grounds", ",", "MD", "--", "Toelle", "Army", "Depot", ",", "Toelle", ",", "UT", "(", "the", "granddaddy", "of", "them", "all", ")", "Destruction", "is", "underway", "in", "Anniston", "where", "the", "Dept", "of", "Defense", "built", "and", "is", "operating", "an", "incinerator", "to", "burn", "weapons", "located", "there", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Anniston, AL",
+  "sentence_length" : 71,
+  "mentionArg2" : {
+    "extent" : "AL",
+    "argMentionid" : "alt.politics_20050124.0640-E7-11",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "alt.politics_20050124.0640-R4",
+  "mentionArg1" : {
+    "extent" : "Anniston, AL",
+    "argMentionid" : "alt.politics_20050124.0640-E6-10",
+    "start" : 9,
+    "end" : 11
+  },
+  "id" : "alt.politics_20050124.0640-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Storage locations include : -- Anniston Army Depot , Anniston , AL -- Rocky Mountain Arsenal , Pueblo , CO -- Bluegrass Army Depot , Lexington , KY -- Aberdeen Proving Grounds , MD -- Toelle Army Depot , Toelle , UT ( the granddaddy of them all ) Destruction is underway in Anniston where the Dept of Defense built and is operating an incinerator to burn weapons located there .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Storage", "locations", "include", ":", "--", "Anniston", "Army", "Depot", ",", "Anniston", ",", "AL", "--", "Rocky", "Mountain", "Arsenal", ",", "Pueblo", ",", "CO", "--", "Bluegrass", "Army", "Depot", ",", "Lexington", ",", "KY", "--", "Aberdeen", "Proving", "Grounds", ",", "MD", "--", "Toelle", "Army", "Depot", ",", "Toelle", ",", "UT", "(", "the", "granddaddy", "of", "them", "all", ")", "Destruction", "is", "underway", "in", "Anniston", "where", "the", "Dept", "of", "Defense", "built", "and", "is", "operating", "an", "incinerator", "to", "burn", "weapons", "located", "there", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Rocky Mountain Arsenal, Pueblo, CO",
+  "sentence_length" : 71,
+  "mentionArg2" : {
+    "extent" : "Pueblo, CO",
+    "argMentionid" : "alt.politics_20050124.0640-E8-12",
+    "start" : 17,
+    "end" : 19
+  },
+  "relationID" : "alt.politics_20050124.0640-R5",
+  "mentionArg1" : {
+    "extent" : "Rocky Mountain Arsenal",
+    "argMentionid" : "alt.politics_20050124.0640-E10-14",
+    "start" : 13,
+    "end" : 15
+  },
+  "id" : "alt.politics_20050124.0640-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Storage locations include : -- Anniston Army Depot , Anniston , AL -- Rocky Mountain Arsenal , Pueblo , CO -- Bluegrass Army Depot , Lexington , KY -- Aberdeen Proving Grounds , MD -- Toelle Army Depot , Toelle , UT ( the granddaddy of them all ) Destruction is underway in Anniston where the Dept of Defense built and is operating an incinerator to burn weapons located there .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Storage", "locations", "include", ":", "--", "Anniston", "Army", "Depot", ",", "Anniston", ",", "AL", "--", "Rocky", "Mountain", "Arsenal", ",", "Pueblo", ",", "CO", "--", "Bluegrass", "Army", "Depot", ",", "Lexington", ",", "KY", "--", "Aberdeen", "Proving", "Grounds", ",", "MD", "--", "Toelle", "Army", "Depot", ",", "Toelle", ",", "UT", "(", "the", "granddaddy", "of", "them", "all", ")", "Destruction", "is", "underway", "in", "Anniston", "where", "the", "Dept", "of", "Defense", "built", "and", "is", "operating", "an", "incinerator", "to", "burn", "weapons", "located", "there", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Pueblo, CO",
+  "sentence_length" : 71,
+  "mentionArg2" : {
+    "extent" : "CO",
+    "argMentionid" : "alt.politics_20050124.0640-E9-13",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "alt.politics_20050124.0640-R6",
+  "mentionArg1" : {
+    "extent" : "Pueblo, CO",
+    "argMentionid" : "alt.politics_20050124.0640-E8-12",
+    "start" : 17,
+    "end" : 19
+  },
+  "id" : "alt.politics_20050124.0640-R6-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Storage locations include : -- Anniston Army Depot , Anniston , AL -- Rocky Mountain Arsenal , Pueblo , CO -- Bluegrass Army Depot , Lexington , KY -- Aberdeen Proving Grounds , MD -- Toelle Army Depot , Toelle , UT ( the granddaddy of them all ) Destruction is underway in Anniston where the Dept of Defense built and is operating an incinerator to burn weapons located there .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Storage", "locations", "include", ":", "--", "Anniston", "Army", "Depot", ",", "Anniston", ",", "AL", "--", "Rocky", "Mountain", "Arsenal", ",", "Pueblo", ",", "CO", "--", "Bluegrass", "Army", "Depot", ",", "Lexington", ",", "KY", "--", "Aberdeen", "Proving", "Grounds", ",", "MD", "--", "Toelle", "Army", "Depot", ",", "Toelle", ",", "UT", "(", "the", "granddaddy", "of", "them", "all", ")", "Destruction", "is", "underway", "in", "Anniston", "where", "the", "Dept", "of", "Defense", "built", "and", "is", "operating", "an", "incinerator", "to", "burn", "weapons", "located", "there", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Bluegrass Army Depot, Lexington, KY",
+  "sentence_length" : 71,
+  "mentionArg2" : {
+    "extent" : "Lexington, KY",
+    "argMentionid" : "alt.politics_20050124.0640-E12-16",
+    "start" : 25,
+    "end" : 27
+  },
+  "relationID" : "alt.politics_20050124.0640-R7",
+  "mentionArg1" : {
+    "extent" : "Bluegrass Army Depot",
+    "argMentionid" : "alt.politics_20050124.0640-E11-15",
+    "start" : 21,
+    "end" : 23
+  },
+  "id" : "alt.politics_20050124.0640-R7-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Storage locations include : -- Anniston Army Depot , Anniston , AL -- Rocky Mountain Arsenal , Pueblo , CO -- Bluegrass Army Depot , Lexington , KY -- Aberdeen Proving Grounds , MD -- Toelle Army Depot , Toelle , UT ( the granddaddy of them all ) Destruction is underway in Anniston where the Dept of Defense built and is operating an incinerator to burn weapons located there .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Storage", "locations", "include", ":", "--", "Anniston", "Army", "Depot", ",", "Anniston", ",", "AL", "--", "Rocky", "Mountain", "Arsenal", ",", "Pueblo", ",", "CO", "--", "Bluegrass", "Army", "Depot", ",", "Lexington", ",", "KY", "--", "Aberdeen", "Proving", "Grounds", ",", "MD", "--", "Toelle", "Army", "Depot", ",", "Toelle", ",", "UT", "(", "the", "granddaddy", "of", "them", "all", ")", "Destruction", "is", "underway", "in", "Anniston", "where", "the", "Dept", "of", "Defense", "built", "and", "is", "operating", "an", "incinerator", "to", "burn", "weapons", "located", "there", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Lexington, KY",
+  "sentence_length" : 71,
+  "mentionArg2" : {
+    "extent" : "KY",
+    "argMentionid" : "alt.politics_20050124.0640-E13-17",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "alt.politics_20050124.0640-R8",
+  "mentionArg1" : {
+    "extent" : "Lexington, KY",
+    "argMentionid" : "alt.politics_20050124.0640-E12-16",
+    "start" : 25,
+    "end" : 27
+  },
+  "id" : "alt.politics_20050124.0640-R8-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Storage locations include : -- Anniston Army Depot , Anniston , AL -- Rocky Mountain Arsenal , Pueblo , CO -- Bluegrass Army Depot , Lexington , KY -- Aberdeen Proving Grounds , MD -- Toelle Army Depot , Toelle , UT ( the granddaddy of them all ) Destruction is underway in Anniston where the Dept of Defense built and is operating an incinerator to burn weapons located there .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Storage", "locations", "include", ":", "--", "Anniston", "Army", "Depot", ",", "Anniston", ",", "AL", "--", "Rocky", "Mountain", "Arsenal", ",", "Pueblo", ",", "CO", "--", "Bluegrass", "Army", "Depot", ",", "Lexington", ",", "KY", "--", "Aberdeen", "Proving", "Grounds", ",", "MD", "--", "Toelle", "Army", "Depot", ",", "Toelle", ",", "UT", "(", "the", "granddaddy", "of", "them", "all", ")", "Destruction", "is", "underway", "in", "Anniston", "where", "the", "Dept", "of", "Defense", "built", "and", "is", "operating", "an", "incinerator", "to", "burn", "weapons", "located", "there", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Aberdeen Proving Grounds, MD",
+  "sentence_length" : 71,
+  "mentionArg2" : {
+    "extent" : "MD",
+    "argMentionid" : "alt.politics_20050124.0640-E15-19",
+    "start" : 33,
+    "end" : 33
+  },
+  "relationID" : "alt.politics_20050124.0640-R9",
+  "mentionArg1" : {
+    "extent" : "Aberdeen Proving Grounds",
+    "argMentionid" : "alt.politics_20050124.0640-E14-18",
+    "start" : 29,
+    "end" : 31
+  },
+  "id" : "alt.politics_20050124.0640-R9-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Storage locations include : -- Anniston Army Depot , Anniston , AL -- Rocky Mountain Arsenal , Pueblo , CO -- Bluegrass Army Depot , Lexington , KY -- Aberdeen Proving Grounds , MD -- Toelle Army Depot , Toelle , UT ( the granddaddy of them all ) Destruction is underway in Anniston where the Dept of Defense built and is operating an incinerator to burn weapons located there .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Storage", "locations", "include", ":", "--", "Anniston", "Army", "Depot", ",", "Anniston", ",", "AL", "--", "Rocky", "Mountain", "Arsenal", ",", "Pueblo", ",", "CO", "--", "Bluegrass", "Army", "Depot", ",", "Lexington", ",", "KY", "--", "Aberdeen", "Proving", "Grounds", ",", "MD", "--", "Toelle", "Army", "Depot", ",", "Toelle", ",", "UT", "(", "the", "granddaddy", "of", "them", "all", ")", "Destruction", "is", "underway", "in", "Anniston", "where", "the", "Dept", "of", "Defense", "built", "and", "is", "operating", "an", "incinerator", "to", "burn", "weapons", "located", "there", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Toelle Army Depot, Toelle, UT",
+  "sentence_length" : 71,
+  "mentionArg2" : {
+    "extent" : "Toelle, UT",
+    "argMentionid" : "alt.politics_20050124.0640-E17-21",
+    "start" : 39,
+    "end" : 41
+  },
+  "relationID" : "alt.politics_20050124.0640-R10",
+  "mentionArg1" : {
+    "extent" : "Toelle Army Depot",
+    "argMentionid" : "alt.politics_20050124.0640-E16-20",
+    "start" : 35,
+    "end" : 37
+  },
+  "id" : "alt.politics_20050124.0640-R10-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Storage locations include : -- Anniston Army Depot , Anniston , AL -- Rocky Mountain Arsenal , Pueblo , CO -- Bluegrass Army Depot , Lexington , KY -- Aberdeen Proving Grounds , MD -- Toelle Army Depot , Toelle , UT ( the granddaddy of them all ) Destruction is underway in Anniston where the Dept of Defense built and is operating an incinerator to burn weapons located there .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Storage", "locations", "include", ":", "--", "Anniston", "Army", "Depot", ",", "Anniston", ",", "AL", "--", "Rocky", "Mountain", "Arsenal", ",", "Pueblo", ",", "CO", "--", "Bluegrass", "Army", "Depot", ",", "Lexington", ",", "KY", "--", "Aberdeen", "Proving", "Grounds", ",", "MD", "--", "Toelle", "Army", "Depot", ",", "Toelle", ",", "UT", "(", "the", "granddaddy", "of", "them", "all", ")", "Destruction", "is", "underway", "in", "Anniston", "where", "the", "Dept", "of", "Defense", "built", "and", "is", "operating", "an", "incinerator", "to", "burn", "weapons", "located", "there", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Toelle, UT",
+  "sentence_length" : 71,
+  "mentionArg2" : {
+    "extent" : "UT",
+    "argMentionid" : "alt.politics_20050124.0640-E18-22",
+    "start" : 41,
+    "end" : 41
+  },
+  "relationID" : "alt.politics_20050124.0640-R11",
+  "mentionArg1" : {
+    "extent" : "Toelle, UT",
+    "argMentionid" : "alt.politics_20050124.0640-E17-21",
+    "start" : 39,
+    "end" : 41
+  },
+  "id" : "alt.politics_20050124.0640-R11-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Storage locations include : -- Anniston Army Depot , Anniston , AL -- Rocky Mountain Arsenal , Pueblo , CO -- Bluegrass Army Depot , Lexington , KY -- Aberdeen Proving Grounds , MD -- Toelle Army Depot , Toelle , UT ( the granddaddy of them all ) Destruction is underway in Anniston where the Dept of Defense built and is operating an incinerator to burn weapons located there .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Storage", "locations", "include", ":", "--", "Anniston", "Army", "Depot", ",", "Anniston", ",", "AL", "--", "Rocky", "Mountain", "Arsenal", ",", "Pueblo", ",", "CO", "--", "Bluegrass", "Army", "Depot", ",", "Lexington", ",", "KY", "--", "Aberdeen", "Proving", "Grounds", ",", "MD", "--", "Toelle", "Army", "Depot", ",", "Toelle", ",", "UT", "(", "the", "granddaddy", "of", "them", "all", ")", "Destruction", "is", "underway", "in", "Anniston", "where", "the", "Dept", "of", "Defense", "built", "and", "is", "operating", "an", "incinerator", "to", "burn", "weapons", "located", "there", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Destruction is underway in Anniston where the Dept of Defense built and is operating an incinerator to burn weapons located there",
+  "sentence_length" : 71,
+  "mentionArg2" : {
+    "extent" : "weapons located there",
+    "argMentionid" : "alt.politics_20050124.0640-E21-28",
+    "start" : 67,
+    "end" : 69
+  },
+  "relationID" : "alt.politics_20050124.0640-R12",
+  "mentionArg1" : {
+    "extent" : "the Dept of Defense",
+    "argMentionid" : "alt.politics_20050124.0640-E20-27",
+    "start" : 55,
+    "end" : 58
+  },
+  "id" : "alt.politics_20050124.0640-R12-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Storage locations include : -- Anniston Army Depot , Anniston , AL -- Rocky Mountain Arsenal , Pueblo , CO -- Bluegrass Army Depot , Lexington , KY -- Aberdeen Proving Grounds , MD -- Toelle Army Depot , Toelle , UT ( the granddaddy of them all ) Destruction is underway in Anniston where the Dept of Defense built and is operating an incinerator to burn weapons located there .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Storage", "locations", "include", ":", "--", "Anniston", "Army", "Depot", ",", "Anniston", ",", "AL", "--", "Rocky", "Mountain", "Arsenal", ",", "Pueblo", ",", "CO", "--", "Bluegrass", "Army", "Depot", ",", "Lexington", ",", "KY", "--", "Aberdeen", "Proving", "Grounds", ",", "MD", "--", "Toelle", "Army", "Depot", ",", "Toelle", ",", "UT", "(", "the", "granddaddy", "of", "them", "all", ")", "Destruction", "is", "underway", "in", "Anniston", "where", "the", "Dept", "of", "Defense", "built", "and", "is", "operating", "an", "incinerator", "to", "burn", "weapons", "located", "there", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the Bush junta",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Bush",
+    "argMentionid" : "alt.politics_20050124.0640-E24-31",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "alt.politics_20050124.0640-R13",
+  "mentionArg1" : {
+    "extent" : "the Bush junta",
+    "argMentionid" : "alt.politics_20050124.0640-E23-30",
+    "start" : 13,
+    "end" : 15
+  },
+  "id" : "alt.politics_20050124.0640-R13-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Plans were underway to build destruction facilities at all other locations but now the Bush junta has removed from its proposed defense budget for fiscal year 2006 all but the minimum funding for these destruction projects .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Plans", "were", "underway", "to", "build", "destruction", "facilities", "at", "all", "other", "locations", "but", "now", "the", "Bush", "junta", "has", "removed", "from", "its", "proposed", "defense", "budget", "for", "fiscal", "year", "2006", "all", "but", "the", "minimum", "funding", "for", "these", "destruction", "projects", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "their people",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "their",
+    "argMentionid" : "alt.politics_20050124.0640-E27-39",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "alt.politics_20050124.0640-R14",
+  "mentionArg1" : {
+    "extent" : "their people",
+    "argMentionid" : "alt.politics_20050124.0640-E30-38",
+    "start" : 21,
+    "end" : 22
+  },
+  "id" : "alt.politics_20050124.0640-R14-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Contractors ( Bechtel was the main contractor ) have been told to stop all design and construction work and the re-assign their people -- the destruction programs are dead . ) Can anyone spell \" W. M. D. \" ?",
+  "sentence_index" : 6,
+  "Tokens" : [ "Contractors", "(", "Bechtel", "was", "the", "main", "contractor", ")", "have", "been", "told", "to", "stop", "all", "design", "and", "construction", "work", "and", "the", "re-assign", "their", "people", "--", "the", "destruction", "programs", "are", "dead", ".", ")", "Can", "anyone", "spell", "\"", "W.", "M.", "D.", "\"", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "which nation in the world",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "the world",
+    "argMentionid" : "alt.politics_20050124.0640-E46-44",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "alt.politics_20050124.0640-R15",
+  "mentionArg1" : {
+    "extent" : "which nation in the world",
+    "argMentionid" : "alt.politics_20050124.0640-E33-43",
+    "start" : 4,
+    "end" : 8
+  },
+  "id" : "alt.politics_20050124.0640-R15-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Can anyone tell me which nation in the world owns the most WMD ?",
+  "sentence_index" : 7,
+  "Tokens" : [ "Can", "anyone", "tell", "me", "which", "nation", "in", "the", "world", "owns", "the", "most", "WMD", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Can anyone tell me which nation in the world owns the most WMD",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "the most WMD",
+    "argMentionid" : "alt.politics_20050124.0640-E34-46",
+    "start" : 10,
+    "end" : 12
+  },
+  "relationID" : "alt.politics_20050124.0640-R16",
+  "mentionArg1" : {
+    "extent" : "which nation in the world",
+    "argMentionid" : "alt.politics_20050124.0640-E33-43",
+    "start" : 4,
+    "end" : 8
+  },
+  "id" : "alt.politics_20050124.0640-R16-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Can anyone tell me which nation in the world owns the most WMD ?",
+  "sentence_index" : 7,
+  "Tokens" : [ "Can", "anyone", "tell", "me", "which", "nation", "in", "the", "world", "owns", "the", "most", "WMD", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "You don't suppose they have stopped destroying these weapons because they plan to use them",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "these weapons",
+    "argMentionid" : "alt.politics_20050124.0640-E21-54",
+    "start" : 33,
+    "end" : 34
+  },
+  "relationID" : "alt.politics_20050124.0640-R17",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "alt.politics_20050124.0640-E40-53",
+    "start" : 29,
+    "end" : 29
+  },
+  "id" : "alt.politics_20050124.0640-R17-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "( Hint : It 's neither Iraq , Iran , nor North Korea -- none of the famous \" Axis of Evil . \" ) You do n't suppose they have stopped destroying these weapons because they plan to use them ?",
+  "sentence_index" : 8,
+  "Tokens" : [ "(", "Hint", ":", "It", "'s", "neither", "Iraq", ",", "Iran", ",", "nor", "North", "Korea", "--", "none", "of", "the", "famous", "\"", "Axis", "of", "Evil", ".", "\"", ")", "You", "do", "n't", "suppose", "they", "have", "stopped", "destroying", "these", "weapons", "because", "they", "plan", "to", "use", "them", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "You don't suppose they have stopped destroying these weapons because they plan to use them",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "them",
+    "argMentionid" : "alt.politics_20050124.0640-E21-56",
+    "start" : 40,
+    "end" : 40
+  },
+  "relationID" : "alt.politics_20050124.0640-R17",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "alt.politics_20050124.0640-E40-55",
+    "start" : 36,
+    "end" : 36
+  },
+  "id" : "alt.politics_20050124.0640-R17-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "( Hint : It 's neither Iraq , Iran , nor North Korea -- none of the famous \" Axis of Evil . \" ) You do n't suppose they have stopped destroying these weapons because they plan to use them ?",
+  "sentence_index" : 8,
+  "Tokens" : [ "(", "Hint", ":", "It", "'s", "neither", "Iraq", ",", "Iran", ",", "nor", "North", "Korea", "--", "none", "of", "the", "famous", "\"", "Axis", "of", "Evil", ".", "\"", ")", "You", "do", "n't", "suppose", "they", "have", "stopped", "destroying", "these", "weapons", "because", "they", "plan", "to", "use", "them", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "North Korea -- none of the famous \"Axis of Evil",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "none of the famous \"Axis of Evil",
+    "argMentionid" : "alt.politics_20050124.0640-E38-51",
+    "start" : 14,
+    "end" : 21
+  },
+  "relationID" : "alt.politics_20050124.0640-R19",
+  "mentionArg1" : {
+    "extent" : "North Korea",
+    "argMentionid" : "alt.politics_20050124.0640-E37-50",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "alt.politics_20050124.0640-R19-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "( Hint : It 's neither Iraq , Iran , nor North Korea -- none of the famous \" Axis of Evil . \" ) You do n't suppose they have stopped destroying these weapons because they plan to use them ?",
+  "sentence_index" : 8,
+  "Tokens" : [ "(", "Hint", ":", "It", "'s", "neither", "Iraq", ",", "Iran", ",", "nor", "North", "Korea", "--", "none", "of", "the", "famous", "\"", "Axis", "of", "Evil", ".", "\"", ")", "You", "do", "n't", "suppose", "they", "have", "stopped", "destroying", "these", "weapons", "because", "they", "plan", "to", "use", "them", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Iran, nor North Korea -- none of the famous \"Axis of Evil",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "none of the famous \"Axis of Evil",
+    "argMentionid" : "alt.politics_20050124.0640-E38-51",
+    "start" : 14,
+    "end" : 21
+  },
+  "relationID" : "alt.politics_20050124.0640-R20",
+  "mentionArg1" : {
+    "extent" : "Iran",
+    "argMentionid" : "alt.politics_20050124.0640-E36-49",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "alt.politics_20050124.0640-R20-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "( Hint : It 's neither Iraq , Iran , nor North Korea -- none of the famous \" Axis of Evil . \" ) You do n't suppose they have stopped destroying these weapons because they plan to use them ?",
+  "sentence_index" : 8,
+  "Tokens" : [ "(", "Hint", ":", "It", "'s", "neither", "Iraq", ",", "Iran", ",", "nor", "North", "Korea", "--", "none", "of", "the", "famous", "\"", "Axis", "of", "Evil", ".", "\"", ")", "You", "do", "n't", "suppose", "they", "have", "stopped", "destroying", "these", "weapons", "because", "they", "plan", "to", "use", "them", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Iraq, Iran, nor North Korea -- none of the famous \"Axis of Evil",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "none of the famous \"Axis of Evil",
+    "argMentionid" : "alt.politics_20050124.0640-E38-51",
+    "start" : 14,
+    "end" : 21
+  },
+  "relationID" : "alt.politics_20050124.0640-R21",
+  "mentionArg1" : {
+    "extent" : "Iraq",
+    "argMentionid" : "alt.politics_20050124.0640-E35-48",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "alt.politics_20050124.0640-R21-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "( Hint : It 's neither Iraq , Iran , nor North Korea -- none of the famous \" Axis of Evil . \" ) You do n't suppose they have stopped destroying these weapons because they plan to use them ?",
+  "sentence_index" : 8,
+  "Tokens" : [ "(", "Hint", ":", "It", "'s", "neither", "Iraq", ",", "Iran", ",", "nor", "North", "Korea", "--", "none", "of", "the", "famous", "\"", "Axis", "of", "Evil", ".", "\"", ")", "You", "do", "n't", "suppose", "they", "have", "stopped", "destroying", "these", "weapons", "because", "they", "plan", "to", "use", "them", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Unnoticed by anyone else, the Bush administration has quietly ditched programs to destroy America's biggest-in-the-world stockpile of chemical and biological weapons",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "the-world",
+    "argMentionid" : "alt.politics_20050124.0640-E46-62",
+    "start" : 43,
+    "end" : 43
+  },
+  "relationID" : "alt.politics_20050124.0640-R22",
+  "mentionArg1" : {
+    "extent" : "America",
+    "argMentionid" : "alt.politics_20050124.0640-E45-61",
+    "start" : 41,
+    "end" : 41
+  },
+  "id" : "alt.politics_20050124.0640-R22-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Bush administration quietly stops destroying chemical and biological weapons J Mon , 24 Jan 2005 05:40:37 - 0600 Bush administration quietly stops destroying chemical and biological weapons Unnoticed by anyone else , the Bush administration has quietly ditched programs to destroy America 's biggest-in-the-world stockpile of chemical and biological weapons .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Bush", "administration", "quietly", "stops", "destroying", "chemical", "and", "biological", "weapons", "J", "Mon", ",", "24", "Jan", "2005", "05:40:37", "-", "0600", "Bush", "administration", "quietly", "stops", "destroying", "chemical", "and", "biological", "weapons", "Unnoticed", "by", "anyone", "else", ",", "the", "Bush", "administration", "has", "quietly", "ditched", "programs", "to", "destroy", "America", "'s", "biggest-in-the-world", "stockpile", "of", "chemical", "and", "biological", "weapons", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Unnoticed by anyone else, the Bush administration has quietly ditched programs to destroy America's biggest-in-the-world stockpile of chemical and biological weapons",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "America's biggest-in-the-world stockpile of chemical and biological weapons",
+    "argMentionid" : "alt.politics_20050124.0640-E41-58",
+    "start" : 41,
+    "end" : 49
+  },
+  "relationID" : "alt.politics_20050124.0640-R23",
+  "mentionArg1" : {
+    "extent" : "the Bush administration",
+    "argMentionid" : "alt.politics_20050124.0640-E40-57",
+    "start" : 32,
+    "end" : 34
+  },
+  "id" : "alt.politics_20050124.0640-R23-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Bush administration quietly stops destroying chemical and biological weapons J Mon , 24 Jan 2005 05:40:37 - 0600 Bush administration quietly stops destroying chemical and biological weapons Unnoticed by anyone else , the Bush administration has quietly ditched programs to destroy America 's biggest-in-the-world stockpile of chemical and biological weapons .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Bush", "administration", "quietly", "stops", "destroying", "chemical", "and", "biological", "weapons", "J", "Mon", ",", "24", "Jan", "2005", "05:40:37", "-", "0600", "Bush", "administration", "quietly", "stops", "destroying", "chemical", "and", "biological", "weapons", "Unnoticed", "by", "anyone", "else", ",", "the", "Bush", "administration", "has", "quietly", "ditched", "programs", "to", "destroy", "America", "'s", "biggest-in-the-world", "stockpile", "of", "chemical", "and", "biological", "weapons", "." ]
+} ]

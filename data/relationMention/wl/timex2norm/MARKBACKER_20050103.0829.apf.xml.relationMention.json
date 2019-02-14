@@ -1,0 +1,243 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "our daughter",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "our daughter",
+    "argMentionid" : "MARKBACKER_20050103.0829-E23-56",
+    "start" : 40,
+    "end" : 41
+  },
+  "relationID" : "MARKBACKER_20050103.0829-R1",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "MARKBACKER_20050103.0829-E17-45",
+    "start" : 40,
+    "end" : 40
+  },
+  "id" : "MARKBACKER_20050103.0829-R1-1",
+  "relationSubType" : "Family",
+  "Sentence" : "It 's tough to come back to work after being gone for ten days , but I think it 's tougher to stay home and try to do what my wife does every day , which is work , raise our daughter , keep the house , cook , and everything else .",
+  "sentence_index" : 1,
+  "Tokens" : [ "It", "'s", "tough", "to", "come", "back", "to", "work", "after", "being", "gone", "for", "ten", "days", ",", "but", "I", "think", "it", "'s", "tougher", "to", "stay", "home", "and", "try", "to", "do", "what", "my", "wife", "does", "every", "day", ",", "which", "is", "work", ",", "raise", "our", "daughter", ",", "keep", "the", "house", ",", "cook", ",", "and", "everything", "else", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "my car",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "my car",
+    "argMentionid" : "MARKBACKER_20050103.0829-E20-51",
+    "start" : 32,
+    "end" : 33
+  },
+  "relationID" : "MARKBACKER_20050103.0829-R2",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "MARKBACKER_20050103.0829-E15-15",
+    "start" : 32,
+    "end" : 32
+  },
+  "id" : "MARKBACKER_20050103.0829-R2-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Now , the thing I forgot to tell you was that when I walked out of the office to go home on the 23rd , there was a pink post it on my car .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Now", ",", "the", "thing", "I", "forgot", "to", "tell", "you", "was", "that", "when", "I", "walked", "out", "of", "the", "office", "to", "go", "home", "on", "the", "23rd", ",", "there", "was", "a", "pink", "post", "it", "on", "my", "car", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "my parked cars",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "my parked cars",
+    "argMentionid" : "MARKBACKER_20050103.0829-E2-8",
+    "start" : 18,
+    "end" : 20
+  },
+  "relationID" : "MARKBACKER_20050103.0829-R3",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "MARKBACKER_20050103.0829-E15-9",
+    "start" : 18,
+    "end" : 18
+  },
+  "id" : "MARKBACKER_20050103.0829-R3-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "This is the third incident in 15 months , and two of the three involved other folks hitting my parked cars !!",
+  "sentence_index" : 10,
+  "Tokens" : [ "This", "is", "the", "third", "incident", "in", "15", "months", ",", "and", "two", "of", "the", "three", "involved", "other", "folks", "hitting", "my", "parked", "cars", "!!" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "my fucking vehicles",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "my fucking vehicles",
+    "argMentionid" : "MARKBACKER_20050103.0829-E2-43",
+    "start" : 9,
+    "end" : 11
+  },
+  "relationID" : "MARKBACKER_20050103.0829-R3",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "MARKBACKER_20050103.0829-E15-44",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "MARKBACKER_20050103.0829-R3-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Goodwill towards all men , and keep away from my fucking vehicles !!",
+  "sentence_index" : 26,
+  "Tokens" : [ "Goodwill", "towards", "all", "men", ",", "and", "keep", "away", "from", "my", "fucking", "vehicles", "!!" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "their sedans",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "their sedans",
+    "argMentionid" : "MARKBACKER_20050103.0829-E12-28",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "MARKBACKER_20050103.0829-R4",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "MARKBACKER_20050103.0829-E9-29",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "MARKBACKER_20050103.0829-R4-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "They make great trucks and SUV's , but their sedans suck ass .",
+  "sentence_index" : 19,
+  "Tokens" : [ "They", "make", "great", "trucks", "and", "SUV's", ",", "but", "their", "sedans", "suck", "ass", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the wife's car",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "the wife's car",
+    "argMentionid" : "MARKBACKER_20050103.0829-E14-32",
+    "start" : 20,
+    "end" : 23
+  },
+  "relationID" : "MARKBACKER_20050103.0829-R5",
+  "mentionArg1" : {
+    "extent" : "the wife",
+    "argMentionid" : "MARKBACKER_20050103.0829-E21-33",
+    "start" : 20,
+    "end" : 21
+  },
+  "id" : "MARKBACKER_20050103.0829-R5-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "I will return this piece of shit on Friday , only to rent another vehicle Monday morning while we take the wife 's car to the shop to get her 1400 bucks worth of damage repaired .",
+  "sentence_index" : 20,
+  "Tokens" : [ "I", "will", "return", "this", "piece", "of", "shit", "on", "Friday", ",", "only", "to", "rent", "another", "vehicle", "Monday", "morning", "while", "we", "take", "the", "wife", "'s", "car", "to", "the", "shop", "to", "get", "her", "1400", "bucks", "worth", "of", "damage", "repaired", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "my rental car",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "my rental car",
+    "argMentionid" : "MARKBACKER_20050103.0829-E8-52",
+    "start" : 15,
+    "end" : 17
+  },
+  "relationID" : "MARKBACKER_20050103.0829-R6",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "MARKBACKER_20050103.0829-E15-40",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "MARKBACKER_20050103.0829-R6-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "I plan to call her this morning and tell her the total , complete with my rental car for a week .",
+  "sentence_index" : 22,
+  "Tokens" : [ "I", "plan", "to", "call", "her", "this", "morning", "and", "tell", "her", "the", "total", ",", "complete", "with", "my", "rental", "car", "for", "a", "week", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "I took the impala",
+  "sentence_length" : 5,
+  "mentionArg2" : {
+    "extent" : "the impala",
+    "argMentionid" : "MARKBACKER_20050103.0829-E8-20",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "MARKBACKER_20050103.0829-R6",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "MARKBACKER_20050103.0829-E15-22",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "MARKBACKER_20050103.0829-R6-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "I took the impala .",
+  "sentence_index" : 15,
+  "Tokens" : [ "I", "took", "the", "impala", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my wife",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "my wife",
+    "argMentionid" : "MARKBACKER_20050103.0829-E21-54",
+    "start" : 29,
+    "end" : 30
+  },
+  "relationID" : "MARKBACKER_20050103.0829-R8",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "MARKBACKER_20050103.0829-E15-49",
+    "start" : 29,
+    "end" : 29
+  },
+  "id" : "MARKBACKER_20050103.0829-R8-1",
+  "relationSubType" : "Family",
+  "Sentence" : "It 's tough to come back to work after being gone for ten days , but I think it 's tougher to stay home and try to do what my wife does every day , which is work , raise our daughter , keep the house , cook , and everything else .",
+  "sentence_index" : 1,
+  "Tokens" : [ "It", "'s", "tough", "to", "come", "back", "to", "work", "after", "being", "gone", "for", "ten", "days", ",", "but", "I", "think", "it", "'s", "tougher", "to", "stay", "home", "and", "try", "to", "do", "what", "my", "wife", "does", "every", "day", ",", "which", "is", "work", ",", "raise", "our", "daughter", ",", "keep", "the", "house", ",", "cook", ",", "and", "everything", "else", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "They make great trucks and SUV's, but their sedans suck ass",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "great trucks",
+    "argMentionid" : "MARKBACKER_20050103.0829-E10-25",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "MARKBACKER_20050103.0829-R10",
+  "mentionArg1" : {
+    "extent" : "They",
+    "argMentionid" : "MARKBACKER_20050103.0829-E9-24",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "MARKBACKER_20050103.0829-R10-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "They make great trucks and SUV's , but their sedans suck ass .",
+  "sentence_index" : 19,
+  "Tokens" : [ "They", "make", "great", "trucks", "and", "SUV's", ",", "but", "their", "sedans", "suck", "ass", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "They make great trucks and SUV's, but their sedans suck ass",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "SUV's",
+    "argMentionid" : "MARKBACKER_20050103.0829-E11-26",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "MARKBACKER_20050103.0829-R11",
+  "mentionArg1" : {
+    "extent" : "They",
+    "argMentionid" : "MARKBACKER_20050103.0829-E9-24",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "MARKBACKER_20050103.0829-R11-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "They make great trucks and SUV's , but their sedans suck ass .",
+  "sentence_index" : 19,
+  "Tokens" : [ "They", "make", "great", "trucks", "and", "SUV's", ",", "but", "their", "sedans", "suck", "ass", "." ]
+} ]

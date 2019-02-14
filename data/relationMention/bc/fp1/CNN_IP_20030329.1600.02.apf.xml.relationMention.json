@@ -1,0 +1,925 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "the hills above Chamchamal",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Chamchamal",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E10-13",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R1",
+  "mentionArg1" : {
+    "extent" : "the hills above Chamchamal",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E9-12",
+    "start" : 11,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030329.1600.02-R1-1",
+  "relationSubType" : "Near",
+  "Sentence" : "That 's because coalition fighter jets pummeled this Iraqi position on the hills above Chamchamal and Iraqi troops made a hasty retreat .",
+  "sentence_index" : 5,
+  "Tokens" : [ "That", "'s", "because", "coalition", "fighter", "jets", "pummeled", "this", "Iraqi", "position", "on", "the", "hills", "above", "Chamchamal", "and", "Iraqi", "troops", "made", "a", "hasty", "retreat", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "That's because coalition fighter jets pummeled this Iraqi position on the hills above Chamchamal and Iraqi troops made a hasty retreat",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "the hills above Chamchamal",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E9-12",
+    "start" : 11,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R2",
+  "mentionArg1" : {
+    "extent" : "Iraqi troops",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E67-15",
+    "start" : 16,
+    "end" : 17
+  },
+  "id" : "CNN_IP_20030329.1600.02-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "That 's because coalition fighter jets pummeled this Iraqi position on the hills above Chamchamal and Iraqi troops made a hasty retreat .",
+  "sentence_index" : 5,
+  "Tokens" : [ "That", "'s", "because", "coalition", "fighter", "jets", "pummeled", "this", "Iraqi", "position", "on", "the", "hills", "above", "Chamchamal", "and", "Iraqi", "troops", "made", "a", "hasty", "retreat", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "It was in northern Iraq today that an eight artillery round hit the site occupied by Kurdish fighters near Chamchamal",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "northern Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E22-1",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R3",
+  "mentionArg1" : {
+    "extent" : "the site occupied by Kurdish fighters near Chamchamal",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E62-196",
+    "start" : 13,
+    "end" : 20
+  },
+  "id" : "CNN_IP_20030329.1600.02-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "WOODRUFF It was in northern Iraq today that an eight artillery round hit the site occupied by Kurdish fighters near Chamchamal .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WOODRUFF", "It", "was", "in", "northern", "Iraq", "today", "that", "an", "eight", "artillery", "round", "hit", "the", "site", "occupied", "by", "Kurdish", "fighters", "near", "Chamchamal", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Kurdish fighters",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Kurdish",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E14-198",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R4",
+  "mentionArg1" : {
+    "extent" : "Kurdish fighters",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E63-197",
+    "start" : 17,
+    "end" : 18
+  },
+  "id" : "CNN_IP_20030329.1600.02-R4-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "WOODRUFF It was in northern Iraq today that an eight artillery round hit the site occupied by Kurdish fighters near Chamchamal .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WOODRUFF", "It", "was", "in", "northern", "Iraq", "today", "that", "an", "eight", "artillery", "round", "hit", "the", "site", "occupied", "by", "Kurdish", "fighters", "near", "Chamchamal", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Kurdish Peshmerga fighters",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "Kurdish",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E14-21",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R4",
+  "mentionArg1" : {
+    "extent" : "Kurdish Peshmerga fighters",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E63-20",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030329.1600.02-R4-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Kurdish Peshmerga fighters took their place .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Kurdish", "Peshmerga", "fighters", "took", "their", "place", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the site occupied by Kurdish fighters near Chamchamal",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Chamchamal",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E10-14",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R5",
+  "mentionArg1" : {
+    "extent" : "the site occupied by Kurdish fighters near Chamchamal",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E62-196",
+    "start" : 13,
+    "end" : 20
+  },
+  "id" : "CNN_IP_20030329.1600.02-R5-1",
+  "relationSubType" : "Near",
+  "Sentence" : "WOODRUFF It was in northern Iraq today that an eight artillery round hit the site occupied by Kurdish fighters near Chamchamal .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WOODRUFF", "It", "was", "in", "northern", "Iraq", "today", "that", "an", "eight", "artillery", "round", "hit", "the", "site", "occupied", "by", "Kurdish", "fighters", "near", "Chamchamal", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "It was in northern Iraq today that an eight artillery round hit the site occupied by Kurdish fighters near Chamchamal",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "the site occupied by Kurdish fighters near Chamchamal",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E62-196",
+    "start" : 13,
+    "end" : 20
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R6",
+  "mentionArg1" : {
+    "extent" : "Kurdish fighters",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E63-197",
+    "start" : 17,
+    "end" : 18
+  },
+  "id" : "CNN_IP_20030329.1600.02-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "WOODRUFF It was in northern Iraq today that an eight artillery round hit the site occupied by Kurdish fighters near Chamchamal .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WOODRUFF", "It", "was", "in", "northern", "Iraq", "today", "that", "an", "eight", "artillery", "round", "hit", "the", "site", "occupied", "by", "Kurdish", "fighters", "near", "Chamchamal", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iraqi troops",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E1-16",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R7",
+  "mentionArg1" : {
+    "extent" : "Iraqi troops",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E67-15",
+    "start" : 16,
+    "end" : 17
+  },
+  "id" : "CNN_IP_20030329.1600.02-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "That 's because coalition fighter jets pummeled this Iraqi position on the hills above Chamchamal and Iraqi troops made a hasty retreat .",
+  "sentence_index" : 5,
+  "Tokens" : [ "That", "'s", "because", "coalition", "fighter", "jets", "pummeled", "this", "Iraqi", "position", "on", "the", "hills", "above", "Chamchamal", "and", "Iraqi", "troops", "made", "a", "hasty", "retreat", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iraqi forces",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E1-201",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R7",
+  "mentionArg1" : {
+    "extent" : "Iraqi forces",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E67-200",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030329.1600.02-R7-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "It happened near an area abandoned earlier by Iraqi forces .",
+  "sentence_index" : 1,
+  "Tokens" : [ "It", "happened", "near", "an", "area", "abandoned", "earlier", "by", "Iraqi", "forces", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iraqi troops",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E1-2",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R7",
+  "mentionArg1" : {
+    "extent" : "Iraqi troops",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E67-3",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030329.1600.02-R7-3",
+  "relationSubType" : "Employment",
+  "Sentence" : "A day ago it was controlled by Iraqi troops and packed with these land mines but now we can drive far enough to see the outskirts of Kirkuk .",
+  "sentence_index" : 4,
+  "Tokens" : [ "A", "day", "ago", "it", "was", "controlled", "by", "Iraqi", "troops", "and", "packed", "with", "these", "land", "mines", "but", "now", "we", "can", "drive", "far", "enough", "to", "see", "the", "outskirts", "of", "Kirkuk", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "It happened near an area abandoned earlier by Iraqi forces",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "an area abandoned earlier by Iraqi forces",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E66-199",
+    "start" : 3,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R8",
+  "mentionArg1" : {
+    "extent" : "Iraqi forces",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E67-200",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030329.1600.02-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "It happened near an area abandoned earlier by Iraqi forces .",
+  "sentence_index" : 1,
+  "Tokens" : [ "It", "happened", "near", "an", "area", "abandoned", "earlier", "by", "Iraqi", "forces", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "CNN's Kevin Sites",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E69-202",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R9",
+  "mentionArg1" : {
+    "extent" : "CNN's Kevin Sites",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E70-203",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030329.1600.02-R9-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "CNN 's Kevin Sites is in northern Iraq .",
+  "sentence_index" : 2,
+  "Tokens" : [ "CNN", "'s", "Kevin", "Sites", "is", "in", "northern", "Iraq", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Kevin Sites, CNN Chamchamal northern Iraq",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E69-55",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R9",
+  "mentionArg1" : {
+    "extent" : "Kevin Sites",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E70-54",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030329.1600.02-R9-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Kevin Sites , CNN Chamchamal northern Iraq .",
+  "sentence_index" : 16,
+  "Tokens" : [ "Kevin", "Sites", ",", "CNN", "Chamchamal", "northern", "Iraq", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "CNN's Kevin Sites is in northern Iraq",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "northern Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E22-204",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R10",
+  "mentionArg1" : {
+    "extent" : "CNN's Kevin Sites",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E70-203",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030329.1600.02-R10-1",
+  "relationSubType" : "Located",
+  "Sentence" : "CNN 's Kevin Sites is in northern Iraq .",
+  "sentence_index" : 2,
+  "Tokens" : [ "CNN", "'s", "Kevin", "Sites", "is", "in", "northern", "Iraq", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the road to Kirkuk",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "Kirkuk",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E72-206",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R11",
+  "mentionArg1" : {
+    "extent" : "the road to Kirkuk",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E71-205",
+    "start" : 11,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030329.1600.02-R11-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "( BEGIN VIDEOTAPE ) KEVIN SITES , CNN CORRESPONDENT This is the road to Kirkuk .",
+  "sentence_index" : 3,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "KEVIN", "SITES", ",", "CNN", "CORRESPONDENT", "This", "is", "the", "road", "to", "Kirkuk", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the outskirts of Kirkuk",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Kirkuk",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E72-7",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R12",
+  "mentionArg1" : {
+    "extent" : "the outskirts of Kirkuk",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E4-6",
+    "start" : 24,
+    "end" : 27
+  },
+  "id" : "CNN_IP_20030329.1600.02-R12-1",
+  "relationSubType" : "Near",
+  "Sentence" : "A day ago it was controlled by Iraqi troops and packed with these land mines but now we can drive far enough to see the outskirts of Kirkuk .",
+  "sentence_index" : 4,
+  "Tokens" : [ "A", "day", "ago", "it", "was", "controlled", "by", "Iraqi", "troops", "and", "packed", "with", "these", "land", "mines", "but", "now", "we", "can", "drive", "far", "enough", "to", "see", "the", "outskirts", "of", "Kirkuk", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "A day ago it was controlled by Iraqi troops and packed with these land mines but now we can drive far enough to see the outskirts of Kirkuk",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "it",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E71-207",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R13",
+  "mentionArg1" : {
+    "extent" : "Iraqi troops",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E67-3",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030329.1600.02-R13-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "A day ago it was controlled by Iraqi troops and packed with these land mines but now we can drive far enough to see the outskirts of Kirkuk .",
+  "sentence_index" : 4,
+  "Tokens" : [ "A", "day", "ago", "it", "was", "controlled", "by", "Iraqi", "troops", "and", "packed", "with", "these", "land", "mines", "but", "now", "we", "can", "drive", "far", "enough", "to", "see", "the", "outskirts", "of", "Kirkuk", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "this Iraqi position on the hills above Chamchamal",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "the hills above Chamchamal",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E9-12",
+    "start" : 11,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R14",
+  "mentionArg1" : {
+    "extent" : "this Iraqi position",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E8-11",
+    "start" : 7,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030329.1600.02-R14-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "That 's because coalition fighter jets pummeled this Iraqi position on the hills above Chamchamal and Iraqi troops made a hasty retreat .",
+  "sentence_index" : 5,
+  "Tokens" : [ "That", "'s", "because", "coalition", "fighter", "jets", "pummeled", "this", "Iraqi", "position", "on", "the", "hills", "above", "Chamchamal", "and", "Iraqi", "troops", "made", "a", "hasty", "retreat", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "coalition fighter jets",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "coalition fighter jets",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E5-8",
+    "start" : 3,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R15",
+  "mentionArg1" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E6-9",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030329.1600.02-R15-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "That 's because coalition fighter jets pummeled this Iraqi position on the hills above Chamchamal and Iraqi troops made a hasty retreat .",
+  "sentence_index" : 5,
+  "Tokens" : [ "That", "'s", "because", "coalition", "fighter", "jets", "pummeled", "this", "Iraqi", "position", "on", "the", "hills", "above", "Chamchamal", "and", "Iraqi", "troops", "made", "a", "hasty", "retreat", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "this Iraqi position",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E1-10",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R16",
+  "mentionArg1" : {
+    "extent" : "this Iraqi position",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E8-11",
+    "start" : 7,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030329.1600.02-R16-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "That 's because coalition fighter jets pummeled this Iraqi position on the hills above Chamchamal and Iraqi troops made a hasty retreat .",
+  "sentence_index" : 5,
+  "Tokens" : [ "That", "'s", "because", "coalition", "fighter", "jets", "pummeled", "this", "Iraqi", "position", "on", "the", "hills", "above", "Chamchamal", "and", "Iraqi", "troops", "made", "a", "hasty", "retreat", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a lot of our people in Chamchamal",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Chamchamal",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E10-29",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R18",
+  "mentionArg1" : {
+    "extent" : "a lot of our people in Chamchamal",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E14-28",
+    "start" : 2,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030329.1600.02-R18-1",
+  "relationSubType" : "Located",
+  "Sentence" : "They killed a lot of our people in Chamchamal but I feel bad for them too .",
+  "sentence_index" : 9,
+  "Tokens" : [ "They", "killed", "a", "lot", "of", "our", "people", "in", "Chamchamal", "but", "I", "feel", "bad", "for", "them", "too", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a lot of our people in Chamchamal",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E19-193",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R19",
+  "mentionArg1" : {
+    "extent" : "a lot of our people in Chamchamal",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E14-28",
+    "start" : 2,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030329.1600.02-R19-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "They killed a lot of our people in Chamchamal but I feel bad for them too .",
+  "sentence_index" : 9,
+  "Tokens" : [ "They", "killed", "a", "lot", "of", "our", "people", "in", "Chamchamal", "but", "I", "feel", "bad", "for", "them", "too", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Kurds in the area",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "the area",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E66-46",
+    "start" : 21,
+    "end" : 22
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R20",
+  "mentionArg1" : {
+    "extent" : "Kurds in the area",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E19-44",
+    "start" : 19,
+    "end" : 22
+  },
+  "id" : "CNN_IP_20030329.1600.02-R20-1",
+  "relationSubType" : "Located",
+  "Sentence" : "He says after finishing the job he hopes Saddam Hussein himself will fall too but despite the exuberance of Kurds in the area , it 's clear it 's much too early to celebrate .",
+  "sentence_index" : 14,
+  "Tokens" : [ "He", "says", "after", "finishing", "the", "job", "he", "hopes", "Saddam", "Hussein", "himself", "will", "fall", "too", "but", "despite", "the", "exuberance", "of", "Kurds", "in", "the", "area", ",", "it", "'s", "clear", "it", "'s", "much", "too", "early", "to", "celebrate", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "their former stronghold",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "their former stronghold",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E62-194",
+    "start" : 21,
+    "end" : 23
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R21",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E67-52",
+    "start" : 21,
+    "end" : 21
+  },
+  "id" : "CNN_IP_20030329.1600.02-R21-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Although the Iraqis retreated from this area , at dusk they fired what observers say were seven artillery rounds back at their former stronghold creating new fear and potentially new casualties .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Although", "the", "Iraqis", "retreated", "from", "this", "area", ",", "at", "dusk", "they", "fired", "what", "observers", "say", "were", "seven", "artillery", "rounds", "back", "at", "their", "former", "stronghold", "creating", "new", "fear", "and", "potentially", "new", "casualties", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Kevin Sites, CNN Chamchamal northern Iraq",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "Chamchamal",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E10-56",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R23",
+  "mentionArg1" : {
+    "extent" : "Kevin Sites",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E70-54",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030329.1600.02-R23-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Kevin Sites , CNN Chamchamal northern Iraq .",
+  "sentence_index" : 16,
+  "Tokens" : [ "Kevin", "Sites", ",", "CNN", "Chamchamal", "northern", "Iraq", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Chamchamal northern Iraq",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "northern Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E22-57",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R24",
+  "mentionArg1" : {
+    "extent" : "Chamchamal",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E10-56",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "CNN_IP_20030329.1600.02-R24-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Kevin Sites , CNN Chamchamal northern Iraq .",
+  "sentence_index" : 16,
+  "Tokens" : [ "Kevin", "Sites", ",", "CNN", "Chamchamal", "northern", "Iraq", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his wife",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "his wife",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E32-63",
+    "start" : 27,
+    "end" : 28
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R25",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E31-62",
+    "start" : 27,
+    "end" : 27
+  },
+  "id" : "CNN_IP_20030329.1600.02-R25-1",
+  "relationSubType" : "Family",
+  "Sentence" : "( END VIDEOTAPE ) WOODRUFF All right and when we return , waiting here on the home front , a very special reunion between a Marine and his wife .",
+  "sentence_index" : 17,
+  "Tokens" : [ "(", "END", "VIDEOTAPE", ")", "WOODRUFF", "All", "right", "and", "when", "we", "return", ",", "waiting", "here", "on", "the", "home", "front", ",", "a", "very", "special", "reunion", "between", "a", "Marine", "and", "his", "wife", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his wife",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "his wife",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E32-75",
+    "start" : 22,
+    "end" : 23
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R25",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E31-195",
+    "start" : 22,
+    "end" : 22
+  },
+  "id" : "CNN_IP_20030329.1600.02-R25-2",
+  "relationSubType" : "Family",
+  "Sentence" : "CNN helped bridge that cassum ( ph ) at least temporarily between Sergeant Craig Martin of the 15th Marine Expeditionary Unit and his wife Kaycee Martin in California .",
+  "sentence_index" : 19,
+  "Tokens" : [ "CNN", "helped", "bridge", "that", "cassum", "(", "ph", ")", "at", "least", "temporarily", "between", "Sergeant", "Craig", "Martin", "of", "the", "15th", "Marine", "Expeditionary", "Unit", "and", "his", "wife", "Kaycee", "Martin", "in", "California", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "your wife",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "your wife",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E32-135",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R25",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E31-134",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "CNN_IP_20030329.1600.02-R25-3",
+  "relationSubType" : "Family",
+  "Sentence" : "COOPER Sergeant Martin I do n't know if you see , your wife 's sort of shaking her head .",
+  "sentence_index" : 54,
+  "Tokens" : [ "COOPER", "Sergeant", "Martin", "I", "do", "n't", "know", "if", "you", "see", ",", "your", "wife", "'s", "sort", "of", "shaking", "her", "head", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "your wife",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "your wife",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E32-145",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R25",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E31-144",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030329.1600.02-R25-4",
+  "relationSubType" : "Family",
+  "Sentence" : "COOPER Is there anything else you would like to say either to your wife or to all the people who are watching this ?",
+  "sentence_index" : 58,
+  "Tokens" : [ "COOPER", "Is", "there", "anything", "else", "you", "would", "like", "to", "say", "either", "to", "your", "wife", "or", "to", "all", "the", "people", "who", "are", "watching", "this", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my wife",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "my wife",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E32-155",
+    "start" : 1,
+    "end" : 2
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R25",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E31-156",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030329.1600.02-R25-5",
+  "relationSubType" : "Family",
+  "Sentence" : "To my wife , we 'll be home soon and I love you .",
+  "sentence_index" : 63,
+  "Tokens" : [ "To", "my", "wife", ",", "we", "'ll", "be", "home", "soon", "and", "I", "love", "you", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the troops overseas",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "overseas",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E34-65",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R26",
+  "mentionArg1" : {
+    "extent" : "the troops overseas",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E33-64",
+    "start" : 9,
+    "end" : 11
+  },
+  "id" : "CNN_IP_20030329.1600.02-R26-1",
+  "relationSubType" : "Located",
+  "Sentence" : "There is no greater gap probably than that between the troops overseas and their loved ones here at home .",
+  "sentence_index" : 18,
+  "Tokens" : [ "There", "is", "no", "greater", "gap", "probably", "than", "that", "between", "the", "troops", "overseas", "and", "their", "loved", "ones", "here", "at", "home", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their loved ones",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "their loved ones",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E35-67",
+    "start" : 13,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R27",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E33-66",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "CNN_IP_20030329.1600.02-R27-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "There is no greater gap probably than that between the troops overseas and their loved ones here at home .",
+  "sentence_index" : 18,
+  "Tokens" : [ "There", "is", "no", "greater", "gap", "probably", "than", "that", "between", "the", "troops", "overseas", "and", "their", "loved", "ones", "here", "at", "home", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "their loved ones here at home",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "here at home",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E30-68",
+    "start" : 16,
+    "end" : 18
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R28",
+  "mentionArg1" : {
+    "extent" : "their loved ones",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E35-67",
+    "start" : 13,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030329.1600.02-R28-1",
+  "relationSubType" : "Located",
+  "Sentence" : "There is no greater gap probably than that between the troops overseas and their loved ones here at home .",
+  "sentence_index" : 18,
+  "Tokens" : [ "There", "is", "no", "greater", "gap", "probably", "than", "that", "between", "the", "troops", "overseas", "and", "their", "loved", "ones", "here", "at", "home", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Sergeant Craig Martin of the 15th Marine Expeditionary Unit",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "the 15th Marine Expeditionary Unit",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E37-73",
+    "start" : 16,
+    "end" : 20
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R29",
+  "mentionArg1" : {
+    "extent" : "Sergeant Craig Martin of the 15th Marine Expeditionary Unit",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E31-71",
+    "start" : 12,
+    "end" : 20
+  },
+  "id" : "CNN_IP_20030329.1600.02-R29-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "CNN helped bridge that cassum ( ph ) at least temporarily between Sergeant Craig Martin of the 15th Marine Expeditionary Unit and his wife Kaycee Martin in California .",
+  "sentence_index" : 19,
+  "Tokens" : [ "CNN", "helped", "bridge", "that", "cassum", "(", "ph", ")", "at", "least", "temporarily", "between", "Sergeant", "Craig", "Martin", "of", "the", "15th", "Marine", "Expeditionary", "Unit", "and", "his", "wife", "Kaycee", "Martin", "in", "California", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "his wife Kaycee Martin in California",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "California",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E39-77",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R30",
+  "mentionArg1" : {
+    "extent" : "his wife",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E32-75",
+    "start" : 22,
+    "end" : 23
+  },
+  "id" : "CNN_IP_20030329.1600.02-R30-1",
+  "relationSubType" : "Located",
+  "Sentence" : "CNN helped bridge that cassum ( ph ) at least temporarily between Sergeant Craig Martin of the 15th Marine Expeditionary Unit and his wife Kaycee Martin in California .",
+  "sentence_index" : 19,
+  "Tokens" : [ "CNN", "helped", "bridge", "that", "cassum", "(", "ph", ")", "at", "least", "temporarily", "between", "Sergeant", "Craig", "Martin", "of", "the", "15th", "Marine", "Expeditionary", "Unit", "and", "his", "wife", "Kaycee", "Martin", "in", "California", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my old man",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "my old man",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E53-154",
+    "start" : 1,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R32",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E31-153",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030329.1600.02-R32-1",
+  "relationSubType" : "Family",
+  "Sentence" : "To my old man , this is not a distraction .",
+  "sentence_index" : 62,
+  "Tokens" : [ "To", "my", "old", "man", ",", "this", "is", "not", "a", "distraction", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "our new baby",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "our new baby",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E54-172",
+    "start" : 20,
+    "end" : 22
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R34",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E40-171",
+    "start" : 20,
+    "end" : 20
+  },
+  "id" : "CNN_IP_20030329.1600.02-R34-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Everyone is praying for you and I just want you to come home safe and soon so you could see our new baby .",
+  "sentence_index" : 69,
+  "Tokens" : [ "Everyone", "is", "praying", "for", "you", "and", "I", "just", "want", "you", "to", "come", "home", "safe", "and", "soon", "so", "you", "could", "see", "our", "new", "baby", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Well, in addition to the baby on the way, the Martins also have a three-year-old daughter",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "the baby",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E54-185",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R34",
+  "mentionArg1" : {
+    "extent" : "the Martins",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E40-186",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030329.1600.02-R34-2",
+  "relationSubType" : "Family",
+  "Sentence" : "Well , in addition to the baby on the way , the Martins also have a three-year-old daughter .",
+  "sentence_index" : 82,
+  "Tokens" : [ "Well", ",", "in", "addition", "to", "the", "baby", "on", "the", "way", ",", "the", "Martins", "also", "have", "a", "three-year-old", "daughter", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "your loved one",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "your loved one",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E56-182",
+    "start" : 8,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R35",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E43-181",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030329.1600.02-R35-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "It 's got to be difficult talking to your loved one in front of thousands and thousands of people on television , millions .",
+  "sentence_index" : 81,
+  "Tokens" : [ "It", "'s", "got", "to", "be", "difficult", "talking", "to", "your", "loved", "one", "in", "front", "of", "thousands", "and", "thousands", "of", "people", "on", "television", ",", "millions", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Well, in addition to the baby on the way, the Martins also have a three-year-old daughter",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "a three-year-old daughter",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E58-187",
+    "start" : 15,
+    "end" : 17
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R36",
+  "mentionArg1" : {
+    "extent" : "the Martins",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E40-186",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030329.1600.02-R36-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Well , in addition to the baby on the way , the Martins also have a three-year-old daughter .",
+  "sentence_index" : 82,
+  "Tokens" : [ "Well", ",", "in", "addition", "to", "the", "baby", "on", "the", "way", ",", "the", "Martins", "also", "have", "a", "three-year-old", "daughter", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I'm Judy Woodruff in Washington",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "Washington",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E59-190",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030329.1600.02-R38",
+  "mentionArg1" : {
+    "extent" : "Judy Woodruff",
+    "argMentionid" : "CNN_IP_20030329.1600.02-E41-189",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030329.1600.02-R38-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I 'm Judy Woodruff in Washington .",
+  "sentence_index" : 84,
+  "Tokens" : [ "I", "'m", "Judy", "Woodruff", "in", "Washington", "." ]
+} ]

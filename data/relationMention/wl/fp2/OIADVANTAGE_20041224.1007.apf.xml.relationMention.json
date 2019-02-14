@@ -1,0 +1,133 @@
+[ {
+  "relationType" : "ART",
+  "extent" : "a packed room of 200 intelligent, practical,driven idealists",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "a packed room of 200 intelligent, practical,driven idealists",
+    "argMentionid" : "OIADVANTAGE_20041224.1007-E37-76",
+    "start" : 4,
+    "end" : 12
+  },
+  "relationID" : "OIADVANTAGE_20041224.1007-R1",
+  "mentionArg1" : {
+    "extent" : "200 intelligent, practical,driven idealists",
+    "argMentionid" : "OIADVANTAGE_20041224.1007-E1-77",
+    "start" : 8,
+    "end" : 12
+  },
+  "id" : "OIADVANTAGE_20041224.1007-R1-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "What I found was a packed room of 200 intelligent , practical,driven idealists .",
+  "sentence_index" : 5,
+  "Tokens" : [ "What", "I", "found", "was", "a", "packed", "room", "of", "200", "intelligent", ",", "practical,driven", "idealists", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a packed room of 200 intelligent, practical,driven idealists",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "a packed room of 200 intelligent, practical,driven idealists",
+    "argMentionid" : "OIADVANTAGE_20041224.1007-E37-76",
+    "start" : 4,
+    "end" : 12
+  },
+  "relationID" : "OIADVANTAGE_20041224.1007-R2",
+  "mentionArg1" : {
+    "extent" : "200 intelligent, practical,driven idealists",
+    "argMentionid" : "OIADVANTAGE_20041224.1007-E1-77",
+    "start" : 8,
+    "end" : 12
+  },
+  "id" : "OIADVANTAGE_20041224.1007-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "What I found was a packed room of 200 intelligent , practical,driven idealists .",
+  "sentence_index" : 5,
+  "Tokens" : [ "What", "I", "found", "was", "a", "packed", "room", "of", "200", "intelligent", ",", "practical,driven", "idealists", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I left that room with my eyes open to the possibilities presented by these future business leaders",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "that room",
+    "argMentionid" : "OIADVANTAGE_20041224.1007-E37-83",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "OIADVANTAGE_20041224.1007-R3",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "OIADVANTAGE_20041224.1007-E17-82",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "OIADVANTAGE_20041224.1007-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I left that room with my eyes open to the possibilities presented by these future business leaders .",
+  "sentence_index" : 7,
+  "Tokens" : [ "I", "left", "that", "room", "with", "my", "eyes", "open", "to", "the", "possibilities", "presented", "by", "these", "future", "business", "leaders", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Few choose to use it, but if they want they can fundamentally change their school",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "their school",
+    "argMentionid" : "OIADVANTAGE_20041224.1007-E16-35",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "OIADVANTAGE_20041224.1007-R4",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "OIADVANTAGE_20041224.1007-E15-36",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "OIADVANTAGE_20041224.1007-R4-1",
+  "relationSubType" : "Student-Alum",
+  "Sentence" : "Few choose to use it , but if they want they can fundamentally change their school .",
+  "sentence_index" : 22,
+  "Tokens" : [ "Few", "choose", "to", "use", "it", ",", "but", "if", "they", "want", "they", "can", "fundamentally", "change", "their", "school", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "A little secret of business schools is that MBA students have an immense amount of sway",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "business schools",
+    "argMentionid" : "OIADVANTAGE_20041224.1007-E8-30",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "OIADVANTAGE_20041224.1007-R5",
+  "mentionArg1" : {
+    "extent" : "MBA students",
+    "argMentionid" : "OIADVANTAGE_20041224.1007-E15-31",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "OIADVANTAGE_20041224.1007-R5-1",
+  "relationSubType" : "Student-Alum",
+  "Sentence" : "A little secret of business schools is that MBA students have an immense amount of sway .",
+  "sentence_index" : 21,
+  "Tokens" : [ "A", "little", "secret", "of", "business", "schools", "is", "that", "MBA", "students", "have", "an", "immense", "amount", "of", "sway", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "students at business schools",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "business schools",
+    "argMentionid" : "OIADVANTAGE_20041224.1007-E8-38",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "OIADVANTAGE_20041224.1007-R5",
+  "mentionArg1" : {
+    "extent" : "students at business schools",
+    "argMentionid" : "OIADVANTAGE_20041224.1007-E15-37",
+    "start" : 2,
+    "end" : 5
+  },
+  "id" : "OIADVANTAGE_20041224.1007-R5-2",
+  "relationSubType" : "Student-Alum",
+  "Sentence" : "Right now students at business schools are asking for more discussion of these topics in classes , are initiating service projects , forming support group for social entrepreneurs , inviting speakers to campus to discuss sustainability , social investing , non-profit innovations , etc. Net Impact is often at the center of these efforts .",
+  "sentence_index" : 23,
+  "Tokens" : [ "Right", "now", "students", "at", "business", "schools", "are", "asking", "for", "more", "discussion", "of", "these", "topics", "in", "classes", ",", "are", "initiating", "service", "projects", ",", "forming", "support", "group", "for", "social", "entrepreneurs", ",", "inviting", "speakers", "to", "campus", "to", "discuss", "sustainability", ",", "social", "investing", ",", "non-profit", "innovations", ",", "etc.", "Net", "Impact", "is", "often", "at", "the", "center", "of", "these", "efforts", "." ]
+} ]

@@ -1,0 +1,89 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "the CEO went to prison",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "prison",
+    "argMentionid" : "MARKETVIEW_20041209.1401-E19-6",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "MARKETVIEW_20041209.1401-R1",
+  "mentionArg1" : {
+    "extent" : "the CEO",
+    "argMentionid" : "MARKETVIEW_20041209.1401-E3-5",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "MARKETVIEW_20041209.1401-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The company 's performance was n't all that hot even before the CEO went to prison , and until very recently the stock price reflected that .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "company", "'s", "performance", "was", "n't", "all", "that", "hot", "even", "before", "the", "CEO", "went", "to", "prison", ",", "and", "until", "very", "recently", "the", "stock", "price", "reflected", "that", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the company's namesake",
+  "sentence_length" : 74,
+  "mentionArg2" : {
+    "extent" : "the company",
+    "argMentionid" : "MARKETVIEW_20041209.1401-E11-41",
+    "start" : 53,
+    "end" : 54
+  },
+  "relationID" : "MARKETVIEW_20041209.1401-R3",
+  "mentionArg1" : {
+    "extent" : "the company's namesake",
+    "argMentionid" : "MARKETVIEW_20041209.1401-E3-42",
+    "start" : 53,
+    "end" : 56
+  },
+  "id" : "MARKETVIEW_20041209.1401-R3-1",
+  "relationSubType" : "Ownership",
+  "Sentence" : "Byrne 2004-12-09T14:01:00 Shares of Martha Stewart Living Omnimedia , a company whose name is so breathtakingly self-promoting it makes me long for the days when every single entity involve in real estate or casinos was called Trump , continues to soar ; it rose $1.78 , or 7.29 % , on news that the company 's namesake will star in a new TV show once she , er ... gets out of prison .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Byrne", "2004-12-09T14:01:00", "Shares", "of", "Martha", "Stewart", "Living", "Omnimedia", ",", "a", "company", "whose", "name", "is", "so", "breathtakingly", "self-promoting", "it", "makes", "me", "long", "for", "the", "days", "when", "every", "single", "entity", "involve", "in", "real", "estate", "or", "casinos", "was", "called", "Trump", ",", "continues", "to", "soar", ";", "it", "rose", "$1.78", ",", "or", "7.29", "%", ",", "on", "news", "that", "the", "company", "'s", "namesake", "will", "star", "in", "a", "new", "TV", "show", "once", "she", ",", "er", "...", "gets", "out", "of", "prison", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the head of the firm",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "the firm",
+    "argMentionid" : "MARKETVIEW_20041209.1401-E11-12",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "MARKETVIEW_20041209.1401-R3",
+  "mentionArg1" : {
+    "extent" : "the head of the firm",
+    "argMentionid" : "MARKETVIEW_20041209.1401-E3-11",
+    "start" : 11,
+    "end" : 15
+  },
+  "id" : "MARKETVIEW_20041209.1401-R3-2",
+  "relationSubType" : "Ownership",
+  "Sentence" : "This runup is based on the inexplicable hope that now that the head of the firm and the embodiment of a much-resented brand is no longer doing time for lying to the Federal government , they 'll be able to really coin some money .",
+  "sentence_index" : 6,
+  "Tokens" : [ "This", "runup", "is", "based", "on", "the", "inexplicable", "hope", "that", "now", "that", "the", "head", "of", "the", "firm", "and", "the", "embodiment", "of", "a", "much-resented", "brand", "is", "no", "longer", "doing", "time", "for", "lying", "to", "the", "Federal", "government", ",", "they", "'ll", "be", "able", "to", "really", "coin", "some", "money", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The company's performance wasn't all that hot even before the CEO went to prison, and until very recently the stock price reflected that",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "The company",
+    "argMentionid" : "MARKETVIEW_20041209.1401-E11-4",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "MARKETVIEW_20041209.1401-R4",
+  "mentionArg1" : {
+    "extent" : "the CEO",
+    "argMentionid" : "MARKETVIEW_20041209.1401-E3-5",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "MARKETVIEW_20041209.1401-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The company 's performance was n't all that hot even before the CEO went to prison , and until very recently the stock price reflected that .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "company", "'s", "performance", "was", "n't", "all", "that", "hot", "even", "before", "the", "CEO", "went", "to", "prison", ",", "and", "until", "very", "recently", "the", "stock", "price", "reflected", "that", "." ]
+} ]

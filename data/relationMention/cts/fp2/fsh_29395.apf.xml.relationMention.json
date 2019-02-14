@@ -1,0 +1,177 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "his wife",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "his wife",
+    "argMentionid" : "fsh_29395-E20-94",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "fsh_29395-R1",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29395-E1-188",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "fsh_29395-R1-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Criminal Trials / Peterson Scott Peterson has been found guilty of murdering his wife Laci and their unborn son , and he now faces the death penalty .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Criminal", "Trials", "/", "Peterson", "Scott", "Peterson", "has", "been", "found", "guilty", "of", "murdering", "his", "wife", "Laci", "and", "their", "unborn", "son", ",", "and", "he", "now", "faces", "the", "death", "penalty", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their unborn son",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "their unborn son",
+    "argMentionid" : "fsh_29395-E29-190",
+    "start" : 16,
+    "end" : 18
+  },
+  "relationID" : "fsh_29395-R2",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "fsh_29395-E30-191",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "fsh_29395-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Criminal Trials / Peterson Scott Peterson has been found guilty of murdering his wife Laci and their unborn son , and he now faces the death penalty .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Criminal", "Trials", "/", "Peterson", "Scott", "Peterson", "has", "been", "found", "guilty", "of", "murdering", "his", "wife", "Laci", "and", "their", "unborn", "son", ",", "and", "he", "now", "faces", "the", "death", "penalty", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Hi, this is Winnette, in Michigan",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "Michigan",
+    "argMentionid" : "fsh_29395-E35-199",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "fsh_29395-R3",
+  "mentionArg1" : {
+    "extent" : "Winnette",
+    "argMentionid" : "fsh_29395-E33-198",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "fsh_29395-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Winnette Hi , this is Winnette , in Michigan .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Winnette", "Hi", ",", "this", "is", "Winnette", ",", "in", "Michigan", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "You're in Michigan, huh",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "Michigan",
+    "argMentionid" : "fsh_29395-E35-8",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "fsh_29395-R3",
+  "mentionArg1" : {
+    "extent" : "You",
+    "argMentionid" : "fsh_29395-E33-7",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29395-R3-2",
+  "relationSubType" : "Located",
+  "Sentence" : "You 're in Michigan , huh ?",
+  "sentence_index" : 14,
+  "Tokens" : [ "You", "'re", "in", "Michigan", ",", "huh", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Sullivan, Illinois",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "Illinois",
+    "argMentionid" : "fsh_29395-E37-202",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "fsh_29395-R4",
+  "mentionArg1" : {
+    "extent" : "Sullivan, Illinois",
+    "argMentionid" : "fsh_29395-E36-201",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "fsh_29395-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Irvin Hi this is Irvin , Sullivan , Illinois .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Irvin", "Hi", "this", "is", "Irvin", ",", "Sullivan", ",", "Illinois", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Irvin, Sullivan, Illinois",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "Sullivan, Illinois",
+    "argMentionid" : "fsh_29395-E36-201",
+    "start" : 6,
+    "end" : 8
+  },
+  "relationID" : "fsh_29395-R5",
+  "mentionArg1" : {
+    "extent" : "Irvin",
+    "argMentionid" : "fsh_29395-E34-200",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "fsh_29395-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Irvin Hi this is Irvin , Sullivan , Illinois .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Irvin", "Hi", "this", "is", "Irvin", ",", "Sullivan", ",", "Illinois", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our employees",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "fsh_29395-E13-57",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "fsh_29395-R7",
+  "mentionArg1" : {
+    "extent" : "our employees",
+    "argMentionid" : "fsh_29395-E12-56",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "fsh_29395-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Winnette um actually one of our employees had wa- watched (( happening )) -- so from that point on we kind of -- talked a lot about it at work and Irvin How long ago was it ?",
+  "sentence_index" : 35,
+  "Tokens" : [ "Winnette", "um", "actually", "one", "of", "our", "employees", "had", "wa-", "watched", "((", "happening", "))", "--", "so", "from", "that", "point", "on", "we", "kind", "of", "--", "talked", "a", "lot", "about", "it", "at", "work", "and", "Irvin", "How", "long", "ago", "was", "it", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "one of our employees",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "fsh_29395-E13-57",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "fsh_29395-R8",
+  "mentionArg1" : {
+    "extent" : "one of our employees",
+    "argMentionid" : "fsh_29395-E11-55",
+    "start" : 3,
+    "end" : 6
+  },
+  "id" : "fsh_29395-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Winnette um actually one of our employees had wa- watched (( happening )) -- so from that point on we kind of -- talked a lot about it at work and Irvin How long ago was it ?",
+  "sentence_index" : 35,
+  "Tokens" : [ "Winnette", "um", "actually", "one", "of", "our", "employees", "had", "wa-", "watched", "((", "happening", "))", "--", "so", "from", "that", "point", "on", "we", "kind", "of", "--", "talked", "a", "lot", "about", "it", "at", "work", "and", "Irvin", "How", "long", "ago", "was", "it", "?" ]
+} ]

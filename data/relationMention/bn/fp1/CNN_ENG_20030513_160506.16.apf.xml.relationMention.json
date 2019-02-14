@@ -1,0 +1,111 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "an oklahoma judge",
+  "sentence_length" : 145,
+  "mentionArg2" : {
+    "extent" : "oklahoma",
+    "argMentionid" : "CNN_ENG_20030513_160506.16-E21-43",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "CNN_ENG_20030513_160506.16-R1",
+  "mentionArg1" : {
+    "extent" : "an oklahoma judge",
+    "argMentionid" : "CNN_ENG_20030513_160506.16-E20-42",
+    "start" : 11,
+    "end" : 13
+  },
+  "id" : "CNN_ENG_20030513_160506.16-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "as we told you at the top of this newscast , an oklahoma judge has ruled that terry nichols will indeed stand trial in that state court on 160 counts of first-degree murder. the oklahoma city bombing conspirator is already serving a life term in federal prison. state proceedings could bring the death penalty if nichols is convicted. a trial date was not immediately set by the judge whose decision came as prosecutes were still presenting evidence. a texas woman is in jail this morning accused of killing her two sons and severely beating another the day before mother 's day. yesterday a silent dee ana laney waited as the judge read the charges against her. capital murder and aggravated assault. one of the first people to arrive at the crime scene. judge james marin. thanks very much. why were you there so quickly ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "as", "we", "told", "you", "at", "the", "top", "of", "this", "newscast", ",", "an", "oklahoma", "judge", "has", "ruled", "that", "terry", "nichols", "will", "indeed", "stand", "trial", "in", "that", "state", "court", "on", "160", "counts", "of", "first-degree", "murder.", "the", "oklahoma", "city", "bombing", "conspirator", "is", "already", "serving", "a", "life", "term", "in", "federal", "prison.", "state", "proceedings", "could", "bring", "the", "death", "penalty", "if", "nichols", "is", "convicted.", "a", "trial", "date", "was", "not", "immediately", "set", "by", "the", "judge", "whose", "decision", "came", "as", "prosecutes", "were", "still", "presenting", "evidence.", "a", "texas", "woman", "is", "in", "jail", "this", "morning", "accused", "of", "killing", "her", "two", "sons", "and", "severely", "beating", "another", "the", "day", "before", "mother", "'s", "day.", "yesterday", "a", "silent", "dee", "ana", "laney", "waited", "as", "the", "judge", "read", "the", "charges", "against", "her.", "capital", "murder", "and", "aggravated", "assault.", "one", "of", "the", "first", "people", "to", "arrive", "at", "the", "crime", "scene.", "judge", "james", "marin.", "thanks", "very", "much.", "why", "were", "you", "there", "so", "quickly", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a texas woman",
+  "sentence_length" : 145,
+  "mentionArg2" : {
+    "extent" : "texas",
+    "argMentionid" : "CNN_ENG_20030513_160506.16-E1-55",
+    "start" : 78,
+    "end" : 78
+  },
+  "relationID" : "CNN_ENG_20030513_160506.16-R2",
+  "mentionArg1" : {
+    "extent" : "a texas woman",
+    "argMentionid" : "CNN_ENG_20030513_160506.16-E28-54",
+    "start" : 77,
+    "end" : 79
+  },
+  "id" : "CNN_ENG_20030513_160506.16-R2-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "as we told you at the top of this newscast , an oklahoma judge has ruled that terry nichols will indeed stand trial in that state court on 160 counts of first-degree murder. the oklahoma city bombing conspirator is already serving a life term in federal prison. state proceedings could bring the death penalty if nichols is convicted. a trial date was not immediately set by the judge whose decision came as prosecutes were still presenting evidence. a texas woman is in jail this morning accused of killing her two sons and severely beating another the day before mother 's day. yesterday a silent dee ana laney waited as the judge read the charges against her. capital murder and aggravated assault. one of the first people to arrive at the crime scene. judge james marin. thanks very much. why were you there so quickly ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "as", "we", "told", "you", "at", "the", "top", "of", "this", "newscast", ",", "an", "oklahoma", "judge", "has", "ruled", "that", "terry", "nichols", "will", "indeed", "stand", "trial", "in", "that", "state", "court", "on", "160", "counts", "of", "first-degree", "murder.", "the", "oklahoma", "city", "bombing", "conspirator", "is", "already", "serving", "a", "life", "term", "in", "federal", "prison.", "state", "proceedings", "could", "bring", "the", "death", "penalty", "if", "nichols", "is", "convicted.", "a", "trial", "date", "was", "not", "immediately", "set", "by", "the", "judge", "whose", "decision", "came", "as", "prosecutes", "were", "still", "presenting", "evidence.", "a", "texas", "woman", "is", "in", "jail", "this", "morning", "accused", "of", "killing", "her", "two", "sons", "and", "severely", "beating", "another", "the", "day", "before", "mother", "'s", "day.", "yesterday", "a", "silent", "dee", "ana", "laney", "waited", "as", "the", "judge", "read", "the", "charges", "against", "her.", "capital", "murder", "and", "aggravated", "assault.", "one", "of", "the", "first", "people", "to", "arrive", "at", "the", "crime", "scene.", "judge", "james", "marin.", "thanks", "very", "much.", "why", "were", "you", "there", "so", "quickly", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a texas woman is in jail this morning accused of killing her two sons and severely beating another the day before mother's day",
+  "sentence_length" : 145,
+  "mentionArg2" : {
+    "extent" : "jail",
+    "argMentionid" : "CNN_ENG_20030513_160506.16-E2-2",
+    "start" : 82,
+    "end" : 82
+  },
+  "relationID" : "CNN_ENG_20030513_160506.16-R3",
+  "mentionArg1" : {
+    "extent" : "a texas woman",
+    "argMentionid" : "CNN_ENG_20030513_160506.16-E28-54",
+    "start" : 77,
+    "end" : 79
+  },
+  "id" : "CNN_ENG_20030513_160506.16-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "as we told you at the top of this newscast , an oklahoma judge has ruled that terry nichols will indeed stand trial in that state court on 160 counts of first-degree murder. the oklahoma city bombing conspirator is already serving a life term in federal prison. state proceedings could bring the death penalty if nichols is convicted. a trial date was not immediately set by the judge whose decision came as prosecutes were still presenting evidence. a texas woman is in jail this morning accused of killing her two sons and severely beating another the day before mother 's day. yesterday a silent dee ana laney waited as the judge read the charges against her. capital murder and aggravated assault. one of the first people to arrive at the crime scene. judge james marin. thanks very much. why were you there so quickly ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "as", "we", "told", "you", "at", "the", "top", "of", "this", "newscast", ",", "an", "oklahoma", "judge", "has", "ruled", "that", "terry", "nichols", "will", "indeed", "stand", "trial", "in", "that", "state", "court", "on", "160", "counts", "of", "first-degree", "murder.", "the", "oklahoma", "city", "bombing", "conspirator", "is", "already", "serving", "a", "life", "term", "in", "federal", "prison.", "state", "proceedings", "could", "bring", "the", "death", "penalty", "if", "nichols", "is", "convicted.", "a", "trial", "date", "was", "not", "immediately", "set", "by", "the", "judge", "whose", "decision", "came", "as", "prosecutes", "were", "still", "presenting", "evidence.", "a", "texas", "woman", "is", "in", "jail", "this", "morning", "accused", "of", "killing", "her", "two", "sons", "and", "severely", "beating", "another", "the", "day", "before", "mother", "'s", "day.", "yesterday", "a", "silent", "dee", "ana", "laney", "waited", "as", "the", "judge", "read", "the", "charges", "against", "her.", "capital", "murder", "and", "aggravated", "assault.", "one", "of", "the", "first", "people", "to", "arrive", "at", "the", "crime", "scene.", "judge", "james", "marin.", "thanks", "very", "much.", "why", "were", "you", "there", "so", "quickly", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her two sons",
+  "sentence_length" : 145,
+  "mentionArg2" : {
+    "extent" : "her two sons",
+    "argMentionid" : "CNN_ENG_20030513_160506.16-E3-3",
+    "start" : 88,
+    "end" : 90
+  },
+  "relationID" : "CNN_ENG_20030513_160506.16-R4",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_ENG_20030513_160506.16-E28-4",
+    "start" : 88,
+    "end" : 88
+  },
+  "id" : "CNN_ENG_20030513_160506.16-R4-1",
+  "relationSubType" : "Family",
+  "Sentence" : "as we told you at the top of this newscast , an oklahoma judge has ruled that terry nichols will indeed stand trial in that state court on 160 counts of first-degree murder. the oklahoma city bombing conspirator is already serving a life term in federal prison. state proceedings could bring the death penalty if nichols is convicted. a trial date was not immediately set by the judge whose decision came as prosecutes were still presenting evidence. a texas woman is in jail this morning accused of killing her two sons and severely beating another the day before mother 's day. yesterday a silent dee ana laney waited as the judge read the charges against her. capital murder and aggravated assault. one of the first people to arrive at the crime scene. judge james marin. thanks very much. why were you there so quickly ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "as", "we", "told", "you", "at", "the", "top", "of", "this", "newscast", ",", "an", "oklahoma", "judge", "has", "ruled", "that", "terry", "nichols", "will", "indeed", "stand", "trial", "in", "that", "state", "court", "on", "160", "counts", "of", "first-degree", "murder.", "the", "oklahoma", "city", "bombing", "conspirator", "is", "already", "serving", "a", "life", "term", "in", "federal", "prison.", "state", "proceedings", "could", "bring", "the", "death", "penalty", "if", "nichols", "is", "convicted.", "a", "trial", "date", "was", "not", "immediately", "set", "by", "the", "judge", "whose", "decision", "came", "as", "prosecutes", "were", "still", "presenting", "evidence.", "a", "texas", "woman", "is", "in", "jail", "this", "morning", "accused", "of", "killing", "her", "two", "sons", "and", "severely", "beating", "another", "the", "day", "before", "mother", "'s", "day.", "yesterday", "a", "silent", "dee", "ana", "laney", "waited", "as", "the", "judge", "read", "the", "charges", "against", "her.", "capital", "murder", "and", "aggravated", "assault.", "one", "of", "the", "first", "people", "to", "arrive", "at", "the", "crime", "scene.", "judge", "james", "marin.", "thanks", "very", "much.", "why", "were", "you", "there", "so", "quickly", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the sheriff's department",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "the sheriff's department",
+    "argMentionid" : "CNN_ENG_20030513_160506.16-E7-10",
+    "start" : 14,
+    "end" : 17
+  },
+  "relationID" : "CNN_ENG_20030513_160506.16-R5",
+  "mentionArg1" : {
+    "extent" : "the sheriff",
+    "argMentionid" : "CNN_ENG_20030513_160506.16-E10-17",
+    "start" : 14,
+    "end" : 15
+  },
+  "id" : "CNN_ENG_20030513_160506.16-R5-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "i was n't really there that quickly. i actually responded a few hours after the sheriff 's department did .",
+  "sentence_index" : 1,
+  "Tokens" : [ "i", "was", "n't", "really", "there", "that", "quickly.", "i", "actually", "responded", "a", "few", "hours", "after", "the", "sheriff", "'s", "department", "did", "." ]
+} ]

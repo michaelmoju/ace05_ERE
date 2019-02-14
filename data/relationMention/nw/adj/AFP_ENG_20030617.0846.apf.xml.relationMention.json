@@ -1,0 +1,309 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "her estranged rocker husband",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "her estranged rocker husband",
+    "argMentionid" : "AFP_ENG_20030617.0846-E12-43",
+    "start" : 17,
+    "end" : 20
+  },
+  "relationID" : "AFP_ENG_20030617.0846-R2",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "AFP_ENG_20030617.0846-E24-41",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "AFP_ENG_20030617.0846-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "LOS ANGELES , June 17 ( AFP ) Supermodel Rachel Hunter on Tuesday filed for divorce from her estranged rocker husband Rod Stewart , four years after the couple separated , court papers showed .",
+  "sentence_index" : 0,
+  "Tokens" : [ "LOS", "ANGELES", ",", "June", "17", "(", "AFP", ")", "Supermodel", "Rachel", "Hunter", "on", "Tuesday", "filed", "for", "divorce", "from", "her", "estranged", "rocker", "husband", "Rod", "Stewart", ",", "four", "years", "after", "the", "couple", "separated", ",", "court", "papers", "showed", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Hunter, 34, filed for divorce in Los Angeles Superior Court, citing irreconcilable differences with the 58-year-old rock star to whom she has been married for nearly 13 years",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "whom",
+    "argMentionid" : "AFP_ENG_20030617.0846-E12-50",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "AFP_ENG_20030617.0846-R2",
+  "mentionArg1" : {
+    "extent" : "she",
+    "argMentionid" : "AFP_ENG_20030617.0846-E24-51",
+    "start" : 23,
+    "end" : 23
+  },
+  "id" : "AFP_ENG_20030617.0846-R2-2",
+  "relationSubType" : "Family",
+  "Sentence" : "Hunter , 34 , filed for divorce in Los Angeles Superior Court , citing irreconcilable differences with the 58-year-old rock star to whom she has been married for nearly 13 years .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Hunter", ",", "34", ",", "filed", "for", "divorce", "in", "Los", "Angeles", "Superior", "Court", ",", "citing", "irreconcilable", "differences", "with", "the", "58-year-old", "rock", "star", "to", "whom", "she", "has", "been", "married", "for", "nearly", "13", "years", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "How the assets of the couple -- they have a daughter, Renee, 11, and a son, Liam, 8 -- will divided has yet to be decided, the documents showed",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "a daughter",
+    "argMentionid" : "AFP_ENG_20030617.0846-E1-3",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "AFP_ENG_20030617.0846-R3",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "AFP_ENG_20030617.0846-E29-53",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "AFP_ENG_20030617.0846-R3-1",
+  "relationSubType" : "Family",
+  "Sentence" : "How the assets of the couple -- they have a daughter , Renee , 11 , and a son , Liam , 8 -- will divided has yet to be decided , the documents showed .",
+  "sentence_index" : 2,
+  "Tokens" : [ "How", "the", "assets", "of", "the", "couple", "--", "they", "have", "a", "daughter", ",", "Renee", ",", "11", ",", "and", "a", "son", ",", "Liam", ",", "8", "--", "will", "divided", "has", "yet", "to", "be", "decided", ",", "the", "documents", "showed", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "How the assets of the couple -- they have a daughter, Renee, 11, and a son, Liam, 8 -- will divided has yet to be decided, the documents showed",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "a son",
+    "argMentionid" : "AFP_ENG_20030617.0846-E3-5",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "AFP_ENG_20030617.0846-R4",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "AFP_ENG_20030617.0846-E29-53",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "AFP_ENG_20030617.0846-R4-1",
+  "relationSubType" : "Family",
+  "Sentence" : "How the assets of the couple -- they have a daughter , Renee , 11 , and a son , Liam , 8 -- will divided has yet to be decided , the documents showed .",
+  "sentence_index" : 2,
+  "Tokens" : [ "How", "the", "assets", "of", "the", "couple", "--", "they", "have", "a", "daughter", ",", "Renee", ",", "11", ",", "and", "a", "son", ",", "Liam", ",", "8", "--", "will", "divided", "has", "yet", "to", "be", "decided", ",", "the", "documents", "showed", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "New Zealand-born Hunter",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "New Zealand",
+    "argMentionid" : "AFP_ENG_20030617.0846-E7-12",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "AFP_ENG_20030617.0846-R5",
+  "mentionArg1" : {
+    "extent" : "New Zealand-born Hunter",
+    "argMentionid" : "AFP_ENG_20030617.0846-E24-11",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "AFP_ENG_20030617.0846-R5-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "New Zealand-born Hunter reportedly had a fling with British pop star Robbie Williams , while British star Stewart has been much photographed with his reported girlfriend , blond photographer Penny Lancaster .",
+  "sentence_index" : 4,
+  "Tokens" : [ "New", "Zealand-born", "Hunter", "reportedly", "had", "a", "fling", "with", "British", "pop", "star", "Robbie", "Williams", ",", "while", "British", "star", "Stewart", "has", "been", "much", "photographed", "with", "his", "reported", "girlfriend", ",", "blond", "photographer", "Penny", "Lancaster", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "British pop star Robbie Williams",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "AFP_ENG_20030617.0846-E10-15",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "AFP_ENG_20030617.0846-R6",
+  "mentionArg1" : {
+    "extent" : "British pop star Robbie Williams",
+    "argMentionid" : "AFP_ENG_20030617.0846-E8-13",
+    "start" : 8,
+    "end" : 12
+  },
+  "id" : "AFP_ENG_20030617.0846-R6-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "New Zealand-born Hunter reportedly had a fling with British pop star Robbie Williams , while British star Stewart has been much photographed with his reported girlfriend , blond photographer Penny Lancaster .",
+  "sentence_index" : 4,
+  "Tokens" : [ "New", "Zealand-born", "Hunter", "reportedly", "had", "a", "fling", "with", "British", "pop", "star", "Robbie", "Williams", ",", "while", "British", "star", "Stewart", "has", "been", "much", "photographed", "with", "his", "reported", "girlfriend", ",", "blond", "photographer", "Penny", "Lancaster", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "British star Stewart",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "AFP_ENG_20030617.0846-E10-16",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "AFP_ENG_20030617.0846-R7",
+  "mentionArg1" : {
+    "extent" : "British star Stewart",
+    "argMentionid" : "AFP_ENG_20030617.0846-E12-17",
+    "start" : 15,
+    "end" : 17
+  },
+  "id" : "AFP_ENG_20030617.0846-R7-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "New Zealand-born Hunter reportedly had a fling with British pop star Robbie Williams , while British star Stewart has been much photographed with his reported girlfriend , blond photographer Penny Lancaster .",
+  "sentence_index" : 4,
+  "Tokens" : [ "New", "Zealand-born", "Hunter", "reportedly", "had", "a", "fling", "with", "British", "pop", "star", "Robbie", "Williams", ",", "while", "British", "star", "Stewart", "has", "been", "much", "photographed", "with", "his", "reported", "girlfriend", ",", "blond", "photographer", "Penny", "Lancaster", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his reported girlfriend",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "his reported girlfriend",
+    "argMentionid" : "AFP_ENG_20030617.0846-E13-21",
+    "start" : 23,
+    "end" : 25
+  },
+  "relationID" : "AFP_ENG_20030617.0846-R8",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "AFP_ENG_20030617.0846-E12-19",
+    "start" : 23,
+    "end" : 23
+  },
+  "id" : "AFP_ENG_20030617.0846-R8-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "New Zealand-born Hunter reportedly had a fling with British pop star Robbie Williams , while British star Stewart has been much photographed with his reported girlfriend , blond photographer Penny Lancaster .",
+  "sentence_index" : 4,
+  "Tokens" : [ "New", "Zealand-born", "Hunter", "reportedly", "had", "a", "fling", "with", "British", "pop", "star", "Robbie", "Williams", ",", "while", "British", "star", "Stewart", "has", "been", "much", "photographed", "with", "his", "reported", "girlfriend", ",", "blond", "photographer", "Penny", "Lancaster", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Stewart's 1979 marriage to Alana Hamilton lasted five years and produced two children",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "two children",
+    "argMentionid" : "AFP_ENG_20030617.0846-E18-30",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "AFP_ENG_20030617.0846-R9",
+  "mentionArg1" : {
+    "extent" : "Stewart",
+    "argMentionid" : "AFP_ENG_20030617.0846-E12-36",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "AFP_ENG_20030617.0846-R9-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Stewart 's 1979 marriage to Alana Hamilton lasted five years and produced two children .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Stewart", "'s", "1979", "marriage", "to", "Alana", "Hamilton", "lasted", "five", "years", "and", "produced", "two", "children", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Stewart's 1979 marriage to Alana Hamilton lasted five years and produced two children",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "two children",
+    "argMentionid" : "AFP_ENG_20030617.0846-E18-30",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "AFP_ENG_20030617.0846-R10",
+  "mentionArg1" : {
+    "extent" : "Alana Hamilton",
+    "argMentionid" : "AFP_ENG_20030617.0846-E17-29",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "AFP_ENG_20030617.0846-R10-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Stewart 's 1979 marriage to Alana Hamilton lasted five years and produced two children .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Stewart", "'s", "1979", "marriage", "to", "Alana", "Hamilton", "lasted", "five", "years", "and", "produced", "two", "children", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "The raspy-voiced singer who once dated Britt Ekland is best known for hit songs including \"Maggie May,\" \"Do Ya Think I'm Sexy,\" \"Tonight's the Night\" and \"Young Turks",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "Britt Ekland",
+    "argMentionid" : "AFP_ENG_20030617.0846-E19-32",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "AFP_ENG_20030617.0846-R11",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "AFP_ENG_20030617.0846-E12-31",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "AFP_ENG_20030617.0846-R11-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "The raspy-voiced singer who once dated Britt Ekland is best known for hit songs including \" Maggie May , \" \" Do Ya Think I 'm Sexy , \" \" Tonight 's the Night \" and \" Young Turks \" .",
+  "sentence_index" : 7,
+  "Tokens" : [ "The", "raspy-voiced", "singer", "who", "once", "dated", "Britt", "Ekland", "is", "best", "known", "for", "hit", "songs", "including", "\"", "Maggie", "May", ",", "\"", "\"", "Do", "Ya", "Think", "I", "'m", "Sexy", ",", "\"", "\"", "Tonight", "'s", "the", "Night", "\"", "and", "\"", "Young", "Turks", "\"", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "The celebrity couple spit up very publicly four years ago and each has since had well-publicized relationships with others",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "others",
+    "argMentionid" : "AFP_ENG_20030617.0846-E6-10",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "AFP_ENG_20030617.0846-R12",
+  "mentionArg1" : {
+    "extent" : "each",
+    "argMentionid" : "AFP_ENG_20030617.0846-E20-24",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "AFP_ENG_20030617.0846-R12-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "The celebrity couple spit up very publicly four years ago and each has since had well-publicized relationships with others .",
+  "sentence_index" : 3,
+  "Tokens" : [ "The", "celebrity", "couple", "spit", "up", "very", "publicly", "four", "years", "ago", "and", "each", "has", "since", "had", "well-publicized", "relationships", "with", "others", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "New Zealand-born Hunter reportedly had a fling with British pop star Robbie Williams, while British star Stewart has been much photographed with his reported girlfriend, blond photographer Penny Lancaster",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "British pop star Robbie Williams",
+    "argMentionid" : "AFP_ENG_20030617.0846-E8-13",
+    "start" : 8,
+    "end" : 12
+  },
+  "relationID" : "AFP_ENG_20030617.0846-R13",
+  "mentionArg1" : {
+    "extent" : "New Zealand-born Hunter",
+    "argMentionid" : "AFP_ENG_20030617.0846-E24-11",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "AFP_ENG_20030617.0846-R13-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "New Zealand-born Hunter reportedly had a fling with British pop star Robbie Williams , while British star Stewart has been much photographed with his reported girlfriend , blond photographer Penny Lancaster .",
+  "sentence_index" : 4,
+  "Tokens" : [ "New", "Zealand-born", "Hunter", "reportedly", "had", "a", "fling", "with", "British", "pop", "star", "Robbie", "Williams", ",", "while", "British", "star", "Stewart", "has", "been", "much", "photographed", "with", "his", "reported", "girlfriend", ",", "blond", "photographer", "Penny", "Lancaster", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Stewart's 1979 marriage to Alana Hamilton lasted five years and produced two children",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "Alana Hamilton",
+    "argMentionid" : "AFP_ENG_20030617.0846-E17-29",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "AFP_ENG_20030617.0846-R14",
+  "mentionArg1" : {
+    "extent" : "Stewart",
+    "argMentionid" : "AFP_ENG_20030617.0846-E12-36",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "AFP_ENG_20030617.0846-R14-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Stewart 's 1979 marriage to Alana Hamilton lasted five years and produced two children .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Stewart", "'s", "1979", "marriage", "to", "Alana", "Hamilton", "lasted", "five", "years", "and", "produced", "two", "children", "." ]
+} ]

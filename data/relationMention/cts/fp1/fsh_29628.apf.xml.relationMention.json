@@ -1,0 +1,793 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "you travel to meet",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "you travel to meet",
+    "argMentionid" : "fsh_29628-E53-179",
+    "start" : 1,
+    "end" : 4
+  },
+  "relationID" : "fsh_29628-R1",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29628-E52-281",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "fsh_29628-R1-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Do you travel to meet up with family or friends during the holidays ?",
+  "sentence_index" : 5,
+  "Tokens" : [ "Do", "you", "travel", "to", "meet", "up", "with", "family", "or", "friends", "during", "the", "holidays", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my family",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "my family",
+    "argMentionid" : "fsh_29628-E60-286",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "fsh_29628-R2",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29628-E43-287",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "fsh_29628-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Basically , I -- spend a lot of time with my family .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Basically", ",", "I", "--", "spend", "a", "lot", "of", "time", "with", "my", "family", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "most of your family",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "your family",
+    "argMentionid" : "fsh_29628-E60-3",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "fsh_29628-R2",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29628-E43-4",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "fsh_29628-R2-2",
+  "relationSubType" : "Family",
+  "Sentence" : "Britt So most of your family is locate- where , where are you ?",
+  "sentence_index" : 19,
+  "Tokens" : [ "Britt", "So", "most", "of", "your", "family", "is", "locate-", "where", ",", "where", "are", "you", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "most of your family",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "your family",
+    "argMentionid" : "fsh_29628-E60-8",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "fsh_29628-R2",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29628-E43-9",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "fsh_29628-R2-3",
+  "relationSubType" : "Family",
+  "Sentence" : "Um , so most of your family is located in your area , then ?",
+  "sentence_index" : 22,
+  "Tokens" : [ "Um", ",", "so", "most", "of", "your", "family", "is", "located", "in", "your", "area", ",", "then", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "my office",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "my office",
+    "argMentionid" : "fsh_29628-E61-289",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "fsh_29628-R3",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29628-E43-290",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "fsh_29628-R3-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "One at my office and one at a friend 's house .",
+  "sentence_index" : 14,
+  "Tokens" : [ "One", "at", "my", "office", "and", "one", "at", "a", "friend", "'s", "house", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "friend's house",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "friend's house",
+    "argMentionid" : "fsh_29628-E62-291",
+    "start" : 8,
+    "end" : 10
+  },
+  "relationID" : "fsh_29628-R4",
+  "mentionArg1" : {
+    "extent" : "friend",
+    "argMentionid" : "fsh_29628-E63-292",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "fsh_29628-R4-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "One at my office and one at a friend 's house .",
+  "sentence_index" : 14,
+  "Tokens" : [ "One", "at", "my", "office", "and", "one", "at", "a", "friend", "'s", "house", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Um, so most of your family is located in your area, then",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "your area",
+    "argMentionid" : "fsh_29628-E4-10",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "fsh_29628-R5",
+  "mentionArg1" : {
+    "extent" : "most of your family",
+    "argMentionid" : "fsh_29628-E6-16",
+    "start" : 3,
+    "end" : 6
+  },
+  "id" : "fsh_29628-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Um , so most of your family is located in your area , then ?",
+  "sentence_index" : 22,
+  "Tokens" : [ "Um", ",", "so", "most", "of", "your", "family", "is", "located", "in", "your", "area", ",", "then", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "your area",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "your area",
+    "argMentionid" : "fsh_29628-E4-10",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "fsh_29628-R6",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29628-E43-11",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "fsh_29628-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Um , so most of your family is located in your area , then ?",
+  "sentence_index" : 22,
+  "Tokens" : [ "Um", ",", "so", "most", "of", "your", "family", "is", "located", "in", "your", "area", ",", "then", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Most of my family",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "my family",
+    "argMentionid" : "fsh_29628-E5-12",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "fsh_29628-R7",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29628-E59-13",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29628-R7-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Britt Most of my family has -- moved on .",
+  "sentence_index" : 26,
+  "Tokens" : [ "Britt", "Most", "of", "my", "family", "has", "--", "moved", "on", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my family",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "my family",
+    "argMentionid" : "fsh_29628-E5-31",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "fsh_29628-R7",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29628-E59-30",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "fsh_29628-R7-2",
+  "relationSubType" : "Family",
+  "Sentence" : "So I do n't know where that tradition started in my family but that -- we 've always done it that way .",
+  "sentence_index" : 39,
+  "Tokens" : [ "So", "I", "do", "n't", "know", "where", "that", "tradition", "started", "in", "my", "family", "but", "that", "--", "we", "'ve", "always", "done", "it", "that", "way", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my family",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "my family",
+    "argMentionid" : "fsh_29628-E5-33",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "fsh_29628-R7",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29628-E59-34",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29628-R7-3",
+  "relationSubType" : "Family",
+  "Sentence" : "But yeah , my family 's all over .",
+  "sentence_index" : 41,
+  "Tokens" : [ "But", "yeah", ",", "my", "family", "'s", "all", "over", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "My mom",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "mom",
+    "argMentionid" : "fsh_29628-E12-37",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "fsh_29628-R8",
+  "mentionArg1" : {
+    "extent" : "My",
+    "argMentionid" : "fsh_29628-E59-35",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29628-R8-1",
+  "relationSubType" : "Family",
+  "Sentence" : "My mom 's -- parents are in Florida , and I have aunts and uncles in Virginia .",
+  "sentence_index" : 42,
+  "Tokens" : [ "My", "mom", "'s", "--", "parents", "are", "in", "Florida", ",", "and", "I", "have", "aunts", "and", "uncles", "in", "Virginia", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "My mom's -- parents",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "My mom's -- parents",
+    "argMentionid" : "fsh_29628-E11-36",
+    "start" : 0,
+    "end" : 4
+  },
+  "relationID" : "fsh_29628-R9",
+  "mentionArg1" : {
+    "extent" : "mom",
+    "argMentionid" : "fsh_29628-E12-37",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "fsh_29628-R9-1",
+  "relationSubType" : "Family",
+  "Sentence" : "My mom 's -- parents are in Florida , and I have aunts and uncles in Virginia .",
+  "sentence_index" : 42,
+  "Tokens" : [ "My", "mom", "'s", "--", "parents", "are", "in", "Florida", ",", "and", "I", "have", "aunts", "and", "uncles", "in", "Virginia", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "My mom's -- parents are in Florida",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "Florida",
+    "argMentionid" : "fsh_29628-E13-38",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "fsh_29628-R10",
+  "mentionArg1" : {
+    "extent" : "My mom's -- parents",
+    "argMentionid" : "fsh_29628-E11-36",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "fsh_29628-R10-1",
+  "relationSubType" : "Located",
+  "Sentence" : "My mom 's -- parents are in Florida , and I have aunts and uncles in Virginia .",
+  "sentence_index" : 42,
+  "Tokens" : [ "My", "mom", "'s", "--", "parents", "are", "in", "Florida", ",", "and", "I", "have", "aunts", "and", "uncles", "in", "Virginia", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "But yeah, my family's all over. My mom's -- parents are in Florida, and I have aunts and uncles in Virginia",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "aunts and uncles in Virginia",
+    "argMentionid" : "fsh_29628-E14-40",
+    "start" : 21,
+    "end" : 25
+  },
+  "relationID" : "fsh_29628-R11",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29628-E59-39",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "fsh_29628-R11-1",
+  "relationSubType" : "Family",
+  "Sentence" : "But yeah , my family 's all over .",
+  "sentence_index" : 41,
+  "Tokens" : [ "But", "yeah", ",", "my", "family", "'s", "all", "over", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "aunts and uncles in Virginia",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "Virginia",
+    "argMentionid" : "fsh_29628-E16-42",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "fsh_29628-R12",
+  "mentionArg1" : {
+    "extent" : "aunts and uncles in Virginia",
+    "argMentionid" : "fsh_29628-E14-40",
+    "start" : 12,
+    "end" : 16
+  },
+  "id" : "fsh_29628-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "My mom 's -- parents are in Florida , and I have aunts and uncles in Virginia .",
+  "sentence_index" : 42,
+  "Tokens" : [ "My", "mom", "'s", "--", "parents", "are", "in", "Florida", ",", "and", "I", "have", "aunts", "and", "uncles", "in", "Virginia", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I'm in Boston, so",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "Boston",
+    "argMentionid" : "fsh_29628-E18-44",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "fsh_29628-R13",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29628-E59-43",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29628-R13-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I 'm in Boston , so- Carol Oh , wow .",
+  "sentence_index" : 43,
+  "Tokens" : [ "I", "'m", "in", "Boston", ",", "so-", "Carol", "Oh", ",", "wow", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my dad",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "my dad",
+    "argMentionid" : "fsh_29628-E22-53",
+    "start" : 1,
+    "end" : 2
+  },
+  "relationID" : "fsh_29628-R14",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29628-E59-54",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "fsh_29628-R14-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Britt my dad 's -- Yes .",
+  "sentence_index" : 48,
+  "Tokens" : [ "Britt", "my", "dad", "'s", "--", "Yes", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my father",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "my father",
+    "argMentionid" : "fsh_29628-E22-58",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "fsh_29628-R14",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29628-E59-56",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "fsh_29628-R14-2",
+  "relationSubType" : "Family",
+  "Sentence" : "Britt Yeah , and then my , my father 's family are all overseas , so .",
+  "sentence_index" : 51,
+  "Tokens" : [ "Britt", "Yeah", ",", "and", "then", "my", ",", "my", "father", "'s", "family", "are", "all", "overseas", ",", "so", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my father's family",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "my father's family",
+    "argMentionid" : "fsh_29628-E23-57",
+    "start" : 7,
+    "end" : 10
+  },
+  "relationID" : "fsh_29628-R15",
+  "mentionArg1" : {
+    "extent" : "my father",
+    "argMentionid" : "fsh_29628-E22-58",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "fsh_29628-R15-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Britt Yeah , and then my , my father 's family are all overseas , so .",
+  "sentence_index" : 51,
+  "Tokens" : [ "Britt", "Yeah", ",", "and", "then", "my", ",", "my", "father", "'s", "family", "are", "all", "overseas", ",", "so", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Yeah, and then my,  my father's family are all overseas",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "overseas",
+    "argMentionid" : "fsh_29628-E24-60",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "fsh_29628-R16",
+  "mentionArg1" : {
+    "extent" : "all",
+    "argMentionid" : "fsh_29628-E23-59",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "fsh_29628-R16-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Britt Yeah , and then my , my father 's family are all overseas , so .",
+  "sentence_index" : 51,
+  "Tokens" : [ "Britt", "Yeah", ",", "and", "then", "my", ",", "my", "father", "'s", "family", "are", "all", "overseas", ",", "so", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my aunt",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "my aunt",
+    "argMentionid" : "fsh_29628-E26-65",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "fsh_29628-R17",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29628-E59-64",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "fsh_29628-R17-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Britt Uh , yeah , so , we do n't often get to see sometimes people I mean , my aunt came for Christmas .",
+  "sentence_index" : 53,
+  "Tokens" : [ "Britt", "Uh", ",", "yeah", ",", "so", ",", "we", "do", "n't", "often", "get", "to", "see", "sometimes", "people", "I", "mean", ",", "my", "aunt", "came", "for", "Christmas", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my aunt",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "my aunt",
+    "argMentionid" : "fsh_29628-E26-90",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "fsh_29628-R17",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29628-E59-91",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "fsh_29628-R17-2",
+  "relationSubType" : "Family",
+  "Sentence" : "Britt We 're actually , um , going to France for Christmas to have with my aunt , so- Carol Oh , how wonderful .",
+  "sentence_index" : 67,
+  "Tokens" : [ "Britt", "We", "'re", "actually", ",", "um", ",", "going", "to", "France", "for", "Christmas", "to", "have", "with", "my", "aunt", ",", "so-", "Carol", "Oh", ",", "how", "wonderful", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Do you have any children",
+  "sentence_length" : 6,
+  "mentionArg2" : {
+    "extent" : "any children",
+    "argMentionid" : "fsh_29628-E27-67",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "fsh_29628-R18",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29628-E59-66",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "fsh_29628-R18-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Do you have any children ?",
+  "sentence_index" : 55,
+  "Tokens" : [ "Do", "you", "have", "any", "children", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "My parents",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "My parents",
+    "argMentionid" : "fsh_29628-E28-75",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "fsh_29628-R19",
+  "mentionArg1" : {
+    "extent" : "My",
+    "argMentionid" : "fsh_29628-E59-76",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "fsh_29628-R19-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Britt But um , actually , this year I - we 're going -- uh My parents are also divorced , so it was always difficult because we had to , like , split Christmas .",
+  "sentence_index" : 62,
+  "Tokens" : [ "Britt", "But", "um", ",", "actually", ",", "this", "year", "I", "-", "we", "'re", "going", "--", "uh", "My", "parents", "are", "also", "divorced", ",", "so", "it", "was", "always", "difficult", "because", "we", "had", "to", ",", "like", ",", "split", "Christmas", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "My parents",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "My parents",
+    "argMentionid" : "fsh_29628-E28-138",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "fsh_29628-R19",
+  "mentionArg1" : {
+    "extent" : "My",
+    "argMentionid" : "fsh_29628-E59-139",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29628-R19-2",
+  "relationSubType" : "Family",
+  "Sentence" : "My parents kind of talked me out of it .",
+  "sentence_index" : 115,
+  "Tokens" : [ "My", "parents", "kind", "of", "talked", "me", "out", "of", "it", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "We're actually, um, going to France for Christmas to have with my aunt, so",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "France",
+    "argMentionid" : "fsh_29628-E34-89",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "fsh_29628-R20",
+  "mentionArg1" : {
+    "extent" : "We",
+    "argMentionid" : "fsh_29628-E5-88",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "fsh_29628-R20-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Britt We 're actually , um , going to France for Christmas to have with my aunt , so- Carol Oh , how wonderful .",
+  "sentence_index" : 67,
+  "Tokens" : [ "Britt", "We", "'re", "actually", ",", "um", ",", "going", "to", "France", "for", "Christmas", "to", "have", "with", "my", "aunt", ",", "so-", "Carol", "Oh", ",", "how", "wonderful", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "We're actually, um, going to France for Christmas to have with my aunt, so",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "France",
+    "argMentionid" : "fsh_29628-E34-89",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "fsh_29628-R22",
+  "mentionArg1" : {
+    "extent" : "my aunt",
+    "argMentionid" : "fsh_29628-E26-90",
+    "start" : 15,
+    "end" : 16
+  },
+  "id" : "fsh_29628-R22-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Britt We 're actually , um , going to France for Christmas to have with my aunt , so- Carol Oh , how wonderful .",
+  "sentence_index" : 67,
+  "Tokens" : [ "Britt", "We", "'re", "actually", ",", "um", ",", "going", "to", "France", "for", "Christmas", "to", "have", "with", "my", "aunt", ",", "so-", "Carol", "Oh", ",", "how", "wonderful", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "How long will you be out there",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "fsh_29628-E34-93",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "fsh_29628-R23",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29628-E59-92",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29628-R23-1",
+  "relationSubType" : "Located",
+  "Sentence" : "How long will you be out there ?",
+  "sentence_index" : 68,
+  "Tokens" : [ "How", "long", "will", "you", "be", "out", "there", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "my office",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "my office",
+    "argMentionid" : "fsh_29628-E37-104",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "fsh_29628-R24",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29628-E59-105",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "fsh_29628-R24-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Although , this year everything 's been so crazy a- at , at my office that they decided to have the holiday party in January .",
+  "sentence_index" : 88,
+  "Tokens" : [ "Although", ",", "this", "year", "everything", "'s", "been", "so", "crazy", "a-", "at", ",", "at", "my", "office", "that", "they", "decided", "to", "have", "the", "holiday", "party", "in", "January", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Um, I work for a transportation planning consulting firm",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "a transportation planning consulting firm",
+    "argMentionid" : "fsh_29628-E39-109",
+    "start" : 6,
+    "end" : 10
+  },
+  "relationID" : "fsh_29628-R25",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29628-E59-108",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29628-R25-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Britt Um , I work for a transportation planning consulting firm .",
+  "sentence_index" : 90,
+  "Tokens" : [ "Britt", "Um", ",", "I", "work", "for", "a", "transportation", "planning", "consulting", "firm", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Uh, I teach adult high school right now",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "adult high school",
+    "argMentionid" : "fsh_29628-E44-127",
+    "start" : 5,
+    "end" : 7
+  },
+  "relationID" : "fsh_29628-R26",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29628-E43-126",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29628-R26-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Carol Uh , I teach adult high school right now .",
+  "sentence_index" : 105,
+  "Tokens" : [ "Carol", "Uh", ",", "I", "teach", "adult", "high", "school", "right", "now", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I teach adult high school",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "adult high school",
+    "argMentionid" : "fsh_29628-E44-131",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "fsh_29628-R26",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29628-E43-129",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "fsh_29628-R26-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Carol but I teach adult high school , so I teach careers and history -- three nights a week .",
+  "sentence_index" : 107,
+  "Tokens" : [ "Carol", "but", "I", "teach", "adult", "high", "school", ",", "so", "I", "teach", "careers", "and", "history", "--", "three", "nights", "a", "week", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my daughter",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "my daughter",
+    "argMentionid" : "fsh_29628-E47-145",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "fsh_29628-R28",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29628-E43-143",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29628-R28-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Carol I talked my daughter out of it .",
+  "sentence_index" : 118,
+  "Tokens" : [ "Carol", "I", "talked", "my", "daughter", "out", "of", "it", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "But yeah, my family's all over. My mom's -- parents are in Florida, and I have aunts and uncles in Virginia",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "aunts and uncles in Virginia",
+    "argMentionid" : "fsh_29628-E15-41",
+    "start" : 21,
+    "end" : 25
+  },
+  "relationID" : "fsh_29628-R33",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29628-E59-39",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "fsh_29628-R33-1",
+  "relationSubType" : "Family",
+  "Sentence" : "But yeah , my family 's all over .",
+  "sentence_index" : 41,
+  "Tokens" : [ "But", "yeah", ",", "my", "family", "'s", "all", "over", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "aunts and uncles in Virginia",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "Virginia",
+    "argMentionid" : "fsh_29628-E16-42",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "fsh_29628-R34",
+  "mentionArg1" : {
+    "extent" : "aunts and uncles in Virginia",
+    "argMentionid" : "fsh_29628-E15-41",
+    "start" : 12,
+    "end" : 16
+  },
+  "id" : "fsh_29628-R34-1",
+  "relationSubType" : "Located",
+  "Sentence" : "My mom 's -- parents are in Florida , and I have aunts and uncles in Virginia .",
+  "sentence_index" : 42,
+  "Tokens" : [ "My", "mom", "'s", "--", "parents", "are", "in", "Florida", ",", "and", "I", "have", "aunts", "and", "uncles", "in", "Virginia", "." ]
+} ]

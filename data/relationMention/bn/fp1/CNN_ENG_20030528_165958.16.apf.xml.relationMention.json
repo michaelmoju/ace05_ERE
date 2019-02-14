@@ -1,0 +1,67 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "the american public",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "american",
+    "argMentionid" : "CNN_ENG_20030528_165958.16-E6-7",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "CNN_ENG_20030528_165958.16-R1",
+  "mentionArg1" : {
+    "extent" : "the american public",
+    "argMentionid" : "CNN_ENG_20030528_165958.16-E5-6",
+    "start" : 26,
+    "end" : 28
+  },
+  "id" : "CNN_ENG_20030528_165958.16-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "president bush head to the g-8 summit in france on friday with victory over saddam hussein and in his pocket and a soaring approval rating by the american public , but do europeans share the same enthusiasm for the president ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "president", "bush", "head", "to", "the", "g-8", "summit", "in", "france", "on", "friday", "with", "victory", "over", "saddam", "hussein", "and", "in", "his", "pocket", "and", "a", "soaring", "approval", "rating", "by", "the", "american", "public", ",", "but", "do", "europeans", "share", "the", "same", "enthusiasm", "for", "the", "president", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our senior political analyst bill schneider",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_ENG_20030528_165958.16-E10-12",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_ENG_20030528_165958.16-R2",
+  "mentionArg1" : {
+    "extent" : "our senior political analyst bill schneider",
+    "argMentionid" : "CNN_ENG_20030528_165958.16-E8-10",
+    "start" : 0,
+    "end" : 5
+  },
+  "id" : "CNN_ENG_20030528_165958.16-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "our senior political analyst bill schneider reports on the results of a brand new poll .",
+  "sentence_index" : 1,
+  "Tokens" : [ "our", "senior", "political", "analyst", "bill", "schneider", "reports", "on", "the", "results", "of", "a", "brand", "new", "poll", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "president bush head to the g-8 summit in france on friday with victory over saddam hussein and in his pocket and a soaring approval rating by the american public, but do europeans share the same enthusiasm for the president",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "france",
+    "argMentionid" : "CNN_ENG_20030528_165958.16-E3-3",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "CNN_ENG_20030528_165958.16-R3",
+  "mentionArg1" : {
+    "extent" : "president bush",
+    "argMentionid" : "CNN_ENG_20030528_165958.16-E1-1",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_ENG_20030528_165958.16-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "president bush head to the g-8 summit in france on friday with victory over saddam hussein and in his pocket and a soaring approval rating by the american public , but do europeans share the same enthusiasm for the president ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "president", "bush", "head", "to", "the", "g-8", "summit", "in", "france", "on", "friday", "with", "victory", "over", "saddam", "hussein", "and", "in", "his", "pocket", "and", "a", "soaring", "approval", "rating", "by", "the", "american", "public", ",", "but", "do", "europeans", "share", "the", "same", "enthusiasm", "for", "the", "president", "?" ]
+} ]

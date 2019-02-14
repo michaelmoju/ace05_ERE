@@ -1,0 +1,133 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "Talent was in charge of the CIA when two of the most costly intelligence failures in American history happened -- not recognizing the Sept. 11 plot, and wrongly claiming that Saddam had a stockpile of WMDs",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "the CIA",
+    "argMentionid" : "rec.music.phish_20041215.1554-E24-57",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "rec.music.phish_20041215.1554-R1",
+  "mentionArg1" : {
+    "extent" : "Talent",
+    "argMentionid" : "rec.music.phish_20041215.1554-E21-56",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "rec.music.phish_20041215.1554-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Talent was in charge of the CIA when two of the most costly intelligence failures in American history happened -- not recognizing the Sept. 11 plot , and wrongly claiming that Saddam had a stockpile of WMDs .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Talent", "was", "in", "charge", "of", "the", "CIA", "when", "two", "of", "the", "most", "costly", "intelligence", "failures", "in", "American", "history", "happened", "--", "not", "recognizing", "the", "Sept.", "11", "plot", ",", "and", "wrongly", "claiming", "that", "Saddam", "had", "a", "stockpile", "of", "WMDs", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Talent was in charge of the CIA when two of the most costly intelligence failures in American history happened -- not recognizing the Sept. 11 plot, and wrongly claiming that Saddam had a stockpile of WMDs",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "a stockpile of WMDs",
+    "argMentionid" : "rec.music.phish_20041215.1554-E28-60",
+    "start" : 33,
+    "end" : 36
+  },
+  "relationID" : "rec.music.phish_20041215.1554-R2",
+  "mentionArg1" : {
+    "extent" : "Saddam",
+    "argMentionid" : "rec.music.phish_20041215.1554-E27-59",
+    "start" : 31,
+    "end" : 31
+  },
+  "id" : "rec.music.phish_20041215.1554-R2-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Talent was in charge of the CIA when two of the most costly intelligence failures in American history happened -- not recognizing the Sept. 11 plot , and wrongly claiming that Saddam had a stockpile of WMDs .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Talent", "was", "in", "charge", "of", "the", "CIA", "when", "two", "of", "the", "most", "costly", "intelligence", "failures", "in", "American", "history", "happened", "--", "not", "recognizing", "the", "Sept.", "11", "plot", ",", "and", "wrongly", "claiming", "that", "Saddam", "had", "a", "stockpile", "of", "WMDs", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our troops",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "rec.music.phish_20041215.1554-E25-7",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "rec.music.phish_20041215.1554-R3",
+  "mentionArg1" : {
+    "extent" : "our troops",
+    "argMentionid" : "rec.music.phish_20041215.1554-E3-5",
+    "start" : 23,
+    "end" : 24
+  },
+  "id" : "rec.music.phish_20041215.1554-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Franks was in charge of the operation that was supposed to quickly go in , take over Iraq , and then start moving our troops out rapidly -- at this point I think we 're going to see our troops over there at least through the end of the decade .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Franks", "was", "in", "charge", "of", "the", "operation", "that", "was", "supposed", "to", "quickly", "go", "in", ",", "take", "over", "Iraq", ",", "and", "then", "start", "moving", "our", "troops", "out", "rapidly", "--", "at", "this", "point", "I", "think", "we", "'re", "going", "to", "see", "our", "troops", "over", "there", "at", "least", "through", "the", "end", "of", "the", "decade", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our troops",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "rec.music.phish_20041215.1554-E25-11",
+    "start" : 38,
+    "end" : 38
+  },
+  "relationID" : "rec.music.phish_20041215.1554-R3",
+  "mentionArg1" : {
+    "extent" : "our troops",
+    "argMentionid" : "rec.music.phish_20041215.1554-E3-10",
+    "start" : 38,
+    "end" : 39
+  },
+  "id" : "rec.music.phish_20041215.1554-R3-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Franks was in charge of the operation that was supposed to quickly go in , take over Iraq , and then start moving our troops out rapidly -- at this point I think we 're going to see our troops over there at least through the end of the decade .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Franks", "was", "in", "charge", "of", "the", "operation", "that", "was", "supposed", "to", "quickly", "go", "in", ",", "take", "over", "Iraq", ",", "and", "then", "start", "moving", "our", "troops", "out", "rapidly", "--", "at", "this", "point", "I", "think", "we", "'re", "going", "to", "see", "our", "troops", "over", "there", "at", "least", "through", "the", "end", "of", "the", "decade", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Franks was in charge of the operation that was supposed to quickly go in, take over Iraq, and then start moving our troops out rapidly -- at this point I think we're going to see our troops over there at least through the end of the decade",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "rec.music.phish_20041215.1554-E2-4",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "rec.music.phish_20041215.1554-R4",
+  "mentionArg1" : {
+    "extent" : "our troops",
+    "argMentionid" : "rec.music.phish_20041215.1554-E3-5",
+    "start" : 23,
+    "end" : 24
+  },
+  "id" : "rec.music.phish_20041215.1554-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Franks was in charge of the operation that was supposed to quickly go in , take over Iraq , and then start moving our troops out rapidly -- at this point I think we 're going to see our troops over there at least through the end of the decade .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Franks", "was", "in", "charge", "of", "the", "operation", "that", "was", "supposed", "to", "quickly", "go", "in", ",", "take", "over", "Iraq", ",", "and", "then", "start", "moving", "our", "troops", "out", "rapidly", "--", "at", "this", "point", "I", "think", "we", "'re", "going", "to", "see", "our", "troops", "over", "there", "at", "least", "through", "the", "end", "of", "the", "decade", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the existing Iraqi army",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "rec.music.phish_20041215.1554-E2-15",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "rec.music.phish_20041215.1554-R5",
+  "mentionArg1" : {
+    "extent" : "the existing Iraqi army",
+    "argMentionid" : "rec.music.phish_20041215.1554-E4-14",
+    "start" : 5,
+    "end" : 8
+  },
+  "id" : "rec.music.phish_20041215.1554-R5-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "And Bremer decided to destroy the existing Iraqi army , leaving it up to us and new recruits to try to impose order .",
+  "sentence_index" : 4,
+  "Tokens" : [ "And", "Bremer", "decided", "to", "destroy", "the", "existing", "Iraqi", "army", ",", "leaving", "it", "up", "to", "us", "and", "new", "recruits", "to", "try", "to", "impose", "order", "." ]
+} ]

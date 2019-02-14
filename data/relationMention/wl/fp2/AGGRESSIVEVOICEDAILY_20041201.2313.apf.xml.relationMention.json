@@ -1,0 +1,177 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "Chai Vang of St. Paul, Minn",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "St. Paul, Minn",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E24-49",
+    "start" : 20,
+    "end" : 23
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041201.2313-R1",
+  "mentionArg1" : {
+    "extent" : "Chai Vang of St. Paul, Minn",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E22-47",
+    "start" : 17,
+    "end" : 23
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041201.2313-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "But as for the assault weapons ban issue , the man accused of the brutal killings , Chai Vang of St. Paul , Minn , used a Russian-built Saiga 7.62 mm , SKS semiautomatic rifle .",
+  "sentence_index" : 3,
+  "Tokens" : [ "But", "as", "for", "the", "assault", "weapons", "ban", "issue", ",", "the", "man", "accused", "of", "the", "brutal", "killings", ",", "Chai", "Vang", "of", "St.", "Paul", ",", "Minn", ",", "used", "a", "Russian-built", "Saiga", "7.62", "mm", ",", "SKS", "semiautomatic", "rifle", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "St. Paul, Minn",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "Minn",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E25-50",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041201.2313-R2",
+  "mentionArg1" : {
+    "extent" : "St. Paul, Minn",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E24-49",
+    "start" : 20,
+    "end" : 23
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041201.2313-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "But as for the assault weapons ban issue , the man accused of the brutal killings , Chai Vang of St. Paul , Minn , used a Russian-built Saiga 7.62 mm , SKS semiautomatic rifle .",
+  "sentence_index" : 3,
+  "Tokens" : [ "But", "as", "for", "the", "assault", "weapons", "ban", "issue", ",", "the", "man", "accused", "of", "the", "brutal", "killings", ",", "Chai", "Vang", "of", "St.", "Paul", ",", "Minn", ",", "used", "a", "Russian-built", "Saiga", "7.62", "mm", ",", "SKS", "semiautomatic", "rifle", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a Russian-built Saiga 7.62 mm, SKS semiautomatic rifle",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "a Russian-built Saiga 7.62 mm, SKS semiautomatic rifle",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E2-52",
+    "start" : 26,
+    "end" : 34
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041201.2313-R3",
+  "mentionArg1" : {
+    "extent" : "Saiga",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E29-54",
+    "start" : 28,
+    "end" : 28
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041201.2313-R3-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "But as for the assault weapons ban issue , the man accused of the brutal killings , Chai Vang of St. Paul , Minn , used a Russian-built Saiga 7.62 mm , SKS semiautomatic rifle .",
+  "sentence_index" : 3,
+  "Tokens" : [ "But", "as", "for", "the", "assault", "weapons", "ban", "issue", ",", "the", "man", "accused", "of", "the", "brutal", "killings", ",", "Chai", "Vang", "of", "St.", "Paul", ",", "Minn", ",", "used", "a", "Russian-built", "Saiga", "7.62", "mm", ",", "SKS", "semiautomatic", "rifle", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a Russian-built Saiga 7.62 mm, SKS semiautomatic rifle",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "a Russian-built Saiga 7.62 mm, SKS semiautomatic rifle",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E2-52",
+    "start" : 26,
+    "end" : 34
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041201.2313-R4",
+  "mentionArg1" : {
+    "extent" : "Russian",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E26-51",
+    "start" : 27,
+    "end" : 27
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041201.2313-R4-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "But as for the assault weapons ban issue , the man accused of the brutal killings , Chai Vang of St. Paul , Minn , used a Russian-built Saiga 7.62 mm , SKS semiautomatic rifle .",
+  "sentence_index" : 3,
+  "Tokens" : [ "But", "as", "for", "the", "assault", "weapons", "ban", "issue", ",", "the", "man", "accused", "of", "the", "brutal", "killings", ",", "Chai", "Vang", "of", "St.", "Paul", ",", "Minn", ",", "used", "a", "Russian-built", "Saiga", "7.62", "mm", ",", "SKS", "semiautomatic", "rifle", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a medium-powered carbine equipped with a 10-round magazine",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "a medium-powered carbine equipped with a 10-round magazine",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E1-20",
+    "start" : 3,
+    "end" : 10
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041201.2313-R5",
+  "mentionArg1" : {
+    "extent" : "10-round",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E13-27",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041201.2313-R5-1",
+  "relationSubType" : "Artifact",
+  "Sentence" : "The SKS is a medium-powered carbine equipped with a 10-round magazine , just like the pistol I 'm displaying in the photo on the left hand side of this blog .",
+  "sentence_index" : 8,
+  "Tokens" : [ "The", "SKS", "is", "a", "medium-powered", "carbine", "equipped", "with", "a", "10-round", "magazine", ",", "just", "like", "the", "pistol", "I", "'m", "displaying", "in", "the", "photo", "on", "the", "left", "hand", "side", "of", "this", "blog", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Banned weapons had capacities of more than 10 rounds; so like my small 9mm, the SKS was not classified as an \"assault\" weapon",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Banned weapons",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E19-26",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041201.2313-R6",
+  "mentionArg1" : {
+    "extent" : "more than 10 rounds",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E14-28",
+    "start" : 5,
+    "end" : 8
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041201.2313-R6-1",
+  "relationSubType" : "Artifact",
+  "Sentence" : "Banned weapons had capacities of more than 10 rounds ; so like my small 9mm , the SKS was not classified as an \" assault \" weapon .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Banned", "weapons", "had", "capacities", "of", "more", "than", "10", "rounds", ";", "so", "like", "my", "small", "9mm", ",", "the", "SKS", "was", "not", "classified", "as", "an", "\"", "assault", "\"", "weapon", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "If convicted of the killings, Vang faces life in prison as Minnesota does not honor the death penalty",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "prison",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E15-29",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041201.2313-R7",
+  "mentionArg1" : {
+    "extent" : "Vang",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E22-23",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041201.2313-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "If convicted of the killings , Vang faces life in prison as Minnesota does not honor the death penalty .",
+  "sentence_index" : 11,
+  "Tokens" : [ "If", "convicted", "of", "the", "killings", ",", "Vang", "faces", "life", "in", "prison", "as", "Minnesota", "does", "not", "honor", "the", "death", "penalty", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the families of the victims",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "the victims",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E18-38",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041201.2313-R8",
+  "mentionArg1" : {
+    "extent" : "the families of the victims",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041201.2313-E16-37",
+    "start" : 11,
+    "end" : 15
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041201.2313-R8-1",
+  "relationSubType" : "Family",
+  "Sentence" : "I look forward to Vang 's conviction and I pray for the families of the victims .",
+  "sentence_index" : 12,
+  "Tokens" : [ "I", "look", "forward", "to", "Vang", "'s", "conviction", "and", "I", "pray", "for", "the", "families", "of", "the", "victims", "." ]
+} ]

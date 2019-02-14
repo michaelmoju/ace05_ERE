@@ -1,0 +1,2267 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "Capture of the airport would give American and British troops a facility for airlifting equipment and troops to Baghdad",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "a facility for airlifting equipment and troops to Baghdad",
+    "argMentionid" : "APW_ENG_20030403.0862-E192-253",
+    "start" : 10,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030403.0862-R1",
+  "mentionArg1" : {
+    "extent" : "troops",
+    "argMentionid" : "APW_ENG_20030403.0862-E39-53",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "APW_ENG_20030403.0862-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Capture of the airport would give American and British troops a facility for airlifting equipment and troops to Baghdad .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Capture", "of", "the", "airport", "would", "give", "American", "and", "British", "troops", "a", "facility", "for", "airlifting", "equipment", "and", "troops", "to", "Baghdad", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Capture of the airport would give American and British troops a facility for airlifting equipment and troops to Baghdad",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "APW_ENG_20030403.0862-E193-52",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030403.0862-R2",
+  "mentionArg1" : {
+    "extent" : "troops",
+    "argMentionid" : "APW_ENG_20030403.0862-E39-53",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "APW_ENG_20030403.0862-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Capture of the airport would give American and British troops a facility for airlifting equipment and troops to Baghdad .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Capture", "of", "the", "airport", "would", "give", "American", "and", "British", "troops", "a", "facility", "for", "airlifting", "equipment", "and", "troops", "to", "Baghdad", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "an Army soldier investigating a destroyed tank in central Iraq",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Army",
+    "argMentionid" : "APW_ENG_20030403.0862-E150-194",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "APW_ENG_20030403.0862-R3",
+  "mentionArg1" : {
+    "extent" : "an Army soldier investigating a destroyed tank in central Iraq",
+    "argMentionid" : "APW_ENG_20030403.0862-E59-77",
+    "start" : 1,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030403.0862-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "And an Army soldier investigating a destroyed tank in central Iraq was killed by friendly fire when he was mistaken for an Iraqi , the military said .",
+  "sentence_index" : 19,
+  "Tokens" : [ "And", "an", "Army", "soldier", "investigating", "a", "destroyed", "tank", "in", "central", "Iraq", "was", "killed", "by", "friendly", "fire", "when", "he", "was", "mistaken", "for", "an", "Iraqi", ",", "the", "military", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the outskirts of the capital",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "the capital",
+    "argMentionid" : "APW_ENG_20030403.0862-E193-261",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030403.0862-R4",
+  "mentionArg1" : {
+    "extent" : "the outskirts of the capital",
+    "argMentionid" : "APW_ENG_20030403.0862-E185-246",
+    "start" : 7,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030403.0862-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "As conventional units fought their way to the outskirts of the capital , officials said special forces had raided the Tharthar presidential palace near Tikrit , Saddam 's hometown .",
+  "sentence_index" : 29,
+  "Tokens" : [ "As", "conventional", "units", "fought", "their", "way", "to", "the", "outskirts", "of", "the", "capital", ",", "officials", "said", "special", "forces", "had", "raided", "the", "Tharthar", "presidential", "palace", "near", "Tikrit", ",", "Saddam", "'s", "hometown", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Documents were seized at the site north of Baghdad, said Brig. Gen. Vincent Brooks at U.S. Central Command in the Persian Gulf, but no ranking members of the regime were found",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "APW_ENG_20030403.0862-E193-262",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030403.0862-R5",
+  "mentionArg1" : {
+    "extent" : "the site north of Baghdad",
+    "argMentionid" : "APW_ENG_20030403.0862-E96-132",
+    "start" : 4,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030403.0862-R5-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Documents were seized at the site north of Baghdad , said Brig. Gen. Vincent Brooks at U.S. Central Command in the Persian Gulf , but no ranking members of the regime were found .",
+  "sentence_index" : 30,
+  "Tokens" : [ "Documents", "were", "seized", "at", "the", "site", "north", "of", "Baghdad", ",", "said", "Brig.", "Gen.", "Vincent", "Brooks", "at", "U.S.", "Central", "Command", "in", "the", "Persian", "Gulf", ",", "but", "no", "ranking", "members", "of", "the", "regime", "were", "found", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Die-hard defenders have held out for days inside the city of 1.3 million",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "the city of 1.3 million",
+    "argMentionid" : "APW_ENG_20030403.0862-E124-166",
+    "start" : 8,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030403.0862-R6",
+  "mentionArg1" : {
+    "extent" : "Die-hard defenders",
+    "argMentionid" : "APW_ENG_20030403.0862-E123-165",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030403.0862-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Die-hard defenders have held out for days inside the city of 1.3 million .",
+  "sentence_index" : 35,
+  "Tokens" : [ "Die-hard", "defenders", "have", "held", "out", "for", "days", "inside", "the", "city", "of", "1.3", "million", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "U.S. Central Command in the Persian Gulf",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "the Persian Gulf",
+    "argMentionid" : "APW_ENG_20030403.0862-E103-141",
+    "start" : 20,
+    "end" : 22
+  },
+  "relationID" : "APW_ENG_20030403.0862-R7",
+  "mentionArg1" : {
+    "extent" : "U.S. Central Command in the Persian Gulf",
+    "argMentionid" : "APW_ENG_20030403.0862-E102-140",
+    "start" : 16,
+    "end" : 22
+  },
+  "id" : "APW_ENG_20030403.0862-R7-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Documents were seized at the site north of Baghdad , said Brig. Gen. Vincent Brooks at U.S. Central Command in the Persian Gulf , but no ranking members of the regime were found .",
+  "sentence_index" : 30,
+  "Tokens" : [ "Documents", "were", "seized", "at", "the", "site", "north", "of", "Baghdad", ",", "said", "Brig.", "Gen.", "Vincent", "Brooks", "at", "U.S.", "Central", "Command", "in", "the", "Persian", "Gulf", ",", "but", "no", "ranking", "members", "of", "the", "regime", "were", "found", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In the country's southern region, British forces penetrated closer to the center of Basra, and warplanes dropped 500-pound (225-kilogram) and 1,000-pound (450-kilogram) laser-guided bombs on an Iraqi intelligence complex",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "the center of Basra",
+    "argMentionid" : "APW_ENG_20030403.0862-E126-168",
+    "start" : 12,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030403.0862-R8",
+  "mentionArg1" : {
+    "extent" : "British forces",
+    "argMentionid" : "APW_ENG_20030403.0862-E117-159",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030403.0862-R8-1",
+  "relationSubType" : "Near",
+  "Sentence" : "In the country 's southern region , British forces penetrated closer to the center of Basra , and warplanes dropped 500-pound ( 225-kilogram ) and 1,000-pound ( 450-kilogram ) laser-guided bombs on an Iraqi intelligence complex .",
+  "sentence_index" : 34,
+  "Tokens" : [ "In", "the", "country", "'s", "southern", "region", ",", "British", "forces", "penetrated", "closer", "to", "the", "center", "of", "Basra", ",", "and", "warplanes", "dropped", "500-pound", "(", "225-kilogram", ")", "and", "1,000-pound", "(", "450-kilogram", ")", "laser-guided", "bombs", "on", "an", "Iraqi", "intelligence", "complex", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a Shiite holy site",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "a Shiite holy site",
+    "argMentionid" : "APW_ENG_20030403.0862-E139-186",
+    "start" : 18,
+    "end" : 21
+  },
+  "relationID" : "APW_ENG_20030403.0862-R9",
+  "mentionArg1" : {
+    "extent" : "Shiite",
+    "argMentionid" : "APW_ENG_20030403.0862-E182-242",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030403.0862-R9-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "A small group of Iraqi defenders has been holding out inside the city in a mosque , considered a Shiite holy site , and local clerics said one religious leader had recently arrived in hopes of arranging for their safe passage out of the shrine .",
+  "sentence_index" : 38,
+  "Tokens" : [ "A", "small", "group", "of", "Iraqi", "defenders", "has", "been", "holding", "out", "inside", "the", "city", "in", "a", "mosque", ",", "considered", "a", "Shiite", "holy", "site", ",", "and", "local", "clerics", "said", "one", "religious", "leader", "had", "recently", "arrived", "in", "hopes", "of", "arranging", "for", "their", "safe", "passage", "out", "of", "the", "shrine", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Baghdad's Saddam International Airport",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "APW_ENG_20030403.0862-E193-265",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030403.0862-R10",
+  "mentionArg1" : {
+    "extent" : "Baghdad's Saddam International Airport",
+    "argMentionid" : "APW_ENG_20030403.0862-E192-264",
+    "start" : 13,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030403.0862-R10-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "SOUTH OF BAGHDAD , Iraq ( AP ) U.S. soldiers moved to capture Baghdad 's Saddam International Airport early Friday and fought running battles with Iraqi defenders along the city 's southern fringes .",
+  "sentence_index" : 0,
+  "Tokens" : [ "SOUTH", "OF", "BAGHDAD", ",", "Iraq", "(", "AP", ")", "U.S.", "soldiers", "moved", "to", "capture", "Baghdad", "'s", "Saddam", "International", "Airport", "early", "Friday", "and", "fought", "running", "battles", "with", "Iraqi", "defenders", "along", "the", "city", "'s", "southern", "fringes", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "American and British helicopters and planes",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "American and British helicopters and planes",
+    "argMentionid" : "APW_ENG_20030403.0862-E147-196",
+    "start" : 0,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030403.0862-R11",
+  "mentionArg1" : {
+    "extent" : "American",
+    "argMentionid" : "APW_ENG_20030403.0862-E4-198",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "APW_ENG_20030403.0862-R11-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "American and British helicopters and planes bombed positions in Kut , and Marines and Iraqis lobbed grenades at close quarters .",
+  "sentence_index" : 40,
+  "Tokens" : [ "American", "and", "British", "helicopters", "and", "planes", "bombed", "positions", "in", "Kut", ",", "and", "Marines", "and", "Iraqis", "lobbed", "grenades", "at", "close", "quarters", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iraqi defenders along the city's southern fringes",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030403.0862-E46-267",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "APW_ENG_20030403.0862-R12",
+  "mentionArg1" : {
+    "extent" : "Iraqi defenders along the city's southern fringes",
+    "argMentionid" : "APW_ENG_20030403.0862-E194-266",
+    "start" : 25,
+    "end" : 32
+  },
+  "id" : "APW_ENG_20030403.0862-R12-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "SOUTH OF BAGHDAD , Iraq ( AP ) U.S. soldiers moved to capture Baghdad 's Saddam International Airport early Friday and fought running battles with Iraqi defenders along the city 's southern fringes .",
+  "sentence_index" : 0,
+  "Tokens" : [ "SOUTH", "OF", "BAGHDAD", ",", "Iraq", "(", "AP", ")", "U.S.", "soldiers", "moved", "to", "capture", "Baghdad", "'s", "Saddam", "International", "Airport", "early", "Friday", "and", "fought", "running", "battles", "with", "Iraqi", "defenders", "along", "the", "city", "'s", "southern", "fringes", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the city's southern fringes",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "the city's southern fringes",
+    "argMentionid" : "APW_ENG_20030403.0862-E196-268",
+    "start" : 28,
+    "end" : 32
+  },
+  "relationID" : "APW_ENG_20030403.0862-R13",
+  "mentionArg1" : {
+    "extent" : "the city",
+    "argMentionid" : "APW_ENG_20030403.0862-E193-269",
+    "start" : 28,
+    "end" : 29
+  },
+  "id" : "APW_ENG_20030403.0862-R13-1",
+  "relationSubType" : "Near",
+  "Sentence" : "SOUTH OF BAGHDAD , Iraq ( AP ) U.S. soldiers moved to capture Baghdad 's Saddam International Airport early Friday and fought running battles with Iraqi defenders along the city 's southern fringes .",
+  "sentence_index" : 0,
+  "Tokens" : [ "SOUTH", "OF", "BAGHDAD", ",", "Iraq", "(", "AP", ")", "U.S.", "soldiers", "moved", "to", "capture", "Baghdad", "'s", "Saddam", "International", "Airport", "early", "Friday", "and", "fought", "running", "battles", "with", "Iraqi", "defenders", "along", "the", "city", "'s", "southern", "fringes", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "U.S. soldiers moved to capture Baghdad's Saddam International Airport early Friday and fought running battles with Iraqi defenders along the city's southern fringes",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "Baghdad's Saddam International Airport",
+    "argMentionid" : "APW_ENG_20030403.0862-E192-264",
+    "start" : 13,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030403.0862-R14",
+  "mentionArg1" : {
+    "extent" : "U.S. soldiers",
+    "argMentionid" : "APW_ENG_20030403.0862-E186-245",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030403.0862-R14-1",
+  "relationSubType" : "Located",
+  "Sentence" : "SOUTH OF BAGHDAD , Iraq ( AP ) U.S. soldiers moved to capture Baghdad 's Saddam International Airport early Friday and fought running battles with Iraqi defenders along the city 's southern fringes .",
+  "sentence_index" : 0,
+  "Tokens" : [ "SOUTH", "OF", "BAGHDAD", ",", "Iraq", "(", "AP", ")", "U.S.", "soldiers", "moved", "to", "capture", "Baghdad", "'s", "Saddam", "International", "Airport", "early", "Friday", "and", "fought", "running", "battles", "with", "Iraqi", "defenders", "along", "the", "city", "'s", "southern", "fringes", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "American and British helicopters and planes",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "American and British helicopters and planes",
+    "argMentionid" : "APW_ENG_20030403.0862-E147-196",
+    "start" : 0,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030403.0862-R15",
+  "mentionArg1" : {
+    "extent" : "British",
+    "argMentionid" : "APW_ENG_20030403.0862-E38-197",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030403.0862-R15-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "American and British helicopters and planes bombed positions in Kut , and Marines and Iraqis lobbed grenades at close quarters .",
+  "sentence_index" : 40,
+  "Tokens" : [ "American", "and", "British", "helicopters", "and", "planes", "bombed", "positions", "in", "Kut", ",", "and", "Marines", "and", "Iraqis", "lobbed", "grenades", "at", "close", "quarters", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "desperate Iraqis armed with rifles",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "rifles",
+    "argMentionid" : "APW_ENG_20030403.0862-E9-9",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030403.0862-R16",
+  "mentionArg1" : {
+    "extent" : "desperate Iraqis armed with rifles",
+    "argMentionid" : "APW_ENG_20030403.0862-E8-8",
+    "start" : 14,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030403.0862-R16-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "There was fierce fighting in Kut , to the south of Baghdad , where desperate Iraqis armed with rifles charged tanks in a suicide raid .",
+  "sentence_index" : 3,
+  "Tokens" : [ "There", "was", "fierce", "fighting", "in", "Kut", ",", "to", "the", "south", "of", "Baghdad", ",", "where", "desperate", "Iraqis", "armed", "with", "rifles", "charged", "tanks", "in", "a", "suicide", "raid", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the country's southern region",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "the country",
+    "argMentionid" : "APW_ENG_20030403.0862-E46-158",
+    "start" : 1,
+    "end" : 2
+  },
+  "relationID" : "APW_ENG_20030403.0862-R17",
+  "mentionArg1" : {
+    "extent" : "the country's southern region",
+    "argMentionid" : "APW_ENG_20030403.0862-E116-157",
+    "start" : 1,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030403.0862-R17-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "In the country 's southern region , British forces penetrated closer to the center of Basra , and warplanes dropped 500-pound ( 225-kilogram ) and 1,000-pound ( 450-kilogram ) laser-guided bombs on an Iraqi intelligence complex .",
+  "sentence_index" : 34,
+  "Tokens" : [ "In", "the", "country", "'s", "southern", "region", ",", "British", "forces", "penetrated", "closer", "to", "the", "center", "of", "Basra", ",", "and", "warplanes", "dropped", "500-pound", "(", "225-kilogram", ")", "and", "1,000-pound", "(", "450-kilogram", ")", "laser-guided", "bombs", "on", "an", "Iraqi", "intelligence", "complex", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "U.S. soldiers moved to capture Baghdad's Saddam International Airport early Friday and fought running battles with Iraqi defenders along the city's southern fringes",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "the city's southern fringes",
+    "argMentionid" : "APW_ENG_20030403.0862-E196-268",
+    "start" : 28,
+    "end" : 32
+  },
+  "relationID" : "APW_ENG_20030403.0862-R18",
+  "mentionArg1" : {
+    "extent" : "Iraqi defenders along the city's southern fringes",
+    "argMentionid" : "APW_ENG_20030403.0862-E194-266",
+    "start" : 25,
+    "end" : 32
+  },
+  "id" : "APW_ENG_20030403.0862-R18-1",
+  "relationSubType" : "Located",
+  "Sentence" : "SOUTH OF BAGHDAD , Iraq ( AP ) U.S. soldiers moved to capture Baghdad 's Saddam International Airport early Friday and fought running battles with Iraqi defenders along the city 's southern fringes .",
+  "sentence_index" : 0,
+  "Tokens" : [ "SOUTH", "OF", "BAGHDAD", ",", "Iraq", "(", "AP", ")", "U.S.", "soldiers", "moved", "to", "capture", "Baghdad", "'s", "Saddam", "International", "Airport", "early", "Friday", "and", "fought", "running", "battles", "with", "Iraqi", "defenders", "along", "the", "city", "'s", "southern", "fringes", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. President",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030403.0862-E4-3",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030403.0862-R19",
+  "mentionArg1" : {
+    "extent" : "U.S. President",
+    "argMentionid" : "APW_ENG_20030403.0862-E2-2",
+    "start" : 10,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030403.0862-R19-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "`` A vise is closing on the regime , '' U.S. President George W. Bush said .",
+  "sentence_index" : 1,
+  "Tokens" : [ "``", "A", "vise", "is", "closing", "on", "the", "regime", ",", "''", "U.S.", "President", "George", "W.", "Bush", "said", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "invading American and British troops",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "APW_ENG_20030403.0862-E38-118",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030403.0862-R20",
+  "mentionArg1" : {
+    "extent" : "invading American and British troops",
+    "argMentionid" : "APW_ENG_20030403.0862-E85-116",
+    "start" : 11,
+    "end" : 15
+  },
+  "id" : "APW_ENG_20030403.0862-R20-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "God will disgrace them , '' they said , referring to invading American and British troops .",
+  "sentence_index" : 27,
+  "Tokens" : [ "God", "will", "disgrace", "them", ",", "''", "they", "said", ",", "referring", "to", "invading", "American", "and", "British", "troops", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Kut, to the south of Baghdad, where desperate Iraqis armed with rifles charged tanks in a suicide raid",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "APW_ENG_20030403.0862-E193-259",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030403.0862-R21",
+  "mentionArg1" : {
+    "extent" : "Kut, to the south of Baghdad, where desperate Iraqis armed with rifles charged tanks in a suicide raid",
+    "argMentionid" : "APW_ENG_20030403.0862-E7-6",
+    "start" : 5,
+    "end" : 24
+  },
+  "id" : "APW_ENG_20030403.0862-R21-1",
+  "relationSubType" : "Near",
+  "Sentence" : "There was fierce fighting in Kut , to the south of Baghdad , where desperate Iraqis armed with rifles charged tanks in a suicide raid .",
+  "sentence_index" : 3,
+  "Tokens" : [ "There", "was", "fierce", "fighting", "in", "Kut", ",", "to", "the", "south", "of", "Baghdad", ",", "where", "desperate", "Iraqis", "armed", "with", "rifles", "charged", "tanks", "in", "a", "suicide", "raid", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "There was fierce fighting in Kut, to the south of Baghdad, where desperate Iraqis armed with rifles charged tanks in a suicide raid",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "where",
+    "argMentionid" : "APW_ENG_20030403.0862-E7-7",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030403.0862-R22",
+  "mentionArg1" : {
+    "extent" : "desperate Iraqis armed with rifles",
+    "argMentionid" : "APW_ENG_20030403.0862-E8-8",
+    "start" : 14,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030403.0862-R22-1",
+  "relationSubType" : "Located",
+  "Sentence" : "There was fierce fighting in Kut , to the south of Baghdad , where desperate Iraqis armed with rifles charged tanks in a suicide raid .",
+  "sentence_index" : 3,
+  "Tokens" : [ "There", "was", "fierce", "fighting", "in", "Kut", ",", "to", "the", "south", "of", "Baghdad", ",", "where", "desperate", "Iraqis", "armed", "with", "rifles", "charged", "tanks", "in", "a", "suicide", "raid", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the top U.S. military official",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "U.S. military",
+    "argMentionid" : "APW_ENG_20030403.0862-E14-15",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030403.0862-R23",
+  "mentionArg1" : {
+    "extent" : "the top U.S. military official",
+    "argMentionid" : "APW_ENG_20030403.0862-E12-257",
+    "start" : 9,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030403.0862-R23-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Despite declarations that more tough fighting lies ahead , the top U.S. military official indicated there may not be an all-out battle for Baghdad .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Despite", "declarations", "that", "more", "tough", "fighting", "lies", "ahead", ",", "the", "top", "U.S.", "military", "official", "indicated", "there", "may", "not", "be", "an", "all-out", "battle", "for", "Baghdad", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "U.S. military",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030403.0862-E4-16",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030403.0862-R24",
+  "mentionArg1" : {
+    "extent" : "U.S. military",
+    "argMentionid" : "APW_ENG_20030403.0862-E14-15",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030403.0862-R24-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Despite declarations that more tough fighting lies ahead , the top U.S. military official indicated there may not be an all-out battle for Baghdad .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Despite", "declarations", "that", "more", "tough", "fighting", "lies", "ahead", ",", "the", "top", "U.S.", "military", "official", "indicated", "there", "may", "not", "be", "an", "all-out", "battle", "for", "Baghdad", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "chairman of the Joint Chiefs of Staff",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "the Joint Chiefs of Staff",
+    "argMentionid" : "APW_ENG_20030403.0862-E19-21",
+    "start" : 6,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030403.0862-R25",
+  "mentionArg1" : {
+    "extent" : "chairman of the Joint Chiefs of Staff",
+    "argMentionid" : "APW_ENG_20030403.0862-E17-225",
+    "start" : 4,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030403.0862-R25-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Gen. Richard Myers , chairman of the Joint Chiefs of Staff , suggested isolating members of the old regime in the capital _ cut off from the rest of the country _ while an `` interim administration '' is put in place to begin work on a postwar government .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Gen.", "Richard", "Myers", ",", "chairman", "of", "the", "Joint", "Chiefs", "of", "Staff", ",", "suggested", "isolating", "members", "of", "the", "old", "regime", "in", "the", "capital", "_", "cut", "off", "from", "the", "rest", "of", "the", "country", "_", "while", "an", "``", "interim", "administration", "''", "is", "put", "in", "place", "to", "begin", "work", "on", "a", "postwar", "government", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "members of the old regime in the capital",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "the capital",
+    "argMentionid" : "APW_ENG_20030403.0862-E193-24",
+    "start" : 20,
+    "end" : 21
+  },
+  "relationID" : "APW_ENG_20030403.0862-R26",
+  "mentionArg1" : {
+    "extent" : "members of the old regime in the capital",
+    "argMentionid" : "APW_ENG_20030403.0862-E20-22",
+    "start" : 14,
+    "end" : 21
+  },
+  "id" : "APW_ENG_20030403.0862-R26-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Gen. Richard Myers , chairman of the Joint Chiefs of Staff , suggested isolating members of the old regime in the capital _ cut off from the rest of the country _ while an `` interim administration '' is put in place to begin work on a postwar government .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Gen.", "Richard", "Myers", ",", "chairman", "of", "the", "Joint", "Chiefs", "of", "Staff", ",", "suggested", "isolating", "members", "of", "the", "old", "regime", "in", "the", "capital", "_", "cut", "off", "from", "the", "rest", "of", "the", "country", "_", "while", "an", "``", "interim", "administration", "''", "is", "put", "in", "place", "to", "begin", "work", "on", "a", "postwar", "government", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "members of the old regime in the capital",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "the old regime",
+    "argMentionid" : "APW_ENG_20030403.0862-E1-23",
+    "start" : 16,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030403.0862-R27",
+  "mentionArg1" : {
+    "extent" : "members of the old regime in the capital",
+    "argMentionid" : "APW_ENG_20030403.0862-E20-22",
+    "start" : 14,
+    "end" : 21
+  },
+  "id" : "APW_ENG_20030403.0862-R27-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Gen. Richard Myers , chairman of the Joint Chiefs of Staff , suggested isolating members of the old regime in the capital _ cut off from the rest of the country _ while an `` interim administration '' is put in place to begin work on a postwar government .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Gen.", "Richard", "Myers", ",", "chairman", "of", "the", "Joint", "Chiefs", "of", "Staff", ",", "suggested", "isolating", "members", "of", "the", "old", "regime", "in", "the", "capital", "_", "cut", "off", "from", "the", "rest", "of", "the", "country", "_", "while", "an", "``", "interim", "administration", "''", "is", "put", "in", "place", "to", "begin", "work", "on", "a", "postwar", "government", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the rest of the country",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "the country",
+    "argMentionid" : "APW_ENG_20030403.0862-E46-216",
+    "start" : 29,
+    "end" : 30
+  },
+  "relationID" : "APW_ENG_20030403.0862-R28",
+  "mentionArg1" : {
+    "extent" : "the rest of the country",
+    "argMentionid" : "APW_ENG_20030403.0862-E21-25",
+    "start" : 26,
+    "end" : 30
+  },
+  "id" : "APW_ENG_20030403.0862-R28-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Gen. Richard Myers , chairman of the Joint Chiefs of Staff , suggested isolating members of the old regime in the capital _ cut off from the rest of the country _ while an `` interim administration '' is put in place to begin work on a postwar government .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Gen.", "Richard", "Myers", ",", "chairman", "of", "the", "Joint", "Chiefs", "of", "Staff", ",", "suggested", "isolating", "members", "of", "the", "old", "regime", "in", "the", "capital", "_", "cut", "off", "from", "the", "rest", "of", "the", "country", "_", "while", "an", "``", "interim", "administration", "''", "is", "put", "in", "place", "to", "begin", "work", "on", "a", "postwar", "government", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a senior Pentagon official",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Pentagon",
+    "argMentionid" : "APW_ENG_20030403.0862-E25-31",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030403.0862-R29",
+  "mentionArg1" : {
+    "extent" : "a senior Pentagon official",
+    "argMentionid" : "APW_ENG_20030403.0862-E24-30",
+    "start" : 16,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030403.0862-R29-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "A meeting to organize an interim government could be held in Iraq within a week , a senior Pentagon official said Thursday night .",
+  "sentence_index" : 7,
+  "Tokens" : [ "A", "meeting", "to", "organize", "an", "interim", "government", "could", "be", "held", "in", "Iraq", "within", "a", "week", ",", "a", "senior", "Pentagon", "official", "said", "Thursday", "night", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "large parts of Baghdad",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "APW_ENG_20030403.0862-E193-33",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030403.0862-R30",
+  "mentionArg1" : {
+    "extent" : "large parts of Baghdad",
+    "argMentionid" : "APW_ENG_20030403.0862-E26-32",
+    "start" : 8,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030403.0862-R30-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "For the first time in the war , large parts of Baghdad lost electricity .",
+  "sentence_index" : 8,
+  "Tokens" : [ "For", "the", "first", "time", "in", "the", "war", ",", "large", "parts", "of", "Baghdad", "lost", "electricity", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the airport a few kilometers (miles) from the heart of President Saddam Hussein's capital of 5 million people",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "the heart of President Saddam Hussein's capital of 5 million people",
+    "argMentionid" : "APW_ENG_20030403.0862-E31-40",
+    "start" : 19,
+    "end" : 30
+  },
+  "relationID" : "APW_ENG_20030403.0862-R31",
+  "mentionArg1" : {
+    "extent" : "the airport a few kilometers (miles) from the heart of President Saddam Hussein's capital of 5 million people",
+    "argMentionid" : "APW_ENG_20030403.0862-E192-39",
+    "start" : 10,
+    "end" : 30
+  },
+  "id" : "APW_ENG_20030403.0862-R31-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Tracer rounds lit the night sky and artillery boomed near the airport a few kilometers ( miles ) from the heart of President Saddam Hussein 's capital of 5 million people .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Tracer", "rounds", "lit", "the", "night", "sky", "and", "artillery", "boomed", "near", "the", "airport", "a", "few", "kilometers", "(", "miles", ")", "from", "the", "heart", "of", "President", "Saddam", "Hussein", "'s", "capital", "of", "5", "million", "people", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the heart of President Saddam Hussein's capital of 5 million people",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "President Saddam Hussein's capital of 5 million people",
+    "argMentionid" : "APW_ENG_20030403.0862-E193-41",
+    "start" : 22,
+    "end" : 30
+  },
+  "relationID" : "APW_ENG_20030403.0862-R32",
+  "mentionArg1" : {
+    "extent" : "the heart of President Saddam Hussein's capital of 5 million people",
+    "argMentionid" : "APW_ENG_20030403.0862-E31-40",
+    "start" : 19,
+    "end" : 30
+  },
+  "id" : "APW_ENG_20030403.0862-R32-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Tracer rounds lit the night sky and artillery boomed near the airport a few kilometers ( miles ) from the heart of President Saddam Hussein 's capital of 5 million people .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Tracer", "rounds", "lit", "the", "night", "sky", "and", "artillery", "boomed", "near", "the", "airport", "a", "few", "kilometers", "(", "miles", ")", "from", "the", "heart", "of", "President", "Saddam", "Hussein", "'s", "capital", "of", "5", "million", "people", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "invading American and British troops",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "APW_ENG_20030403.0862-E4-117",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030403.0862-R33",
+  "mentionArg1" : {
+    "extent" : "invading American and British troops",
+    "argMentionid" : "APW_ENG_20030403.0862-E85-116",
+    "start" : 11,
+    "end" : 15
+  },
+  "id" : "APW_ENG_20030403.0862-R33-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "God will disgrace them , '' they said , referring to invading American and British troops .",
+  "sentence_index" : 27,
+  "Tokens" : [ "God", "will", "disgrace", "them", ",", "''", "they", "said", ",", "referring", "to", "invading", "American", "and", "British", "troops", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "President Saddam Hussein's capital of 5 million people",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "President Saddam Hussein's capital of 5 million people",
+    "argMentionid" : "APW_ENG_20030403.0862-E193-41",
+    "start" : 22,
+    "end" : 30
+  },
+  "relationID" : "APW_ENG_20030403.0862-R34",
+  "mentionArg1" : {
+    "extent" : "President Saddam Hussein",
+    "argMentionid" : "APW_ENG_20030403.0862-E32-42",
+    "start" : 22,
+    "end" : 24
+  },
+  "id" : "APW_ENG_20030403.0862-R34-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Tracer rounds lit the night sky and artillery boomed near the airport a few kilometers ( miles ) from the heart of President Saddam Hussein 's capital of 5 million people .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Tracer", "rounds", "lit", "the", "night", "sky", "and", "artillery", "boomed", "near", "the", "airport", "a", "few", "kilometers", "(", "miles", ")", "from", "the", "heart", "of", "President", "Saddam", "Hussein", "'s", "capital", "of", "5", "million", "people", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. forces",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030403.0862-E4-45",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030403.0862-R35",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "APW_ENG_20030403.0862-E34-44",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030403.0862-R35-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "At one stage , it appeared that U.S. forces had taken control of the airport , `` and then it got more confusing with continued fighting , Myers said Thursday night .",
+  "sentence_index" : 12,
+  "Tokens" : [ "At", "one", "stage", ",", "it", "appeared", "that", "U.S.", "forces", "had", "taken", "control", "of", "the", "airport", ",", "``", "and", "then", "it", "got", "more", "confusing", "with", "continued", "fighting", ",", "Myers", "said", "Thursday", "night", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "At one stage, it appeared that U.S. forces had taken control of the airport, ``and then it got more confusing with continued fighting, Myers said Thursday night",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "the airport",
+    "argMentionid" : "APW_ENG_20030403.0862-E192-46",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030403.0862-R36",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "APW_ENG_20030403.0862-E34-44",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030403.0862-R36-1",
+  "relationSubType" : "Located",
+  "Sentence" : "At one stage , it appeared that U.S. forces had taken control of the airport , `` and then it got more confusing with continued fighting , Myers said Thursday night .",
+  "sentence_index" : 12,
+  "Tokens" : [ "At", "one", "stage", ",", "it", "appeared", "that", "U.S.", "forces", "had", "taken", "control", "of", "the", "airport", ",", "``", "and", "then", "it", "got", "more", "confusing", "with", "continued", "fighting", ",", "Myers", "said", "Thursday", "night", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. soldiers",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030403.0862-E4-263",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030403.0862-R37",
+  "mentionArg1" : {
+    "extent" : "U.S. soldiers",
+    "argMentionid" : "APW_ENG_20030403.0862-E186-245",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030403.0862-R37-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "SOUTH OF BAGHDAD , Iraq ( AP ) U.S. soldiers moved to capture Baghdad 's Saddam International Airport early Friday and fought running battles with Iraqi defenders along the city 's southern fringes .",
+  "sentence_index" : 0,
+  "Tokens" : [ "SOUTH", "OF", "BAGHDAD", ",", "Iraq", "(", "AP", ")", "U.S.", "soldiers", "moved", "to", "capture", "Baghdad", "'s", "Saddam", "International", "Airport", "early", "Friday", "and", "fought", "running", "battles", "with", "Iraqi", "defenders", "along", "the", "city", "'s", "southern", "fringes", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Capture of the airport would give American and British troops a facility for airlifting equipment and troops to Baghdad",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "a facility for airlifting equipment and troops to Baghdad",
+    "argMentionid" : "APW_ENG_20030403.0862-E192-253",
+    "start" : 10,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030403.0862-R38",
+  "mentionArg1" : {
+    "extent" : "American and British troops",
+    "argMentionid" : "APW_ENG_20030403.0862-E36-49",
+    "start" : 6,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030403.0862-R38-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Capture of the airport would give American and British troops a facility for airlifting equipment and troops to Baghdad .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Capture", "of", "the", "airport", "would", "give", "American", "and", "British", "troops", "a", "facility", "for", "airlifting", "equipment", "and", "troops", "to", "Baghdad", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "American and British troops",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "APW_ENG_20030403.0862-E4-50",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030403.0862-R39",
+  "mentionArg1" : {
+    "extent" : "American and British troops",
+    "argMentionid" : "APW_ENG_20030403.0862-E36-49",
+    "start" : 6,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030403.0862-R39-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Capture of the airport would give American and British troops a facility for airlifting equipment and troops to Baghdad .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Capture", "of", "the", "airport", "would", "give", "American", "and", "British", "troops", "a", "facility", "for", "airlifting", "equipment", "and", "troops", "to", "Baghdad", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "American and British troops",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "APW_ENG_20030403.0862-E38-51",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030403.0862-R40",
+  "mentionArg1" : {
+    "extent" : "American and British troops",
+    "argMentionid" : "APW_ENG_20030403.0862-E36-49",
+    "start" : 6,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030403.0862-R40-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Capture of the airport would give American and British troops a facility for airlifting equipment and troops to Baghdad .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Capture", "of", "the", "airport", "would", "give", "American", "and", "British", "troops", "a", "facility", "for", "airlifting", "equipment", "and", "troops", "to", "Baghdad", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "American or British forces",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "APW_ENG_20030403.0862-E4-180",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "APW_ENG_20030403.0862-R41",
+  "mentionArg1" : {
+    "extent" : "American or British forces",
+    "argMentionid" : "APW_ENG_20030403.0862-E134-179",
+    "start" : 26,
+    "end" : 29
+  },
+  "id" : "APW_ENG_20030403.0862-R41-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "In Najaf , they said a prominent cleric under house arrest by the Iraqi government had urged the population not to interfere with the operations of American or British forces .",
+  "sentence_index" : 37,
+  "Tokens" : [ "In", "Najaf", ",", "they", "said", "a", "prominent", "cleric", "under", "house", "arrest", "by", "the", "Iraqi", "government", "had", "urged", "the", "population", "not", "to", "interfere", "with", "the", "operations", "of", "American", "or", "British", "forces", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the city's southern edge",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "the city's southern edge",
+    "argMentionid" : "APW_ENG_20030403.0862-E40-54",
+    "start" : 1,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030403.0862-R42",
+  "mentionArg1" : {
+    "extent" : "the city",
+    "argMentionid" : "APW_ENG_20030403.0862-E193-55",
+    "start" : 1,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030403.0862-R42-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Along the city 's southern edge , U.S. tanks and Bradley vehicles destroyed at least seven Iraqi armored personnel carriers and more than 15 Iraqi tanks in fighting that went on for more than four hours .",
+  "sentence_index" : 14,
+  "Tokens" : [ "Along", "the", "city", "'s", "southern", "edge", ",", "U.S.", "tanks", "and", "Bradley", "vehicles", "destroyed", "at", "least", "seven", "Iraqi", "armored", "personnel", "carriers", "and", "more", "than", "15", "Iraqi", "tanks", "in", "fighting", "that", "went", "on", "for", "more", "than", "four", "hours", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "U.S. tanks and Bradley vehicles",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "U.S. tanks",
+    "argMentionid" : "APW_ENG_20030403.0862-E41-56",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030403.0862-R43",
+  "mentionArg1" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030403.0862-E4-57",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030403.0862-R43-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Along the city 's southern edge , U.S. tanks and Bradley vehicles destroyed at least seven Iraqi armored personnel carriers and more than 15 Iraqi tanks in fighting that went on for more than four hours .",
+  "sentence_index" : 14,
+  "Tokens" : [ "Along", "the", "city", "'s", "southern", "edge", ",", "U.S.", "tanks", "and", "Bradley", "vehicles", "destroyed", "at", "least", "seven", "Iraqi", "armored", "personnel", "carriers", "and", "more", "than", "15", "Iraqi", "tanks", "in", "fighting", "that", "went", "on", "for", "more", "than", "four", "hours", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "at least seven Iraqi armored personnel carriers",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "at least seven Iraqi armored personnel carriers",
+    "argMentionid" : "APW_ENG_20030403.0862-E44-59",
+    "start" : 13,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030403.0862-R44",
+  "mentionArg1" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030403.0862-E46-62",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "APW_ENG_20030403.0862-R44-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Along the city 's southern edge , U.S. tanks and Bradley vehicles destroyed at least seven Iraqi armored personnel carriers and more than 15 Iraqi tanks in fighting that went on for more than four hours .",
+  "sentence_index" : 14,
+  "Tokens" : [ "Along", "the", "city", "'s", "southern", "edge", ",", "U.S.", "tanks", "and", "Bradley", "vehicles", "destroyed", "at", "least", "seven", "Iraqi", "armored", "personnel", "carriers", "and", "more", "than", "15", "Iraqi", "tanks", "in", "fighting", "that", "went", "on", "for", "more", "than", "four", "hours", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "at least seven Iraqi armored personnel carriers",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "at least seven Iraqi armored personnel carriers",
+    "argMentionid" : "APW_ENG_20030403.0862-E44-59",
+    "start" : 13,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030403.0862-R45",
+  "mentionArg1" : {
+    "extent" : "personnel",
+    "argMentionid" : "APW_ENG_20030403.0862-E45-61",
+    "start" : 18,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030403.0862-R45-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Along the city 's southern edge , U.S. tanks and Bradley vehicles destroyed at least seven Iraqi armored personnel carriers and more than 15 Iraqi tanks in fighting that went on for more than four hours .",
+  "sentence_index" : 14,
+  "Tokens" : [ "Along", "the", "city", "'s", "southern", "edge", ",", "U.S.", "tanks", "and", "Bradley", "vehicles", "destroyed", "at", "least", "seven", "Iraqi", "armored", "personnel", "carriers", "and", "more", "than", "15", "Iraqi", "tanks", "in", "fighting", "that", "went", "on", "for", "more", "than", "four", "hours", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "more than 15 Iraqi tanks",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "more than 15 Iraqi tanks",
+    "argMentionid" : "APW_ENG_20030403.0862-E47-63",
+    "start" : 21,
+    "end" : 25
+  },
+  "relationID" : "APW_ENG_20030403.0862-R46",
+  "mentionArg1" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030403.0862-E46-64",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "APW_ENG_20030403.0862-R46-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Along the city 's southern edge , U.S. tanks and Bradley vehicles destroyed at least seven Iraqi armored personnel carriers and more than 15 Iraqi tanks in fighting that went on for more than four hours .",
+  "sentence_index" : 14,
+  "Tokens" : [ "Along", "the", "city", "'s", "southern", "edge", ",", "U.S.", "tanks", "and", "Bradley", "vehicles", "destroyed", "at", "least", "seven", "Iraqi", "armored", "personnel", "carriers", "and", "more", "than", "15", "Iraqi", "tanks", "in", "fighting", "that", "went", "on", "for", "more", "than", "four", "hours", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "American commanders",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "APW_ENG_20030403.0862-E4-66",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030403.0862-R47",
+  "mentionArg1" : {
+    "extent" : "American commanders",
+    "argMentionid" : "APW_ENG_20030403.0862-E49-65",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030403.0862-R47-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Two weeks into the war , American commanders reported a string of successes _ on the battlefield and within an Iraqi population initially reluctant about embracing invading troops .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Two", "weeks", "into", "the", "war", ",", "American", "commanders", "reported", "a", "string", "of", "successes", "_", "on", "the", "battlefield", "and", "within", "an", "Iraqi", "population", "initially", "reluctant", "about", "embracing", "invading", "troops", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "American or British forces",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "APW_ENG_20030403.0862-E38-181",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "APW_ENG_20030403.0862-R48",
+  "mentionArg1" : {
+    "extent" : "American or British forces",
+    "argMentionid" : "APW_ENG_20030403.0862-E134-179",
+    "start" : 26,
+    "end" : 29
+  },
+  "id" : "APW_ENG_20030403.0862-R48-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "In Najaf , they said a prominent cleric under house arrest by the Iraqi government had urged the population not to interfere with the operations of American or British forces .",
+  "sentence_index" : 37,
+  "Tokens" : [ "In", "Najaf", ",", "they", "said", "a", "prominent", "cleric", "under", "house", "arrest", "by", "the", "Iraqi", "government", "had", "urged", "the", "population", "not", "to", "interfere", "with", "the", "operations", "of", "American", "or", "British", "forces", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Kurdish fighters in the north",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "the north",
+    "argMentionid" : "APW_ENG_20030403.0862-E54-70",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030403.0862-R49",
+  "mentionArg1" : {
+    "extent" : "Kurdish fighters in the north",
+    "argMentionid" : "APW_ENG_20030403.0862-E53-69",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030403.0862-R49-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Kurdish fighters in the north chipped in , when a top leader suggested they may agree not to seek control of the northern city of Kirkuk .",
+  "sentence_index" : 16,
+  "Tokens" : [ "Kurdish", "fighters", "in", "the", "north", "chipped", "in", ",", "when", "a", "top", "leader", "suggested", "they", "may", "agree", "not", "to", "seek", "control", "of", "the", "northern", "city", "of", "Kirkuk", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Two Marines were killed and one injured in the close-quarters fighting in Kut",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "Kut",
+    "argMentionid" : "APW_ENG_20030403.0862-E7-76",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030403.0862-R50",
+  "mentionArg1" : {
+    "extent" : "Two Marines",
+    "argMentionid" : "APW_ENG_20030403.0862-E57-74",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030403.0862-R50-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Two Marines were killed and one injured in the close-quarters fighting in Kut .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Two", "Marines", "were", "killed", "and", "one", "injured", "in", "the", "close-quarters", "fighting", "in", "Kut", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Two Marines were killed and one injured in the close-quarters fighting in Kut",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "Kut",
+    "argMentionid" : "APW_ENG_20030403.0862-E7-76",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030403.0862-R51",
+  "mentionArg1" : {
+    "extent" : "one",
+    "argMentionid" : "APW_ENG_20030403.0862-E58-75",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030403.0862-R51-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Two Marines were killed and one injured in the close-quarters fighting in Kut .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Two", "Marines", "were", "killed", "and", "one", "injured", "in", "the", "close-quarters", "fighting", "in", "Kut", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. defense officials",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030403.0862-E4-84",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030403.0862-R52",
+  "mentionArg1" : {
+    "extent" : "U.S. defense officials",
+    "argMentionid" : "APW_ENG_20030403.0862-E63-83",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030403.0862-R52-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "U.S. defense officials also were investigating whether a Navy Hornet jet that crashed Wednesday was shot down by a U.S. Patriot missile .",
+  "sentence_index" : 20,
+  "Tokens" : [ "U.S.", "defense", "officials", "also", "were", "investigating", "whether", "a", "Navy", "Hornet", "jet", "that", "crashed", "Wednesday", "was", "shot", "down", "by", "a", "U.S.", "Patriot", "missile", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a Navy Hornet jet that crashed Wednesday",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "a Navy Hornet jet that crashed Wednesday",
+    "argMentionid" : "APW_ENG_20030403.0862-E65-85",
+    "start" : 7,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030403.0862-R53",
+  "mentionArg1" : {
+    "extent" : "Navy",
+    "argMentionid" : "APW_ENG_20030403.0862-E66-86",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030403.0862-R53-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "U.S. defense officials also were investigating whether a Navy Hornet jet that crashed Wednesday was shot down by a U.S. Patriot missile .",
+  "sentence_index" : 20,
+  "Tokens" : [ "U.S.", "defense", "officials", "also", "were", "investigating", "whether", "a", "Navy", "Hornet", "jet", "that", "crashed", "Wednesday", "was", "shot", "down", "by", "a", "U.S.", "Patriot", "missile", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a U.S. Patriot missile",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "a U.S. Patriot missile",
+    "argMentionid" : "APW_ENG_20030403.0862-E68-88",
+    "start" : 18,
+    "end" : 21
+  },
+  "relationID" : "APW_ENG_20030403.0862-R54",
+  "mentionArg1" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030403.0862-E4-89",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030403.0862-R54-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "U.S. defense officials also were investigating whether a Navy Hornet jet that crashed Wednesday was shot down by a U.S. Patriot missile .",
+  "sentence_index" : 20,
+  "Tokens" : [ "U.S.", "defense", "officials", "also", "were", "investigating", "whether", "a", "Navy", "Hornet", "jet", "that", "crashed", "Wednesday", "was", "shot", "down", "by", "a", "U.S.", "Patriot", "missile", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "American troops",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "APW_ENG_20030403.0862-E4-93",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030403.0862-R55",
+  "mentionArg1" : {
+    "extent" : "American troops",
+    "argMentionid" : "APW_ENG_20030403.0862-E71-92",
+    "start" : 4,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030403.0862-R55-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The overall toll of American troops dead passed 50 , and Bush visited a Marine camp , which has lost 13 _ more than any other installation .",
+  "sentence_index" : 22,
+  "Tokens" : [ "The", "overall", "toll", "of", "American", "troops", "dead", "passed", "50", ",", "and", "Bush", "visited", "a", "Marine", "camp", ",", "which", "has", "lost", "13", "_", "more", "than", "any", "other", "installation", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a Marine camp, which has lost 13  _  more than any other installation",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "a Marine camp, which has lost 13  _  more than any other installation",
+    "argMentionid" : "APW_ENG_20030403.0862-E73-96",
+    "start" : 13,
+    "end" : 26
+  },
+  "relationID" : "APW_ENG_20030403.0862-R56",
+  "mentionArg1" : {
+    "extent" : "Marine",
+    "argMentionid" : "APW_ENG_20030403.0862-E74-97",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "APW_ENG_20030403.0862-R56-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The overall toll of American troops dead passed 50 , and Bush visited a Marine camp , which has lost 13 _ more than any other installation .",
+  "sentence_index" : 22,
+  "Tokens" : [ "The", "overall", "toll", "of", "American", "troops", "dead", "passed", "50", ",", "and", "Bush", "visited", "a", "Marine", "camp", ",", "which", "has", "lost", "13", "_", "more", "than", "any", "other", "installation", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The overall toll of American troops dead passed 50, and Bush visited a Marine camp, which has lost 13  _  more than any other installation",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "a Marine camp, which has lost 13  _  more than any other installation",
+    "argMentionid" : "APW_ENG_20030403.0862-E73-96",
+    "start" : 13,
+    "end" : 26
+  },
+  "relationID" : "APW_ENG_20030403.0862-R57",
+  "mentionArg1" : {
+    "extent" : "Bush",
+    "argMentionid" : "APW_ENG_20030403.0862-E2-95",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030403.0862-R57-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The overall toll of American troops dead passed 50 , and Bush visited a Marine camp , which has lost 13 _ more than any other installation .",
+  "sentence_index" : 22,
+  "Tokens" : [ "The", "overall", "toll", "of", "American", "troops", "dead", "passed", "50", ",", "and", "Bush", "visited", "a", "Marine", "camp", ",", "which", "has", "lost", "13", "_", "more", "than", "any", "other", "installation", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "He's in heaven,'' the commander in chief told the family of one fallen Marine in a private moment",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "heaven",
+    "argMentionid" : "APW_ENG_20030403.0862-E179-238",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030403.0862-R58",
+  "mentionArg1" : {
+    "extent" : "He",
+    "argMentionid" : "APW_ENG_20030403.0862-E77-101",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030403.0862-R58-1",
+  "relationSubType" : "Located",
+  "Sentence" : "`` He 's in heaven , '' the commander in chief told the family of one fallen Marine in a private moment .",
+  "sentence_index" : 23,
+  "Tokens" : [ "``", "He", "'s", "in", "heaven", ",", "''", "the", "commander", "in", "chief", "told", "the", "family", "of", "one", "fallen", "Marine", "in", "a", "private", "moment", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the family of one fallen Marine",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "one fallen Marine",
+    "argMentionid" : "APW_ENG_20030403.0862-E77-104",
+    "start" : 15,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030403.0862-R59",
+  "mentionArg1" : {
+    "extent" : "the family of one fallen Marine",
+    "argMentionid" : "APW_ENG_20030403.0862-E79-103",
+    "start" : 12,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030403.0862-R59-1",
+  "relationSubType" : "Family",
+  "Sentence" : "`` He 's in heaven , '' the commander in chief told the family of one fallen Marine in a private moment .",
+  "sentence_index" : 23,
+  "Tokens" : [ "``", "He", "'s", "in", "heaven", ",", "''", "the", "commander", "in", "chief", "told", "the", "family", "of", "one", "fallen", "Marine", "in", "a", "private", "moment", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iraqi officials",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030403.0862-E46-108",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030403.0862-R60",
+  "mentionArg1" : {
+    "extent" : "Iraqi officials",
+    "argMentionid" : "APW_ENG_20030403.0862-E81-107",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030403.0862-R60-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Iraqi officials issued the latest in a series of exhortations in Saddam 's name .",
+  "sentence_index" : 25,
+  "Tokens" : [ "Iraqi", "officials", "issued", "the", "latest", "in", "a", "series", "of", "exhortations", "in", "Saddam", "'s", "name", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Iraqi military",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030403.0862-E46-220",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030403.0862-R61",
+  "mentionArg1" : {
+    "extent" : "Iraqi military",
+    "argMentionid" : "APW_ENG_20030403.0862-E166-219",
+    "start" : 13,
+    "end" : 14
+  },
+  "id" : "APW_ENG_20030403.0862-R61-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Army forces rolled past dozens of dead Iraqi soldiers and bombed-out hulks of Iraqi military equipment as they made their way toward Baghdad from the area around Karbala .",
+  "sentence_index" : 43,
+  "Tokens" : [ "Army", "forces", "rolled", "past", "dozens", "of", "dead", "Iraqi", "soldiers", "and", "bombed-out", "hulks", "of", "Iraqi", "military", "equipment", "as", "they", "made", "their", "way", "toward", "Baghdad", "from", "the", "area", "around", "Karbala", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "45 percent of Iraq's territory",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Iraq's territory",
+    "argMentionid" : "APW_ENG_20030403.0862-E46-251",
+    "start" : 27,
+    "end" : 29
+  },
+  "relationID" : "APW_ENG_20030403.0862-R62",
+  "mentionArg1" : {
+    "extent" : "45 percent of Iraq's territory",
+    "argMentionid" : "APW_ENG_20030403.0862-E187-247",
+    "start" : 24,
+    "end" : 29
+  },
+  "id" : "APW_ENG_20030403.0862-R62-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "But the daily urgings seemed increasingly at odds with the military situation across the country , and Myers said Saddam had lost control of 45 percent of Iraq 's territory .",
+  "sentence_index" : 28,
+  "Tokens" : [ "But", "the", "daily", "urgings", "seemed", "increasingly", "at", "odds", "with", "the", "military", "situation", "across", "the", "country", ",", "and", "Myers", "said", "Saddam", "had", "lost", "control", "of", "45", "percent", "of", "Iraq", "'s", "territory", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "As conventional units fought their way to the outskirts of the capital, officials said special forces had raided the Tharthar presidential palace near Tikrit, Saddam's hometown",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "the outskirts of the capital",
+    "argMentionid" : "APW_ENG_20030403.0862-E185-246",
+    "start" : 7,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030403.0862-R63",
+  "mentionArg1" : {
+    "extent" : "conventional units",
+    "argMentionid" : "APW_ENG_20030403.0862-E91-124",
+    "start" : 1,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030403.0862-R63-1",
+  "relationSubType" : "Near",
+  "Sentence" : "As conventional units fought their way to the outskirts of the capital , officials said special forces had raided the Tharthar presidential palace near Tikrit , Saddam 's hometown .",
+  "sentence_index" : 29,
+  "Tokens" : [ "As", "conventional", "units", "fought", "their", "way", "to", "the", "outskirts", "of", "the", "capital", ",", "officials", "said", "special", "forces", "had", "raided", "the", "Tharthar", "presidential", "palace", "near", "Tikrit", ",", "Saddam", "'s", "hometown", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "As conventional units fought their way to the outskirts of the capital, officials said special forces had raided the Tharthar presidential palace near Tikrit, Saddam's hometown",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "the Tharthar presidential palace near Tikrit, Saddam's hometown",
+    "argMentionid" : "APW_ENG_20030403.0862-E96-130",
+    "start" : 19,
+    "end" : 28
+  },
+  "relationID" : "APW_ENG_20030403.0862-R64",
+  "mentionArg1" : {
+    "extent" : "special forces",
+    "argMentionid" : "APW_ENG_20030403.0862-E95-129",
+    "start" : 15,
+    "end" : 16
+  },
+  "id" : "APW_ENG_20030403.0862-R64-1",
+  "relationSubType" : "Located",
+  "Sentence" : "As conventional units fought their way to the outskirts of the capital , officials said special forces had raided the Tharthar presidential palace near Tikrit , Saddam 's hometown .",
+  "sentence_index" : 29,
+  "Tokens" : [ "As", "conventional", "units", "fought", "their", "way", "to", "the", "outskirts", "of", "the", "capital", ",", "officials", "said", "special", "forces", "had", "raided", "the", "Tharthar", "presidential", "palace", "near", "Tikrit", ",", "Saddam", "'s", "hometown", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the Tharthar presidential palace near Tikrit, Saddam's hometown",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Tikrit",
+    "argMentionid" : "APW_ENG_20030403.0862-E93-133",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "APW_ENG_20030403.0862-R65",
+  "mentionArg1" : {
+    "extent" : "the Tharthar presidential palace near Tikrit, Saddam's hometown",
+    "argMentionid" : "APW_ENG_20030403.0862-E96-130",
+    "start" : 19,
+    "end" : 28
+  },
+  "id" : "APW_ENG_20030403.0862-R65-1",
+  "relationSubType" : "Near",
+  "Sentence" : "As conventional units fought their way to the outskirts of the capital , officials said special forces had raided the Tharthar presidential palace near Tikrit , Saddam 's hometown .",
+  "sentence_index" : 29,
+  "Tokens" : [ "As", "conventional", "units", "fought", "their", "way", "to", "the", "outskirts", "of", "the", "capital", ",", "officials", "said", "special", "forces", "had", "raided", "the", "Tharthar", "presidential", "palace", "near", "Tikrit", ",", "Saddam", "'s", "hometown", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Saddam's hometown",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Saddam's hometown",
+    "argMentionid" : "APW_ENG_20030403.0862-E93-127",
+    "start" : 26,
+    "end" : 28
+  },
+  "relationID" : "APW_ENG_20030403.0862-R66",
+  "mentionArg1" : {
+    "extent" : "Saddam",
+    "argMentionid" : "APW_ENG_20030403.0862-E32-134",
+    "start" : 26,
+    "end" : 26
+  },
+  "id" : "APW_ENG_20030403.0862-R66-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "As conventional units fought their way to the outskirts of the capital , officials said special forces had raided the Tharthar presidential palace near Tikrit , Saddam 's hometown .",
+  "sentence_index" : 29,
+  "Tokens" : [ "As", "conventional", "units", "fought", "their", "way", "to", "the", "outskirts", "of", "the", "capital", ",", "officials", "said", "special", "forces", "had", "raided", "the", "Tharthar", "presidential", "palace", "near", "Tikrit", ",", "Saddam", "'s", "hometown", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the site north of Baghdad",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "APW_ENG_20030403.0862-E193-262",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030403.0862-R67",
+  "mentionArg1" : {
+    "extent" : "the site north of Baghdad",
+    "argMentionid" : "APW_ENG_20030403.0862-E96-132",
+    "start" : 4,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030403.0862-R67-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Documents were seized at the site north of Baghdad , said Brig. Gen. Vincent Brooks at U.S. Central Command in the Persian Gulf , but no ranking members of the regime were found .",
+  "sentence_index" : 30,
+  "Tokens" : [ "Documents", "were", "seized", "at", "the", "site", "north", "of", "Baghdad", ",", "said", "Brig.", "Gen.", "Vincent", "Brooks", "at", "U.S.", "Central", "Command", "in", "the", "Persian", "Gulf", ",", "but", "no", "ranking", "members", "of", "the", "regime", "were", "found", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "no ranking members of the regime",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "the regime",
+    "argMentionid" : "APW_ENG_20030403.0862-E1-143",
+    "start" : 29,
+    "end" : 30
+  },
+  "relationID" : "APW_ENG_20030403.0862-R68",
+  "mentionArg1" : {
+    "extent" : "no ranking members of the regime",
+    "argMentionid" : "APW_ENG_20030403.0862-E104-142",
+    "start" : 25,
+    "end" : 30
+  },
+  "id" : "APW_ENG_20030403.0862-R68-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Documents were seized at the site north of Baghdad , said Brig. Gen. Vincent Brooks at U.S. Central Command in the Persian Gulf , but no ranking members of the regime were found .",
+  "sentence_index" : 30,
+  "Tokens" : [ "Documents", "were", "seized", "at", "the", "site", "north", "of", "Baghdad", ",", "said", "Brig.", "Gen.", "Vincent", "Brooks", "at", "U.S.", "Central", "Command", "in", "the", "Persian", "Gulf", ",", "but", "no", "ranking", "members", "of", "the", "regime", "were", "found", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Brig. Gen. Vincent Brooks at U.S. Central Command in the Persian Gulf",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "U.S. Central Command in the Persian Gulf",
+    "argMentionid" : "APW_ENG_20030403.0862-E102-140",
+    "start" : 16,
+    "end" : 22
+  },
+  "relationID" : "APW_ENG_20030403.0862-R69",
+  "mentionArg1" : {
+    "extent" : "Brig. Gen. Vincent Brooks at U.S. Central Command in the Persian Gulf",
+    "argMentionid" : "APW_ENG_20030403.0862-E100-138",
+    "start" : 11,
+    "end" : 22
+  },
+  "id" : "APW_ENG_20030403.0862-R69-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Documents were seized at the site north of Baghdad , said Brig. Gen. Vincent Brooks at U.S. Central Command in the Persian Gulf , but no ranking members of the regime were found .",
+  "sentence_index" : 30,
+  "Tokens" : [ "Documents", "were", "seized", "at", "the", "site", "north", "of", "Baghdad", ",", "said", "Brig.", "Gen.", "Vincent", "Brooks", "at", "U.S.", "Central", "Command", "in", "the", "Persian", "Gulf", ",", "but", "no", "ranking", "members", "of", "the", "regime", "were", "found", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "To the far north, U.S. special forces and Kurdish militiamen captured the town of Bardarash and a nearby bridge, one of few routes into the city of Mosul near government-held oil fields",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "the town of Bardarash",
+    "argMentionid" : "APW_ENG_20030403.0862-E108-150",
+    "start" : 12,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030403.0862-R70",
+  "mentionArg1" : {
+    "extent" : "U.S. special forces",
+    "argMentionid" : "APW_ENG_20030403.0862-E105-147",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030403.0862-R70-1",
+  "relationSubType" : "Located",
+  "Sentence" : "To the far north , U.S. special forces and Kurdish militiamen captured the town of Bardarash and a nearby bridge , one of few routes into the city of Mosul near government-held oil fields .",
+  "sentence_index" : 32,
+  "Tokens" : [ "To", "the", "far", "north", ",", "U.S.", "special", "forces", "and", "Kurdish", "militiamen", "captured", "the", "town", "of", "Bardarash", "and", "a", "nearby", "bridge", ",", "one", "of", "few", "routes", "into", "the", "city", "of", "Mosul", "near", "government-held", "oil", "fields", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "To the far north, U.S. special forces and Kurdish militiamen captured the town of Bardarash and a nearby bridge, one of few routes into the city of Mosul near government-held oil fields",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "the town of Bardarash",
+    "argMentionid" : "APW_ENG_20030403.0862-E108-150",
+    "start" : 12,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030403.0862-R71",
+  "mentionArg1" : {
+    "extent" : "Kurdish militiamen",
+    "argMentionid" : "APW_ENG_20030403.0862-E107-149",
+    "start" : 9,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030403.0862-R71-1",
+  "relationSubType" : "Located",
+  "Sentence" : "To the far north , U.S. special forces and Kurdish militiamen captured the town of Bardarash and a nearby bridge , one of few routes into the city of Mosul near government-held oil fields .",
+  "sentence_index" : 32,
+  "Tokens" : [ "To", "the", "far", "north", ",", "U.S.", "special", "forces", "and", "Kurdish", "militiamen", "captured", "the", "town", "of", "Bardarash", "and", "a", "nearby", "bridge", ",", "one", "of", "few", "routes", "into", "the", "city", "of", "Mosul", "near", "government-held", "oil", "fields", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "To the far north, U.S. special forces and Kurdish militiamen captured the town of Bardarash and a nearby bridge, one of few routes into the city of Mosul near government-held oil fields",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "a nearby bridge",
+    "argMentionid" : "APW_ENG_20030403.0862-E99-151",
+    "start" : 17,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030403.0862-R72",
+  "mentionArg1" : {
+    "extent" : "Kurdish militiamen",
+    "argMentionid" : "APW_ENG_20030403.0862-E107-149",
+    "start" : 9,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030403.0862-R72-1",
+  "relationSubType" : "Located",
+  "Sentence" : "To the far north , U.S. special forces and Kurdish militiamen captured the town of Bardarash and a nearby bridge , one of few routes into the city of Mosul near government-held oil fields .",
+  "sentence_index" : 32,
+  "Tokens" : [ "To", "the", "far", "north", ",", "U.S.", "special", "forces", "and", "Kurdish", "militiamen", "captured", "the", "town", "of", "Bardarash", "and", "a", "nearby", "bridge", ",", "one", "of", "few", "routes", "into", "the", "city", "of", "Mosul", "near", "government-held", "oil", "fields", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the city of Mosul near government-held oil fields",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "government-held oil fields",
+    "argMentionid" : "APW_ENG_20030403.0862-E113-154",
+    "start" : 31,
+    "end" : 33
+  },
+  "relationID" : "APW_ENG_20030403.0862-R73",
+  "mentionArg1" : {
+    "extent" : "the city of Mosul near government-held oil fields",
+    "argMentionid" : "APW_ENG_20030403.0862-E112-153",
+    "start" : 26,
+    "end" : 33
+  },
+  "id" : "APW_ENG_20030403.0862-R73-1",
+  "relationSubType" : "Near",
+  "Sentence" : "To the far north , U.S. special forces and Kurdish militiamen captured the town of Bardarash and a nearby bridge , one of few routes into the city of Mosul near government-held oil fields .",
+  "sentence_index" : 32,
+  "Tokens" : [ "To", "the", "far", "north", ",", "U.S.", "special", "forces", "and", "Kurdish", "militiamen", "captured", "the", "town", "of", "Bardarash", "and", "a", "nearby", "bridge", ",", "one", "of", "few", "routes", "into", "the", "city", "of", "Mosul", "near", "government-held", "oil", "fields", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "government-held oil fields",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "government-held oil fields",
+    "argMentionid" : "APW_ENG_20030403.0862-E113-154",
+    "start" : 31,
+    "end" : 33
+  },
+  "relationID" : "APW_ENG_20030403.0862-R74",
+  "mentionArg1" : {
+    "extent" : "government",
+    "argMentionid" : "APW_ENG_20030403.0862-E46-155",
+    "start" : 31,
+    "end" : 31
+  },
+  "id" : "APW_ENG_20030403.0862-R74-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "To the far north , U.S. special forces and Kurdish militiamen captured the town of Bardarash and a nearby bridge , one of few routes into the city of Mosul near government-held oil fields .",
+  "sentence_index" : 32,
+  "Tokens" : [ "To", "the", "far", "north", ",", "U.S.", "special", "forces", "and", "Kurdish", "militiamen", "captured", "the", "town", "of", "Bardarash", "and", "a", "nearby", "bridge", ",", "one", "of", "few", "routes", "into", "the", "city", "of", "Mosul", "near", "government-held", "oil", "fields", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. special forces",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030403.0862-E4-148",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030403.0862-R75",
+  "mentionArg1" : {
+    "extent" : "U.S. special forces",
+    "argMentionid" : "APW_ENG_20030403.0862-E105-147",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030403.0862-R75-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "To the far north , U.S. special forces and Kurdish militiamen captured the town of Bardarash and a nearby bridge , one of few routes into the city of Mosul near government-held oil fields .",
+  "sentence_index" : 32,
+  "Tokens" : [ "To", "the", "far", "north", ",", "U.S.", "special", "forces", "and", "Kurdish", "militiamen", "captured", "the", "town", "of", "Bardarash", "and", "a", "nearby", "bridge", ",", "one", "of", "few", "routes", "into", "the", "city", "of", "Mosul", "near", "government-held", "oil", "fields", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "British forces",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "APW_ENG_20030403.0862-E38-160",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030403.0862-R76",
+  "mentionArg1" : {
+    "extent" : "British forces",
+    "argMentionid" : "APW_ENG_20030403.0862-E117-159",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030403.0862-R76-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "In the country 's southern region , British forces penetrated closer to the center of Basra , and warplanes dropped 500-pound ( 225-kilogram ) and 1,000-pound ( 450-kilogram ) laser-guided bombs on an Iraqi intelligence complex .",
+  "sentence_index" : 34,
+  "Tokens" : [ "In", "the", "country", "'s", "southern", "region", ",", "British", "forces", "penetrated", "closer", "to", "the", "center", "of", "Basra", ",", "and", "warplanes", "dropped", "500-pound", "(", "225-kilogram", ")", "and", "1,000-pound", "(", "450-kilogram", ")", "laser-guided", "bombs", "on", "an", "Iraqi", "intelligence", "complex", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "In the country's southern region, British forces penetrated closer to the center of Basra, and warplanes dropped 500-pound (225-kilogram) and 1,000-pound (450-kilogram) laser-guided bombs on an Iraqi intelligence complex",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "the country's southern region",
+    "argMentionid" : "APW_ENG_20030403.0862-E116-157",
+    "start" : 1,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030403.0862-R77",
+  "mentionArg1" : {
+    "extent" : "the center of Basra",
+    "argMentionid" : "APW_ENG_20030403.0862-E126-168",
+    "start" : 12,
+    "end" : 15
+  },
+  "id" : "APW_ENG_20030403.0862-R77-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "In the country 's southern region , British forces penetrated closer to the center of Basra , and warplanes dropped 500-pound ( 225-kilogram ) and 1,000-pound ( 450-kilogram ) laser-guided bombs on an Iraqi intelligence complex .",
+  "sentence_index" : 34,
+  "Tokens" : [ "In", "the", "country", "'s", "southern", "region", ",", "British", "forces", "penetrated", "closer", "to", "the", "center", "of", "Basra", ",", "and", "warplanes", "dropped", "500-pound", "(", "225-kilogram", ")", "and", "1,000-pound", "(", "450-kilogram", ")", "laser-guided", "bombs", "on", "an", "Iraqi", "intelligence", "complex", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the center of Basra",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Basra",
+    "argMentionid" : "APW_ENG_20030403.0862-E124-169",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030403.0862-R78",
+  "mentionArg1" : {
+    "extent" : "the center of Basra",
+    "argMentionid" : "APW_ENG_20030403.0862-E126-168",
+    "start" : 12,
+    "end" : 15
+  },
+  "id" : "APW_ENG_20030403.0862-R78-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "In the country 's southern region , British forces penetrated closer to the center of Basra , and warplanes dropped 500-pound ( 225-kilogram ) and 1,000-pound ( 450-kilogram ) laser-guided bombs on an Iraqi intelligence complex .",
+  "sentence_index" : 34,
+  "Tokens" : [ "In", "the", "country", "'s", "southern", "region", ",", "British", "forces", "penetrated", "closer", "to", "the", "center", "of", "Basra", ",", "and", "warplanes", "dropped", "500-pound", "(", "225-kilogram", ")", "and", "1,000-pound", "(", "450-kilogram", ")", "laser-guided", "bombs", "on", "an", "Iraqi", "intelligence", "complex", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "an Iraqi intelligence complex",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "an Iraqi intelligence complex",
+    "argMentionid" : "APW_ENG_20030403.0862-E121-163",
+    "start" : 32,
+    "end" : 35
+  },
+  "relationID" : "APW_ENG_20030403.0862-R79",
+  "mentionArg1" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030403.0862-E46-164",
+    "start" : 33,
+    "end" : 33
+  },
+  "id" : "APW_ENG_20030403.0862-R79-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "In the country 's southern region , British forces penetrated closer to the center of Basra , and warplanes dropped 500-pound ( 225-kilogram ) and 1,000-pound ( 450-kilogram ) laser-guided bombs on an Iraqi intelligence complex .",
+  "sentence_index" : 34,
+  "Tokens" : [ "In", "the", "country", "'s", "southern", "region", ",", "British", "forces", "penetrated", "closer", "to", "the", "center", "of", "Basra", ",", "and", "warplanes", "dropped", "500-pound", "(", "225-kilogram", ")", "and", "1,000-pound", "(", "450-kilogram", ")", "laser-guided", "bombs", "on", "an", "Iraqi", "intelligence", "complex", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the city of 1.3 million",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "the city of 1.3 million",
+    "argMentionid" : "APW_ENG_20030403.0862-E124-166",
+    "start" : 8,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030403.0862-R80",
+  "mentionArg1" : {
+    "extent" : "1.3 million",
+    "argMentionid" : "APW_ENG_20030403.0862-E125-167",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030403.0862-R80-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Die-hard defenders have held out for days inside the city of 1.3 million .",
+  "sentence_index" : 35,
+  "Tokens" : [ "Die-hard", "defenders", "have", "held", "out", "for", "days", "inside", "the", "city", "of", "1.3", "million", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "American officials",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "APW_ENG_20030403.0862-E4-171",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030403.0862-R81",
+  "mentionArg1" : {
+    "extent" : "American officials",
+    "argMentionid" : "APW_ENG_20030403.0862-E127-170",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030403.0862-R81-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "American officials cited continuing examples of Iraqis cooperating with invading troops .",
+  "sentence_index" : 36,
+  "Tokens" : [ "American", "officials", "cited", "continuing", "examples", "of", "Iraqis", "cooperating", "with", "invading", "troops", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In Najaf, they said a prominent cleric under house arrest by the Iraqi government had urged the population not to interfere with the operations of American or British forces",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "house",
+    "argMentionid" : "APW_ENG_20030403.0862-E115-146",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030403.0862-R82",
+  "mentionArg1" : {
+    "extent" : "a prominent cleric under house arrest by the Iraqi government",
+    "argMentionid" : "APW_ENG_20030403.0862-E132-176",
+    "start" : 5,
+    "end" : 14
+  },
+  "id" : "APW_ENG_20030403.0862-R82-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In Najaf , they said a prominent cleric under house arrest by the Iraqi government had urged the population not to interfere with the operations of American or British forces .",
+  "sentence_index" : 37,
+  "Tokens" : [ "In", "Najaf", ",", "they", "said", "a", "prominent", "cleric", "under", "house", "arrest", "by", "the", "Iraqi", "government", "had", "urged", "the", "population", "not", "to", "interfere", "with", "the", "operations", "of", "American", "or", "British", "forces", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iraqi defenders",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030403.0862-E46-183",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030403.0862-R83",
+  "mentionArg1" : {
+    "extent" : "Iraqi defenders",
+    "argMentionid" : "APW_ENG_20030403.0862-E189-255",
+    "start" : 4,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030403.0862-R83-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "A small group of Iraqi defenders has been holding out inside the city in a mosque , considered a Shiite holy site , and local clerics said one religious leader had recently arrived in hopes of arranging for their safe passage out of the shrine .",
+  "sentence_index" : 38,
+  "Tokens" : [ "A", "small", "group", "of", "Iraqi", "defenders", "has", "been", "holding", "out", "inside", "the", "city", "in", "a", "mosque", ",", "considered", "a", "Shiite", "holy", "site", ",", "and", "local", "clerics", "said", "one", "religious", "leader", "had", "recently", "arrived", "in", "hopes", "of", "arranging", "for", "their", "safe", "passage", "out", "of", "the", "shrine", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "A small group of Iraqi defenders has been holding out inside the city in a mosque, considered a Shiite holy site, and local clerics said one religious leader had recently arrived in hopes of arranging for their safe passage out of the shrine",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "a mosque, considered a Shiite holy site",
+    "argMentionid" : "APW_ENG_20030403.0862-E139-185",
+    "start" : 14,
+    "end" : 21
+  },
+  "relationID" : "APW_ENG_20030403.0862-R84",
+  "mentionArg1" : {
+    "extent" : "A small group of Iraqi defenders",
+    "argMentionid" : "APW_ENG_20030403.0862-E137-182",
+    "start" : 0,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030403.0862-R84-1",
+  "relationSubType" : "Located",
+  "Sentence" : "A small group of Iraqi defenders has been holding out inside the city in a mosque , considered a Shiite holy site , and local clerics said one religious leader had recently arrived in hopes of arranging for their safe passage out of the shrine .",
+  "sentence_index" : 38,
+  "Tokens" : [ "A", "small", "group", "of", "Iraqi", "defenders", "has", "been", "holding", "out", "inside", "the", "city", "in", "a", "mosque", ",", "considered", "a", "Shiite", "holy", "site", ",", "and", "local", "clerics", "said", "one", "religious", "leader", "had", "recently", "arrived", "in", "hopes", "of", "arranging", "for", "their", "safe", "passage", "out", "of", "the", "shrine", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "A small group of Iraqi defenders has been holding out inside the city in a mosque, considered a Shiite holy site, and local clerics said one religious leader had recently arrived in hopes of arranging for their safe passage out of the shrine",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "the shrine",
+    "argMentionid" : "APW_ENG_20030403.0862-E139-189",
+    "start" : 43,
+    "end" : 44
+  },
+  "relationID" : "APW_ENG_20030403.0862-R84",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "APW_ENG_20030403.0862-E137-254",
+    "start" : 38,
+    "end" : 38
+  },
+  "id" : "APW_ENG_20030403.0862-R84-2",
+  "relationSubType" : "Located",
+  "Sentence" : "A small group of Iraqi defenders has been holding out inside the city in a mosque , considered a Shiite holy site , and local clerics said one religious leader had recently arrived in hopes of arranging for their safe passage out of the shrine .",
+  "sentence_index" : 38,
+  "Tokens" : [ "A", "small", "group", "of", "Iraqi", "defenders", "has", "been", "holding", "out", "inside", "the", "city", "in", "a", "mosque", ",", "considered", "a", "Shiite", "holy", "site", ",", "and", "local", "clerics", "said", "one", "religious", "leader", "had", "recently", "arrived", "in", "hopes", "of", "arranging", "for", "their", "safe", "passage", "out", "of", "the", "shrine", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the city in a mosque, considered a Shiite holy site",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "a mosque, considered a Shiite holy site",
+    "argMentionid" : "APW_ENG_20030403.0862-E139-185",
+    "start" : 14,
+    "end" : 21
+  },
+  "relationID" : "APW_ENG_20030403.0862-R86",
+  "mentionArg1" : {
+    "extent" : "the city",
+    "argMentionid" : "APW_ENG_20030403.0862-E131-184",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030403.0862-R86-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "A small group of Iraqi defenders has been holding out inside the city in a mosque , considered a Shiite holy site , and local clerics said one religious leader had recently arrived in hopes of arranging for their safe passage out of the shrine .",
+  "sentence_index" : 38,
+  "Tokens" : [ "A", "small", "group", "of", "Iraqi", "defenders", "has", "been", "holding", "out", "inside", "the", "city", "in", "a", "mosque", ",", "considered", "a", "Shiite", "holy", "site", ",", "and", "local", "clerics", "said", "one", "religious", "leader", "had", "recently", "arrived", "in", "hopes", "of", "arranging", "for", "their", "safe", "passage", "out", "of", "the", "shrine", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Ground forces closed in on Baghdad from separate southern approaches, the Army from the southeast and Marines from the southwest, in advances begun Tuesday night",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "APW_ENG_20030403.0862-E193-191",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030403.0862-R87",
+  "mentionArg1" : {
+    "extent" : "Ground forces",
+    "argMentionid" : "APW_ENG_20030403.0862-E143-190",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030403.0862-R87-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Ground forces closed in on Baghdad from separate southern approaches , the Army from the southeast and Marines from the southwest , in advances begun Tuesday night .",
+  "sentence_index" : 39,
+  "Tokens" : [ "Ground", "forces", "closed", "in", "on", "Baghdad", "from", "separate", "southern", "approaches", ",", "the", "Army", "from", "the", "southeast", "and", "Marines", "from", "the", "southwest", ",", "in", "advances", "begun", "Tuesday", "night", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Ground forces closed in on Baghdad from separate southern approaches, the Army from the southeast and Marines from the southwest, in advances begun Tuesday night",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "APW_ENG_20030403.0862-E193-191",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030403.0862-R88",
+  "mentionArg1" : {
+    "extent" : "the Army",
+    "argMentionid" : "APW_ENG_20030403.0862-E144-192",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030403.0862-R88-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Ground forces closed in on Baghdad from separate southern approaches , the Army from the southeast and Marines from the southwest , in advances begun Tuesday night .",
+  "sentence_index" : 39,
+  "Tokens" : [ "Ground", "forces", "closed", "in", "on", "Baghdad", "from", "separate", "southern", "approaches", ",", "the", "Army", "from", "the", "southeast", "and", "Marines", "from", "the", "southwest", ",", "in", "advances", "begun", "Tuesday", "night", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "American and British helicopters and planes",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "American and British helicopters and planes",
+    "argMentionid" : "APW_ENG_20030403.0862-E146-195",
+    "start" : 0,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030403.0862-R89",
+  "mentionArg1" : {
+    "extent" : "American",
+    "argMentionid" : "APW_ENG_20030403.0862-E4-198",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "APW_ENG_20030403.0862-R89-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "American and British helicopters and planes bombed positions in Kut , and Marines and Iraqis lobbed grenades at close quarters .",
+  "sentence_index" : 40,
+  "Tokens" : [ "American", "and", "British", "helicopters", "and", "planes", "bombed", "positions", "in", "Kut", ",", "and", "Marines", "and", "Iraqis", "lobbed", "grenades", "at", "close", "quarters", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "American and British helicopters and planes",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "American and British helicopters and planes",
+    "argMentionid" : "APW_ENG_20030403.0862-E146-195",
+    "start" : 0,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030403.0862-R90",
+  "mentionArg1" : {
+    "extent" : "British",
+    "argMentionid" : "APW_ENG_20030403.0862-E38-197",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030403.0862-R90-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "American and British helicopters and planes bombed positions in Kut , and Marines and Iraqis lobbed grenades at close quarters .",
+  "sentence_index" : 40,
+  "Tokens" : [ "American", "and", "British", "helicopters", "and", "planes", "bombed", "positions", "in", "Kut", ",", "and", "Marines", "and", "Iraqis", "lobbed", "grenades", "at", "close", "quarters", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "American and British helicopters and planes bombed positions in Kut, and Marines and Iraqis lobbed grenades at close quarters",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "grenades",
+    "argMentionid" : "APW_ENG_20030403.0862-E153-203",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "APW_ENG_20030403.0862-R91",
+  "mentionArg1" : {
+    "extent" : "Marines",
+    "argMentionid" : "APW_ENG_20030403.0862-E151-201",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030403.0862-R91-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "American and British helicopters and planes bombed positions in Kut , and Marines and Iraqis lobbed grenades at close quarters .",
+  "sentence_index" : 40,
+  "Tokens" : [ "American", "and", "British", "helicopters", "and", "planes", "bombed", "positions", "in", "Kut", ",", "and", "Marines", "and", "Iraqis", "lobbed", "grenades", "at", "close", "quarters", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "American and British helicopters and planes bombed positions in Kut, and Marines and Iraqis lobbed grenades at close quarters",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "grenades",
+    "argMentionid" : "APW_ENG_20030403.0862-E153-203",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "APW_ENG_20030403.0862-R92",
+  "mentionArg1" : {
+    "extent" : "Iraqis",
+    "argMentionid" : "APW_ENG_20030403.0862-E152-202",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "APW_ENG_20030403.0862-R92-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "American and British helicopters and planes bombed positions in Kut , and Marines and Iraqis lobbed grenades at close quarters .",
+  "sentence_index" : 40,
+  "Tokens" : [ "American", "and", "British", "helicopters", "and", "planes", "bombed", "positions", "in", "Kut", ",", "and", "Marines", "and", "Iraqis", "lobbed", "grenades", "at", "close", "quarters", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Between 10 and 15 Iraqis armed only with rifles",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "rifles",
+    "argMentionid" : "APW_ENG_20030403.0862-E155-205",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030403.0862-R93",
+  "mentionArg1" : {
+    "extent" : "Between 10 and 15 Iraqis armed only with rifles",
+    "argMentionid" : "APW_ENG_20030403.0862-E154-204",
+    "start" : 0,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030403.0862-R93-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Between 10 and 15 Iraqis armed only with rifles charged Marine tanks in the suicide charge .",
+  "sentence_index" : 41,
+  "Tokens" : [ "Between", "10", "and", "15", "Iraqis", "armed", "only", "with", "rifles", "charged", "Marine", "tanks", "in", "the", "suicide", "charge", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Marine tanks",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Marine tanks",
+    "argMentionid" : "APW_ENG_20030403.0862-E156-206",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030403.0862-R94",
+  "mentionArg1" : {
+    "extent" : "Marine",
+    "argMentionid" : "APW_ENG_20030403.0862-E157-207",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030403.0862-R94-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Between 10 and 15 Iraqis armed only with rifles charged Marine tanks in the suicide charge .",
+  "sentence_index" : 41,
+  "Tokens" : [ "Between", "10", "and", "15", "Iraqis", "armed", "only", "with", "rifles", "charged", "Marine", "tanks", "in", "the", "suicide", "charge", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Two U.S. Marines",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030403.0862-E4-209",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030403.0862-R95",
+  "mentionArg1" : {
+    "extent" : "Two U.S. Marines",
+    "argMentionid" : "APW_ENG_20030403.0862-E158-208",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030403.0862-R95-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Two U.S. Marines died in the fighting _ and a medic who tried to save one of them sorrowfully buried his resuscitation equipment on the spot .",
+  "sentence_index" : 42,
+  "Tokens" : [ "Two", "U.S.", "Marines", "died", "in", "the", "fighting", "_", "and", "a", "medic", "who", "tried", "to", "save", "one", "of", "them", "sorrowfully", "buried", "his", "resuscitation", "equipment", "on", "the", "spot", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Army forces",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Army",
+    "argMentionid" : "APW_ENG_20030403.0862-E150-199",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030403.0862-R96",
+  "mentionArg1" : {
+    "extent" : "Army forces",
+    "argMentionid" : "APW_ENG_20030403.0862-E162-215",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030403.0862-R96-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Army forces rolled past dozens of dead Iraqi soldiers and bombed-out hulks of Iraqi military equipment as they made their way toward Baghdad from the area around Karbala .",
+  "sentence_index" : 43,
+  "Tokens" : [ "Army", "forces", "rolled", "past", "dozens", "of", "dead", "Iraqi", "soldiers", "and", "bombed-out", "hulks", "of", "Iraqi", "military", "equipment", "as", "they", "made", "their", "way", "toward", "Baghdad", "from", "the", "area", "around", "Karbala", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "dozens of dead Iraqi soldiers",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030403.0862-E46-218",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030403.0862-R97",
+  "mentionArg1" : {
+    "extent" : "dozens of dead Iraqi soldiers",
+    "argMentionid" : "APW_ENG_20030403.0862-E164-217",
+    "start" : 4,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030403.0862-R97-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Army forces rolled past dozens of dead Iraqi soldiers and bombed-out hulks of Iraqi military equipment as they made their way toward Baghdad from the area around Karbala .",
+  "sentence_index" : 43,
+  "Tokens" : [ "Army", "forces", "rolled", "past", "dozens", "of", "dead", "Iraqi", "soldiers", "and", "bombed-out", "hulks", "of", "Iraqi", "military", "equipment", "as", "they", "made", "their", "way", "toward", "Baghdad", "from", "the", "area", "around", "Karbala", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Army forces rolled past dozens of dead Iraqi soldiers and bombed-out hulks of Iraqi military equipment as they made their way toward Baghdad from the area around Karbala",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "the area around Karbala",
+    "argMentionid" : "APW_ENG_20030403.0862-E168-224",
+    "start" : 24,
+    "end" : 27
+  },
+  "relationID" : "APW_ENG_20030403.0862-R98",
+  "mentionArg1" : {
+    "extent" : "Army forces",
+    "argMentionid" : "APW_ENG_20030403.0862-E162-215",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030403.0862-R98-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Army forces rolled past dozens of dead Iraqi soldiers and bombed-out hulks of Iraqi military equipment as they made their way toward Baghdad from the area around Karbala .",
+  "sentence_index" : 43,
+  "Tokens" : [ "Army", "forces", "rolled", "past", "dozens", "of", "dead", "Iraqi", "soldiers", "and", "bombed-out", "hulks", "of", "Iraqi", "military", "equipment", "as", "they", "made", "their", "way", "toward", "Baghdad", "from", "the", "area", "around", "Karbala", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Army forces rolled past dozens of dead Iraqi soldiers and bombed-out hulks of Iraqi military equipment as they made their way toward Baghdad from the area around Karbala",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "APW_ENG_20030403.0862-E193-223",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "APW_ENG_20030403.0862-R99",
+  "mentionArg1" : {
+    "extent" : "Army forces",
+    "argMentionid" : "APW_ENG_20030403.0862-E162-215",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030403.0862-R99-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Army forces rolled past dozens of dead Iraqi soldiers and bombed-out hulks of Iraqi military equipment as they made their way toward Baghdad from the area around Karbala .",
+  "sentence_index" : 43,
+  "Tokens" : [ "Army", "forces", "rolled", "past", "dozens", "of", "dead", "Iraqi", "soldiers", "and", "bombed-out", "hulks", "of", "Iraqi", "military", "equipment", "as", "they", "made", "their", "way", "toward", "Baghdad", "from", "the", "area", "around", "Karbala", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the area around Karbala",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Karbala",
+    "argMentionid" : "APW_ENG_20030403.0862-E110-145",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "APW_ENG_20030403.0862-R100",
+  "mentionArg1" : {
+    "extent" : "the area around Karbala",
+    "argMentionid" : "APW_ENG_20030403.0862-E168-224",
+    "start" : 24,
+    "end" : 27
+  },
+  "id" : "APW_ENG_20030403.0862-R100-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Army forces rolled past dozens of dead Iraqi soldiers and bombed-out hulks of Iraqi military equipment as they made their way toward Baghdad from the area around Karbala .",
+  "sentence_index" : 43,
+  "Tokens" : [ "Army", "forces", "rolled", "past", "dozens", "of", "dead", "Iraqi", "soldiers", "and", "bombed-out", "hulks", "of", "Iraqi", "military", "equipment", "as", "they", "made", "their", "way", "toward", "Baghdad", "from", "the", "area", "around", "Karbala", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Many more Iraqi soldiers",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030403.0862-E46-227",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "APW_ENG_20030403.0862-R101",
+  "mentionArg1" : {
+    "extent" : "Many more Iraqi soldiers",
+    "argMentionid" : "APW_ENG_20030403.0862-E170-226",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "APW_ENG_20030403.0862-R101-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Many more Iraqi soldiers surrendered to the overwhelming force of the Americans , and were shuttled to the rear .",
+  "sentence_index" : 44,
+  "Tokens" : [ "Many", "more", "Iraqi", "soldiers", "surrendered", "to", "the", "overwhelming", "force", "of", "the", "Americans", ",", "and", "were", "shuttled", "to", "the", "rear", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a special operations force in the southwestern desert",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "the southwestern desert",
+    "argMentionid" : "APW_ENG_20030403.0862-E176-234",
+    "start" : 19,
+    "end" : 21
+  },
+  "relationID" : "APW_ENG_20030403.0862-R102",
+  "mentionArg1" : {
+    "extent" : "a special operations force in the southwestern desert",
+    "argMentionid" : "APW_ENG_20030403.0862-E175-233",
+    "start" : 14,
+    "end" : 21
+  },
+  "id" : "APW_ENG_20030403.0862-R102-1",
+  "relationSubType" : "Located",
+  "Sentence" : "At the same time they worried about chemical weapons attacks , Brooks disclosed that a special operations force in the southwestern desert had found a number of bottles `` marked in strange ways . ''",
+  "sentence_index" : 45,
+  "Tokens" : [ "At", "the", "same", "time", "they", "worried", "about", "chemical", "weapons", "attacks", ",", "Brooks", "disclosed", "that", "a", "special", "operations", "force", "in", "the", "southwestern", "desert", "had", "found", "a", "number", "of", "bottles", "``", "marked", "in", "strange", "ways", ".", "''" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "BAGHDAD, Iraq",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "APW_ENG_20030403.0862-E46-239",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030403.0862-R103",
+  "mentionArg1" : {
+    "extent" : "BAGHDAD, Iraq",
+    "argMentionid" : "APW_ENG_20030403.0862-E193-258",
+    "start" : 2,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030403.0862-R103-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "SOUTH OF BAGHDAD , Iraq ( AP ) U.S. soldiers moved to capture Baghdad 's Saddam International Airport early Friday and fought running battles with Iraqi defenders along the city 's southern fringes .",
+  "sentence_index" : 0,
+  "Tokens" : [ "SOUTH", "OF", "BAGHDAD", ",", "Iraq", "(", "AP", ")", "U.S.", "soldiers", "moved", "to", "capture", "Baghdad", "'s", "Saddam", "International", "Airport", "early", "Friday", "and", "fought", "running", "battles", "with", "Iraqi", "defenders", "along", "the", "city", "'s", "southern", "fringes", "." ]
+} ]

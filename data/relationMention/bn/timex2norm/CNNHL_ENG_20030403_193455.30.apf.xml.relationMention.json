@@ -1,0 +1,155 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "iraqi troops",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNNHL_ENG_20030403_193455.30-E7-6",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNNHL_ENG_20030403_193455.30-R1",
+  "mentionArg1" : {
+    "extent" : "iraqi troops",
+    "argMentionid" : "CNNHL_ENG_20030403_193455.30-E8-7",
+    "start" : 9,
+    "end" : 10
+  },
+  "id" : "CNNHL_ENG_20030403_193455.30-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "saddam international airport has become a battlefield. witnesses say iraqi troops are dug in trying to fend off coalition troops making their way into the capital 's main airport. a reuters correspondent said dozens of iraqi civilians and soldiers were killed in what witnesses called a barrage of u . s. artillery .",
+  "sentence_index" : 0,
+  "Tokens" : [ "saddam", "international", "airport", "has", "become", "a", "battlefield.", "witnesses", "say", "iraqi", "troops", "are", "dug", "in", "trying", "to", "fend", "off", "coalition", "troops", "making", "their", "way", "into", "the", "capital", "'s", "main", "airport.", "a", "reuters", "correspondent", "said", "dozens", "of", "iraqi", "civilians", "and", "soldiers", "were", "killed", "in", "what", "witnesses", "called", "a", "barrage", "of", "u", ".", "s.", "artillery", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "coalition troops",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNNHL_ENG_20030403_193455.30-E10-9",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "CNNHL_ENG_20030403_193455.30-R2",
+  "mentionArg1" : {
+    "extent" : "coalition troops",
+    "argMentionid" : "CNNHL_ENG_20030403_193455.30-E9-8",
+    "start" : 18,
+    "end" : 19
+  },
+  "id" : "CNNHL_ENG_20030403_193455.30-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "saddam international airport has become a battlefield. witnesses say iraqi troops are dug in trying to fend off coalition troops making their way into the capital 's main airport. a reuters correspondent said dozens of iraqi civilians and soldiers were killed in what witnesses called a barrage of u . s. artillery .",
+  "sentence_index" : 0,
+  "Tokens" : [ "saddam", "international", "airport", "has", "become", "a", "battlefield.", "witnesses", "say", "iraqi", "troops", "are", "dug", "in", "trying", "to", "fend", "off", "coalition", "troops", "making", "their", "way", "into", "the", "capital", "'s", "main", "airport.", "a", "reuters", "correspondent", "said", "dozens", "of", "iraqi", "civilians", "and", "soldiers", "were", "killed", "in", "what", "witnesses", "called", "a", "barrage", "of", "u", ".", "s.", "artillery", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the capital's main airport",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "the capital",
+    "argMentionid" : "CNNHL_ENG_20030403_193455.30-E11-11",
+    "start" : 24,
+    "end" : 25
+  },
+  "relationID" : "CNNHL_ENG_20030403_193455.30-R3",
+  "mentionArg1" : {
+    "extent" : "the capital's main airport",
+    "argMentionid" : "CNNHL_ENG_20030403_193455.30-E5-12",
+    "start" : 24,
+    "end" : 28
+  },
+  "id" : "CNNHL_ENG_20030403_193455.30-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "saddam international airport has become a battlefield. witnesses say iraqi troops are dug in trying to fend off coalition troops making their way into the capital 's main airport. a reuters correspondent said dozens of iraqi civilians and soldiers were killed in what witnesses called a barrage of u . s. artillery .",
+  "sentence_index" : 0,
+  "Tokens" : [ "saddam", "international", "airport", "has", "become", "a", "battlefield.", "witnesses", "say", "iraqi", "troops", "are", "dug", "in", "trying", "to", "fend", "off", "coalition", "troops", "making", "their", "way", "into", "the", "capital", "'s", "main", "airport.", "a", "reuters", "correspondent", "said", "dozens", "of", "iraqi", "civilians", "and", "soldiers", "were", "killed", "in", "what", "witnesses", "called", "a", "barrage", "of", "u", ".", "s.", "artillery", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "dozens of iraqi civilians and soldiers",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNNHL_ENG_20030403_193455.30-E7-15",
+    "start" : 35,
+    "end" : 35
+  },
+  "relationID" : "CNNHL_ENG_20030403_193455.30-R4",
+  "mentionArg1" : {
+    "extent" : "dozens of iraqi civilians and soldiers",
+    "argMentionid" : "CNNHL_ENG_20030403_193455.30-E12-13",
+    "start" : 33,
+    "end" : 38
+  },
+  "id" : "CNNHL_ENG_20030403_193455.30-R4-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "saddam international airport has become a battlefield. witnesses say iraqi troops are dug in trying to fend off coalition troops making their way into the capital 's main airport. a reuters correspondent said dozens of iraqi civilians and soldiers were killed in what witnesses called a barrage of u . s. artillery .",
+  "sentence_index" : 0,
+  "Tokens" : [ "saddam", "international", "airport", "has", "become", "a", "battlefield.", "witnesses", "say", "iraqi", "troops", "are", "dug", "in", "trying", "to", "fend", "off", "coalition", "troops", "making", "their", "way", "into", "the", "capital", "'s", "main", "airport.", "a", "reuters", "correspondent", "said", "dozens", "of", "iraqi", "civilians", "and", "soldiers", "were", "killed", "in", "what", "witnesses", "called", "a", "barrage", "of", "u", ".", "s.", "artillery", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "dozens of iraqi civilians and soldiers",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNNHL_ENG_20030403_193455.30-E7-15",
+    "start" : 35,
+    "end" : 35
+  },
+  "relationID" : "CNNHL_ENG_20030403_193455.30-R5",
+  "mentionArg1" : {
+    "extent" : "dozens of iraqi civilians and soldiers",
+    "argMentionid" : "CNNHL_ENG_20030403_193455.30-E13-14",
+    "start" : 33,
+    "end" : 38
+  },
+  "id" : "CNNHL_ENG_20030403_193455.30-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "saddam international airport has become a battlefield. witnesses say iraqi troops are dug in trying to fend off coalition troops making their way into the capital 's main airport. a reuters correspondent said dozens of iraqi civilians and soldiers were killed in what witnesses called a barrage of u . s. artillery .",
+  "sentence_index" : 0,
+  "Tokens" : [ "saddam", "international", "airport", "has", "become", "a", "battlefield.", "witnesses", "say", "iraqi", "troops", "are", "dug", "in", "trying", "to", "fend", "off", "coalition", "troops", "making", "their", "way", "into", "the", "capital", "'s", "main", "airport.", "a", "reuters", "correspondent", "said", "dozens", "of", "iraqi", "civilians", "and", "soldiers", "were", "killed", "in", "what", "witnesses", "called", "a", "barrage", "of", "u", ".", "s.", "artillery", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "u.s. artillery",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "u.s. artillery",
+    "argMentionid" : "CNNHL_ENG_20030403_193455.30-E2-2",
+    "start" : 48,
+    "end" : 51
+  },
+  "relationID" : "CNNHL_ENG_20030403_193455.30-R6",
+  "mentionArg1" : {
+    "extent" : "u.s",
+    "argMentionid" : "CNNHL_ENG_20030403_193455.30-E1-17",
+    "start" : 48,
+    "end" : 50
+  },
+  "id" : "CNNHL_ENG_20030403_193455.30-R6-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "saddam international airport has become a battlefield. witnesses say iraqi troops are dug in trying to fend off coalition troops making their way into the capital 's main airport. a reuters correspondent said dozens of iraqi civilians and soldiers were killed in what witnesses called a barrage of u . s. artillery .",
+  "sentence_index" : 0,
+  "Tokens" : [ "saddam", "international", "airport", "has", "become", "a", "battlefield.", "witnesses", "say", "iraqi", "troops", "are", "dug", "in", "trying", "to", "fend", "off", "coalition", "troops", "making", "their", "way", "into", "the", "capital", "'s", "main", "airport.", "a", "reuters", "correspondent", "said", "dozens", "of", "iraqi", "civilians", "and", "soldiers", "were", "killed", "in", "what", "witnesses", "called", "a", "barrage", "of", "u", ".", "s.", "artillery", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a reuters correspondent",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "reuters",
+    "argMentionid" : "CNNHL_ENG_20030403_193455.30-E3-3",
+    "start" : 30,
+    "end" : 30
+  },
+  "relationID" : "CNNHL_ENG_20030403_193455.30-R7",
+  "mentionArg1" : {
+    "extent" : "a reuters correspondent",
+    "argMentionid" : "CNNHL_ENG_20030403_193455.30-E4-4",
+    "start" : 29,
+    "end" : 31
+  },
+  "id" : "CNNHL_ENG_20030403_193455.30-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "saddam international airport has become a battlefield. witnesses say iraqi troops are dug in trying to fend off coalition troops making their way into the capital 's main airport. a reuters correspondent said dozens of iraqi civilians and soldiers were killed in what witnesses called a barrage of u . s. artillery .",
+  "sentence_index" : 0,
+  "Tokens" : [ "saddam", "international", "airport", "has", "become", "a", "battlefield.", "witnesses", "say", "iraqi", "troops", "are", "dug", "in", "trying", "to", "fend", "off", "coalition", "troops", "making", "their", "way", "into", "the", "capital", "'s", "main", "airport.", "a", "reuters", "correspondent", "said", "dozens", "of", "iraqi", "civilians", "and", "soldiers", "were", "killed", "in", "what", "witnesses", "called", "a", "barrage", "of", "u", ".", "s.", "artillery", "." ]
+} ]

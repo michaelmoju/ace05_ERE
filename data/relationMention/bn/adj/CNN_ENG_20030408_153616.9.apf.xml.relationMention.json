@@ -1,0 +1,375 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "spanish tv",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "spanish",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E30-34",
+    "start" : 39,
+    "end" : 39
+  },
+  "relationID" : "CNN_ENG_20030408_153616.9-R1",
+  "mentionArg1" : {
+    "extent" : "spanish tv",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E27-31",
+    "start" : 39,
+    "end" : 40
+  },
+  "id" : "CNN_ENG_20030408_153616.9-R1-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "2:58 , a . m . , explosions reported around the palestine hotel where international journalists are staying. a u . s. tank shelled the hotel in response to sniper fire. the blast kills two cameramen , one from spanish tv , another from reuters. three reuters journalist were killed .",
+  "sentence_index" : 0,
+  "Tokens" : [ "2:58", ",", "a", ".", "m", ".", ",", "explosions", "reported", "around", "the", "palestine", "hotel", "where", "international", "journalists", "are", "staying.", "a", "u", ".", "s.", "tank", "shelled", "the", "hotel", "in", "response", "to", "sniper", "fire.", "the", "blast", "kills", "two", "cameramen", ",", "one", "from", "spanish", "tv", ",", "another", "from", "reuters.", "three", "reuters", "journalist", "were", "killed", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "u.s. central command",
+  "sentence_length" : 87,
+  "mentionArg2" : {
+    "extent" : "u.s",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E13-35",
+    "start" : 6,
+    "end" : 8
+  },
+  "relationID" : "CNN_ENG_20030408_153616.9-R2",
+  "mentionArg1" : {
+    "extent" : "u.s. central command",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E28-32",
+    "start" : 6,
+    "end" : 10
+  },
+  "id" : "CNN_ENG_20030408_153616.9-R2-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "7:00 a . m . , u . s. central command says the coalition may never know if iraqi president saddam hussein survived a u . s. air strike yesterday. a b-1 bomber dropped four 2,000-pound bombs on a building in a residential area of baghdad after getting intelligence reports senior officials were meeting there , possibly including saddam hussein and his sons. brigadier general vince brooks confirmed a usa-10 warthog aircraft was shot down by an iraqi missile today. the pilot ejected and was rescued .",
+  "sentence_index" : 2,
+  "Tokens" : [ "7:00", "a", ".", "m", ".", ",", "u", ".", "s.", "central", "command", "says", "the", "coalition", "may", "never", "know", "if", "iraqi", "president", "saddam", "hussein", "survived", "a", "u", ".", "s.", "air", "strike", "yesterday.", "a", "b-1", "bomber", "dropped", "four", "2,000-pound", "bombs", "on", "a", "building", "in", "a", "residential", "area", "of", "baghdad", "after", "getting", "intelligence", "reports", "senior", "officials", "were", "meeting", "there", ",", "possibly", "including", "saddam", "hussein", "and", "his", "sons.", "brigadier", "general", "vince", "brooks", "confirmed", "a", "usa-10", "warthog", "aircraft", "was", "shot", "down", "by", "an", "iraqi", "missile", "today.", "the", "pilot", "ejected", "and", "was", "rescued", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a u.s. tank",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "a u.s. tank",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E36-42",
+    "start" : 18,
+    "end" : 22
+  },
+  "relationID" : "CNN_ENG_20030408_153616.9-R3",
+  "mentionArg1" : {
+    "extent" : "u.s",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E13-41",
+    "start" : 19,
+    "end" : 21
+  },
+  "id" : "CNN_ENG_20030408_153616.9-R3-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "2:58 , a . m . , explosions reported around the palestine hotel where international journalists are staying. a u . s. tank shelled the hotel in response to sniper fire. the blast kills two cameramen , one from spanish tv , another from reuters. three reuters journalist were killed .",
+  "sentence_index" : 0,
+  "Tokens" : [ "2:58", ",", "a", ".", "m", ".", ",", "explosions", "reported", "around", "the", "palestine", "hotel", "where", "international", "journalists", "are", "staying.", "a", "u", ".", "s.", "tank", "shelled", "the", "hotel", "in", "response", "to", "sniper", "fire.", "the", "blast", "kills", "two", "cameramen", ",", "one", "from", "spanish", "tv", ",", "another", "from", "reuters.", "three", "reuters", "journalist", "were", "killed", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "one from spanish tv",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "spanish tv",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E27-31",
+    "start" : 39,
+    "end" : 40
+  },
+  "relationID" : "CNN_ENG_20030408_153616.9-R4",
+  "mentionArg1" : {
+    "extent" : "one from spanish tv",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E39-46",
+    "start" : 37,
+    "end" : 40
+  },
+  "id" : "CNN_ENG_20030408_153616.9-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "2:58 , a . m . , explosions reported around the palestine hotel where international journalists are staying. a u . s. tank shelled the hotel in response to sniper fire. the blast kills two cameramen , one from spanish tv , another from reuters. three reuters journalist were killed .",
+  "sentence_index" : 0,
+  "Tokens" : [ "2:58", ",", "a", ".", "m", ".", ",", "explosions", "reported", "around", "the", "palestine", "hotel", "where", "international", "journalists", "are", "staying.", "a", "u", ".", "s.", "tank", "shelled", "the", "hotel", "in", "response", "to", "sniper", "fire.", "the", "blast", "kills", "two", "cameramen", ",", "one", "from", "spanish", "tv", ",", "another", "from", "reuters.", "three", "reuters", "journalist", "were", "killed", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "another from reuters",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "reuters",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E2-48",
+    "start" : 44,
+    "end" : 44
+  },
+  "relationID" : "CNN_ENG_20030408_153616.9-R5",
+  "mentionArg1" : {
+    "extent" : "another from reuters",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E40-47",
+    "start" : 42,
+    "end" : 44
+  },
+  "id" : "CNN_ENG_20030408_153616.9-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "2:58 , a . m . , explosions reported around the palestine hotel where international journalists are staying. a u . s. tank shelled the hotel in response to sniper fire. the blast kills two cameramen , one from spanish tv , another from reuters. three reuters journalist were killed .",
+  "sentence_index" : 0,
+  "Tokens" : [ "2:58", ",", "a", ".", "m", ".", ",", "explosions", "reported", "around", "the", "palestine", "hotel", "where", "international", "journalists", "are", "staying.", "a", "u", ".", "s.", "tank", "shelled", "the", "hotel", "in", "response", "to", "sniper", "fire.", "the", "blast", "kills", "two", "cameramen", ",", "one", "from", "spanish", "tv", ",", "another", "from", "reuters.", "three", "reuters", "journalist", "were", "killed", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "three reuters journalist",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "reuters",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E2-2",
+    "start" : 46,
+    "end" : 46
+  },
+  "relationID" : "CNN_ENG_20030408_153616.9-R6",
+  "mentionArg1" : {
+    "extent" : "three reuters journalist",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E1-1",
+    "start" : 45,
+    "end" : 47
+  },
+  "id" : "CNN_ENG_20030408_153616.9-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "2:58 , a . m . , explosions reported around the palestine hotel where international journalists are staying. a u . s. tank shelled the hotel in response to sniper fire. the blast kills two cameramen , one from spanish tv , another from reuters. three reuters journalist were killed .",
+  "sentence_index" : 0,
+  "Tokens" : [ "2:58", ",", "a", ".", "m", ".", ",", "explosions", "reported", "around", "the", "palestine", "hotel", "where", "international", "journalists", "are", "staying.", "a", "u", ".", "s.", "tank", "shelled", "the", "hotel", "in", "response", "to", "sniper", "fire.", "the", "blast", "kills", "two", "cameramen", ",", "one", "from", "spanish", "tv", ",", "another", "from", "reuters.", "three", "reuters", "journalist", "were", "killed", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a field beside an industrial complex in southeast baghdad",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "an industrial complex in southeast baghdad",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E7-7",
+    "start" : 25,
+    "end" : 30
+  },
+  "relationID" : "CNN_ENG_20030408_153616.9-R7",
+  "mentionArg1" : {
+    "extent" : "a field beside an industrial complex in southeast baghdad",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E6-6",
+    "start" : 22,
+    "end" : 30
+  },
+  "id" : "CNN_ENG_20030408_153616.9-R7-1",
+  "relationSubType" : "Near",
+  "Sentence" : "5:33 a . m . , martin savidge says the marines have found chemical protection suits and antidotes for chemical weapons in a field beside an industrial complex in southeast baghdad. nearby they found abandoned weapons and artillery case , which they demolished .",
+  "sentence_index" : 1,
+  "Tokens" : [ "5:33", "a", ".", "m", ".", ",", "martin", "savidge", "says", "the", "marines", "have", "found", "chemical", "protection", "suits", "and", "antidotes", "for", "chemical", "weapons", "in", "a", "field", "beside", "an", "industrial", "complex", "in", "southeast", "baghdad.", "nearby", "they", "found", "abandoned", "weapons", "and", "artillery", "case", ",", "which", "they", "demolished", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "an industrial complex in southeast baghdad",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "southeast baghdad",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E8-8",
+    "start" : 29,
+    "end" : 30
+  },
+  "relationID" : "CNN_ENG_20030408_153616.9-R8",
+  "mentionArg1" : {
+    "extent" : "an industrial complex in southeast baghdad",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E7-7",
+    "start" : 25,
+    "end" : 30
+  },
+  "id" : "CNN_ENG_20030408_153616.9-R8-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "5:33 a . m . , martin savidge says the marines have found chemical protection suits and antidotes for chemical weapons in a field beside an industrial complex in southeast baghdad. nearby they found abandoned weapons and artillery case , which they demolished .",
+  "sentence_index" : 1,
+  "Tokens" : [ "5:33", "a", ".", "m", ".", ",", "martin", "savidge", "says", "the", "marines", "have", "found", "chemical", "protection", "suits", "and", "antidotes", "for", "chemical", "weapons", "in", "a", "field", "beside", "an", "industrial", "complex", "in", "southeast", "baghdad.", "nearby", "they", "found", "abandoned", "weapons", "and", "artillery", "case", ",", "which", "they", "demolished", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "iraqi president",
+  "sentence_length" : 87,
+  "mentionArg2" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E10-11",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "CNN_ENG_20030408_153616.9-R9",
+  "mentionArg1" : {
+    "extent" : "iraqi president",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E11-12",
+    "start" : 18,
+    "end" : 19
+  },
+  "id" : "CNN_ENG_20030408_153616.9-R9-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "7:00 a . m . , u . s. central command says the coalition may never know if iraqi president saddam hussein survived a u . s. air strike yesterday. a b-1 bomber dropped four 2,000-pound bombs on a building in a residential area of baghdad after getting intelligence reports senior officials were meeting there , possibly including saddam hussein and his sons. brigadier general vince brooks confirmed a usa-10 warthog aircraft was shot down by an iraqi missile today. the pilot ejected and was rescued .",
+  "sentence_index" : 2,
+  "Tokens" : [ "7:00", "a", ".", "m", ".", ",", "u", ".", "s.", "central", "command", "says", "the", "coalition", "may", "never", "know", "if", "iraqi", "president", "saddam", "hussein", "survived", "a", "u", ".", "s.", "air", "strike", "yesterday.", "a", "b-1", "bomber", "dropped", "four", "2,000-pound", "bombs", "on", "a", "building", "in", "a", "residential", "area", "of", "baghdad", "after", "getting", "intelligence", "reports", "senior", "officials", "were", "meeting", "there", ",", "possibly", "including", "saddam", "hussein", "and", "his", "sons.", "brigadier", "general", "vince", "brooks", "confirmed", "a", "usa-10", "warthog", "aircraft", "was", "shot", "down", "by", "an", "iraqi", "missile", "today.", "the", "pilot", "ejected", "and", "was", "rescued", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a building in a residential area of baghdad",
+  "sentence_length" : 87,
+  "mentionArg2" : {
+    "extent" : "a residential area of baghdad",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E17-18",
+    "start" : 41,
+    "end" : 45
+  },
+  "relationID" : "CNN_ENG_20030408_153616.9-R10",
+  "mentionArg1" : {
+    "extent" : "a building in a residential area of baghdad",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E16-17",
+    "start" : 38,
+    "end" : 45
+  },
+  "id" : "CNN_ENG_20030408_153616.9-R10-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "7:00 a . m . , u . s. central command says the coalition may never know if iraqi president saddam hussein survived a u . s. air strike yesterday. a b-1 bomber dropped four 2,000-pound bombs on a building in a residential area of baghdad after getting intelligence reports senior officials were meeting there , possibly including saddam hussein and his sons. brigadier general vince brooks confirmed a usa-10 warthog aircraft was shot down by an iraqi missile today. the pilot ejected and was rescued .",
+  "sentence_index" : 2,
+  "Tokens" : [ "7:00", "a", ".", "m", ".", ",", "u", ".", "s.", "central", "command", "says", "the", "coalition", "may", "never", "know", "if", "iraqi", "president", "saddam", "hussein", "survived", "a", "u", ".", "s.", "air", "strike", "yesterday.", "a", "b-1", "bomber", "dropped", "four", "2,000-pound", "bombs", "on", "a", "building", "in", "a", "residential", "area", "of", "baghdad", "after", "getting", "intelligence", "reports", "senior", "officials", "were", "meeting", "there", ",", "possibly", "including", "saddam", "hussein", "and", "his", "sons.", "brigadier", "general", "vince", "brooks", "confirmed", "a", "usa-10", "warthog", "aircraft", "was", "shot", "down", "by", "an", "iraqi", "missile", "today.", "the", "pilot", "ejected", "and", "was", "rescued", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a b-1 bomber dropped four 2,000-pound bombs on a building in a residential area of baghdad after getting intelligence reports senior officials were meeting there, possibly including saddam hussein and his sons",
+  "sentence_length" : 87,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E16-21",
+    "start" : 54,
+    "end" : 54
+  },
+  "relationID" : "CNN_ENG_20030408_153616.9-R11",
+  "mentionArg1" : {
+    "extent" : "senior officials",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E19-20",
+    "start" : 50,
+    "end" : 51
+  },
+  "id" : "CNN_ENG_20030408_153616.9-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "7:00 a . m . , u . s. central command says the coalition may never know if iraqi president saddam hussein survived a u . s. air strike yesterday. a b-1 bomber dropped four 2,000-pound bombs on a building in a residential area of baghdad after getting intelligence reports senior officials were meeting there , possibly including saddam hussein and his sons. brigadier general vince brooks confirmed a usa-10 warthog aircraft was shot down by an iraqi missile today. the pilot ejected and was rescued .",
+  "sentence_index" : 2,
+  "Tokens" : [ "7:00", "a", ".", "m", ".", ",", "u", ".", "s.", "central", "command", "says", "the", "coalition", "may", "never", "know", "if", "iraqi", "president", "saddam", "hussein", "survived", "a", "u", ".", "s.", "air", "strike", "yesterday.", "a", "b-1", "bomber", "dropped", "four", "2,000-pound", "bombs", "on", "a", "building", "in", "a", "residential", "area", "of", "baghdad", "after", "getting", "intelligence", "reports", "senior", "officials", "were", "meeting", "there", ",", "possibly", "including", "saddam", "hussein", "and", "his", "sons.", "brigadier", "general", "vince", "brooks", "confirmed", "a", "usa-10", "warthog", "aircraft", "was", "shot", "down", "by", "an", "iraqi", "missile", "today.", "the", "pilot", "ejected", "and", "was", "rescued", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "an iraqi missile",
+  "sentence_length" : 87,
+  "mentionArg2" : {
+    "extent" : "an iraqi missile",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E25-29",
+    "start" : 76,
+    "end" : 78
+  },
+  "relationID" : "CNN_ENG_20030408_153616.9-R12",
+  "mentionArg1" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E10-28",
+    "start" : 77,
+    "end" : 77
+  },
+  "id" : "CNN_ENG_20030408_153616.9-R12-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "7:00 a . m . , u . s. central command says the coalition may never know if iraqi president saddam hussein survived a u . s. air strike yesterday. a b-1 bomber dropped four 2,000-pound bombs on a building in a residential area of baghdad after getting intelligence reports senior officials were meeting there , possibly including saddam hussein and his sons. brigadier general vince brooks confirmed a usa-10 warthog aircraft was shot down by an iraqi missile today. the pilot ejected and was rescued .",
+  "sentence_index" : 2,
+  "Tokens" : [ "7:00", "a", ".", "m", ".", ",", "u", ".", "s.", "central", "command", "says", "the", "coalition", "may", "never", "know", "if", "iraqi", "president", "saddam", "hussein", "survived", "a", "u", ".", "s.", "air", "strike", "yesterday.", "a", "b-1", "bomber", "dropped", "four", "2,000-pound", "bombs", "on", "a", "building", "in", "a", "residential", "area", "of", "baghdad", "after", "getting", "intelligence", "reports", "senior", "officials", "were", "meeting", "there", ",", "possibly", "including", "saddam", "hussein", "and", "his", "sons.", "brigadier", "general", "vince", "brooks", "confirmed", "a", "usa-10", "warthog", "aircraft", "was", "shot", "down", "by", "an", "iraqi", "missile", "today.", "the", "pilot", "ejected", "and", "was", "rescued", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a b-1 bomber dropped four 2,000-pound bombs on a building in a residential area of baghdad after getting intelligence reports senior officials were meeting there, possibly including saddam hussein and his sons",
+  "sentence_length" : 87,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E16-21",
+    "start" : 54,
+    "end" : 54
+  },
+  "relationID" : "CNN_ENG_20030408_153616.9-R13",
+  "mentionArg1" : {
+    "extent" : "saddam hussein",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E11-22",
+    "start" : 58,
+    "end" : 59
+  },
+  "id" : "CNN_ENG_20030408_153616.9-R13-1",
+  "relationSubType" : "Located",
+  "Sentence" : "7:00 a . m . , u . s. central command says the coalition may never know if iraqi president saddam hussein survived a u . s. air strike yesterday. a b-1 bomber dropped four 2,000-pound bombs on a building in a residential area of baghdad after getting intelligence reports senior officials were meeting there , possibly including saddam hussein and his sons. brigadier general vince brooks confirmed a usa-10 warthog aircraft was shot down by an iraqi missile today. the pilot ejected and was rescued .",
+  "sentence_index" : 2,
+  "Tokens" : [ "7:00", "a", ".", "m", ".", ",", "u", ".", "s.", "central", "command", "says", "the", "coalition", "may", "never", "know", "if", "iraqi", "president", "saddam", "hussein", "survived", "a", "u", ".", "s.", "air", "strike", "yesterday.", "a", "b-1", "bomber", "dropped", "four", "2,000-pound", "bombs", "on", "a", "building", "in", "a", "residential", "area", "of", "baghdad", "after", "getting", "intelligence", "reports", "senior", "officials", "were", "meeting", "there", ",", "possibly", "including", "saddam", "hussein", "and", "his", "sons.", "brigadier", "general", "vince", "brooks", "confirmed", "a", "usa-10", "warthog", "aircraft", "was", "shot", "down", "by", "an", "iraqi", "missile", "today.", "the", "pilot", "ejected", "and", "was", "rescued", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a b-1 bomber dropped four 2,000-pound bombs on a building in a residential area of baghdad after getting intelligence reports senior officials were meeting there, possibly including saddam hussein and his sons",
+  "sentence_length" : 87,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E16-21",
+    "start" : 54,
+    "end" : 54
+  },
+  "relationID" : "CNN_ENG_20030408_153616.9-R14",
+  "mentionArg1" : {
+    "extent" : "his sons",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E20-24",
+    "start" : 61,
+    "end" : 62
+  },
+  "id" : "CNN_ENG_20030408_153616.9-R14-1",
+  "relationSubType" : "Located",
+  "Sentence" : "7:00 a . m . , u . s. central command says the coalition may never know if iraqi president saddam hussein survived a u . s. air strike yesterday. a b-1 bomber dropped four 2,000-pound bombs on a building in a residential area of baghdad after getting intelligence reports senior officials were meeting there , possibly including saddam hussein and his sons. brigadier general vince brooks confirmed a usa-10 warthog aircraft was shot down by an iraqi missile today. the pilot ejected and was rescued .",
+  "sentence_index" : 2,
+  "Tokens" : [ "7:00", "a", ".", "m", ".", ",", "u", ".", "s.", "central", "command", "says", "the", "coalition", "may", "never", "know", "if", "iraqi", "president", "saddam", "hussein", "survived", "a", "u", ".", "s.", "air", "strike", "yesterday.", "a", "b-1", "bomber", "dropped", "four", "2,000-pound", "bombs", "on", "a", "building", "in", "a", "residential", "area", "of", "baghdad", "after", "getting", "intelligence", "reports", "senior", "officials", "were", "meeting", "there", ",", "possibly", "including", "saddam", "hussein", "and", "his", "sons.", "brigadier", "general", "vince", "brooks", "confirmed", "a", "usa-10", "warthog", "aircraft", "was", "shot", "down", "by", "an", "iraqi", "missile", "today.", "the", "pilot", "ejected", "and", "was", "rescued", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a residential area of baghdad",
+  "sentence_length" : 87,
+  "mentionArg2" : {
+    "extent" : "baghdad",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E18-19",
+    "start" : 45,
+    "end" : 45
+  },
+  "relationID" : "CNN_ENG_20030408_153616.9-R15",
+  "mentionArg1" : {
+    "extent" : "a residential area of baghdad",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E17-18",
+    "start" : 41,
+    "end" : 45
+  },
+  "id" : "CNN_ENG_20030408_153616.9-R15-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "7:00 a . m . , u . s. central command says the coalition may never know if iraqi president saddam hussein survived a u . s. air strike yesterday. a b-1 bomber dropped four 2,000-pound bombs on a building in a residential area of baghdad after getting intelligence reports senior officials were meeting there , possibly including saddam hussein and his sons. brigadier general vince brooks confirmed a usa-10 warthog aircraft was shot down by an iraqi missile today. the pilot ejected and was rescued .",
+  "sentence_index" : 2,
+  "Tokens" : [ "7:00", "a", ".", "m", ".", ",", "u", ".", "s.", "central", "command", "says", "the", "coalition", "may", "never", "know", "if", "iraqi", "president", "saddam", "hussein", "survived", "a", "u", ".", "s.", "air", "strike", "yesterday.", "a", "b-1", "bomber", "dropped", "four", "2,000-pound", "bombs", "on", "a", "building", "in", "a", "residential", "area", "of", "baghdad", "after", "getting", "intelligence", "reports", "senior", "officials", "were", "meeting", "there", ",", "possibly", "including", "saddam", "hussein", "and", "his", "sons.", "brigadier", "general", "vince", "brooks", "confirmed", "a", "usa-10", "warthog", "aircraft", "was", "shot", "down", "by", "an", "iraqi", "missile", "today.", "the", "pilot", "ejected", "and", "was", "rescued", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his sons",
+  "sentence_length" : 87,
+  "mentionArg2" : {
+    "extent" : "his sons",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E20-24",
+    "start" : 61,
+    "end" : 62
+  },
+  "relationID" : "CNN_ENG_20030408_153616.9-R16",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E11-23",
+    "start" : 61,
+    "end" : 61
+  },
+  "id" : "CNN_ENG_20030408_153616.9-R16-1",
+  "relationSubType" : "Family",
+  "Sentence" : "7:00 a . m . , u . s. central command says the coalition may never know if iraqi president saddam hussein survived a u . s. air strike yesterday. a b-1 bomber dropped four 2,000-pound bombs on a building in a residential area of baghdad after getting intelligence reports senior officials were meeting there , possibly including saddam hussein and his sons. brigadier general vince brooks confirmed a usa-10 warthog aircraft was shot down by an iraqi missile today. the pilot ejected and was rescued .",
+  "sentence_index" : 2,
+  "Tokens" : [ "7:00", "a", ".", "m", ".", ",", "u", ".", "s.", "central", "command", "says", "the", "coalition", "may", "never", "know", "if", "iraqi", "president", "saddam", "hussein", "survived", "a", "u", ".", "s.", "air", "strike", "yesterday.", "a", "b-1", "bomber", "dropped", "four", "2,000-pound", "bombs", "on", "a", "building", "in", "a", "residential", "area", "of", "baghdad", "after", "getting", "intelligence", "reports", "senior", "officials", "were", "meeting", "there", ",", "possibly", "including", "saddam", "hussein", "and", "his", "sons.", "brigadier", "general", "vince", "brooks", "confirmed", "a", "usa-10", "warthog", "aircraft", "was", "shot", "down", "by", "an", "iraqi", "missile", "today.", "the", "pilot", "ejected", "and", "was", "rescued", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "2:58, a.m., explosions reported around the palestine hotel where international journalists are staying",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "where",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E33-39",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "CNN_ENG_20030408_153616.9-R17",
+  "mentionArg1" : {
+    "extent" : "international journalists",
+    "argMentionid" : "CNN_ENG_20030408_153616.9-E34-40",
+    "start" : 14,
+    "end" : 15
+  },
+  "id" : "CNN_ENG_20030408_153616.9-R17-1",
+  "relationSubType" : "Located",
+  "Sentence" : "2:58 , a . m . , explosions reported around the palestine hotel where international journalists are staying. a u . s. tank shelled the hotel in response to sniper fire. the blast kills two cameramen , one from spanish tv , another from reuters. three reuters journalist were killed .",
+  "sentence_index" : 0,
+  "Tokens" : [ "2:58", ",", "a", ".", "m", ".", ",", "explosions", "reported", "around", "the", "palestine", "hotel", "where", "international", "journalists", "are", "staying.", "a", "u", ".", "s.", "tank", "shelled", "the", "hotel", "in", "response", "to", "sniper", "fire.", "the", "blast", "kills", "two", "cameramen", ",", "one", "from", "spanish", "tv", ",", "another", "from", "reuters.", "three", "reuters", "journalist", "were", "killed", "." ]
+} ]

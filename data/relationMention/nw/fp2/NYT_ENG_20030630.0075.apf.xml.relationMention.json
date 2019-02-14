@@ -1,0 +1,595 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "The Bush administration",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "The Bush administration",
+    "argMentionid" : "NYT_ENG_20030630.0075-E10-61",
+    "start" : 1,
+    "end" : 3
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R3",
+  "mentionArg1" : {
+    "extent" : "Bush",
+    "argMentionid" : "NYT_ENG_20030630.0075-E78-123",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "NYT_ENG_20030630.0075-R3-1",
+  "relationSubType" : "Founder",
+  "Sentence" : "WASHINGTON The Bush administration , seeking ways to encourage compromise in the Middle East , is considering increasing aid to the Palestinians and providing the first direct assistance to the Palestinian Authority , administration officials said Monday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WASHINGTON", "The", "Bush", "administration", ",", "seeking", "ways", "to", "encourage", "compromise", "in", "the", "Middle", "East", ",", "is", "considering", "increasing", "aid", "to", "the", "Palestinians", "and", "providing", "the", "first", "direct", "assistance", "to", "the", "Palestinian", "Authority", ",", "administration", "officials", "said", "Monday", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "an administration official",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "administration",
+    "argMentionid" : "NYT_ENG_20030630.0075-E10-15",
+    "start" : 29,
+    "end" : 29
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R4",
+  "mentionArg1" : {
+    "extent" : "an administration official",
+    "argMentionid" : "NYT_ENG_20030630.0075-E9-14",
+    "start" : 28,
+    "end" : 30
+  },
+  "id" : "NYT_ENG_20030630.0075-R4-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "`` The issue of giving money to the Palestinian Authority arises when you start to think about rebuilding their security services and things like that , '' said an administration official .",
+  "sentence_index" : 5,
+  "Tokens" : [ "``", "The", "issue", "of", "giving", "money", "to", "the", "Palestinian", "Authority", "arises", "when", "you", "start", "to", "think", "about", "rebuilding", "their", "security", "services", "and", "things", "like", "that", ",", "''", "said", "an", "administration", "official", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Palestinian Authority",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "NYT_ENG_20030630.0075-E12-73",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R5",
+  "mentionArg1" : {
+    "extent" : "the Palestinian Authority",
+    "argMentionid" : "NYT_ENG_20030630.0075-E81-7",
+    "start" : 19,
+    "end" : 21
+  },
+  "id" : "NYT_ENG_20030630.0075-R5-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Beyond this help , the administration is said to be mulling the prospect of changing its policy and aiding the Palestinian Authority directly .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Beyond", "this", "help", ",", "the", "administration", "is", "said", "to", "be", "mulling", "the", "prospect", "of", "changing", "its", "policy", "and", "aiding", "the", "Palestinian", "Authority", "directly", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Palestinian Authority",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "NYT_ENG_20030630.0075-E12-74",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R5",
+  "mentionArg1" : {
+    "extent" : "the Palestinian Authority",
+    "argMentionid" : "NYT_ENG_20030630.0075-E81-11",
+    "start" : 7,
+    "end" : 9
+  },
+  "id" : "NYT_ENG_20030630.0075-R5-2",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "`` The issue of giving money to the Palestinian Authority arises when you start to think about rebuilding their security services and things like that , '' said an administration official .",
+  "sentence_index" : 5,
+  "Tokens" : [ "``", "The", "issue", "of", "giving", "money", "to", "the", "Palestinian", "Authority", "arises", "when", "you", "start", "to", "think", "about", "rebuilding", "their", "security", "services", "and", "things", "like", "that", ",", "''", "said", "an", "administration", "official", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Palestinian Authority",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "NYT_ENG_20030630.0075-E12-51",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R5",
+  "mentionArg1" : {
+    "extent" : "the Palestinian Authority",
+    "argMentionid" : "NYT_ENG_20030630.0075-E81-50",
+    "start" : 12,
+    "end" : 14
+  },
+  "id" : "NYT_ENG_20030630.0075-R5-3",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "One of the peace effort 's crucial elements _ the cease-fire involving the Palestinian Authority and militant groups like Hamas _ was not an acceptable solution , Powell said .",
+  "sentence_index" : 10,
+  "Tokens" : [ "One", "of", "the", "peace", "effort", "'s", "crucial", "elements", "_", "the", "cease-fire", "involving", "the", "Palestinian", "Authority", "and", "militant", "groups", "like", "Hamas", "_", "was", "not", "an", "acceptable", "solution", ",", "Powell", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Palestinian Authority",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "NYT_ENG_20030630.0075-E12-75",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R5",
+  "mentionArg1" : {
+    "extent" : "the Palestinian Authority",
+    "argMentionid" : "NYT_ENG_20030630.0075-E81-60",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "NYT_ENG_20030630.0075-R5-4",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The aid packages for the Palestinian Authority were discussed at interagency meetings last week and then presented to the Palestinian and Israeli sides over the weekend by a team visiting the Middle East , led by Condoleezza Rice , the national security adviser .",
+  "sentence_index" : 13,
+  "Tokens" : [ "The", "aid", "packages", "for", "the", "Palestinian", "Authority", "were", "discussed", "at", "interagency", "meetings", "last", "week", "and", "then", "presented", "to", "the", "Palestinian", "and", "Israeli", "sides", "over", "the", "weekend", "by", "a", "team", "visiting", "the", "Middle", "East", ",", "led", "by", "Condoleezza", "Rice", ",", "the", "national", "security", "adviser", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Palestinian Authority",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "NYT_ENG_20030630.0075-E12-76",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R5",
+  "mentionArg1" : {
+    "extent" : "the Palestinian Authority",
+    "argMentionid" : "NYT_ENG_20030630.0075-E81-132",
+    "start" : 19,
+    "end" : 21
+  },
+  "id" : "NYT_ENG_20030630.0075-R5-5",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "There were reports in Israel that the figure of $1 billion was discussed within the administration as aid for the Palestinian Authority .",
+  "sentence_index" : 14,
+  "Tokens" : [ "There", "were", "reports", "in", "Israel", "that", "the", "figure", "of", "$1", "billion", "was", "discussed", "within", "the", "administration", "as", "aid", "for", "the", "Palestinian", "Authority", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "The Palestinian Authority",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "NYT_ENG_20030630.0075-E12-77",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R5",
+  "mentionArg1" : {
+    "extent" : "The Palestinian Authority",
+    "argMentionid" : "NYT_ENG_20030630.0075-E81-20",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "NYT_ENG_20030630.0075-R5-6",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The Palestinian Authority already receives a little more than $1 billion a year from outside sources , principally from the European Union and the Arab League , although this includes the $200 million in American aid .",
+  "sentence_index" : 16,
+  "Tokens" : [ "The", "Palestinian", "Authority", "already", "receives", "a", "little", "more", "than", "$1", "billion", "a", "year", "from", "outside", "sources", ",", "principally", "from", "the", "European", "Union", "and", "the", "Arab", "League", ",", "although", "this", "includes", "the", "$200", "million", "in", "American", "aid", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Palestinian Authority",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "NYT_ENG_20030630.0075-E12-117",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R5",
+  "mentionArg1" : {
+    "extent" : "the Palestinian Authority",
+    "argMentionid" : "NYT_ENG_20030630.0075-E81-116",
+    "start" : 14,
+    "end" : 16
+  },
+  "id" : "NYT_ENG_20030630.0075-R5-7",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Israeli officials say that in the 1990s , when such information was transmitted , the Palestinian Authority actually warned the 3usQects instead of arresting them .",
+  "sentence_index" : 25,
+  "Tokens" : [ "Israeli", "officials", "say", "that", "in", "the", "1990s", ",", "when", "such", "information", "was", "transmitted", ",", "the", "Palestinian", "Authority", "actually", "warned", "the", "3usQects", "instead", "of", "arresting", "them", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Administration officials",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "Administration",
+    "argMentionid" : "NYT_ENG_20030630.0075-E10-34",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R6",
+  "mentionArg1" : {
+    "extent" : "Administration officials",
+    "argMentionid" : "NYT_ENG_20030630.0075-E21-33",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "NYT_ENG_20030630.0075-R6-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Administration officials talked about further aid for the Palestinians in the wake of what many are cautiously calling the first favorable developments in the region in two and a half years : the Israeli withdrawal from much of the Gaza Strip and a cease-fire adopted by at least three Palestinian militant groups .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Administration", "officials", "talked", "about", "further", "aid", "for", "the", "Palestinians", "in", "the", "wake", "of", "what", "many", "are", "cautiously", "calling", "the", "first", "favorable", "developments", "in", "the", "region", "in", "two", "and", "a", "half", "years", ":", "the", "Israeli", "withdrawal", "from", "much", "of", "the", "Gaza", "Strip", "and", "a", "cease-fire", "adopted", "by", "at", "least", "three", "Palestinian", "militant", "groups", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "administration officials",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "administration",
+    "argMentionid" : "NYT_ENG_20030630.0075-E10-129",
+    "start" : 33,
+    "end" : 33
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R8",
+  "mentionArg1" : {
+    "extent" : "administration officials",
+    "argMentionid" : "NYT_ENG_20030630.0075-E83-128",
+    "start" : 33,
+    "end" : 34
+  },
+  "id" : "NYT_ENG_20030630.0075-R8-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "WASHINGTON The Bush administration , seeking ways to encourage compromise in the Middle East , is considering increasing aid to the Palestinians and providing the first direct assistance to the Palestinian Authority , administration officials said Monday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WASHINGTON", "The", "Bush", "administration", ",", "seeking", "ways", "to", "encourage", "compromise", "in", "the", "Middle", "East", ",", "is", "considering", "increasing", "aid", "to", "the", "Palestinians", "and", "providing", "the", "first", "direct", "assistance", "to", "the", "Palestinian", "Authority", ",", "administration", "officials", "said", "Monday", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the authority's intelligence and security apparatus",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "the authority's",
+    "argMentionid" : "NYT_ENG_20030630.0075-E81-133",
+    "start" : 8,
+    "end" : 10
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R9",
+  "mentionArg1" : {
+    "extent" : "the authority's intelligence and security apparatus",
+    "argMentionid" : "NYT_ENG_20030630.0075-E85-131",
+    "start" : 8,
+    "end" : 14
+  },
+  "id" : "NYT_ENG_20030630.0075-R9-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "They said the aid would go toward improving the authority 's intelligence and security apparatus and easing living conditions in the West Bank and Gaza .",
+  "sentence_index" : 1,
+  "Tokens" : [ "They", "said", "the", "aid", "would", "go", "toward", "improving", "the", "authority", "'s", "intelligence", "and", "security", "apparatus", "and", "easing", "living", "conditions", "in", "the", "West", "Bank", "and", "Gaza", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a Palestinian prime minister",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "NYT_ENG_20030630.0075-E12-27",
+    "start" : 31,
+    "end" : 31
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R10",
+  "mentionArg1" : {
+    "extent" : "a Palestinian prime minister",
+    "argMentionid" : "NYT_ENG_20030630.0075-E15-26",
+    "start" : 30,
+    "end" : 33
+  },
+  "id" : "NYT_ENG_20030630.0075-R10-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Now , said this official , the leadership situation was `` vastly improved '' because of the sidelining of Yasser Arafat and the ascension _ under American pressure _ of a Palestinian prime minister , Mahmoud Abbas , and a finance minister , Salam Fayyad .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Now", ",", "said", "this", "official", ",", "the", "leadership", "situation", "was", "``", "vastly", "improved", "''", "because", "of", "the", "sidelining", "of", "Yasser", "Arafat", "and", "the", "ascension", "_", "under", "American", "pressure", "_", "of", "a", "Palestinian", "prime", "minister", ",", "Mahmoud", "Abbas", ",", "and", "a", "finance", "minister", ",", "Salam", "Fayyad", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "much of the Gaza Strip",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "the Gaza Strip",
+    "argMentionid" : "NYT_ENG_20030630.0075-E27-39",
+    "start" : 38,
+    "end" : 40
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R11",
+  "mentionArg1" : {
+    "extent" : "much of the Gaza Strip",
+    "argMentionid" : "NYT_ENG_20030630.0075-E26-38",
+    "start" : 36,
+    "end" : 40
+  },
+  "id" : "NYT_ENG_20030630.0075-R11-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Administration officials talked about further aid for the Palestinians in the wake of what many are cautiously calling the first favorable developments in the region in two and a half years : the Israeli withdrawal from much of the Gaza Strip and a cease-fire adopted by at least three Palestinian militant groups .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Administration", "officials", "talked", "about", "further", "aid", "for", "the", "Palestinians", "in", "the", "wake", "of", "what", "many", "are", "cautiously", "calling", "the", "first", "favorable", "developments", "in", "the", "region", "in", "two", "and", "a", "half", "years", ":", "the", "Israeli", "withdrawal", "from", "much", "of", "the", "Gaza", "Strip", "and", "a", "cease-fire", "adopted", "by", "at", "least", "three", "Palestinian", "militant", "groups", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "at least three Palestinian militant groups",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "NYT_ENG_20030630.0075-E12-42",
+    "start" : 49,
+    "end" : 49
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R12",
+  "mentionArg1" : {
+    "extent" : "at least three Palestinian militant groups",
+    "argMentionid" : "NYT_ENG_20030630.0075-E28-41",
+    "start" : 46,
+    "end" : 51
+  },
+  "id" : "NYT_ENG_20030630.0075-R12-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Administration officials talked about further aid for the Palestinians in the wake of what many are cautiously calling the first favorable developments in the region in two and a half years : the Israeli withdrawal from much of the Gaza Strip and a cease-fire adopted by at least three Palestinian militant groups .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Administration", "officials", "talked", "about", "further", "aid", "for", "the", "Palestinians", "in", "the", "wake", "of", "what", "many", "are", "cautiously", "calling", "the", "first", "favorable", "developments", "in", "the", "region", "in", "two", "and", "a", "half", "years", ":", "the", "Israeli", "withdrawal", "from", "much", "of", "the", "Gaza", "Strip", "and", "a", "cease-fire", "adopted", "by", "at", "least", "three", "Palestinian", "militant", "groups", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Palestinian and Israeli sides",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "NYT_ENG_20030630.0075-E12-63",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R13",
+  "mentionArg1" : {
+    "extent" : "the Palestinian and Israeli sides",
+    "argMentionid" : "NYT_ENG_20030630.0075-E38-62",
+    "start" : 18,
+    "end" : 22
+  },
+  "id" : "NYT_ENG_20030630.0075-R13-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The aid packages for the Palestinian Authority were discussed at interagency meetings last week and then presented to the Palestinian and Israeli sides over the weekend by a team visiting the Middle East , led by Condoleezza Rice , the national security adviser .",
+  "sentence_index" : 13,
+  "Tokens" : [ "The", "aid", "packages", "for", "the", "Palestinian", "Authority", "were", "discussed", "at", "interagency", "meetings", "last", "week", "and", "then", "presented", "to", "the", "Palestinian", "and", "Israeli", "sides", "over", "the", "weekend", "by", "a", "team", "visiting", "the", "Middle", "East", ",", "led", "by", "Condoleezza", "Rice", ",", "the", "national", "security", "adviser", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Palestinian and Israeli sides",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "NYT_ENG_20030630.0075-E24-64",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R14",
+  "mentionArg1" : {
+    "extent" : "the Palestinian and Israeli sides",
+    "argMentionid" : "NYT_ENG_20030630.0075-E38-62",
+    "start" : 18,
+    "end" : 22
+  },
+  "id" : "NYT_ENG_20030630.0075-R14-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The aid packages for the Palestinian Authority were discussed at interagency meetings last week and then presented to the Palestinian and Israeli sides over the weekend by a team visiting the Middle East , led by Condoleezza Rice , the national security adviser .",
+  "sentence_index" : 13,
+  "Tokens" : [ "The", "aid", "packages", "for", "the", "Palestinian", "Authority", "were", "discussed", "at", "interagency", "meetings", "last", "week", "and", "then", "presented", "to", "the", "Palestinian", "and", "Israeli", "sides", "over", "the", "weekend", "by", "a", "team", "visiting", "the", "Middle", "East", ",", "led", "by", "Condoleezza", "Rice", ",", "the", "national", "security", "adviser", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a team visiting the Middle East, led by Condoleezza Rice, the national security adviser",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "the Middle East",
+    "argMentionid" : "NYT_ENG_20030630.0075-E79-66",
+    "start" : 30,
+    "end" : 32
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R15",
+  "mentionArg1" : {
+    "extent" : "a team visiting the Middle East, led by Condoleezza Rice, the national security adviser",
+    "argMentionid" : "NYT_ENG_20030630.0075-E41-65",
+    "start" : 27,
+    "end" : 42
+  },
+  "id" : "NYT_ENG_20030630.0075-R15-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The aid packages for the Palestinian Authority were discussed at interagency meetings last week and then presented to the Palestinian and Israeli sides over the weekend by a team visiting the Middle East , led by Condoleezza Rice , the national security adviser .",
+  "sentence_index" : 13,
+  "Tokens" : [ "The", "aid", "packages", "for", "the", "Palestinian", "Authority", "were", "discussed", "at", "interagency", "meetings", "last", "week", "and", "then", "presented", "to", "the", "Palestinian", "and", "Israeli", "sides", "over", "the", "weekend", "by", "a", "team", "visiting", "the", "Middle", "East", ",", "led", "by", "Condoleezza", "Rice", ",", "the", "national", "security", "adviser", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Arab League",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "the Arab League",
+    "argMentionid" : "NYT_ENG_20030630.0075-E45-70",
+    "start" : 23,
+    "end" : 25
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R16",
+  "mentionArg1" : {
+    "extent" : "Arab",
+    "argMentionid" : "NYT_ENG_20030630.0075-E46-71",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "NYT_ENG_20030630.0075-R16-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The Palestinian Authority already receives a little more than $1 billion a year from outside sources , principally from the European Union and the Arab League , although this includes the $200 million in American aid .",
+  "sentence_index" : 16,
+  "Tokens" : [ "The", "Palestinian", "Authority", "already", "receives", "a", "little", "more", "than", "$1", "billion", "a", "year", "from", "outside", "sources", ",", "principally", "from", "the", "European", "Union", "and", "the", "Arab", "League", ",", "although", "this", "includes", "the", "$200", "million", "in", "American", "aid", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "joint, Israeli-Palestinian security patrols",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "NYT_ENG_20030630.0075-E24-94",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R17",
+  "mentionArg1" : {
+    "extent" : "joint, Israeli-Palestinian security patrols",
+    "argMentionid" : "NYT_ENG_20030630.0075-E59-93",
+    "start" : 22,
+    "end" : 26
+  },
+  "id" : "NYT_ENG_20030630.0075-R17-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The next milestones expected in Washington would be further Israeli withdrawals from other territories in the West Bank , as well as joint , Israeli-Palestinian security patrols .",
+  "sentence_index" : 19,
+  "Tokens" : [ "The", "next", "milestones", "expected", "in", "Washington", "would", "be", "further", "Israeli", "withdrawals", "from", "other", "territories", "in", "the", "West", "Bank", ",", "as", "well", "as", "joint", ",", "Israeli-Palestinian", "security", "patrols", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "joint, Israeli-Palestinian security patrols",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "NYT_ENG_20030630.0075-E12-95",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R18",
+  "mentionArg1" : {
+    "extent" : "joint, Israeli-Palestinian security patrols",
+    "argMentionid" : "NYT_ENG_20030630.0075-E59-93",
+    "start" : 22,
+    "end" : 26
+  },
+  "id" : "NYT_ENG_20030630.0075-R18-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The next milestones expected in Washington would be further Israeli withdrawals from other territories in the West Bank , as well as joint , Israeli-Palestinian security patrols .",
+  "sentence_index" : 19,
+  "Tokens" : [ "The", "next", "milestones", "expected", "in", "Washington", "would", "be", "further", "Israeli", "withdrawals", "from", "other", "territories", "in", "the", "West", "Bank", ",", "as", "well", "as", "joint", ",", "Israeli-Palestinian", "security", "patrols", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Palestinian, Israeli and American officials",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "NYT_ENG_20030630.0075-E12-97",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R19",
+  "mentionArg1" : {
+    "extent" : "Palestinian, Israeli and American officials",
+    "argMentionid" : "NYT_ENG_20030630.0075-E62-96",
+    "start" : 9,
+    "end" : 14
+  },
+  "id" : "NYT_ENG_20030630.0075-R19-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "There are also supposed to be three-way meetings of Palestinian , Israeli and American officials to decide the next steps in the administration 's peace plan , known as the road map , which calls for creation of a Palestinian state within three years .",
+  "sentence_index" : 20,
+  "Tokens" : [ "There", "are", "also", "supposed", "to", "be", "three-way", "meetings", "of", "Palestinian", ",", "Israeli", "and", "American", "officials", "to", "decide", "the", "next", "steps", "in", "the", "administration", "'s", "peace", "plan", ",", "known", "as", "the", "road", "map", ",", "which", "calls", "for", "creation", "of", "a", "Palestinian", "state", "within", "three", "years", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Palestinian, Israeli and American officials",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "NYT_ENG_20030630.0075-E24-98",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R20",
+  "mentionArg1" : {
+    "extent" : "Palestinian, Israeli and American officials",
+    "argMentionid" : "NYT_ENG_20030630.0075-E62-96",
+    "start" : 9,
+    "end" : 14
+  },
+  "id" : "NYT_ENG_20030630.0075-R20-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "There are also supposed to be three-way meetings of Palestinian , Israeli and American officials to decide the next steps in the administration 's peace plan , known as the road map , which calls for creation of a Palestinian state within three years .",
+  "sentence_index" : 20,
+  "Tokens" : [ "There", "are", "also", "supposed", "to", "be", "three-way", "meetings", "of", "Palestinian", ",", "Israeli", "and", "American", "officials", "to", "decide", "the", "next", "steps", "in", "the", "administration", "'s", "peace", "plan", ",", "known", "as", "the", "road", "map", ",", "which", "calls", "for", "creation", "of", "a", "Palestinian", "state", "within", "three", "years", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Palestinian, Israeli and American officials",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "NYT_ENG_20030630.0075-E4-99",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R21",
+  "mentionArg1" : {
+    "extent" : "Palestinian, Israeli and American officials",
+    "argMentionid" : "NYT_ENG_20030630.0075-E62-96",
+    "start" : 9,
+    "end" : 14
+  },
+  "id" : "NYT_ENG_20030630.0075-R21-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "There are also supposed to be three-way meetings of Palestinian , Israeli and American officials to decide the next steps in the administration 's peace plan , known as the road map , which calls for creation of a Palestinian state within three years .",
+  "sentence_index" : 20,
+  "Tokens" : [ "There", "are", "also", "supposed", "to", "be", "three-way", "meetings", "of", "Palestinian", ",", "Israeli", "and", "American", "officials", "to", "decide", "the", "next", "steps", "in", "the", "administration", "'s", "peace", "plan", ",", "known", "as", "the", "road", "map", ",", "which", "calls", "for", "creation", "of", "a", "Palestinian", "state", "within", "three", "years", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "one American official",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "NYT_ENG_20030630.0075-E4-105",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R22",
+  "mentionArg1" : {
+    "extent" : "one American official",
+    "argMentionid" : "NYT_ENG_20030630.0075-E69-104",
+    "start" : 12,
+    "end" : 14
+  },
+  "id" : "NYT_ENG_20030630.0075-R22-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "`` Israel will have to carry out wider-scale pullbacks , '' said one American official .",
+  "sentence_index" : 21,
+  "Tokens" : [ "``", "Israel", "will", "have", "to", "carry", "out", "wider-scale", "pullbacks", ",", "''", "said", "one", "American", "official", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Israeli officials",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "NYT_ENG_20030630.0075-E24-115",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R23",
+  "mentionArg1" : {
+    "extent" : "Israeli officials",
+    "argMentionid" : "NYT_ENG_20030630.0075-E72-114",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "NYT_ENG_20030630.0075-R23-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Israeli officials say that in the 1990s , when such information was transmitted , the Palestinian Authority actually warned the 3usQects instead of arresting them .",
+  "sentence_index" : 25,
+  "Tokens" : [ "Israeli", "officials", "say", "that", "in", "the", "1990s", ",", "when", "such", "information", "was", "transmitted", ",", "the", "Palestinian", "Authority", "actually", "warned", "the", "3usQects", "instead", "of", "arresting", "them", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "American officials",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "NYT_ENG_20030630.0075-E4-121",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "NYT_ENG_20030630.0075-R27",
+  "mentionArg1" : {
+    "extent" : "American officials",
+    "argMentionid" : "NYT_ENG_20030630.0075-E76-120",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "NYT_ENG_20030630.0075-R27-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "American officials say they will keep a tighter rein this time .",
+  "sentence_index" : 26,
+  "Tokens" : [ "American", "officials", "say", "they", "will", "keep", "a", "tighter", "rein", "this", "time", "." ]
+} ]

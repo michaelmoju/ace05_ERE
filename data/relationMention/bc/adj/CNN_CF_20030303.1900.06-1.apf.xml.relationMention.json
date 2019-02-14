@@ -1,0 +1,221 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "Joshua Hosford of Newport Beach, California",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Newport Beach, California",
+    "argMentionid" : "CNN_CF_20030303.1900.06-1-E28-61",
+    "start" : 3,
+    "end" : 6
+  },
+  "relationID" : "CNN_CF_20030303.1900.06-1-R1",
+  "mentionArg1" : {
+    "extent" : "Joshua Hosford of Newport Beach, California",
+    "argMentionid" : "CNN_CF_20030303.1900.06-1-E27-60",
+    "start" : 0,
+    "end" : 6
+  },
+  "id" : "CNN_CF_20030303.1900.06-1-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Joshua Hosford of Newport Beach , California -- that would be nice in this weathers -- \" Paul , I guess we 're going after all .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Joshua", "Hosford", "of", "Newport", "Beach", ",", "California", "--", "that", "would", "be", "nice", "in", "this", "weathers", "--", "\"", "Paul", ",", "I", "guess", "we", "'re", "going", "after", "all", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Newport Beach, California",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "California",
+    "argMentionid" : "CNN_CF_20030303.1900.06-1-E29-62",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_CF_20030303.1900.06-1-R2",
+  "mentionArg1" : {
+    "extent" : "Newport Beach, California",
+    "argMentionid" : "CNN_CF_20030303.1900.06-1-E28-61",
+    "start" : 3,
+    "end" : 6
+  },
+  "id" : "CNN_CF_20030303.1900.06-1-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Joshua Hosford of Newport Beach , California -- that would be nice in this weathers -- \" Paul , I guess we 're going after all .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Joshua", "Hosford", "of", "Newport", "Beach", ",", "California", "--", "that", "would", "be", "nice", "in", "this", "weathers", "--", "\"", "Paul", ",", "I", "guess", "we", "'re", "going", "after", "all", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Dan Snyder of Baden, Pennsylvania",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Baden, Pennsylvania",
+    "argMentionid" : "CNN_CF_20030303.1900.06-1-E5-10",
+    "start" : 3,
+    "end" : 5
+  },
+  "relationID" : "CNN_CF_20030303.1900.06-1-R3",
+  "mentionArg1" : {
+    "extent" : "Dan Snyder of Baden, Pennsylvania",
+    "argMentionid" : "CNN_CF_20030303.1900.06-1-E4-8",
+    "start" : 0,
+    "end" : 5
+  },
+  "id" : "CNN_CF_20030303.1900.06-1-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Dan Snyder of Baden , Pennsylvania writes , \" Bush should torture the al Qaeda chief operations officer .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Dan", "Snyder", "of", "Baden", ",", "Pennsylvania", "writes", ",", "\"", "Bush", "should", "torture", "the", "al", "Qaeda", "chief", "operations", "officer", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Baden, Pennsylvania",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Pennsylvania",
+    "argMentionid" : "CNN_CF_20030303.1900.06-1-E6-11",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_CF_20030303.1900.06-1-R4",
+  "mentionArg1" : {
+    "extent" : "Baden, Pennsylvania",
+    "argMentionid" : "CNN_CF_20030303.1900.06-1-E5-10",
+    "start" : 3,
+    "end" : 5
+  },
+  "id" : "CNN_CF_20030303.1900.06-1-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Dan Snyder of Baden , Pennsylvania writes , \" Bush should torture the al Qaeda chief operations officer .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Dan", "Snyder", "of", "Baden", ",", "Pennsylvania", "writes", ",", "\"", "Bush", "should", "torture", "the", "al", "Qaeda", "chief", "operations", "officer", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the al Qaeda chief operations officer",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "al Qaeda",
+    "argMentionid" : "CNN_CF_20030303.1900.06-1-E7-13",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "CNN_CF_20030303.1900.06-1-R5",
+  "mentionArg1" : {
+    "extent" : "the al Qaeda chief operations officer",
+    "argMentionid" : "CNN_CF_20030303.1900.06-1-E1-47",
+    "start" : 12,
+    "end" : 17
+  },
+  "id" : "CNN_CF_20030303.1900.06-1-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Dan Snyder of Baden , Pennsylvania writes , \" Bush should torture the al Qaeda chief operations officer .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Dan", "Snyder", "of", "Baden", ",", "Pennsylvania", "writes", ",", "\"", "Bush", "should", "torture", "the", "al", "Qaeda", "chief", "operations", "officer", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "And I thought he was -- I thought he was busy running the Redskins",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "the Redskins",
+    "argMentionid" : "CNN_CF_20030303.1900.06-1-E8-20",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "CNN_CF_20030303.1900.06-1-R6",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "CNN_CF_20030303.1900.06-1-E1-17",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "CNN_CF_20030303.1900.06-1-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "( LAUGHTER ) NOVAK And I thought he was -- I thought he was busy running the Redskins .",
+  "sentence_index" : 13,
+  "Tokens" : [ "(", "LAUGHTER", ")", "NOVAK", "And", "I", "thought", "he", "was", "--", "I", "thought", "he", "was", "busy", "running", "the", "Redskins", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Frank Mastro of New York City",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "New York City",
+    "argMentionid" : "CNN_CF_20030303.1900.06-1-E10-22",
+    "start" : 9,
+    "end" : 11
+  },
+  "relationID" : "CNN_CF_20030303.1900.06-1-R7",
+  "mentionArg1" : {
+    "extent" : "Frank Mastro of New York City",
+    "argMentionid" : "CNN_CF_20030303.1900.06-1-E9-21",
+    "start" : 6,
+    "end" : 11
+  },
+  "id" : "CNN_CF_20030303.1900.06-1-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "OK. The next comment is from Frank Mastro of New York City .",
+  "sentence_index" : 15,
+  "Tokens" : [ "OK.", "The", "next", "comment", "is", "from", "Frank", "Mastro", "of", "New", "York", "City", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "David Horn of Long Island, New York",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Long Island, New York",
+    "argMentionid" : "CNN_CF_20030303.1900.06-1-E20-42",
+    "start" : 3,
+    "end" : 7
+  },
+  "relationID" : "CNN_CF_20030303.1900.06-1-R8",
+  "mentionArg1" : {
+    "extent" : "David Horn of Long Island, New York",
+    "argMentionid" : "CNN_CF_20030303.1900.06-1-E19-41",
+    "start" : 0,
+    "end" : 7
+  },
+  "id" : "CNN_CF_20030303.1900.06-1-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "David Horn of Long Island , New York , writes , \" How can Bush say he 's for democracy ?",
+  "sentence_index" : 23,
+  "Tokens" : [ "David", "Horn", "of", "Long", "Island", ",", "New", "York", ",", "writes", ",", "\"", "How", "can", "Bush", "say", "he", "'s", "for", "democracy", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Long Island, New York",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "New York",
+    "argMentionid" : "CNN_CF_20030303.1900.06-1-E22-43",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNN_CF_20030303.1900.06-1-R9",
+  "mentionArg1" : {
+    "extent" : "Long Island, New York",
+    "argMentionid" : "CNN_CF_20030303.1900.06-1-E20-42",
+    "start" : 3,
+    "end" : 7
+  },
+  "id" : "CNN_CF_20030303.1900.06-1-R9-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "David Horn of Long Island , New York , writes , \" How can Bush say he 's for democracy ?",
+  "sentence_index" : 23,
+  "Tokens" : [ "David", "Horn", "of", "Long", "Island", ",", "New", "York", ",", "writes", ",", "\"", "How", "can", "Bush", "say", "he", "'s", "for", "democracy", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our president",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_CF_20030303.1900.06-1-E34-48",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_CF_20030303.1900.06-1-R10",
+  "mentionArg1" : {
+    "extent" : "our president",
+    "argMentionid" : "CNN_CF_20030303.1900.06-1-E3-32",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "CNN_CF_20030303.1900.06-1-R10-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "He had to sue to become our president , and he keeps trying to bribe other countries ' democratic governments into his supporting his agenda .",
+  "sentence_index" : 24,
+  "Tokens" : [ "He", "had", "to", "sue", "to", "become", "our", "president", ",", "and", "he", "keeps", "trying", "to", "bribe", "other", "countries", "'", "democratic", "governments", "into", "his", "supporting", "his", "agenda", "." ]
+} ]

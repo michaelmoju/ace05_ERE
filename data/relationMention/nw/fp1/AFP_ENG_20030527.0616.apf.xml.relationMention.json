@@ -1,0 +1,133 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "US President",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "AFP_ENG_20030527.0616-E21-37",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "AFP_ENG_20030527.0616-R1",
+  "mentionArg1" : {
+    "extent" : "US President",
+    "argMentionid" : "AFP_ENG_20030527.0616-E3-36",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "AFP_ENG_20030527.0616-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "WASHINGTON , May 27 ( AFP ) US President George W. Bush told Canadian Prime Minister Jean Chretien by telephone Monday that he looked forward to seeing him at the upcoming summit of major industrialized nations and Russia , the White House said Tuesday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WASHINGTON", ",", "May", "27", "(", "AFP", ")", "US", "President", "George", "W.", "Bush", "told", "Canadian", "Prime", "Minister", "Jean", "Chretien", "by", "telephone", "Monday", "that", "he", "looked", "forward", "to", "seeing", "him", "at", "the", "upcoming", "summit", "of", "major", "industrialized", "nations", "and", "Russia", ",", "the", "White", "House", "said", "Tuesday", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Canadian Prime Minister",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "Canadian",
+    "argMentionid" : "AFP_ENG_20030527.0616-E15-40",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "AFP_ENG_20030527.0616-R2",
+  "mentionArg1" : {
+    "extent" : "Canadian Prime Minister",
+    "argMentionid" : "AFP_ENG_20030527.0616-E22-39",
+    "start" : 13,
+    "end" : 15
+  },
+  "id" : "AFP_ENG_20030527.0616-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "WASHINGTON , May 27 ( AFP ) US President George W. Bush told Canadian Prime Minister Jean Chretien by telephone Monday that he looked forward to seeing him at the upcoming summit of major industrialized nations and Russia , the White House said Tuesday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WASHINGTON", ",", "May", "27", "(", "AFP", ")", "US", "President", "George", "W.", "Bush", "told", "Canadian", "Prime", "Minister", "Jean", "Chretien", "by", "telephone", "Monday", "that", "he", "looked", "forward", "to", "seeing", "him", "at", "the", "upcoming", "summit", "of", "major", "industrialized", "nations", "and", "Russia", ",", "the", "White", "House", "said", "Tuesday", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Canadian leader",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "Canadian",
+    "argMentionid" : "AFP_ENG_20030527.0616-E15-32",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "AFP_ENG_20030527.0616-R2",
+  "mentionArg1" : {
+    "extent" : "the Canadian leader",
+    "argMentionid" : "AFP_ENG_20030527.0616-E22-31",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "AFP_ENG_20030527.0616-R2-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "We just disagree on one item , \" the Canadian leader said .",
+  "sentence_index" : 7,
+  "Tokens" : [ "We", "just", "disagree", "on", "one", "item", ",", "\"", "the", "Canadian", "leader", "said", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Bush spokesman",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Bush spokesman",
+    "argMentionid" : "AFP_ENG_20030527.0616-E1-2",
+    "start" : 22,
+    "end" : 23
+  },
+  "relationID" : "AFP_ENG_20030527.0616-R3",
+  "mentionArg1" : {
+    "extent" : "Bush",
+    "argMentionid" : "AFP_ENG_20030527.0616-E3-3",
+    "start" : 22,
+    "end" : 22
+  },
+  "id" : "AFP_ENG_20030527.0616-R3-1",
+  "relationSubType" : "Business",
+  "Sentence" : "\" The two leaders discussed the upcoming G-8 meeting , US-Canada ( relations ) and other international issues of concern , \" Bush spokesman Ari Fleischer said days before the June 1-3 summit , to be held in France .",
+  "sentence_index" : 1,
+  "Tokens" : [ "\"", "The", "two", "leaders", "discussed", "the", "upcoming", "G-8", "meeting", ",", "US-Canada", "(", "relations", ")", "and", "other", "international", "issues", "of", "concern", ",", "\"", "Bush", "spokesman", "Ari", "Fleischer", "said", "days", "before", "the", "June", "1-3", "summit", ",", "to", "be", "held", "in", "France", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Both said they look forward to seeing each other in Evian",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "Evian",
+    "argMentionid" : "AFP_ENG_20030527.0616-E5-7",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "AFP_ENG_20030527.0616-R4",
+  "mentionArg1" : {
+    "extent" : "Both",
+    "argMentionid" : "AFP_ENG_20030527.0616-E29-5",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "AFP_ENG_20030527.0616-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "\" Both said they look forward to seeing each other in Evian .",
+  "sentence_index" : 2,
+  "Tokens" : [ "\"", "Both", "said", "they", "look", "forward", "to", "seeing", "each", "other", "in", "Evian", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Australian Prime Minster",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "Australian",
+    "argMentionid" : "AFP_ENG_20030527.0616-E11-18",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "AFP_ENG_20030527.0616-R5",
+  "mentionArg1" : {
+    "extent" : "Australian Prime Minster",
+    "argMentionid" : "AFP_ENG_20030527.0616-E9-17",
+    "start" : 27,
+    "end" : 29
+  },
+  "id" : "AFP_ENG_20030527.0616-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Amid a chill in relations over the war in Iraq , which Canada opposed , Bush indefinitely postponed a visit to Canada , instead choosing to host Australian Prime Minster John Howard , who endorsed that military campaign .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Amid", "a", "chill", "in", "relations", "over", "the", "war", "in", "Iraq", ",", "which", "Canada", "opposed", ",", "Bush", "indefinitely", "postponed", "a", "visit", "to", "Canada", ",", "instead", "choosing", "to", "host", "Australian", "Prime", "Minster", "John", "Howard", ",", "who", "endorsed", "that", "military", "campaign", "." ]
+} ]

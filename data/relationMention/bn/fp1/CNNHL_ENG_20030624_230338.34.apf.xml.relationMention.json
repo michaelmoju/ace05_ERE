@@ -1,0 +1,397 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "a man in new york",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "new york",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E16-64",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "CNNHL_ENG_20030624_230338.34-R1",
+  "mentionArg1" : {
+    "extent" : "a man in new york",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E2-48",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "CNNHL_ENG_20030624_230338.34-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "a man in new york is facing attempted murder charges after allegedly throwing his baby seven stories to the ground below. jordeena ginsburg from news 12 westchester has the story .",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "man", "in", "new", "york", "is", "facing", "attempted", "murder", "charges", "after", "allegedly", "throwing", "his", "baby", "seven", "stories", "to", "the", "ground", "below.", "jordeena", "ginsburg", "from", "news", "12", "westchester", "has", "the", "story", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his baby",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "his baby",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E17-66",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "CNNHL_ENG_20030624_230338.34-R2",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E2-65",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "CNNHL_ENG_20030624_230338.34-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "a man in new york is facing attempted murder charges after allegedly throwing his baby seven stories to the ground below. jordeena ginsburg from news 12 westchester has the story .",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "man", "in", "new", "york", "is", "facing", "attempted", "murder", "charges", "after", "allegedly", "throwing", "his", "baby", "seven", "stories", "to", "the", "ground", "below.", "jordeena", "ginsburg", "from", "news", "12", "westchester", "has", "the", "story", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the girl's father",
+  "sentence_length" : 75,
+  "mentionArg2" : {
+    "extent" : "the girl",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E17-8",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "CNNHL_ENG_20030624_230338.34-R2",
+  "mentionArg1" : {
+    "extent" : "the girl's father",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E2-9",
+    "start" : 5,
+    "end" : 8
+  },
+  "id" : "CNNHL_ENG_20030624_230338.34-R2-2",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : now willie williams the girl 's father is qharthd attempted murder. it all started around 11:30 saturday night , when williams got into a fight with the baby 's mother , jasmine. he wanted to date her again and she was n't interested. cops say he allegedly kidnapped her in his car and threatened her but eventually brought her back to her home. that 's when police say he grabbed her daughter .",
+  "sentence_index" : 3,
+  "Tokens" : [ "reporter", ":", "now", "willie", "williams", "the", "girl", "'s", "father", "is", "qharthd", "attempted", "murder.", "it", "all", "started", "around", "11:30", "saturday", "night", ",", "when", "williams", "got", "into", "a", "fight", "with", "the", "baby", "'s", "mother", ",", "jasmine.", "he", "wanted", "to", "date", "her", "again", "and", "she", "was", "n't", "interested.", "cops", "say", "he", "allegedly", "kidnapped", "her", "in", "his", "car", "and", "threatened", "her", "but", "eventually", "brought", "her", "back", "to", "her", "home.", "that", "'s", "when", "police", "say", "he", "grabbed", "her", "daughter", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "jordeena ginsburg from news 12 westchester",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "news 12 westchester",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E19-68",
+    "start" : 24,
+    "end" : 26
+  },
+  "relationID" : "CNNHL_ENG_20030624_230338.34-R3",
+  "mentionArg1" : {
+    "extent" : "jordeena ginsburg from news 12 westchester",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E18-67",
+    "start" : 21,
+    "end" : 26
+  },
+  "id" : "CNNHL_ENG_20030624_230338.34-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "a man in new york is facing attempted murder charges after allegedly throwing his baby seven stories to the ground below. jordeena ginsburg from news 12 westchester has the story .",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "man", "in", "new", "york", "is", "facing", "attempted", "murder", "charges", "after", "allegedly", "throwing", "his", "baby", "seven", "stories", "to", "the", "ground", "below.", "jordeena", "ginsburg", "from", "news", "12", "westchester", "has", "the", "story", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the spot where ten months old miana williams landed after she was thrown from a seventh floor window at this apartment building",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "the spot where ten months old miana williams landed after she was thrown from a seventh floor window at this apartment building",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E21-70",
+    "start" : 4,
+    "end" : 25
+  },
+  "relationID" : "CNNHL_ENG_20030624_230338.34-R4",
+  "mentionArg1" : {
+    "extent" : "ten months old miana williams",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E17-72",
+    "start" : 7,
+    "end" : 11
+  },
+  "id" : "CNNHL_ENG_20030624_230338.34-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "reporter : police measure the spot where ten months old miana williams landed after she was thrown from a seventh floor window at this apartment building. the baby fell 80 feet. these tree branches cushioned her fall and saved her life. the baby 's aunt did n't want her face shown on tv but told us she was stunned .",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "police", "measure", "the", "spot", "where", "ten", "months", "old", "miana", "williams", "landed", "after", "she", "was", "thrown", "from", "a", "seventh", "floor", "window", "at", "this", "apartment", "building.", "the", "baby", "fell", "80", "feet.", "these", "tree", "branches", "cushioned", "her", "fall", "and", "saved", "her", "life.", "the", "baby", "'s", "aunt", "did", "n't", "want", "her", "face", "shown", "on", "tv", "but", "told", "us", "she", "was", "stunned", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the baby's aunt",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "the baby's aunt",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E24-80",
+    "start" : 41,
+    "end" : 44
+  },
+  "relationID" : "CNNHL_ENG_20030624_230338.34-R5",
+  "mentionArg1" : {
+    "extent" : "the baby",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E17-79",
+    "start" : 41,
+    "end" : 42
+  },
+  "id" : "CNNHL_ENG_20030624_230338.34-R5-1",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : police measure the spot where ten months old miana williams landed after she was thrown from a seventh floor window at this apartment building. the baby fell 80 feet. these tree branches cushioned her fall and saved her life. the baby 's aunt did n't want her face shown on tv but told us she was stunned .",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "police", "measure", "the", "spot", "where", "ten", "months", "old", "miana", "williams", "landed", "after", "she", "was", "thrown", "from", "a", "seventh", "floor", "window", "at", "this", "apartment", "building.", "the", "baby", "fell", "80", "feet.", "these", "tree", "branches", "cushioned", "her", "fall", "and", "saved", "her", "life.", "the", "baby", "'s", "aunt", "did", "n't", "want", "her", "face", "shown", "on", "tv", "but", "told", "us", "she", "was", "stunned", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the baby's mother",
+  "sentence_length" : 75,
+  "mentionArg2" : {
+    "extent" : "the baby's mother",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E3-13",
+    "start" : 28,
+    "end" : 31
+  },
+  "relationID" : "CNNHL_ENG_20030624_230338.34-R9",
+  "mentionArg1" : {
+    "extent" : "the baby",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E17-12",
+    "start" : 28,
+    "end" : 29
+  },
+  "id" : "CNNHL_ENG_20030624_230338.34-R9-1",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : now willie williams the girl 's father is qharthd attempted murder. it all started around 11:30 saturday night , when williams got into a fight with the baby 's mother , jasmine. he wanted to date her again and she was n't interested. cops say he allegedly kidnapped her in his car and threatened her but eventually brought her back to her home. that 's when police say he grabbed her daughter .",
+  "sentence_index" : 3,
+  "Tokens" : [ "reporter", ":", "now", "willie", "williams", "the", "girl", "'s", "father", "is", "qharthd", "attempted", "murder.", "it", "all", "started", "around", "11:30", "saturday", "night", ",", "when", "williams", "got", "into", "a", "fight", "with", "the", "baby", "'s", "mother", ",", "jasmine.", "he", "wanted", "to", "date", "her", "again", "and", "she", "was", "n't", "interested.", "cops", "say", "he", "allegedly", "kidnapped", "her", "in", "his", "car", "and", "threatened", "her", "but", "eventually", "brought", "her", "back", "to", "her", "home.", "that", "'s", "when", "police", "say", "he", "grabbed", "her", "daughter", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her daughter",
+  "sentence_length" : 75,
+  "mentionArg2" : {
+    "extent" : "her",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E3-30",
+    "start" : 72,
+    "end" : 72
+  },
+  "relationID" : "CNNHL_ENG_20030624_230338.34-R9",
+  "mentionArg1" : {
+    "extent" : "her daughter",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E17-31",
+    "start" : 72,
+    "end" : 73
+  },
+  "id" : "CNNHL_ENG_20030624_230338.34-R9-2",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : now willie williams the girl 's father is qharthd attempted murder. it all started around 11:30 saturday night , when williams got into a fight with the baby 's mother , jasmine. he wanted to date her again and she was n't interested. cops say he allegedly kidnapped her in his car and threatened her but eventually brought her back to her home. that 's when police say he grabbed her daughter .",
+  "sentence_index" : 3,
+  "Tokens" : [ "reporter", ":", "now", "willie", "williams", "the", "girl", "'s", "father", "is", "qharthd", "attempted", "murder.", "it", "all", "started", "around", "11:30", "saturday", "night", ",", "when", "williams", "got", "into", "a", "fight", "with", "the", "baby", "'s", "mother", ",", "jasmine.", "he", "wanted", "to", "date", "her", "again", "and", "she", "was", "n't", "interested.", "cops", "say", "he", "allegedly", "kidnapped", "her", "in", "his", "car", "and", "threatened", "her", "but", "eventually", "brought", "her", "back", "to", "her", "home.", "that", "'s", "when", "police", "say", "he", "grabbed", "her", "daughter", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the baby's mother",
+  "sentence_length" : 67,
+  "mentionArg2" : {
+    "extent" : "the baby's mother",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E3-37",
+    "start" : 3,
+    "end" : 6
+  },
+  "relationID" : "CNNHL_ENG_20030624_230338.34-R9",
+  "mentionArg1" : {
+    "extent" : "the baby",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E17-36",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "CNNHL_ENG_20030624_230338.34-R9-3",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : then the baby 's mother made a frantic call to police. while she was on the phone , police say williams picked up the child again and this time , threw her out the window. then police say the baby 's mother pulled out a kitchen knife opinion on the 911 tape you can hear williams tape say \" go ahead kill me . \"",
+  "sentence_index" : 5,
+  "Tokens" : [ "reporter", ":", "then", "the", "baby", "'s", "mother", "made", "a", "frantic", "call", "to", "police.", "while", "she", "was", "on", "the", "phone", ",", "police", "say", "williams", "picked", "up", "the", "child", "again", "and", "this", "time", ",", "threw", "her", "out", "the", "window.", "then", "police", "say", "the", "baby", "'s", "mother", "pulled", "out", "a", "kitchen", "knife", "opinion", "on", "the", "911", "tape", "you", "can", "hear", "williams", "tape", "say", "\"", "go", "ahead", "kill", "me", ".", "\"" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the baby's mother",
+  "sentence_length" : 67,
+  "mentionArg2" : {
+    "extent" : "the baby's mother",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E3-46",
+    "start" : 40,
+    "end" : 43
+  },
+  "relationID" : "CNNHL_ENG_20030624_230338.34-R9",
+  "mentionArg1" : {
+    "extent" : "the baby",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E17-44",
+    "start" : 40,
+    "end" : 41
+  },
+  "id" : "CNNHL_ENG_20030624_230338.34-R9-4",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : then the baby 's mother made a frantic call to police. while she was on the phone , police say williams picked up the child again and this time , threw her out the window. then police say the baby 's mother pulled out a kitchen knife opinion on the 911 tape you can hear williams tape say \" go ahead kill me . \"",
+  "sentence_index" : 5,
+  "Tokens" : [ "reporter", ":", "then", "the", "baby", "'s", "mother", "made", "a", "frantic", "call", "to", "police.", "while", "she", "was", "on", "the", "phone", ",", "police", "say", "williams", "picked", "up", "the", "child", "again", "and", "this", "time", ",", "threw", "her", "out", "the", "window.", "then", "police", "say", "the", "baby", "'s", "mother", "pulled", "out", "a", "kitchen", "knife", "opinion", "on", "the", "911", "tape", "you", "can", "hear", "williams", "tape", "say", "\"", "go", "ahead", "kill", "me", ".", "\"" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "his car",
+  "sentence_length" : 75,
+  "mentionArg2" : {
+    "extent" : "his car",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E6-23",
+    "start" : 52,
+    "end" : 53
+  },
+  "relationID" : "CNNHL_ENG_20030624_230338.34-R10",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E2-22",
+    "start" : 52,
+    "end" : 52
+  },
+  "id" : "CNNHL_ENG_20030624_230338.34-R10-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "reporter : now willie williams the girl 's father is qharthd attempted murder. it all started around 11:30 saturday night , when williams got into a fight with the baby 's mother , jasmine. he wanted to date her again and she was n't interested. cops say he allegedly kidnapped her in his car and threatened her but eventually brought her back to her home. that 's when police say he grabbed her daughter .",
+  "sentence_index" : 3,
+  "Tokens" : [ "reporter", ":", "now", "willie", "williams", "the", "girl", "'s", "father", "is", "qharthd", "attempted", "murder.", "it", "all", "started", "around", "11:30", "saturday", "night", ",", "when", "williams", "got", "into", "a", "fight", "with", "the", "baby", "'s", "mother", ",", "jasmine.", "he", "wanted", "to", "date", "her", "again", "and", "she", "was", "n't", "interested.", "cops", "say", "he", "allegedly", "kidnapped", "her", "in", "his", "car", "and", "threatened", "her", "but", "eventually", "brought", "her", "back", "to", "her", "home.", "that", "'s", "when", "police", "say", "he", "grabbed", "her", "daughter", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "her home",
+  "sentence_length" : 75,
+  "mentionArg2" : {
+    "extent" : "her home",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E7-27",
+    "start" : 63,
+    "end" : 64
+  },
+  "relationID" : "CNNHL_ENG_20030624_230338.34-R11",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E3-26",
+    "start" : 63,
+    "end" : 63
+  },
+  "id" : "CNNHL_ENG_20030624_230338.34-R11-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "reporter : now willie williams the girl 's father is qharthd attempted murder. it all started around 11:30 saturday night , when williams got into a fight with the baby 's mother , jasmine. he wanted to date her again and she was n't interested. cops say he allegedly kidnapped her in his car and threatened her but eventually brought her back to her home. that 's when police say he grabbed her daughter .",
+  "sentence_index" : 3,
+  "Tokens" : [ "reporter", ":", "now", "willie", "williams", "the", "girl", "'s", "father", "is", "qharthd", "attempted", "murder.", "it", "all", "started", "around", "11:30", "saturday", "night", ",", "when", "williams", "got", "into", "a", "fight", "with", "the", "baby", "'s", "mother", ",", "jasmine.", "he", "wanted", "to", "date", "her", "again", "and", "she", "was", "n't", "interested.", "cops", "say", "he", "allegedly", "kidnapped", "her", "in", "his", "car", "and", "threatened", "her", "but", "eventually", "brought", "her", "back", "to", "her", "home.", "that", "'s", "when", "police", "say", "he", "grabbed", "her", "daughter", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "then police say the baby's mother pulled out a kitchen knife opinion on the 911 tape you can hear williams tape say \"go ahead kill me",
+  "sentence_length" : 67,
+  "mentionArg2" : {
+    "extent" : "a kitchen knife",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E10-47",
+    "start" : 46,
+    "end" : 48
+  },
+  "relationID" : "CNNHL_ENG_20030624_230338.34-R12",
+  "mentionArg1" : {
+    "extent" : "the baby's mother",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E3-46",
+    "start" : 40,
+    "end" : 43
+  },
+  "id" : "CNNHL_ENG_20030624_230338.34-R12-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "reporter : then the baby 's mother made a frantic call to police. while she was on the phone , police say williams picked up the child again and this time , threw her out the window. then police say the baby 's mother pulled out a kitchen knife opinion on the 911 tape you can hear williams tape say \" go ahead kill me . \"",
+  "sentence_index" : 5,
+  "Tokens" : [ "reporter", ":", "then", "the", "baby", "'s", "mother", "made", "a", "frantic", "call", "to", "police.", "while", "she", "was", "on", "the", "phone", ",", "police", "say", "williams", "picked", "up", "the", "child", "again", "and", "this", "time", ",", "threw", "her", "out", "the", "window.", "then", "police", "say", "the", "baby", "'s", "mother", "pulled", "out", "a", "kitchen", "knife", "opinion", "on", "the", "911", "tape", "you", "can", "hear", "williams", "tape", "say", "\"", "go", "ahead", "kill", "me", ".", "\"" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "still bleeding, he ran downstairs and scooped up the baby and took the baby to the hospital",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "downstairs",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E13-62",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNNHL_ENG_20030624_230338.34-R16",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E2-52",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "CNNHL_ENG_20030624_230338.34-R16-1",
+  "relationSubType" : "Located",
+  "Sentence" : "still bleeding , he ran downstairs and scooped up the baby and took the baby to the hospital. police were on his trail and found williams and the baby at mem norial hospital where",
+  "sentence_index" : 6,
+  "Tokens" : [ "still", "bleeding", ",", "he", "ran", "downstairs", "and", "scooped", "up", "the", "baby", "and", "took", "the", "baby", "to", "the", "hospital.", "police", "were", "on", "his", "trail", "and", "found", "williams", "and", "the", "baby", "at", "mem", "norial", "hospital", "where" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "still bleeding, he ran downstairs and scooped up the baby and took the baby to the hospital",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "the hospital",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E12-55",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "CNNHL_ENG_20030624_230338.34-R17",
+  "mentionArg1" : {
+    "extent" : "the baby",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E17-54",
+    "start" : 13,
+    "end" : 14
+  },
+  "id" : "CNNHL_ENG_20030624_230338.34-R17-1",
+  "relationSubType" : "Located",
+  "Sentence" : "still bleeding , he ran downstairs and scooped up the baby and took the baby to the hospital. police were on his trail and found williams and the baby at mem norial hospital where",
+  "sentence_index" : 6,
+  "Tokens" : [ "still", "bleeding", ",", "he", "ran", "downstairs", "and", "scooped", "up", "the", "baby", "and", "took", "the", "baby", "to", "the", "hospital.", "police", "were", "on", "his", "trail", "and", "found", "williams", "and", "the", "baby", "at", "mem", "norial", "hospital", "where" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "police were on his trail and found williams and the baby at mem norial hospital where",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "mem norial hospital where",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E12-60",
+    "start" : 30,
+    "end" : 33
+  },
+  "relationID" : "CNNHL_ENG_20030624_230338.34-R17",
+  "mentionArg1" : {
+    "extent" : "the baby",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E17-59",
+    "start" : 27,
+    "end" : 28
+  },
+  "id" : "CNNHL_ENG_20030624_230338.34-R17-2",
+  "relationSubType" : "Located",
+  "Sentence" : "still bleeding , he ran downstairs and scooped up the baby and took the baby to the hospital. police were on his trail and found williams and the baby at mem norial hospital where",
+  "sentence_index" : 6,
+  "Tokens" : [ "still", "bleeding", ",", "he", "ran", "downstairs", "and", "scooped", "up", "the", "baby", "and", "took", "the", "baby", "to", "the", "hospital.", "police", "were", "on", "his", "trail", "and", "found", "williams", "and", "the", "baby", "at", "mem", "norial", "hospital", "where" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "still bleeding, he ran downstairs and scooped up the baby and took the baby to the hospital",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "the hospital",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E12-55",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "CNNHL_ENG_20030624_230338.34-R18",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E2-52",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "CNNHL_ENG_20030624_230338.34-R18-1",
+  "relationSubType" : "Located",
+  "Sentence" : "still bleeding , he ran downstairs and scooped up the baby and took the baby to the hospital. police were on his trail and found williams and the baby at mem norial hospital where",
+  "sentence_index" : 6,
+  "Tokens" : [ "still", "bleeding", ",", "he", "ran", "downstairs", "and", "scooped", "up", "the", "baby", "and", "took", "the", "baby", "to", "the", "hospital.", "police", "were", "on", "his", "trail", "and", "found", "williams", "and", "the", "baby", "at", "mem", "norial", "hospital", "where" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "police were on his trail and found williams and the baby at mem norial hospital where",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "mem norial hospital where",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E12-60",
+    "start" : 30,
+    "end" : 33
+  },
+  "relationID" : "CNNHL_ENG_20030624_230338.34-R18",
+  "mentionArg1" : {
+    "extent" : "williams",
+    "argMentionid" : "CNNHL_ENG_20030624_230338.34-E2-58",
+    "start" : 25,
+    "end" : 25
+  },
+  "id" : "CNNHL_ENG_20030624_230338.34-R18-2",
+  "relationSubType" : "Located",
+  "Sentence" : "still bleeding , he ran downstairs and scooped up the baby and took the baby to the hospital. police were on his trail and found williams and the baby at mem norial hospital where",
+  "sentence_index" : 6,
+  "Tokens" : [ "still", "bleeding", ",", "he", "ran", "downstairs", "and", "scooped", "up", "the", "baby", "and", "took", "the", "baby", "to", "the", "hospital.", "police", "were", "on", "his", "trail", "and", "found", "williams", "and", "the", "baby", "at", "mem", "norial", "hospital", "where" ]
+} ]

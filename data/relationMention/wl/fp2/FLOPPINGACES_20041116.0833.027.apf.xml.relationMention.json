@@ -1,0 +1,331 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Bush Administration",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "the Bush Administration",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E32-85",
+    "start" : 12,
+    "end" : 14
+  },
+  "relationID" : "FLOPPINGACES_20041116.0833.027-R1",
+  "mentionArg1" : {
+    "extent" : "Bush",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E33-86",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "FLOPPINGACES_20041116.0833.027-R1-1",
+  "relationSubType" : "Founder",
+  "Sentence" : "Apparently James Baker , former Secretary of State and current envoy for the Bush Administration , has asked the Isreali government to release a scumbag terrorist to promote \" peace \" .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Apparently", "James", "Baker", ",", "former", "Secretary", "of", "State", "and", "current", "envoy", "for", "the", "Bush", "Administration", ",", "has", "asked", "the", "Isreali", "government", "to", "release", "a", "scumbag", "terrorist", "to", "promote", "\"", "peace", "\"", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "current envoy for the Bush Administration",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "the Bush Administration",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E32-85",
+    "start" : 12,
+    "end" : 14
+  },
+  "relationID" : "FLOPPINGACES_20041116.0833.027-R2",
+  "mentionArg1" : {
+    "extent" : "current envoy for the Bush Administration",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E31-83",
+    "start" : 9,
+    "end" : 14
+  },
+  "id" : "FLOPPINGACES_20041116.0833.027-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Apparently James Baker , former Secretary of State and current envoy for the Bush Administration , has asked the Isreali government to release a scumbag terrorist to promote \" peace \" .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Apparently", "James", "Baker", ",", "former", "Secretary", "of", "State", "and", "current", "envoy", "for", "the", "Bush", "Administration", ",", "has", "asked", "the", "Isreali", "government", "to", "release", "a", "scumbag", "terrorist", "to", "promote", "\"", "peace", "\"", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Isreali government",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Isreali",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E15-88",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "FLOPPINGACES_20041116.0833.027-R3",
+  "mentionArg1" : {
+    "extent" : "the Isreali government",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E34-87",
+    "start" : 18,
+    "end" : 20
+  },
+  "id" : "FLOPPINGACES_20041116.0833.027-R3-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Apparently James Baker , former Secretary of State and current envoy for the Bush Administration , has asked the Isreali government to release a scumbag terrorist to promote \" peace \" .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Apparently", "James", "Baker", ",", "former", "Secretary", "of", "State", "and", "current", "envoy", "for", "the", "Bush", "Administration", ",", "has", "asked", "the", "Isreali", "government", "to", "release", "a", "scumbag", "terrorist", "to", "promote", "\"", "peace", "\"", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "an Israeli prison",
+  "sentence_length" : 65,
+  "mentionArg2" : {
+    "extent" : "an Israeli prison",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E38-90",
+    "start" : 1,
+    "end" : 3
+  },
+  "relationID" : "FLOPPINGACES_20041116.0833.027-R4",
+  "mentionArg1" : {
+    "extent" : "Israeli",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E15-91",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "FLOPPINGACES_20041116.0833.027-R4-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "in an Israeli prison a man named Marwan Barghouti , who is one of the young guard of Palestinians , and if the Palestinians are going to make this work against the really hard-line elements , the Islamists and some of the people of Hamas , they 're going to have to have a coalition of the young guard and the old guard . \"",
+  "sentence_index" : 6,
+  "Tokens" : [ "in", "an", "Israeli", "prison", "a", "man", "named", "Marwan", "Barghouti", ",", "who", "is", "one", "of", "the", "young", "guard", "of", "Palestinians", ",", "and", "if", "the", "Palestinians", "are", "going", "to", "make", "this", "work", "against", "the", "really", "hard-line", "elements", ",", "the", "Islamists", "and", "some", "of", "the", "people", "of", "Hamas", ",", "they", "'re", "going", "to", "have", "to", "have", "a", "coalition", "of", "the", "young", "guard", "and", "the", "old", "guard", ".", "\"" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the young guard of Palestinians",
+  "sentence_length" : 65,
+  "mentionArg2" : {
+    "extent" : "Palestinians",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E2-4",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "FLOPPINGACES_20041116.0833.027-R5",
+  "mentionArg1" : {
+    "extent" : "the young guard of Palestinians",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E1-3",
+    "start" : 14,
+    "end" : 18
+  },
+  "id" : "FLOPPINGACES_20041116.0833.027-R5-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "in an Israeli prison a man named Marwan Barghouti , who is one of the young guard of Palestinians , and if the Palestinians are going to make this work against the really hard-line elements , the Islamists and some of the people of Hamas , they 're going to have to have a coalition of the young guard and the old guard . \"",
+  "sentence_index" : 6,
+  "Tokens" : [ "in", "an", "Israeli", "prison", "a", "man", "named", "Marwan", "Barghouti", ",", "who", "is", "one", "of", "the", "young", "guard", "of", "Palestinians", ",", "and", "if", "the", "Palestinians", "are", "going", "to", "make", "this", "work", "against", "the", "really", "hard-line", "elements", ",", "the", "Islamists", "and", "some", "of", "the", "people", "of", "Hamas", ",", "they", "'re", "going", "to", "have", "to", "have", "a", "coalition", "of", "the", "young", "guard", "and", "the", "old", "guard", ".", "\"" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the people of Hamas",
+  "sentence_length" : 65,
+  "mentionArg2" : {
+    "extent" : "Hamas",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E6-9",
+    "start" : 44,
+    "end" : 44
+  },
+  "relationID" : "FLOPPINGACES_20041116.0833.027-R6",
+  "mentionArg1" : {
+    "extent" : "the people of Hamas",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E5-8",
+    "start" : 41,
+    "end" : 44
+  },
+  "id" : "FLOPPINGACES_20041116.0833.027-R6-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "in an Israeli prison a man named Marwan Barghouti , who is one of the young guard of Palestinians , and if the Palestinians are going to make this work against the really hard-line elements , the Islamists and some of the people of Hamas , they 're going to have to have a coalition of the young guard and the old guard . \"",
+  "sentence_index" : 6,
+  "Tokens" : [ "in", "an", "Israeli", "prison", "a", "man", "named", "Marwan", "Barghouti", ",", "who", "is", "one", "of", "the", "young", "guard", "of", "Palestinians", ",", "and", "if", "the", "Palestinians", "are", "going", "to", "make", "this", "work", "against", "the", "really", "hard-line", "elements", ",", "the", "Islamists", "and", "some", "of", "the", "people", "of", "Hamas", ",", "they", "'re", "going", "to", "have", "to", "have", "a", "coalition", "of", "the", "young", "guard", "and", "the", "old", "guard", ".", "\"" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a Palestinian leader from the West Bank",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E2-21",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "FLOPPINGACES_20041116.0833.027-R7",
+  "mentionArg1" : {
+    "extent" : "a Palestinian leader from the West Bank",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E9-20",
+    "start" : 22,
+    "end" : 28
+  },
+  "id" : "FLOPPINGACES_20041116.0833.027-R7-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Here are some of the fine achievements of the terrorist Marwan Barghouti Marwan Barghouti ( born June 6 , 1958 ) is a Palestinian leader from the West Bank and a leader of the Fatah movement that forms the backbone of the Palestinian Authority and the Palestine Liberation Organization ( PLO ) .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Here", "are", "some", "of", "the", "fine", "achievements", "of", "the", "terrorist", "Marwan", "Barghouti", "Marwan", "Barghouti", "(", "born", "June", "6", ",", "1958", ")", "is", "a", "Palestinian", "leader", "from", "the", "West", "Bank", "and", "a", "leader", "of", "the", "Fatah", "movement", "that", "forms", "the", "backbone", "of", "the", "Palestinian", "Authority", "and", "the", "Palestine", "Liberation", "Organization", "(", "PLO", ")", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a Palestinian leader from the West Bank",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "the West Bank",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E11-22",
+    "start" : 26,
+    "end" : 28
+  },
+  "relationID" : "FLOPPINGACES_20041116.0833.027-R8",
+  "mentionArg1" : {
+    "extent" : "a Palestinian leader from the West Bank",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E9-20",
+    "start" : 22,
+    "end" : 28
+  },
+  "id" : "FLOPPINGACES_20041116.0833.027-R8-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Here are some of the fine achievements of the terrorist Marwan Barghouti Marwan Barghouti ( born June 6 , 1958 ) is a Palestinian leader from the West Bank and a leader of the Fatah movement that forms the backbone of the Palestinian Authority and the Palestine Liberation Organization ( PLO ) .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Here", "are", "some", "of", "the", "fine", "achievements", "of", "the", "terrorist", "Marwan", "Barghouti", "Marwan", "Barghouti", "(", "born", "June", "6", ",", "1958", ")", "is", "a", "Palestinian", "leader", "from", "the", "West", "Bank", "and", "a", "leader", "of", "the", "Fatah", "movement", "that", "forms", "the", "backbone", "of", "the", "Palestinian", "Authority", "and", "the", "Palestine", "Liberation", "Organization", "(", "PLO", ")", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a leader of the Fatah movement that forms the backbone of the Palestinian Authority and the Palestine Liberation Organization (PLO",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "the Fatah movement that forms the backbone of the Palestinian Authority and the Palestine Liberation Organization (PLO",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E12-24",
+    "start" : 33,
+    "end" : 50
+  },
+  "relationID" : "FLOPPINGACES_20041116.0833.027-R9",
+  "mentionArg1" : {
+    "extent" : "a leader of the Fatah movement that forms the backbone of the Palestinian Authority and the Palestine Liberation Organization (PLO",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E9-23",
+    "start" : 30,
+    "end" : 50
+  },
+  "id" : "FLOPPINGACES_20041116.0833.027-R9-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Here are some of the fine achievements of the terrorist Marwan Barghouti Marwan Barghouti ( born June 6 , 1958 ) is a Palestinian leader from the West Bank and a leader of the Fatah movement that forms the backbone of the Palestinian Authority and the Palestine Liberation Organization ( PLO ) .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Here", "are", "some", "of", "the", "fine", "achievements", "of", "the", "terrorist", "Marwan", "Barghouti", "Marwan", "Barghouti", "(", "born", "June", "6", ",", "1958", ")", "is", "a", "Palestinian", "leader", "from", "the", "West", "Bank", "and", "a", "leader", "of", "the", "Fatah", "movement", "that", "forms", "the", "backbone", "of", "the", "Palestinian", "Authority", "and", "the", "Palestine", "Liberation", "Organization", "(", "PLO", ")", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Israeli civilians",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E15-31",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "FLOPPINGACES_20041116.0833.027-R10",
+  "mentionArg1" : {
+    "extent" : "Israeli civilians",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E14-30",
+    "start" : 17,
+    "end" : 18
+  },
+  "id" : "FLOPPINGACES_20041116.0833.027-R10-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "On June 6 , 2004 , he was sentenced to five life sentences for five murders of Israeli civilians and 40 years imprisonment for attempted murders in terrorist attacks against Israeli civilians .",
+  "sentence_index" : 9,
+  "Tokens" : [ "On", "June", "6", ",", "2004", ",", "he", "was", "sentenced", "to", "five", "life", "sentences", "for", "five", "murders", "of", "Israeli", "civilians", "and", "40", "years", "imprisonment", "for", "attempted", "murders", "in", "terrorist", "attacks", "against", "Israeli", "civilians", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Israeli civilians",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E15-33",
+    "start" : 30,
+    "end" : 30
+  },
+  "relationID" : "FLOPPINGACES_20041116.0833.027-R10",
+  "mentionArg1" : {
+    "extent" : "Israeli civilians",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E14-32",
+    "start" : 30,
+    "end" : 31
+  },
+  "id" : "FLOPPINGACES_20041116.0833.027-R10-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "On June 6 , 2004 , he was sentenced to five life sentences for five murders of Israeli civilians and 40 years imprisonment for attempted murders in terrorist attacks against Israeli civilians .",
+  "sentence_index" : 9,
+  "Tokens" : [ "On", "June", "6", ",", "2004", ",", "he", "was", "sentenced", "to", "five", "life", "sentences", "for", "five", "murders", "of", "Israeli", "civilians", "and", "40", "years", "imprisonment", "for", "attempted", "murders", "in", "terrorist", "attacks", "against", "Israeli", "civilians", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the General Secretary of Fatah in the West Bank",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Fatah in the West Bank",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E12-81",
+    "start" : 11,
+    "end" : 15
+  },
+  "relationID" : "FLOPPINGACES_20041116.0833.027-R12",
+  "mentionArg1" : {
+    "extent" : "the General Secretary of Fatah in the West Bank",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E9-60",
+    "start" : 7,
+    "end" : 15
+  },
+  "id" : "FLOPPINGACES_20041116.0833.027-R12-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The formal position occupied by Barghouti was the General Secretary of Fatah in the West Bank .",
+  "sentence_index" : 13,
+  "Tokens" : [ "The", "formal", "position", "occupied", "by", "Barghouti", "was", "the", "General", "Secretary", "of", "Fatah", "in", "the", "West", "Bank", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Fatah in the West Bank",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "the West Bank",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E11-67",
+    "start" : 13,
+    "end" : 15
+  },
+  "relationID" : "FLOPPINGACES_20041116.0833.027-R13",
+  "mentionArg1" : {
+    "extent" : "Fatah in the West Bank",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E12-81",
+    "start" : 11,
+    "end" : 15
+  },
+  "id" : "FLOPPINGACES_20041116.0833.027-R13-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "The formal position occupied by Barghouti was the General Secretary of Fatah in the West Bank .",
+  "sentence_index" : 13,
+  "Tokens" : [ "The", "formal", "position", "occupied", "by", "Barghouti", "was", "the", "General", "Secretary", "of", "Fatah", "in", "the", "West", "Bank", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Arafat's administration",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "Arafat's administration",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E25-69",
+    "start" : 21,
+    "end" : 23
+  },
+  "relationID" : "FLOPPINGACES_20041116.0833.027-R14",
+  "mentionArg1" : {
+    "extent" : "Arafat",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E23-65",
+    "start" : 21,
+    "end" : 21
+  },
+  "id" : "FLOPPINGACES_20041116.0833.027-R14-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "By the summer of 2000 , Barghouti and Arafat had grown increasingly at odds with each other , with Barghouti accusing Arafat 's administration of corruption and his security services of human rights violations , and Arafat was planning to fire him shortly .",
+  "sentence_index" : 14,
+  "Tokens" : [ "By", "the", "summer", "of", "2000", ",", "Barghouti", "and", "Arafat", "had", "grown", "increasingly", "at", "odds", "with", "each", "other", ",", "with", "Barghouti", "accusing", "Arafat", "'s", "administration", "of", "corruption", "and", "his", "security", "services", "of", "human", "rights", "violations", ",", "and", "Arafat", "was", "planning", "to", "fire", "him", "shortly", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "In 1996, he was elected to the Palestinian Legislative Council, in which he advocated peace with Israel, sometimes coming in conflict with Yasser Arafat",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "the Palestinian Legislative Council",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E21-49",
+    "start" : 7,
+    "end" : 10
+  },
+  "relationID" : "FLOPPINGACES_20041116.0833.027-R15",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "FLOPPINGACES_20041116.0833.027-E9-48",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "FLOPPINGACES_20041116.0833.027-R15-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "In 1996 , he was elected to the Palestinian Legislative Council , in which he advocated peace with Israel , sometimes coming in conflict with Yasser Arafat .",
+  "sentence_index" : 12,
+  "Tokens" : [ "In", "1996", ",", "he", "was", "elected", "to", "the", "Palestinian", "Legislative", "Council", ",", "in", "which", "he", "advocated", "peace", "with", "Israel", ",", "sometimes", "coming", "in", "conflict", "with", "Yasser", "Arafat", "." ]
+} ]

@@ -1,0 +1,221 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "Oh, from Arizona, Jean",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "Arizona",
+    "argMentionid" : "fsh_29326-E1-6",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "fsh_29326-R1",
+  "mentionArg1" : {
+    "extent" : "Jean",
+    "argMentionid" : "fsh_29326-E34-175",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "fsh_29326-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Mohammed Oh , from Arizona , Jean .",
+  "sentence_index" : 12,
+  "Tokens" : [ "Mohammed", "Oh", ",", "from", "Arizona", ",", "Jean", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "My name is Jean, and I'm in Arizona",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "Arizona",
+    "argMentionid" : "fsh_29326-E1-5",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "fsh_29326-R1",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29326-E34-4",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "fsh_29326-R1-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "My name is Jean , and I 'm in Arizona .",
+  "sentence_index" : 11,
+  "Tokens" : [ "My", "name", "is", "Jean", ",", "and", "I", "'m", "in", "Arizona", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his wife",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "his wife",
+    "argMentionid" : "fsh_29326-E26-162",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "fsh_29326-R2",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29326-E10-160",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "fsh_29326-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Peterson Trial Scott Peterson has been found guilty of murdering his wife Laci and their unborn son , and he now faces the death penalty .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Peterson", "Trial", "Scott", "Peterson", "has", "been", "found", "guilty", "of", "murdering", "his", "wife", "Laci", "and", "their", "unborn", "son", ",", "and", "he", "now", "faces", "the", "death", "penalty", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their unborn son",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "their unborn son",
+    "argMentionid" : "fsh_29326-E29-165",
+    "start" : 14,
+    "end" : 16
+  },
+  "relationID" : "fsh_29326-R3",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "fsh_29326-E28-164",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "fsh_29326-R3-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Peterson Trial Scott Peterson has been found guilty of murdering his wife Laci and their unborn son , and he now faces the death penalty .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Peterson", "Trial", "Scott", "Peterson", "has", "been", "found", "guilty", "of", "murdering", "his", "wife", "Laci", "and", "their", "unborn", "son", ",", "and", "he", "now", "faces", "the", "death", "penalty", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Ah, this is Mohammed, calling from New York",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "New York",
+    "argMentionid" : "fsh_29326-E3-14",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "fsh_29326-R5",
+  "mentionArg1" : {
+    "extent" : "this",
+    "argMentionid" : "fsh_29326-E2-12",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29326-R5-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Mohammed Ah , this is Mohammed , calling from New York .",
+  "sentence_index" : 16,
+  "Tokens" : [ "Mohammed", "Ah", ",", "this", "is", "Mohammed", ",", "calling", "from", "New", "York", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Mohammed, calling from New York",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "New York",
+    "argMentionid" : "fsh_29326-E3-16",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "fsh_29326-R5",
+  "mentionArg1" : {
+    "extent" : "Mohammed",
+    "argMentionid" : "fsh_29326-E2-15",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "fsh_29326-R5-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Jean Mohammed , calling from New York .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Jean", "Mohammed", ",", "calling", "from", "New", "York", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his new girlfriend",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "his new girlfriend",
+    "argMentionid" : "fsh_29326-E13-53",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "fsh_29326-R6",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29326-E10-51",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "fsh_29326-R6-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "I- I think his motive must have been to be with his new girlfriend , but uh- -- kill his own first child that way is extraordinary .",
+  "sentence_index" : 28,
+  "Tokens" : [ "I-", "I", "think", "his", "motive", "must", "have", "been", "to", "be", "with", "his", "new", "girlfriend", ",", "but", "uh-", "--", "kill", "his", "own", "first", "child", "that", "way", "is", "extraordinary", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his own first child",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "his own first child",
+    "argMentionid" : "fsh_29326-E29-54",
+    "start" : 19,
+    "end" : 22
+  },
+  "relationID" : "fsh_29326-R7",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29326-E10-52",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "fsh_29326-R7-1",
+  "relationSubType" : "Family",
+  "Sentence" : "I- I think his motive must have been to be with his new girlfriend , but uh- -- kill his own first child that way is extraordinary .",
+  "sentence_index" : 28,
+  "Tokens" : [ "I-", "I", "think", "his", "motive", "must", "have", "been", "to", "be", "with", "his", "new", "girlfriend", ",", "but", "uh-", "--", "kill", "his", "own", "first", "child", "that", "way", "is", "extraordinary", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his brother",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "his brother",
+    "argMentionid" : "fsh_29326-E17-106",
+    "start" : 24,
+    "end" : 25
+  },
+  "relationID" : "fsh_29326-R8",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29326-E10-107",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "fsh_29326-R8-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Jean Well , uh they 're coming up to the sentencing , and I heard yesterday or read in the newspaper or something that his brother -- I guess it was on the television .",
+  "sentence_index" : 58,
+  "Tokens" : [ "Jean", "Well", ",", "uh", "they", "'re", "coming", "up", "to", "the", "sentencing", ",", "and", "I", "heard", "yesterday", "or", "read", "in", "the", "newspaper", "or", "something", "that", "his", "brother", "--", "I", "guess", "it", "was", "on", "the", "television", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his brother",
+  "sentence_length" : 58,
+  "mentionArg2" : {
+    "extent" : "his brother",
+    "argMentionid" : "fsh_29326-E17-109",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "fsh_29326-R8",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29326-E10-110",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "fsh_29326-R8-2",
+  "relationSubType" : "Family",
+  "Sentence" : "In the news , his brother was appealing -- for them to to sentence him to -- to prison for life rather than the death penalty , because -- he said he 's a very good listener and he cares about people , and and he might be able to help a lot of people in prison .",
+  "sentence_index" : 59,
+  "Tokens" : [ "In", "the", "news", ",", "his", "brother", "was", "appealing", "--", "for", "them", "to", "to", "sentence", "him", "to", "--", "to", "prison", "for", "life", "rather", "than", "the", "death", "penalty", ",", "because", "--", "he", "said", "he", "'s", "a", "very", "good", "listener", "and", "he", "cares", "about", "people", ",", "and", "and", "he", "might", "be", "able", "to", "help", "a", "lot", "of", "people", "in", "prison", "." ]
+} ]

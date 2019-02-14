@@ -1,0 +1,815 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "Your gran- you go to your grandma's house",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "your grandma's house",
+    "argMentionid" : "fsh_29630-E7-32",
+    "start" : 6,
+    "end" : 9
+  },
+  "relationID" : "fsh_29630-R1",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29630-E51-31",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29630-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Deirdre Your gran- you go to your grandma 's house .",
+  "sentence_index" : 22,
+  "Tokens" : [ "Deirdre", "Your", "gran-", "you", "go", "to", "your", "grandma", "'s", "house", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "So you go with, um,  family, friends",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "family",
+    "argMentionid" : "fsh_29630-E29-21",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "fsh_29630-R2",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29630-E51-20",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "fsh_29630-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Deirdre So you go with , um , family , friends ?",
+  "sentence_index" : 18,
+  "Tokens" : [ "Deirdre", "So", "you", "go", "with", ",", "um", ",", "family", ",", "friends", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Do you go to a lot of parties with friends, neighbors, co-workers or family members",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "friends",
+    "argMentionid" : "fsh_29630-E39-138",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "fsh_29630-R3",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29630-E12-96",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "fsh_29630-R3-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "Do you go to a lot of parties with friends , neighbors , co-workers or family members ?",
+  "sentence_index" : 3,
+  "Tokens" : [ "Do", "you", "go", "to", "a", "lot", "of", "parties", "with", "friends", ",", "neighbors", ",", "co-workers", "or", "family", "members", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Do you travel to meet up with family or friends during the holidays",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "friends",
+    "argMentionid" : "fsh_29630-E39-251",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "fsh_29630-R3",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29630-E12-249",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "fsh_29630-R3-2",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "Do you travel to meet up with family or friends during the holidays ?",
+  "sentence_index" : 5,
+  "Tokens" : [ "Do", "you", "travel", "to", "meet", "up", "with", "family", "or", "friends", "during", "the", "holidays", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Do you go to a lot of parties with friends, neighbors, co-workers or family members",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "neighbors",
+    "argMentionid" : "fsh_29630-E41-203",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "fsh_29630-R4",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29630-E12-96",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "fsh_29630-R4-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "Do you go to a lot of parties with friends , neighbors , co-workers or family members ?",
+  "sentence_index" : 3,
+  "Tokens" : [ "Do", "you", "go", "to", "a", "lot", "of", "parties", "with", "friends", ",", "neighbors", ",", "co-workers", "or", "family", "members", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Do you go to a lot of parties with friends, neighbors, co-workers or family members",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "family members",
+    "argMentionid" : "fsh_29630-E29-245",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "fsh_29630-R5",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29630-E12-96",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "fsh_29630-R5-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Do you go to a lot of parties with friends , neighbors , co-workers or family members ?",
+  "sentence_index" : 3,
+  "Tokens" : [ "Do", "you", "go", "to", "a", "lot", "of", "parties", "with", "friends", ",", "neighbors", ",", "co-workers", "or", "family", "members", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Do you travel to meet up with family or friends during the holidays",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "family",
+    "argMentionid" : "fsh_29630-E29-252",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "fsh_29630-R5",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29630-E12-249",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "fsh_29630-R5-2",
+  "relationSubType" : "Family",
+  "Sentence" : "Do you travel to meet up with family or friends during the holidays ?",
+  "sentence_index" : 5,
+  "Tokens" : [ "Do", "you", "travel", "to", "meet", "up", "with", "family", "or", "friends", "during", "the", "holidays", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Do you go to a lot of parties with friends, neighbors, co-workers or family members",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "co-workers",
+    "argMentionid" : "fsh_29630-E47-244",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "fsh_29630-R6",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29630-E12-96",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "fsh_29630-R6-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Do you go to a lot of parties with friends , neighbors , co-workers or family members ?",
+  "sentence_index" : 3,
+  "Tokens" : [ "Do", "you", "go", "to", "a", "lot", "of", "parties", "with", "friends", ",", "neighbors", ",", "co-workers", "or", "family", "members", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our church",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "our church",
+    "argMentionid" : "fsh_29630-E5-18",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "fsh_29630-R7",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "fsh_29630-E2-19",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "fsh_29630-R7-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Ryan Um , actually , usually we 're out of town so we do n't attend our church .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Ryan", "Um", ",", "actually", ",", "usually", "we", "'re", "out", "of", "town", "so", "we", "do", "n't", "attend", "our", "church", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my grandma",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "my grandma",
+    "argMentionid" : "fsh_29630-E6-25",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "fsh_29630-R8",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29630-E51-26",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "fsh_29630-R8-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Ryan It 's almost always my grandma .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Ryan", "It", "'s", "almost", "always", "my", "grandma", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "your grandma",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "your grandma",
+    "argMentionid" : "fsh_29630-E6-33",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "fsh_29630-R8",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29630-E51-34",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "fsh_29630-R8-2",
+  "relationSubType" : "Family",
+  "Sentence" : "Deirdre Your gran- you go to your grandma 's house .",
+  "sentence_index" : 22,
+  "Tokens" : [ "Deirdre", "Your", "gran-", "you", "go", "to", "your", "grandma", "'s", "house", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "your grandma's house",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "your grandma's house",
+    "argMentionid" : "fsh_29630-E7-32",
+    "start" : 6,
+    "end" : 9
+  },
+  "relationID" : "fsh_29630-R9",
+  "mentionArg1" : {
+    "extent" : "your grandma",
+    "argMentionid" : "fsh_29630-E6-33",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "fsh_29630-R9-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Deirdre Your gran- you go to your grandma 's house .",
+  "sentence_index" : 22,
+  "Tokens" : [ "Deirdre", "Your", "gran-", "you", "go", "to", "your", "grandma", "'s", "house", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my family",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "my family",
+    "argMentionid" : "fsh_29630-E46-250",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "fsh_29630-R10",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29630-E1-10",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "fsh_29630-R10-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Uh , my family -- celebrates the sun shining .",
+  "sentence_index" : 26,
+  "Tokens" : [ "Uh", ",", "my", "family", "--", "celebrates", "the", "sun", "shining", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my family",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "my family",
+    "argMentionid" : "fsh_29630-E46-47",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "fsh_29630-R10",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29630-E1-48",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "fsh_29630-R10-2",
+  "relationSubType" : "Family",
+  "Sentence" : "Just- -- I do n't know , it's- -- there 's just so much of my family I can take during one year , you know , but- Ryan Well , um , since they see each other so much , is there anything that does make it special ?",
+  "sentence_index" : 34,
+  "Tokens" : [ "Just-", "--", "I", "do", "n't", "know", ",", "it's-", "--", "there", "'s", "just", "so", "much", "of", "my", "family", "I", "can", "take", "during", "one", "year", ",", "you", "know", ",", "but-", "Ryan", "Well", ",", "um", ",", "since", "they", "see", "each", "other", "so", "much", ",", "is", "there", "anything", "that", "does", "make", "it", "special", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my relatives",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "my relatives",
+    "argMentionid" : "fsh_29630-E46-101",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "fsh_29630-R10",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29630-E1-102",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "fsh_29630-R10-3",
+  "relationSubType" : "Family",
+  "Sentence" : "You go and you stay twelve hours -- because most of my relatives live within thirty minutes of each other , Ryan (( Ye- )) Deirdre so it 's easy .",
+  "sentence_index" : 49,
+  "Tokens" : [ "You", "go", "and", "you", "stay", "twelve", "hours", "--", "because", "most", "of", "my", "relatives", "live", "within", "thirty", "minutes", "of", "each", "other", ",", "Ryan", "((", "Ye-", "))", "Deirdre", "so", "it", "'s", "easy", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "A particular person's house",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "A particular person's house",
+    "argMentionid" : "fsh_29630-E9-37",
+    "start" : 0,
+    "end" : 4
+  },
+  "relationID" : "fsh_29630-R11",
+  "mentionArg1" : {
+    "extent" : "A particular person",
+    "argMentionid" : "fsh_29630-E10-38",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "fsh_29630-R11-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "A particular person 's house every holiday season .",
+  "sentence_index" : 30,
+  "Tokens" : [ "A", "particular", "person", "'s", "house", "every", "holiday", "season", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a particular person's house",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "a particular person's house",
+    "argMentionid" : "fsh_29630-E9-41",
+    "start" : 27,
+    "end" : 31
+  },
+  "relationID" : "fsh_29630-R11",
+  "mentionArg1" : {
+    "extent" : "a particular person",
+    "argMentionid" : "fsh_29630-E10-43",
+    "start" : 27,
+    "end" : 29
+  },
+  "id" : "fsh_29630-R11-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "You know , whether it 's Christmas or -- Thanksgiving or Mother 's Day or Easter , it just alternates it- you know , each- uh , a particular person 's house is- is how they do it .",
+  "sentence_index" : 31,
+  "Tokens" : [ "You", "know", ",", "whether", "it", "'s", "Christmas", "or", "--", "Thanksgiving", "or", "Mother", "'s", "Day", "or", "Easter", ",", "it", "just", "alternates", "it-", "you", "know", ",", "each-", "uh", ",", "a", "particular", "person", "'s", "house", "is-", "is", "how", "they", "do", "it", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "your mother",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "your mother",
+    "argMentionid" : "fsh_29630-E13-69",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "fsh_29630-R12",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29630-E11-70",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "fsh_29630-R12-1",
+  "relationSubType" : "Family",
+  "Sentence" : "I mean , you know , not like , you 're seeing your mother -- or your sister , maybe your brothers , you know , you- you might- you may see them all the time , but when you see your aunts and uncles and all your cousins -- all the time , where 's the break here ?",
+  "sentence_index" : 42,
+  "Tokens" : [ "I", "mean", ",", "you", "know", ",", "not", "like", ",", "you", "'re", "seeing", "your", "mother", "--", "or", "your", "sister", ",", "maybe", "your", "brothers", ",", "you", "know", ",", "you-", "you", "might-", "you", "may", "see", "them", "all", "the", "time", ",", "but", "when", "you", "see", "your", "aunts", "and", "uncles", "and", "all", "your", "cousins", "--", "all", "the", "time", ",", "where", "'s", "the", "break", "here", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "your sister",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "your sister",
+    "argMentionid" : "fsh_29630-E14-71",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "fsh_29630-R13",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29630-E11-72",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "fsh_29630-R13-1",
+  "relationSubType" : "Family",
+  "Sentence" : "I mean , you know , not like , you 're seeing your mother -- or your sister , maybe your brothers , you know , you- you might- you may see them all the time , but when you see your aunts and uncles and all your cousins -- all the time , where 's the break here ?",
+  "sentence_index" : 42,
+  "Tokens" : [ "I", "mean", ",", "you", "know", ",", "not", "like", ",", "you", "'re", "seeing", "your", "mother", "--", "or", "your", "sister", ",", "maybe", "your", "brothers", ",", "you", "know", ",", "you-", "you", "might-", "you", "may", "see", "them", "all", "the", "time", ",", "but", "when", "you", "see", "your", "aunts", "and", "uncles", "and", "all", "your", "cousins", "--", "all", "the", "time", ",", "where", "'s", "the", "break", "here", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "your brothers",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "your brothers",
+    "argMentionid" : "fsh_29630-E15-73",
+    "start" : 20,
+    "end" : 21
+  },
+  "relationID" : "fsh_29630-R14",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29630-E11-74",
+    "start" : 20,
+    "end" : 20
+  },
+  "id" : "fsh_29630-R14-1",
+  "relationSubType" : "Family",
+  "Sentence" : "I mean , you know , not like , you 're seeing your mother -- or your sister , maybe your brothers , you know , you- you might- you may see them all the time , but when you see your aunts and uncles and all your cousins -- all the time , where 's the break here ?",
+  "sentence_index" : 42,
+  "Tokens" : [ "I", "mean", ",", "you", "know", ",", "not", "like", ",", "you", "'re", "seeing", "your", "mother", "--", "or", "your", "sister", ",", "maybe", "your", "brothers", ",", "you", "know", ",", "you-", "you", "might-", "you", "may", "see", "them", "all", "the", "time", ",", "but", "when", "you", "see", "your", "aunts", "and", "uncles", "and", "all", "your", "cousins", "--", "all", "the", "time", ",", "where", "'s", "the", "break", "here", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "your aunts and uncles",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "your aunts and uncles",
+    "argMentionid" : "fsh_29630-E18-82",
+    "start" : 41,
+    "end" : 44
+  },
+  "relationID" : "fsh_29630-R15",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29630-E11-84",
+    "start" : 41,
+    "end" : 41
+  },
+  "id" : "fsh_29630-R15-1",
+  "relationSubType" : "Family",
+  "Sentence" : "I mean , you know , not like , you 're seeing your mother -- or your sister , maybe your brothers , you know , you- you might- you may see them all the time , but when you see your aunts and uncles and all your cousins -- all the time , where 's the break here ?",
+  "sentence_index" : 42,
+  "Tokens" : [ "I", "mean", ",", "you", "know", ",", "not", "like", ",", "you", "'re", "seeing", "your", "mother", "--", "or", "your", "sister", ",", "maybe", "your", "brothers", ",", "you", "know", ",", "you-", "you", "might-", "you", "may", "see", "them", "all", "the", "time", ",", "but", "when", "you", "see", "your", "aunts", "and", "uncles", "and", "all", "your", "cousins", "--", "all", "the", "time", ",", "where", "'s", "the", "break", "here", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "your aunts and uncles",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "your aunts and uncles",
+    "argMentionid" : "fsh_29630-E19-83",
+    "start" : 41,
+    "end" : 44
+  },
+  "relationID" : "fsh_29630-R16",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29630-E11-84",
+    "start" : 41,
+    "end" : 41
+  },
+  "id" : "fsh_29630-R16-1",
+  "relationSubType" : "Family",
+  "Sentence" : "I mean , you know , not like , you 're seeing your mother -- or your sister , maybe your brothers , you know , you- you might- you may see them all the time , but when you see your aunts and uncles and all your cousins -- all the time , where 's the break here ?",
+  "sentence_index" : 42,
+  "Tokens" : [ "I", "mean", ",", "you", "know", ",", "not", "like", ",", "you", "'re", "seeing", "your", "mother", "--", "or", "your", "sister", ",", "maybe", "your", "brothers", ",", "you", "know", ",", "you-", "you", "might-", "you", "may", "see", "them", "all", "the", "time", ",", "but", "when", "you", "see", "your", "aunts", "and", "uncles", "and", "all", "your", "cousins", "--", "all", "the", "time", ",", "where", "'s", "the", "break", "here", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "all your cousins",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "all your cousins",
+    "argMentionid" : "fsh_29630-E20-85",
+    "start" : 46,
+    "end" : 48
+  },
+  "relationID" : "fsh_29630-R17",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29630-E11-86",
+    "start" : 47,
+    "end" : 47
+  },
+  "id" : "fsh_29630-R17-1",
+  "relationSubType" : "Family",
+  "Sentence" : "I mean , you know , not like , you 're seeing your mother -- or your sister , maybe your brothers , you know , you- you might- you may see them all the time , but when you see your aunts and uncles and all your cousins -- all the time , where 's the break here ?",
+  "sentence_index" : 42,
+  "Tokens" : [ "I", "mean", ",", "you", "know", ",", "not", "like", ",", "you", "'re", "seeing", "your", "mother", "--", "or", "your", "sister", ",", "maybe", "your", "brothers", ",", "you", "know", ",", "you-", "you", "might-", "you", "may", "see", "them", "all", "the", "time", ",", "but", "when", "you", "see", "your", "aunts", "and", "uncles", "and", "all", "your", "cousins", "--", "all", "the", "time", ",", "where", "'s", "the", "break", "here", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "someone's house",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "someone's house",
+    "argMentionid" : "fsh_29630-E22-104",
+    "start" : 7,
+    "end" : 9
+  },
+  "relationID" : "fsh_29630-R19",
+  "mentionArg1" : {
+    "extent" : "someone",
+    "argMentionid" : "fsh_29630-E23-106",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "fsh_29630-R19-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "It 's easy just to go to someone 's house .",
+  "sentence_index" : 52,
+  "Tokens" : [ "It", "'s", "easy", "just", "to", "go", "to", "someone", "'s", "house", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my mom",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "my mom",
+    "argMentionid" : "fsh_29630-E24-107",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "fsh_29630-R20",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29630-E51-108",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "fsh_29630-R20-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Ryan Well , sounds a lot like my mom 's side of the family because they 're all in one city except for Deirdre And- Ryan except for her and , uh , us .",
+  "sentence_index" : 53,
+  "Tokens" : [ "Ryan", "Well", ",", "sounds", "a", "lot", "like", "my", "mom", "'s", "side", "of", "the", "family", "because", "they", "'re", "all", "in", "one", "city", "except", "for", "Deirdre", "And-", "Ryan", "except", "for", "her", "and", ",", "uh", ",", "us", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Um, actually, usually we're out of town so we don't attend our church",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "town",
+    "argMentionid" : "fsh_29630-E40-217",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "fsh_29630-R21",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "fsh_29630-E2-13",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "fsh_29630-R21-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Ryan Um , actually , usually we 're out of town so we do n't attend our church .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Ryan", "Um", ",", "actually", ",", "usually", "we", "'re", "out", "of", "town", "so", "we", "do", "n't", "attend", "our", "church", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my cousin",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "my cousin",
+    "argMentionid" : "fsh_29630-E27-118",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "fsh_29630-R22",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29630-E51-119",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "fsh_29630-R22-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Ryan I think I would rather be , but then again -- I talk to my cousin and I 'm always asking her how my other cousins are doing and -- she hardly knows because she has- hardly sees them every day .",
+  "sentence_index" : 55,
+  "Tokens" : [ "Ryan", "I", "think", "I", "would", "rather", "be", ",", "but", "then", "again", "--", "I", "talk", "to", "my", "cousin", "and", "I", "'m", "always", "asking", "her", "how", "my", "other", "cousins", "are", "doing", "and", "--", "she", "hardly", "knows", "because", "she", "has-", "hardly", "sees", "them", "every", "day", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my other cousins",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "my other cousins",
+    "argMentionid" : "fsh_29630-E28-122",
+    "start" : 24,
+    "end" : 26
+  },
+  "relationID" : "fsh_29630-R23",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29630-E51-123",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "fsh_29630-R23-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Ryan I think I would rather be , but then again -- I talk to my cousin and I 'm always asking her how my other cousins are doing and -- she hardly knows because she has- hardly sees them every day .",
+  "sentence_index" : 55,
+  "Tokens" : [ "Ryan", "I", "think", "I", "would", "rather", "be", ",", "but", "then", "again", "--", "I", "talk", "to", "my", "cousin", "and", "I", "'m", "always", "asking", "her", "how", "my", "other", "cousins", "are", "doing", "and", "--", "she", "hardly", "knows", "because", "she", "has-", "hardly", "sees", "them", "every", "day", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "my house",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "my house",
+    "argMentionid" : "fsh_29630-E33-156",
+    "start" : 37,
+    "end" : 38
+  },
+  "relationID" : "fsh_29630-R24",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29630-E1-157",
+    "start" : 37,
+    "end" : 37
+  },
+  "id" : "fsh_29630-R24-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Now , I 'm not so big on Christi- I mean , I was- I was raised Christian , uh , but , uh , and I did n't put too much , you know , in my house with my kids -- but my daught- , she 's just -- you know , she get 's into it .",
+  "sentence_index" : 64,
+  "Tokens" : [ "Now", ",", "I", "'m", "not", "so", "big", "on", "Christi-", "I", "mean", ",", "I", "was-", "I", "was", "raised", "Christian", ",", "uh", ",", "but", ",", "uh", ",", "and", "I", "did", "n't", "put", "too", "much", ",", "you", "know", ",", "in", "my", "house", "with", "my", "kids", "--", "but", "my", "daught-", ",", "she", "'s", "just", "--", "you", "know", ",", "she", "get", "'s", "into", "it", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my kids",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "my kids",
+    "argMentionid" : "fsh_29630-E34-158",
+    "start" : 40,
+    "end" : 41
+  },
+  "relationID" : "fsh_29630-R25",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29630-E1-159",
+    "start" : 40,
+    "end" : 40
+  },
+  "id" : "fsh_29630-R25-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Now , I 'm not so big on Christi- I mean , I was- I was raised Christian , uh , but , uh , and I did n't put too much , you know , in my house with my kids -- but my daught- , she 's just -- you know , she get 's into it .",
+  "sentence_index" : 64,
+  "Tokens" : [ "Now", ",", "I", "'m", "not", "so", "big", "on", "Christi-", "I", "mean", ",", "I", "was-", "I", "was", "raised", "Christian", ",", "uh", ",", "but", ",", "uh", ",", "and", "I", "did", "n't", "put", "too", "much", ",", "you", "know", ",", "in", "my", "house", "with", "my", "kids", "--", "but", "my", "daught-", ",", "she", "'s", "just", "--", "you", "know", ",", "she", "get", "'s", "into", "it", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "her room",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "her room",
+    "argMentionid" : "fsh_29630-E38-173",
+    "start" : 28,
+    "end" : 29
+  },
+  "relationID" : "fsh_29630-R26",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "fsh_29630-E35-174",
+    "start" : 28,
+    "end" : 28
+  },
+  "id" : "fsh_29630-R26-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "She 's gets into the holiday spirit and wants every light , you know , in the city on our house and , you know , tree in her room , that kind of thing .",
+  "sentence_index" : 66,
+  "Tokens" : [ "She", "'s", "gets", "into", "the", "holiday", "spirit", "and", "wants", "every", "light", ",", "you", "know", ",", "in", "the", "city", "on", "our", "house", "and", ",", "you", "know", ",", "tree", "in", "her", "room", ",", "that", "kind", "of", "thing", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my grandmother",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "my grandmother",
+    "argMentionid" : "fsh_29630-E42-8",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "fsh_29630-R27",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29630-E1-194",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "fsh_29630-R27-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Deirdre eh , I used to , um , celebrate it with my grandmother -- and we 'd always have a midnight service at church .",
+  "sentence_index" : 76,
+  "Tokens" : [ "Deirdre", "eh", ",", "I", "used", "to", ",", "um", ",", "celebrate", "it", "with", "my", "grandmother", "--", "and", "we", "'d", "always", "have", "a", "midnight", "service", "at", "church", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "eh, I used to, um,  celebrate it with my grandmother -- and we'd always have a midnight service at church",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "church",
+    "argMentionid" : "fsh_29630-E44-221",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "fsh_29630-R28",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "fsh_29630-E46-195",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "fsh_29630-R28-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Deirdre eh , I used to , um , celebrate it with my grandmother -- and we 'd always have a midnight service at church .",
+  "sentence_index" : 76,
+  "Tokens" : [ "Deirdre", "eh", ",", "I", "used", "to", ",", "um", ",", "celebrate", "it", "with", "my", "grandmother", "--", "and", "we", "'d", "always", "have", "a", "midnight", "service", "at", "church", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "So you go with, um,  family, friends",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "friends",
+    "argMentionid" : "fsh_29630-E39-22",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "fsh_29630-R29",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29630-E51-20",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "fsh_29630-R29-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "Deirdre So you go with , um , family , friends ?",
+  "sentence_index" : 18,
+  "Tokens" : [ "Deirdre", "So", "you", "go", "with", ",", "um", ",", "family", ",", "friends", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "It's not like you just go and eat dinner a couple of hours and go home",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "home",
+    "argMentionid" : "fsh_29630-E43-219",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "fsh_29630-R30",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29630-E11-95",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "fsh_29630-R30-1",
+  "relationSubType" : "Located",
+  "Sentence" : "It 's not like you just go and eat dinner a couple of hours and go home .",
+  "sentence_index" : 48,
+  "Tokens" : [ "It", "'s", "not", "like", "you", "just", "go", "and", "eat", "dinner", "a", "couple", "of", "hours", "and", "go", "home", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "your relative",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "your relative",
+    "argMentionid" : "fsh_29630-E31-141",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "fsh_29630-R31",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29630-E11-142",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "fsh_29630-R31-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Deirdre as your relative , you know .",
+  "sentence_index" : 61,
+  "Tokens" : [ "Deirdre", "as", "your", "relative", ",", "you", "know", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "our house",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "our house",
+    "argMentionid" : "fsh_29630-E33-170",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "fsh_29630-R37",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "fsh_29630-E37-171",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "fsh_29630-R37-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "She 's gets into the holiday spirit and wants every light , you know , in the city on our house and , you know , tree in her room , that kind of thing .",
+  "sentence_index" : 66,
+  "Tokens" : [ "She", "'s", "gets", "into", "the", "holiday", "spirit", "and", "wants", "every", "light", ",", "you", "know", ",", "in", "the", "city", "on", "our", "house", "and", ",", "you", "know", ",", "tree", "in", "her", "room", ",", "that", "kind", "of", "thing", "." ]
+} ]

@@ -1,0 +1,89 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "I have 2 girls already, nearly 8 and 4.5 yrs and I have always said I will NEVER forget the pain of childbirth",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "2 girls",
+    "argMentionid" : "misc.kids.pregnancy_20050120.0404-E12-39",
+    "start" : 20,
+    "end" : 21
+  },
+  "relationID" : "misc.kids.pregnancy_20050120.0404-R1",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "misc.kids.pregnancy_20050120.0404-E11-1",
+    "start" : 18,
+    "end" : 18
+  },
+  "id" : "misc.kids.pregnancy_20050120.0404-R1-1",
+  "relationSubType" : "Family",
+  "Sentence" : "The Pain of Childbirth Anna Mc Thu , 20 Jan 2005 10:04:19 + 0100 The Pain of Childbirth I have 2 girls already , nearly 8 and 4.5 yrs and I have always said I will NEVER forget the pain of childbirth .",
+  "sentence_index" : 0,
+  "Tokens" : [ "The", "Pain", "of", "Childbirth", "Anna", "Mc", "Thu", ",", "20", "Jan", "2005", "10:04:19", "+", "0100", "The", "Pain", "of", "Childbirth", "I", "have", "2", "girls", "already", ",", "nearly", "8", "and", "4.5", "yrs", "and", "I", "have", "always", "said", "I", "will", "NEVER", "forget", "the", "pain", "of", "childbirth", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Abby was a true water birth (3kg - normal) and with Fiona I was dragged out of the pool after the head crowned (gyno had written on my notes she was 4kg (large) and that she was not to be born in the water (long painful story!) I can still remember though the pain I felt",
+  "sentence_length" : 65,
+  "mentionArg2" : {
+    "extent" : "the pool",
+    "argMentionid" : "misc.kids.pregnancy_20050120.0404-E15-45",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "misc.kids.pregnancy_20050120.0404-R2",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "misc.kids.pregnancy_20050120.0404-E11-44",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "misc.kids.pregnancy_20050120.0404-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Abby was a true water birth ( 3kg - normal ) and with Fiona I was dragged out of the pool after the head crowned ( gyno had written on my notes she was 4kg ( large ) and that she was not to be born in the water ( long painful story ! ) I can still remember though the pain I felt .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Abby", "was", "a", "true", "water", "birth", "(", "3kg", "-", "normal", ")", "and", "with", "Fiona", "I", "was", "dragged", "out", "of", "the", "pool", "after", "the", "head", "crowned", "(", "gyno", "had", "written", "on", "my", "notes", "she", "was", "4kg", "(", "large", ")", "and", "that", "she", "was", "not", "to", "be", "born", "in", "the", "water", "(", "long", "painful", "story", "!", ")", "I", "can", "still", "remember", "though", "the", "pain", "I", "felt", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "If you don't have an institutional water birth available, have you considered just staying home",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "home",
+    "argMentionid" : "misc.kids.pregnancy_20050120.0404-E2-10",
+    "start" : 33,
+    "end" : 33
+  },
+  "relationID" : "misc.kids.pregnancy_20050120.0404-R3",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "misc.kids.pregnancy_20050120.0404-E11-8",
+    "start" : 18,
+    "end" : 18
+  },
+  "id" : "misc.kids.pregnancy_20050120.0404-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Anna Mc Dagny Thu , 20 Jan 2005 06:08:30 - 0500 Re : The Pain of Childbirth If you do n't have an institutional water birth available , have you considered just staying home ?",
+  "sentence_index" : 8,
+  "Tokens" : [ "Anna", "Mc", "Dagny", "Thu", ",", "20", "Jan", "2005", "06:08:30", "-", "0500", "Re", ":", "The", "Pain", "of", "Childbirth", "If", "you", "do", "n't", "have", "an", "institutional", "water", "birth", "available", ",", "have", "you", "considered", "just", "staying", "home", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "If you go for a home birth you can rent a birthing pool",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "a birthing pool",
+    "argMentionid" : "misc.kids.pregnancy_20050120.0404-E6-21",
+    "start" : 26,
+    "end" : 28
+  },
+  "relationID" : "misc.kids.pregnancy_20050120.0404-R4",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "misc.kids.pregnancy_20050120.0404-E11-24",
+    "start" : 23,
+    "end" : 23
+  },
+  "id" : "misc.kids.pregnancy_20050120.0404-R4-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "-- Dagny Welches Thu , 20 Jan 2005 15:52:49 GMT Re : The Pain of Childbirth If you go for a home birth you can rent a birthing pool .",
+  "sentence_index" : 16,
+  "Tokens" : [ "--", "Dagny", "Welches", "Thu", ",", "20", "Jan", "2005", "15:52:49", "GMT", "Re", ":", "The", "Pain", "of", "Childbirth", "If", "you", "go", "for", "a", "home", "birth", "you", "can", "rent", "a", "birthing", "pool", "." ]
+} ]

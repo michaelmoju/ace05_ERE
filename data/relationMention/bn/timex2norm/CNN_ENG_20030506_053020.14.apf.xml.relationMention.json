@@ -1,0 +1,221 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "our founder here at cnn, ted turner, has sold more than half 0 his stake in aol time warner",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "aol time warner",
+    "argMentionid" : "CNN_ENG_20030506_053020.14-E20-119",
+    "start" : 18,
+    "end" : 20
+  },
+  "relationID" : "CNN_ENG_20030506_053020.14-R1",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_ENG_20030506_053020.14-E3-118",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "CNN_ENG_20030506_053020.14-R1-1",
+  "relationSubType" : "Investor-Shareholder",
+  "Sentence" : "our founder here at cnn , ted turner , has sold more than half 0 his stake in aol time warner. that 's a lot of shares and a lot of money. andy serwer 's look into that and the mark muz. if you 're investing , why now ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "our", "founder", "here", "at", "cnn", ",", "ted", "turner", ",", "has", "sold", "more", "than", "half", "0", "his", "stake", "in", "aol", "time", "warner.", "that", "'s", "a", "lot", "of", "shares", "and", "a", "lot", "of", "money.", "andy", "serwer", "'s", "look", "into", "that", "and", "the", "mark", "muz.", "if", "you", "'re", "investing", ",", "why", "now", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "chitchat in the time life building here at aol and all over wall street, ted turner selling 60 million shares for $800 million, more than half of his stake in the company, he opens 40 million plus now",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "the company",
+    "argMentionid" : "CNN_ENG_20030506_053020.14-E20-128",
+    "start" : 32,
+    "end" : 33
+  },
+  "relationID" : "CNN_ENG_20030506_053020.14-R1",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_ENG_20030506_053020.14-E3-127",
+    "start" : 29,
+    "end" : 29
+  },
+  "id" : "CNN_ENG_20030506_053020.14-R1-2",
+  "relationSubType" : "Investor-Shareholder",
+  "Sentence" : "chitchat in the time life building here at aol and all over wall street , ted turner selling 60 million shares for $800 million , more than half of his stake in the company , he opens 40 million plus now. question is , why ?",
+  "sentence_index" : 1,
+  "Tokens" : [ "chitchat", "in", "the", "time", "life", "building", "here", "at", "aol", "and", "all", "over", "wall", "street", ",", "ted", "turner", "selling", "60", "million", "shares", "for", "$800", "million", ",", "more", "than", "half", "of", "his", "stake", "in", "the", "company", ",", "he", "opens", "40", "million", "plus", "now.", "question", "is", ",", "why", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "interesting point here also, people are suggesting he may be raising this money to buy those atlanta sports teams that apparently are on the block",
+  "sentence_length" : 64,
+  "mentionArg2" : {
+    "extent" : "those atlanta sports teams that apparently are on the block",
+    "argMentionid" : "CNN_ENG_20030506_053020.14-E12-43",
+    "start" : 53,
+    "end" : 62
+  },
+  "relationID" : "CNN_ENG_20030506_053020.14-R2",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "CNN_ENG_20030506_053020.14-E3-42",
+    "start" : 45,
+    "end" : 45
+  },
+  "id" : "CNN_ENG_20030506_053020.14-R2-1",
+  "relationSubType" : "Ownership",
+  "Sentence" : "i think the stock will be weaker today. again , you know , the stock has drifted below $10. it 's been in the neighborhood for a while. i done see the thing going down a lot. interesting point here also , people are suggesting he may be raising this money to buy those atlanta sports teams that apparently are on the block .",
+  "sentence_index" : 10,
+  "Tokens" : [ "i", "think", "the", "stock", "will", "be", "weaker", "today.", "again", ",", "you", "know", ",", "the", "stock", "has", "drifted", "below", "$10.", "it", "'s", "been", "in", "the", "neighborhood", "for", "a", "while.", "i", "done", "see", "the", "thing", "going", "down", "a", "lot.", "interesting", "point", "here", "also", ",", "people", "are", "suggesting", "he", "may", "be", "raising", "this", "money", "to", "buy", "those", "atlanta", "sports", "teams", "that", "apparently", "are", "on", "the", "block", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our founder here at cnn",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_ENG_20030506_053020.14-E15-1",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_ENG_20030506_053020.14-R3",
+  "mentionArg1" : {
+    "extent" : "our founder here at cnn",
+    "argMentionid" : "CNN_ENG_20030506_053020.14-E3-116",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "CNN_ENG_20030506_053020.14-R3-1",
+  "relationSubType" : "Founder",
+  "Sentence" : "our founder here at cnn , ted turner , has sold more than half 0 his stake in aol time warner. that 's a lot of shares and a lot of money. andy serwer 's look into that and the mark muz. if you 're investing , why now ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "our", "founder", "here", "at", "cnn", ",", "ted", "turner", ",", "has", "sold", "more", "than", "half", "0", "his", "stake", "in", "aol", "time", "warner.", "that", "'s", "a", "lot", "of", "shares", "and", "a", "lot", "of", "money.", "andy", "serwer", "'s", "look", "into", "that", "and", "the", "mark", "muz.", "if", "you", "'re", "investing", ",", "why", "now", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "chitchat in the time life building here at aol and all over wall street, ted turner selling 60 million shares for $800 million, more than half of his stake in the company, he opens 40 million plus now",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "the time life building",
+    "argMentionid" : "CNN_ENG_20030506_053020.14-E46-122",
+    "start" : 2,
+    "end" : 5
+  },
+  "relationID" : "CNN_ENG_20030506_053020.14-R4",
+  "mentionArg1" : {
+    "extent" : "aol",
+    "argMentionid" : "CNN_ENG_20030506_053020.14-E20-124",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "CNN_ENG_20030506_053020.14-R4-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "chitchat in the time life building here at aol and all over wall street , ted turner selling 60 million shares for $800 million , more than half of his stake in the company , he opens 40 million plus now. question is , why ?",
+  "sentence_index" : 1,
+  "Tokens" : [ "chitchat", "in", "the", "time", "life", "building", "here", "at", "aol", "and", "all", "over", "wall", "street", ",", "ted", "turner", "selling", "60", "million", "shares", "for", "$800", "million", ",", "more", "than", "half", "of", "his", "stake", "in", "the", "company", ",", "he", "opens", "40", "million", "plus", "now.", "question", "is", ",", "why", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "an aol shareholder sitting at home, hearing this news",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "aol",
+    "argMentionid" : "CNN_ENG_20030506_053020.14-E20-61",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNN_ENG_20030506_053020.14-R5",
+  "mentionArg1" : {
+    "extent" : "an aol shareholder sitting at home, hearing this news",
+    "argMentionid" : "CNN_ENG_20030506_053020.14-E7-35",
+    "start" : 8,
+    "end" : 17
+  },
+  "id" : "CNN_ENG_20030506_053020.14-R5-1",
+  "relationSubType" : "Investor-Shareholder",
+  "Sentence" : "me , too. the question , i 'm an aol shareholder sitting at home , hearing this news , done this set off a few alarms ?",
+  "sentence_index" : 8,
+  "Tokens" : [ "me", ",", "too.", "the", "question", ",", "i", "'m", "an", "aol", "shareholder", "sitting", "at", "home", ",", "hearing", "this", "news", ",", "done", "this", "set", "off", "a", "few", "alarms", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the country's leading crusaders for morality",
+  "sentence_length" : 114,
+  "mentionArg2" : {
+    "extent" : "the country",
+    "argMentionid" : "CNN_ENG_20030506_053020.14-E26-74",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "CNN_ENG_20030506_053020.14-R6",
+  "mentionArg1" : {
+    "extent" : "the country's leading crusaders for morality",
+    "argMentionid" : "CNN_ENG_20030506_053020.14-E22-64",
+    "start" : 13,
+    "end" : 19
+  },
+  "id" : "CNN_ENG_20030506_053020.14-R6-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "$13 and change , out. talking about bill bennet this morning one of the country 's leading crusaders for morality author of \" virtues \" and admits he has a gambling problem. me he made the admission after bennett lost up to $8 million in casinos in the last decade. the articles say he won at times that he had $200,000 lines of credit at several laying casinos. gambling , however , is not one of of of the vices bennett thinks is undermining american culture. we want to hear from viewers this morning. he does say he 's going to stop. news of bill bennet 's gambling changed your opinion of him ?",
+  "sentence_index" : 18,
+  "Tokens" : [ "$13", "and", "change", ",", "out.", "talking", "about", "bill", "bennet", "this", "morning", "one", "of", "the", "country", "'s", "leading", "crusaders", "for", "morality", "author", "of", "\"", "virtues", "\"", "and", "admits", "he", "has", "a", "gambling", "problem.", "me", "he", "made", "the", "admission", "after", "bennett", "lost", "up", "to", "$8", "million", "in", "casinos", "in", "the", "last", "decade.", "the", "articles", "say", "he", "won", "at", "times", "that", "he", "had", "$200,000", "lines", "of", "credit", "at", "several", "laying", "casinos.", "gambling", ",", "however", ",", "is", "not", "one", "of", "of", "of", "the", "vices", "bennett", "thinks", "is", "undermining", "american", "culture.", "we", "want", "to", "hear", "from", "viewers", "this", "morning.", "he", "does", "say", "he", "'s", "going", "to", "stop.", "news", "of", "bill", "bennet", "'s", "gambling", "changed", "your", "opinion", "of", "him", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "those atlanta sports teams that apparently are on the block",
+  "sentence_length" : 64,
+  "mentionArg2" : {
+    "extent" : "atlanta",
+    "argMentionid" : "CNN_ENG_20030506_053020.14-E13-45",
+    "start" : 54,
+    "end" : 54
+  },
+  "relationID" : "CNN_ENG_20030506_053020.14-R7",
+  "mentionArg1" : {
+    "extent" : "those atlanta sports teams that apparently are on the block",
+    "argMentionid" : "CNN_ENG_20030506_053020.14-E12-43",
+    "start" : 53,
+    "end" : 62
+  },
+  "id" : "CNN_ENG_20030506_053020.14-R7-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "i think the stock will be weaker today. again , you know , the stock has drifted below $10. it 's been in the neighborhood for a while. i done see the thing going down a lot. interesting point here also , people are suggesting he may be raising this money to buy those atlanta sports teams that apparently are on the block .",
+  "sentence_index" : 10,
+  "Tokens" : [ "i", "think", "the", "stock", "will", "be", "weaker", "today.", "again", ",", "you", "know", ",", "the", "stock", "has", "drifted", "below", "$10.", "it", "'s", "been", "in", "the", "neighborhood", "for", "a", "while.", "i", "done", "see", "the", "thing", "going", "down", "a", "lot.", "interesting", "point", "here", "also", ",", "people", "are", "suggesting", "he", "may", "be", "raising", "this", "money", "to", "buy", "those", "atlanta", "sports", "teams", "that", "apparently", "are", "on", "the", "block", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "lawrence in missouri",
+  "sentence_length" : 107,
+  "mentionArg2" : {
+    "extent" : "missouri",
+    "argMentionid" : "CNN_ENG_20030506_053020.14-E33-95",
+    "start" : 45,
+    "end" : 45
+  },
+  "relationID" : "CNN_ENG_20030506_053020.14-R8",
+  "mentionArg1" : {
+    "extent" : "lawrence in missouri",
+    "argMentionid" : "CNN_ENG_20030506_053020.14-E32-94",
+    "start" : 43,
+    "end" : 45
+  },
+  "id" : "CNN_ENG_20030506_053020.14-R8-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "many , many responses. hypocrite would be a word present in many e-mails. hypocrite. barbara , bill bennet 's glam gambling loss changed my opinion. linda write his can do what he wants with his money. i thought he was smarter than that. lawrence in missouri , after sitting in front of my tv night after night , listening to him , watching every perversion , sin and evil known to man or beast , being glamourized by sitcoms and tv talking heads , imagine my shock in hearing that bill bennet being soundly condemned for gambling , is this the beginning of a new morality ?",
+  "sentence_index" : 19,
+  "Tokens" : [ "many", ",", "many", "responses.", "hypocrite", "would", "be", "a", "word", "present", "in", "many", "e-mails.", "hypocrite.", "barbara", ",", "bill", "bennet", "'s", "glam", "gambling", "loss", "changed", "my", "opinion.", "linda", "write", "his", "can", "do", "what", "he", "wants", "with", "his", "money.", "i", "thought", "he", "was", "smarter", "than", "that.", "lawrence", "in", "missouri", ",", "after", "sitting", "in", "front", "of", "my", "tv", "night", "after", "night", ",", "listening", "to", "him", ",", "watching", "every", "perversion", ",", "sin", "and", "evil", "known", "to", "man", "or", "beast", ",", "being", "glamourized", "by", "sitcoms", "and", "tv", "talking", "heads", ",", "imagine", "my", "shock", "in", "hearing", "that", "bill", "bennet", "being", "soundly", "condemned", "for", "gambling", ",", "is", "this", "the", "beginning", "of", "a", "new", "morality", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "chad new york",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "new york",
+    "argMentionid" : "CNN_ENG_20030506_053020.14-E36-102",
+    "start" : 1,
+    "end" : 2
+  },
+  "relationID" : "CNN_ENG_20030506_053020.14-R9",
+  "mentionArg1" : {
+    "extent" : "chad",
+    "argMentionid" : "CNN_ENG_20030506_053020.14-E35-101",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_ENG_20030506_053020.14-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "chad new york big deal. what have you done wrong this morning ?",
+  "sentence_index" : 20,
+  "Tokens" : [ "chad", "new", "york", "big", "deal.", "what", "have", "you", "done", "wrong", "this", "morning", "?" ]
+} ]

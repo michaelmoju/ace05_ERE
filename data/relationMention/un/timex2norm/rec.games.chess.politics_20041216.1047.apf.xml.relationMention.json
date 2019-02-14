@@ -1,0 +1,265 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "Everyone has heard the story: Beatriz Marinello was elected USCF President on August 11, 2003 in Los Angeles",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "Los Angeles",
+    "argMentionid" : "rec.games.chess.politics_20041216.1047-E16-108",
+    "start" : 57,
+    "end" : 58
+  },
+  "relationID" : "rec.games.chess.politics_20041216.1047-R1",
+  "mentionArg1" : {
+    "extent" : "Beatriz Marinello",
+    "argMentionid" : "rec.games.chess.politics_20041216.1047-E39-86",
+    "start" : 45,
+    "end" : 46
+  },
+  "id" : "rec.games.chess.politics_20041216.1047-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Turns out the August 2003 crisis was not a crisis Sam Sloan Thu , 16 Dec 2004 15:47:26 GMT Turns out the August 2003 crisis was not a crisis Turns out the August 2003 crisis was not a crisis Everyone has heard the story : Beatriz Marinello was elected USCF President on August 11 , 2003 in Los Angeles .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Turns", "out", "the", "August", "2003", "crisis", "was", "not", "a", "crisis", "Sam", "Sloan", "Thu", ",", "16", "Dec", "2004", "15:47:26", "GMT", "Turns", "out", "the", "August", "2003", "crisis", "was", "not", "a", "crisis", "Turns", "out", "the", "August", "2003", "crisis", "was", "not", "a", "crisis", "Everyone", "has", "heard", "the", "story", ":", "Beatriz", "Marinello", "was", "elected", "USCF", "President", "on", "August", "11", ",", "2003", "in", "Los", "Angeles", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the USCF Offices in New Windsor",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the USCF Offices in New Windsor",
+    "argMentionid" : "rec.games.chess.politics_20041216.1047-E12-117",
+    "start" : 12,
+    "end" : 17
+  },
+  "relationID" : "rec.games.chess.politics_20041216.1047-R2",
+  "mentionArg1" : {
+    "extent" : "USCF",
+    "argMentionid" : "rec.games.chess.politics_20041216.1047-E47-118",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "rec.games.chess.politics_20041216.1047-R2-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Therefore , on August 20 , 2003 , bravely Beatriz walked into the USCF Offices in New Windsor and immediately fired 17 staff members .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Therefore", ",", "on", "August", "20", ",", "2003", ",", "bravely", "Beatriz", "walked", "into", "the", "USCF", "Offices", "in", "New", "Windsor", "and", "immediately", "fired", "17", "staff", "members", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the USCF Offices in New Windsor",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "New Windsor",
+    "argMentionid" : "rec.games.chess.politics_20041216.1047-E54-119",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "rec.games.chess.politics_20041216.1047-R3",
+  "mentionArg1" : {
+    "extent" : "the USCF Offices in New Windsor",
+    "argMentionid" : "rec.games.chess.politics_20041216.1047-E12-117",
+    "start" : 12,
+    "end" : 17
+  },
+  "id" : "rec.games.chess.politics_20041216.1047-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Therefore , on August 20 , 2003 , bravely Beatriz walked into the USCF Offices in New Windsor and immediately fired 17 staff members .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Therefore", ",", "on", "August", "20", ",", "2003", ",", "bravely", "Beatriz", "walked", "into", "the", "USCF", "Offices", "in", "New", "Windsor", "and", "immediately", "fired", "17", "staff", "members", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Therefore, on August 20, 2003, bravely Beatriz walked into the USCF Offices in New Windsor and immediately fired 17 staff members",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the USCF Offices in New Windsor",
+    "argMentionid" : "rec.games.chess.politics_20041216.1047-E12-117",
+    "start" : 12,
+    "end" : 17
+  },
+  "relationID" : "rec.games.chess.politics_20041216.1047-R4",
+  "mentionArg1" : {
+    "extent" : "Beatriz",
+    "argMentionid" : "rec.games.chess.politics_20041216.1047-E39-116",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "rec.games.chess.politics_20041216.1047-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Therefore , on August 20 , 2003 , bravely Beatriz walked into the USCF Offices in New Windsor and immediately fired 17 staff members .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Therefore", ",", "on", "August", "20", ",", "2003", ",", "bravely", "Beatriz", "walked", "into", "the", "USCF", "Offices", "in", "New", "Windsor", "and", "immediately", "fired", "17", "staff", "members", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The office accountant for the USCF",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "the USCF",
+    "argMentionid" : "rec.games.chess.politics_20041216.1047-E47-22",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "rec.games.chess.politics_20041216.1047-R6",
+  "mentionArg1" : {
+    "extent" : "The office accountant for the USCF",
+    "argMentionid" : "rec.games.chess.politics_20041216.1047-E11-21",
+    "start" : 0,
+    "end" : 5
+  },
+  "id" : "rec.games.chess.politics_20041216.1047-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The office accountant for the USCF had set up a separate bank account and had put the entry fees from the US Open into that account .",
+  "sentence_index" : 11,
+  "Tokens" : [ "The", "office", "accountant", "for", "the", "USCF", "had", "set", "up", "a", "separate", "bank", "account", "and", "had", "put", "the", "entry", "fees", "from", "the", "US", "Open", "into", "that", "account", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "For this act of stupidity which had caused a grave crisis in the USCF, the accountant was immediately fired",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "the USCF",
+    "argMentionid" : "rec.games.chess.politics_20041216.1047-E47-33",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "rec.games.chess.politics_20041216.1047-R6",
+  "mentionArg1" : {
+    "extent" : "the accountant",
+    "argMentionid" : "rec.games.chess.politics_20041216.1047-E11-34",
+    "start" : 15,
+    "end" : 16
+  },
+  "id" : "rec.games.chess.politics_20041216.1047-R6-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "For this act of stupidity which had caused a grave crisis in the USCF , the accountant was immediately fired .",
+  "sentence_index" : 17,
+  "Tokens" : [ "For", "this", "act", "of", "stupidity", "which", "had", "caused", "a", "grave", "crisis", "in", "the", "USCF", ",", "the", "accountant", "was", "immediately", "fired", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the office staff",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "office",
+    "argMentionid" : "rec.games.chess.politics_20041216.1047-E12-61",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "rec.games.chess.politics_20041216.1047-R7",
+  "mentionArg1" : {
+    "extent" : "the office staff",
+    "argMentionid" : "rec.games.chess.politics_20041216.1047-E2-100",
+    "start" : 19,
+    "end" : 21
+  },
+  "id" : "rec.games.chess.politics_20041216.1047-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I just had no idea that the new Board would see it as leverage to seize power and pummel the office staff .",
+  "sentence_index" : 29,
+  "Tokens" : [ "I", "just", "had", "no", "idea", "that", "the", "new", "Board", "would", "see", "it", "as", "leverage", "to", "seize", "power", "and", "pummel", "the", "office", "staff", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I sat in New Windsor all weekend waiting for a phone call so I could answer EB questions and shed light on the situation",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "New Windsor",
+    "argMentionid" : "rec.games.chess.politics_20041216.1047-E54-84",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "rec.games.chess.politics_20041216.1047-R8",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "rec.games.chess.politics_20041216.1047-E17-83",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "rec.games.chess.politics_20041216.1047-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I sat in New Windsor all weekend waiting for a phone call so I could answer EB questions and shed light on the situation .",
+  "sentence_index" : 36,
+  "Tokens" : [ "I", "sat", "in", "New", "Windsor", "all", "weekend", "waiting", "for", "a", "phone", "call", "so", "I", "could", "answer", "EB", "questions", "and", "shed", "light", "on", "the", "situation", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a buyer for the building",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "the building",
+    "argMentionid" : "rec.games.chess.politics_20041216.1047-E22-67",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "rec.games.chess.politics_20041216.1047-R9",
+  "mentionArg1" : {
+    "extent" : "a buyer for the building",
+    "argMentionid" : "rec.games.chess.politics_20041216.1047-E23-66",
+    "start" : 3,
+    "end" : 7
+  },
+  "id" : "rec.games.chess.politics_20041216.1047-R9-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "We also had a buyer for the building at a prize much higher than it was eventually sold for and a commitment for 4 % bank financing in Crossville .",
+  "sentence_index" : 32,
+  "Tokens" : [ "We", "also", "had", "a", "buyer", "for", "the", "building", "at", "a", "prize", "much", "higher", "than", "it", "was", "eventually", "sold", "for", "and", "a", "commitment", "for", "4", "%", "bank", "financing", "in", "Crossville", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the people she had grown to dislike during the year that she worked for the USCF in 1999-2000",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "she",
+    "argMentionid" : "rec.games.chess.politics_20041216.1047-E39-9",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "rec.games.chess.politics_20041216.1047-R10",
+  "mentionArg1" : {
+    "extent" : "the people she had grown to dislike during the year that she worked for the USCF in 1999-2000",
+    "argMentionid" : "rec.games.chess.politics_20041216.1047-E1-8",
+    "start" : 16,
+    "end" : 33
+  },
+  "id" : "rec.games.chess.politics_20041216.1047-R10-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Of course , it was just a pure coincidence that the 17 people Beatriz fired were the people she had grown to dislike during the year that she worked for the USCF in 1999-2000 .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Of", "course", ",", "it", "was", "just", "a", "pure", "coincidence", "that", "the", "17", "people", "Beatriz", "fired", "were", "the", "people", "she", "had", "grown", "to", "dislike", "during", "the", "year", "that", "she", "worked", "for", "the", "USCF", "in", "1999-2000", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "USCF President",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "USCF",
+    "argMentionid" : "rec.games.chess.politics_20041216.1047-E47-107",
+    "start" : 49,
+    "end" : 49
+  },
+  "relationID" : "rec.games.chess.politics_20041216.1047-R12",
+  "mentionArg1" : {
+    "extent" : "USCF President",
+    "argMentionid" : "rec.games.chess.politics_20041216.1047-E39-99",
+    "start" : 49,
+    "end" : 50
+  },
+  "id" : "rec.games.chess.politics_20041216.1047-R12-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Turns out the August 2003 crisis was not a crisis Sam Sloan Thu , 16 Dec 2004 15:47:26 GMT Turns out the August 2003 crisis was not a crisis Turns out the August 2003 crisis was not a crisis Everyone has heard the story : Beatriz Marinello was elected USCF President on August 11 , 2003 in Los Angeles .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Turns", "out", "the", "August", "2003", "crisis", "was", "not", "a", "crisis", "Sam", "Sloan", "Thu", ",", "16", "Dec", "2004", "15:47:26", "GMT", "Turns", "out", "the", "August", "2003", "crisis", "was", "not", "a", "crisis", "Turns", "out", "the", "August", "2003", "crisis", "was", "not", "a", "crisis", "Everyone", "has", "heard", "the", "story", ":", "Beatriz", "Marinello", "was", "elected", "USCF", "President", "on", "August", "11", ",", "2003", "in", "Los", "Angeles", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Of course, it was just a pure coincidence that the 17 people Beatriz fired were the people she had grown to dislike during the year that she worked for the USCF in 1999-2000",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "the USCF",
+    "argMentionid" : "rec.games.chess.politics_20041216.1047-E47-11",
+    "start" : 30,
+    "end" : 31
+  },
+  "relationID" : "rec.games.chess.politics_20041216.1047-R12",
+  "mentionArg1" : {
+    "extent" : "she",
+    "argMentionid" : "rec.games.chess.politics_20041216.1047-E39-10",
+    "start" : 27,
+    "end" : 27
+  },
+  "id" : "rec.games.chess.politics_20041216.1047-R12-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Of course , it was just a pure coincidence that the 17 people Beatriz fired were the people she had grown to dislike during the year that she worked for the USCF in 1999-2000 .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Of", "course", ",", "it", "was", "just", "a", "pure", "coincidence", "that", "the", "17", "people", "Beatriz", "fired", "were", "the", "people", "she", "had", "grown", "to", "dislike", "during", "the", "year", "that", "she", "worked", "for", "the", "USCF", "in", "1999-2000", "." ]
+} ]

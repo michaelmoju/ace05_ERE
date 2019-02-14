@@ -1,0 +1,45 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "hamburg, germany",
+  "sentence_length" : 137,
+  "mentionArg2" : {
+    "extent" : "germany",
+    "argMentionid" : "CNN_ENG_20030408_123613.0-E16-17",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_ENG_20030408_123613.0-R1",
+  "mentionArg1" : {
+    "extent" : "hamburg, germany",
+    "argMentionid" : "CNN_ENG_20030408_123613.0-E15-1",
+    "start" : 2,
+    "end" : 4
+  },
+  "id" : "CNN_ENG_20030408_123613.0-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "* * hamburg , germany. central command says the iraqis shot down an a-10 tank killer today. officials report that the plane was apparently down with a surface to air missile. it happened near the baghdad airport which is in u . s. hands. pilot said they 're doing well. all right. u . s. marines entered southeastern baghdad today and found dozens of chemical suits masks and atropine injecters. they found it at an industrial complex. material has been haiftly abandon. the iraqi government reports 1252 civilians have been killed in the war. these figures come to us from abu dhabi television. they cannot be verified by cnn. the iraqi government has not released the information or military casualties at all. now back to wolf blitzer and our continuing coverage of the war in iraq .",
+  "sentence_index" : 0,
+  "Tokens" : [ "*", "*", "hamburg", ",", "germany.", "central", "command", "says", "the", "iraqis", "shot", "down", "an", "a-10", "tank", "killer", "today.", "officials", "report", "that", "the", "plane", "was", "apparently", "down", "with", "a", "surface", "to", "air", "missile.", "it", "happened", "near", "the", "baghdad", "airport", "which", "is", "in", "u", ".", "s.", "hands.", "pilot", "said", "they", "'re", "doing", "well.", "all", "right.", "u", ".", "s.", "marines", "entered", "southeastern", "baghdad", "today", "and", "found", "dozens", "of", "chemical", "suits", "masks", "and", "atropine", "injecters.", "they", "found", "it", "at", "an", "industrial", "complex.", "material", "has", "been", "haiftly", "abandon.", "the", "iraqi", "government", "reports", "1252", "civilians", "have", "been", "killed", "in", "the", "war.", "these", "figures", "come", "to", "us", "from", "abu", "dhabi", "television.", "they", "cannot", "be", "verified", "by", "cnn.", "the", "iraqi", "government", "has", "not", "released", "the", "information", "or", "military", "casualties", "at", "all.", "now", "back", "to", "wolf", "blitzer", "and", "our", "continuing", "coverage", "of", "the", "war", "in", "iraq", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "u.s. marines entered southeastern baghdad today and found dozens of chemical suits masks and atropine injecters",
+  "sentence_length" : 137,
+  "mentionArg2" : {
+    "extent" : "southeastern baghdad",
+    "argMentionid" : "CNN_ENG_20030408_123613.0-E2-2",
+    "start" : 57,
+    "end" : 58
+  },
+  "relationID" : "CNN_ENG_20030408_123613.0-R2",
+  "mentionArg1" : {
+    "extent" : "u.s. marines",
+    "argMentionid" : "CNN_ENG_20030408_123613.0-E25-29",
+    "start" : 52,
+    "end" : 55
+  },
+  "id" : "CNN_ENG_20030408_123613.0-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "* * hamburg , germany. central command says the iraqis shot down an a-10 tank killer today. officials report that the plane was apparently down with a surface to air missile. it happened near the baghdad airport which is in u . s. hands. pilot said they 're doing well. all right. u . s. marines entered southeastern baghdad today and found dozens of chemical suits masks and atropine injecters. they found it at an industrial complex. material has been haiftly abandon. the iraqi government reports 1252 civilians have been killed in the war. these figures come to us from abu dhabi television. they cannot be verified by cnn. the iraqi government has not released the information or military casualties at all. now back to wolf blitzer and our continuing coverage of the war in iraq .",
+  "sentence_index" : 0,
+  "Tokens" : [ "*", "*", "hamburg", ",", "germany.", "central", "command", "says", "the", "iraqis", "shot", "down", "an", "a-10", "tank", "killer", "today.", "officials", "report", "that", "the", "plane", "was", "apparently", "down", "with", "a", "surface", "to", "air", "missile.", "it", "happened", "near", "the", "baghdad", "airport", "which", "is", "in", "u", ".", "s.", "hands.", "pilot", "said", "they", "'re", "doing", "well.", "all", "right.", "u", ".", "s.", "marines", "entered", "southeastern", "baghdad", "today", "and", "found", "dozens", "of", "chemical", "suits", "masks", "and", "atropine", "injecters.", "they", "found", "it", "at", "an", "industrial", "complex.", "material", "has", "been", "haiftly", "abandon.", "the", "iraqi", "government", "reports", "1252", "civilians", "have", "been", "killed", "in", "the", "war.", "these", "figures", "come", "to", "us", "from", "abu", "dhabi", "television.", "they", "cannot", "be", "verified", "by", "cnn.", "the", "iraqi", "government", "has", "not", "released", "the", "information", "or", "military", "casualties", "at", "all.", "now", "back", "to", "wolf", "blitzer", "and", "our", "continuing", "coverage", "of", "the", "war", "in", "iraq", "." ]
+} ]

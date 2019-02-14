@@ -1,0 +1,485 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "ari fleischer expected to come into the west wing briefing room to brief reporters on a wide variety of subjekts",
+  "sentence_length" : 256,
+  "mentionArg2" : {
+    "extent" : "the west wing briefing room",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E33-50",
+    "start" : 18,
+    "end" : 22
+  },
+  "relationID" : "CNN_ENG_20030429_110706.7-R1",
+  "mentionArg1" : {
+    "extent" : "ari fleischer",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E32-49",
+    "start" : 12,
+    "end" : 13
+  },
+  "id" : "CNN_ENG_20030429_110706.7-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "welcome back. we 're standing by for the white house press briefing. ari fleischer expected to come into the west wing briefing room to brief reporters on a wide variety of subjekts. we 're all getting this note in , this news in from the speech that the homeland security secretary tom ridge is expected to be delivering at the international press club around 1:00 eastern at the top of the hour. we 're expecting that the homeland security secretary will announce the iraqi lawyer who provided information that helped in the rescue op private first class jessica lynch the former p . o . w . , that this iraqi lawyer , who provided the information to u . s. military authority ies has been granted asylum here in the united states , together with his wife and daughter. they 're currently in the washington , d . c. area. an official tells our justice producer terry frieden. so that development important. might get more information from secretary tom ridge when he delivers that speech over at the press club in the next hour. we 'll be monitoring that as well. we also have an update on that disturbing development outside baghdad. about 40 miles or so outside baghdad in fallujah where there was h a shootout between u . s. troops and iraqies who had been demonstrating there. karl penhaul is joining us life on the phone with more. first of all , karl , how many iraqis were killed in that incident ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "back.", "we", "'re", "standing", "by", "for", "the", "white", "house", "press", "briefing.", "ari", "fleischer", "expected", "to", "come", "into", "the", "west", "wing", "briefing", "room", "to", "brief", "reporters", "on", "a", "wide", "variety", "of", "subjekts.", "we", "'re", "all", "getting", "this", "note", "in", ",", "this", "news", "in", "from", "the", "speech", "that", "the", "homeland", "security", "secretary", "tom", "ridge", "is", "expected", "to", "be", "delivering", "at", "the", "international", "press", "club", "around", "1:00", "eastern", "at", "the", "top", "of", "the", "hour.", "we", "'re", "expecting", "that", "the", "homeland", "security", "secretary", "will", "announce", "the", "iraqi", "lawyer", "who", "provided", "information", "that", "helped", "in", "the", "rescue", "op", "private", "first", "class", "jessica", "lynch", "the", "former", "p", ".", "o", ".", "w", ".", ",", "that", "this", "iraqi", "lawyer", ",", "who", "provided", "the", "information", "to", "u", ".", "s.", "military", "authority", "ies", "has", "been", "granted", "asylum", "here", "in", "the", "united", "states", ",", "together", "with", "his", "wife", "and", "daughter.", "they", "'re", "currently", "in", "the", "washington", ",", "d", ".", "c.", "area.", "an", "official", "tells", "our", "justice", "producer", "terry", "frieden.", "so", "that", "development", "important.", "might", "get", "more", "information", "from", "secretary", "tom", "ridge", "when", "he", "delivers", "that", "speech", "over", "at", "the", "press", "club", "in", "the", "next", "hour.", "we", "'ll", "be", "monitoring", "that", "as", "well.", "we", "also", "have", "an", "update", "on", "that", "disturbing", "development", "outside", "baghdad.", "about", "40", "miles", "or", "so", "outside", "baghdad", "in", "fallujah", "where", "there", "was", "h", "a", "shootout", "between", "u", ".", "s.", "troops", "and", "iraqies", "who", "had", "been", "demonstrating", "there.", "karl", "penhaul", "is", "joining", "us", "life", "on", "the", "phone", "with", "more.", "first", "of", "all", ",", "karl", ",", "how", "many", "iraqis", "were", "killed", "in", "that", "incident", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the west wing briefing room",
+  "sentence_length" : 256,
+  "mentionArg2" : {
+    "extent" : "west wing",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E34-51",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "CNN_ENG_20030429_110706.7-R2",
+  "mentionArg1" : {
+    "extent" : "the west wing briefing room",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E33-50",
+    "start" : 18,
+    "end" : 22
+  },
+  "id" : "CNN_ENG_20030429_110706.7-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "welcome back. we 're standing by for the white house press briefing. ari fleischer expected to come into the west wing briefing room to brief reporters on a wide variety of subjekts. we 're all getting this note in , this news in from the speech that the homeland security secretary tom ridge is expected to be delivering at the international press club around 1:00 eastern at the top of the hour. we 're expecting that the homeland security secretary will announce the iraqi lawyer who provided information that helped in the rescue op private first class jessica lynch the former p . o . w . , that this iraqi lawyer , who provided the information to u . s. military authority ies has been granted asylum here in the united states , together with his wife and daughter. they 're currently in the washington , d . c. area. an official tells our justice producer terry frieden. so that development important. might get more information from secretary tom ridge when he delivers that speech over at the press club in the next hour. we 'll be monitoring that as well. we also have an update on that disturbing development outside baghdad. about 40 miles or so outside baghdad in fallujah where there was h a shootout between u . s. troops and iraqies who had been demonstrating there. karl penhaul is joining us life on the phone with more. first of all , karl , how many iraqis were killed in that incident ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "back.", "we", "'re", "standing", "by", "for", "the", "white", "house", "press", "briefing.", "ari", "fleischer", "expected", "to", "come", "into", "the", "west", "wing", "briefing", "room", "to", "brief", "reporters", "on", "a", "wide", "variety", "of", "subjekts.", "we", "'re", "all", "getting", "this", "note", "in", ",", "this", "news", "in", "from", "the", "speech", "that", "the", "homeland", "security", "secretary", "tom", "ridge", "is", "expected", "to", "be", "delivering", "at", "the", "international", "press", "club", "around", "1:00", "eastern", "at", "the", "top", "of", "the", "hour.", "we", "'re", "expecting", "that", "the", "homeland", "security", "secretary", "will", "announce", "the", "iraqi", "lawyer", "who", "provided", "information", "that", "helped", "in", "the", "rescue", "op", "private", "first", "class", "jessica", "lynch", "the", "former", "p", ".", "o", ".", "w", ".", ",", "that", "this", "iraqi", "lawyer", ",", "who", "provided", "the", "information", "to", "u", ".", "s.", "military", "authority", "ies", "has", "been", "granted", "asylum", "here", "in", "the", "united", "states", ",", "together", "with", "his", "wife", "and", "daughter.", "they", "'re", "currently", "in", "the", "washington", ",", "d", ".", "c.", "area.", "an", "official", "tells", "our", "justice", "producer", "terry", "frieden.", "so", "that", "development", "important.", "might", "get", "more", "information", "from", "secretary", "tom", "ridge", "when", "he", "delivers", "that", "speech", "over", "at", "the", "press", "club", "in", "the", "next", "hour.", "we", "'ll", "be", "monitoring", "that", "as", "well.", "we", "also", "have", "an", "update", "on", "that", "disturbing", "development", "outside", "baghdad.", "about", "40", "miles", "or", "so", "outside", "baghdad", "in", "fallujah", "where", "there", "was", "h", "a", "shootout", "between", "u", ".", "s.", "troops", "and", "iraqies", "who", "had", "been", "demonstrating", "there.", "karl", "penhaul", "is", "joining", "us", "life", "on", "the", "phone", "with", "more.", "first", "of", "all", ",", "karl", ",", "how", "many", "iraqis", "were", "killed", "in", "that", "incident", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "ari fleischer expected to come into the west wing briefing room to brief reporters on a wide variety of subjekts",
+  "sentence_length" : 256,
+  "mentionArg2" : {
+    "extent" : "the west wing briefing room",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E33-50",
+    "start" : 18,
+    "end" : 22
+  },
+  "relationID" : "CNN_ENG_20030429_110706.7-R3",
+  "mentionArg1" : {
+    "extent" : "reporters",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E35-52",
+    "start" : 25,
+    "end" : 25
+  },
+  "id" : "CNN_ENG_20030429_110706.7-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "welcome back. we 're standing by for the white house press briefing. ari fleischer expected to come into the west wing briefing room to brief reporters on a wide variety of subjekts. we 're all getting this note in , this news in from the speech that the homeland security secretary tom ridge is expected to be delivering at the international press club around 1:00 eastern at the top of the hour. we 're expecting that the homeland security secretary will announce the iraqi lawyer who provided information that helped in the rescue op private first class jessica lynch the former p . o . w . , that this iraqi lawyer , who provided the information to u . s. military authority ies has been granted asylum here in the united states , together with his wife and daughter. they 're currently in the washington , d . c. area. an official tells our justice producer terry frieden. so that development important. might get more information from secretary tom ridge when he delivers that speech over at the press club in the next hour. we 'll be monitoring that as well. we also have an update on that disturbing development outside baghdad. about 40 miles or so outside baghdad in fallujah where there was h a shootout between u . s. troops and iraqies who had been demonstrating there. karl penhaul is joining us life on the phone with more. first of all , karl , how many iraqis were killed in that incident ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "back.", "we", "'re", "standing", "by", "for", "the", "white", "house", "press", "briefing.", "ari", "fleischer", "expected", "to", "come", "into", "the", "west", "wing", "briefing", "room", "to", "brief", "reporters", "on", "a", "wide", "variety", "of", "subjekts.", "we", "'re", "all", "getting", "this", "note", "in", ",", "this", "news", "in", "from", "the", "speech", "that", "the", "homeland", "security", "secretary", "tom", "ridge", "is", "expected", "to", "be", "delivering", "at", "the", "international", "press", "club", "around", "1:00", "eastern", "at", "the", "top", "of", "the", "hour.", "we", "'re", "expecting", "that", "the", "homeland", "security", "secretary", "will", "announce", "the", "iraqi", "lawyer", "who", "provided", "information", "that", "helped", "in", "the", "rescue", "op", "private", "first", "class", "jessica", "lynch", "the", "former", "p", ".", "o", ".", "w", ".", ",", "that", "this", "iraqi", "lawyer", ",", "who", "provided", "the", "information", "to", "u", ".", "s.", "military", "authority", "ies", "has", "been", "granted", "asylum", "here", "in", "the", "united", "states", ",", "together", "with", "his", "wife", "and", "daughter.", "they", "'re", "currently", "in", "the", "washington", ",", "d", ".", "c.", "area.", "an", "official", "tells", "our", "justice", "producer", "terry", "frieden.", "so", "that", "development", "important.", "might", "get", "more", "information", "from", "secretary", "tom", "ridge", "when", "he", "delivers", "that", "speech", "over", "at", "the", "press", "club", "in", "the", "next", "hour.", "we", "'ll", "be", "monitoring", "that", "as", "well.", "we", "also", "have", "an", "update", "on", "that", "disturbing", "development", "outside", "baghdad.", "about", "40", "miles", "or", "so", "outside", "baghdad", "in", "fallujah", "where", "there", "was", "h", "a", "shootout", "between", "u", ".", "s.", "troops", "and", "iraqies", "who", "had", "been", "demonstrating", "there.", "karl", "penhaul", "is", "joining", "us", "life", "on", "the", "phone", "with", "more.", "first", "of", "all", ",", "karl", ",", "how", "many", "iraqis", "were", "killed", "in", "that", "incident", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the homeland security secretary",
+  "sentence_length" : 256,
+  "mentionArg2" : {
+    "extent" : "homeland security",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E1-56",
+    "start" : 48,
+    "end" : 49
+  },
+  "relationID" : "CNN_ENG_20030429_110706.7-R4",
+  "mentionArg1" : {
+    "extent" : "the homeland security secretary",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E22-55",
+    "start" : 47,
+    "end" : 50
+  },
+  "id" : "CNN_ENG_20030429_110706.7-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "welcome back. we 're standing by for the white house press briefing. ari fleischer expected to come into the west wing briefing room to brief reporters on a wide variety of subjekts. we 're all getting this note in , this news in from the speech that the homeland security secretary tom ridge is expected to be delivering at the international press club around 1:00 eastern at the top of the hour. we 're expecting that the homeland security secretary will announce the iraqi lawyer who provided information that helped in the rescue op private first class jessica lynch the former p . o . w . , that this iraqi lawyer , who provided the information to u . s. military authority ies has been granted asylum here in the united states , together with his wife and daughter. they 're currently in the washington , d . c. area. an official tells our justice producer terry frieden. so that development important. might get more information from secretary tom ridge when he delivers that speech over at the press club in the next hour. we 'll be monitoring that as well. we also have an update on that disturbing development outside baghdad. about 40 miles or so outside baghdad in fallujah where there was h a shootout between u . s. troops and iraqies who had been demonstrating there. karl penhaul is joining us life on the phone with more. first of all , karl , how many iraqis were killed in that incident ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "back.", "we", "'re", "standing", "by", "for", "the", "white", "house", "press", "briefing.", "ari", "fleischer", "expected", "to", "come", "into", "the", "west", "wing", "briefing", "room", "to", "brief", "reporters", "on", "a", "wide", "variety", "of", "subjekts.", "we", "'re", "all", "getting", "this", "note", "in", ",", "this", "news", "in", "from", "the", "speech", "that", "the", "homeland", "security", "secretary", "tom", "ridge", "is", "expected", "to", "be", "delivering", "at", "the", "international", "press", "club", "around", "1:00", "eastern", "at", "the", "top", "of", "the", "hour.", "we", "'re", "expecting", "that", "the", "homeland", "security", "secretary", "will", "announce", "the", "iraqi", "lawyer", "who", "provided", "information", "that", "helped", "in", "the", "rescue", "op", "private", "first", "class", "jessica", "lynch", "the", "former", "p", ".", "o", ".", "w", ".", ",", "that", "this", "iraqi", "lawyer", ",", "who", "provided", "the", "information", "to", "u", ".", "s.", "military", "authority", "ies", "has", "been", "granted", "asylum", "here", "in", "the", "united", "states", ",", "together", "with", "his", "wife", "and", "daughter.", "they", "'re", "currently", "in", "the", "washington", ",", "d", ".", "c.", "area.", "an", "official", "tells", "our", "justice", "producer", "terry", "frieden.", "so", "that", "development", "important.", "might", "get", "more", "information", "from", "secretary", "tom", "ridge", "when", "he", "delivers", "that", "speech", "over", "at", "the", "press", "club", "in", "the", "next", "hour.", "we", "'ll", "be", "monitoring", "that", "as", "well.", "we", "also", "have", "an", "update", "on", "that", "disturbing", "development", "outside", "baghdad.", "about", "40", "miles", "or", "so", "outside", "baghdad", "in", "fallujah", "where", "there", "was", "h", "a", "shootout", "between", "u", ".", "s.", "troops", "and", "iraqies", "who", "had", "been", "demonstrating", "there.", "karl", "penhaul", "is", "joining", "us", "life", "on", "the", "phone", "with", "more.", "first", "of", "all", ",", "karl", ",", "how", "many", "iraqis", "were", "killed", "in", "that", "incident", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the homeland security secretary",
+  "sentence_length" : 256,
+  "mentionArg2" : {
+    "extent" : "homeland security",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E1-60",
+    "start" : 77,
+    "end" : 78
+  },
+  "relationID" : "CNN_ENG_20030429_110706.7-R4",
+  "mentionArg1" : {
+    "extent" : "the homeland security secretary",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E22-59",
+    "start" : 76,
+    "end" : 79
+  },
+  "id" : "CNN_ENG_20030429_110706.7-R4-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "welcome back. we 're standing by for the white house press briefing. ari fleischer expected to come into the west wing briefing room to brief reporters on a wide variety of subjekts. we 're all getting this note in , this news in from the speech that the homeland security secretary tom ridge is expected to be delivering at the international press club around 1:00 eastern at the top of the hour. we 're expecting that the homeland security secretary will announce the iraqi lawyer who provided information that helped in the rescue op private first class jessica lynch the former p . o . w . , that this iraqi lawyer , who provided the information to u . s. military authority ies has been granted asylum here in the united states , together with his wife and daughter. they 're currently in the washington , d . c. area. an official tells our justice producer terry frieden. so that development important. might get more information from secretary tom ridge when he delivers that speech over at the press club in the next hour. we 'll be monitoring that as well. we also have an update on that disturbing development outside baghdad. about 40 miles or so outside baghdad in fallujah where there was h a shootout between u . s. troops and iraqies who had been demonstrating there. karl penhaul is joining us life on the phone with more. first of all , karl , how many iraqis were killed in that incident ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "back.", "we", "'re", "standing", "by", "for", "the", "white", "house", "press", "briefing.", "ari", "fleischer", "expected", "to", "come", "into", "the", "west", "wing", "briefing", "room", "to", "brief", "reporters", "on", "a", "wide", "variety", "of", "subjekts.", "we", "'re", "all", "getting", "this", "note", "in", ",", "this", "news", "in", "from", "the", "speech", "that", "the", "homeland", "security", "secretary", "tom", "ridge", "is", "expected", "to", "be", "delivering", "at", "the", "international", "press", "club", "around", "1:00", "eastern", "at", "the", "top", "of", "the", "hour.", "we", "'re", "expecting", "that", "the", "homeland", "security", "secretary", "will", "announce", "the", "iraqi", "lawyer", "who", "provided", "information", "that", "helped", "in", "the", "rescue", "op", "private", "first", "class", "jessica", "lynch", "the", "former", "p", ".", "o", ".", "w", ".", ",", "that", "this", "iraqi", "lawyer", ",", "who", "provided", "the", "information", "to", "u", ".", "s.", "military", "authority", "ies", "has", "been", "granted", "asylum", "here", "in", "the", "united", "states", ",", "together", "with", "his", "wife", "and", "daughter.", "they", "'re", "currently", "in", "the", "washington", ",", "d", ".", "c.", "area.", "an", "official", "tells", "our", "justice", "producer", "terry", "frieden.", "so", "that", "development", "important.", "might", "get", "more", "information", "from", "secretary", "tom", "ridge", "when", "he", "delivers", "that", "speech", "over", "at", "the", "press", "club", "in", "the", "next", "hour.", "we", "'ll", "be", "monitoring", "that", "as", "well.", "we", "also", "have", "an", "update", "on", "that", "disturbing", "development", "outside", "baghdad.", "about", "40", "miles", "or", "so", "outside", "baghdad", "in", "fallujah", "where", "there", "was", "h", "a", "shootout", "between", "u", ".", "s.", "troops", "and", "iraqies", "who", "had", "been", "demonstrating", "there.", "karl", "penhaul", "is", "joining", "us", "life", "on", "the", "phone", "with", "more.", "first", "of", "all", ",", "karl", ",", "how", "many", "iraqis", "were", "killed", "in", "that", "incident", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "we're all getting this note in, this news in from the speech that the homeland security secretary tom ridge is expected to be delivering at the international press club around 1:00 eastern at the top of the hour",
+  "sentence_length" : 256,
+  "mentionArg2" : {
+    "extent" : "the international press club",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E39-57",
+    "start" : 59,
+    "end" : 62
+  },
+  "relationID" : "CNN_ENG_20030429_110706.7-R5",
+  "mentionArg1" : {
+    "extent" : "the homeland security secretary tom ridge",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E22-54",
+    "start" : 47,
+    "end" : 52
+  },
+  "id" : "CNN_ENG_20030429_110706.7-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "welcome back. we 're standing by for the white house press briefing. ari fleischer expected to come into the west wing briefing room to brief reporters on a wide variety of subjekts. we 're all getting this note in , this news in from the speech that the homeland security secretary tom ridge is expected to be delivering at the international press club around 1:00 eastern at the top of the hour. we 're expecting that the homeland security secretary will announce the iraqi lawyer who provided information that helped in the rescue op private first class jessica lynch the former p . o . w . , that this iraqi lawyer , who provided the information to u . s. military authority ies has been granted asylum here in the united states , together with his wife and daughter. they 're currently in the washington , d . c. area. an official tells our justice producer terry frieden. so that development important. might get more information from secretary tom ridge when he delivers that speech over at the press club in the next hour. we 'll be monitoring that as well. we also have an update on that disturbing development outside baghdad. about 40 miles or so outside baghdad in fallujah where there was h a shootout between u . s. troops and iraqies who had been demonstrating there. karl penhaul is joining us life on the phone with more. first of all , karl , how many iraqis were killed in that incident ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "back.", "we", "'re", "standing", "by", "for", "the", "white", "house", "press", "briefing.", "ari", "fleischer", "expected", "to", "come", "into", "the", "west", "wing", "briefing", "room", "to", "brief", "reporters", "on", "a", "wide", "variety", "of", "subjekts.", "we", "'re", "all", "getting", "this", "note", "in", ",", "this", "news", "in", "from", "the", "speech", "that", "the", "homeland", "security", "secretary", "tom", "ridge", "is", "expected", "to", "be", "delivering", "at", "the", "international", "press", "club", "around", "1:00", "eastern", "at", "the", "top", "of", "the", "hour.", "we", "'re", "expecting", "that", "the", "homeland", "security", "secretary", "will", "announce", "the", "iraqi", "lawyer", "who", "provided", "information", "that", "helped", "in", "the", "rescue", "op", "private", "first", "class", "jessica", "lynch", "the", "former", "p", ".", "o", ".", "w", ".", ",", "that", "this", "iraqi", "lawyer", ",", "who", "provided", "the", "information", "to", "u", ".", "s.", "military", "authority", "ies", "has", "been", "granted", "asylum", "here", "in", "the", "united", "states", ",", "together", "with", "his", "wife", "and", "daughter.", "they", "'re", "currently", "in", "the", "washington", ",", "d", ".", "c.", "area.", "an", "official", "tells", "our", "justice", "producer", "terry", "frieden.", "so", "that", "development", "important.", "might", "get", "more", "information", "from", "secretary", "tom", "ridge", "when", "he", "delivers", "that", "speech", "over", "at", "the", "press", "club", "in", "the", "next", "hour.", "we", "'ll", "be", "monitoring", "that", "as", "well.", "we", "also", "have", "an", "update", "on", "that", "disturbing", "development", "outside", "baghdad.", "about", "40", "miles", "or", "so", "outside", "baghdad", "in", "fallujah", "where", "there", "was", "h", "a", "shootout", "between", "u", ".", "s.", "troops", "and", "iraqies", "who", "had", "been", "demonstrating", "there.", "karl", "penhaul", "is", "joining", "us", "life", "on", "the", "phone", "with", "more.", "first", "of", "all", ",", "karl", ",", "how", "many", "iraqis", "were", "killed", "in", "that", "incident", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "might get more information from secretary tom ridge when he delivers that speech over at the press club in the next hour",
+  "sentence_length" : 256,
+  "mentionArg2" : {
+    "extent" : "the press club",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E39-31",
+    "start" : 178,
+    "end" : 180
+  },
+  "relationID" : "CNN_ENG_20030429_110706.7-R5",
+  "mentionArg1" : {
+    "extent" : "secretary tom ridge",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E22-28",
+    "start" : 168,
+    "end" : 170
+  },
+  "id" : "CNN_ENG_20030429_110706.7-R5-2",
+  "relationSubType" : "Located",
+  "Sentence" : "welcome back. we 're standing by for the white house press briefing. ari fleischer expected to come into the west wing briefing room to brief reporters on a wide variety of subjekts. we 're all getting this note in , this news in from the speech that the homeland security secretary tom ridge is expected to be delivering at the international press club around 1:00 eastern at the top of the hour. we 're expecting that the homeland security secretary will announce the iraqi lawyer who provided information that helped in the rescue op private first class jessica lynch the former p . o . w . , that this iraqi lawyer , who provided the information to u . s. military authority ies has been granted asylum here in the united states , together with his wife and daughter. they 're currently in the washington , d . c. area. an official tells our justice producer terry frieden. so that development important. might get more information from secretary tom ridge when he delivers that speech over at the press club in the next hour. we 'll be monitoring that as well. we also have an update on that disturbing development outside baghdad. about 40 miles or so outside baghdad in fallujah where there was h a shootout between u . s. troops and iraqies who had been demonstrating there. karl penhaul is joining us life on the phone with more. first of all , karl , how many iraqis were killed in that incident ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "back.", "we", "'re", "standing", "by", "for", "the", "white", "house", "press", "briefing.", "ari", "fleischer", "expected", "to", "come", "into", "the", "west", "wing", "briefing", "room", "to", "brief", "reporters", "on", "a", "wide", "variety", "of", "subjekts.", "we", "'re", "all", "getting", "this", "note", "in", ",", "this", "news", "in", "from", "the", "speech", "that", "the", "homeland", "security", "secretary", "tom", "ridge", "is", "expected", "to", "be", "delivering", "at", "the", "international", "press", "club", "around", "1:00", "eastern", "at", "the", "top", "of", "the", "hour.", "we", "'re", "expecting", "that", "the", "homeland", "security", "secretary", "will", "announce", "the", "iraqi", "lawyer", "who", "provided", "information", "that", "helped", "in", "the", "rescue", "op", "private", "first", "class", "jessica", "lynch", "the", "former", "p", ".", "o", ".", "w", ".", ",", "that", "this", "iraqi", "lawyer", ",", "who", "provided", "the", "information", "to", "u", ".", "s.", "military", "authority", "ies", "has", "been", "granted", "asylum", "here", "in", "the", "united", "states", ",", "together", "with", "his", "wife", "and", "daughter.", "they", "'re", "currently", "in", "the", "washington", ",", "d", ".", "c.", "area.", "an", "official", "tells", "our", "justice", "producer", "terry", "frieden.", "so", "that", "development", "important.", "might", "get", "more", "information", "from", "secretary", "tom", "ridge", "when", "he", "delivers", "that", "speech", "over", "at", "the", "press", "club", "in", "the", "next", "hour.", "we", "'ll", "be", "monitoring", "that", "as", "well.", "we", "also", "have", "an", "update", "on", "that", "disturbing", "development", "outside", "baghdad.", "about", "40", "miles", "or", "so", "outside", "baghdad", "in", "fallujah", "where", "there", "was", "h", "a", "shootout", "between", "u", ".", "s.", "troops", "and", "iraqies", "who", "had", "been", "demonstrating", "there.", "karl", "penhaul", "is", "joining", "us", "life", "on", "the", "phone", "with", "more.", "first", "of", "all", ",", "karl", ",", "how", "many", "iraqis", "were", "killed", "in", "that", "incident", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his wife and daughter",
+  "sentence_length" : 256,
+  "mentionArg2" : {
+    "extent" : "his wife and daughter",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E13-16",
+    "start" : 136,
+    "end" : 139
+  },
+  "relationID" : "CNN_ENG_20030429_110706.7-R7",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E2-17",
+    "start" : 136,
+    "end" : 136
+  },
+  "id" : "CNN_ENG_20030429_110706.7-R7-1",
+  "relationSubType" : "Family",
+  "Sentence" : "welcome back. we 're standing by for the white house press briefing. ari fleischer expected to come into the west wing briefing room to brief reporters on a wide variety of subjekts. we 're all getting this note in , this news in from the speech that the homeland security secretary tom ridge is expected to be delivering at the international press club around 1:00 eastern at the top of the hour. we 're expecting that the homeland security secretary will announce the iraqi lawyer who provided information that helped in the rescue op private first class jessica lynch the former p . o . w . , that this iraqi lawyer , who provided the information to u . s. military authority ies has been granted asylum here in the united states , together with his wife and daughter. they 're currently in the washington , d . c. area. an official tells our justice producer terry frieden. so that development important. might get more information from secretary tom ridge when he delivers that speech over at the press club in the next hour. we 'll be monitoring that as well. we also have an update on that disturbing development outside baghdad. about 40 miles or so outside baghdad in fallujah where there was h a shootout between u . s. troops and iraqies who had been demonstrating there. karl penhaul is joining us life on the phone with more. first of all , karl , how many iraqis were killed in that incident ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "back.", "we", "'re", "standing", "by", "for", "the", "white", "house", "press", "briefing.", "ari", "fleischer", "expected", "to", "come", "into", "the", "west", "wing", "briefing", "room", "to", "brief", "reporters", "on", "a", "wide", "variety", "of", "subjekts.", "we", "'re", "all", "getting", "this", "note", "in", ",", "this", "news", "in", "from", "the", "speech", "that", "the", "homeland", "security", "secretary", "tom", "ridge", "is", "expected", "to", "be", "delivering", "at", "the", "international", "press", "club", "around", "1:00", "eastern", "at", "the", "top", "of", "the", "hour.", "we", "'re", "expecting", "that", "the", "homeland", "security", "secretary", "will", "announce", "the", "iraqi", "lawyer", "who", "provided", "information", "that", "helped", "in", "the", "rescue", "op", "private", "first", "class", "jessica", "lynch", "the", "former", "p", ".", "o", ".", "w", ".", ",", "that", "this", "iraqi", "lawyer", ",", "who", "provided", "the", "information", "to", "u", ".", "s.", "military", "authority", "ies", "has", "been", "granted", "asylum", "here", "in", "the", "united", "states", ",", "together", "with", "his", "wife", "and", "daughter.", "they", "'re", "currently", "in", "the", "washington", ",", "d", ".", "c.", "area.", "an", "official", "tells", "our", "justice", "producer", "terry", "frieden.", "so", "that", "development", "important.", "might", "get", "more", "information", "from", "secretary", "tom", "ridge", "when", "he", "delivers", "that", "speech", "over", "at", "the", "press", "club", "in", "the", "next", "hour.", "we", "'ll", "be", "monitoring", "that", "as", "well.", "we", "also", "have", "an", "update", "on", "that", "disturbing", "development", "outside", "baghdad.", "about", "40", "miles", "or", "so", "outside", "baghdad", "in", "fallujah", "where", "there", "was", "h", "a", "shootout", "between", "u", ".", "s.", "troops", "and", "iraqies", "who", "had", "been", "demonstrating", "there.", "karl", "penhaul", "is", "joining", "us", "life", "on", "the", "phone", "with", "more.", "first", "of", "all", ",", "karl", ",", "how", "many", "iraqis", "were", "killed", "in", "that", "incident", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "washington, d.c",
+  "sentence_length" : 256,
+  "mentionArg2" : {
+    "extent" : "d.c",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E18-22",
+    "start" : 147,
+    "end" : 149
+  },
+  "relationID" : "CNN_ENG_20030429_110706.7-R8",
+  "mentionArg1" : {
+    "extent" : "washington, d.c",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E17-21",
+    "start" : 145,
+    "end" : 149
+  },
+  "id" : "CNN_ENG_20030429_110706.7-R8-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "welcome back. we 're standing by for the white house press briefing. ari fleischer expected to come into the west wing briefing room to brief reporters on a wide variety of subjekts. we 're all getting this note in , this news in from the speech that the homeland security secretary tom ridge is expected to be delivering at the international press club around 1:00 eastern at the top of the hour. we 're expecting that the homeland security secretary will announce the iraqi lawyer who provided information that helped in the rescue op private first class jessica lynch the former p . o . w . , that this iraqi lawyer , who provided the information to u . s. military authority ies has been granted asylum here in the united states , together with his wife and daughter. they 're currently in the washington , d . c. area. an official tells our justice producer terry frieden. so that development important. might get more information from secretary tom ridge when he delivers that speech over at the press club in the next hour. we 'll be monitoring that as well. we also have an update on that disturbing development outside baghdad. about 40 miles or so outside baghdad in fallujah where there was h a shootout between u . s. troops and iraqies who had been demonstrating there. karl penhaul is joining us life on the phone with more. first of all , karl , how many iraqis were killed in that incident ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "back.", "we", "'re", "standing", "by", "for", "the", "white", "house", "press", "briefing.", "ari", "fleischer", "expected", "to", "come", "into", "the", "west", "wing", "briefing", "room", "to", "brief", "reporters", "on", "a", "wide", "variety", "of", "subjekts.", "we", "'re", "all", "getting", "this", "note", "in", ",", "this", "news", "in", "from", "the", "speech", "that", "the", "homeland", "security", "secretary", "tom", "ridge", "is", "expected", "to", "be", "delivering", "at", "the", "international", "press", "club", "around", "1:00", "eastern", "at", "the", "top", "of", "the", "hour.", "we", "'re", "expecting", "that", "the", "homeland", "security", "secretary", "will", "announce", "the", "iraqi", "lawyer", "who", "provided", "information", "that", "helped", "in", "the", "rescue", "op", "private", "first", "class", "jessica", "lynch", "the", "former", "p", ".", "o", ".", "w", ".", ",", "that", "this", "iraqi", "lawyer", ",", "who", "provided", "the", "information", "to", "u", ".", "s.", "military", "authority", "ies", "has", "been", "granted", "asylum", "here", "in", "the", "united", "states", ",", "together", "with", "his", "wife", "and", "daughter.", "they", "'re", "currently", "in", "the", "washington", ",", "d", ".", "c.", "area.", "an", "official", "tells", "our", "justice", "producer", "terry", "frieden.", "so", "that", "development", "important.", "might", "get", "more", "information", "from", "secretary", "tom", "ridge", "when", "he", "delivers", "that", "speech", "over", "at", "the", "press", "club", "in", "the", "next", "hour.", "we", "'ll", "be", "monitoring", "that", "as", "well.", "we", "also", "have", "an", "update", "on", "that", "disturbing", "development", "outside", "baghdad.", "about", "40", "miles", "or", "so", "outside", "baghdad", "in", "fallujah", "where", "there", "was", "h", "a", "shootout", "between", "u", ".", "s.", "troops", "and", "iraqies", "who", "had", "been", "demonstrating", "there.", "karl", "penhaul", "is", "joining", "us", "life", "on", "the", "phone", "with", "more.", "first", "of", "all", ",", "karl", ",", "how", "many", "iraqis", "were", "killed", "in", "that", "incident", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "u.s. troops",
+  "sentence_length" : 256,
+  "mentionArg2" : {
+    "extent" : "u.s",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E10-35",
+    "start" : 219,
+    "end" : 221
+  },
+  "relationID" : "CNN_ENG_20030429_110706.7-R9",
+  "mentionArg1" : {
+    "extent" : "u.s. troops",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E27-38",
+    "start" : 219,
+    "end" : 222
+  },
+  "id" : "CNN_ENG_20030429_110706.7-R9-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "welcome back. we 're standing by for the white house press briefing. ari fleischer expected to come into the west wing briefing room to brief reporters on a wide variety of subjekts. we 're all getting this note in , this news in from the speech that the homeland security secretary tom ridge is expected to be delivering at the international press club around 1:00 eastern at the top of the hour. we 're expecting that the homeland security secretary will announce the iraqi lawyer who provided information that helped in the rescue op private first class jessica lynch the former p . o . w . , that this iraqi lawyer , who provided the information to u . s. military authority ies has been granted asylum here in the united states , together with his wife and daughter. they 're currently in the washington , d . c. area. an official tells our justice producer terry frieden. so that development important. might get more information from secretary tom ridge when he delivers that speech over at the press club in the next hour. we 'll be monitoring that as well. we also have an update on that disturbing development outside baghdad. about 40 miles or so outside baghdad in fallujah where there was h a shootout between u . s. troops and iraqies who had been demonstrating there. karl penhaul is joining us life on the phone with more. first of all , karl , how many iraqis were killed in that incident ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "back.", "we", "'re", "standing", "by", "for", "the", "white", "house", "press", "briefing.", "ari", "fleischer", "expected", "to", "come", "into", "the", "west", "wing", "briefing", "room", "to", "brief", "reporters", "on", "a", "wide", "variety", "of", "subjekts.", "we", "'re", "all", "getting", "this", "note", "in", ",", "this", "news", "in", "from", "the", "speech", "that", "the", "homeland", "security", "secretary", "tom", "ridge", "is", "expected", "to", "be", "delivering", "at", "the", "international", "press", "club", "around", "1:00", "eastern", "at", "the", "top", "of", "the", "hour.", "we", "'re", "expecting", "that", "the", "homeland", "security", "secretary", "will", "announce", "the", "iraqi", "lawyer", "who", "provided", "information", "that", "helped", "in", "the", "rescue", "op", "private", "first", "class", "jessica", "lynch", "the", "former", "p", ".", "o", ".", "w", ".", ",", "that", "this", "iraqi", "lawyer", ",", "who", "provided", "the", "information", "to", "u", ".", "s.", "military", "authority", "ies", "has", "been", "granted", "asylum", "here", "in", "the", "united", "states", ",", "together", "with", "his", "wife", "and", "daughter.", "they", "'re", "currently", "in", "the", "washington", ",", "d", ".", "c.", "area.", "an", "official", "tells", "our", "justice", "producer", "terry", "frieden.", "so", "that", "development", "important.", "might", "get", "more", "information", "from", "secretary", "tom", "ridge", "when", "he", "delivers", "that", "speech", "over", "at", "the", "press", "club", "in", "the", "next", "hour.", "we", "'ll", "be", "monitoring", "that", "as", "well.", "we", "also", "have", "an", "update", "on", "that", "disturbing", "development", "outside", "baghdad.", "about", "40", "miles", "or", "so", "outside", "baghdad", "in", "fallujah", "where", "there", "was", "h", "a", "shootout", "between", "u", ".", "s.", "troops", "and", "iraqies", "who", "had", "been", "demonstrating", "there.", "karl", "penhaul", "is", "joining", "us", "life", "on", "the", "phone", "with", "more.", "first", "of", "all", ",", "karl", ",", "how", "many", "iraqis", "were", "killed", "in", "that", "incident", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the iraqi lawyer who provided information that helped in the rescue op private first class jessica lynch the former p.o.w",
+  "sentence_length" : 256,
+  "mentionArg2" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E3-3",
+    "start" : 83,
+    "end" : 83
+  },
+  "relationID" : "CNN_ENG_20030429_110706.7-R10",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E2-4",
+    "start" : 85,
+    "end" : 85
+  },
+  "id" : "CNN_ENG_20030429_110706.7-R10-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "welcome back. we 're standing by for the white house press briefing. ari fleischer expected to come into the west wing briefing room to brief reporters on a wide variety of subjekts. we 're all getting this note in , this news in from the speech that the homeland security secretary tom ridge is expected to be delivering at the international press club around 1:00 eastern at the top of the hour. we 're expecting that the homeland security secretary will announce the iraqi lawyer who provided information that helped in the rescue op private first class jessica lynch the former p . o . w . , that this iraqi lawyer , who provided the information to u . s. military authority ies has been granted asylum here in the united states , together with his wife and daughter. they 're currently in the washington , d . c. area. an official tells our justice producer terry frieden. so that development important. might get more information from secretary tom ridge when he delivers that speech over at the press club in the next hour. we 'll be monitoring that as well. we also have an update on that disturbing development outside baghdad. about 40 miles or so outside baghdad in fallujah where there was h a shootout between u . s. troops and iraqies who had been demonstrating there. karl penhaul is joining us life on the phone with more. first of all , karl , how many iraqis were killed in that incident ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "back.", "we", "'re", "standing", "by", "for", "the", "white", "house", "press", "briefing.", "ari", "fleischer", "expected", "to", "come", "into", "the", "west", "wing", "briefing", "room", "to", "brief", "reporters", "on", "a", "wide", "variety", "of", "subjekts.", "we", "'re", "all", "getting", "this", "note", "in", ",", "this", "news", "in", "from", "the", "speech", "that", "the", "homeland", "security", "secretary", "tom", "ridge", "is", "expected", "to", "be", "delivering", "at", "the", "international", "press", "club", "around", "1:00", "eastern", "at", "the", "top", "of", "the", "hour.", "we", "'re", "expecting", "that", "the", "homeland", "security", "secretary", "will", "announce", "the", "iraqi", "lawyer", "who", "provided", "information", "that", "helped", "in", "the", "rescue", "op", "private", "first", "class", "jessica", "lynch", "the", "former", "p", ".", "o", ".", "w", ".", ",", "that", "this", "iraqi", "lawyer", ",", "who", "provided", "the", "information", "to", "u", ".", "s.", "military", "authority", "ies", "has", "been", "granted", "asylum", "here", "in", "the", "united", "states", ",", "together", "with", "his", "wife", "and", "daughter.", "they", "'re", "currently", "in", "the", "washington", ",", "d", ".", "c.", "area.", "an", "official", "tells", "our", "justice", "producer", "terry", "frieden.", "so", "that", "development", "important.", "might", "get", "more", "information", "from", "secretary", "tom", "ridge", "when", "he", "delivers", "that", "speech", "over", "at", "the", "press", "club", "in", "the", "next", "hour.", "we", "'ll", "be", "monitoring", "that", "as", "well.", "we", "also", "have", "an", "update", "on", "that", "disturbing", "development", "outside", "baghdad.", "about", "40", "miles", "or", "so", "outside", "baghdad", "in", "fallujah", "where", "there", "was", "h", "a", "shootout", "between", "u", ".", "s.", "troops", "and", "iraqies", "who", "had", "been", "demonstrating", "there.", "karl", "penhaul", "is", "joining", "us", "life", "on", "the", "phone", "with", "more.", "first", "of", "all", ",", "karl", ",", "how", "many", "iraqis", "were", "killed", "in", "that", "incident", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "this iraqi lawyer, who provided the information to u.s. military authority ies",
+  "sentence_length" : 256,
+  "mentionArg2" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E3-10",
+    "start" : 110,
+    "end" : 110
+  },
+  "relationID" : "CNN_ENG_20030429_110706.7-R10",
+  "mentionArg1" : {
+    "extent" : "this iraqi lawyer, who provided the information to u.s. military authority ies",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E2-47",
+    "start" : 109,
+    "end" : 123
+  },
+  "id" : "CNN_ENG_20030429_110706.7-R10-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "welcome back. we 're standing by for the white house press briefing. ari fleischer expected to come into the west wing briefing room to brief reporters on a wide variety of subjekts. we 're all getting this note in , this news in from the speech that the homeland security secretary tom ridge is expected to be delivering at the international press club around 1:00 eastern at the top of the hour. we 're expecting that the homeland security secretary will announce the iraqi lawyer who provided information that helped in the rescue op private first class jessica lynch the former p . o . w . , that this iraqi lawyer , who provided the information to u . s. military authority ies has been granted asylum here in the united states , together with his wife and daughter. they 're currently in the washington , d . c. area. an official tells our justice producer terry frieden. so that development important. might get more information from secretary tom ridge when he delivers that speech over at the press club in the next hour. we 'll be monitoring that as well. we also have an update on that disturbing development outside baghdad. about 40 miles or so outside baghdad in fallujah where there was h a shootout between u . s. troops and iraqies who had been demonstrating there. karl penhaul is joining us life on the phone with more. first of all , karl , how many iraqis were killed in that incident ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "back.", "we", "'re", "standing", "by", "for", "the", "white", "house", "press", "briefing.", "ari", "fleischer", "expected", "to", "come", "into", "the", "west", "wing", "briefing", "room", "to", "brief", "reporters", "on", "a", "wide", "variety", "of", "subjekts.", "we", "'re", "all", "getting", "this", "note", "in", ",", "this", "news", "in", "from", "the", "speech", "that", "the", "homeland", "security", "secretary", "tom", "ridge", "is", "expected", "to", "be", "delivering", "at", "the", "international", "press", "club", "around", "1:00", "eastern", "at", "the", "top", "of", "the", "hour.", "we", "'re", "expecting", "that", "the", "homeland", "security", "secretary", "will", "announce", "the", "iraqi", "lawyer", "who", "provided", "information", "that", "helped", "in", "the", "rescue", "op", "private", "first", "class", "jessica", "lynch", "the", "former", "p", ".", "o", ".", "w", ".", ",", "that", "this", "iraqi", "lawyer", ",", "who", "provided", "the", "information", "to", "u", ".", "s.", "military", "authority", "ies", "has", "been", "granted", "asylum", "here", "in", "the", "united", "states", ",", "together", "with", "his", "wife", "and", "daughter.", "they", "'re", "currently", "in", "the", "washington", ",", "d", ".", "c.", "area.", "an", "official", "tells", "our", "justice", "producer", "terry", "frieden.", "so", "that", "development", "important.", "might", "get", "more", "information", "from", "secretary", "tom", "ridge", "when", "he", "delivers", "that", "speech", "over", "at", "the", "press", "club", "in", "the", "next", "hour.", "we", "'ll", "be", "monitoring", "that", "as", "well.", "we", "also", "have", "an", "update", "on", "that", "disturbing", "development", "outside", "baghdad.", "about", "40", "miles", "or", "so", "outside", "baghdad", "in", "fallujah", "where", "there", "was", "h", "a", "shootout", "between", "u", ".", "s.", "troops", "and", "iraqies", "who", "had", "been", "demonstrating", "there.", "karl", "penhaul", "is", "joining", "us", "life", "on", "the", "phone", "with", "more.", "first", "of", "all", ",", "karl", ",", "how", "many", "iraqis", "were", "killed", "in", "that", "incident", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "u.s. military authority ies",
+  "sentence_length" : 256,
+  "mentionArg2" : {
+    "extent" : "u.s. military",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E9-13",
+    "start" : 118,
+    "end" : 121
+  },
+  "relationID" : "CNN_ENG_20030429_110706.7-R12",
+  "mentionArg1" : {
+    "extent" : "u.s. military authority ies",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E8-12",
+    "start" : 118,
+    "end" : 123
+  },
+  "id" : "CNN_ENG_20030429_110706.7-R12-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "welcome back. we 're standing by for the white house press briefing. ari fleischer expected to come into the west wing briefing room to brief reporters on a wide variety of subjekts. we 're all getting this note in , this news in from the speech that the homeland security secretary tom ridge is expected to be delivering at the international press club around 1:00 eastern at the top of the hour. we 're expecting that the homeland security secretary will announce the iraqi lawyer who provided information that helped in the rescue op private first class jessica lynch the former p . o . w . , that this iraqi lawyer , who provided the information to u . s. military authority ies has been granted asylum here in the united states , together with his wife and daughter. they 're currently in the washington , d . c. area. an official tells our justice producer terry frieden. so that development important. might get more information from secretary tom ridge when he delivers that speech over at the press club in the next hour. we 'll be monitoring that as well. we also have an update on that disturbing development outside baghdad. about 40 miles or so outside baghdad in fallujah where there was h a shootout between u . s. troops and iraqies who had been demonstrating there. karl penhaul is joining us life on the phone with more. first of all , karl , how many iraqis were killed in that incident ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "back.", "we", "'re", "standing", "by", "for", "the", "white", "house", "press", "briefing.", "ari", "fleischer", "expected", "to", "come", "into", "the", "west", "wing", "briefing", "room", "to", "brief", "reporters", "on", "a", "wide", "variety", "of", "subjekts.", "we", "'re", "all", "getting", "this", "note", "in", ",", "this", "news", "in", "from", "the", "speech", "that", "the", "homeland", "security", "secretary", "tom", "ridge", "is", "expected", "to", "be", "delivering", "at", "the", "international", "press", "club", "around", "1:00", "eastern", "at", "the", "top", "of", "the", "hour.", "we", "'re", "expecting", "that", "the", "homeland", "security", "secretary", "will", "announce", "the", "iraqi", "lawyer", "who", "provided", "information", "that", "helped", "in", "the", "rescue", "op", "private", "first", "class", "jessica", "lynch", "the", "former", "p", ".", "o", ".", "w", ".", ",", "that", "this", "iraqi", "lawyer", ",", "who", "provided", "the", "information", "to", "u", ".", "s.", "military", "authority", "ies", "has", "been", "granted", "asylum", "here", "in", "the", "united", "states", ",", "together", "with", "his", "wife", "and", "daughter.", "they", "'re", "currently", "in", "the", "washington", ",", "d", ".", "c.", "area.", "an", "official", "tells", "our", "justice", "producer", "terry", "frieden.", "so", "that", "development", "important.", "might", "get", "more", "information", "from", "secretary", "tom", "ridge", "when", "he", "delivers", "that", "speech", "over", "at", "the", "press", "club", "in", "the", "next", "hour.", "we", "'ll", "be", "monitoring", "that", "as", "well.", "we", "also", "have", "an", "update", "on", "that", "disturbing", "development", "outside", "baghdad.", "about", "40", "miles", "or", "so", "outside", "baghdad", "in", "fallujah", "where", "there", "was", "h", "a", "shootout", "between", "u", ".", "s.", "troops", "and", "iraqies", "who", "had", "been", "demonstrating", "there.", "karl", "penhaul", "is", "joining", "us", "life", "on", "the", "phone", "with", "more.", "first", "of", "all", ",", "karl", ",", "how", "many", "iraqis", "were", "killed", "in", "that", "incident", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "u.s. military",
+  "sentence_length" : 256,
+  "mentionArg2" : {
+    "extent" : "u.s",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E10-14",
+    "start" : 118,
+    "end" : 120
+  },
+  "relationID" : "CNN_ENG_20030429_110706.7-R13",
+  "mentionArg1" : {
+    "extent" : "u.s. military",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E9-13",
+    "start" : 118,
+    "end" : 121
+  },
+  "id" : "CNN_ENG_20030429_110706.7-R13-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "welcome back. we 're standing by for the white house press briefing. ari fleischer expected to come into the west wing briefing room to brief reporters on a wide variety of subjekts. we 're all getting this note in , this news in from the speech that the homeland security secretary tom ridge is expected to be delivering at the international press club around 1:00 eastern at the top of the hour. we 're expecting that the homeland security secretary will announce the iraqi lawyer who provided information that helped in the rescue op private first class jessica lynch the former p . o . w . , that this iraqi lawyer , who provided the information to u . s. military authority ies has been granted asylum here in the united states , together with his wife and daughter. they 're currently in the washington , d . c. area. an official tells our justice producer terry frieden. so that development important. might get more information from secretary tom ridge when he delivers that speech over at the press club in the next hour. we 'll be monitoring that as well. we also have an update on that disturbing development outside baghdad. about 40 miles or so outside baghdad in fallujah where there was h a shootout between u . s. troops and iraqies who had been demonstrating there. karl penhaul is joining us life on the phone with more. first of all , karl , how many iraqis were killed in that incident ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "back.", "we", "'re", "standing", "by", "for", "the", "white", "house", "press", "briefing.", "ari", "fleischer", "expected", "to", "come", "into", "the", "west", "wing", "briefing", "room", "to", "brief", "reporters", "on", "a", "wide", "variety", "of", "subjekts.", "we", "'re", "all", "getting", "this", "note", "in", ",", "this", "news", "in", "from", "the", "speech", "that", "the", "homeland", "security", "secretary", "tom", "ridge", "is", "expected", "to", "be", "delivering", "at", "the", "international", "press", "club", "around", "1:00", "eastern", "at", "the", "top", "of", "the", "hour.", "we", "'re", "expecting", "that", "the", "homeland", "security", "secretary", "will", "announce", "the", "iraqi", "lawyer", "who", "provided", "information", "that", "helped", "in", "the", "rescue", "op", "private", "first", "class", "jessica", "lynch", "the", "former", "p", ".", "o", ".", "w", ".", ",", "that", "this", "iraqi", "lawyer", ",", "who", "provided", "the", "information", "to", "u", ".", "s.", "military", "authority", "ies", "has", "been", "granted", "asylum", "here", "in", "the", "united", "states", ",", "together", "with", "his", "wife", "and", "daughter.", "they", "'re", "currently", "in", "the", "washington", ",", "d", ".", "c.", "area.", "an", "official", "tells", "our", "justice", "producer", "terry", "frieden.", "so", "that", "development", "important.", "might", "get", "more", "information", "from", "secretary", "tom", "ridge", "when", "he", "delivers", "that", "speech", "over", "at", "the", "press", "club", "in", "the", "next", "hour.", "we", "'ll", "be", "monitoring", "that", "as", "well.", "we", "also", "have", "an", "update", "on", "that", "disturbing", "development", "outside", "baghdad.", "about", "40", "miles", "or", "so", "outside", "baghdad", "in", "fallujah", "where", "there", "was", "h", "a", "shootout", "between", "u", ".", "s.", "troops", "and", "iraqies", "who", "had", "been", "demonstrating", "there.", "karl", "penhaul", "is", "joining", "us", "life", "on", "the", "phone", "with", "more.", "first", "of", "all", ",", "karl", ",", "how", "many", "iraqis", "were", "killed", "in", "that", "incident", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "about 40 miles or so outside baghdad in fallujah where there was h a shootout between u.s. troops and iraqies who had been demonstrating there",
+  "sentence_length" : 256,
+  "mentionArg2" : {
+    "extent" : "fallujah where there was h a shootout between u.s. troops and iraqies who had been demonstrating there",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E26-36",
+    "start" : 211,
+    "end" : 229
+  },
+  "relationID" : "CNN_ENG_20030429_110706.7-R14",
+  "mentionArg1" : {
+    "extent" : "iraqies who had been demonstrating there",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E28-40",
+    "start" : 224,
+    "end" : 229
+  },
+  "id" : "CNN_ENG_20030429_110706.7-R14-1",
+  "relationSubType" : "Located",
+  "Sentence" : "welcome back. we 're standing by for the white house press briefing. ari fleischer expected to come into the west wing briefing room to brief reporters on a wide variety of subjekts. we 're all getting this note in , this news in from the speech that the homeland security secretary tom ridge is expected to be delivering at the international press club around 1:00 eastern at the top of the hour. we 're expecting that the homeland security secretary will announce the iraqi lawyer who provided information that helped in the rescue op private first class jessica lynch the former p . o . w . , that this iraqi lawyer , who provided the information to u . s. military authority ies has been granted asylum here in the united states , together with his wife and daughter. they 're currently in the washington , d . c. area. an official tells our justice producer terry frieden. so that development important. might get more information from secretary tom ridge when he delivers that speech over at the press club in the next hour. we 'll be monitoring that as well. we also have an update on that disturbing development outside baghdad. about 40 miles or so outside baghdad in fallujah where there was h a shootout between u . s. troops and iraqies who had been demonstrating there. karl penhaul is joining us life on the phone with more. first of all , karl , how many iraqis were killed in that incident ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "back.", "we", "'re", "standing", "by", "for", "the", "white", "house", "press", "briefing.", "ari", "fleischer", "expected", "to", "come", "into", "the", "west", "wing", "briefing", "room", "to", "brief", "reporters", "on", "a", "wide", "variety", "of", "subjekts.", "we", "'re", "all", "getting", "this", "note", "in", ",", "this", "news", "in", "from", "the", "speech", "that", "the", "homeland", "security", "secretary", "tom", "ridge", "is", "expected", "to", "be", "delivering", "at", "the", "international", "press", "club", "around", "1:00", "eastern", "at", "the", "top", "of", "the", "hour.", "we", "'re", "expecting", "that", "the", "homeland", "security", "secretary", "will", "announce", "the", "iraqi", "lawyer", "who", "provided", "information", "that", "helped", "in", "the", "rescue", "op", "private", "first", "class", "jessica", "lynch", "the", "former", "p", ".", "o", ".", "w", ".", ",", "that", "this", "iraqi", "lawyer", ",", "who", "provided", "the", "information", "to", "u", ".", "s.", "military", "authority", "ies", "has", "been", "granted", "asylum", "here", "in", "the", "united", "states", ",", "together", "with", "his", "wife", "and", "daughter.", "they", "'re", "currently", "in", "the", "washington", ",", "d", ".", "c.", "area.", "an", "official", "tells", "our", "justice", "producer", "terry", "frieden.", "so", "that", "development", "important.", "might", "get", "more", "information", "from", "secretary", "tom", "ridge", "when", "he", "delivers", "that", "speech", "over", "at", "the", "press", "club", "in", "the", "next", "hour.", "we", "'ll", "be", "monitoring", "that", "as", "well.", "we", "also", "have", "an", "update", "on", "that", "disturbing", "development", "outside", "baghdad.", "about", "40", "miles", "or", "so", "outside", "baghdad", "in", "fallujah", "where", "there", "was", "h", "a", "shootout", "between", "u", ".", "s.", "troops", "and", "iraqies", "who", "had", "been", "demonstrating", "there.", "karl", "penhaul", "is", "joining", "us", "life", "on", "the", "phone", "with", "more.", "first", "of", "all", ",", "karl", ",", "how", "many", "iraqis", "were", "killed", "in", "that", "incident", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "iraqies who had been demonstrating there",
+  "sentence_length" : 256,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E26-42",
+    "start" : 229,
+    "end" : 229
+  },
+  "relationID" : "CNN_ENG_20030429_110706.7-R14",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E28-41",
+    "start" : 225,
+    "end" : 225
+  },
+  "id" : "CNN_ENG_20030429_110706.7-R14-2",
+  "relationSubType" : "Located",
+  "Sentence" : "welcome back. we 're standing by for the white house press briefing. ari fleischer expected to come into the west wing briefing room to brief reporters on a wide variety of subjekts. we 're all getting this note in , this news in from the speech that the homeland security secretary tom ridge is expected to be delivering at the international press club around 1:00 eastern at the top of the hour. we 're expecting that the homeland security secretary will announce the iraqi lawyer who provided information that helped in the rescue op private first class jessica lynch the former p . o . w . , that this iraqi lawyer , who provided the information to u . s. military authority ies has been granted asylum here in the united states , together with his wife and daughter. they 're currently in the washington , d . c. area. an official tells our justice producer terry frieden. so that development important. might get more information from secretary tom ridge when he delivers that speech over at the press club in the next hour. we 'll be monitoring that as well. we also have an update on that disturbing development outside baghdad. about 40 miles or so outside baghdad in fallujah where there was h a shootout between u . s. troops and iraqies who had been demonstrating there. karl penhaul is joining us life on the phone with more. first of all , karl , how many iraqis were killed in that incident ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "back.", "we", "'re", "standing", "by", "for", "the", "white", "house", "press", "briefing.", "ari", "fleischer", "expected", "to", "come", "into", "the", "west", "wing", "briefing", "room", "to", "brief", "reporters", "on", "a", "wide", "variety", "of", "subjekts.", "we", "'re", "all", "getting", "this", "note", "in", ",", "this", "news", "in", "from", "the", "speech", "that", "the", "homeland", "security", "secretary", "tom", "ridge", "is", "expected", "to", "be", "delivering", "at", "the", "international", "press", "club", "around", "1:00", "eastern", "at", "the", "top", "of", "the", "hour.", "we", "'re", "expecting", "that", "the", "homeland", "security", "secretary", "will", "announce", "the", "iraqi", "lawyer", "who", "provided", "information", "that", "helped", "in", "the", "rescue", "op", "private", "first", "class", "jessica", "lynch", "the", "former", "p", ".", "o", ".", "w", ".", ",", "that", "this", "iraqi", "lawyer", ",", "who", "provided", "the", "information", "to", "u", ".", "s.", "military", "authority", "ies", "has", "been", "granted", "asylum", "here", "in", "the", "united", "states", ",", "together", "with", "his", "wife", "and", "daughter.", "they", "'re", "currently", "in", "the", "washington", ",", "d", ".", "c.", "area.", "an", "official", "tells", "our", "justice", "producer", "terry", "frieden.", "so", "that", "development", "important.", "might", "get", "more", "information", "from", "secretary", "tom", "ridge", "when", "he", "delivers", "that", "speech", "over", "at", "the", "press", "club", "in", "the", "next", "hour.", "we", "'ll", "be", "monitoring", "that", "as", "well.", "we", "also", "have", "an", "update", "on", "that", "disturbing", "development", "outside", "baghdad.", "about", "40", "miles", "or", "so", "outside", "baghdad", "in", "fallujah", "where", "there", "was", "h", "a", "shootout", "between", "u", ".", "s.", "troops", "and", "iraqies", "who", "had", "been", "demonstrating", "there.", "karl", "penhaul", "is", "joining", "us", "life", "on", "the", "phone", "with", "more.", "first", "of", "all", ",", "karl", ",", "how", "many", "iraqis", "were", "killed", "in", "that", "incident", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "they're currently in the washington, d.c. area",
+  "sentence_length" : 256,
+  "mentionArg2" : {
+    "extent" : "the washington, d.c. area",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E16-20",
+    "start" : 144,
+    "end" : 150
+  },
+  "relationID" : "CNN_ENG_20030429_110706.7-R15",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E15-19",
+    "start" : 140,
+    "end" : 140
+  },
+  "id" : "CNN_ENG_20030429_110706.7-R15-1",
+  "relationSubType" : "Located",
+  "Sentence" : "welcome back. we 're standing by for the white house press briefing. ari fleischer expected to come into the west wing briefing room to brief reporters on a wide variety of subjekts. we 're all getting this note in , this news in from the speech that the homeland security secretary tom ridge is expected to be delivering at the international press club around 1:00 eastern at the top of the hour. we 're expecting that the homeland security secretary will announce the iraqi lawyer who provided information that helped in the rescue op private first class jessica lynch the former p . o . w . , that this iraqi lawyer , who provided the information to u . s. military authority ies has been granted asylum here in the united states , together with his wife and daughter. they 're currently in the washington , d . c. area. an official tells our justice producer terry frieden. so that development important. might get more information from secretary tom ridge when he delivers that speech over at the press club in the next hour. we 'll be monitoring that as well. we also have an update on that disturbing development outside baghdad. about 40 miles or so outside baghdad in fallujah where there was h a shootout between u . s. troops and iraqies who had been demonstrating there. karl penhaul is joining us life on the phone with more. first of all , karl , how many iraqis were killed in that incident ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "back.", "we", "'re", "standing", "by", "for", "the", "white", "house", "press", "briefing.", "ari", "fleischer", "expected", "to", "come", "into", "the", "west", "wing", "briefing", "room", "to", "brief", "reporters", "on", "a", "wide", "variety", "of", "subjekts.", "we", "'re", "all", "getting", "this", "note", "in", ",", "this", "news", "in", "from", "the", "speech", "that", "the", "homeland", "security", "secretary", "tom", "ridge", "is", "expected", "to", "be", "delivering", "at", "the", "international", "press", "club", "around", "1:00", "eastern", "at", "the", "top", "of", "the", "hour.", "we", "'re", "expecting", "that", "the", "homeland", "security", "secretary", "will", "announce", "the", "iraqi", "lawyer", "who", "provided", "information", "that", "helped", "in", "the", "rescue", "op", "private", "first", "class", "jessica", "lynch", "the", "former", "p", ".", "o", ".", "w", ".", ",", "that", "this", "iraqi", "lawyer", ",", "who", "provided", "the", "information", "to", "u", ".", "s.", "military", "authority", "ies", "has", "been", "granted", "asylum", "here", "in", "the", "united", "states", ",", "together", "with", "his", "wife", "and", "daughter.", "they", "'re", "currently", "in", "the", "washington", ",", "d", ".", "c.", "area.", "an", "official", "tells", "our", "justice", "producer", "terry", "frieden.", "so", "that", "development", "important.", "might", "get", "more", "information", "from", "secretary", "tom", "ridge", "when", "he", "delivers", "that", "speech", "over", "at", "the", "press", "club", "in", "the", "next", "hour.", "we", "'ll", "be", "monitoring", "that", "as", "well.", "we", "also", "have", "an", "update", "on", "that", "disturbing", "development", "outside", "baghdad.", "about", "40", "miles", "or", "so", "outside", "baghdad", "in", "fallujah", "where", "there", "was", "h", "a", "shootout", "between", "u", ".", "s.", "troops", "and", "iraqies", "who", "had", "been", "demonstrating", "there.", "karl", "penhaul", "is", "joining", "us", "life", "on", "the", "phone", "with", "more.", "first", "of", "all", ",", "karl", ",", "how", "many", "iraqis", "were", "killed", "in", "that", "incident", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the washington, d.c. area",
+  "sentence_length" : 256,
+  "mentionArg2" : {
+    "extent" : "the washington, d.c. area",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E16-20",
+    "start" : 144,
+    "end" : 150
+  },
+  "relationID" : "CNN_ENG_20030429_110706.7-R16",
+  "mentionArg1" : {
+    "extent" : "washington, d.c",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E17-21",
+    "start" : 145,
+    "end" : 149
+  },
+  "id" : "CNN_ENG_20030429_110706.7-R16-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "welcome back. we 're standing by for the white house press briefing. ari fleischer expected to come into the west wing briefing room to brief reporters on a wide variety of subjekts. we 're all getting this note in , this news in from the speech that the homeland security secretary tom ridge is expected to be delivering at the international press club around 1:00 eastern at the top of the hour. we 're expecting that the homeland security secretary will announce the iraqi lawyer who provided information that helped in the rescue op private first class jessica lynch the former p . o . w . , that this iraqi lawyer , who provided the information to u . s. military authority ies has been granted asylum here in the united states , together with his wife and daughter. they 're currently in the washington , d . c. area. an official tells our justice producer terry frieden. so that development important. might get more information from secretary tom ridge when he delivers that speech over at the press club in the next hour. we 'll be monitoring that as well. we also have an update on that disturbing development outside baghdad. about 40 miles or so outside baghdad in fallujah where there was h a shootout between u . s. troops and iraqies who had been demonstrating there. karl penhaul is joining us life on the phone with more. first of all , karl , how many iraqis were killed in that incident ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "back.", "we", "'re", "standing", "by", "for", "the", "white", "house", "press", "briefing.", "ari", "fleischer", "expected", "to", "come", "into", "the", "west", "wing", "briefing", "room", "to", "brief", "reporters", "on", "a", "wide", "variety", "of", "subjekts.", "we", "'re", "all", "getting", "this", "note", "in", ",", "this", "news", "in", "from", "the", "speech", "that", "the", "homeland", "security", "secretary", "tom", "ridge", "is", "expected", "to", "be", "delivering", "at", "the", "international", "press", "club", "around", "1:00", "eastern", "at", "the", "top", "of", "the", "hour.", "we", "'re", "expecting", "that", "the", "homeland", "security", "secretary", "will", "announce", "the", "iraqi", "lawyer", "who", "provided", "information", "that", "helped", "in", "the", "rescue", "op", "private", "first", "class", "jessica", "lynch", "the", "former", "p", ".", "o", ".", "w", ".", ",", "that", "this", "iraqi", "lawyer", ",", "who", "provided", "the", "information", "to", "u", ".", "s.", "military", "authority", "ies", "has", "been", "granted", "asylum", "here", "in", "the", "united", "states", ",", "together", "with", "his", "wife", "and", "daughter.", "they", "'re", "currently", "in", "the", "washington", ",", "d", ".", "c.", "area.", "an", "official", "tells", "our", "justice", "producer", "terry", "frieden.", "so", "that", "development", "important.", "might", "get", "more", "information", "from", "secretary", "tom", "ridge", "when", "he", "delivers", "that", "speech", "over", "at", "the", "press", "club", "in", "the", "next", "hour.", "we", "'ll", "be", "monitoring", "that", "as", "well.", "we", "also", "have", "an", "update", "on", "that", "disturbing", "development", "outside", "baghdad.", "about", "40", "miles", "or", "so", "outside", "baghdad", "in", "fallujah", "where", "there", "was", "h", "a", "shootout", "between", "u", ".", "s.", "troops", "and", "iraqies", "who", "had", "been", "demonstrating", "there.", "karl", "penhaul", "is", "joining", "us", "life", "on", "the", "phone", "with", "more.", "first", "of", "all", ",", "karl", ",", "how", "many", "iraqis", "were", "killed", "in", "that", "incident", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "our justice producer",
+  "sentence_length" : 256,
+  "mentionArg2" : {
+    "extent" : "our justice producer",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E20-25",
+    "start" : 154,
+    "end" : 156
+  },
+  "relationID" : "CNN_ENG_20030429_110706.7-R17",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E24-26",
+    "start" : 154,
+    "end" : 154
+  },
+  "id" : "CNN_ENG_20030429_110706.7-R17-1",
+  "relationSubType" : "Business",
+  "Sentence" : "welcome back. we 're standing by for the white house press briefing. ari fleischer expected to come into the west wing briefing room to brief reporters on a wide variety of subjekts. we 're all getting this note in , this news in from the speech that the homeland security secretary tom ridge is expected to be delivering at the international press club around 1:00 eastern at the top of the hour. we 're expecting that the homeland security secretary will announce the iraqi lawyer who provided information that helped in the rescue op private first class jessica lynch the former p . o . w . , that this iraqi lawyer , who provided the information to u . s. military authority ies has been granted asylum here in the united states , together with his wife and daughter. they 're currently in the washington , d . c. area. an official tells our justice producer terry frieden. so that development important. might get more information from secretary tom ridge when he delivers that speech over at the press club in the next hour. we 'll be monitoring that as well. we also have an update on that disturbing development outside baghdad. about 40 miles or so outside baghdad in fallujah where there was h a shootout between u . s. troops and iraqies who had been demonstrating there. karl penhaul is joining us life on the phone with more. first of all , karl , how many iraqis were killed in that incident ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "back.", "we", "'re", "standing", "by", "for", "the", "white", "house", "press", "briefing.", "ari", "fleischer", "expected", "to", "come", "into", "the", "west", "wing", "briefing", "room", "to", "brief", "reporters", "on", "a", "wide", "variety", "of", "subjekts.", "we", "'re", "all", "getting", "this", "note", "in", ",", "this", "news", "in", "from", "the", "speech", "that", "the", "homeland", "security", "secretary", "tom", "ridge", "is", "expected", "to", "be", "delivering", "at", "the", "international", "press", "club", "around", "1:00", "eastern", "at", "the", "top", "of", "the", "hour.", "we", "'re", "expecting", "that", "the", "homeland", "security", "secretary", "will", "announce", "the", "iraqi", "lawyer", "who", "provided", "information", "that", "helped", "in", "the", "rescue", "op", "private", "first", "class", "jessica", "lynch", "the", "former", "p", ".", "o", ".", "w", ".", ",", "that", "this", "iraqi", "lawyer", ",", "who", "provided", "the", "information", "to", "u", ".", "s.", "military", "authority", "ies", "has", "been", "granted", "asylum", "here", "in", "the", "united", "states", ",", "together", "with", "his", "wife", "and", "daughter.", "they", "'re", "currently", "in", "the", "washington", ",", "d", ".", "c.", "area.", "an", "official", "tells", "our", "justice", "producer", "terry", "frieden.", "so", "that", "development", "important.", "might", "get", "more", "information", "from", "secretary", "tom", "ridge", "when", "he", "delivers", "that", "speech", "over", "at", "the", "press", "club", "in", "the", "next", "hour.", "we", "'ll", "be", "monitoring", "that", "as", "well.", "we", "also", "have", "an", "update", "on", "that", "disturbing", "development", "outside", "baghdad.", "about", "40", "miles", "or", "so", "outside", "baghdad", "in", "fallujah", "where", "there", "was", "h", "a", "shootout", "between", "u", ".", "s.", "troops", "and", "iraqies", "who", "had", "been", "demonstrating", "there.", "karl", "penhaul", "is", "joining", "us", "life", "on", "the", "phone", "with", "more.", "first", "of", "all", ",", "karl", ",", "how", "many", "iraqis", "were", "killed", "in", "that", "incident", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "about 40 miles or so outside baghdad in fallujah where there was h a shootout between u.s. troops and iraqies who had been demonstrating there",
+  "sentence_length" : 256,
+  "mentionArg2" : {
+    "extent" : "fallujah where there was h a shootout between u.s. troops and iraqies who had been demonstrating there",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E26-36",
+    "start" : 211,
+    "end" : 229
+  },
+  "relationID" : "CNN_ENG_20030429_110706.7-R19",
+  "mentionArg1" : {
+    "extent" : "baghdad",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E12-9",
+    "start" : 209,
+    "end" : 209
+  },
+  "id" : "CNN_ENG_20030429_110706.7-R19-1",
+  "relationSubType" : "Near",
+  "Sentence" : "welcome back. we 're standing by for the white house press briefing. ari fleischer expected to come into the west wing briefing room to brief reporters on a wide variety of subjekts. we 're all getting this note in , this news in from the speech that the homeland security secretary tom ridge is expected to be delivering at the international press club around 1:00 eastern at the top of the hour. we 're expecting that the homeland security secretary will announce the iraqi lawyer who provided information that helped in the rescue op private first class jessica lynch the former p . o . w . , that this iraqi lawyer , who provided the information to u . s. military authority ies has been granted asylum here in the united states , together with his wife and daughter. they 're currently in the washington , d . c. area. an official tells our justice producer terry frieden. so that development important. might get more information from secretary tom ridge when he delivers that speech over at the press club in the next hour. we 'll be monitoring that as well. we also have an update on that disturbing development outside baghdad. about 40 miles or so outside baghdad in fallujah where there was h a shootout between u . s. troops and iraqies who had been demonstrating there. karl penhaul is joining us life on the phone with more. first of all , karl , how many iraqis were killed in that incident ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "back.", "we", "'re", "standing", "by", "for", "the", "white", "house", "press", "briefing.", "ari", "fleischer", "expected", "to", "come", "into", "the", "west", "wing", "briefing", "room", "to", "brief", "reporters", "on", "a", "wide", "variety", "of", "subjekts.", "we", "'re", "all", "getting", "this", "note", "in", ",", "this", "news", "in", "from", "the", "speech", "that", "the", "homeland", "security", "secretary", "tom", "ridge", "is", "expected", "to", "be", "delivering", "at", "the", "international", "press", "club", "around", "1:00", "eastern", "at", "the", "top", "of", "the", "hour.", "we", "'re", "expecting", "that", "the", "homeland", "security", "secretary", "will", "announce", "the", "iraqi", "lawyer", "who", "provided", "information", "that", "helped", "in", "the", "rescue", "op", "private", "first", "class", "jessica", "lynch", "the", "former", "p", ".", "o", ".", "w", ".", ",", "that", "this", "iraqi", "lawyer", ",", "who", "provided", "the", "information", "to", "u", ".", "s.", "military", "authority", "ies", "has", "been", "granted", "asylum", "here", "in", "the", "united", "states", ",", "together", "with", "his", "wife", "and", "daughter.", "they", "'re", "currently", "in", "the", "washington", ",", "d", ".", "c.", "area.", "an", "official", "tells", "our", "justice", "producer", "terry", "frieden.", "so", "that", "development", "important.", "might", "get", "more", "information", "from", "secretary", "tom", "ridge", "when", "he", "delivers", "that", "speech", "over", "at", "the", "press", "club", "in", "the", "next", "hour.", "we", "'ll", "be", "monitoring", "that", "as", "well.", "we", "also", "have", "an", "update", "on", "that", "disturbing", "development", "outside", "baghdad.", "about", "40", "miles", "or", "so", "outside", "baghdad", "in", "fallujah", "where", "there", "was", "h", "a", "shootout", "between", "u", ".", "s.", "troops", "and", "iraqies", "who", "had", "been", "demonstrating", "there.", "karl", "penhaul", "is", "joining", "us", "life", "on", "the", "phone", "with", "more.", "first", "of", "all", ",", "karl", ",", "how", "many", "iraqis", "were", "killed", "in", "that", "incident", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "about 40 miles or so outside baghdad in fallujah where there was h a shootout between u.s. troops and iraqies who had been demonstrating there",
+  "sentence_length" : 256,
+  "mentionArg2" : {
+    "extent" : "where",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E26-37",
+    "start" : 212,
+    "end" : 212
+  },
+  "relationID" : "CNN_ENG_20030429_110706.7-R20",
+  "mentionArg1" : {
+    "extent" : "u.s. troops",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E27-38",
+    "start" : 219,
+    "end" : 222
+  },
+  "id" : "CNN_ENG_20030429_110706.7-R20-1",
+  "relationSubType" : "Located",
+  "Sentence" : "welcome back. we 're standing by for the white house press briefing. ari fleischer expected to come into the west wing briefing room to brief reporters on a wide variety of subjekts. we 're all getting this note in , this news in from the speech that the homeland security secretary tom ridge is expected to be delivering at the international press club around 1:00 eastern at the top of the hour. we 're expecting that the homeland security secretary will announce the iraqi lawyer who provided information that helped in the rescue op private first class jessica lynch the former p . o . w . , that this iraqi lawyer , who provided the information to u . s. military authority ies has been granted asylum here in the united states , together with his wife and daughter. they 're currently in the washington , d . c. area. an official tells our justice producer terry frieden. so that development important. might get more information from secretary tom ridge when he delivers that speech over at the press club in the next hour. we 'll be monitoring that as well. we also have an update on that disturbing development outside baghdad. about 40 miles or so outside baghdad in fallujah where there was h a shootout between u . s. troops and iraqies who had been demonstrating there. karl penhaul is joining us life on the phone with more. first of all , karl , how many iraqis were killed in that incident ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "back.", "we", "'re", "standing", "by", "for", "the", "white", "house", "press", "briefing.", "ari", "fleischer", "expected", "to", "come", "into", "the", "west", "wing", "briefing", "room", "to", "brief", "reporters", "on", "a", "wide", "variety", "of", "subjekts.", "we", "'re", "all", "getting", "this", "note", "in", ",", "this", "news", "in", "from", "the", "speech", "that", "the", "homeland", "security", "secretary", "tom", "ridge", "is", "expected", "to", "be", "delivering", "at", "the", "international", "press", "club", "around", "1:00", "eastern", "at", "the", "top", "of", "the", "hour.", "we", "'re", "expecting", "that", "the", "homeland", "security", "secretary", "will", "announce", "the", "iraqi", "lawyer", "who", "provided", "information", "that", "helped", "in", "the", "rescue", "op", "private", "first", "class", "jessica", "lynch", "the", "former", "p", ".", "o", ".", "w", ".", ",", "that", "this", "iraqi", "lawyer", ",", "who", "provided", "the", "information", "to", "u", ".", "s.", "military", "authority", "ies", "has", "been", "granted", "asylum", "here", "in", "the", "united", "states", ",", "together", "with", "his", "wife", "and", "daughter.", "they", "'re", "currently", "in", "the", "washington", ",", "d", ".", "c.", "area.", "an", "official", "tells", "our", "justice", "producer", "terry", "frieden.", "so", "that", "development", "important.", "might", "get", "more", "information", "from", "secretary", "tom", "ridge", "when", "he", "delivers", "that", "speech", "over", "at", "the", "press", "club", "in", "the", "next", "hour.", "we", "'ll", "be", "monitoring", "that", "as", "well.", "we", "also", "have", "an", "update", "on", "that", "disturbing", "development", "outside", "baghdad.", "about", "40", "miles", "or", "so", "outside", "baghdad", "in", "fallujah", "where", "there", "was", "h", "a", "shootout", "between", "u", ".", "s.", "troops", "and", "iraqies", "who", "had", "been", "demonstrating", "there.", "karl", "penhaul", "is", "joining", "us", "life", "on", "the", "phone", "with", "more.", "first", "of", "all", ",", "karl", ",", "how", "many", "iraqis", "were", "killed", "in", "that", "incident", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his wife and daughter",
+  "sentence_length" : 256,
+  "mentionArg2" : {
+    "extent" : "his wife and daughter",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E14-18",
+    "start" : 136,
+    "end" : 139
+  },
+  "relationID" : "CNN_ENG_20030429_110706.7-R22",
+  "mentionArg1" : {
+    "extent" : "his wife and daughter",
+    "argMentionid" : "CNN_ENG_20030429_110706.7-E13-16",
+    "start" : 136,
+    "end" : 139
+  },
+  "id" : "CNN_ENG_20030429_110706.7-R22-1",
+  "relationSubType" : "Family",
+  "Sentence" : "welcome back. we 're standing by for the white house press briefing. ari fleischer expected to come into the west wing briefing room to brief reporters on a wide variety of subjekts. we 're all getting this note in , this news in from the speech that the homeland security secretary tom ridge is expected to be delivering at the international press club around 1:00 eastern at the top of the hour. we 're expecting that the homeland security secretary will announce the iraqi lawyer who provided information that helped in the rescue op private first class jessica lynch the former p . o . w . , that this iraqi lawyer , who provided the information to u . s. military authority ies has been granted asylum here in the united states , together with his wife and daughter. they 're currently in the washington , d . c. area. an official tells our justice producer terry frieden. so that development important. might get more information from secretary tom ridge when he delivers that speech over at the press club in the next hour. we 'll be monitoring that as well. we also have an update on that disturbing development outside baghdad. about 40 miles or so outside baghdad in fallujah where there was h a shootout between u . s. troops and iraqies who had been demonstrating there. karl penhaul is joining us life on the phone with more. first of all , karl , how many iraqis were killed in that incident ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "back.", "we", "'re", "standing", "by", "for", "the", "white", "house", "press", "briefing.", "ari", "fleischer", "expected", "to", "come", "into", "the", "west", "wing", "briefing", "room", "to", "brief", "reporters", "on", "a", "wide", "variety", "of", "subjekts.", "we", "'re", "all", "getting", "this", "note", "in", ",", "this", "news", "in", "from", "the", "speech", "that", "the", "homeland", "security", "secretary", "tom", "ridge", "is", "expected", "to", "be", "delivering", "at", "the", "international", "press", "club", "around", "1:00", "eastern", "at", "the", "top", "of", "the", "hour.", "we", "'re", "expecting", "that", "the", "homeland", "security", "secretary", "will", "announce", "the", "iraqi", "lawyer", "who", "provided", "information", "that", "helped", "in", "the", "rescue", "op", "private", "first", "class", "jessica", "lynch", "the", "former", "p", ".", "o", ".", "w", ".", ",", "that", "this", "iraqi", "lawyer", ",", "who", "provided", "the", "information", "to", "u", ".", "s.", "military", "authority", "ies", "has", "been", "granted", "asylum", "here", "in", "the", "united", "states", ",", "together", "with", "his", "wife", "and", "daughter.", "they", "'re", "currently", "in", "the", "washington", ",", "d", ".", "c.", "area.", "an", "official", "tells", "our", "justice", "producer", "terry", "frieden.", "so", "that", "development", "important.", "might", "get", "more", "information", "from", "secretary", "tom", "ridge", "when", "he", "delivers", "that", "speech", "over", "at", "the", "press", "club", "in", "the", "next", "hour.", "we", "'ll", "be", "monitoring", "that", "as", "well.", "we", "also", "have", "an", "update", "on", "that", "disturbing", "development", "outside", "baghdad.", "about", "40", "miles", "or", "so", "outside", "baghdad", "in", "fallujah", "where", "there", "was", "h", "a", "shootout", "between", "u", ".", "s.", "troops", "and", "iraqies", "who", "had", "been", "demonstrating", "there.", "karl", "penhaul", "is", "joining", "us", "life", "on", "the", "phone", "with", "more.", "first", "of", "all", ",", "karl", ",", "how", "many", "iraqis", "were", "killed", "in", "that", "incident", "?" ]
+} ]

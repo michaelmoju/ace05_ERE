@@ -1,0 +1,287 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "the governors,  of New Mexico, or is it Arizona, and particularly Kansas",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Arizona",
+    "argMentionid" : "fsh_29105-E19-99",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "fsh_29105-R1",
+  "mentionArg1" : {
+    "extent" : "the governors,  of New Mexico, or is it Arizona, and particularly Kansas",
+    "argMentionid" : "fsh_29105-E17-96",
+    "start" : 8,
+    "end" : 22
+  },
+  "id" : "fsh_29105-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "A Do s- -- Do some reading on the governors , of New Mexico , or is it Arizona , and particularly Kansas , and the governor of North Carolina .",
+  "sentence_index" : 33,
+  "Tokens" : [ "A", "Do", "s-", "--", "Do", "some", "reading", "on", "the", "governors", ",", "of", "New", "Mexico", ",", "or", "is", "it", "Arizona", ",", "and", "particularly", "Kansas", ",", "and", "the", "governor", "of", "North", "Carolina", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the governors,  of New Mexico, or is it Arizona, and particularly Kansas",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Kansas",
+    "argMentionid" : "fsh_29105-E20-100",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "fsh_29105-R2",
+  "mentionArg1" : {
+    "extent" : "the governors,  of New Mexico, or is it Arizona, and particularly Kansas",
+    "argMentionid" : "fsh_29105-E17-96",
+    "start" : 8,
+    "end" : 22
+  },
+  "id" : "fsh_29105-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "A Do s- -- Do some reading on the governors , of New Mexico , or is it Arizona , and particularly Kansas , and the governor of North Carolina .",
+  "sentence_index" : 33,
+  "Tokens" : [ "A", "Do", "s-", "--", "Do", "some", "reading", "on", "the", "governors", ",", "of", "New", "Mexico", ",", "or", "is", "it", "Arizona", ",", "and", "particularly", "Kansas", ",", "and", "the", "governor", "of", "North", "Carolina", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "He -- we ha- -- I came from a small town in Tennessee called Paris, and there's two stations we can pick up, one",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "a small town in Tennessee called Paris",
+    "argMentionid" : "fsh_29105-E25-109",
+    "start" : 8,
+    "end" : 14
+  },
+  "relationID" : "fsh_29105-R3",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29105-E2-17",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "fsh_29105-R3-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "He -- we ha- -- I came from a small town in Tennessee called Paris , and there 's two stations we can pick up , one B Okay .",
+  "sentence_index" : 38,
+  "Tokens" : [ "He", "--", "we", "ha-", "--", "I", "came", "from", "a", "small", "town", "in", "Tennessee", "called", "Paris", ",", "and", "there", "'s", "two", "stations", "we", "can", "pick", "up", ",", "one", "B", "Okay", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the governor of North Carolina",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "North Carolina",
+    "argMentionid" : "fsh_29105-E22-102",
+    "start" : 28,
+    "end" : 29
+  },
+  "relationID" : "fsh_29105-R4",
+  "mentionArg1" : {
+    "extent" : "the governor of North Carolina",
+    "argMentionid" : "fsh_29105-E21-101",
+    "start" : 25,
+    "end" : 29
+  },
+  "id" : "fsh_29105-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "A Do s- -- Do some reading on the governors , of New Mexico , or is it Arizona , and particularly Kansas , and the governor of North Carolina .",
+  "sentence_index" : 33,
+  "Tokens" : [ "A", "Do", "s-", "--", "Do", "some", "reading", "on", "the", "governors", ",", "of", "New", "Mexico", ",", "or", "is", "it", "Arizona", ",", "and", "particularly", "Kansas", ",", "and", "the", "governor", "of", "North", "Carolina", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a small town in Tennessee called Paris",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Tennessee",
+    "argMentionid" : "fsh_29105-E29-115",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "fsh_29105-R5",
+  "mentionArg1" : {
+    "extent" : "a small town in Tennessee called Paris",
+    "argMentionid" : "fsh_29105-E25-109",
+    "start" : 8,
+    "end" : 14
+  },
+  "id" : "fsh_29105-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "He -- we ha- -- I came from a small town in Tennessee called Paris , and there 's two stations we can pick up , one B Okay .",
+  "sentence_index" : 38,
+  "Tokens" : [ "He", "--", "we", "ha-", "--", "I", "came", "from", "a", "small", "town", "in", "Tennessee", "called", "Paris", ",", "and", "there", "'s", "two", "stations", "we", "can", "pick", "up", ",", "one", "B", "Okay", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the governor of Arkansas",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Arkansas",
+    "argMentionid" : "fsh_29105-E35-131",
+    "start" : 30,
+    "end" : 30
+  },
+  "relationID" : "fsh_29105-R6",
+  "mentionArg1" : {
+    "extent" : "the governor of Arkansas",
+    "argMentionid" : "fsh_29105-E26-130",
+    "start" : 27,
+    "end" : 30
+  },
+  "id" : "fsh_29105-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "So we got most of our ~ TV from Jackson , so I was flipping through the channels , and I saw this little guy , uh the governor of Arkansas giving a speech .",
+  "sentence_index" : 40,
+  "Tokens" : [ "So", "we", "got", "most", "of", "our", "~", "TV", "from", "Jackson", ",", "so", "I", "was", "flipping", "through", "the", "channels", ",", "and", "I", "saw", "this", "little", "guy", ",", "uh", "the", "governor", "of", "Arkansas", "giving", "a", "speech", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Oh no, no, he's too young, and he came from that little, little podunk -- g- uh state he never did anything",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "that little, little podunk -- g- uh state",
+    "argMentionid" : "fsh_29105-E35-161",
+    "start" : 14,
+    "end" : 22
+  },
+  "relationID" : "fsh_29105-R7",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "fsh_29105-E26-160",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "fsh_29105-R7-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Oh no , no , he 's too young , and he came from that little , little podunk -- g- uh state he never did anything .",
+  "sentence_index" : 57,
+  "Tokens" : [ "Oh", "no", ",", "no", ",", "he", "'s", "too", "young", ",", "and", "he", "came", "from", "that", "little", ",", "little", "podunk", "--", "g-", "uh", "state", "he", "never", "did", "anything", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I worked at the Democrats Convention and everything",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "Democrats",
+    "argMentionid" : "fsh_29105-E45-231",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "fsh_29105-R8",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29105-E2-39",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29105-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "I worked at the Democrats Convention and everything .",
+  "sentence_index" : 71,
+  "Tokens" : [ "I", "worked", "at", "the", "Democrats", "Convention", "and", "everything", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the one from Kansas",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "Kansas",
+    "argMentionid" : "fsh_29105-E20-202",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "fsh_29105-R9",
+  "mentionArg1" : {
+    "extent" : "the one from Kansas",
+    "argMentionid" : "fsh_29105-E52-201",
+    "start" : 7,
+    "end" : 10
+  },
+  "id" : "fsh_29105-R9-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "A uh North Carolina , or like the one from Kansas .",
+  "sentence_index" : 79,
+  "Tokens" : [ "A", "uh", "North", "Carolina", ",", "or", "like", "the", "one", "from", "Kansas", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the governor of New Jersey",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "New Jersey",
+    "argMentionid" : "fsh_29105-E53-208",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "fsh_29105-R10",
+  "mentionArg1" : {
+    "extent" : "the governor of New Jersey",
+    "argMentionid" : "fsh_29105-E63-293",
+    "start" : 13,
+    "end" : 17
+  },
+  "id" : "fsh_29105-R10-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "She 's very tall , she reminds you of uh Christie Whitman , the governor of New Jersey , remember her ?",
+  "sentence_index" : 80,
+  "Tokens" : [ "She", "'s", "very", "tall", ",", "she", "reminds", "you", "of", "uh", "Christie", "Whitman", ",", "the", "governor", "of", "New", "Jersey", ",", "remember", "her", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "all my friends",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29105-E2-236",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "fsh_29105-R11",
+  "mentionArg1" : {
+    "extent" : "all my friends",
+    "argMentionid" : "fsh_29105-E37-141",
+    "start" : 9,
+    "end" : 11
+  },
+  "id" : "fsh_29105-R11-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "A I saw him , and I was telling all my friends , oh , vote for vote for this guy , Bill Clinton , vote for him .",
+  "sentence_index" : 52,
+  "Tokens" : [ "A", "I", "saw", "him", ",", "and", "I", "was", "telling", "all", "my", "friends", ",", "oh", ",", "vote", "for", "vote", "for", "this", "guy", ",", "Bill", "Clinton", ",", "vote", "for", "him", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "all my friends",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29105-E2-237",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "fsh_29105-R11",
+  "mentionArg1" : {
+    "extent" : "all my friends",
+    "argMentionid" : "fsh_29105-E37-164",
+    "start" : 3,
+    "end" : 5
+  },
+  "id" : "fsh_29105-R11-2",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "I was telling all my friends .",
+  "sentence_index" : 59,
+  "Tokens" : [ "I", "was", "telling", "all", "my", "friends", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the governors,  of New Mexico, or is it Arizona, and particularly Kansas",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "New Mexico",
+    "argMentionid" : "fsh_29105-E18-98",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "fsh_29105-R13",
+  "mentionArg1" : {
+    "extent" : "the governors,  of New Mexico, or is it Arizona, and particularly Kansas",
+    "argMentionid" : "fsh_29105-E17-96",
+    "start" : 8,
+    "end" : 22
+  },
+  "id" : "fsh_29105-R13-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "A Do s- -- Do some reading on the governors , of New Mexico , or is it Arizona , and particularly Kansas , and the governor of North Carolina .",
+  "sentence_index" : 33,
+  "Tokens" : [ "A", "Do", "s-", "--", "Do", "some", "reading", "on", "the", "governors", ",", "of", "New", "Mexico", ",", "or", "is", "it", "Arizona", ",", "and", "particularly", "Kansas", ",", "and", "the", "governor", "of", "North", "Carolina", "." ]
+} ]

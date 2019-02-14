@@ -1,0 +1,397 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Malaysia's second highest court",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Malaysia's",
+    "argMentionid" : "APW_ENG_20030418.0084-E35-79",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030418.0084-R1",
+  "mentionArg1" : {
+    "extent" : "Malaysia's second highest court",
+    "argMentionid" : "APW_ENG_20030418.0084-E38-80",
+    "start" : 7,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030418.0084-R1-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "KUALA LUMPUR , Malaysia ( AP ) Malaysia 's second highest court on Friday rejected an appeal by jailed former Deputy Prime Minister Anwar Ibrahim against his conviction and nine-year prison sentence for sodomy .",
+  "sentence_index" : 0,
+  "Tokens" : [ "KUALA", "LUMPUR", ",", "Malaysia", "(", "AP", ")", "Malaysia", "'s", "second", "highest", "court", "on", "Friday", "rejected", "an", "appeal", "by", "jailed", "former", "Deputy", "Prime", "Minister", "Anwar", "Ibrahim", "against", "his", "conviction", "and", "nine-year", "prison", "sentence", "for", "sodomy", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "KUALA LUMPUR, Malaysia",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Malaysia",
+    "argMentionid" : "APW_ENG_20030418.0084-E35-76",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030418.0084-R2",
+  "mentionArg1" : {
+    "extent" : "KUALA LUMPUR",
+    "argMentionid" : "APW_ENG_20030418.0084-E17-1",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030418.0084-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "KUALA LUMPUR , Malaysia ( AP ) Malaysia 's second highest court on Friday rejected an appeal by jailed former Deputy Prime Minister Anwar Ibrahim against his conviction and nine-year prison sentence for sodomy .",
+  "sentence_index" : 0,
+  "Tokens" : [ "KUALA", "LUMPUR", ",", "Malaysia", "(", "AP", ")", "Malaysia", "'s", "second", "highest", "court", "on", "Friday", "rejected", "an", "appeal", "by", "jailed", "former", "Deputy", "Prime", "Minister", "Anwar", "Ibrahim", "against", "his", "conviction", "and", "nine-year", "prison", "sentence", "for", "sodomy", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "A three-judge panel of the Court of Appeals",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "the Court of Appeals",
+    "argMentionid" : "APW_ENG_20030418.0084-E38-86",
+    "start" : 4,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030418.0084-R3",
+  "mentionArg1" : {
+    "extent" : "A three-judge panel",
+    "argMentionid" : "APW_ENG_20030418.0084-E41-84",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030418.0084-R3-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "A three-judge panel of the Court of Appeals unanimously upheld a verdict by High Court Judge Arifin Jaka nearly three years ago that found Anwar guilty of sodomizing his wife 's former driver .",
+  "sentence_index" : 1,
+  "Tokens" : [ "A", "three-judge", "panel", "of", "the", "Court", "of", "Appeals", "unanimously", "upheld", "a", "verdict", "by", "High", "Court", "Judge", "Arifin", "Jaka", "nearly", "three", "years", "ago", "that", "found", "Anwar", "guilty", "of", "sodomizing", "his", "wife", "'s", "former", "driver", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "High Court Judge Arifin Jaka",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "High Court",
+    "argMentionid" : "APW_ENG_20030418.0084-E45-89",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030418.0084-R4",
+  "mentionArg1" : {
+    "extent" : "High Court Judge Arifin Jaka",
+    "argMentionid" : "APW_ENG_20030418.0084-E43-87",
+    "start" : 13,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030418.0084-R4-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "A three-judge panel of the Court of Appeals unanimously upheld a verdict by High Court Judge Arifin Jaka nearly three years ago that found Anwar guilty of sodomizing his wife 's former driver .",
+  "sentence_index" : 1,
+  "Tokens" : [ "A", "three-judge", "panel", "of", "the", "Court", "of", "Appeals", "unanimously", "upheld", "a", "verdict", "by", "High", "Court", "Judge", "Arifin", "Jaka", "nearly", "three", "years", "ago", "that", "found", "Anwar", "guilty", "of", "sodomizing", "his", "wife", "'s", "former", "driver", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his wife's",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "his wife's",
+    "argMentionid" : "APW_ENG_20030418.0084-E1-92",
+    "start" : 28,
+    "end" : 30
+  },
+  "relationID" : "APW_ENG_20030418.0084-R5",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "APW_ENG_20030418.0084-E13-91",
+    "start" : 28,
+    "end" : 28
+  },
+  "id" : "APW_ENG_20030418.0084-R5-1",
+  "relationSubType" : "Family",
+  "Sentence" : "A three-judge panel of the Court of Appeals unanimously upheld a verdict by High Court Judge Arifin Jaka nearly three years ago that found Anwar guilty of sodomizing his wife 's former driver .",
+  "sentence_index" : 1,
+  "Tokens" : [ "A", "three-judge", "panel", "of", "the", "Court", "of", "Appeals", "unanimously", "upheld", "a", "verdict", "by", "High", "Court", "Judge", "Arifin", "Jaka", "nearly", "three", "years", "ago", "that", "found", "Anwar", "guilty", "of", "sodomizing", "his", "wife", "'s", "former", "driver", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his wife's former driver",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "his wife's former driver",
+    "argMentionid" : "APW_ENG_20030418.0084-E2-2",
+    "start" : 28,
+    "end" : 32
+  },
+  "relationID" : "APW_ENG_20030418.0084-R6",
+  "mentionArg1" : {
+    "extent" : "his wife's",
+    "argMentionid" : "APW_ENG_20030418.0084-E1-92",
+    "start" : 28,
+    "end" : 30
+  },
+  "id" : "APW_ENG_20030418.0084-R6-1",
+  "relationSubType" : "Business",
+  "Sentence" : "A three-judge panel of the Court of Appeals unanimously upheld a verdict by High Court Judge Arifin Jaka nearly three years ago that found Anwar guilty of sodomizing his wife 's former driver .",
+  "sentence_index" : 1,
+  "Tokens" : [ "A", "three-judge", "panel", "of", "the", "Court", "of", "Appeals", "unanimously", "upheld", "a", "verdict", "by", "High", "Court", "Judge", "Arifin", "Jaka", "nearly", "three", "years", "ago", "that", "found", "Anwar", "guilty", "of", "sodomizing", "his", "wife", "'s", "former", "driver", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "this predominantly Muslim Southeast Asian country",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "Southeast Asian",
+    "argMentionid" : "APW_ENG_20030418.0084-E4-5",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030418.0084-R7",
+  "mentionArg1" : {
+    "extent" : "this predominantly Muslim Southeast Asian country",
+    "argMentionid" : "APW_ENG_20030418.0084-E35-3",
+    "start" : 5,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030418.0084-R7-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Sodomy is a crime in this predominantly Muslim Southeast Asian country .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Sodomy", "is", "a", "crime", "in", "this", "predominantly", "Muslim", "Southeast", "Asian", "country", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "this predominantly Muslim Southeast Asian country",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "this predominantly Muslim Southeast Asian country",
+    "argMentionid" : "APW_ENG_20030418.0084-E35-3",
+    "start" : 5,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030418.0084-R8",
+  "mentionArg1" : {
+    "extent" : "Muslim",
+    "argMentionid" : "APW_ENG_20030418.0084-E3-4",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030418.0084-R8-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Sodomy is a crime in this predominantly Muslim Southeast Asian country .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Sodomy", "is", "a", "crime", "in", "this", "predominantly", "Muslim", "Southeast", "Asian", "country", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Malaysia's highest court",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "Malaysia's",
+    "argMentionid" : "APW_ENG_20030418.0084-E35-10",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030418.0084-R9",
+  "mentionArg1" : {
+    "extent" : "Malaysia's highest court",
+    "argMentionid" : "APW_ENG_20030418.0084-E5-9",
+    "start" : 11,
+    "end" : 14
+  },
+  "id" : "APW_ENG_20030418.0084-R9-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Anwar is expected to appeal again with the Federal Court , Malaysia 's highest court .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Anwar", "is", "expected", "to", "appeal", "again", "with", "the", "Federal", "Court", ",", "Malaysia", "'s", "highest", "court", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Anwar's lawyers",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "Anwar's lawyers",
+    "argMentionid" : "APW_ENG_20030418.0084-E10-21",
+    "start" : 1,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030418.0084-R10",
+  "mentionArg1" : {
+    "extent" : "Anwar's",
+    "argMentionid" : "APW_ENG_20030418.0084-E13-20",
+    "start" : 1,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030418.0084-R10-1",
+  "relationSubType" : "Business",
+  "Sentence" : "But Anwar 's lawyers said they were filing a fresh request for bail pending a further appeal .",
+  "sentence_index" : 8,
+  "Tokens" : [ "But", "Anwar", "'s", "lawyers", "said", "they", "were", "filing", "a", "fresh", "request", "for", "bail", "pending", "a", "further", "appeal", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his lawyers",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "his lawyers",
+    "argMentionid" : "APW_ENG_20030418.0084-E10-27",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030418.0084-R10",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "APW_ENG_20030418.0084-E13-26",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030418.0084-R10-2",
+  "relationSubType" : "Business",
+  "Sentence" : "He then began serving the nine-year prison sentence for sodomy , his lawyers said .",
+  "sentence_index" : 10,
+  "Tokens" : [ "He", "then", "began", "serving", "the", "nine-year", "prison", "sentence", "for", "sodomy", ",", "his", "lawyers", "said", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his former protege",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "his former protege",
+    "argMentionid" : "APW_ENG_20030418.0084-E13-31",
+    "start" : 7,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030418.0084-R12",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "APW_ENG_20030418.0084-E11-32",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030418.0084-R12-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "Prime Minister Mahathir Mohamad fired Anwar , his former protege , in 1998 following disputes over financial policy .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Prime", "Minister", "Mahathir", "Mohamad", "fired", "Anwar", ",", "his", "former", "protege", ",", "in", "1998", "following", "disputes", "over", "financial", "policy", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the London-based group",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "London",
+    "argMentionid" : "APW_ENG_20030418.0084-E21-48",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "APW_ENG_20030418.0084-R13",
+  "mentionArg1" : {
+    "extent" : "the London-based group",
+    "argMentionid" : "APW_ENG_20030418.0084-E15-47",
+    "start" : 27,
+    "end" : 29
+  },
+  "id" : "APW_ENG_20030418.0084-R13-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "`` This decision adds to the already widespread perception that in politically sensitive cases , the independence of the judiciary can no longer be guaranteed , '' the London-based group said in a statement .",
+  "sentence_index" : 16,
+  "Tokens" : [ "``", "This", "decision", "adds", "to", "the", "already", "widespread", "perception", "that", "in", "politically", "sensitive", "cases", ",", "the", "independence", "of", "the", "judiciary", "can", "no", "longer", "be", "guaranteed", ",", "''", "the", "London-based", "group", "said", "in", "a", "statement", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the U.N. special investigator on the freedom of judges and lawyers",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "U.N",
+    "argMentionid" : "APW_ENG_20030418.0084-E24-52",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030418.0084-R14",
+  "mentionArg1" : {
+    "extent" : "the U.N. special investigator on the freedom of judges and lawyers",
+    "argMentionid" : "APW_ENG_20030418.0084-E22-51",
+    "start" : 3,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030418.0084-R14-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Param Cumaraswamy , the U.N. special investigator on the freedom of judges and lawyers , said in a statement : `` So long as there are judges who are prepared to and continue to compromise the value and principles of their high office ... there is no hope for judicial independence and impartiality in the Malaysian justice system . ''",
+  "sentence_index" : 18,
+  "Tokens" : [ "Param", "Cumaraswamy", ",", "the", "U.N.", "special", "investigator", "on", "the", "freedom", "of", "judges", "and", "lawyers", ",", "said", "in", "a", "statement", ":", "``", "So", "long", "as", "there", "are", "judges", "who", "are", "prepared", "to", "and", "continue", "to", "compromise", "the", "value", "and", "principles", "of", "their", "high", "office", "...", "there", "is", "no", "hope", "for", "judicial", "independence", "and", "impartiality", "in", "the", "Malaysian", "justice", "system", ".", "''" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Malaysian justice system",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "Malaysian",
+    "argMentionid" : "APW_ENG_20030418.0084-E35-75",
+    "start" : 55,
+    "end" : 55
+  },
+  "relationID" : "APW_ENG_20030418.0084-R15",
+  "mentionArg1" : {
+    "extent" : "the Malaysian justice system",
+    "argMentionid" : "APW_ENG_20030418.0084-E20-58",
+    "start" : 54,
+    "end" : 57
+  },
+  "id" : "APW_ENG_20030418.0084-R15-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Param Cumaraswamy , the U.N. special investigator on the freedom of judges and lawyers , said in a statement : `` So long as there are judges who are prepared to and continue to compromise the value and principles of their high office ... there is no hope for judicial independence and impartiality in the Malaysian justice system . ''",
+  "sentence_index" : 18,
+  "Tokens" : [ "Param", "Cumaraswamy", ",", "the", "U.N.", "special", "investigator", "on", "the", "freedom", "of", "judges", "and", "lawyers", ",", "said", "in", "a", "statement", ":", "``", "So", "long", "as", "there", "are", "judges", "who", "are", "prepared", "to", "and", "continue", "to", "compromise", "the", "value", "and", "principles", "of", "their", "high", "office", "...", "there", "is", "no", "hope", "for", "judicial", "independence", "and", "impartiality", "in", "the", "Malaysian", "justice", "system", ".", "''" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "About 200 demonstrators outside the court",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "the court",
+    "argMentionid" : "APW_ENG_20030418.0084-E29-60",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030418.0084-R16",
+  "mentionArg1" : {
+    "extent" : "About 200 demonstrators outside the court",
+    "argMentionid" : "APW_ENG_20030418.0084-E28-59",
+    "start" : 0,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030418.0084-R16-1",
+  "relationSubType" : "Near",
+  "Sentence" : "About 200 demonstrators outside the court shouted Anwar 's slogan of `` Reformasi ! ''",
+  "sentence_index" : 19,
+  "Tokens" : [ "About", "200", "demonstrators", "outside", "the", "court", "shouted", "Anwar", "'s", "slogan", "of", "``", "Reformasi", "!", "''" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Police armed with automatic weapons",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "automatic weapons",
+    "argMentionid" : "APW_ENG_20030418.0084-E31-63",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030418.0084-R17",
+  "mentionArg1" : {
+    "extent" : "Police armed with automatic weapons",
+    "argMentionid" : "APW_ENG_20030418.0084-E30-62",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030418.0084-R17-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Police armed with automatic weapons stood by to prevent rowdiness .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Police", "armed", "with", "automatic", "weapons", "stood", "by", "to", "prevent", "rowdiness", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Anwar's adopted brother",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Anwar's adopted brother",
+    "argMentionid" : "APW_ENG_20030418.0084-E32-66",
+    "start" : 8,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030418.0084-R18",
+  "mentionArg1" : {
+    "extent" : "Anwar's",
+    "argMentionid" : "APW_ENG_20030418.0084-E13-69",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030418.0084-R18-1",
+  "relationSubType" : "Family",
+  "Sentence" : "The court also dismissed a joint appeal by Anwar 's adopted brother , Sukma Darmawan , who was convicted together with Anwar for sodomy in August 2000 and sentenced to six years in jail and whipping .",
+  "sentence_index" : 22,
+  "Tokens" : [ "The", "court", "also", "dismissed", "a", "joint", "appeal", "by", "Anwar", "'s", "adopted", "brother", ",", "Sukma", "Darmawan", ",", "who", "was", "convicted", "together", "with", "Anwar", "for", "sodomy", "in", "August", "2000", "and", "sentenced", "to", "six", "years", "in", "jail", "and", "whipping", "." ]
+} ]

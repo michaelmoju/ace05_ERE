@@ -1,0 +1,551 @@
+[ {
+  "relationType" : "ART",
+  "extent" : "make this final port call for some of these men and women on board who have been there for ten months at sea",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "port",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E59-81",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_ENG_20030502_093018.6-R1",
+  "mentionArg1" : {
+    "extent" : "some of these men and women on board who have been there for ten months at sea",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E12-141",
+    "start" : 6,
+    "end" : 22
+  },
+  "id" : "CNN_ENG_20030502_093018.6-R1-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "make this final port call for some of these men and women on board who have been there for ten months at sea. chad myers joining me on the set. typical perfect day in san diego waiting for these men and women to come home .",
+  "sentence_index" : 0,
+  "Tokens" : [ "make", "this", "final", "port", "call", "for", "some", "of", "these", "men", "and", "women", "on", "board", "who", "have", "been", "there", "for", "ten", "months", "at", "sea.", "chad", "myers", "joining", "me", "on", "the", "set.", "typical", "perfect", "day", "in", "san", "diego", "waiting", "for", "these", "men", "and", "women", "to", "come", "home", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "make this final port call for some of these men and women on board who have been there for ten months at sea",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "sea",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E64-147",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "CNN_ENG_20030502_093018.6-R2",
+  "mentionArg1" : {
+    "extent" : "some of these men and women on board who have been there for ten months at sea",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E12-141",
+    "start" : 6,
+    "end" : 22
+  },
+  "id" : "CNN_ENG_20030502_093018.6-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "make this final port call for some of these men and women on board who have been there for ten months at sea. chad myers joining me on the set. typical perfect day in san diego waiting for these men and women to come home .",
+  "sentence_index" : 0,
+  "Tokens" : [ "make", "this", "final", "port", "call", "for", "some", "of", "these", "men", "and", "women", "on", "board", "who", "have", "been", "there", "for", "ten", "months", "at", "sea.", "chad", "myers", "joining", "me", "on", "the", "set.", "typical", "perfect", "day", "in", "san", "diego", "waiting", "for", "these", "men", "and", "women", "to", "come", "home", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "got to think the last five minutes must feel like five days as they've spent ten months on the water",
+  "sentence_length" : 59,
+  "mentionArg2" : {
+    "extent" : "the water",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E64-51",
+    "start" : 41,
+    "end" : 42
+  },
+  "relationID" : "CNN_ENG_20030502_093018.6-R2",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E12-50",
+    "start" : 35,
+    "end" : 35
+  },
+  "id" : "CNN_ENG_20030502_093018.6-R2-2",
+  "relationSubType" : "Located",
+  "Sentence" : "we 're watching from the sidelines. you can just imagine what these people must be thinking and how antsy they must be. got to think the last five minutes must feel like five days as they 've spent ten months on the water. just about to come home. sense the anticipation there beginning to build on those docks .",
+  "sentence_index" : 11,
+  "Tokens" : [ "we", "'re", "watching", "from", "the", "sidelines.", "you", "can", "just", "imagine", "what", "these", "people", "must", "be", "thinking", "and", "how", "antsy", "they", "must", "be.", "got", "to", "think", "the", "last", "five", "minutes", "must", "feel", "like", "five", "days", "as", "they", "'ve", "spent", "ten", "months", "on", "the", "water.", "just", "about", "to", "come", "home.", "sense", "the", "anticipation", "there", "beginning", "to", "build", "on", "those", "docks", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "typical perfect day in san diego waiting for these men and women to come home",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "san diego",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E3-150",
+    "start" : 34,
+    "end" : 35
+  },
+  "relationID" : "CNN_ENG_20030502_093018.6-R3",
+  "mentionArg1" : {
+    "extent" : "these men and women",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E62-151",
+    "start" : 38,
+    "end" : 41
+  },
+  "id" : "CNN_ENG_20030502_093018.6-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "make this final port call for some of these men and women on board who have been there for ten months at sea. chad myers joining me on the set. typical perfect day in san diego waiting for these men and women to come home .",
+  "sentence_index" : 0,
+  "Tokens" : [ "make", "this", "final", "port", "call", "for", "some", "of", "these", "men", "and", "women", "on", "board", "who", "have", "been", "there", "for", "ten", "months", "at", "sea.", "chad", "myers", "joining", "me", "on", "the", "set.", "typical", "perfect", "day", "in", "san", "diego", "waiting", "for", "these", "men", "and", "women", "to", "come", "home", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "typical perfect day in san diego waiting for these men and women to come home",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "san diego",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E3-150",
+    "start" : 34,
+    "end" : 35
+  },
+  "relationID" : "CNN_ENG_20030502_093018.6-R4",
+  "mentionArg1" : {
+    "extent" : "these men and women",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E61-152",
+    "start" : 38,
+    "end" : 41
+  },
+  "id" : "CNN_ENG_20030502_093018.6-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "make this final port call for some of these men and women on board who have been there for ten months at sea. chad myers joining me on the set. typical perfect day in san diego waiting for these men and women to come home .",
+  "sentence_index" : 0,
+  "Tokens" : [ "make", "this", "final", "port", "call", "for", "some", "of", "these", "men", "and", "women", "on", "board", "who", "have", "been", "there", "for", "ten", "months", "at", "sea.", "chad", "myers", "joining", "me", "on", "the", "set.", "typical", "perfect", "day", "in", "san", "diego", "waiting", "for", "these", "men", "and", "women", "to", "come", "home", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "have you ever been down there",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E3-7",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_ENG_20030502_093018.6-R5",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E67-6",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "CNN_ENG_20030502_093018.6-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "have you ever been down there ?",
+  "sentence_index" : 3,
+  "Tokens" : [ "have", "you", "ever", "been", "down", "there", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the family members sitting at home",
+  "sentence_length" : 49,
+  "mentionArg2" : {
+    "extent" : "home",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E6-13",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "CNN_ENG_20030502_093018.6-R6",
+  "mentionArg1" : {
+    "extent" : "the family members sitting at home",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E4-11",
+    "start" : 5,
+    "end" : 10
+  },
+  "id" : "CNN_ENG_20030502_093018.6-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "i just think about all the family members sitting at home , sitting on the dock looking at this boat coming in. it 's just amazing. they were not on vacation. they were in danger. your loved ones are in danger for ten months. is he okay today ?",
+  "sentence_index" : 6,
+  "Tokens" : [ "i", "just", "think", "about", "all", "the", "family", "members", "sitting", "at", "home", ",", "sitting", "on", "the", "dock", "looking", "at", "this", "boat", "coming", "in.", "it", "'s", "just", "amazing.", "they", "were", "not", "on", "vacation.", "they", "were", "in", "danger.", "your", "loved", "ones", "are", "in", "danger", "for", "ten", "months.", "is", "he", "okay", "today", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the family members sitting at home",
+  "sentence_length" : 49,
+  "mentionArg2" : {
+    "extent" : "family",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E4-12",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_ENG_20030502_093018.6-R7",
+  "mentionArg1" : {
+    "extent" : "the family members sitting at home",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E4-11",
+    "start" : 5,
+    "end" : 10
+  },
+  "id" : "CNN_ENG_20030502_093018.6-R7-1",
+  "relationSubType" : "Family",
+  "Sentence" : "i just think about all the family members sitting at home , sitting on the dock looking at this boat coming in. it 's just amazing. they were not on vacation. they were in danger. your loved ones are in danger for ten months. is he okay today ?",
+  "sentence_index" : 6,
+  "Tokens" : [ "i", "just", "think", "about", "all", "the", "family", "members", "sitting", "at", "home", ",", "sitting", "on", "the", "dock", "looking", "at", "this", "boat", "coming", "in.", "it", "'s", "just", "amazing.", "they", "were", "not", "on", "vacation.", "they", "were", "in", "danger.", "your", "loved", "ones", "are", "in", "danger", "for", "ten", "months.", "is", "he", "okay", "today", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "i just think about all the family members sitting at home, sitting on the dock looking at this boat coming in",
+  "sentence_length" : 49,
+  "mentionArg2" : {
+    "extent" : "the dock",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E7-14",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "CNN_ENG_20030502_093018.6-R8",
+  "mentionArg1" : {
+    "extent" : "family",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E4-12",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "CNN_ENG_20030502_093018.6-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "i just think about all the family members sitting at home , sitting on the dock looking at this boat coming in. it 's just amazing. they were not on vacation. they were in danger. your loved ones are in danger for ten months. is he okay today ?",
+  "sentence_index" : 6,
+  "Tokens" : [ "i", "just", "think", "about", "all", "the", "family", "members", "sitting", "at", "home", ",", "sitting", "on", "the", "dock", "looking", "at", "this", "boat", "coming", "in.", "it", "'s", "just", "amazing.", "they", "were", "not", "on", "vacation.", "they", "were", "in", "danger.", "your", "loved", "ones", "are", "in", "danger", "for", "ten", "months.", "is", "he", "okay", "today", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "your loved ones",
+  "sentence_length" : 49,
+  "mentionArg2" : {
+    "extent" : "your loved ones",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E12-18",
+    "start" : 35,
+    "end" : 37
+  },
+  "relationID" : "CNN_ENG_20030502_093018.6-R9",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E9-19",
+    "start" : 35,
+    "end" : 35
+  },
+  "id" : "CNN_ENG_20030502_093018.6-R9-1",
+  "relationSubType" : "Family",
+  "Sentence" : "i just think about all the family members sitting at home , sitting on the dock looking at this boat coming in. it 's just amazing. they were not on vacation. they were in danger. your loved ones are in danger for ten months. is he okay today ?",
+  "sentence_index" : 6,
+  "Tokens" : [ "i", "just", "think", "about", "all", "the", "family", "members", "sitting", "at", "home", ",", "sitting", "on", "the", "dock", "looking", "at", "this", "boat", "coming", "in.", "it", "'s", "just", "amazing.", "they", "were", "not", "on", "vacation.", "they", "were", "in", "danger.", "your", "loved", "ones", "are", "in", "danger", "for", "ten", "months.", "is", "he", "okay", "today", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "these guys are running ships",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "ships",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E14-32",
+    "start" : 43,
+    "end" : 43
+  },
+  "relationID" : "CNN_ENG_20030502_093018.6-R10",
+  "mentionArg1" : {
+    "extent" : "these guys",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E12-31",
+    "start" : 39,
+    "end" : 40
+  },
+  "id" : "CNN_ENG_20030502_093018.6-R10-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "incredible sight to see these young men and women. they are children. they are 18 , 19 , 20 years old. think about when i was doing when i was 18 , i was thinking about going to college. these guys are running ships .",
+  "sentence_index" : 8,
+  "Tokens" : [ "incredible", "sight", "to", "see", "these", "young", "men", "and", "women.", "they", "are", "children.", "they", "are", "18", ",", "19", ",", "20", "years", "old.", "think", "about", "when", "i", "was", "doing", "when", "i", "was", "18", ",", "i", "was", "thinking", "about", "going", "to", "college.", "these", "guys", "are", "running", "ships", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "some of these had children while they were out at sea and this is the first time that -- first opportunity to get home and meet and hold them",
+  "sentence_length" : 57,
+  "mentionArg2" : {
+    "extent" : "children",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E18-38",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "CNN_ENG_20030502_093018.6-R11",
+  "mentionArg1" : {
+    "extent" : "some of these",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E17-36",
+    "start" : 10,
+    "end" : 12
+  },
+  "id" : "CNN_ENG_20030502_093018.6-R11-1",
+  "relationSubType" : "Family",
+  "Sentence" : "some of these , as you say , are children. some of these had children while they were out at sea and this is the first time that -- first opportunity to get home and meet and hold them. we 've seen the reunions for the past week or so. it brings a lot of emotion .",
+  "sentence_index" : 9,
+  "Tokens" : [ "some", "of", "these", ",", "as", "you", "say", ",", "are", "children.", "some", "of", "these", "had", "children", "while", "they", "were", "out", "at", "sea", "and", "this", "is", "the", "first", "time", "that", "--", "first", "opportunity", "to", "get", "home", "and", "meet", "and", "hold", "them.", "we", "'ve", "seen", "the", "reunions", "for", "the", "past", "week", "or", "so.", "it", "brings", "a", "lot", "of", "emotion", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "friend of mine in richmond, virginia",
+  "sentence_length" : 78,
+  "mentionArg2" : {
+    "extent" : "mine",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E65-146",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "CNN_ENG_20030502_093018.6-R13",
+  "mentionArg1" : {
+    "extent" : "friend of mine in richmond, virginia",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E63-145",
+    "start" : 0,
+    "end" : 6
+  },
+  "id" : "CNN_ENG_20030502_093018.6-R13-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "friend of mine in richmond , virginia , on the radio up there wrba. his son was on one of the ships that escorted a carrier. although this came home by itself from hawaii. there are so many other ships out there that escort this ship as it goes out. it 's just not one ship. not just 5,000 people. it is a battle group that goes out. eight , nine , ten ships and a submarine .",
+  "sentence_index" : 12,
+  "Tokens" : [ "friend", "of", "mine", "in", "richmond", ",", "virginia", ",", "on", "the", "radio", "up", "there", "wrba.", "his", "son", "was", "on", "one", "of", "the", "ships", "that", "escorted", "a", "carrier.", "although", "this", "came", "home", "by", "itself", "from", "hawaii.", "there", "are", "so", "many", "other", "ships", "out", "there", "that", "escort", "this", "ship", "as", "it", "goes", "out.", "it", "'s", "just", "not", "one", "ship.", "not", "just", "5,000", "people.", "it", "is", "a", "battle", "group", "that", "goes", "out.", "eight", ",", "nine", ",", "ten", "ships", "and", "a", "submarine", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "friend of mine in richmond, virginia",
+  "sentence_length" : 78,
+  "mentionArg2" : {
+    "extent" : "richmond, virginia",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E23-41",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "CNN_ENG_20030502_093018.6-R14",
+  "mentionArg1" : {
+    "extent" : "friend of mine in richmond, virginia",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E63-145",
+    "start" : 0,
+    "end" : 6
+  },
+  "id" : "CNN_ENG_20030502_093018.6-R14-1",
+  "relationSubType" : "Located",
+  "Sentence" : "friend of mine in richmond , virginia , on the radio up there wrba. his son was on one of the ships that escorted a carrier. although this came home by itself from hawaii. there are so many other ships out there that escort this ship as it goes out. it 's just not one ship. not just 5,000 people. it is a battle group that goes out. eight , nine , ten ships and a submarine .",
+  "sentence_index" : 12,
+  "Tokens" : [ "friend", "of", "mine", "in", "richmond", ",", "virginia", ",", "on", "the", "radio", "up", "there", "wrba.", "his", "son", "was", "on", "one", "of", "the", "ships", "that", "escorted", "a", "carrier.", "although", "this", "came", "home", "by", "itself", "from", "hawaii.", "there", "are", "so", "many", "other", "ships", "out", "there", "that", "escort", "this", "ship", "as", "it", "goes", "out.", "it", "'s", "just", "not", "one", "ship.", "not", "just", "5,000", "people.", "it", "is", "a", "battle", "group", "that", "goes", "out.", "eight", ",", "nine", ",", "ten", "ships", "and", "a", "submarine", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "richmond, virginia",
+  "sentence_length" : 78,
+  "mentionArg2" : {
+    "extent" : "virginia",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E24-53",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_ENG_20030502_093018.6-R15",
+  "mentionArg1" : {
+    "extent" : "richmond, virginia",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E23-41",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "CNN_ENG_20030502_093018.6-R15-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "friend of mine in richmond , virginia , on the radio up there wrba. his son was on one of the ships that escorted a carrier. although this came home by itself from hawaii. there are so many other ships out there that escort this ship as it goes out. it 's just not one ship. not just 5,000 people. it is a battle group that goes out. eight , nine , ten ships and a submarine .",
+  "sentence_index" : 12,
+  "Tokens" : [ "friend", "of", "mine", "in", "richmond", ",", "virginia", ",", "on", "the", "radio", "up", "there", "wrba.", "his", "son", "was", "on", "one", "of", "the", "ships", "that", "escorted", "a", "carrier.", "although", "this", "came", "home", "by", "itself", "from", "hawaii.", "there", "are", "so", "many", "other", "ships", "out", "there", "that", "escort", "this", "ship", "as", "it", "goes", "out.", "it", "'s", "just", "not", "one", "ship.", "not", "just", "5,000", "people.", "it", "is", "a", "battle", "group", "that", "goes", "out.", "eight", ",", "nine", ",", "ten", "ships", "and", "a", "submarine", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "friend of mine in richmond, virginia, on the radio up there wrba",
+  "sentence_length" : 78,
+  "mentionArg2" : {
+    "extent" : "wrba",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E25-54",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "CNN_ENG_20030502_093018.6-R16",
+  "mentionArg1" : {
+    "extent" : "friend of mine in richmond, virginia",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E63-145",
+    "start" : 0,
+    "end" : 6
+  },
+  "id" : "CNN_ENG_20030502_093018.6-R16-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "friend of mine in richmond , virginia , on the radio up there wrba. his son was on one of the ships that escorted a carrier. although this came home by itself from hawaii. there are so many other ships out there that escort this ship as it goes out. it 's just not one ship. not just 5,000 people. it is a battle group that goes out. eight , nine , ten ships and a submarine .",
+  "sentence_index" : 12,
+  "Tokens" : [ "friend", "of", "mine", "in", "richmond", ",", "virginia", ",", "on", "the", "radio", "up", "there", "wrba.", "his", "son", "was", "on", "one", "of", "the", "ships", "that", "escorted", "a", "carrier.", "although", "this", "came", "home", "by", "itself", "from", "hawaii.", "there", "are", "so", "many", "other", "ships", "out", "there", "that", "escort", "this", "ship", "as", "it", "goes", "out.", "it", "'s", "just", "not", "one", "ship.", "not", "just", "5,000", "people.", "it", "is", "a", "battle", "group", "that", "goes", "out.", "eight", ",", "nine", ",", "ten", "ships", "and", "a", "submarine", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his son",
+  "sentence_length" : 78,
+  "mentionArg2" : {
+    "extent" : "his son",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E26-55",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "CNN_ENG_20030502_093018.6-R17",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E63-56",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "CNN_ENG_20030502_093018.6-R17-1",
+  "relationSubType" : "Family",
+  "Sentence" : "friend of mine in richmond , virginia , on the radio up there wrba. his son was on one of the ships that escorted a carrier. although this came home by itself from hawaii. there are so many other ships out there that escort this ship as it goes out. it 's just not one ship. not just 5,000 people. it is a battle group that goes out. eight , nine , ten ships and a submarine .",
+  "sentence_index" : 12,
+  "Tokens" : [ "friend", "of", "mine", "in", "richmond", ",", "virginia", ",", "on", "the", "radio", "up", "there", "wrba.", "his", "son", "was", "on", "one", "of", "the", "ships", "that", "escorted", "a", "carrier.", "although", "this", "came", "home", "by", "itself", "from", "hawaii.", "there", "are", "so", "many", "other", "ships", "out", "there", "that", "escort", "this", "ship", "as", "it", "goes", "out.", "it", "'s", "just", "not", "one", "ship.", "not", "just", "5,000", "people.", "it", "is", "a", "battle", "group", "that", "goes", "out.", "eight", ",", "nine", ",", "ten", "ships", "and", "a", "submarine", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "his son was on one of the ships that escorted a carrier",
+  "sentence_length" : 78,
+  "mentionArg2" : {
+    "extent" : "one of the ships that escorted a carrier",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E27-57",
+    "start" : 18,
+    "end" : 25
+  },
+  "relationID" : "CNN_ENG_20030502_093018.6-R18",
+  "mentionArg1" : {
+    "extent" : "his son",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E26-55",
+    "start" : 14,
+    "end" : 15
+  },
+  "id" : "CNN_ENG_20030502_093018.6-R18-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "friend of mine in richmond , virginia , on the radio up there wrba. his son was on one of the ships that escorted a carrier. although this came home by itself from hawaii. there are so many other ships out there that escort this ship as it goes out. it 's just not one ship. not just 5,000 people. it is a battle group that goes out. eight , nine , ten ships and a submarine .",
+  "sentence_index" : 12,
+  "Tokens" : [ "friend", "of", "mine", "in", "richmond", ",", "virginia", ",", "on", "the", "radio", "up", "there", "wrba.", "his", "son", "was", "on", "one", "of", "the", "ships", "that", "escorted", "a", "carrier.", "although", "this", "came", "home", "by", "itself", "from", "hawaii.", "there", "are", "so", "many", "other", "ships", "out", "there", "that", "escort", "this", "ship", "as", "it", "goes", "out.", "it", "'s", "just", "not", "one", "ship.", "not", "just", "5,000", "people.", "it", "is", "a", "battle", "group", "that", "goes", "out.", "eight", ",", "nine", ",", "ten", "ships", "and", "a", "submarine", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their families",
+  "sentence_length" : 59,
+  "mentionArg2" : {
+    "extent" : "their families",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E40-80",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "CNN_ENG_20030502_093018.6-R19",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E12-82",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "CNN_ENG_20030502_093018.6-R19-1",
+  "relationSubType" : "Family",
+  "Sentence" : "while some of these ladies and gentlemen are going to be joining their families half of them are going to stay on board because this -- the \" lincoln \" is going to be docked in everett , washington. that 's where the home base is. it 's going to have to make a trip up the coast .",
+  "sentence_index" : 13,
+  "Tokens" : [ "while", "some", "of", "these", "ladies", "and", "gentlemen", "are", "going", "to", "be", "joining", "their", "families", "half", "of", "them", "are", "going", "to", "stay", "on", "board", "because", "this", "--", "the", "\"", "lincoln", "\"", "is", "going", "to", "be", "docked", "in", "everett", ",", "washington.", "that", "'s", "where", "the", "home", "base", "is.", "it", "'s", "going", "to", "have", "to", "make", "a", "trip", "up", "the", "coast", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "while some of these ladies and gentlemen are going to be joining their families half of them are going to stay on board because this -- the \"lincoln\" is going to be docked in everett, washington",
+  "sentence_length" : 59,
+  "mentionArg2" : {
+    "extent" : "this",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E30-84",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "CNN_ENG_20030502_093018.6-R20",
+  "mentionArg1" : {
+    "extent" : "some of these ladies and gentlemen",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E12-77",
+    "start" : 1,
+    "end" : 6
+  },
+  "id" : "CNN_ENG_20030502_093018.6-R20-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "while some of these ladies and gentlemen are going to be joining their families half of them are going to stay on board because this -- the \" lincoln \" is going to be docked in everett , washington. that 's where the home base is. it 's going to have to make a trip up the coast .",
+  "sentence_index" : 13,
+  "Tokens" : [ "while", "some", "of", "these", "ladies", "and", "gentlemen", "are", "going", "to", "be", "joining", "their", "families", "half", "of", "them", "are", "going", "to", "stay", "on", "board", "because", "this", "--", "the", "\"", "lincoln", "\"", "is", "going", "to", "be", "docked", "in", "everett", ",", "washington.", "that", "'s", "where", "the", "home", "base", "is.", "it", "'s", "going", "to", "have", "to", "make", "a", "trip", "up", "the", "coast", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "while some of these ladies and gentlemen are going to be joining their families half of them are going to stay on board because this -- the \"lincoln\" is going to be docked in everett, washington",
+  "sentence_length" : 59,
+  "mentionArg2" : {
+    "extent" : "this",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E30-84",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "CNN_ENG_20030502_093018.6-R21",
+  "mentionArg1" : {
+    "extent" : "half of them",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E41-83",
+    "start" : 14,
+    "end" : 16
+  },
+  "id" : "CNN_ENG_20030502_093018.6-R21-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "while some of these ladies and gentlemen are going to be joining their families half of them are going to stay on board because this -- the \" lincoln \" is going to be docked in everett , washington. that 's where the home base is. it 's going to have to make a trip up the coast .",
+  "sentence_index" : 13,
+  "Tokens" : [ "while", "some", "of", "these", "ladies", "and", "gentlemen", "are", "going", "to", "be", "joining", "their", "families", "half", "of", "them", "are", "going", "to", "stay", "on", "board", "because", "this", "--", "the", "\"", "lincoln", "\"", "is", "going", "to", "be", "docked", "in", "everett", ",", "washington.", "that", "'s", "where", "the", "home", "base", "is.", "it", "'s", "going", "to", "have", "to", "make", "a", "trip", "up", "the", "coast", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "everett, washington",
+  "sentence_length" : 59,
+  "mentionArg2" : {
+    "extent" : "washington",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E44-87",
+    "start" : 38,
+    "end" : 38
+  },
+  "relationID" : "CNN_ENG_20030502_093018.6-R22",
+  "mentionArg1" : {
+    "extent" : "everett, washington",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E43-86",
+    "start" : 36,
+    "end" : 38
+  },
+  "id" : "CNN_ENG_20030502_093018.6-R22-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "while some of these ladies and gentlemen are going to be joining their families half of them are going to stay on board because this -- the \" lincoln \" is going to be docked in everett , washington. that 's where the home base is. it 's going to have to make a trip up the coast .",
+  "sentence_index" : 13,
+  "Tokens" : [ "while", "some", "of", "these", "ladies", "and", "gentlemen", "are", "going", "to", "be", "joining", "their", "families", "half", "of", "them", "are", "going", "to", "stay", "on", "board", "because", "this", "--", "the", "\"", "lincoln", "\"", "is", "going", "to", "be", "docked", "in", "everett", ",", "washington.", "that", "'s", "where", "the", "home", "base", "is.", "it", "'s", "going", "to", "have", "to", "make", "a", "trip", "up", "the", "coast", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "that's where the home base is",
+  "sentence_length" : 59,
+  "mentionArg2" : {
+    "extent" : "the home base",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E46-90",
+    "start" : 42,
+    "end" : 44
+  },
+  "relationID" : "CNN_ENG_20030502_093018.6-R23",
+  "mentionArg1" : {
+    "extent" : "the home base",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E46-90",
+    "start" : 42,
+    "end" : 44
+  },
+  "id" : "CNN_ENG_20030502_093018.6-R23-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "while some of these ladies and gentlemen are going to be joining their families half of them are going to stay on board because this -- the \" lincoln \" is going to be docked in everett , washington. that 's where the home base is. it 's going to have to make a trip up the coast .",
+  "sentence_index" : 13,
+  "Tokens" : [ "while", "some", "of", "these", "ladies", "and", "gentlemen", "are", "going", "to", "be", "joining", "their", "families", "half", "of", "them", "are", "going", "to", "stay", "on", "board", "because", "this", "--", "the", "\"", "lincoln", "\"", "is", "going", "to", "be", "docked", "in", "everett", ",", "washington.", "that", "'s", "where", "the", "home", "base", "is.", "it", "'s", "going", "to", "have", "to", "make", "a", "trip", "up", "the", "coast", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their loved ones",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "their loved ones",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E48-93",
+    "start" : 6,
+    "end" : 8
+  },
+  "relationID" : "CNN_ENG_20030502_093018.6-R24",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E41-94",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "CNN_ENG_20030502_093018.6-R24-1",
+  "relationSubType" : "Family",
+  "Sentence" : "they wo n't get to see their loved ones until tuesday or wednesday. i wonder who gets to get off first. is there a drawing ?",
+  "sentence_index" : 14,
+  "Tokens" : [ "they", "wo", "n't", "get", "to", "see", "their", "loved", "ones", "until", "tuesday", "or", "wednesday.", "i", "wonder", "who", "gets", "to", "get", "off", "first.", "is", "there", "a", "drawing", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "we've got to deal with the person who's going to be getting off here",
+  "sentence_length" : 61,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E3-100",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "CNN_ENG_20030502_093018.6-R25",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "CNN_ENG_20030502_093018.6-E51-99",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "CNN_ENG_20030502_093018.6-R25-1",
+  "relationSubType" : "Located",
+  "Sentence" : "we 've got to deal with the person who 's going to be getting off here. as you 've been watching throughout the morning , you 've been seeing that balloon. just getting back from spending a tour in kuwait during the war. betsy is going to be leaving us. she is jumping ship. she is going on her own .",
+  "sentence_index" : 16,
+  "Tokens" : [ "we", "'ve", "got", "to", "deal", "with", "the", "person", "who", "'s", "going", "to", "be", "getting", "off", "here.", "as", "you", "'ve", "been", "watching", "throughout", "the", "morning", ",", "you", "'ve", "been", "seeing", "that", "balloon.", "just", "getting", "back", "from", "spending", "a", "tour", "in", "kuwait", "during", "the", "war.", "betsy", "is", "going", "to", "be", "leaving", "us.", "she", "is", "jumping", "ship.", "she", "is", "going", "on", "her", "own", "." ]
+} ]

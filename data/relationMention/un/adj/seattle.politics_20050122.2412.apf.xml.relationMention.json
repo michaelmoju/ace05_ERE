@@ -1,0 +1,67 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Bush administration",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "the Bush administration",
+    "argMentionid" : "seattle.politics_20050122.2412-E13-98",
+    "start" : 2,
+    "end" : 4
+  },
+  "relationID" : "seattle.politics_20050122.2412-R1",
+  "mentionArg1" : {
+    "extent" : "Bush",
+    "argMentionid" : "seattle.politics_20050122.2412-E12-27",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "seattle.politics_20050122.2412-R1-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "That is the Bush administration way , and it happens to be realistic : History is dynamic and changeable .",
+  "sentence_index" : 4,
+  "Tokens" : [ "That", "is", "the", "Bush", "administration", "way", ",", "and", "it", "happens", "to", "be", "realistic", ":", "History", "is", "dynamic", "and", "changeable", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "a communications adviser to the president",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "the president",
+    "argMentionid" : "seattle.politics_20050122.2412-E12-93",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "seattle.politics_20050122.2412-R2",
+  "mentionArg1" : {
+    "extent" : "a communications adviser to the president",
+    "argMentionid" : "seattle.politics_20050122.2412-E27-89",
+    "start" : 15,
+    "end" : 20
+  },
+  "id" : "seattle.politics_20050122.2412-R2-1",
+  "relationSubType" : "Business",
+  "Sentence" : "The administration 's approach to history is at odds with what has been described by a communications adviser to the president as the \" reality-based community . \"",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "administration", "'s", "approach", "to", "history", "is", "at", "odds", "with", "what", "has", "been", "described", "by", "a", "communications", "adviser", "to", "the", "president", "as", "the", "\"", "reality-based", "community", ".", "\"" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "man on earth",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "earth",
+    "argMentionid" : "seattle.politics_20050122.2412-E5-19",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "seattle.politics_20050122.2412-R3",
+  "mentionArg1" : {
+    "extent" : "man on earth",
+    "argMentionid" : "seattle.politics_20050122.2412-E1-18",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "seattle.politics_20050122.2412-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Perfection in the life of man on earth is not .",
+  "sentence_index" : 26,
+  "Tokens" : [ "Perfection", "in", "the", "life", "of", "man", "on", "earth", "is", "not", "." ]
+} ]

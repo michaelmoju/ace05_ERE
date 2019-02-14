@@ -1,0 +1,177 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "shi'a muslims",
+  "sentence_length" : 67,
+  "mentionArg2" : {
+    "extent" : "shi'a muslims",
+    "argMentionid" : "CNN_ENG_20030422_163524.5-E25-64",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "CNN_ENG_20030422_163524.5-R1",
+  "mentionArg1" : {
+    "extent" : "shi'a",
+    "argMentionid" : "CNN_ENG_20030422_163524.5-E26-65",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "CNN_ENG_20030422_163524.5-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "for the first time in decade , shi'a muslims are freely making a pilgrimage to the holy city of car bal a. they are using the new freedom to express disdain for the country that wanted it for them. our senior international correspondent nic robertson is joining us live from karbala. nic , how much anger is there towards the united states in these pilgrimage demonstrations ?",
+  "sentence_index" : 1,
+  "Tokens" : [ "for", "the", "first", "time", "in", "decade", ",", "shi'a", "muslims", "are", "freely", "making", "a", "pilgrimage", "to", "the", "holy", "city", "of", "car", "bal", "a.", "they", "are", "using", "the", "new", "freedom", "to", "express", "disdain", "for", "the", "country", "that", "wanted", "it", "for", "them.", "our", "senior", "international", "correspondent", "nic", "robertson", "is", "joining", "us", "live", "from", "karbala.", "nic", ",", "how", "much", "anger", "is", "there", "towards", "the", "united", "states", "in", "these", "pilgrimage", "demonstrations", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our senior international correspondent",
+  "sentence_length" : 67,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_ENG_20030422_163524.5-E1-4",
+    "start" : 39,
+    "end" : 39
+  },
+  "relationID" : "CNN_ENG_20030422_163524.5-R2",
+  "mentionArg1" : {
+    "extent" : "senior international correspondent",
+    "argMentionid" : "CNN_ENG_20030422_163524.5-E2-6",
+    "start" : 40,
+    "end" : 42
+  },
+  "id" : "CNN_ENG_20030422_163524.5-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "for the first time in decade , shi'a muslims are freely making a pilgrimage to the holy city of car bal a. they are using the new freedom to express disdain for the country that wanted it for them. our senior international correspondent nic robertson is joining us live from karbala. nic , how much anger is there towards the united states in these pilgrimage demonstrations ?",
+  "sentence_index" : 1,
+  "Tokens" : [ "for", "the", "first", "time", "in", "decade", ",", "shi'a", "muslims", "are", "freely", "making", "a", "pilgrimage", "to", "the", "holy", "city", "of", "car", "bal", "a.", "they", "are", "using", "the", "new", "freedom", "to", "express", "disdain", "for", "the", "country", "that", "wanted", "it", "for", "them.", "our", "senior", "international", "correspondent", "nic", "robertson", "is", "joining", "us", "live", "from", "karbala.", "nic", ",", "how", "much", "anger", "is", "there", "towards", "the", "united", "states", "in", "these", "pilgrimage", "demonstrations", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "our senior international correspondent nic robertson is joining us live from karbala",
+  "sentence_length" : 67,
+  "mentionArg2" : {
+    "extent" : "karbala",
+    "argMentionid" : "CNN_ENG_20030422_163524.5-E27-8",
+    "start" : 50,
+    "end" : 50
+  },
+  "relationID" : "CNN_ENG_20030422_163524.5-R3",
+  "mentionArg1" : {
+    "extent" : "our senior international correspondent nic robertson",
+    "argMentionid" : "CNN_ENG_20030422_163524.5-E2-5",
+    "start" : 39,
+    "end" : 44
+  },
+  "id" : "CNN_ENG_20030422_163524.5-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "for the first time in decade , shi'a muslims are freely making a pilgrimage to the holy city of car bal a. they are using the new freedom to express disdain for the country that wanted it for them. our senior international correspondent nic robertson is joining us live from karbala. nic , how much anger is there towards the united states in these pilgrimage demonstrations ?",
+  "sentence_index" : 1,
+  "Tokens" : [ "for", "the", "first", "time", "in", "decade", ",", "shi'a", "muslims", "are", "freely", "making", "a", "pilgrimage", "to", "the", "holy", "city", "of", "car", "bal", "a.", "they", "are", "using", "the", "new", "freedom", "to", "express", "disdain", "for", "the", "country", "that", "wanted", "it", "for", "them.", "our", "senior", "international", "correspondent", "nic", "robertson", "is", "joining", "us", "live", "from", "karbala.", "nic", ",", "how", "much", "anger", "is", "there", "towards", "the", "united", "states", "in", "these", "pilgrimage", "demonstrations", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the majority most people here are very happy, they're very peaceful here",
+  "sentence_length" : 192,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_ENG_20030422_163524.5-E27-13",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_ENG_20030422_163524.5-R4",
+  "mentionArg1" : {
+    "extent" : "most people here",
+    "argMentionid" : "CNN_ENG_20030422_163524.5-E4-12",
+    "start" : 2,
+    "end" : 4
+  },
+  "id" : "CNN_ENG_20030422_163524.5-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "the majority most people here are very happy , they 're very peaceful here. they say they 're very grateful to the united states , but some of them do express with quite extreme anger because they believe the united states wants to stay here , wants to exploit iraq in their view. they express quite extreme anger that the united states and the coalition forces should leave iraq. the vast majority of people , however , do not talk a lot about that if you ask them questions about it , yes. they will tell you the united states has done a very good job , but it 's time to leave and what we are hearing now that a returning exiled route called the supreme council for islamic revolution in iraq is sending a delegation here from iran where they 've been in exile for several decades , sending a delegation here tomorrow. that delegation will bring a message of sheer unity. it will bring a message of rebuilding iraq along islamic lines. it will bring a message of inter29ing and a rejection of international involvement in iraq. wolf ?",
+  "sentence_index" : 2,
+  "Tokens" : [ "the", "majority", "most", "people", "here", "are", "very", "happy", ",", "they", "'re", "very", "peaceful", "here.", "they", "say", "they", "'re", "very", "grateful", "to", "the", "united", "states", ",", "but", "some", "of", "them", "do", "express", "with", "quite", "extreme", "anger", "because", "they", "believe", "the", "united", "states", "wants", "to", "stay", "here", ",", "wants", "to", "exploit", "iraq", "in", "their", "view.", "they", "express", "quite", "extreme", "anger", "that", "the", "united", "states", "and", "the", "coalition", "forces", "should", "leave", "iraq.", "the", "vast", "majority", "of", "people", ",", "however", ",", "do", "not", "talk", "a", "lot", "about", "that", "if", "you", "ask", "them", "questions", "about", "it", ",", "yes.", "they", "will", "tell", "you", "the", "united", "states", "has", "done", "a", "very", "good", "job", ",", "but", "it", "'s", "time", "to", "leave", "and", "what", "we", "are", "hearing", "now", "that", "a", "returning", "exiled", "route", "called", "the", "supreme", "council", "for", "islamic", "revolution", "in", "iraq", "is", "sending", "a", "delegation", "here", "from", "iran", "where", "they", "'ve", "been", "in", "exile", "for", "several", "decades", ",", "sending", "a", "delegation", "here", "tomorrow.", "that", "delegation", "will", "bring", "a", "message", "of", "sheer", "unity.", "it", "will", "bring", "a", "message", "of", "rebuilding", "iraq", "along", "islamic", "lines.", "it", "will", "bring", "a", "message", "of", "inter29ing", "and", "a", "rejection", "of", "international", "involvement", "in", "iraq.", "wolf", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the coalition forces",
+  "sentence_length" : 192,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_ENG_20030422_163524.5-E9-29",
+    "start" : 64,
+    "end" : 64
+  },
+  "relationID" : "CNN_ENG_20030422_163524.5-R5",
+  "mentionArg1" : {
+    "extent" : "the coalition forces",
+    "argMentionid" : "CNN_ENG_20030422_163524.5-E8-28",
+    "start" : 63,
+    "end" : 65
+  },
+  "id" : "CNN_ENG_20030422_163524.5-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "the majority most people here are very happy , they 're very peaceful here. they say they 're very grateful to the united states , but some of them do express with quite extreme anger because they believe the united states wants to stay here , wants to exploit iraq in their view. they express quite extreme anger that the united states and the coalition forces should leave iraq. the vast majority of people , however , do not talk a lot about that if you ask them questions about it , yes. they will tell you the united states has done a very good job , but it 's time to leave and what we are hearing now that a returning exiled route called the supreme council for islamic revolution in iraq is sending a delegation here from iran where they 've been in exile for several decades , sending a delegation here tomorrow. that delegation will bring a message of sheer unity. it will bring a message of rebuilding iraq along islamic lines. it will bring a message of inter29ing and a rejection of international involvement in iraq. wolf ?",
+  "sentence_index" : 2,
+  "Tokens" : [ "the", "majority", "most", "people", "here", "are", "very", "happy", ",", "they", "'re", "very", "peaceful", "here.", "they", "say", "they", "'re", "very", "grateful", "to", "the", "united", "states", ",", "but", "some", "of", "them", "do", "express", "with", "quite", "extreme", "anger", "because", "they", "believe", "the", "united", "states", "wants", "to", "stay", "here", ",", "wants", "to", "exploit", "iraq", "in", "their", "view.", "they", "express", "quite", "extreme", "anger", "that", "the", "united", "states", "and", "the", "coalition", "forces", "should", "leave", "iraq.", "the", "vast", "majority", "of", "people", ",", "however", ",", "do", "not", "talk", "a", "lot", "about", "that", "if", "you", "ask", "them", "questions", "about", "it", ",", "yes.", "they", "will", "tell", "you", "the", "united", "states", "has", "done", "a", "very", "good", "job", ",", "but", "it", "'s", "time", "to", "leave", "and", "what", "we", "are", "hearing", "now", "that", "a", "returning", "exiled", "route", "called", "the", "supreme", "council", "for", "islamic", "revolution", "in", "iraq", "is", "sending", "a", "delegation", "here", "from", "iran", "where", "they", "'ve", "been", "in", "exile", "for", "several", "decades", ",", "sending", "a", "delegation", "here", "tomorrow.", "that", "delegation", "will", "bring", "a", "message", "of", "sheer", "unity.", "it", "will", "bring", "a", "message", "of", "rebuilding", "iraq", "along", "islamic", "lines.", "it", "will", "bring", "a", "message", "of", "inter29ing", "and", "a", "rejection", "of", "international", "involvement", "in", "iraq.", "wolf", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "they will tell you the united states has done a very good job, but it's time to leave and what we are hearing now that a returning exiled route called the supreme council for islamic revolution in iraq is sending a delegation here from iran where they've been in exile for several decades, sending a delegation here tomorrow",
+  "sentence_length" : 192,
+  "mentionArg2" : {
+    "extent" : "a returning exiled route called the supreme council for islamic revolution in iraq",
+    "argMentionid" : "CNN_ENG_20030422_163524.5-E14-39",
+    "start" : 120,
+    "end" : 132
+  },
+  "relationID" : "CNN_ENG_20030422_163524.5-R6",
+  "mentionArg1" : {
+    "extent" : "a delegation",
+    "argMentionid" : "CNN_ENG_20030422_163524.5-E15-41",
+    "start" : 135,
+    "end" : 136
+  },
+  "id" : "CNN_ENG_20030422_163524.5-R6-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "the majority most people here are very happy , they 're very peaceful here. they say they 're very grateful to the united states , but some of them do express with quite extreme anger because they believe the united states wants to stay here , wants to exploit iraq in their view. they express quite extreme anger that the united states and the coalition forces should leave iraq. the vast majority of people , however , do not talk a lot about that if you ask them questions about it , yes. they will tell you the united states has done a very good job , but it 's time to leave and what we are hearing now that a returning exiled route called the supreme council for islamic revolution in iraq is sending a delegation here from iran where they 've been in exile for several decades , sending a delegation here tomorrow. that delegation will bring a message of sheer unity. it will bring a message of rebuilding iraq along islamic lines. it will bring a message of inter29ing and a rejection of international involvement in iraq. wolf ?",
+  "sentence_index" : 2,
+  "Tokens" : [ "the", "majority", "most", "people", "here", "are", "very", "happy", ",", "they", "'re", "very", "peaceful", "here.", "they", "say", "they", "'re", "very", "grateful", "to", "the", "united", "states", ",", "but", "some", "of", "them", "do", "express", "with", "quite", "extreme", "anger", "because", "they", "believe", "the", "united", "states", "wants", "to", "stay", "here", ",", "wants", "to", "exploit", "iraq", "in", "their", "view.", "they", "express", "quite", "extreme", "anger", "that", "the", "united", "states", "and", "the", "coalition", "forces", "should", "leave", "iraq.", "the", "vast", "majority", "of", "people", ",", "however", ",", "do", "not", "talk", "a", "lot", "about", "that", "if", "you", "ask", "them", "questions", "about", "it", ",", "yes.", "they", "will", "tell", "you", "the", "united", "states", "has", "done", "a", "very", "good", "job", ",", "but", "it", "'s", "time", "to", "leave", "and", "what", "we", "are", "hearing", "now", "that", "a", "returning", "exiled", "route", "called", "the", "supreme", "council", "for", "islamic", "revolution", "in", "iraq", "is", "sending", "a", "delegation", "here", "from", "iran", "where", "they", "'ve", "been", "in", "exile", "for", "several", "decades", ",", "sending", "a", "delegation", "here", "tomorrow.", "that", "delegation", "will", "bring", "a", "message", "of", "sheer", "unity.", "it", "will", "bring", "a", "message", "of", "rebuilding", "iraq", "along", "islamic", "lines.", "it", "will", "bring", "a", "message", "of", "inter29ing", "and", "a", "rejection", "of", "international", "involvement", "in", "iraq.", "wolf", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "they will tell you the united states has done a very good job, but it's time to leave and what we are hearing now that a returning exiled route called the supreme council for islamic revolution in iraq is sending a delegation here from iran where they've been in exile for several decades, sending a delegation here tomorrow",
+  "sentence_length" : 192,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_ENG_20030422_163524.5-E27-42",
+    "start" : 137,
+    "end" : 137
+  },
+  "relationID" : "CNN_ENG_20030422_163524.5-R7",
+  "mentionArg1" : {
+    "extent" : "a delegation",
+    "argMentionid" : "CNN_ENG_20030422_163524.5-E15-41",
+    "start" : 135,
+    "end" : 136
+  },
+  "id" : "CNN_ENG_20030422_163524.5-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "the majority most people here are very happy , they 're very peaceful here. they say they 're very grateful to the united states , but some of them do express with quite extreme anger because they believe the united states wants to stay here , wants to exploit iraq in their view. they express quite extreme anger that the united states and the coalition forces should leave iraq. the vast majority of people , however , do not talk a lot about that if you ask them questions about it , yes. they will tell you the united states has done a very good job , but it 's time to leave and what we are hearing now that a returning exiled route called the supreme council for islamic revolution in iraq is sending a delegation here from iran where they 've been in exile for several decades , sending a delegation here tomorrow. that delegation will bring a message of sheer unity. it will bring a message of rebuilding iraq along islamic lines. it will bring a message of inter29ing and a rejection of international involvement in iraq. wolf ?",
+  "sentence_index" : 2,
+  "Tokens" : [ "the", "majority", "most", "people", "here", "are", "very", "happy", ",", "they", "'re", "very", "peaceful", "here.", "they", "say", "they", "'re", "very", "grateful", "to", "the", "united", "states", ",", "but", "some", "of", "them", "do", "express", "with", "quite", "extreme", "anger", "because", "they", "believe", "the", "united", "states", "wants", "to", "stay", "here", ",", "wants", "to", "exploit", "iraq", "in", "their", "view.", "they", "express", "quite", "extreme", "anger", "that", "the", "united", "states", "and", "the", "coalition", "forces", "should", "leave", "iraq.", "the", "vast", "majority", "of", "people", ",", "however", ",", "do", "not", "talk", "a", "lot", "about", "that", "if", "you", "ask", "them", "questions", "about", "it", ",", "yes.", "they", "will", "tell", "you", "the", "united", "states", "has", "done", "a", "very", "good", "job", ",", "but", "it", "'s", "time", "to", "leave", "and", "what", "we", "are", "hearing", "now", "that", "a", "returning", "exiled", "route", "called", "the", "supreme", "council", "for", "islamic", "revolution", "in", "iraq", "is", "sending", "a", "delegation", "here", "from", "iran", "where", "they", "'ve", "been", "in", "exile", "for", "several", "decades", ",", "sending", "a", "delegation", "here", "tomorrow.", "that", "delegation", "will", "bring", "a", "message", "of", "sheer", "unity.", "it", "will", "bring", "a", "message", "of", "rebuilding", "iraq", "along", "islamic", "lines.", "it", "will", "bring", "a", "message", "of", "inter29ing", "and", "a", "rejection", "of", "international", "involvement", "in", "iraq.", "wolf", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "they will tell you the united states has done a very good job, but it's time to leave and what we are hearing now that a returning exiled route called the supreme council for islamic revolution in iraq is sending a delegation here from iran where they've been in exile for several decades, sending a delegation here tomorrow",
+  "sentence_length" : 192,
+  "mentionArg2" : {
+    "extent" : "iran",
+    "argMentionid" : "CNN_ENG_20030422_163524.5-E16-43",
+    "start" : 139,
+    "end" : 139
+  },
+  "relationID" : "CNN_ENG_20030422_163524.5-R8",
+  "mentionArg1" : {
+    "extent" : "a delegation",
+    "argMentionid" : "CNN_ENG_20030422_163524.5-E15-41",
+    "start" : 135,
+    "end" : 136
+  },
+  "id" : "CNN_ENG_20030422_163524.5-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "the majority most people here are very happy , they 're very peaceful here. they say they 're very grateful to the united states , but some of them do express with quite extreme anger because they believe the united states wants to stay here , wants to exploit iraq in their view. they express quite extreme anger that the united states and the coalition forces should leave iraq. the vast majority of people , however , do not talk a lot about that if you ask them questions about it , yes. they will tell you the united states has done a very good job , but it 's time to leave and what we are hearing now that a returning exiled route called the supreme council for islamic revolution in iraq is sending a delegation here from iran where they 've been in exile for several decades , sending a delegation here tomorrow. that delegation will bring a message of sheer unity. it will bring a message of rebuilding iraq along islamic lines. it will bring a message of inter29ing and a rejection of international involvement in iraq. wolf ?",
+  "sentence_index" : 2,
+  "Tokens" : [ "the", "majority", "most", "people", "here", "are", "very", "happy", ",", "they", "'re", "very", "peaceful", "here.", "they", "say", "they", "'re", "very", "grateful", "to", "the", "united", "states", ",", "but", "some", "of", "them", "do", "express", "with", "quite", "extreme", "anger", "because", "they", "believe", "the", "united", "states", "wants", "to", "stay", "here", ",", "wants", "to", "exploit", "iraq", "in", "their", "view.", "they", "express", "quite", "extreme", "anger", "that", "the", "united", "states", "and", "the", "coalition", "forces", "should", "leave", "iraq.", "the", "vast", "majority", "of", "people", ",", "however", ",", "do", "not", "talk", "a", "lot", "about", "that", "if", "you", "ask", "them", "questions", "about", "it", ",", "yes.", "they", "will", "tell", "you", "the", "united", "states", "has", "done", "a", "very", "good", "job", ",", "but", "it", "'s", "time", "to", "leave", "and", "what", "we", "are", "hearing", "now", "that", "a", "returning", "exiled", "route", "called", "the", "supreme", "council", "for", "islamic", "revolution", "in", "iraq", "is", "sending", "a", "delegation", "here", "from", "iran", "where", "they", "'ve", "been", "in", "exile", "for", "several", "decades", ",", "sending", "a", "delegation", "here", "tomorrow.", "that", "delegation", "will", "bring", "a", "message", "of", "sheer", "unity.", "it", "will", "bring", "a", "message", "of", "rebuilding", "iraq", "along", "islamic", "lines.", "it", "will", "bring", "a", "message", "of", "inter29ing", "and", "a", "rejection", "of", "international", "involvement", "in", "iraq.", "wolf", "?" ]
+} ]

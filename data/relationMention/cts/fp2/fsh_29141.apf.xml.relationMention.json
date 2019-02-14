@@ -1,0 +1,331 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "your company",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "your company",
+    "argMentionid" : "fsh_29141-E55-248",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "fsh_29141-R1",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29141-E52-247",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29141-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Do you think your company is well-run ?",
+  "sentence_index" : 6,
+  "Tokens" : [ "Do", "you", "think", "your", "company", "is", "well-run", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Alexander from Minnesota",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "Minnesota",
+    "argMentionid" : "fsh_29141-E59-254",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "fsh_29141-R2",
+  "mentionArg1" : {
+    "extent" : "Alexander from Minnesota",
+    "argMentionid" : "fsh_29141-E15-253",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "fsh_29141-R2-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Alexander Hi , this is Alexander from Minnesota .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Alexander", "Hi", ",", "this", "is", "Alexander", "from", "Minnesota", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Bill from, uh, Tampa, Florida",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "Tampa",
+    "argMentionid" : "fsh_29141-E2-4",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "fsh_29141-R3",
+  "mentionArg1" : {
+    "extent" : "Bill from, uh, Tampa, Florida",
+    "argMentionid" : "fsh_29141-E1-3",
+    "start" : 5,
+    "end" : 12
+  },
+  "id" : "fsh_29141-R3-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Bill Yeah , I 'm Bill from , uh , Tampa , Florida .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Bill", "Yeah", ",", "I", "'m", "Bill", "from", ",", "uh", ",", "Tampa", ",", "Florida", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Tampa, Florida",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "Florida",
+    "argMentionid" : "fsh_29141-E3-5",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "fsh_29141-R4",
+  "mentionArg1" : {
+    "extent" : "Tampa",
+    "argMentionid" : "fsh_29141-E2-4",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "fsh_29141-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Bill Yeah , I 'm Bill from , uh , Tampa , Florida .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Bill", "Yeah", ",", "I", "'m", "Bill", "from", ",", "uh", ",", "Tampa", ",", "Florida", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Uh, I guess -- I just have one that helps me once in a while to pick up cars and -- deliver them",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "one",
+    "argMentionid" : "fsh_29141-E6-25",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "fsh_29141-R5",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29141-E1-24",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "fsh_29141-R5-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Uh , I guess -- I just have one that helps me once in a while to pick up cars and -- deliver them .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Uh", ",", "I", "guess", "--", "I", "just", "have", "one", "that", "helps", "me", "once", "in", "a", "while", "to", "pick", "up", "cars", "and", "--", "deliver", "them", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I work with a pharmaceutical company",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "a pharmaceutical company",
+    "argMentionid" : "fsh_29141-E13-60",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "fsh_29141-R6",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29141-E15-58",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "fsh_29141-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Alexander I work with a pharmaceutical company .",
+  "sentence_index" : 25,
+  "Tokens" : [ "Alexander", "I", "work", "with", "a", "pharmaceutical", "company", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I we -- have a little over three hundred and some ((million)) employees",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "we",
+    "argMentionid" : "fsh_29141-E13-61",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "fsh_29141-R7",
+  "mentionArg1" : {
+    "extent" : "a little over three hundred and some ((million)) employees",
+    "argMentionid" : "fsh_29141-E14-62",
+    "start" : 4,
+    "end" : 14
+  },
+  "id" : "fsh_29141-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "I we -- have a little over three hundred and some (( million )) employees .",
+  "sentence_index" : 26,
+  "Tokens" : [ "I", "we", "--", "have", "a", "little", "over", "three", "hundred", "and", "some", "((", "million", "))", "employees", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a lot of salesmen in the company",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "the company",
+    "argMentionid" : "fsh_29141-E30-126",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "fsh_29141-R8",
+  "mentionArg1" : {
+    "extent" : "a lot of salesmen in the company",
+    "argMentionid" : "fsh_29141-E27-118",
+    "start" : 6,
+    "end" : 12
+  },
+  "id" : "fsh_29141-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "And , um , there were a lot of salesmen in the company , they had a tendency to , you know , there was there was , uh , a chain of command , you might say .",
+  "sentence_index" : 43,
+  "Tokens" : [ "And", ",", "um", ",", "there", "were", "a", "lot", "of", "salesmen", "in", "the", "company", ",", "they", "had", "a", "tendency", "to", ",", "you", "know", ",", "there", "was", "there", "was", ",", "uh", ",", "a", "chain", "of", "command", ",", "you", "might", "say", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the, uh,  head of the organization",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "the organization",
+    "argMentionid" : "fsh_29141-E30-127",
+    "start" : 18,
+    "end" : 19
+  },
+  "relationID" : "fsh_29141-R9",
+  "mentionArg1" : {
+    "extent" : "the, uh,  head of the organization",
+    "argMentionid" : "fsh_29141-E28-125",
+    "start" : 12,
+    "end" : 19
+  },
+  "id" : "fsh_29141-R9-1",
+  "relationSubType" : "Ownership",
+  "Sentence" : "You know , there was , uh , the person that was the , uh , head of the organization .",
+  "sentence_index" : 44,
+  "Tokens" : [ "You", "know", ",", "there", "was", ",", "uh", ",", "the", "person", "that", "was", "the", ",", "uh", ",", "head", "of", "the", "organization", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my employees",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "my employees",
+    "argMentionid" : "fsh_29141-E31-130",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "fsh_29141-R10",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29141-E1-131",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "fsh_29141-R10-1",
+  "relationSubType" : "Business",
+  "Sentence" : "So it made it kind of difficult for the m- for my employees , because they would the salesmen would be coming out , uh , uh , without consulting with the one that was in charge .",
+  "sentence_index" : 46,
+  "Tokens" : [ "So", "it", "made", "it", "kind", "of", "difficult", "for", "the", "m-", "for", "my", "employees", ",", "because", "they", "would", "the", "salesmen", "would", "be", "coming", "out", ",", "uh", ",", "uh", ",", "without", "consulting", "with", "the", "one", "that", "was", "in", "charge", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "We have a lot of people who are from different country, and,  you know, and -- I think they are pretty much accepting, and I,  you know, I- bas- basically you- you can promote yourself if you do a good job, I mean,  they don't pick and choose, you know",
+  "sentence_length" : 61,
+  "mentionArg2" : {
+    "extent" : "We",
+    "argMentionid" : "fsh_29141-E13-170",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "fsh_29141-R11",
+  "mentionArg1" : {
+    "extent" : "a lot of people",
+    "argMentionid" : "fsh_29141-E37-171",
+    "start" : 2,
+    "end" : 5
+  },
+  "id" : "fsh_29141-R11-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "We have a lot of people who are from different country , and , you know , and -- I think they are pretty much accepting , and I , you know , I- bas- basically you- you can promote yourself if you do a good job , I mean , they do n't pick and choose , you know .",
+  "sentence_index" : 57,
+  "Tokens" : [ "We", "have", "a", "lot", "of", "people", "who", "are", "from", "different", "country", ",", "and", ",", "you", "know", ",", "and", "--", "I", "think", "they", "are", "pretty", "much", "accepting", ",", "and", "I", ",", "you", "know", ",", "I-", "bas-", "basically", "you-", "you", "can", "promote", "yourself", "if", "you", "do", "a", "good", "job", ",", "I", "mean", ",", "they", "do", "n't", "pick", "and", "choose", ",", "you", "know", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "We have a lot of people who are from different country, and,  you know, and -- I think they are pretty much accepting, and I,  you know, I- bas- basically you- you can promote yourself if you do a good job, I mean,  they don't pick and choose, you know",
+  "sentence_length" : 61,
+  "mentionArg2" : {
+    "extent" : "different country",
+    "argMentionid" : "fsh_29141-E38-173",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "fsh_29141-R12",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "fsh_29141-E37-172",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "fsh_29141-R12-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "We have a lot of people who are from different country , and , you know , and -- I think they are pretty much accepting , and I , you know , I- bas- basically you- you can promote yourself if you do a good job , I mean , they do n't pick and choose , you know .",
+  "sentence_index" : 57,
+  "Tokens" : [ "We", "have", "a", "lot", "of", "people", "who", "are", "from", "different", "country", ",", "and", ",", "you", "know", ",", "and", "--", "I", "think", "they", "are", "pretty", "much", "accepting", ",", "and", "I", ",", "you", "know", ",", "I-", "bas-", "basically", "you-", "you", "can", "promote", "yourself", "if", "you", "do", "a", "good", "job", ",", "I", "mean", ",", "they", "do", "n't", "pick", "and", "choose", ",", "you", "know", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my team lead",
+  "sentence_length" : 61,
+  "mentionArg2" : {
+    "extent" : "my team lead",
+    "argMentionid" : "fsh_29141-E39-196",
+    "start" : 25,
+    "end" : 27
+  },
+  "relationID" : "fsh_29141-R13",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29141-E15-195",
+    "start" : 25,
+    "end" : 25
+  },
+  "id" : "fsh_29141-R13-1",
+  "relationSubType" : "Business",
+  "Sentence" : "And I think they thinks I rightfully don't , if -- like if I have a problem , like , I 'll freshly go to my team lead or the supervisor and she takes it to her boss , and , you know , the boss takes it to the next level and , you know , something like that .",
+  "sentence_index" : 60,
+  "Tokens" : [ "And", "I", "think", "they", "thinks", "I", "rightfully", "don't", ",", "if", "--", "like", "if", "I", "have", "a", "problem", ",", "like", ",", "I", "'ll", "freshly", "go", "to", "my", "team", "lead", "or", "the", "supervisor", "and", "she", "takes", "it", "to", "her", "boss", ",", "and", ",", "you", "know", ",", "the", "boss", "takes", "it", "to", "the", "next", "level", "and", ",", "you", "know", ",", "something", "like", "that", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her boss",
+  "sentence_length" : 61,
+  "mentionArg2" : {
+    "extent" : "her boss",
+    "argMentionid" : "fsh_29141-E42-202",
+    "start" : 36,
+    "end" : 37
+  },
+  "relationID" : "fsh_29141-R14",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "fsh_29141-E41-200",
+    "start" : 36,
+    "end" : 36
+  },
+  "id" : "fsh_29141-R14-1",
+  "relationSubType" : "Business",
+  "Sentence" : "And I think they thinks I rightfully don't , if -- like if I have a problem , like , I 'll freshly go to my team lead or the supervisor and she takes it to her boss , and , you know , the boss takes it to the next level and , you know , something like that .",
+  "sentence_index" : 60,
+  "Tokens" : [ "And", "I", "think", "they", "thinks", "I", "rightfully", "don't", ",", "if", "--", "like", "if", "I", "have", "a", "problem", ",", "like", ",", "I", "'ll", "freshly", "go", "to", "my", "team", "lead", "or", "the", "supervisor", "and", "she", "takes", "it", "to", "her", "boss", ",", "and", ",", "you", "know", ",", "the", "boss", "takes", "it", "to", "the", "next", "level", "and", ",", "you", "know", ",", "something", "like", "that", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "those in the company",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "the company",
+    "argMentionid" : "fsh_29141-E43-217",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "fsh_29141-R15",
+  "mentionArg1" : {
+    "extent" : "those in the company",
+    "argMentionid" : "fsh_29141-E47-216",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "fsh_29141-R15-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "And and people -- those in the company need to be um instructed -- to know wh- where their relative place is in the company .",
+  "sentence_index" : 64,
+  "Tokens" : [ "And", "and", "people", "--", "those", "in", "the", "company", "need", "to", "be", "um", "instructed", "--", "to", "know", "wh-", "where", "their", "relative", "place", "is", "in", "the", "company", "." ]
+} ]

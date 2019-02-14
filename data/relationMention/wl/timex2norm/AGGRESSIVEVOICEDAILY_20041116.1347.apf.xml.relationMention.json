@@ -1,0 +1,177 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. Marines",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041116.1347-E1-56",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041116.1347-R1",
+  "mentionArg1" : {
+    "extent" : "U.S. Marines",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041116.1347-E30-55",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041116.1347-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Scott 2004-11-16T13:47:00 From Reuters : U.S. Marines rallied round a comrade under investigation for killing a wounded Iraqi during the offensive in Falluja , saying he was probably under combat stress in unpredictable , hair-trigger circumstances .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Scott", "2004-11-16T13:47:00", "From", "Reuters", ":", "U.S.", "Marines", "rallied", "round", "a", "comrade", "under", "investigation", "for", "killing", "a", "wounded", "Iraqi", "during", "the", "offensive", "in", "Falluja", ",", "saying", "he", "was", "probably", "under", "combat", "stress", "in", "unpredictable", ",", "hair-trigger", "circumstances", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Sergeant Nicholas Graham, 24, of Pittsburgh, Pennsylvania",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Pittsburgh, Pennsylvania",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041116.1347-E4-4",
+    "start" : 15,
+    "end" : 17
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041116.1347-R2",
+  "mentionArg1" : {
+    "extent" : "Sergeant Nicholas Graham, 24, of Pittsburgh, Pennsylvania",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041116.1347-E2-2",
+    "start" : 8,
+    "end" : 17
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041116.1347-R2-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Two shots to the head , \" said Sergeant Nicholas Graham , 24 , of Pittsburgh , Pennsylvania .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Two", "shots", "to", "the", "head", ",", "\"", "said", "Sergeant", "Nicholas", "Graham", ",", "24", ",", "of", "Pittsburgh", ",", "Pennsylvania", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "too many friends in Iraq right now I want to see come home alive and well",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041116.1347-E24-44",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041116.1347-R3",
+  "mentionArg1" : {
+    "extent" : "too many friends in Iraq right now I want to see come home alive and well",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041116.1347-E23-43",
+    "start" : 3,
+    "end" : 18
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041116.1347-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I 've got too many friends in Iraq right now I want to see come home alive and well , and I will support them at every opportunity .",
+  "sentence_index" : 15,
+  "Tokens" : [ "I", "'ve", "got", "too", "many", "friends", "in", "Iraq", "right", "now", "I", "want", "to", "see", "come", "home", "alive", "and", "well", ",", "and", "I", "will", "support", "them", "at", "every", "opportunity", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "U.S. Marines rallied round a comrade under investigation for killing a wounded Iraqi during the offensive in Falluja, saying he was probably under combat stress in unpredictable, hair-trigger circumstances",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Falluja",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041116.1347-E34-60",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041116.1347-R4",
+  "mentionArg1" : {
+    "extent" : "a wounded Iraqi",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041116.1347-E33-59",
+    "start" : 15,
+    "end" : 17
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041116.1347-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Scott 2004-11-16T13:47:00 From Reuters : U.S. Marines rallied round a comrade under investigation for killing a wounded Iraqi during the offensive in Falluja , saying he was probably under combat stress in unpredictable , hair-trigger circumstances .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Scott", "2004-11-16T13:47:00", "From", "Reuters", ":", "U.S.", "Marines", "rallied", "round", "a", "comrade", "under", "investigation", "for", "killing", "a", "wounded", "Iraqi", "during", "the", "offensive", "in", "Falluja", ",", "saying", "he", "was", "probably", "under", "combat", "stress", "in", "unpredictable", ",", "hair-trigger", "circumstances", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a comrade under investigation for killing a wounded Iraqi during the offensive in Falluja",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Falluja",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041116.1347-E34-60",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041116.1347-R5",
+  "mentionArg1" : {
+    "extent" : "a comrade under investigation for killing a wounded Iraqi during the offensive in Falluja",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041116.1347-E32-58",
+    "start" : 9,
+    "end" : 22
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041116.1347-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Scott 2004-11-16T13:47:00 From Reuters : U.S. Marines rallied round a comrade under investigation for killing a wounded Iraqi during the offensive in Falluja , saying he was probably under combat stress in unpredictable , hair-trigger circumstances .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Scott", "2004-11-16T13:47:00", "From", "Reuters", ":", "U.S.", "Marines", "rallied", "round", "a", "comrade", "under", "investigation", "for", "killing", "a", "wounded", "Iraqi", "during", "the", "offensive", "in", "Falluja", ",", "saying", "he", "was", "probably", "under", "combat", "stress", "in", "unpredictable", ",", "hair-trigger", "circumstances", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a comrade who faced intense pressure during the effort to quell the insurgency in the city",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "the city",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041116.1347-E34-65",
+    "start" : 33,
+    "end" : 34
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041116.1347-R5",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041116.1347-E32-47",
+    "start" : 21,
+    "end" : 21
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041116.1347-R5-2",
+  "relationSubType" : "Located",
+  "Sentence" : "Marines interviewed on Tuesday said they did n't see the shooting as a scandal , rather the act of a comrade who faced intense pressure during the effort to quell the insurgency in the city .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Marines", "interviewed", "on", "Tuesday", "said", "they", "did", "n't", "see", "the", "shooting", "as", "a", "scandal", ",", "rather", "the", "act", "of", "a", "comrade", "who", "faced", "intense", "pressure", "during", "the", "effort", "to", "quell", "the", "insurgency", "in", "the", "city", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "He was probably running around being shot at for days on end in Falluja",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "Falluja",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041116.1347-E34-71",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041116.1347-R5",
+  "mentionArg1" : {
+    "extent" : "He",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041116.1347-E32-70",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041116.1347-R5-3",
+  "relationSubType" : "Located",
+  "Sentence" : "He was probably running around being shot at for days on end in Falluja .",
+  "sentence_index" : 3,
+  "Tokens" : [ "He", "was", "probably", "running", "around", "being", "shot", "at", "for", "days", "on", "end", "in", "Falluja", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Pittsburgh, Pennsylvania",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Pennsylvania",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041116.1347-E5-5",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041116.1347-R8",
+  "mentionArg1" : {
+    "extent" : "Pittsburgh, Pennsylvania",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041116.1347-E4-4",
+    "start" : 15,
+    "end" : 17
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041116.1347-R8-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Two shots to the head , \" said Sergeant Nicholas Graham , 24 , of Pittsburgh , Pennsylvania .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Two", "shots", "to", "the", "head", ",", "\"", "said", "Sergeant", "Nicholas", "Graham", ",", "24", ",", "of", "Pittsburgh", ",", "Pennsylvania", "." ]
+} ]

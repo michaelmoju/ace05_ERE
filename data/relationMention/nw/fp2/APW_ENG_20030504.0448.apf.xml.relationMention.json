@@ -1,0 +1,1035 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "Every American president since the 1960s",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "APW_ENG_20030504.0448-E11-50",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030504.0448-R2",
+  "mentionArg1" : {
+    "extent" : "Every American president since the 1960s",
+    "argMentionid" : "APW_ENG_20030504.0448-E33-49",
+    "start" : 0,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030504.0448-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Every American president since the 1960s has been dragged into this conflict .",
+  "sentence_index" : 12,
+  "Tokens" : [ "Every", "American", "president", "since", "the", "1960s", "has", "been", "dragged", "into", "this", "conflict", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Israel's Yediot Ahronot newspaper",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Israel",
+    "argMentionid" : "APW_ENG_20030504.0448-E60-62",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030504.0448-R3",
+  "mentionArg1" : {
+    "extent" : "Israel's Yediot Ahronot newspaper",
+    "argMentionid" : "APW_ENG_20030504.0448-E40-60",
+    "start" : 4,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030504.0448-R3-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "In an interview with Israel 's Yediot Ahronot newspaper published Friday , U.S. National Security Adviser Condoleezza Rice said the Bush administration was determined to push forward .",
+  "sentence_index" : 15,
+  "Tokens" : [ "In", "an", "interview", "with", "Israel", "'s", "Yediot", "Ahronot", "newspaper", "published", "Friday", ",", "U.S.", "National", "Security", "Adviser", "Condoleezza", "Rice", "said", "the", "Bush", "administration", "was", "determined", "to", "push", "forward", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the nations of the region",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "the region",
+    "argMentionid" : "APW_ENG_20030504.0448-E127-73",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030504.0448-R4",
+  "mentionArg1" : {
+    "extent" : "the nations of the region",
+    "argMentionid" : "APW_ENG_20030504.0448-E47-72",
+    "start" : 5,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030504.0448-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "`` The president expects all the nations of the region , including Israel , to seize the opportunity ... Our expectation from the sides have changed in the wake of the Iraq war and the appointing of a Palestinian prime minister . ''",
+  "sentence_index" : 17,
+  "Tokens" : [ "``", "The", "president", "expects", "all", "the", "nations", "of", "the", "region", ",", "including", "Israel", ",", "to", "seize", "the", "opportunity", "...", "Our", "expectation", "from", "the", "sides", "have", "changed", "in", "the", "wake", "of", "the", "Iraq", "war", "and", "the", "appointing", "of", "a", "Palestinian", "prime", "minister", ".", "''" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a Palestinian prime minister",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "APW_ENG_20030504.0448-E6-80",
+    "start" : 38,
+    "end" : 38
+  },
+  "relationID" : "APW_ENG_20030504.0448-R5",
+  "mentionArg1" : {
+    "extent" : "a Palestinian prime minister",
+    "argMentionid" : "APW_ENG_20030504.0448-E27-79",
+    "start" : 37,
+    "end" : 40
+  },
+  "id" : "APW_ENG_20030504.0448-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "`` The president expects all the nations of the region , including Israel , to seize the opportunity ... Our expectation from the sides have changed in the wake of the Iraq war and the appointing of a Palestinian prime minister . ''",
+  "sentence_index" : 17,
+  "Tokens" : [ "``", "The", "president", "expects", "all", "the", "nations", "of", "the", "region", ",", "including", "Israel", ",", "to", "seize", "the", "opportunity", "...", "Our", "expectation", "from", "the", "sides", "have", "changed", "in", "the", "wake", "of", "the", "Iraq", "war", "and", "the", "appointing", "of", "a", "Palestinian", "prime", "minister", ".", "''" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a waitress and two musicians in a Tel Aviv pub",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "a Tel Aviv pub",
+    "argMentionid" : "APW_ENG_20030504.0448-E57-89",
+    "start" : 14,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030504.0448-R6",
+  "mentionArg1" : {
+    "extent" : "a waitress and two musicians in a Tel Aviv pub",
+    "argMentionid" : "APW_ENG_20030504.0448-E55-87",
+    "start" : 8,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030504.0448-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Early Wednesday morning , a suicide bomber killed a waitress and two musicians in a Tel Aviv pub. On Thursday , the Israeli army raided Gaza in search of militants , killing 12 Palestinians , four of them civilians .",
+  "sentence_index" : 20,
+  "Tokens" : [ "Early", "Wednesday", "morning", ",", "a", "suicide", "bomber", "killed", "a", "waitress", "and", "two", "musicians", "in", "a", "Tel", "Aviv", "pub.", "On", "Thursday", ",", "the", "Israeli", "army", "raided", "Gaza", "in", "search", "of", "militants", ",", "killing", "12", "Palestinians", ",", "four", "of", "them", "civilians", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "their arms",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "their arms",
+    "argMentionid" : "APW_ENG_20030504.0448-E69-103",
+    "start" : 25,
+    "end" : 26
+  },
+  "relationID" : "APW_ENG_20030504.0448-R7",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "APW_ENG_20030504.0448-E67-104",
+    "start" : 25,
+    "end" : 25
+  },
+  "id" : "APW_ENG_20030504.0448-R7-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Abbas and his security minister , Mohammed Dahlan , seem ready to either persuade or force militants who reject the road map to lay down their arms .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Abbas", "and", "his", "security", "minister", ",", "Mohammed", "Dahlan", ",", "seem", "ready", "to", "either", "persuade", "or", "force", "militants", "who", "reject", "the", "road", "map", "to", "lay", "down", "their", "arms", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "their bases in the West Bank",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "the West Bank",
+    "argMentionid" : "APW_ENG_20030504.0448-E8-107",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030504.0448-R8",
+  "mentionArg1" : {
+    "extent" : "their bases in the West Bank",
+    "argMentionid" : "APW_ENG_20030504.0448-E70-105",
+    "start" : 1,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030504.0448-R8-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "But their bases in the West Bank have been decimated by Israel and their officers are under severe travel restrictions .",
+  "sentence_index" : 22,
+  "Tokens" : [ "But", "their", "bases", "in", "the", "West", "Bank", "have", "been", "decimated", "by", "Israel", "and", "their", "officers", "are", "under", "severe", "travel", "restrictions", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Prime Minister Ariel Sharon's rightist coalition",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "Prime Minister Ariel Sharon's rightist coalition",
+    "argMentionid" : "APW_ENG_20030504.0448-E80-122",
+    "start" : 7,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030504.0448-R9",
+  "mentionArg1" : {
+    "extent" : "Prime Minister Ariel Sharon",
+    "argMentionid" : "APW_ENG_20030504.0448-E81-123",
+    "start" : 7,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030504.0448-R9-1",
+  "relationSubType" : "Ownership",
+  "Sentence" : "Any of these concessions could bring down Prime Minister Ariel Sharon 's rightist coalition .",
+  "sentence_index" : 25,
+  "Tokens" : [ "Any", "of", "these", "concessions", "could", "bring", "down", "Prime", "Minister", "Ariel", "Sharon", "'s", "rightist", "coalition", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "The Palestinian leadership",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "APW_ENG_20030504.0448-E6-126",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030504.0448-R10",
+  "mentionArg1" : {
+    "extent" : "The Palestinian leadership",
+    "argMentionid" : "APW_ENG_20030504.0448-E83-125",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030504.0448-R10-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The Palestinian leadership is required to reiterate its recognition of Israel 's right to exist in peace , call for an immediate and unconditional cease-fire , and end all official anti-Israeli incitement .",
+  "sentence_index" : 26,
+  "Tokens" : [ "The", "Palestinian", "leadership", "is", "required", "to", "reiterate", "its", "recognition", "of", "Israel", "'s", "right", "to", "exist", "in", "peace", ",", "call", "for", "an", "immediate", "and", "unconditional", "cease-fire", ",", "and", "end", "all", "official", "anti-Israeli", "incitement", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Palestinian Authority",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "APW_ENG_20030504.0448-E6-132",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030504.0448-R10",
+  "mentionArg1" : {
+    "extent" : "the Palestinian Authority",
+    "argMentionid" : "APW_ENG_20030504.0448-E83-131",
+    "start" : 11,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030504.0448-R10-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "But the Islamic militants have already rejected a cease-fire , and the Palestinian Authority has never shown much appetite for taking them on .",
+  "sentence_index" : 27,
+  "Tokens" : [ "But", "the", "Islamic", "militants", "have", "already", "rejected", "a", "cease-fire", ",", "and", "the", "Palestinian", "Authority", "has", "never", "shown", "much", "appetite", "for", "taking", "them", "on", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Islamic militants",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "the Islamic militants",
+    "argMentionid" : "APW_ENG_20030504.0448-E86-130",
+    "start" : 1,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030504.0448-R11",
+  "mentionArg1" : {
+    "extent" : "the Islamic militants",
+    "argMentionid" : "APW_ENG_20030504.0448-E86-130",
+    "start" : 1,
+    "end" : 3
+  },
+  "id" : "APW_ENG_20030504.0448-R11-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "But the Islamic militants have already rejected a cease-fire , and the Palestinian Authority has never shown much appetite for taking them on .",
+  "sentence_index" : 27,
+  "Tokens" : [ "But", "the", "Islamic", "militants", "have", "already", "rejected", "a", "cease-fire", ",", "and", "the", "Palestinian", "Authority", "has", "never", "shown", "much", "appetite", "for", "taking", "them", "on", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a Palestinian state with ``provisional borders",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "a Palestinian state with ``provisional borders",
+    "argMentionid" : "APW_ENG_20030504.0448-E13-138",
+    "start" : 18,
+    "end" : 24
+  },
+  "relationID" : "APW_ENG_20030504.0448-R13",
+  "mentionArg1" : {
+    "extent" : "provisional borders",
+    "argMentionid" : "APW_ENG_20030504.0448-E89-140",
+    "start" : 23,
+    "end" : 24
+  },
+  "id" : "APW_ENG_20030504.0448-R13-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Phase II , which could come as early as the end of the year , calls for creating a Palestinian state with `` provisional borders . ''",
+  "sentence_index" : 29,
+  "Tokens" : [ "Phase", "II", ",", "which", "could", "come", "as", "early", "as", "the", "end", "of", "the", "year", ",", "calls", "for", "creating", "a", "Palestinian", "state", "with", "``", "provisional", "borders", ".", "''" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "troops from the disconnected Palestinian autonomy zones",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "the disconnected Palestinian autonomy zones",
+    "argMentionid" : "APW_ENG_20030504.0448-E91-143",
+    "start" : 14,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030504.0448-R14",
+  "mentionArg1" : {
+    "extent" : "troops",
+    "argMentionid" : "APW_ENG_20030504.0448-E90-142",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030504.0448-R14-1",
+  "relationSubType" : "Located",
+  "Sentence" : "That would require Israel , at the very least , to withdraw troops from the disconnected Palestinian autonomy zones , and it will also face pressure to expand the zones into a more contiguous and manageable territory .",
+  "sentence_index" : 30,
+  "Tokens" : [ "That", "would", "require", "Israel", ",", "at", "the", "very", "least", ",", "to", "withdraw", "troops", "from", "the", "disconnected", "Palestinian", "autonomy", "zones", ",", "and", "it", "will", "also", "face", "pressure", "to", "expand", "the", "zones", "into", "a", "more", "contiguous", "and", "manageable", "territory", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the zones into a more contiguous and manageable territory",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "a more contiguous and manageable territory",
+    "argMentionid" : "APW_ENG_20030504.0448-E93-146",
+    "start" : 31,
+    "end" : 36
+  },
+  "relationID" : "APW_ENG_20030504.0448-R15",
+  "mentionArg1" : {
+    "extent" : "the zones",
+    "argMentionid" : "APW_ENG_20030504.0448-E91-145",
+    "start" : 28,
+    "end" : 29
+  },
+  "id" : "APW_ENG_20030504.0448-R15-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "That would require Israel , at the very least , to withdraw troops from the disconnected Palestinian autonomy zones , and it will also face pressure to expand the zones into a more contiguous and manageable territory .",
+  "sentence_index" : 30,
+  "Tokens" : [ "That", "would", "require", "Israel", ",", "at", "the", "very", "least", ",", "to", "withdraw", "troops", "from", "the", "disconnected", "Palestinian", "autonomy", "zones", ",", "and", "it", "will", "also", "face", "pressure", "to", "expand", "the", "zones", "into", "a", "more", "contiguous", "and", "manageable", "territory", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Palestinian areas",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "APW_ENG_20030504.0448-E6-164",
+    "start" : 29,
+    "end" : 29
+  },
+  "relationID" : "APW_ENG_20030504.0448-R16",
+  "mentionArg1" : {
+    "extent" : "the Palestinian areas",
+    "argMentionid" : "APW_ENG_20030504.0448-E91-163",
+    "start" : 28,
+    "end" : 30
+  },
+  "id" : "APW_ENG_20030504.0448-R16-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Palestinian analyst Khalil Shikaki said the road map was `` likely to fail '' and he expected the next idea to be international forces taking over and administering the Palestinian areas _ which the United States has so far resisted .",
+  "sentence_index" : 35,
+  "Tokens" : [ "Palestinian", "analyst", "Khalil", "Shikaki", "said", "the", "road", "map", "was", "``", "likely", "to", "fail", "''", "and", "he", "expected", "the", "next", "idea", "to", "be", "international", "forces", "taking", "over", "and", "administering", "the", "Palestinian", "areas", "_", "which", "the", "United", "States", "has", "so", "far", "resisted", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the disconnected Palestinian autonomy zones",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "APW_ENG_20030504.0448-E6-144",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "APW_ENG_20030504.0448-R16",
+  "mentionArg1" : {
+    "extent" : "the disconnected Palestinian autonomy zones",
+    "argMentionid" : "APW_ENG_20030504.0448-E91-143",
+    "start" : 14,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030504.0448-R16-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "That would require Israel , at the very least , to withdraw troops from the disconnected Palestinian autonomy zones , and it will also face pressure to expand the zones into a more contiguous and manageable territory .",
+  "sentence_index" : 30,
+  "Tokens" : [ "That", "would", "require", "Israel", ",", "at", "the", "very", "least", ",", "to", "withdraw", "troops", "from", "the", "disconnected", "Palestinian", "autonomy", "zones", ",", "and", "it", "will", "also", "face", "pressure", "to", "expand", "the", "zones", "into", "a", "more", "contiguous", "and", "manageable", "territory", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Palestinian-controlled areas",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "APW_ENG_20030504.0448-E6-148",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030504.0448-R16",
+  "mentionArg1" : {
+    "extent" : "Palestinian-controlled areas",
+    "argMentionid" : "APW_ENG_20030504.0448-E91-147",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030504.0448-R16-3",
+  "relationSubType" : "Geographical",
+  "Sentence" : "That 's a risk , because Palestinian-controlled areas have served as refuge for militants in the past .",
+  "sentence_index" : 31,
+  "Tokens" : [ "That", "'s", "a", "risk", ",", "because", "Palestinian-controlled", "areas", "have", "served", "as", "refuge", "for", "militants", "in", "the", "past", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "their capital",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "their",
+    "argMentionid" : "APW_ENG_20030504.0448-E6-184",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030504.0448-R17",
+  "mentionArg1" : {
+    "extent" : "their capital",
+    "argMentionid" : "APW_ENG_20030504.0448-E109-183",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030504.0448-R17-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The Palestinians want east Jerusalem for their capital .",
+  "sentence_index" : 40,
+  "Tokens" : [ "The", "Palestinians", "want", "east", "Jerusalem", "for", "their", "capital", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "their country with its 5 million Jewish citizens",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "it",
+    "argMentionid" : "APW_ENG_20030504.0448-E60-207",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030504.0448-R18",
+  "mentionArg1" : {
+    "extent" : "its 5 million Jewish citizens",
+    "argMentionid" : "APW_ENG_20030504.0448-E123-208",
+    "start" : 5,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030504.0448-R18-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Israelis say their country with its 5 million Jewish citizens would cease to exist as a Jewish state .",
+  "sentence_index" : 43,
+  "Tokens" : [ "Israelis", "say", "their", "country", "with", "its", "5", "million", "Jewish", "citizens", "would", "cease", "to", "exist", "as", "a", "Jewish", "state", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "tens of thousands of troops in nearby Iraq",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "nearby Iraq",
+    "argMentionid" : "APW_ENG_20030504.0448-E48-217",
+    "start" : 26,
+    "end" : 27
+  },
+  "relationID" : "APW_ENG_20030504.0448-R19",
+  "mentionArg1" : {
+    "extent" : "tens of thousands of troops in nearby Iraq",
+    "argMentionid" : "APW_ENG_20030504.0448-E130-212",
+    "start" : 20,
+    "end" : 27
+  },
+  "id" : "APW_ENG_20030504.0448-R19-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The blueprint comes at a time when U.S. influence in the region is at its height , backed up by tens of thousands of troops in nearby Iraq .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "blueprint", "comes", "at", "a", "time", "when", "U.S.", "influence", "in", "the", "region", "is", "at", "its", "height", ",", "backed", "up", "by", "tens", "of", "thousands", "of", "troops", "in", "nearby", "Iraq", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a Palestinian state in the West Bank and Gaza, which Israel occupied in the 1967 war",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "the West Bank",
+    "argMentionid" : "APW_ENG_20030504.0448-E8-12",
+    "start" : 36,
+    "end" : 38
+  },
+  "relationID" : "APW_ENG_20030504.0448-R20",
+  "mentionArg1" : {
+    "extent" : "a Palestinian state in the West Bank and Gaza, which Israel occupied in the 1967 war",
+    "argMentionid" : "APW_ENG_20030504.0448-E9-13",
+    "start" : 32,
+    "end" : 48
+  },
+  "id" : "APW_ENG_20030504.0448-R20-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "And for the first time , the United States has enlisted the global community _ the United Nations , the European Union and Russia are cosignatories _ into a consensus for establishing a Palestinian state in the West Bank and Gaza , which Israel occupied in the 1967 war .",
+  "sentence_index" : 3,
+  "Tokens" : [ "And", "for", "the", "first", "time", ",", "the", "United", "States", "has", "enlisted", "the", "global", "community", "_", "the", "United", "Nations", ",", "the", "European", "Union", "and", "Russia", "are", "cosignatories", "_", "into", "a", "consensus", "for", "establishing", "a", "Palestinian", "state", "in", "the", "West", "Bank", "and", "Gaza", ",", "which", "Israel", "occupied", "in", "the", "1967", "war", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a Palestinian state in the West Bank and Gaza, which Israel occupied in the 1967 war",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "Gaza",
+    "argMentionid" : "APW_ENG_20030504.0448-E7-11",
+    "start" : 40,
+    "end" : 40
+  },
+  "relationID" : "APW_ENG_20030504.0448-R21",
+  "mentionArg1" : {
+    "extent" : "a Palestinian state in the West Bank and Gaza, which Israel occupied in the 1967 war",
+    "argMentionid" : "APW_ENG_20030504.0448-E9-13",
+    "start" : 32,
+    "end" : 48
+  },
+  "id" : "APW_ENG_20030504.0448-R21-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "And for the first time , the United States has enlisted the global community _ the United Nations , the European Union and Russia are cosignatories _ into a consensus for establishing a Palestinian state in the West Bank and Gaza , which Israel occupied in the 1967 war .",
+  "sentence_index" : 3,
+  "Tokens" : [ "And", "for", "the", "first", "time", ",", "the", "United", "States", "has", "enlisted", "the", "global", "community", "_", "the", "United", "Nations", ",", "the", "European", "Union", "and", "Russia", "are", "cosignatories", "_", "into", "a", "consensus", "for", "establishing", "a", "Palestinian", "state", "in", "the", "West", "Bank", "and", "Gaza", ",", "which", "Israel", "occupied", "in", "the", "1967", "war", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "which Israel occupied in the 1967 war",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "Israel",
+    "argMentionid" : "APW_ENG_20030504.0448-E60-14",
+    "start" : 43,
+    "end" : 43
+  },
+  "relationID" : "APW_ENG_20030504.0448-R22",
+  "mentionArg1" : {
+    "extent" : "which",
+    "argMentionid" : "APW_ENG_20030504.0448-E9-15",
+    "start" : 42,
+    "end" : 42
+  },
+  "id" : "APW_ENG_20030504.0448-R22-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "And for the first time , the United States has enlisted the global community _ the United Nations , the European Union and Russia are cosignatories _ into a consensus for establishing a Palestinian state in the West Bank and Gaza , which Israel occupied in the 1967 war .",
+  "sentence_index" : 3,
+  "Tokens" : [ "And", "for", "the", "first", "time", ",", "the", "United", "States", "has", "enlisted", "the", "global", "community", "_", "the", "United", "Nations", ",", "the", "European", "Union", "and", "Russia", "are", "cosignatories", "_", "into", "a", "consensus", "for", "establishing", "a", "Palestinian", "state", "in", "the", "West", "Bank", "and", "Gaza", ",", "which", "Israel", "occupied", "in", "the", "1967", "war", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. President",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030504.0448-E11-17",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030504.0448-R23",
+  "mentionArg1" : {
+    "extent" : "U.S. President",
+    "argMentionid" : "APW_ENG_20030504.0448-E10-37",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030504.0448-R23-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "That makes the administration of U.S. President George W. Bush the first in nearly 35 years of American peacemaking efforts to formally and unequivocally accept the idea of a state called Palestine .",
+  "sentence_index" : 4,
+  "Tokens" : [ "That", "makes", "the", "administration", "of", "U.S.", "President", "George", "W.", "Bush", "the", "first", "in", "nearly", "35", "years", "of", "American", "peacemaking", "efforts", "to", "formally", "and", "unequivocally", "accept", "the", "idea", "of", "a", "state", "called", "Palestine", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Tel Aviv University strategic affairs analyst",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "Tel Aviv University",
+    "argMentionid" : "APW_ENG_20030504.0448-E18-28",
+    "start" : 43,
+    "end" : 45
+  },
+  "relationID" : "APW_ENG_20030504.0448-R24",
+  "mentionArg1" : {
+    "extent" : "Tel Aviv University strategic affairs analyst",
+    "argMentionid" : "APW_ENG_20030504.0448-E17-36",
+    "start" : 43,
+    "end" : 48
+  },
+  "id" : "APW_ENG_20030504.0448-R24-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Recent months have created a promising `` confluence of circumstances ... the defeat of Saddam Hussein ( and ) the assertion of American power in the Middle East , '' and a reevaluation by some Palestinians of their uprising against Israel , said Tel Aviv University strategic affairs analyst Bruce Maddy-Weitzman .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Recent", "months", "have", "created", "a", "promising", "``", "confluence", "of", "circumstances", "...", "the", "defeat", "of", "Saddam", "Hussein", "(", "and", ")", "the", "assertion", "of", "American", "power", "in", "the", "Middle", "East", ",", "''", "and", "a", "reevaluation", "by", "some", "Palestinians", "of", "their", "uprising", "against", "Israel", ",", "said", "Tel", "Aviv", "University", "strategic", "affairs", "analyst", "Bruce", "Maddy-Weitzman", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Palestinian leader",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "APW_ENG_20030504.0448-E6-35",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030504.0448-R25",
+  "mentionArg1" : {
+    "extent" : "Palestinian leader",
+    "argMentionid" : "APW_ENG_20030504.0448-E21-34",
+    "start" : 4,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030504.0448-R25-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "It has already forced Palestinian leader Yasser Arafat to share power with a newly appointed prime minister , Mahmoud Abbas .",
+  "sentence_index" : 9,
+  "Tokens" : [ "It", "has", "already", "forced", "Palestinian", "leader", "Yasser", "Arafat", "to", "share", "power", "with", "a", "newly", "appointed", "prime", "minister", ",", "Mahmoud", "Abbas", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "They have to look back to 1956, and the Eisenhower administration's ultimatum to Israel to return the Sinai Desert to Egypt, for an example of the kind of muscle they want applied now",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Israel",
+    "argMentionid" : "APW_ENG_20030504.0448-E60-45",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030504.0448-R26",
+  "mentionArg1" : {
+    "extent" : "the Sinai Desert",
+    "argMentionid" : "APW_ENG_20030504.0448-E31-46",
+    "start" : 18,
+    "end" : 20
+  },
+  "id" : "APW_ENG_20030504.0448-R26-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "They have to look back to 1956 , and the Eisenhower administration 's ultimatum to Israel to return the Sinai Desert to Egypt , for an example of the kind of muscle they want applied now .",
+  "sentence_index" : 11,
+  "Tokens" : [ "They", "have", "to", "look", "back", "to", "1956", ",", "and", "the", "Eisenhower", "administration", "'s", "ultimatum", "to", "Israel", "to", "return", "the", "Sinai", "Desert", "to", "Egypt", ",", "for", "an", "example", "of", "the", "kind", "of", "muscle", "they", "want", "applied", "now", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "They have to look back to 1956, and the Eisenhower administration's ultimatum to Israel to return the Sinai Desert to Egypt, for an example of the kind of muscle they want applied now",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Egypt",
+    "argMentionid" : "APW_ENG_20030504.0448-E32-47",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "APW_ENG_20030504.0448-R27",
+  "mentionArg1" : {
+    "extent" : "the Sinai Desert",
+    "argMentionid" : "APW_ENG_20030504.0448-E31-46",
+    "start" : 18,
+    "end" : 20
+  },
+  "id" : "APW_ENG_20030504.0448-R27-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "They have to look back to 1956 , and the Eisenhower administration 's ultimatum to Israel to return the Sinai Desert to Egypt , for an example of the kind of muscle they want applied now .",
+  "sentence_index" : 11,
+  "Tokens" : [ "They", "have", "to", "look", "back", "to", "1956", ",", "and", "the", "Eisenhower", "administration", "'s", "ultimatum", "to", "Israel", "to", "return", "the", "Sinai", "Desert", "to", "Egypt", ",", "for", "an", "example", "of", "the", "kind", "of", "muscle", "they", "want", "applied", "now", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. National Security Adviser",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030504.0448-E11-65",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030504.0448-R28",
+  "mentionArg1" : {
+    "extent" : "U.S. National Security Adviser",
+    "argMentionid" : "APW_ENG_20030504.0448-E42-64",
+    "start" : 12,
+    "end" : 15
+  },
+  "id" : "APW_ENG_20030504.0448-R28-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "In an interview with Israel 's Yediot Ahronot newspaper published Friday , U.S. National Security Adviser Condoleezza Rice said the Bush administration was determined to push forward .",
+  "sentence_index" : 15,
+  "Tokens" : [ "In", "an", "interview", "with", "Israel", "'s", "Yediot", "Ahronot", "newspaper", "published", "Friday", ",", "U.S.", "National", "Security", "Adviser", "Condoleezza", "Rice", "said", "the", "Bush", "administration", "was", "determined", "to", "push", "forward", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a waitress and two musicians in a Tel Aviv pub",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "a Tel Aviv pub",
+    "argMentionid" : "APW_ENG_20030504.0448-E57-89",
+    "start" : 14,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030504.0448-R29",
+  "mentionArg1" : {
+    "extent" : "two musicians",
+    "argMentionid" : "APW_ENG_20030504.0448-E56-88",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030504.0448-R29-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Early Wednesday morning , a suicide bomber killed a waitress and two musicians in a Tel Aviv pub. On Thursday , the Israeli army raided Gaza in search of militants , killing 12 Palestinians , four of them civilians .",
+  "sentence_index" : 20,
+  "Tokens" : [ "Early", "Wednesday", "morning", ",", "a", "suicide", "bomber", "killed", "a", "waitress", "and", "two", "musicians", "in", "a", "Tel", "Aviv", "pub.", "On", "Thursday", ",", "the", "Israeli", "army", "raided", "Gaza", "in", "search", "of", "militants", ",", "killing", "12", "Palestinians", ",", "four", "of", "them", "civilians", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a Tel Aviv pub",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Tel Aviv",
+    "argMentionid" : "APW_ENG_20030504.0448-E58-90",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "APW_ENG_20030504.0448-R30",
+  "mentionArg1" : {
+    "extent" : "a Tel Aviv pub",
+    "argMentionid" : "APW_ENG_20030504.0448-E57-89",
+    "start" : 14,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030504.0448-R30-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Early Wednesday morning , a suicide bomber killed a waitress and two musicians in a Tel Aviv pub. On Thursday , the Israeli army raided Gaza in search of militants , killing 12 Palestinians , four of them civilians .",
+  "sentence_index" : 20,
+  "Tokens" : [ "Early", "Wednesday", "morning", ",", "a", "suicide", "bomber", "killed", "a", "waitress", "and", "two", "musicians", "in", "a", "Tel", "Aviv", "pub.", "On", "Thursday", ",", "the", "Israeli", "army", "raided", "Gaza", "in", "search", "of", "militants", ",", "killing", "12", "Palestinians", ",", "four", "of", "them", "civilians", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Israeli army",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "APW_ENG_20030504.0448-E60-92",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "APW_ENG_20030504.0448-R31",
+  "mentionArg1" : {
+    "extent" : "the Israeli army",
+    "argMentionid" : "APW_ENG_20030504.0448-E59-91",
+    "start" : 21,
+    "end" : 23
+  },
+  "id" : "APW_ENG_20030504.0448-R31-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Early Wednesday morning , a suicide bomber killed a waitress and two musicians in a Tel Aviv pub. On Thursday , the Israeli army raided Gaza in search of militants , killing 12 Palestinians , four of them civilians .",
+  "sentence_index" : 20,
+  "Tokens" : [ "Early", "Wednesday", "morning", ",", "a", "suicide", "bomber", "killed", "a", "waitress", "and", "two", "musicians", "in", "a", "Tel", "Aviv", "pub.", "On", "Thursday", ",", "the", "Israeli", "army", "raided", "Gaza", "in", "search", "of", "militants", ",", "killing", "12", "Palestinians", ",", "four", "of", "them", "civilians", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "On Thursday, the Israeli army raided Gaza in search of militants, killing 12 Palestinians, four of them civilians",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Gaza",
+    "argMentionid" : "APW_ENG_20030504.0448-E7-93",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "APW_ENG_20030504.0448-R32",
+  "mentionArg1" : {
+    "extent" : "militants",
+    "argMentionid" : "APW_ENG_20030504.0448-E61-94",
+    "start" : 29,
+    "end" : 29
+  },
+  "id" : "APW_ENG_20030504.0448-R32-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Early Wednesday morning , a suicide bomber killed a waitress and two musicians in a Tel Aviv pub. On Thursday , the Israeli army raided Gaza in search of militants , killing 12 Palestinians , four of them civilians .",
+  "sentence_index" : 20,
+  "Tokens" : [ "Early", "Wednesday", "morning", ",", "a", "suicide", "bomber", "killed", "a", "waitress", "and", "two", "musicians", "in", "a", "Tel", "Aviv", "pub.", "On", "Thursday", ",", "the", "Israeli", "army", "raided", "Gaza", "in", "search", "of", "militants", ",", "killing", "12", "Palestinians", ",", "four", "of", "them", "civilians", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his security minister",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "his security minister",
+    "argMentionid" : "APW_ENG_20030504.0448-E64-99",
+    "start" : 2,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030504.0448-R33",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "APW_ENG_20030504.0448-E27-100",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030504.0448-R33-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Abbas and his security minister , Mohammed Dahlan , seem ready to either persuade or force militants who reject the road map to lay down their arms .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Abbas", "and", "his", "security", "minister", ",", "Mohammed", "Dahlan", ",", "seem", "ready", "to", "either", "persuade", "or", "force", "militants", "who", "reject", "the", "road", "map", "to", "lay", "down", "their", "arms", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "their officers",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "their",
+    "argMentionid" : "APW_ENG_20030504.0448-E60-110",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030504.0448-R34",
+  "mentionArg1" : {
+    "extent" : "their officers",
+    "argMentionid" : "APW_ENG_20030504.0448-E71-109",
+    "start" : 13,
+    "end" : 14
+  },
+  "id" : "APW_ENG_20030504.0448-R34-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "But their bases in the West Bank have been decimated by Israel and their officers are under severe travel restrictions .",
+  "sentence_index" : 22,
+  "Tokens" : [ "But", "their", "bases", "in", "the", "West", "Bank", "have", "been", "decimated", "by", "Israel", "and", "their", "officers", "are", "under", "severe", "travel", "restrictions", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "The ``road map'' that the world has unfolded for Israel and the Palestinians is the latest in a long line of grand designs for the Middle East",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "the Middle East",
+    "argMentionid" : "APW_ENG_20030504.0448-E127-214",
+    "start" : 30,
+    "end" : 32
+  },
+  "relationID" : "APW_ENG_20030504.0448-R35",
+  "mentionArg1" : {
+    "extent" : "Israel",
+    "argMentionid" : "APW_ENG_20030504.0448-E60-210",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "APW_ENG_20030504.0448-R35-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "JERUSALEM ( AP ) The `` road map '' that the world has unfolded for Israel and the Palestinians is the latest in a long line of grand designs for the Middle East .",
+  "sentence_index" : 0,
+  "Tokens" : [ "JERUSALEM", "(", "AP", ")", "The", "``", "road", "map", "''", "that", "the", "world", "has", "unfolded", "for", "Israel", "and", "the", "Palestinians", "is", "the", "latest", "in", "a", "long", "line", "of", "grand", "designs", "for", "the", "Middle", "East", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "The ``road map'' that the world has unfolded for Israel and the Palestinians is the latest in a long line of grand designs for the Middle East",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "the Middle East",
+    "argMentionid" : "APW_ENG_20030504.0448-E127-214",
+    "start" : 30,
+    "end" : 32
+  },
+  "relationID" : "APW_ENG_20030504.0448-R36",
+  "mentionArg1" : {
+    "extent" : "the Palestinians",
+    "argMentionid" : "APW_ENG_20030504.0448-E6-211",
+    "start" : 17,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030504.0448-R36-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "JERUSALEM ( AP ) The `` road map '' that the world has unfolded for Israel and the Palestinians is the latest in a long line of grand designs for the Middle East .",
+  "sentence_index" : 0,
+  "Tokens" : [ "JERUSALEM", "(", "AP", ")", "The", "``", "road", "map", "''", "that", "the", "world", "has", "unfolded", "for", "Israel", "and", "the", "Palestinians", "is", "the", "latest", "in", "a", "long", "line", "of", "grand", "designs", "for", "the", "Middle", "East", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Jewish settlements in the West Bank and Gaza",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "the West Bank",
+    "argMentionid" : "APW_ENG_20030504.0448-E8-118",
+    "start" : 25,
+    "end" : 27
+  },
+  "relationID" : "APW_ENG_20030504.0448-R37",
+  "mentionArg1" : {
+    "extent" : "Jewish settlements in the West Bank and Gaza",
+    "argMentionid" : "APW_ENG_20030504.0448-E77-117",
+    "start" : 22,
+    "end" : 29
+  },
+  "id" : "APW_ENG_20030504.0448-R37-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Phase I of the road map demands an Israeli statement of support for Palestinian statehood , a freeze on all construction in Jewish settlements in the West Bank and Gaza , and the dismantling of dozens of outposts built since 2001 .",
+  "sentence_index" : 24,
+  "Tokens" : [ "Phase", "I", "of", "the", "road", "map", "demands", "an", "Israeli", "statement", "of", "support", "for", "Palestinian", "statehood", ",", "a", "freeze", "on", "all", "construction", "in", "Jewish", "settlements", "in", "the", "West", "Bank", "and", "Gaza", ",", "and", "the", "dismantling", "of", "dozens", "of", "outposts", "built", "since", "2001", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Jewish settlements in the West Bank and Gaza",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Gaza",
+    "argMentionid" : "APW_ENG_20030504.0448-E7-119",
+    "start" : 29,
+    "end" : 29
+  },
+  "relationID" : "APW_ENG_20030504.0448-R38",
+  "mentionArg1" : {
+    "extent" : "Jewish settlements in the West Bank and Gaza",
+    "argMentionid" : "APW_ENG_20030504.0448-E77-117",
+    "start" : 22,
+    "end" : 29
+  },
+  "id" : "APW_ENG_20030504.0448-R38-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Phase I of the road map demands an Israeli statement of support for Palestinian statehood , a freeze on all construction in Jewish settlements in the West Bank and Gaza , and the dismantling of dozens of outposts built since 2001 .",
+  "sentence_index" : 24,
+  "Tokens" : [ "Phase", "I", "of", "the", "road", "map", "demands", "an", "Israeli", "statement", "of", "support", "for", "Palestinian", "statehood", ",", "a", "freeze", "on", "all", "construction", "in", "Jewish", "settlements", "in", "the", "West", "Bank", "and", "Gaza", ",", "and", "the", "dismantling", "of", "dozens", "of", "outposts", "built", "since", "2001", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "hat's a risk, because Palestinian-controlled areas have served as refuge for militants in the past",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "Palestinian-controlled areas",
+    "argMentionid" : "APW_ENG_20030504.0448-E91-147",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030504.0448-R40",
+  "mentionArg1" : {
+    "extent" : "militants",
+    "argMentionid" : "APW_ENG_20030504.0448-E61-149",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030504.0448-R40-1",
+  "relationSubType" : "Located",
+  "Sentence" : "That 's a risk , because Palestinian-controlled areas have served as refuge for militants in the past .",
+  "sentence_index" : 31,
+  "Tokens" : [ "That", "'s", "a", "risk", ",", "because", "Palestinian-controlled", "areas", "have", "served", "as", "refuge", "for", "militants", "in", "the", "past", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Palestinian analyst",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "APW_ENG_20030504.0448-E6-160",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030504.0448-R41",
+  "mentionArg1" : {
+    "extent" : "Palestinian analyst",
+    "argMentionid" : "APW_ENG_20030504.0448-E99-159",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030504.0448-R41-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Palestinian analyst Khalil Shikaki said the road map was `` likely to fail '' and he expected the next idea to be international forces taking over and administering the Palestinian areas _ which the United States has so far resisted .",
+  "sentence_index" : 35,
+  "Tokens" : [ "Palestinian", "analyst", "Khalil", "Shikaki", "said", "the", "road", "map", "was", "``", "likely", "to", "fail", "''", "and", "he", "expected", "the", "next", "idea", "to", "be", "international", "forces", "taking", "over", "and", "administering", "the", "Palestinian", "areas", "_", "which", "the", "United", "States", "has", "so", "far", "resisted", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "The Palestinians want east Jerusalem for their capital",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "east Jerusalem",
+    "argMentionid" : "APW_ENG_20030504.0448-E108-182",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030504.0448-R42",
+  "mentionArg1" : {
+    "extent" : "The Palestinians",
+    "argMentionid" : "APW_ENG_20030504.0448-E6-181",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030504.0448-R42-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The Palestinians want east Jerusalem for their capital .",
+  "sentence_index" : 40,
+  "Tokens" : [ "The", "Palestinians", "want", "east", "Jerusalem", "for", "their", "capital", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "But it is ringed by Jewish high-rises, and an explosive deadlock looms over the hilltop Jews call the Temple Mount and Muslims the Haram-a-Sharif",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "it",
+    "argMentionid" : "APW_ENG_20030504.0448-E108-185",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030504.0448-R43",
+  "mentionArg1" : {
+    "extent" : "Jewish high-rises",
+    "argMentionid" : "APW_ENG_20030504.0448-E110-186",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030504.0448-R43-1",
+  "relationSubType" : "Near",
+  "Sentence" : "But it is ringed by Jewish high-rises , and an explosive deadlock looms over the hilltop Jews call the Temple Mount and Muslims the Haram-a-Sharif .",
+  "sentence_index" : 41,
+  "Tokens" : [ "But", "it", "is", "ringed", "by", "Jewish", "high-rises", ",", "and", "an", "explosive", "deadlock", "looms", "over", "the", "hilltop", "Jews", "call", "the", "Temple", "Mount", "and", "Muslims", "the", "Haram-a-Sharif", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "some 4 million Palestinian refugees and their descendants",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "APW_ENG_20030504.0448-E6-198",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030504.0448-R44",
+  "mentionArg1" : {
+    "extent" : "some 4 million Palestinian refugees and their descendants",
+    "argMentionid" : "APW_ENG_20030504.0448-E117-195",
+    "start" : 11,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030504.0448-R44-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Perhaps most difficult , the Palestinians insist on the right of some 4 million Palestinian refugees and their descendants to reclaim homes and property they lost when Israel became a state in 1948 .",
+  "sentence_index" : 42,
+  "Tokens" : [ "Perhaps", "most", "difficult", ",", "the", "Palestinians", "insist", "on", "the", "right", "of", "some", "4", "million", "Palestinian", "refugees", "and", "their", "descendants", "to", "reclaim", "homes", "and", "property", "they", "lost", "when", "Israel", "became", "a", "state", "in", "1948", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "some 4 million Palestinian refugees and their descendants",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "their descendants",
+    "argMentionid" : "APW_ENG_20030504.0448-E118-196",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030504.0448-R45",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "APW_ENG_20030504.0448-E117-197",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030504.0448-R45-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Perhaps most difficult , the Palestinians insist on the right of some 4 million Palestinian refugees and their descendants to reclaim homes and property they lost when Israel became a state in 1948 .",
+  "sentence_index" : 42,
+  "Tokens" : [ "Perhaps", "most", "difficult", ",", "the", "Palestinians", "insist", "on", "the", "right", "of", "some", "4", "million", "Palestinian", "refugees", "and", "their", "descendants", "to", "reclaim", "homes", "and", "property", "they", "lost", "when", "Israel", "became", "a", "state", "in", "1948", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Perhaps most difficult, the Palestinians insist on the right of some 4 million Palestinian refugees and their descendants to reclaim homes and property they lost when Israel became a state in 1948",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "reclaim homes and property they lost when Israel became a state in 1948",
+    "argMentionid" : "APW_ENG_20030504.0448-E120-199",
+    "start" : 20,
+    "end" : 32
+  },
+  "relationID" : "APW_ENG_20030504.0448-R46",
+  "mentionArg1" : {
+    "extent" : "some 4 million Palestinian refugees and their descendants",
+    "argMentionid" : "APW_ENG_20030504.0448-E117-195",
+    "start" : 11,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030504.0448-R46-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Perhaps most difficult , the Palestinians insist on the right of some 4 million Palestinian refugees and their descendants to reclaim homes and property they lost when Israel became a state in 1948 .",
+  "sentence_index" : 42,
+  "Tokens" : [ "Perhaps", "most", "difficult", ",", "the", "Palestinians", "insist", "on", "the", "right", "of", "some", "4", "million", "Palestinian", "refugees", "and", "their", "descendants", "to", "reclaim", "homes", "and", "property", "they", "lost", "when", "Israel", "became", "a", "state", "in", "1948", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "their bases in the West Bank",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "their bases in the West Bank",
+    "argMentionid" : "APW_ENG_20030504.0448-E70-105",
+    "start" : 1,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030504.0448-R47",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "APW_ENG_20030504.0448-E67-106",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030504.0448-R47-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "But their bases in the West Bank have been decimated by Israel and their officers are under severe travel restrictions .",
+  "sentence_index" : 22,
+  "Tokens" : [ "But", "their", "bases", "in", "the", "West", "Bank", "have", "been", "decimated", "by", "Israel", "and", "their", "officers", "are", "under", "severe", "travel", "restrictions", "." ]
+} ]

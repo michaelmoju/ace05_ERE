@@ -1,0 +1,925 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "your current or former workplace",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "your current or former workplace",
+    "argMentionid" : "fsh_29163-E13-115",
+    "start" : 7,
+    "end" : 11
+  },
+  "relationID" : "fsh_29163-R1",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29163-E66-163",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "fsh_29163-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Workplace Culture Describe the organizational structure of your current or former workplace .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Workplace", "Culture", "Describe", "the", "organizational", "structure", "of", "your", "current", "or", "former", "workplace", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "your company",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "your company",
+    "argMentionid" : "fsh_29163-E13-279",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "fsh_29163-R1",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29163-E66-278",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29163-R1-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Do you think your company is well-run ?",
+  "sentence_index" : 6,
+  "Tokens" : [ "Do", "you", "think", "your", "company", "is", "well-run", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "How many people work there, and what is the hierarchy",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "fsh_29163-E13-195",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "fsh_29163-R2",
+  "mentionArg1" : {
+    "extent" : "How many people",
+    "argMentionid" : "fsh_29163-E67-197",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "fsh_29163-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "How many people work there , and what is the hierarchy ?",
+  "sentence_index" : 2,
+  "Tokens" : [ "How", "many", "people", "work", "there", ",", "and", "what", "is", "the", "hierarchy", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Describe some of the people that you work with and the jobs they do",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29163-E66-275",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "fsh_29163-R3",
+  "mentionArg1" : {
+    "extent" : "some of the people that you work with",
+    "argMentionid" : "fsh_29163-E72-274",
+    "start" : 1,
+    "end" : 8
+  },
+  "id" : "fsh_29163-R3-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Describe some of the people that you work with and the jobs they do .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Describe", "some", "of", "the", "people", "that", "you", "work", "with", "and", "the", "jobs", "they", "do", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Sharon from North Carolina",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "North Carolina",
+    "argMentionid" : "fsh_29163-E1-2",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "fsh_29163-R5",
+  "mentionArg1" : {
+    "extent" : "Sharon",
+    "argMentionid" : "fsh_29163-E57-284",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "fsh_29163-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Sharon Hi , uh this is Sharon from North Carolina .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Sharon", "Hi", ",", "uh", "this", "is", "Sharon", "from", "North", "Carolina", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "uh What kind of work place do you do you work in",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "work place",
+    "argMentionid" : "fsh_29163-E13-6",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "fsh_29163-R6",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29163-E57-7",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "fsh_29163-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "uh What kind of work place do you do you work in ?",
+  "sentence_index" : 13,
+  "Tokens" : [ "uh", "What", "kind", "of", "work", "place", "do", "you", "do", "you", "work", "in", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Oh, I work for a software company",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "a software company",
+    "argMentionid" : "fsh_29163-E2-10",
+    "start" : 6,
+    "end" : 8
+  },
+  "relationID" : "fsh_29163-R7",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29163-E57-9",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29163-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Sharon Oh , I work for a software company .",
+  "sentence_index" : 14,
+  "Tokens" : [ "Sharon", "Oh", ",", "I", "work", "for", "a", "software", "company", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "your company",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "your company",
+    "argMentionid" : "fsh_29163-E2-141",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "fsh_29163-R7",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29163-E57-140",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "fsh_29163-R7-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Kevin I do- -- How was your um -- uh organizational in your company ?",
+  "sentence_index" : 65,
+  "Tokens" : [ "Kevin", "I", "do-", "--", "How", "was", "your", "um", "--", "uh", "organizational", "in", "your", "company", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Well I I used to work for a company that was that um -- we did uh -- uh we worked for the aerospace industry and we built uh -- models for like Lockheed Martin and -- and Raytheon and -- Boeing and places like that",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "a company that was that um",
+    "argMentionid" : "fsh_29163-E4-17",
+    "start" : 8,
+    "end" : 13
+  },
+  "relationID" : "fsh_29163-R8",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29163-E73-16",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29163-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Kevin Well I I used to work for a company that was that um -- we did uh -- uh we worked for the aerospace industry and we built uh -- models for like Lockheed Martin and -- and Raytheon and -- Boeing and places like that .",
+  "sentence_index" : 19,
+  "Tokens" : [ "Kevin", "Well", "I", "I", "used", "to", "work", "for", "a", "company", "that", "was", "that", "um", "--", "we", "did", "uh", "--", "uh", "we", "worked", "for", "the", "aerospace", "industry", "and", "we", "built", "uh", "--", "models", "for", "like", "Lockheed", "Martin", "and", "--", "and", "Raytheon", "and", "--", "Boeing", "and", "places", "like", "that", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Well I'm not working there anymore",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "fsh_29163-E4-27",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "fsh_29163-R8",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29163-E73-26",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "fsh_29163-R8-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Kevin Well I 'm not working there anymore .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Kevin", "Well", "I", "'m", "not", "working", "there", "anymore", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Well I I used to work for a company that was that um -- we did uh -- uh we worked for the aerospace industry and we built uh -- models for like Lockheed Martin and -- and Raytheon and -- Boeing and places like that",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "the aerospace industry",
+    "argMentionid" : "fsh_29163-E5-20",
+    "start" : 23,
+    "end" : 25
+  },
+  "relationID" : "fsh_29163-R9",
+  "mentionArg1" : {
+    "extent" : "a company that was that um",
+    "argMentionid" : "fsh_29163-E4-17",
+    "start" : 8,
+    "end" : 13
+  },
+  "id" : "fsh_29163-R9-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Kevin Well I I used to work for a company that was that um -- we did uh -- uh we worked for the aerospace industry and we built uh -- models for like Lockheed Martin and -- and Raytheon and -- Boeing and places like that .",
+  "sentence_index" : 19,
+  "Tokens" : [ "Kevin", "Well", "I", "I", "used", "to", "work", "for", "a", "company", "that", "was", "that", "um", "--", "we", "did", "uh", "--", "uh", "we", "worked", "for", "the", "aerospace", "industry", "and", "we", "built", "uh", "--", "models", "for", "like", "Lockheed", "Martin", "and", "--", "and", "Raytheon", "and", "--", "Boeing", "and", "places", "like", "that", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "our house",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "our house",
+    "argMentionid" : "fsh_29163-E12-34",
+    "start" : 21,
+    "end" : 22
+  },
+  "relationID" : "fsh_29163-R11",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "fsh_29163-E11-33",
+    "start" : 21,
+    "end" : 21
+  },
+  "id" : "fsh_29163-R11-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "I 'm I 've uh I 'm in the process of moving to another state an- and uh we 're getting our house ready to sell so I 've I 've quit that that job so I 'm just uh I 'm Sharon Ouch .",
+  "sentence_index" : 22,
+  "Tokens" : [ "I", "'m", "I", "'ve", "uh", "I", "'m", "in", "the", "process", "of", "moving", "to", "another", "state", "an-", "and", "uh", "we", "'re", "getting", "our", "house", "ready", "to", "sell", "so", "I", "'ve", "I", "'ve", "quit", "that", "that", "job", "so", "I", "'m", "just", "uh", "I", "'m", "Sharon", "Ouch", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my father-in-law",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "my father-in-law",
+    "argMentionid" : "fsh_29163-E14-46",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "fsh_29163-R12",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29163-E73-45",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "fsh_29163-R12-1",
+  "relationSubType" : "Family",
+  "Sentence" : "I 'm I 'm going to uh to -- probably work for my father-in-law in Georgia -- at a company that 's going to install uh roofing for um -- for like Wal-marts and Lowes and Home Depot and stuff like that .",
+  "sentence_index" : 26,
+  "Tokens" : [ "I", "'m", "I", "'m", "going", "to", "uh", "to", "--", "probably", "work", "for", "my", "father-in-law", "in", "Georgia", "--", "at", "a", "company", "that", "'s", "going", "to", "install", "uh", "roofing", "for", "um", "--", "for", "like", "Wal-marts", "and", "Lowes", "and", "Home", "Depot", "and", "stuff", "like", "that", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "my father-in-law in Georgia",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "Georgia",
+    "argMentionid" : "fsh_29163-E15-47",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "fsh_29163-R13",
+  "mentionArg1" : {
+    "extent" : "my father-in-law",
+    "argMentionid" : "fsh_29163-E14-46",
+    "start" : 12,
+    "end" : 13
+  },
+  "id" : "fsh_29163-R13-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I 'm I 'm going to uh to -- probably work for my father-in-law in Georgia -- at a company that 's going to install uh roofing for um -- for like Wal-marts and Lowes and Home Depot and stuff like that .",
+  "sentence_index" : 26,
+  "Tokens" : [ "I", "'m", "I", "'m", "going", "to", "uh", "to", "--", "probably", "work", "for", "my", "father-in-law", "in", "Georgia", "--", "at", "a", "company", "that", "'s", "going", "to", "install", "uh", "roofing", "for", "um", "--", "for", "like", "Wal-marts", "and", "Lowes", "and", "Home", "Depot", "and", "stuff", "like", "that", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I'm I'm going to uh to -- probably work for my father-in-law in Georgia -- at a company that's going to install uh roofing for um -- for like Wal-marts and Lowes and Home Depot and stuff like that",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "a company that's going to install uh roofing for um -- for like Wal-marts and Lowes and Home Depot and stuff like that",
+    "argMentionid" : "fsh_29163-E16-48",
+    "start" : 18,
+    "end" : 41
+  },
+  "relationID" : "fsh_29163-R14",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29163-E73-44",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "fsh_29163-R14-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "I 'm I 'm going to uh to -- probably work for my father-in-law in Georgia -- at a company that 's going to install uh roofing for um -- for like Wal-marts and Lowes and Home Depot and stuff like that .",
+  "sentence_index" : 26,
+  "Tokens" : [ "I", "'m", "I", "'m", "going", "to", "uh", "to", "--", "probably", "work", "for", "my", "father-in-law", "in", "Georgia", "--", "at", "a", "company", "that", "'s", "going", "to", "install", "uh", "roofing", "for", "um", "--", "for", "like", "Wal-marts", "and", "Lowes", "and", "Home", "Depot", "and", "stuff", "like", "that", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "I'm I'm going to uh to -- probably work for my father-in-law in Georgia -- at a company that's going to install uh roofing for um -- for like Wal-marts and Lowes and Home Depot and stuff like that",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "my father-in-law",
+    "argMentionid" : "fsh_29163-E14-46",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "fsh_29163-R15",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29163-E73-43",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29163-R15-1",
+  "relationSubType" : "Business",
+  "Sentence" : "I 'm I 'm going to uh to -- probably work for my father-in-law in Georgia -- at a company that 's going to install uh roofing for um -- for like Wal-marts and Lowes and Home Depot and stuff like that .",
+  "sentence_index" : 26,
+  "Tokens" : [ "I", "'m", "I", "'m", "going", "to", "uh", "to", "--", "probably", "work", "for", "my", "father-in-law", "in", "Georgia", "--", "at", "a", "company", "that", "'s", "going", "to", "install", "uh", "roofing", "for", "um", "--", "for", "like", "Wal-marts", "and", "Lowes", "and", "Home", "Depot", "and", "stuff", "like", "that", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Um -- the guy I work for -- mostly was kind of uh unorganized and not very",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29163-E73-57",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "fsh_29163-R16",
+  "mentionArg1" : {
+    "extent" : "the guy I work for",
+    "argMentionid" : "fsh_29163-E20-56",
+    "start" : 2,
+    "end" : 6
+  },
+  "id" : "fsh_29163-R16-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Um -- the guy I work for -- mostly was kind of uh unorganized and not very Sharon Mhm .",
+  "sentence_index" : 30,
+  "Tokens" : [ "Um", "--", "the", "guy", "I", "work", "for", "--", "mostly", "was", "kind", "of", "uh", "unorganized", "and", "not", "very", "Sharon", "Mhm", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I mean he was a -- he was -- you know, he ran the company all right but it he just wasn't very good in organizational skills and stuff",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "the company",
+    "argMentionid" : "fsh_29163-E4-63",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "fsh_29163-R17",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "fsh_29163-E20-61",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "fsh_29163-R17-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Kevin I mean he was a -- he was -- you know , he ran the company all right but it he just was n't very good in organizational skills and stuff .",
+  "sentence_index" : 31,
+  "Tokens" : [ "Kevin", "I", "mean", "he", "was", "a", "--", "he", "was", "--", "you", "know", ",", "he", "ran", "the", "company", "all", "right", "but", "it", "he", "just", "was", "n't", "very", "good", "in", "organizational", "skills", "and", "stuff", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "There was only about eight or nine people working there",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "fsh_29163-E4-196",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "fsh_29163-R18",
+  "mentionArg1" : {
+    "extent" : "about eight or nine people working there",
+    "argMentionid" : "fsh_29163-E22-68",
+    "start" : 3,
+    "end" : 9
+  },
+  "id" : "fsh_29163-R18-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "There was only about eight or nine people working there .",
+  "sentence_index" : 34,
+  "Tokens" : [ "There", "was", "only", "about", "eight", "or", "nine", "people", "working", "there", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Um -- and just, I mean, he he got along with everybody but it just -- you know it wasn't very well -- and it could've been organized and run a little bit better than than what he did",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "everybody",
+    "argMentionid" : "fsh_29163-E22-72",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "fsh_29163-R19",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "fsh_29163-E20-71",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "fsh_29163-R19-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Kevin Um -- and just , I mean , he he got along with everybody but it just -- you know it was n't very well -- and it could 've been organized and run a little bit better than than what he did .",
+  "sentence_index" : 36,
+  "Tokens" : [ "Kevin", "Um", "--", "and", "just", ",", "I", "mean", ",", "he", "he", "got", "along", "with", "everybody", "but", "it", "just", "--", "you", "know", "it", "was", "n't", "very", "well", "--", "and", "it", "could", "'ve", "been", "organized", "and", "run", "a", "little", "bit", "better", "than", "than", "what", "he", "did", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "like a um a shop manager in between him -- and us, the workers, because he was trying to run the office,  um do quotes on jobs",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "us",
+    "argMentionid" : "fsh_29163-E22-101",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "fsh_29163-R19",
+  "mentionArg1" : {
+    "extent" : "him",
+    "argMentionid" : "fsh_29163-E20-99",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "fsh_29163-R19-2",
+  "relationSubType" : "Business",
+  "Sentence" : "Kevin like a um a shop manager in between him -- and us , the workers , because he was trying to run the office , um do quotes on jobs , Sharon Mm .",
+  "sentence_index" : 46,
+  "Tokens" : [ "Kevin", "like", "a", "um", "a", "shop", "manager", "in", "between", "him", "--", "and", "us", ",", "the", "workers", ",", "because", "he", "was", "trying", "to", "run", "the", "office", ",", "um", "do", "quotes", "on", "jobs", ",", "Sharon", "Mm", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "And so you sa- what was that position you said that -- would th- would have been good to have between him and -- the rest of everybody",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "everybody",
+    "argMentionid" : "fsh_29163-E22-118",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "fsh_29163-R19",
+  "mentionArg1" : {
+    "extent" : "him",
+    "argMentionid" : "fsh_29163-E20-117",
+    "start" : 22,
+    "end" : 22
+  },
+  "id" : "fsh_29163-R19-3",
+  "relationSubType" : "Business",
+  "Sentence" : "Sharon And so you sa- what was that position you said that -- would th- would have been good to have between him and -- the rest of everybody ?",
+  "sentence_index" : 51,
+  "Tokens" : [ "Sharon", "And", "so", "you", "sa-", "what", "was", "that", "position", "you", "said", "that", "--", "would", "th-", "would", "have", "been", "good", "to", "have", "between", "him", "and", "--", "the", "rest", "of", "everybody", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "and it was really kind of hard for us -- because you know if if he was tied up with with clients or having to go to Lockheed Martin for a day or something like that it was kind of tough to -- to have any decisions made at a crucial moment so",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "clients",
+    "argMentionid" : "fsh_29163-E34-112",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "fsh_29163-R21",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "fsh_29163-E20-111",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "fsh_29163-R21-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Kevin and it was really kind of hard for us -- because you know if if he was tied up with with clients or having to go to Lockheed Martin for a day or something like that it was kind of tough to -- to have any decisions made at a crucial moment so .",
+  "sentence_index" : 50,
+  "Tokens" : [ "Kevin", "and", "it", "was", "really", "kind", "of", "hard", "for", "us", "--", "because", "you", "know", "if", "if", "he", "was", "tied", "up", "with", "with", "clients", "or", "having", "to", "go", "to", "Lockheed", "Martin", "for", "a", "day", "or", "something", "like", "that", "it", "was", "kind", "of", "tough", "to", "--", "to", "have", "any", "decisions", "made", "at", "a", "crucial", "moment", "so", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his own manager",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "his own manager",
+    "argMentionid" : "fsh_29163-E35-122",
+    "start" : 5,
+    "end" : 7
+  },
+  "relationID" : "fsh_29163-R23",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29163-E20-120",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "fsh_29163-R23-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Sharon Some manage (( )) his own manager or anything like that .",
+  "sentence_index" : 53,
+  "Tokens" : [ "Sharon", "Some", "manage", "((", "))", "his", "own", "manager", "or", "anything", "like", "that", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "it's a lot of responsibility plus -- you know um having to sometimes you know -- deal with customers you know that come in or clients and stuff and you know it",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "customers you know that come in",
+    "argMentionid" : "fsh_29163-E38-133",
+    "start" : 20,
+    "end" : 25
+  },
+  "relationID" : "fsh_29163-R24",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29163-E66-132",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "fsh_29163-R24-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Kevin it 's a lot of responsibility plus -- you know um having to sometimes you know -- deal with customers you know that come in or clients and stuff and you know it .",
+  "sentence_index" : 62,
+  "Tokens" : [ "Kevin", "it", "'s", "a", "lot", "of", "responsibility", "plus", "--", "you", "know", "um", "having", "to", "sometimes", "you", "know", "--", "deal", "with", "customers", "you", "know", "that", "come", "in", "or", "clients", "and", "stuff", "and", "you", "know", "it", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "it's a lot of responsibility plus -- you know um having to sometimes you know -- deal with customers you know that come in or clients and stuff and you know it",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "clients",
+    "argMentionid" : "fsh_29163-E39-136",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "fsh_29163-R25",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29163-E66-132",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "fsh_29163-R25-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Kevin it 's a lot of responsibility plus -- you know um having to sometimes you know -- deal with customers you know that come in or clients and stuff and you know it .",
+  "sentence_index" : 62,
+  "Tokens" : [ "Kevin", "it", "'s", "a", "lot", "of", "responsibility", "plus", "--", "you", "know", "um", "having", "to", "sometimes", "you", "know", "--", "deal", "with", "customers", "you", "know", "that", "come", "in", "or", "clients", "and", "stuff", "and", "you", "know", "it", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Well -- Well I was always for true um big corporations so it's kind of a typical big software corporation",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "true um big corporations",
+    "argMentionid" : "fsh_29163-E40-143",
+    "start" : 8,
+    "end" : 11
+  },
+  "relationID" : "fsh_29163-R27",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29163-E57-142",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "fsh_29163-R27-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Sharon Well -- Well I was always for true um big corporations so it 's kind of a typical big software corporation .",
+  "sentence_index" : 66,
+  "Tokens" : [ "Sharon", "Well", "--", "Well", "I", "was", "always", "for", "true", "um", "big", "corporations", "so", "it", "'s", "kind", "of", "a", "typical", "big", "software", "corporation", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "um On the local site here we have about -- eighty people -- the most -- um -- and it's part of a -- like -- the fifteen hundred wide -- company-wide -- company",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "fsh_29163-E43-147",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "fsh_29163-R28",
+  "mentionArg1" : {
+    "extent" : "about -- eighty people",
+    "argMentionid" : "fsh_29163-E44-149",
+    "start" : 8,
+    "end" : 11
+  },
+  "id" : "fsh_29163-R28-1",
+  "relationSubType" : "Located",
+  "Sentence" : "um On the local site here we have about -- eighty people -- the most -- um -- and it 's part of a -- like -- the fifteen hundred wide -- company-wide -- company Kevin Mhm .",
+  "sentence_index" : 67,
+  "Tokens" : [ "um", "On", "the", "local", "site", "here", "we", "have", "about", "--", "eighty", "people", "--", "the", "most", "--", "um", "--", "and", "it", "'s", "part", "of", "a", "--", "like", "--", "the", "fifteen", "hundred", "wide", "--", "company-wide", "--", "company", "Kevin", "Mhm", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "um On the local site here we have about -- eighty people -- the most -- um -- and it's part of a -- like -- the fifteen hundred wide -- company-wide -- company",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "the local site here",
+    "argMentionid" : "fsh_29163-E42-146",
+    "start" : 2,
+    "end" : 5
+  },
+  "relationID" : "fsh_29163-R29",
+  "mentionArg1" : {
+    "extent" : "about -- eighty people",
+    "argMentionid" : "fsh_29163-E44-149",
+    "start" : 8,
+    "end" : 11
+  },
+  "id" : "fsh_29163-R29-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "um On the local site here we have about -- eighty people -- the most -- um -- and it 's part of a -- like -- the fifteen hundred wide -- company-wide -- company Kevin Mhm .",
+  "sentence_index" : 67,
+  "Tokens" : [ "um", "On", "the", "local", "site", "here", "we", "have", "about", "--", "eighty", "people", "--", "the", "most", "--", "um", "--", "and", "it", "'s", "part", "of", "a", "--", "like", "--", "the", "fifteen", "hundred", "wide", "--", "company-wide", "--", "company", "Kevin", "Mhm", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "um On the local site here we have about -- eighty people -- the most -- um -- and it's part of a -- like -- the fifteen hundred wide -- company-wide -- company",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "the fifteen hundred wide -- company-wide -- company",
+    "argMentionid" : "fsh_29163-E2-150",
+    "start" : 27,
+    "end" : 34
+  },
+  "relationID" : "fsh_29163-R30",
+  "mentionArg1" : {
+    "extent" : "part of a -- like -- the fifteen hundred wide -- company-wide -- company",
+    "argMentionid" : "fsh_29163-E42-152",
+    "start" : 21,
+    "end" : 34
+  },
+  "id" : "fsh_29163-R30-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "um On the local site here we have about -- eighty people -- the most -- um -- and it 's part of a -- like -- the fifteen hundred wide -- company-wide -- company Kevin Mhm .",
+  "sentence_index" : 67,
+  "Tokens" : [ "um", "On", "the", "local", "site", "here", "we", "have", "about", "--", "eighty", "people", "--", "the", "most", "--", "um", "--", "and", "it", "'s", "part", "of", "a", "--", "like", "--", "the", "fifteen", "hundred", "wide", "--", "company-wide", "--", "company", "Kevin", "Mhm", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "So, in a in this in a typical corporation -- you know you have your ~CEO at the very top which you hardly see at all y- you get see some ~CEOs and then it filters down to some other ~CEOs like I could be a ~CEO of fi- -- finance, ~CEO of engineering and so on, or in sales, ~CEO of marketing and then you've got y- and then they have their own managers below them -- and then those managers have other managers",
+  "sentence_length" : 99,
+  "mentionArg2" : {
+    "extent" : "a typical corporation",
+    "argMentionid" : "fsh_29163-E40-154",
+    "start" : 7,
+    "end" : 9
+  },
+  "relationID" : "fsh_29163-R31",
+  "mentionArg1" : {
+    "extent" : "your ~CEO at the very top which you hardly see at all",
+    "argMentionid" : "fsh_29163-E48-158",
+    "start" : 15,
+    "end" : 27
+  },
+  "id" : "fsh_29163-R31-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "So , in a in this in a typical corporation -- you know you have your ~ CEO at the very top which you hardly see at all y- you get see some ~ CEOs and then it filters down to some other ~ CEOs like I could be a ~ CEO of fi- -- finance , ~ CEO of engineering and so on , or in sales , ~ CEO of marketing and then you 've got y- and then they have their own managers below them -- and then those managers have other managers Kevin Yeah .",
+  "sentence_index" : 69,
+  "Tokens" : [ "So", ",", "in", "a", "in", "this", "in", "a", "typical", "corporation", "--", "you", "know", "you", "have", "your", "~", "CEO", "at", "the", "very", "top", "which", "you", "hardly", "see", "at", "all", "y-", "you", "get", "see", "some", "~", "CEOs", "and", "then", "it", "filters", "down", "to", "some", "other", "~", "CEOs", "like", "I", "could", "be", "a", "~", "CEO", "of", "fi-", "--", "finance", ",", "~", "CEO", "of", "engineering", "and", "so", "on", ",", "or", "in", "sales", ",", "~", "CEO", "of", "marketing", "and", "then", "you", "'ve", "got", "y-", "and", "then", "they", "have", "their", "own", "managers", "below", "them", "--", "and", "then", "those", "managers", "have", "other", "managers", "Kevin", "Yeah", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "So, in a in this in a typical corporation -- you know you have your ~CEO at the very top which you hardly see at all y- you get see some ~CEOs and then it filters down to some other ~CEOs like I could be a ~CEO of fi- -- finance, ~CEO of engineering and so on, or in sales, ~CEO of marketing and then you've got y- and then they have their own managers below them -- and then those managers have other managers",
+  "sentence_length" : 99,
+  "mentionArg2" : {
+    "extent" : "a typical corporation",
+    "argMentionid" : "fsh_29163-E40-154",
+    "start" : 7,
+    "end" : 9
+  },
+  "relationID" : "fsh_29163-R32",
+  "mentionArg1" : {
+    "extent" : "some ~CEOs",
+    "argMentionid" : "fsh_29163-E49-162",
+    "start" : 32,
+    "end" : 34
+  },
+  "id" : "fsh_29163-R32-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "So , in a in this in a typical corporation -- you know you have your ~ CEO at the very top which you hardly see at all y- you get see some ~ CEOs and then it filters down to some other ~ CEOs like I could be a ~ CEO of fi- -- finance , ~ CEO of engineering and so on , or in sales , ~ CEO of marketing and then you 've got y- and then they have their own managers below them -- and then those managers have other managers Kevin Yeah .",
+  "sentence_index" : 69,
+  "Tokens" : [ "So", ",", "in", "a", "in", "this", "in", "a", "typical", "corporation", "--", "you", "know", "you", "have", "your", "~", "CEO", "at", "the", "very", "top", "which", "you", "hardly", "see", "at", "all", "y-", "you", "get", "see", "some", "~", "CEOs", "and", "then", "it", "filters", "down", "to", "some", "other", "~", "CEOs", "like", "I", "could", "be", "a", "~", "CEO", "of", "fi-", "--", "finance", ",", "~", "CEO", "of", "engineering", "and", "so", "on", ",", "or", "in", "sales", ",", "~", "CEO", "of", "marketing", "and", "then", "you", "'ve", "got", "y-", "and", "then", "they", "have", "their", "own", "managers", "below", "them", "--", "and", "then", "those", "managers", "have", "other", "managers", "Kevin", "Yeah", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "So, in a in this in a typical corporation -- you know you have your ~CEO at the very top which you hardly see at all y- you get see some ~CEOs and then it filters down to some other ~CEOs like I could be a ~CEO of fi- -- finance, ~CEO of engineering and so on, or in sales, ~CEO of marketing and then you've got y- and then they have their own managers below them -- and then those managers have other managers",
+  "sentence_length" : 99,
+  "mentionArg2" : {
+    "extent" : "a typical corporation",
+    "argMentionid" : "fsh_29163-E40-154",
+    "start" : 7,
+    "end" : 9
+  },
+  "relationID" : "fsh_29163-R33",
+  "mentionArg1" : {
+    "extent" : "some other ~CEOs",
+    "argMentionid" : "fsh_29163-E50-164",
+    "start" : 41,
+    "end" : 44
+  },
+  "id" : "fsh_29163-R33-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "So , in a in this in a typical corporation -- you know you have your ~ CEO at the very top which you hardly see at all y- you get see some ~ CEOs and then it filters down to some other ~ CEOs like I could be a ~ CEO of fi- -- finance , ~ CEO of engineering and so on , or in sales , ~ CEO of marketing and then you 've got y- and then they have their own managers below them -- and then those managers have other managers Kevin Yeah .",
+  "sentence_index" : 69,
+  "Tokens" : [ "So", ",", "in", "a", "in", "this", "in", "a", "typical", "corporation", "--", "you", "know", "you", "have", "your", "~", "CEO", "at", "the", "very", "top", "which", "you", "hardly", "see", "at", "all", "y-", "you", "get", "see", "some", "~", "CEOs", "and", "then", "it", "filters", "down", "to", "some", "other", "~", "CEOs", "like", "I", "could", "be", "a", "~", "CEO", "of", "fi-", "--", "finance", ",", "~", "CEO", "of", "engineering", "and", "so", "on", ",", "or", "in", "sales", ",", "~", "CEO", "of", "marketing", "and", "then", "you", "'ve", "got", "y-", "and", "then", "they", "have", "their", "own", "managers", "below", "them", "--", "and", "then", "those", "managers", "have", "other", "managers", "Kevin", "Yeah", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their own managers below them",
+  "sentence_length" : 99,
+  "mentionArg2" : {
+    "extent" : "their own managers below them",
+    "argMentionid" : "fsh_29163-E54-171",
+    "start" : 83,
+    "end" : 87
+  },
+  "relationID" : "fsh_29163-R34",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "fsh_29163-E50-172",
+    "start" : 83,
+    "end" : 83
+  },
+  "id" : "fsh_29163-R34-1",
+  "relationSubType" : "Business",
+  "Sentence" : "So , in a in this in a typical corporation -- you know you have your ~ CEO at the very top which you hardly see at all y- you get see some ~ CEOs and then it filters down to some other ~ CEOs like I could be a ~ CEO of fi- -- finance , ~ CEO of engineering and so on , or in sales , ~ CEO of marketing and then you 've got y- and then they have their own managers below them -- and then those managers have other managers Kevin Yeah .",
+  "sentence_index" : 69,
+  "Tokens" : [ "So", ",", "in", "a", "in", "this", "in", "a", "typical", "corporation", "--", "you", "know", "you", "have", "your", "~", "CEO", "at", "the", "very", "top", "which", "you", "hardly", "see", "at", "all", "y-", "you", "get", "see", "some", "~", "CEOs", "and", "then", "it", "filters", "down", "to", "some", "other", "~", "CEOs", "like", "I", "could", "be", "a", "~", "CEO", "of", "fi-", "--", "finance", ",", "~", "CEO", "of", "engineering", "and", "so", "on", ",", "or", "in", "sales", ",", "~", "CEO", "of", "marketing", "and", "then", "you", "'ve", "got", "y-", "and", "then", "they", "have", "their", "own", "managers", "below", "them", "--", "and", "then", "those", "managers", "have", "other", "managers", "Kevin", "Yeah", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "So, in a in this in a typical corporation -- you know you have your ~CEO at the very top which you hardly see at all y- you get see some ~CEOs and then it filters down to some other ~CEOs like I could be a ~CEO of fi- -- finance, ~CEO of engineering and so on, or in sales, ~CEO of marketing and then you've got y- and then they have their own managers below them -- and then those managers have other managers",
+  "sentence_length" : 99,
+  "mentionArg2" : {
+    "extent" : "other managers",
+    "argMentionid" : "fsh_29163-E55-175",
+    "start" : 94,
+    "end" : 95
+  },
+  "relationID" : "fsh_29163-R35",
+  "mentionArg1" : {
+    "extent" : "those managers",
+    "argMentionid" : "fsh_29163-E54-174",
+    "start" : 91,
+    "end" : 92
+  },
+  "id" : "fsh_29163-R35-1",
+  "relationSubType" : "Business",
+  "Sentence" : "So , in a in this in a typical corporation -- you know you have your ~ CEO at the very top which you hardly see at all y- you get see some ~ CEOs and then it filters down to some other ~ CEOs like I could be a ~ CEO of fi- -- finance , ~ CEO of engineering and so on , or in sales , ~ CEO of marketing and then you 've got y- and then they have their own managers below them -- and then those managers have other managers Kevin Yeah .",
+  "sentence_index" : 69,
+  "Tokens" : [ "So", ",", "in", "a", "in", "this", "in", "a", "typical", "corporation", "--", "you", "know", "you", "have", "your", "~", "CEO", "at", "the", "very", "top", "which", "you", "hardly", "see", "at", "all", "y-", "you", "get", "see", "some", "~", "CEOs", "and", "then", "it", "filters", "down", "to", "some", "other", "~", "CEOs", "like", "I", "could", "be", "a", "~", "CEO", "of", "fi-", "--", "finance", ",", "~", "CEO", "of", "engineering", "and", "so", "on", ",", "or", "in", "sales", ",", "~", "CEO", "of", "marketing", "and", "then", "you", "'ve", "got", "y-", "and", "then", "they", "have", "their", "own", "managers", "below", "them", "--", "and", "then", "those", "managers", "have", "other", "managers", "Kevin", "Yeah", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "your ~CEO at the very top which you hardly see at all",
+  "sentence_length" : 99,
+  "mentionArg2" : {
+    "extent" : "your ~CEO at the very top which you hardly see at all",
+    "argMentionid" : "fsh_29163-E48-158",
+    "start" : 15,
+    "end" : 27
+  },
+  "relationID" : "fsh_29163-R36",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29163-E47-157",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "fsh_29163-R36-1",
+  "relationSubType" : "Business",
+  "Sentence" : "So , in a in this in a typical corporation -- you know you have your ~ CEO at the very top which you hardly see at all y- you get see some ~ CEOs and then it filters down to some other ~ CEOs like I could be a ~ CEO of fi- -- finance , ~ CEO of engineering and so on , or in sales , ~ CEO of marketing and then you 've got y- and then they have their own managers below them -- and then those managers have other managers Kevin Yeah .",
+  "sentence_index" : 69,
+  "Tokens" : [ "So", ",", "in", "a", "in", "this", "in", "a", "typical", "corporation", "--", "you", "know", "you", "have", "your", "~", "CEO", "at", "the", "very", "top", "which", "you", "hardly", "see", "at", "all", "y-", "you", "get", "see", "some", "~", "CEOs", "and", "then", "it", "filters", "down", "to", "some", "other", "~", "CEOs", "like", "I", "could", "be", "a", "~", "CEO", "of", "fi-", "--", "finance", ",", "~", "CEO", "of", "engineering", "and", "so", "on", ",", "or", "in", "sales", ",", "~", "CEO", "of", "marketing", "and", "then", "you", "'ve", "got", "y-", "and", "then", "they", "have", "their", "own", "managers", "below", "them", "--", "and", "then", "those", "managers", "have", "other", "managers", "Kevin", "Yeah", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "So, in a in this in a typical corporation -- you know you have your ~CEO at the very top which you hardly see at all y- you get see some ~CEOs and then it filters down to some other ~CEOs like I could be a ~CEO of fi- -- finance, ~CEO of engineering and so on, or in sales, ~CEO of marketing and then you've got y- and then they have their own managers below them -- and then those managers have other managers",
+  "sentence_length" : 99,
+  "mentionArg2" : {
+    "extent" : "some ~CEOs",
+    "argMentionid" : "fsh_29163-E49-162",
+    "start" : 32,
+    "end" : 34
+  },
+  "relationID" : "fsh_29163-R37",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29163-E47-161",
+    "start" : 29,
+    "end" : 29
+  },
+  "id" : "fsh_29163-R37-1",
+  "relationSubType" : "Business",
+  "Sentence" : "So , in a in this in a typical corporation -- you know you have your ~ CEO at the very top which you hardly see at all y- you get see some ~ CEOs and then it filters down to some other ~ CEOs like I could be a ~ CEO of fi- -- finance , ~ CEO of engineering and so on , or in sales , ~ CEO of marketing and then you 've got y- and then they have their own managers below them -- and then those managers have other managers Kevin Yeah .",
+  "sentence_index" : 69,
+  "Tokens" : [ "So", ",", "in", "a", "in", "this", "in", "a", "typical", "corporation", "--", "you", "know", "you", "have", "your", "~", "CEO", "at", "the", "very", "top", "which", "you", "hardly", "see", "at", "all", "y-", "you", "get", "see", "some", "~", "CEOs", "and", "then", "it", "filters", "down", "to", "some", "other", "~", "CEOs", "like", "I", "could", "be", "a", "~", "CEO", "of", "fi-", "--", "finance", ",", "~", "CEO", "of", "engineering", "and", "so", "on", ",", "or", "in", "sales", ",", "~", "CEO", "of", "marketing", "and", "then", "you", "'ve", "got", "y-", "and", "then", "they", "have", "their", "own", "managers", "below", "them", "--", "and", "then", "those", "managers", "have", "other", "managers", "Kevin", "Yeah", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the engineer type people -- for engineers",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "engineers",
+    "argMentionid" : "fsh_29163-E59-182",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "fsh_29163-R38",
+  "mentionArg1" : {
+    "extent" : "the engineer type people -- for engineers",
+    "argMentionid" : "fsh_29163-E58-180",
+    "start" : 11,
+    "end" : 17
+  },
+  "id" : "fsh_29163-R38-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Sharon um -- I 'm basically um just um one of the engineer type people -- for engineers .",
+  "sentence_index" : 72,
+  "Tokens" : [ "Sharon", "um", "--", "I", "'m", "basically", "um", "just", "um", "one", "of", "the", "engineer", "type", "people", "--", "for", "engineers", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "And -- so I'm in a department and there's like ten of us and then we have our test department manager -- and um -- and then he reports to you know um more of a senior development manager",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "a department",
+    "argMentionid" : "fsh_29163-E61-184",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "fsh_29163-R39",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29163-E57-183",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29163-R39-1",
+  "relationSubType" : "Business",
+  "Sentence" : "And -- so I 'm in a department and there 's like ten of us and then we have our test department manager -- and um -- and then he reports to you know um more of a senior development manager .",
+  "sentence_index" : 73,
+  "Tokens" : [ "And", "--", "so", "I", "'m", "in", "a", "department", "and", "there", "'s", "like", "ten", "of", "us", "and", "then", "we", "have", "our", "test", "department", "manager", "--", "and", "um", "--", "and", "then", "he", "reports", "to", "you", "know", "um", "more", "of", "a", "senior", "development", "manager", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "our test department manager",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "our test department manager",
+    "argMentionid" : "fsh_29163-E62-188",
+    "start" : 19,
+    "end" : 22
+  },
+  "relationID" : "fsh_29163-R40",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "fsh_29163-E61-187",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "fsh_29163-R40-1",
+  "relationSubType" : "Business",
+  "Sentence" : "And -- so I 'm in a department and there 's like ten of us and then we have our test department manager -- and um -- and then he reports to you know um more of a senior development manager .",
+  "sentence_index" : 73,
+  "Tokens" : [ "And", "--", "so", "I", "'m", "in", "a", "department", "and", "there", "'s", "like", "ten", "of", "us", "and", "then", "we", "have", "our", "test", "department", "manager", "--", "and", "um", "--", "and", "then", "he", "reports", "to", "you", "know", "um", "more", "of", "a", "senior", "development", "manager", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "And -- so I'm in a department and there's like ten of us and then we have our test department manager -- and um -- and then he reports to you know um more of a senior development manager",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "a senior development manager",
+    "argMentionid" : "fsh_29163-E64-192",
+    "start" : 37,
+    "end" : 40
+  },
+  "relationID" : "fsh_29163-R41",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "fsh_29163-E62-190",
+    "start" : 29,
+    "end" : 29
+  },
+  "id" : "fsh_29163-R41-1",
+  "relationSubType" : "Business",
+  "Sentence" : "And -- so I 'm in a department and there 's like ten of us and then we have our test department manager -- and um -- and then he reports to you know um more of a senior development manager .",
+  "sentence_index" : 73,
+  "Tokens" : [ "And", "--", "so", "I", "'m", "in", "a", "department", "and", "there", "'s", "like", "ten", "of", "us", "and", "then", "we", "have", "our", "test", "department", "manager", "--", "and", "um", "--", "and", "then", "he", "reports", "to", "you", "know", "um", "more", "of", "a", "senior", "development", "manager", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I've worked at for two different software corporations and that's very typical of the -- the hierarchy",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "two different software corporations",
+    "argMentionid" : "fsh_29163-E65-194",
+    "start" : 5,
+    "end" : 8
+  },
+  "relationID" : "fsh_29163-R42",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29163-E57-193",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29163-R42-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "I 've worked at for two different software corporations and that 's very typical of the -- the hierarchy .",
+  "sentence_index" : 75,
+  "Tokens" : [ "I", "'ve", "worked", "at", "for", "two", "different", "software", "corporations", "and", "that", "'s", "very", "typical", "of", "the", "--", "the", "hierarchy", "." ]
+} ]

@@ -1,0 +1,111 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "the American people",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041223.1449-E19-32",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041223.1449-R1",
+  "mentionArg1" : {
+    "extent" : "the American people",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041223.1449-E18-31",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041223.1449-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Finally , the Democrats are finally realizing that the American people support the rights of unborn children and may soon revamp their platform to accommodate the morals and values that at least half of this country possesses .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Finally", ",", "the", "Democrats", "are", "finally", "realizing", "that", "the", "American", "people", "support", "the", "rights", "of", "unborn", "children", "and", "may", "soon", "revamp", "their", "platform", "to", "accommodate", "the", "morals", "and", "values", "that", "at", "least", "half", "of", "this", "country", "possesses", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Vermont Gov. Howard Dean",
+  "sentence_length" : 70,
+  "mentionArg2" : {
+    "extent" : "Vermont",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041223.1449-E1-46",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041223.1449-R2",
+  "mentionArg1" : {
+    "extent" : "Vermont Gov. Howard Dean",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041223.1449-E2-3",
+    "start" : 22,
+    "end" : 25
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041223.1449-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The fight is a central theme of the contest to head the Democratic National , particularly between two leading candidates : former Vermont Gov. Howard Dean , who supports abortion rights , and former Indiana Rep. Tim Roemer , an abortion foe who argues that the party cannot rebound from its losses in the November election unless it shows more tolerance on one of society 's most emotional conflicts .",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "fight", "is", "a", "central", "theme", "of", "the", "contest", "to", "head", "the", "Democratic", "National", ",", "particularly", "between", "two", "leading", "candidates", ":", "former", "Vermont", "Gov.", "Howard", "Dean", ",", "who", "supports", "abortion", "rights", ",", "and", "former", "Indiana", "Rep.", "Tim", "Roemer", ",", "an", "abortion", "foe", "who", "argues", "that", "the", "party", "cannot", "rebound", "from", "its", "losses", "in", "the", "November", "election", "unless", "it", "shows", "more", "tolerance", "on", "one", "of", "society", "'s", "most", "emotional", "conflicts", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Indiana Rep. Tim Roemer",
+  "sentence_length" : 70,
+  "mentionArg2" : {
+    "extent" : "Indiana",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041223.1449-E7-10",
+    "start" : 34,
+    "end" : 34
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041223.1449-R3",
+  "mentionArg1" : {
+    "extent" : "Indiana Rep. Tim Roemer",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041223.1449-E5-8",
+    "start" : 34,
+    "end" : 37
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041223.1449-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The fight is a central theme of the contest to head the Democratic National , particularly between two leading candidates : former Vermont Gov. Howard Dean , who supports abortion rights , and former Indiana Rep. Tim Roemer , an abortion foe who argues that the party cannot rebound from its losses in the November election unless it shows more tolerance on one of society 's most emotional conflicts .",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "fight", "is", "a", "central", "theme", "of", "the", "contest", "to", "head", "the", "Democratic", "National", ",", "particularly", "between", "two", "leading", "candidates", ":", "former", "Vermont", "Gov.", "Howard", "Dean", ",", "who", "supports", "abortion", "rights", ",", "and", "former", "Indiana", "Rep.", "Tim", "Roemer", ",", "an", "abortion", "foe", "who", "argues", "that", "the", "party", "cannot", "rebound", "from", "its", "losses", "in", "the", "November", "election", "unless", "it", "shows", "more", "tolerance", "on", "one", "of", "society", "'s", "most", "emotional", "conflicts", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "his unraveling party",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "his unraveling party",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041223.1449-E15-14",
+    "start" : 6,
+    "end" : 8
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041223.1449-R4",
+  "mentionArg1" : {
+    "extent" : "his unraveling party",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041223.1449-E15-14",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041223.1449-R4-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "No Democrat with any respect for his unraveling party would ever mention Howard Dean 's name again .",
+  "sentence_index" : 5,
+  "Tokens" : [ "No", "Democrat", "with", "any", "respect", "for", "his", "unraveling", "party", "would", "ever", "mention", "Howard", "Dean", "'s", "name", "again", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "his home state",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "his home state",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041223.1449-E1-19",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20041223.1449-R5",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20041223.1449-E2-20",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20041223.1449-R5-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The fact that he did n't win a single primary outside his home state shows that the country does not embrace his radical liberalism .",
+  "sentence_index" : 6,
+  "Tokens" : [ "The", "fact", "that", "he", "did", "n't", "win", "a", "single", "primary", "outside", "his", "home", "state", "shows", "that", "the", "country", "does", "not", "embrace", "his", "radical", "liberalism", "." ]
+} ]

@@ -1,0 +1,463 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a makeshift morgue in southern Iraq",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "southern Iraq",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E31-44",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-3-R1",
+  "mentionArg1" : {
+    "extent" : "a makeshift morgue in southern Iraq",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E23-1",
+    "start" : 6,
+    "end" : 11
+  },
+  "id" : "CNN_IP_20030405.1600.01-3-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "An investigation is under way at a makeshift morgue in southern Iraq after a gruesome discovery by some British troops .",
+  "sentence_index" : 1,
+  "Tokens" : [ "An", "investigation", "is", "under", "way", "at", "a", "makeshift", "morgue", "in", "southern", "Iraq", "after", "a", "gruesome", "discovery", "by", "some", "British", "troops", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "British soldiers",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E18-29",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-3-R2",
+  "mentionArg1" : {
+    "extent" : "British soldiers",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E29-47",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030405.1600.01-3-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "But when they do , British soldiers believe , more horrors will come to light .",
+  "sentence_index" : 20,
+  "Tokens" : [ "But", "when", "they", "do", ",", "British", "soldiers", "believe", ",", "more", "horrors", "will", "come", "to", "light", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Tim Ewart of ITN News",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "ITN News",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E35-52",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-3-R3",
+  "mentionArg1" : {
+    "extent" : "Tim Ewart of ITN News",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E34-51",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "CNN_IP_20030405.1600.01-3-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Tim Ewart of ITN News reports on evidence of atrocities at an abandoned Iraqi military base .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Tim", "Ewart", "of", "ITN", "News", "reports", "on", "evidence", "of", "atrocities", "at", "an", "abandoned", "Iraqi", "military", "base", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Tim Ewart, ITV News",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "ITV News",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E35-31",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-3-R3",
+  "mentionArg1" : {
+    "extent" : "Tim Ewart",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E34-30",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030405.1600.01-3-R3-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Tim Ewart , ITV News , Azubayr .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Tim", "Ewart", ",", "ITV", "News", ",", "Azubayr", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Iraqi military",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E2-3",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-3-R4",
+  "mentionArg1" : {
+    "extent" : "Iraqi military",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E1-2",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030405.1600.01-3-R4-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "British troops found the bodies at an abandoned Iraqi military base on the outskirts of Azubayr .",
+  "sentence_index" : 5,
+  "Tokens" : [ "British", "troops", "found", "the", "bodies", "at", "an", "abandoned", "Iraqi", "military", "base", "on", "the", "outskirts", "of", "Azubayr", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Iraqi military",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E2-55",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-3-R4",
+  "mentionArg1" : {
+    "extent" : "Iraqi military",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E1-54",
+    "start" : 13,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030405.1600.01-3-R4-2",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Tim Ewart of ITN News reports on evidence of atrocities at an abandoned Iraqi military base .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Tim", "Ewart", "of", "ITN", "News", "reports", "on", "evidence", "of", "atrocities", "at", "an", "abandoned", "Iraqi", "military", "base", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "an abandoned Iraqi military base on the outskirts of Azubayr",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "an abandoned Iraqi military base on the outskirts of Azubayr",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E36-64",
+    "start" : 6,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-3-R5",
+  "mentionArg1" : {
+    "extent" : "Iraqi military",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E1-2",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030405.1600.01-3-R5-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "British troops found the bodies at an abandoned Iraqi military base on the outskirts of Azubayr .",
+  "sentence_index" : 5,
+  "Tokens" : [ "British", "troops", "found", "the", "bodies", "at", "an", "abandoned", "Iraqi", "military", "base", "on", "the", "outskirts", "of", "Azubayr", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "an abandoned Iraqi military base",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "an abandoned Iraqi military base",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E36-53",
+    "start" : 11,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-3-R5",
+  "mentionArg1" : {
+    "extent" : "Iraqi military",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E1-54",
+    "start" : 13,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030405.1600.01-3-R5-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Tim Ewart of ITN News reports on evidence of atrocities at an abandoned Iraqi military base .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Tim", "Ewart", "of", "ITN", "News", "reports", "on", "evidence", "of", "atrocities", "at", "an", "abandoned", "Iraqi", "military", "base", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the bodies at an abandoned Iraqi military base on the outskirts of Azubayr",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "an abandoned Iraqi military base on the outskirts of Azubayr",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E36-64",
+    "start" : 6,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-3-R6",
+  "mentionArg1" : {
+    "extent" : "the bodies",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E39-63",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "CNN_IP_20030405.1600.01-3-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "British troops found the bodies at an abandoned Iraqi military base on the outskirts of Azubayr .",
+  "sentence_index" : 5,
+  "Tokens" : [ "British", "troops", "found", "the", "bodies", "at", "an", "abandoned", "Iraqi", "military", "base", "on", "the", "outskirts", "of", "Azubayr", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "It's not clear how long the bodies had lain here, but they were clearly not from this war",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E36-8",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-3-R6",
+  "mentionArg1" : {
+    "extent" : "the bodies",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E39-7",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030405.1600.01-3-R6-2",
+  "relationSubType" : "Located",
+  "Sentence" : "It 's not clear how long the bodies had lain here , but they were clearly not from this war .",
+  "sentence_index" : 8,
+  "Tokens" : [ "It", "'s", "not", "clear", "how", "long", "the", "bodies", "had", "lain", "here", ",", "but", "they", "were", "clearly", "not", "from", "this", "war", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the outskirts of Azubayr",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Azubayr",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E4-5",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-3-R7",
+  "mentionArg1" : {
+    "extent" : "the outskirts of Azubayr",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E3-4",
+    "start" : 12,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030405.1600.01-3-R7-1",
+  "relationSubType" : "Near",
+  "Sentence" : "British troops found the bodies at an abandoned Iraqi military base on the outskirts of Azubayr .",
+  "sentence_index" : 5,
+  "Tokens" : [ "British", "troops", "found", "the", "bodies", "at", "an", "abandoned", "Iraqi", "military", "base", "on", "the", "outskirts", "of", "Azubayr", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Tim Ewart, ITV News, Azubayr",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "Azubayr",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E4-32",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-3-R10",
+  "mentionArg1" : {
+    "extent" : "Tim Ewart",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E34-30",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030405.1600.01-3-R10-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Tim Ewart , ITV News , Azubayr .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Tim", "Ewart", ",", "ITV", "News", ",", "Azubayr", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. troops",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E22-36",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-3-R11",
+  "mentionArg1" : {
+    "extent" : "U.S. troops",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E21-35",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030405.1600.01-3-R11-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "U.S. troops work to clear that area of Iraqi weapons , coming up .",
+  "sentence_index" : 23,
+  "Tokens" : [ "U.S.", "troops", "work", "to", "clear", "that", "area", "of", "Iraqi", "weapons", ",", "coming", "up", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Iraqi weapons",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "Iraqi weapons",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E15-57",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-3-R12",
+  "mentionArg1" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E2-33",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030405.1600.01-3-R12-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "U.S. troops work to clear that area of Iraqi weapons , coming up .",
+  "sentence_index" : 23,
+  "Tokens" : [ "U.S.", "troops", "work", "to", "clear", "that", "area", "of", "Iraqi", "weapons", ",", "coming", "up", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "U.S. troops work to clear that area of Iraqi weapons, coming up",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "that area",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E20-37",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-3-R13",
+  "mentionArg1" : {
+    "extent" : "U.S. troops",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E21-35",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030405.1600.01-3-R13-1",
+  "relationSubType" : "Located",
+  "Sentence" : "U.S. troops work to clear that area of Iraqi weapons , coming up .",
+  "sentence_index" : 23,
+  "Tokens" : [ "U.S.", "troops", "work", "to", "clear", "that", "area", "of", "Iraqi", "weapons", ",", "coming", "up", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "British troops found the bodies at an abandoned Iraqi military base on the outskirts of Azubayr",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "an abandoned Iraqi military base on the outskirts of Azubayr",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E36-64",
+    "start" : 6,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-3-R14",
+  "mentionArg1" : {
+    "extent" : "British troops",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E32-61",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030405.1600.01-3-R14-1",
+  "relationSubType" : "Located",
+  "Sentence" : "British troops found the bodies at an abandoned Iraqi military base on the outskirts of Azubayr .",
+  "sentence_index" : 5,
+  "Tokens" : [ "British", "troops", "found", "the", "bodies", "at", "an", "abandoned", "Iraqi", "military", "base", "on", "the", "outskirts", "of", "Azubayr", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Inside a neighboring building, there was evidence of cells and a catalog of photographs of the dead",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "a neighboring building",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E9-14",
+    "start" : 2,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-3-R15",
+  "mentionArg1" : {
+    "extent" : "cells",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E26-40",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030405.1600.01-3-R15-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "EWART Inside a neighboring building , there was evidence of cells and a catalog of photographs of the dead .",
+  "sentence_index" : 12,
+  "Tokens" : [ "EWART", "Inside", "a", "neighboring", "building", ",", "there", "was", "evidence", "of", "cells", "and", "a", "catalog", "of", "photographs", "of", "the", "dead", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Saddam Hussein's regime",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Saddam Hussein's regime",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E25-39",
+    "start" : 16,
+    "end" : 19
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-3-R16",
+  "mentionArg1" : {
+    "extent" : "Saddam Hussein",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E16-24",
+    "start" : 16,
+    "end" : 17
+  },
+  "id" : "CNN_IP_20030405.1600.01-3-R16-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "( on camera ) : Today 's discovery seems to provide shocking evidence of atrocities under Saddam Hussein 's regime .",
+  "sentence_index" : 18,
+  "Tokens" : [ "(", "on", "camera", ")", ":", "Today", "'s", "discovery", "seems", "to", "provide", "shocking", "evidence", "of", "atrocities", "under", "Saddam", "Hussein", "'s", "regime", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "some British troops",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E18-50",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-3-R17",
+  "mentionArg1" : {
+    "extent" : "some British troops",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E32-49",
+    "start" : 17,
+    "end" : 19
+  },
+  "id" : "CNN_IP_20030405.1600.01-3-R17-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "An investigation is under way at a makeshift morgue in southern Iraq after a gruesome discovery by some British troops .",
+  "sentence_index" : 1,
+  "Tokens" : [ "An", "investigation", "is", "under", "way", "at", "a", "makeshift", "morgue", "in", "southern", "Iraq", "after", "a", "gruesome", "discovery", "by", "some", "British", "troops", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "British troops",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E18-62",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-3-R17",
+  "mentionArg1" : {
+    "extent" : "British troops",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E32-61",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030405.1600.01-3-R17-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "British troops found the bodies at an abandoned Iraqi military base on the outskirts of Azubayr .",
+  "sentence_index" : 5,
+  "Tokens" : [ "British", "troops", "found", "the", "bodies", "at", "an", "abandoned", "Iraqi", "military", "base", "on", "the", "outskirts", "of", "Azubayr", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "an abandoned Iraqi military base on the outskirts of Azubayr",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "the outskirts of Azubayr",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E3-4",
+    "start" : 12,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-3-R21",
+  "mentionArg1" : {
+    "extent" : "an abandoned Iraqi military base on the outskirts of Azubayr",
+    "argMentionid" : "CNN_IP_20030405.1600.01-3-E36-64",
+    "start" : 6,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030405.1600.01-3-R21-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "British troops found the bodies at an abandoned Iraqi military base on the outskirts of Azubayr .",
+  "sentence_index" : 5,
+  "Tokens" : [ "British", "troops", "found", "the", "bodies", "at", "an", "abandoned", "Iraqi", "military", "base", "on", "the", "outskirts", "of", "Azubayr", "." ]
+} ]

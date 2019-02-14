@@ -1,0 +1,133 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a courtroom in southern yemen",
+  "sentence_length" : 62,
+  "mentionArg2" : {
+    "extent" : "southern yemen",
+    "argMentionid" : "CNN_ENG_20030514_130518.5-E7-8",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "CNN_ENG_20030514_130518.5-R1",
+  "mentionArg1" : {
+    "extent" : "a courtroom in southern yemen",
+    "argMentionid" : "CNN_ENG_20030514_130518.5-E6-7",
+    "start" : 5,
+    "end" : 9
+  },
+  "id" : "CNN_ENG_20030514_130518.5-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "a bomb exploded today in a courtroom in southern yemen , injuring four people , one of them a judge. a man with a pistol was arrested outside of the courthouse and police say he admits planning the bombs. it was the same courtroom where a suspected al qaeda militant got a death sentence last week for killing three american missionaries .",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "bomb", "exploded", "today", "in", "a", "courtroom", "in", "southern", "yemen", ",", "injuring", "four", "people", ",", "one", "of", "them", "a", "judge.", "a", "man", "with", "a", "pistol", "was", "arrested", "outside", "of", "the", "courthouse", "and", "police", "say", "he", "admits", "planning", "the", "bombs.", "it", "was", "the", "same", "courtroom", "where", "a", "suspected", "al", "qaeda", "militant", "got", "a", "death", "sentence", "last", "week", "for", "killing", "three", "american", "missionaries", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a man with a pistol was arrested outside of the courthouse and police say he admits planning the bombs",
+  "sentence_length" : 62,
+  "mentionArg2" : {
+    "extent" : "the courthouse",
+    "argMentionid" : "CNN_ENG_20030514_130518.5-E12-15",
+    "start" : 29,
+    "end" : 30
+  },
+  "relationID" : "CNN_ENG_20030514_130518.5-R2",
+  "mentionArg1" : {
+    "extent" : "a man with a pistol",
+    "argMentionid" : "CNN_ENG_20030514_130518.5-E10-13",
+    "start" : 20,
+    "end" : 24
+  },
+  "id" : "CNN_ENG_20030514_130518.5-R2-1",
+  "relationSubType" : "Near",
+  "Sentence" : "a bomb exploded today in a courtroom in southern yemen , injuring four people , one of them a judge. a man with a pistol was arrested outside of the courthouse and police say he admits planning the bombs. it was the same courtroom where a suspected al qaeda militant got a death sentence last week for killing three american missionaries .",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "bomb", "exploded", "today", "in", "a", "courtroom", "in", "southern", "yemen", ",", "injuring", "four", "people", ",", "one", "of", "them", "a", "judge.", "a", "man", "with", "a", "pistol", "was", "arrested", "outside", "of", "the", "courthouse", "and", "police", "say", "he", "admits", "planning", "the", "bombs.", "it", "was", "the", "same", "courtroom", "where", "a", "suspected", "al", "qaeda", "militant", "got", "a", "death", "sentence", "last", "week", "for", "killing", "three", "american", "missionaries", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a suspected al qaeda militant",
+  "sentence_length" : 62,
+  "mentionArg2" : {
+    "extent" : "al qaeda",
+    "argMentionid" : "CNN_ENG_20030514_130518.5-E2-3",
+    "start" : 47,
+    "end" : 48
+  },
+  "relationID" : "CNN_ENG_20030514_130518.5-R3",
+  "mentionArg1" : {
+    "extent" : "a suspected al qaeda militant",
+    "argMentionid" : "CNN_ENG_20030514_130518.5-E1-2",
+    "start" : 45,
+    "end" : 49
+  },
+  "id" : "CNN_ENG_20030514_130518.5-R3-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "a bomb exploded today in a courtroom in southern yemen , injuring four people , one of them a judge. a man with a pistol was arrested outside of the courthouse and police say he admits planning the bombs. it was the same courtroom where a suspected al qaeda militant got a death sentence last week for killing three american missionaries .",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "bomb", "exploded", "today", "in", "a", "courtroom", "in", "southern", "yemen", ",", "injuring", "four", "people", ",", "one", "of", "them", "a", "judge.", "a", "man", "with", "a", "pistol", "was", "arrested", "outside", "of", "the", "courthouse", "and", "police", "say", "he", "admits", "planning", "the", "bombs.", "it", "was", "the", "same", "courtroom", "where", "a", "suspected", "al", "qaeda", "militant", "got", "a", "death", "sentence", "last", "week", "for", "killing", "three", "american", "missionaries", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "three american missionaries",
+  "sentence_length" : 62,
+  "mentionArg2" : {
+    "extent" : "american",
+    "argMentionid" : "CNN_ENG_20030514_130518.5-E4-5",
+    "start" : 59,
+    "end" : 59
+  },
+  "relationID" : "CNN_ENG_20030514_130518.5-R4",
+  "mentionArg1" : {
+    "extent" : "three american missionaries",
+    "argMentionid" : "CNN_ENG_20030514_130518.5-E3-4",
+    "start" : 58,
+    "end" : 60
+  },
+  "id" : "CNN_ENG_20030514_130518.5-R4-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "a bomb exploded today in a courtroom in southern yemen , injuring four people , one of them a judge. a man with a pistol was arrested outside of the courthouse and police say he admits planning the bombs. it was the same courtroom where a suspected al qaeda militant got a death sentence last week for killing three american missionaries .",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "bomb", "exploded", "today", "in", "a", "courtroom", "in", "southern", "yemen", ",", "injuring", "four", "people", ",", "one", "of", "them", "a", "judge.", "a", "man", "with", "a", "pistol", "was", "arrested", "outside", "of", "the", "courthouse", "and", "police", "say", "he", "admits", "planning", "the", "bombs.", "it", "was", "the", "same", "courtroom", "where", "a", "suspected", "al", "qaeda", "militant", "got", "a", "death", "sentence", "last", "week", "for", "killing", "three", "american", "missionaries", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a man with a pistol",
+  "sentence_length" : 62,
+  "mentionArg2" : {
+    "extent" : "a pistol",
+    "argMentionid" : "CNN_ENG_20030514_130518.5-E11-14",
+    "start" : 23,
+    "end" : 24
+  },
+  "relationID" : "CNN_ENG_20030514_130518.5-R5",
+  "mentionArg1" : {
+    "extent" : "a man with a pistol",
+    "argMentionid" : "CNN_ENG_20030514_130518.5-E10-13",
+    "start" : 20,
+    "end" : 24
+  },
+  "id" : "CNN_ENG_20030514_130518.5-R5-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "a bomb exploded today in a courtroom in southern yemen , injuring four people , one of them a judge. a man with a pistol was arrested outside of the courthouse and police say he admits planning the bombs. it was the same courtroom where a suspected al qaeda militant got a death sentence last week for killing three american missionaries .",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "bomb", "exploded", "today", "in", "a", "courtroom", "in", "southern", "yemen", ",", "injuring", "four", "people", ",", "one", "of", "them", "a", "judge.", "a", "man", "with", "a", "pistol", "was", "arrested", "outside", "of", "the", "courthouse", "and", "police", "say", "he", "admits", "planning", "the", "bombs.", "it", "was", "the", "same", "courtroom", "where", "a", "suspected", "al", "qaeda", "militant", "got", "a", "death", "sentence", "last", "week", "for", "killing", "three", "american", "missionaries", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a man with a pistol was arrested outside of the courthouse and police say he admits planning the bombs",
+  "sentence_length" : 62,
+  "mentionArg2" : {
+    "extent" : "the bombs",
+    "argMentionid" : "CNN_ENG_20030514_130518.5-E14-18",
+    "start" : 37,
+    "end" : 38
+  },
+  "relationID" : "CNN_ENG_20030514_130518.5-R6",
+  "mentionArg1" : {
+    "extent" : "a man with a pistol",
+    "argMentionid" : "CNN_ENG_20030514_130518.5-E10-13",
+    "start" : 20,
+    "end" : 24
+  },
+  "id" : "CNN_ENG_20030514_130518.5-R6-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "a bomb exploded today in a courtroom in southern yemen , injuring four people , one of them a judge. a man with a pistol was arrested outside of the courthouse and police say he admits planning the bombs. it was the same courtroom where a suspected al qaeda militant got a death sentence last week for killing three american missionaries .",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "bomb", "exploded", "today", "in", "a", "courtroom", "in", "southern", "yemen", ",", "injuring", "four", "people", ",", "one", "of", "them", "a", "judge.", "a", "man", "with", "a", "pistol", "was", "arrested", "outside", "of", "the", "courthouse", "and", "police", "say", "he", "admits", "planning", "the", "bombs.", "it", "was", "the", "same", "courtroom", "where", "a", "suspected", "al", "qaeda", "militant", "got", "a", "death", "sentence", "last", "week", "for", "killing", "three", "american", "missionaries", "." ]
+} ]

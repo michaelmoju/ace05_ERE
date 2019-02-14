@@ -1,0 +1,67 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "u.s. troops",
+  "sentence_length" : 54,
+  "mentionArg2" : {
+    "extent" : "u.s",
+    "argMentionid" : "CNNHL_ENG_20030403_133453.21-E3-3",
+    "start" : 6,
+    "end" : 8
+  },
+  "relationID" : "CNNHL_ENG_20030403_133453.21-R1",
+  "mentionArg1" : {
+    "extent" : "u.s. troops",
+    "argMentionid" : "CNNHL_ENG_20030403_133453.21-E2-2",
+    "start" : 6,
+    "end" : 9
+  },
+  "id" : "CNNHL_ENG_20030403_133453.21-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "the associated press is reporting that u . s. troops have launched an attack on saddam international airport. about nine miles from the iraqi capital. pentagon officials briefed reporters who refused to comment about any activity at the airport. officials say they 'll make comments after certain operations are conducted. but not before .",
+  "sentence_index" : 0,
+  "Tokens" : [ "the", "associated", "press", "is", "reporting", "that", "u", ".", "s.", "troops", "have", "launched", "an", "attack", "on", "saddam", "international", "airport.", "about", "nine", "miles", "from", "the", "iraqi", "capital.", "pentagon", "officials", "briefed", "reporters", "who", "refused", "to", "comment", "about", "any", "activity", "at", "the", "airport.", "officials", "say", "they", "'ll", "make", "comments", "after", "certain", "operations", "are", "conducted.", "but", "not", "before", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the iraqi capital",
+  "sentence_length" : 54,
+  "mentionArg2" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNNHL_ENG_20030403_133453.21-E6-6",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "CNNHL_ENG_20030403_133453.21-R2",
+  "mentionArg1" : {
+    "extent" : "the iraqi capital",
+    "argMentionid" : "CNNHL_ENG_20030403_133453.21-E5-5",
+    "start" : 22,
+    "end" : 24
+  },
+  "id" : "CNNHL_ENG_20030403_133453.21-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "the associated press is reporting that u . s. troops have launched an attack on saddam international airport. about nine miles from the iraqi capital. pentagon officials briefed reporters who refused to comment about any activity at the airport. officials say they 'll make comments after certain operations are conducted. but not before .",
+  "sentence_index" : 0,
+  "Tokens" : [ "the", "associated", "press", "is", "reporting", "that", "u", ".", "s.", "troops", "have", "launched", "an", "attack", "on", "saddam", "international", "airport.", "about", "nine", "miles", "from", "the", "iraqi", "capital.", "pentagon", "officials", "briefed", "reporters", "who", "refused", "to", "comment", "about", "any", "activity", "at", "the", "airport.", "officials", "say", "they", "'ll", "make", "comments", "after", "certain", "operations", "are", "conducted.", "but", "not", "before", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "pentagon officials",
+  "sentence_length" : 54,
+  "mentionArg2" : {
+    "extent" : "pentagon",
+    "argMentionid" : "CNNHL_ENG_20030403_133453.21-E8-8",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "CNNHL_ENG_20030403_133453.21-R3",
+  "mentionArg1" : {
+    "extent" : "pentagon officials",
+    "argMentionid" : "CNNHL_ENG_20030403_133453.21-E7-7",
+    "start" : 25,
+    "end" : 26
+  },
+  "id" : "CNNHL_ENG_20030403_133453.21-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "the associated press is reporting that u . s. troops have launched an attack on saddam international airport. about nine miles from the iraqi capital. pentagon officials briefed reporters who refused to comment about any activity at the airport. officials say they 'll make comments after certain operations are conducted. but not before .",
+  "sentence_index" : 0,
+  "Tokens" : [ "the", "associated", "press", "is", "reporting", "that", "u", ".", "s.", "troops", "have", "launched", "an", "attack", "on", "saddam", "international", "airport.", "about", "nine", "miles", "from", "the", "iraqi", "capital.", "pentagon", "officials", "briefed", "reporters", "who", "refused", "to", "comment", "about", "any", "activity", "at", "the", "airport.", "officials", "say", "they", "'ll", "make", "comments", "after", "certain", "operations", "are", "conducted.", "but", "not", "before", "." ]
+} ]

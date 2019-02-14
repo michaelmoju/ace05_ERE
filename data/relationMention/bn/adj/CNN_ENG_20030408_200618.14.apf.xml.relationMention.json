@@ -1,0 +1,529 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "an air force pilot",
+  "sentence_length" : 49,
+  "mentionArg2" : {
+    "extent" : "air force",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E44-86",
+    "start" : 1,
+    "end" : 2
+  },
+  "relationID" : "CNN_ENG_20030408_200618.14-R1",
+  "mentionArg1" : {
+    "extent" : "an air force pilot",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E16-1",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNN_ENG_20030408_200618.14-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "an air force pilot is back at his base after a close call. military officials say a missile hit his warthog and he was forced to eject. cnn 's gary tuchman is live near the iraqi border with details on the mission and the pilot 's rescue. gary ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "an", "air", "force", "pilot", "is", "back", "at", "his", "base", "after", "a", "close", "call.", "military", "officials", "say", "a", "missile", "hit", "his", "warthog", "and", "he", "was", "forced", "to", "eject.", "cnn", "'s", "gary", "tuchman", "is", "live", "near", "the", "iraqi", "border", "with", "details", "on", "the", "mission", "and", "the", "pilot", "'s", "rescue.", "gary", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "his base",
+  "sentence_length" : 49,
+  "mentionArg2" : {
+    "extent" : "his base",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E45-97",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "CNN_ENG_20030408_200618.14-R2",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E16-98",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "CNN_ENG_20030408_200618.14-R2-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "an air force pilot is back at his base after a close call. military officials say a missile hit his warthog and he was forced to eject. cnn 's gary tuchman is live near the iraqi border with details on the mission and the pilot 's rescue. gary ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "an", "air", "force", "pilot", "is", "back", "at", "his", "base", "after", "a", "close", "call.", "military", "officials", "say", "a", "missile", "hit", "his", "warthog", "and", "he", "was", "forced", "to", "eject.", "cnn", "'s", "gary", "tuchman", "is", "live", "near", "the", "iraqi", "border", "with", "details", "on", "the", "mission", "and", "the", "pilot", "'s", "rescue.", "gary", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "an air force pilot is back at his base after a close call",
+  "sentence_length" : 49,
+  "mentionArg2" : {
+    "extent" : "his base",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E45-97",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "CNN_ENG_20030408_200618.14-R3",
+  "mentionArg1" : {
+    "extent" : "an air force pilot",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E16-1",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNN_ENG_20030408_200618.14-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "an air force pilot is back at his base after a close call. military officials say a missile hit his warthog and he was forced to eject. cnn 's gary tuchman is live near the iraqi border with details on the mission and the pilot 's rescue. gary ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "an", "air", "force", "pilot", "is", "back", "at", "his", "base", "after", "a", "close", "call.", "military", "officials", "say", "a", "missile", "hit", "his", "warthog", "and", "he", "was", "forced", "to", "eject.", "cnn", "'s", "gary", "tuchman", "is", "live", "near", "the", "iraqi", "border", "with", "details", "on", "the", "mission", "and", "the", "pilot", "'s", "rescue.", "gary", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "it was a very tense and nerve-racking day for the pilot who is stationed at this base near the iraqi border",
+  "sentence_length" : 360,
+  "mentionArg2" : {
+    "extent" : "this base near the iraqi border",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E45-5",
+    "start" : 22,
+    "end" : 27
+  },
+  "relationID" : "CNN_ENG_20030408_200618.14-R3",
+  "mentionArg1" : {
+    "extent" : "the pilot",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E16-3",
+    "start" : 16,
+    "end" : 17
+  },
+  "id" : "CNN_ENG_20030408_200618.14-R3-2",
+  "relationSubType" : "Located",
+  "Sentence" : "reporter : wolf , hello to you. it was a very tense and nerve-racking day for the pilot who is stationed at this base near the iraqi border. he flies one of the a-10s behind me , the warthog attack planes. took it out early this morning. here 's what happened to him. he was going on a mission south of baghdad when he was close to his target area , all of a sudden he heard a noise. turns out it was an iraqi missile , a very likely a shoulder fired missile that hit his aircraft. he realized the plane was going to crash so he ejected. all these planes have ejection seats. the pilots carry parachutes. ejected landed in the desert south of baghdad and then he was rescued by u . s. army ground troops who were in the area. the pilot , whose name has not been released , was brought back to this base. he is in good condition with the 172nd fire squadron which is based in battle creek , michigan. but he 's a very lucky man. he 's with two other a-10s flying along with him. they , two , were hit. one came back to the base. the other we have a picture of. it landed at a base controlled by the coalition. that particular a-10 was hit in the right engine. the pilot also was able to make a safe landing and neither of those pilots were hurt. those are three planes hit today. another a-10 warthog was hit here today. that pilot was hit by at least one missile and some artillery. we have video of that plane. that plane has a role in one of the engines. stabilizer in the back of the plane. the pilot lost all flight control as she was flying back. thinking about ejecting. decided she could make it back safely. she came back to this base near the border of iraq and it 's being described as an heroic landing after she was struck by artillery missiles. course , we just heard from jamie mcintyre about the f-15 e strike eagle. authorities",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "wolf", ",", "hello", "to", "you.", "it", "was", "a", "very", "tense", "and", "nerve-racking", "day", "for", "the", "pilot", "who", "is", "stationed", "at", "this", "base", "near", "the", "iraqi", "border.", "he", "flies", "one", "of", "the", "a-10s", "behind", "me", ",", "the", "warthog", "attack", "planes.", "took", "it", "out", "early", "this", "morning.", "here", "'s", "what", "happened", "to", "him.", "he", "was", "going", "on", "a", "mission", "south", "of", "baghdad", "when", "he", "was", "close", "to", "his", "target", "area", ",", "all", "of", "a", "sudden", "he", "heard", "a", "noise.", "turns", "out", "it", "was", "an", "iraqi", "missile", ",", "a", "very", "likely", "a", "shoulder", "fired", "missile", "that", "hit", "his", "aircraft.", "he", "realized", "the", "plane", "was", "going", "to", "crash", "so", "he", "ejected.", "all", "these", "planes", "have", "ejection", "seats.", "the", "pilots", "carry", "parachutes.", "ejected", "landed", "in", "the", "desert", "south", "of", "baghdad", "and", "then", "he", "was", "rescued", "by", "u", ".", "s.", "army", "ground", "troops", "who", "were", "in", "the", "area.", "the", "pilot", ",", "whose", "name", "has", "not", "been", "released", ",", "was", "brought", "back", "to", "this", "base.", "he", "is", "in", "good", "condition", "with", "the", "172nd", "fire", "squadron", "which", "is", "based", "in", "battle", "creek", ",", "michigan.", "but", "he", "'s", "a", "very", "lucky", "man.", "he", "'s", "with", "two", "other", "a-10s", "flying", "along", "with", "him.", "they", ",", "two", ",", "were", "hit.", "one", "came", "back", "to", "the", "base.", "the", "other", "we", "have", "a", "picture", "of.", "it", "landed", "at", "a", "base", "controlled", "by", "the", "coalition.", "that", "particular", "a-10", "was", "hit", "in", "the", "right", "engine.", "the", "pilot", "also", "was", "able", "to", "make", "a", "safe", "landing", "and", "neither", "of", "those", "pilots", "were", "hurt.", "those", "are", "three", "planes", "hit", "today.", "another", "a-10", "warthog", "was", "hit", "here", "today.", "that", "pilot", "was", "hit", "by", "at", "least", "one", "missile", "and", "some", "artillery.", "we", "have", "video", "of", "that", "plane.", "that", "plane", "has", "a", "role", "in", "one", "of", "the", "engines.", "stabilizer", "in", "the", "back", "of", "the", "plane.", "the", "pilot", "lost", "all", "flight", "control", "as", "she", "was", "flying", "back.", "thinking", "about", "ejecting.", "decided", "she", "could", "make", "it", "back", "safely.", "she", "came", "back", "to", "this", "base", "near", "the", "border", "of", "iraq", "and", "it", "'s", "being", "described", "as", "an", "heroic", "landing", "after", "she", "was", "struck", "by", "artillery", "missiles.", "course", ",", "we", "just", "heard", "from", "jamie", "mcintyre", "about", "the", "f-15", "e", "strike", "eagle.", "authorities" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the pilot, whose name has not been released, was brought back to this base",
+  "sentence_length" : 360,
+  "mentionArg2" : {
+    "extent" : "this base",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E45-40",
+    "start" : 158,
+    "end" : 159
+  },
+  "relationID" : "CNN_ENG_20030408_200618.14-R3",
+  "mentionArg1" : {
+    "extent" : "the pilot",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E16-38",
+    "start" : 144,
+    "end" : 145
+  },
+  "id" : "CNN_ENG_20030408_200618.14-R3-3",
+  "relationSubType" : "Located",
+  "Sentence" : "reporter : wolf , hello to you. it was a very tense and nerve-racking day for the pilot who is stationed at this base near the iraqi border. he flies one of the a-10s behind me , the warthog attack planes. took it out early this morning. here 's what happened to him. he was going on a mission south of baghdad when he was close to his target area , all of a sudden he heard a noise. turns out it was an iraqi missile , a very likely a shoulder fired missile that hit his aircraft. he realized the plane was going to crash so he ejected. all these planes have ejection seats. the pilots carry parachutes. ejected landed in the desert south of baghdad and then he was rescued by u . s. army ground troops who were in the area. the pilot , whose name has not been released , was brought back to this base. he is in good condition with the 172nd fire squadron which is based in battle creek , michigan. but he 's a very lucky man. he 's with two other a-10s flying along with him. they , two , were hit. one came back to the base. the other we have a picture of. it landed at a base controlled by the coalition. that particular a-10 was hit in the right engine. the pilot also was able to make a safe landing and neither of those pilots were hurt. those are three planes hit today. another a-10 warthog was hit here today. that pilot was hit by at least one missile and some artillery. we have video of that plane. that plane has a role in one of the engines. stabilizer in the back of the plane. the pilot lost all flight control as she was flying back. thinking about ejecting. decided she could make it back safely. she came back to this base near the border of iraq and it 's being described as an heroic landing after she was struck by artillery missiles. course , we just heard from jamie mcintyre about the f-15 e strike eagle. authorities",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "wolf", ",", "hello", "to", "you.", "it", "was", "a", "very", "tense", "and", "nerve-racking", "day", "for", "the", "pilot", "who", "is", "stationed", "at", "this", "base", "near", "the", "iraqi", "border.", "he", "flies", "one", "of", "the", "a-10s", "behind", "me", ",", "the", "warthog", "attack", "planes.", "took", "it", "out", "early", "this", "morning.", "here", "'s", "what", "happened", "to", "him.", "he", "was", "going", "on", "a", "mission", "south", "of", "baghdad", "when", "he", "was", "close", "to", "his", "target", "area", ",", "all", "of", "a", "sudden", "he", "heard", "a", "noise.", "turns", "out", "it", "was", "an", "iraqi", "missile", ",", "a", "very", "likely", "a", "shoulder", "fired", "missile", "that", "hit", "his", "aircraft.", "he", "realized", "the", "plane", "was", "going", "to", "crash", "so", "he", "ejected.", "all", "these", "planes", "have", "ejection", "seats.", "the", "pilots", "carry", "parachutes.", "ejected", "landed", "in", "the", "desert", "south", "of", "baghdad", "and", "then", "he", "was", "rescued", "by", "u", ".", "s.", "army", "ground", "troops", "who", "were", "in", "the", "area.", "the", "pilot", ",", "whose", "name", "has", "not", "been", "released", ",", "was", "brought", "back", "to", "this", "base.", "he", "is", "in", "good", "condition", "with", "the", "172nd", "fire", "squadron", "which", "is", "based", "in", "battle", "creek", ",", "michigan.", "but", "he", "'s", "a", "very", "lucky", "man.", "he", "'s", "with", "two", "other", "a-10s", "flying", "along", "with", "him.", "they", ",", "two", ",", "were", "hit.", "one", "came", "back", "to", "the", "base.", "the", "other", "we", "have", "a", "picture", "of.", "it", "landed", "at", "a", "base", "controlled", "by", "the", "coalition.", "that", "particular", "a-10", "was", "hit", "in", "the", "right", "engine.", "the", "pilot", "also", "was", "able", "to", "make", "a", "safe", "landing", "and", "neither", "of", "those", "pilots", "were", "hurt.", "those", "are", "three", "planes", "hit", "today.", "another", "a-10", "warthog", "was", "hit", "here", "today.", "that", "pilot", "was", "hit", "by", "at", "least", "one", "missile", "and", "some", "artillery.", "we", "have", "video", "of", "that", "plane.", "that", "plane", "has", "a", "role", "in", "one", "of", "the", "engines.", "stabilizer", "in", "the", "back", "of", "the", "plane.", "the", "pilot", "lost", "all", "flight", "control", "as", "she", "was", "flying", "back.", "thinking", "about", "ejecting.", "decided", "she", "could", "make", "it", "back", "safely.", "she", "came", "back", "to", "this", "base", "near", "the", "border", "of", "iraq", "and", "it", "'s", "being", "described", "as", "an", "heroic", "landing", "after", "she", "was", "struck", "by", "artillery", "missiles.", "course", ",", "we", "just", "heard", "from", "jamie", "mcintyre", "about", "the", "f-15", "e", "strike", "eagle.", "authorities" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "military officials",
+  "sentence_length" : 49,
+  "mentionArg2" : {
+    "extent" : "military",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E47-100",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "CNN_ENG_20030408_200618.14-R4",
+  "mentionArg1" : {
+    "extent" : "military officials",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E46-99",
+    "start" : 13,
+    "end" : 14
+  },
+  "id" : "CNN_ENG_20030408_200618.14-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "an air force pilot is back at his base after a close call. military officials say a missile hit his warthog and he was forced to eject. cnn 's gary tuchman is live near the iraqi border with details on the mission and the pilot 's rescue. gary ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "an", "air", "force", "pilot", "is", "back", "at", "his", "base", "after", "a", "close", "call.", "military", "officials", "say", "a", "missile", "hit", "his", "warthog", "and", "he", "was", "forced", "to", "eject.", "cnn", "'s", "gary", "tuchman", "is", "live", "near", "the", "iraqi", "border", "with", "details", "on", "the", "mission", "and", "the", "pilot", "'s", "rescue.", "gary", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "his warthog",
+  "sentence_length" : 49,
+  "mentionArg2" : {
+    "extent" : "his warthog",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E49-102",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "CNN_ENG_20030408_200618.14-R5",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E16-103",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "CNN_ENG_20030408_200618.14-R5-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "an air force pilot is back at his base after a close call. military officials say a missile hit his warthog and he was forced to eject. cnn 's gary tuchman is live near the iraqi border with details on the mission and the pilot 's rescue. gary ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "an", "air", "force", "pilot", "is", "back", "at", "his", "base", "after", "a", "close", "call.", "military", "officials", "say", "a", "missile", "hit", "his", "warthog", "and", "he", "was", "forced", "to", "eject.", "cnn", "'s", "gary", "tuchman", "is", "live", "near", "the", "iraqi", "border", "with", "details", "on", "the", "mission", "and", "the", "pilot", "'s", "rescue.", "gary", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "his aircraft",
+  "sentence_length" : 360,
+  "mentionArg2" : {
+    "extent" : "his aircraft",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E49-25",
+    "start" : 96,
+    "end" : 97
+  },
+  "relationID" : "CNN_ENG_20030408_200618.14-R5",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E16-26",
+    "start" : 96,
+    "end" : 96
+  },
+  "id" : "CNN_ENG_20030408_200618.14-R5-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "reporter : wolf , hello to you. it was a very tense and nerve-racking day for the pilot who is stationed at this base near the iraqi border. he flies one of the a-10s behind me , the warthog attack planes. took it out early this morning. here 's what happened to him. he was going on a mission south of baghdad when he was close to his target area , all of a sudden he heard a noise. turns out it was an iraqi missile , a very likely a shoulder fired missile that hit his aircraft. he realized the plane was going to crash so he ejected. all these planes have ejection seats. the pilots carry parachutes. ejected landed in the desert south of baghdad and then he was rescued by u . s. army ground troops who were in the area. the pilot , whose name has not been released , was brought back to this base. he is in good condition with the 172nd fire squadron which is based in battle creek , michigan. but he 's a very lucky man. he 's with two other a-10s flying along with him. they , two , were hit. one came back to the base. the other we have a picture of. it landed at a base controlled by the coalition. that particular a-10 was hit in the right engine. the pilot also was able to make a safe landing and neither of those pilots were hurt. those are three planes hit today. another a-10 warthog was hit here today. that pilot was hit by at least one missile and some artillery. we have video of that plane. that plane has a role in one of the engines. stabilizer in the back of the plane. the pilot lost all flight control as she was flying back. thinking about ejecting. decided she could make it back safely. she came back to this base near the border of iraq and it 's being described as an heroic landing after she was struck by artillery missiles. course , we just heard from jamie mcintyre about the f-15 e strike eagle. authorities",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "wolf", ",", "hello", "to", "you.", "it", "was", "a", "very", "tense", "and", "nerve-racking", "day", "for", "the", "pilot", "who", "is", "stationed", "at", "this", "base", "near", "the", "iraqi", "border.", "he", "flies", "one", "of", "the", "a-10s", "behind", "me", ",", "the", "warthog", "attack", "planes.", "took", "it", "out", "early", "this", "morning.", "here", "'s", "what", "happened", "to", "him.", "he", "was", "going", "on", "a", "mission", "south", "of", "baghdad", "when", "he", "was", "close", "to", "his", "target", "area", ",", "all", "of", "a", "sudden", "he", "heard", "a", "noise.", "turns", "out", "it", "was", "an", "iraqi", "missile", ",", "a", "very", "likely", "a", "shoulder", "fired", "missile", "that", "hit", "his", "aircraft.", "he", "realized", "the", "plane", "was", "going", "to", "crash", "so", "he", "ejected.", "all", "these", "planes", "have", "ejection", "seats.", "the", "pilots", "carry", "parachutes.", "ejected", "landed", "in", "the", "desert", "south", "of", "baghdad", "and", "then", "he", "was", "rescued", "by", "u", ".", "s.", "army", "ground", "troops", "who", "were", "in", "the", "area.", "the", "pilot", ",", "whose", "name", "has", "not", "been", "released", ",", "was", "brought", "back", "to", "this", "base.", "he", "is", "in", "good", "condition", "with", "the", "172nd", "fire", "squadron", "which", "is", "based", "in", "battle", "creek", ",", "michigan.", "but", "he", "'s", "a", "very", "lucky", "man.", "he", "'s", "with", "two", "other", "a-10s", "flying", "along", "with", "him.", "they", ",", "two", ",", "were", "hit.", "one", "came", "back", "to", "the", "base.", "the", "other", "we", "have", "a", "picture", "of.", "it", "landed", "at", "a", "base", "controlled", "by", "the", "coalition.", "that", "particular", "a-10", "was", "hit", "in", "the", "right", "engine.", "the", "pilot", "also", "was", "able", "to", "make", "a", "safe", "landing", "and", "neither", "of", "those", "pilots", "were", "hurt.", "those", "are", "three", "planes", "hit", "today.", "another", "a-10", "warthog", "was", "hit", "here", "today.", "that", "pilot", "was", "hit", "by", "at", "least", "one", "missile", "and", "some", "artillery.", "we", "have", "video", "of", "that", "plane.", "that", "plane", "has", "a", "role", "in", "one", "of", "the", "engines.", "stabilizer", "in", "the", "back", "of", "the", "plane.", "the", "pilot", "lost", "all", "flight", "control", "as", "she", "was", "flying", "back.", "thinking", "about", "ejecting.", "decided", "she", "could", "make", "it", "back", "safely.", "she", "came", "back", "to", "this", "base", "near", "the", "border", "of", "iraq", "and", "it", "'s", "being", "described", "as", "an", "heroic", "landing", "after", "she", "was", "struck", "by", "artillery", "missiles.", "course", ",", "we", "just", "heard", "from", "jamie", "mcintyre", "about", "the", "f-15", "e", "strike", "eagle.", "authorities" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "cnn's gary tuchman",
+  "sentence_length" : 49,
+  "mentionArg2" : {
+    "extent" : "cnn",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E51-106",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "CNN_ENG_20030408_200618.14-R6",
+  "mentionArg1" : {
+    "extent" : "cnn's gary tuchman",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E50-105",
+    "start" : 27,
+    "end" : 30
+  },
+  "id" : "CNN_ENG_20030408_200618.14-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "an air force pilot is back at his base after a close call. military officials say a missile hit his warthog and he was forced to eject. cnn 's gary tuchman is live near the iraqi border with details on the mission and the pilot 's rescue. gary ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "an", "air", "force", "pilot", "is", "back", "at", "his", "base", "after", "a", "close", "call.", "military", "officials", "say", "a", "missile", "hit", "his", "warthog", "and", "he", "was", "forced", "to", "eject.", "cnn", "'s", "gary", "tuchman", "is", "live", "near", "the", "iraqi", "border", "with", "details", "on", "the", "mission", "and", "the", "pilot", "'s", "rescue.", "gary", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the iraqi border",
+  "sentence_length" : 49,
+  "mentionArg2" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E1-108",
+    "start" : 35,
+    "end" : 35
+  },
+  "relationID" : "CNN_ENG_20030408_200618.14-R7",
+  "mentionArg1" : {
+    "extent" : "the iraqi border",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E52-107",
+    "start" : 34,
+    "end" : 36
+  },
+  "id" : "CNN_ENG_20030408_200618.14-R7-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "an air force pilot is back at his base after a close call. military officials say a missile hit his warthog and he was forced to eject. cnn 's gary tuchman is live near the iraqi border with details on the mission and the pilot 's rescue. gary ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "an", "air", "force", "pilot", "is", "back", "at", "his", "base", "after", "a", "close", "call.", "military", "officials", "say", "a", "missile", "hit", "his", "warthog", "and", "he", "was", "forced", "to", "eject.", "cnn", "'s", "gary", "tuchman", "is", "live", "near", "the", "iraqi", "border", "with", "details", "on", "the", "mission", "and", "the", "pilot", "'s", "rescue.", "gary", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the iraqi border",
+  "sentence_length" : 360,
+  "mentionArg2" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E1-7",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "CNN_ENG_20030408_200618.14-R7",
+  "mentionArg1" : {
+    "extent" : "the iraqi border",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E52-6",
+    "start" : 25,
+    "end" : 27
+  },
+  "id" : "CNN_ENG_20030408_200618.14-R7-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "reporter : wolf , hello to you. it was a very tense and nerve-racking day for the pilot who is stationed at this base near the iraqi border. he flies one of the a-10s behind me , the warthog attack planes. took it out early this morning. here 's what happened to him. he was going on a mission south of baghdad when he was close to his target area , all of a sudden he heard a noise. turns out it was an iraqi missile , a very likely a shoulder fired missile that hit his aircraft. he realized the plane was going to crash so he ejected. all these planes have ejection seats. the pilots carry parachutes. ejected landed in the desert south of baghdad and then he was rescued by u . s. army ground troops who were in the area. the pilot , whose name has not been released , was brought back to this base. he is in good condition with the 172nd fire squadron which is based in battle creek , michigan. but he 's a very lucky man. he 's with two other a-10s flying along with him. they , two , were hit. one came back to the base. the other we have a picture of. it landed at a base controlled by the coalition. that particular a-10 was hit in the right engine. the pilot also was able to make a safe landing and neither of those pilots were hurt. those are three planes hit today. another a-10 warthog was hit here today. that pilot was hit by at least one missile and some artillery. we have video of that plane. that plane has a role in one of the engines. stabilizer in the back of the plane. the pilot lost all flight control as she was flying back. thinking about ejecting. decided she could make it back safely. she came back to this base near the border of iraq and it 's being described as an heroic landing after she was struck by artillery missiles. course , we just heard from jamie mcintyre about the f-15 e strike eagle. authorities",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "wolf", ",", "hello", "to", "you.", "it", "was", "a", "very", "tense", "and", "nerve-racking", "day", "for", "the", "pilot", "who", "is", "stationed", "at", "this", "base", "near", "the", "iraqi", "border.", "he", "flies", "one", "of", "the", "a-10s", "behind", "me", ",", "the", "warthog", "attack", "planes.", "took", "it", "out", "early", "this", "morning.", "here", "'s", "what", "happened", "to", "him.", "he", "was", "going", "on", "a", "mission", "south", "of", "baghdad", "when", "he", "was", "close", "to", "his", "target", "area", ",", "all", "of", "a", "sudden", "he", "heard", "a", "noise.", "turns", "out", "it", "was", "an", "iraqi", "missile", ",", "a", "very", "likely", "a", "shoulder", "fired", "missile", "that", "hit", "his", "aircraft.", "he", "realized", "the", "plane", "was", "going", "to", "crash", "so", "he", "ejected.", "all", "these", "planes", "have", "ejection", "seats.", "the", "pilots", "carry", "parachutes.", "ejected", "landed", "in", "the", "desert", "south", "of", "baghdad", "and", "then", "he", "was", "rescued", "by", "u", ".", "s.", "army", "ground", "troops", "who", "were", "in", "the", "area.", "the", "pilot", ",", "whose", "name", "has", "not", "been", "released", ",", "was", "brought", "back", "to", "this", "base.", "he", "is", "in", "good", "condition", "with", "the", "172nd", "fire", "squadron", "which", "is", "based", "in", "battle", "creek", ",", "michigan.", "but", "he", "'s", "a", "very", "lucky", "man.", "he", "'s", "with", "two", "other", "a-10s", "flying", "along", "with", "him.", "they", ",", "two", ",", "were", "hit.", "one", "came", "back", "to", "the", "base.", "the", "other", "we", "have", "a", "picture", "of.", "it", "landed", "at", "a", "base", "controlled", "by", "the", "coalition.", "that", "particular", "a-10", "was", "hit", "in", "the", "right", "engine.", "the", "pilot", "also", "was", "able", "to", "make", "a", "safe", "landing", "and", "neither", "of", "those", "pilots", "were", "hurt.", "those", "are", "three", "planes", "hit", "today.", "another", "a-10", "warthog", "was", "hit", "here", "today.", "that", "pilot", "was", "hit", "by", "at", "least", "one", "missile", "and", "some", "artillery.", "we", "have", "video", "of", "that", "plane.", "that", "plane", "has", "a", "role", "in", "one", "of", "the", "engines.", "stabilizer", "in", "the", "back", "of", "the", "plane.", "the", "pilot", "lost", "all", "flight", "control", "as", "she", "was", "flying", "back.", "thinking", "about", "ejecting.", "decided", "she", "could", "make", "it", "back", "safely.", "she", "came", "back", "to", "this", "base", "near", "the", "border", "of", "iraq", "and", "it", "'s", "being", "described", "as", "an", "heroic", "landing", "after", "she", "was", "struck", "by", "artillery", "missiles.", "course", ",", "we", "just", "heard", "from", "jamie", "mcintyre", "about", "the", "f-15", "e", "strike", "eagle.", "authorities" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "cnn's gary tuchman is live near the iraqi border with details on the mission and the pilot's rescue",
+  "sentence_length" : 49,
+  "mentionArg2" : {
+    "extent" : "the iraqi border",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E52-107",
+    "start" : 34,
+    "end" : 36
+  },
+  "relationID" : "CNN_ENG_20030408_200618.14-R8",
+  "mentionArg1" : {
+    "extent" : "cnn's gary tuchman",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E50-105",
+    "start" : 27,
+    "end" : 30
+  },
+  "id" : "CNN_ENG_20030408_200618.14-R8-1",
+  "relationSubType" : "Near",
+  "Sentence" : "an air force pilot is back at his base after a close call. military officials say a missile hit his warthog and he was forced to eject. cnn 's gary tuchman is live near the iraqi border with details on the mission and the pilot 's rescue. gary ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "an", "air", "force", "pilot", "is", "back", "at", "his", "base", "after", "a", "close", "call.", "military", "officials", "say", "a", "missile", "hit", "his", "warthog", "and", "he", "was", "forced", "to", "eject.", "cnn", "'s", "gary", "tuchman", "is", "live", "near", "the", "iraqi", "border", "with", "details", "on", "the", "mission", "and", "the", "pilot", "'s", "rescue.", "gary", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "this base near the iraqi border",
+  "sentence_length" : 360,
+  "mentionArg2" : {
+    "extent" : "the iraqi border",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E52-6",
+    "start" : 25,
+    "end" : 27
+  },
+  "relationID" : "CNN_ENG_20030408_200618.14-R10",
+  "mentionArg1" : {
+    "extent" : "this base near the iraqi border",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E45-5",
+    "start" : 22,
+    "end" : 27
+  },
+  "id" : "CNN_ENG_20030408_200618.14-R10-1",
+  "relationSubType" : "Near",
+  "Sentence" : "reporter : wolf , hello to you. it was a very tense and nerve-racking day for the pilot who is stationed at this base near the iraqi border. he flies one of the a-10s behind me , the warthog attack planes. took it out early this morning. here 's what happened to him. he was going on a mission south of baghdad when he was close to his target area , all of a sudden he heard a noise. turns out it was an iraqi missile , a very likely a shoulder fired missile that hit his aircraft. he realized the plane was going to crash so he ejected. all these planes have ejection seats. the pilots carry parachutes. ejected landed in the desert south of baghdad and then he was rescued by u . s. army ground troops who were in the area. the pilot , whose name has not been released , was brought back to this base. he is in good condition with the 172nd fire squadron which is based in battle creek , michigan. but he 's a very lucky man. he 's with two other a-10s flying along with him. they , two , were hit. one came back to the base. the other we have a picture of. it landed at a base controlled by the coalition. that particular a-10 was hit in the right engine. the pilot also was able to make a safe landing and neither of those pilots were hurt. those are three planes hit today. another a-10 warthog was hit here today. that pilot was hit by at least one missile and some artillery. we have video of that plane. that plane has a role in one of the engines. stabilizer in the back of the plane. the pilot lost all flight control as she was flying back. thinking about ejecting. decided she could make it back safely. she came back to this base near the border of iraq and it 's being described as an heroic landing after she was struck by artillery missiles. course , we just heard from jamie mcintyre about the f-15 e strike eagle. authorities",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "wolf", ",", "hello", "to", "you.", "it", "was", "a", "very", "tense", "and", "nerve-racking", "day", "for", "the", "pilot", "who", "is", "stationed", "at", "this", "base", "near", "the", "iraqi", "border.", "he", "flies", "one", "of", "the", "a-10s", "behind", "me", ",", "the", "warthog", "attack", "planes.", "took", "it", "out", "early", "this", "morning.", "here", "'s", "what", "happened", "to", "him.", "he", "was", "going", "on", "a", "mission", "south", "of", "baghdad", "when", "he", "was", "close", "to", "his", "target", "area", ",", "all", "of", "a", "sudden", "he", "heard", "a", "noise.", "turns", "out", "it", "was", "an", "iraqi", "missile", ",", "a", "very", "likely", "a", "shoulder", "fired", "missile", "that", "hit", "his", "aircraft.", "he", "realized", "the", "plane", "was", "going", "to", "crash", "so", "he", "ejected.", "all", "these", "planes", "have", "ejection", "seats.", "the", "pilots", "carry", "parachutes.", "ejected", "landed", "in", "the", "desert", "south", "of", "baghdad", "and", "then", "he", "was", "rescued", "by", "u", ".", "s.", "army", "ground", "troops", "who", "were", "in", "the", "area.", "the", "pilot", ",", "whose", "name", "has", "not", "been", "released", ",", "was", "brought", "back", "to", "this", "base.", "he", "is", "in", "good", "condition", "with", "the", "172nd", "fire", "squadron", "which", "is", "based", "in", "battle", "creek", ",", "michigan.", "but", "he", "'s", "a", "very", "lucky", "man.", "he", "'s", "with", "two", "other", "a-10s", "flying", "along", "with", "him.", "they", ",", "two", ",", "were", "hit.", "one", "came", "back", "to", "the", "base.", "the", "other", "we", "have", "a", "picture", "of.", "it", "landed", "at", "a", "base", "controlled", "by", "the", "coalition.", "that", "particular", "a-10", "was", "hit", "in", "the", "right", "engine.", "the", "pilot", "also", "was", "able", "to", "make", "a", "safe", "landing", "and", "neither", "of", "those", "pilots", "were", "hurt.", "those", "are", "three", "planes", "hit", "today.", "another", "a-10", "warthog", "was", "hit", "here", "today.", "that", "pilot", "was", "hit", "by", "at", "least", "one", "missile", "and", "some", "artillery.", "we", "have", "video", "of", "that", "plane.", "that", "plane", "has", "a", "role", "in", "one", "of", "the", "engines.", "stabilizer", "in", "the", "back", "of", "the", "plane.", "the", "pilot", "lost", "all", "flight", "control", "as", "she", "was", "flying", "back.", "thinking", "about", "ejecting.", "decided", "she", "could", "make", "it", "back", "safely.", "she", "came", "back", "to", "this", "base", "near", "the", "border", "of", "iraq", "and", "it", "'s", "being", "described", "as", "an", "heroic", "landing", "after", "she", "was", "struck", "by", "artillery", "missiles.", "course", ",", "we", "just", "heard", "from", "jamie", "mcintyre", "about", "the", "f-15", "e", "strike", "eagle.", "authorities" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "he was going on a mission south of baghdad when he was close to his target area, all of a sudden he heard a noise. turns out it was an iraqi missile, a very likely a shoulder fired missile that hit his aircraft",
+  "sentence_length" : 360,
+  "mentionArg2" : {
+    "extent" : "baghdad",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E5-17",
+    "start" : 61,
+    "end" : 61
+  },
+  "relationID" : "CNN_ENG_20030408_200618.14-R12",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E16-16",
+    "start" : 53,
+    "end" : 53
+  },
+  "id" : "CNN_ENG_20030408_200618.14-R12-1",
+  "relationSubType" : "Near",
+  "Sentence" : "reporter : wolf , hello to you. it was a very tense and nerve-racking day for the pilot who is stationed at this base near the iraqi border. he flies one of the a-10s behind me , the warthog attack planes. took it out early this morning. here 's what happened to him. he was going on a mission south of baghdad when he was close to his target area , all of a sudden he heard a noise. turns out it was an iraqi missile , a very likely a shoulder fired missile that hit his aircraft. he realized the plane was going to crash so he ejected. all these planes have ejection seats. the pilots carry parachutes. ejected landed in the desert south of baghdad and then he was rescued by u . s. army ground troops who were in the area. the pilot , whose name has not been released , was brought back to this base. he is in good condition with the 172nd fire squadron which is based in battle creek , michigan. but he 's a very lucky man. he 's with two other a-10s flying along with him. they , two , were hit. one came back to the base. the other we have a picture of. it landed at a base controlled by the coalition. that particular a-10 was hit in the right engine. the pilot also was able to make a safe landing and neither of those pilots were hurt. those are three planes hit today. another a-10 warthog was hit here today. that pilot was hit by at least one missile and some artillery. we have video of that plane. that plane has a role in one of the engines. stabilizer in the back of the plane. the pilot lost all flight control as she was flying back. thinking about ejecting. decided she could make it back safely. she came back to this base near the border of iraq and it 's being described as an heroic landing after she was struck by artillery missiles. course , we just heard from jamie mcintyre about the f-15 e strike eagle. authorities",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "wolf", ",", "hello", "to", "you.", "it", "was", "a", "very", "tense", "and", "nerve-racking", "day", "for", "the", "pilot", "who", "is", "stationed", "at", "this", "base", "near", "the", "iraqi", "border.", "he", "flies", "one", "of", "the", "a-10s", "behind", "me", ",", "the", "warthog", "attack", "planes.", "took", "it", "out", "early", "this", "morning.", "here", "'s", "what", "happened", "to", "him.", "he", "was", "going", "on", "a", "mission", "south", "of", "baghdad", "when", "he", "was", "close", "to", "his", "target", "area", ",", "all", "of", "a", "sudden", "he", "heard", "a", "noise.", "turns", "out", "it", "was", "an", "iraqi", "missile", ",", "a", "very", "likely", "a", "shoulder", "fired", "missile", "that", "hit", "his", "aircraft.", "he", "realized", "the", "plane", "was", "going", "to", "crash", "so", "he", "ejected.", "all", "these", "planes", "have", "ejection", "seats.", "the", "pilots", "carry", "parachutes.", "ejected", "landed", "in", "the", "desert", "south", "of", "baghdad", "and", "then", "he", "was", "rescued", "by", "u", ".", "s.", "army", "ground", "troops", "who", "were", "in", "the", "area.", "the", "pilot", ",", "whose", "name", "has", "not", "been", "released", ",", "was", "brought", "back", "to", "this", "base.", "he", "is", "in", "good", "condition", "with", "the", "172nd", "fire", "squadron", "which", "is", "based", "in", "battle", "creek", ",", "michigan.", "but", "he", "'s", "a", "very", "lucky", "man.", "he", "'s", "with", "two", "other", "a-10s", "flying", "along", "with", "him.", "they", ",", "two", ",", "were", "hit.", "one", "came", "back", "to", "the", "base.", "the", "other", "we", "have", "a", "picture", "of.", "it", "landed", "at", "a", "base", "controlled", "by", "the", "coalition.", "that", "particular", "a-10", "was", "hit", "in", "the", "right", "engine.", "the", "pilot", "also", "was", "able", "to", "make", "a", "safe", "landing", "and", "neither", "of", "those", "pilots", "were", "hurt.", "those", "are", "three", "planes", "hit", "today.", "another", "a-10", "warthog", "was", "hit", "here", "today.", "that", "pilot", "was", "hit", "by", "at", "least", "one", "missile", "and", "some", "artillery.", "we", "have", "video", "of", "that", "plane.", "that", "plane", "has", "a", "role", "in", "one", "of", "the", "engines.", "stabilizer", "in", "the", "back", "of", "the", "plane.", "the", "pilot", "lost", "all", "flight", "control", "as", "she", "was", "flying", "back.", "thinking", "about", "ejecting.", "decided", "she", "could", "make", "it", "back", "safely.", "she", "came", "back", "to", "this", "base", "near", "the", "border", "of", "iraq", "and", "it", "'s", "being", "described", "as", "an", "heroic", "landing", "after", "she", "was", "struck", "by", "artillery", "missiles.", "course", ",", "we", "just", "heard", "from", "jamie", "mcintyre", "about", "the", "f-15", "e", "strike", "eagle.", "authorities" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "an iraqi missile",
+  "sentence_length" : 360,
+  "mentionArg2" : {
+    "extent" : "an iraqi missile",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E6-22",
+    "start" : 83,
+    "end" : 85
+  },
+  "relationID" : "CNN_ENG_20030408_200618.14-R13",
+  "mentionArg1" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E1-23",
+    "start" : 84,
+    "end" : 84
+  },
+  "id" : "CNN_ENG_20030408_200618.14-R13-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "reporter : wolf , hello to you. it was a very tense and nerve-racking day for the pilot who is stationed at this base near the iraqi border. he flies one of the a-10s behind me , the warthog attack planes. took it out early this morning. here 's what happened to him. he was going on a mission south of baghdad when he was close to his target area , all of a sudden he heard a noise. turns out it was an iraqi missile , a very likely a shoulder fired missile that hit his aircraft. he realized the plane was going to crash so he ejected. all these planes have ejection seats. the pilots carry parachutes. ejected landed in the desert south of baghdad and then he was rescued by u . s. army ground troops who were in the area. the pilot , whose name has not been released , was brought back to this base. he is in good condition with the 172nd fire squadron which is based in battle creek , michigan. but he 's a very lucky man. he 's with two other a-10s flying along with him. they , two , were hit. one came back to the base. the other we have a picture of. it landed at a base controlled by the coalition. that particular a-10 was hit in the right engine. the pilot also was able to make a safe landing and neither of those pilots were hurt. those are three planes hit today. another a-10 warthog was hit here today. that pilot was hit by at least one missile and some artillery. we have video of that plane. that plane has a role in one of the engines. stabilizer in the back of the plane. the pilot lost all flight control as she was flying back. thinking about ejecting. decided she could make it back safely. she came back to this base near the border of iraq and it 's being described as an heroic landing after she was struck by artillery missiles. course , we just heard from jamie mcintyre about the f-15 e strike eagle. authorities",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "wolf", ",", "hello", "to", "you.", "it", "was", "a", "very", "tense", "and", "nerve-racking", "day", "for", "the", "pilot", "who", "is", "stationed", "at", "this", "base", "near", "the", "iraqi", "border.", "he", "flies", "one", "of", "the", "a-10s", "behind", "me", ",", "the", "warthog", "attack", "planes.", "took", "it", "out", "early", "this", "morning.", "here", "'s", "what", "happened", "to", "him.", "he", "was", "going", "on", "a", "mission", "south", "of", "baghdad", "when", "he", "was", "close", "to", "his", "target", "area", ",", "all", "of", "a", "sudden", "he", "heard", "a", "noise.", "turns", "out", "it", "was", "an", "iraqi", "missile", ",", "a", "very", "likely", "a", "shoulder", "fired", "missile", "that", "hit", "his", "aircraft.", "he", "realized", "the", "plane", "was", "going", "to", "crash", "so", "he", "ejected.", "all", "these", "planes", "have", "ejection", "seats.", "the", "pilots", "carry", "parachutes.", "ejected", "landed", "in", "the", "desert", "south", "of", "baghdad", "and", "then", "he", "was", "rescued", "by", "u", ".", "s.", "army", "ground", "troops", "who", "were", "in", "the", "area.", "the", "pilot", ",", "whose", "name", "has", "not", "been", "released", ",", "was", "brought", "back", "to", "this", "base.", "he", "is", "in", "good", "condition", "with", "the", "172nd", "fire", "squadron", "which", "is", "based", "in", "battle", "creek", ",", "michigan.", "but", "he", "'s", "a", "very", "lucky", "man.", "he", "'s", "with", "two", "other", "a-10s", "flying", "along", "with", "him.", "they", ",", "two", ",", "were", "hit.", "one", "came", "back", "to", "the", "base.", "the", "other", "we", "have", "a", "picture", "of.", "it", "landed", "at", "a", "base", "controlled", "by", "the", "coalition.", "that", "particular", "a-10", "was", "hit", "in", "the", "right", "engine.", "the", "pilot", "also", "was", "able", "to", "make", "a", "safe", "landing", "and", "neither", "of", "those", "pilots", "were", "hurt.", "those", "are", "three", "planes", "hit", "today.", "another", "a-10", "warthog", "was", "hit", "here", "today.", "that", "pilot", "was", "hit", "by", "at", "least", "one", "missile", "and", "some", "artillery.", "we", "have", "video", "of", "that", "plane.", "that", "plane", "has", "a", "role", "in", "one", "of", "the", "engines.", "stabilizer", "in", "the", "back", "of", "the", "plane.", "the", "pilot", "lost", "all", "flight", "control", "as", "she", "was", "flying", "back.", "thinking", "about", "ejecting.", "decided", "she", "could", "make", "it", "back", "safely.", "she", "came", "back", "to", "this", "base", "near", "the", "border", "of", "iraq", "and", "it", "'s", "being", "described", "as", "an", "heroic", "landing", "after", "she", "was", "struck", "by", "artillery", "missiles.", "course", ",", "we", "just", "heard", "from", "jamie", "mcintyre", "about", "the", "f-15", "e", "strike", "eagle.", "authorities" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "ejected landed in the desert south of baghdad and then he was rescued by u.s. army ground troops who were in the area",
+  "sentence_length" : 360,
+  "mentionArg2" : {
+    "extent" : "the desert south of baghdad",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E10-32",
+    "start" : 122,
+    "end" : 126
+  },
+  "relationID" : "CNN_ENG_20030408_200618.14-R15",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E16-34",
+    "start" : 129,
+    "end" : 129
+  },
+  "id" : "CNN_ENG_20030408_200618.14-R15-1",
+  "relationSubType" : "Located",
+  "Sentence" : "reporter : wolf , hello to you. it was a very tense and nerve-racking day for the pilot who is stationed at this base near the iraqi border. he flies one of the a-10s behind me , the warthog attack planes. took it out early this morning. here 's what happened to him. he was going on a mission south of baghdad when he was close to his target area , all of a sudden he heard a noise. turns out it was an iraqi missile , a very likely a shoulder fired missile that hit his aircraft. he realized the plane was going to crash so he ejected. all these planes have ejection seats. the pilots carry parachutes. ejected landed in the desert south of baghdad and then he was rescued by u . s. army ground troops who were in the area. the pilot , whose name has not been released , was brought back to this base. he is in good condition with the 172nd fire squadron which is based in battle creek , michigan. but he 's a very lucky man. he 's with two other a-10s flying along with him. they , two , were hit. one came back to the base. the other we have a picture of. it landed at a base controlled by the coalition. that particular a-10 was hit in the right engine. the pilot also was able to make a safe landing and neither of those pilots were hurt. those are three planes hit today. another a-10 warthog was hit here today. that pilot was hit by at least one missile and some artillery. we have video of that plane. that plane has a role in one of the engines. stabilizer in the back of the plane. the pilot lost all flight control as she was flying back. thinking about ejecting. decided she could make it back safely. she came back to this base near the border of iraq and it 's being described as an heroic landing after she was struck by artillery missiles. course , we just heard from jamie mcintyre about the f-15 e strike eagle. authorities",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "wolf", ",", "hello", "to", "you.", "it", "was", "a", "very", "tense", "and", "nerve-racking", "day", "for", "the", "pilot", "who", "is", "stationed", "at", "this", "base", "near", "the", "iraqi", "border.", "he", "flies", "one", "of", "the", "a-10s", "behind", "me", ",", "the", "warthog", "attack", "planes.", "took", "it", "out", "early", "this", "morning.", "here", "'s", "what", "happened", "to", "him.", "he", "was", "going", "on", "a", "mission", "south", "of", "baghdad", "when", "he", "was", "close", "to", "his", "target", "area", ",", "all", "of", "a", "sudden", "he", "heard", "a", "noise.", "turns", "out", "it", "was", "an", "iraqi", "missile", ",", "a", "very", "likely", "a", "shoulder", "fired", "missile", "that", "hit", "his", "aircraft.", "he", "realized", "the", "plane", "was", "going", "to", "crash", "so", "he", "ejected.", "all", "these", "planes", "have", "ejection", "seats.", "the", "pilots", "carry", "parachutes.", "ejected", "landed", "in", "the", "desert", "south", "of", "baghdad", "and", "then", "he", "was", "rescued", "by", "u", ".", "s.", "army", "ground", "troops", "who", "were", "in", "the", "area.", "the", "pilot", ",", "whose", "name", "has", "not", "been", "released", ",", "was", "brought", "back", "to", "this", "base.", "he", "is", "in", "good", "condition", "with", "the", "172nd", "fire", "squadron", "which", "is", "based", "in", "battle", "creek", ",", "michigan.", "but", "he", "'s", "a", "very", "lucky", "man.", "he", "'s", "with", "two", "other", "a-10s", "flying", "along", "with", "him.", "they", ",", "two", ",", "were", "hit.", "one", "came", "back", "to", "the", "base.", "the", "other", "we", "have", "a", "picture", "of.", "it", "landed", "at", "a", "base", "controlled", "by", "the", "coalition.", "that", "particular", "a-10", "was", "hit", "in", "the", "right", "engine.", "the", "pilot", "also", "was", "able", "to", "make", "a", "safe", "landing", "and", "neither", "of", "those", "pilots", "were", "hurt.", "those", "are", "three", "planes", "hit", "today.", "another", "a-10", "warthog", "was", "hit", "here", "today.", "that", "pilot", "was", "hit", "by", "at", "least", "one", "missile", "and", "some", "artillery.", "we", "have", "video", "of", "that", "plane.", "that", "plane", "has", "a", "role", "in", "one", "of", "the", "engines.", "stabilizer", "in", "the", "back", "of", "the", "plane.", "the", "pilot", "lost", "all", "flight", "control", "as", "she", "was", "flying", "back.", "thinking", "about", "ejecting.", "decided", "she", "could", "make", "it", "back", "safely.", "she", "came", "back", "to", "this", "base", "near", "the", "border", "of", "iraq", "and", "it", "'s", "being", "described", "as", "an", "heroic", "landing", "after", "she", "was", "struck", "by", "artillery", "missiles.", "course", ",", "we", "just", "heard", "from", "jamie", "mcintyre", "about", "the", "f-15", "e", "strike", "eagle.", "authorities" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "u.s. army ground troops who were in the area",
+  "sentence_length" : 360,
+  "mentionArg2" : {
+    "extent" : "the area",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E10-91",
+    "start" : 142,
+    "end" : 143
+  },
+  "relationID" : "CNN_ENG_20030408_200618.14-R16",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E11-36",
+    "start" : 139,
+    "end" : 139
+  },
+  "id" : "CNN_ENG_20030408_200618.14-R16-1",
+  "relationSubType" : "Located",
+  "Sentence" : "reporter : wolf , hello to you. it was a very tense and nerve-racking day for the pilot who is stationed at this base near the iraqi border. he flies one of the a-10s behind me , the warthog attack planes. took it out early this morning. here 's what happened to him. he was going on a mission south of baghdad when he was close to his target area , all of a sudden he heard a noise. turns out it was an iraqi missile , a very likely a shoulder fired missile that hit his aircraft. he realized the plane was going to crash so he ejected. all these planes have ejection seats. the pilots carry parachutes. ejected landed in the desert south of baghdad and then he was rescued by u . s. army ground troops who were in the area. the pilot , whose name has not been released , was brought back to this base. he is in good condition with the 172nd fire squadron which is based in battle creek , michigan. but he 's a very lucky man. he 's with two other a-10s flying along with him. they , two , were hit. one came back to the base. the other we have a picture of. it landed at a base controlled by the coalition. that particular a-10 was hit in the right engine. the pilot also was able to make a safe landing and neither of those pilots were hurt. those are three planes hit today. another a-10 warthog was hit here today. that pilot was hit by at least one missile and some artillery. we have video of that plane. that plane has a role in one of the engines. stabilizer in the back of the plane. the pilot lost all flight control as she was flying back. thinking about ejecting. decided she could make it back safely. she came back to this base near the border of iraq and it 's being described as an heroic landing after she was struck by artillery missiles. course , we just heard from jamie mcintyre about the f-15 e strike eagle. authorities",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "wolf", ",", "hello", "to", "you.", "it", "was", "a", "very", "tense", "and", "nerve-racking", "day", "for", "the", "pilot", "who", "is", "stationed", "at", "this", "base", "near", "the", "iraqi", "border.", "he", "flies", "one", "of", "the", "a-10s", "behind", "me", ",", "the", "warthog", "attack", "planes.", "took", "it", "out", "early", "this", "morning.", "here", "'s", "what", "happened", "to", "him.", "he", "was", "going", "on", "a", "mission", "south", "of", "baghdad", "when", "he", "was", "close", "to", "his", "target", "area", ",", "all", "of", "a", "sudden", "he", "heard", "a", "noise.", "turns", "out", "it", "was", "an", "iraqi", "missile", ",", "a", "very", "likely", "a", "shoulder", "fired", "missile", "that", "hit", "his", "aircraft.", "he", "realized", "the", "plane", "was", "going", "to", "crash", "so", "he", "ejected.", "all", "these", "planes", "have", "ejection", "seats.", "the", "pilots", "carry", "parachutes.", "ejected", "landed", "in", "the", "desert", "south", "of", "baghdad", "and", "then", "he", "was", "rescued", "by", "u", ".", "s.", "army", "ground", "troops", "who", "were", "in", "the", "area.", "the", "pilot", ",", "whose", "name", "has", "not", "been", "released", ",", "was", "brought", "back", "to", "this", "base.", "he", "is", "in", "good", "condition", "with", "the", "172nd", "fire", "squadron", "which", "is", "based", "in", "battle", "creek", ",", "michigan.", "but", "he", "'s", "a", "very", "lucky", "man.", "he", "'s", "with", "two", "other", "a-10s", "flying", "along", "with", "him.", "they", ",", "two", ",", "were", "hit.", "one", "came", "back", "to", "the", "base.", "the", "other", "we", "have", "a", "picture", "of.", "it", "landed", "at", "a", "base", "controlled", "by", "the", "coalition.", "that", "particular", "a-10", "was", "hit", "in", "the", "right", "engine.", "the", "pilot", "also", "was", "able", "to", "make", "a", "safe", "landing", "and", "neither", "of", "those", "pilots", "were", "hurt.", "those", "are", "three", "planes", "hit", "today.", "another", "a-10", "warthog", "was", "hit", "here", "today.", "that", "pilot", "was", "hit", "by", "at", "least", "one", "missile", "and", "some", "artillery.", "we", "have", "video", "of", "that", "plane.", "that", "plane", "has", "a", "role", "in", "one", "of", "the", "engines.", "stabilizer", "in", "the", "back", "of", "the", "plane.", "the", "pilot", "lost", "all", "flight", "control", "as", "she", "was", "flying", "back.", "thinking", "about", "ejecting.", "decided", "she", "could", "make", "it", "back", "safely.", "she", "came", "back", "to", "this", "base", "near", "the", "border", "of", "iraq", "and", "it", "'s", "being", "described", "as", "an", "heroic", "landing", "after", "she", "was", "struck", "by", "artillery", "missiles.", "course", ",", "we", "just", "heard", "from", "jamie", "mcintyre", "about", "the", "f-15", "e", "strike", "eagle.", "authorities" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "u.s. army ground troops",
+  "sentence_length" : 360,
+  "mentionArg2" : {
+    "extent" : "u.s. army",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E12-37",
+    "start" : 133,
+    "end" : 136
+  },
+  "relationID" : "CNN_ENG_20030408_200618.14-R17",
+  "mentionArg1" : {
+    "extent" : "u.s. army ground troops",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E11-35",
+    "start" : 133,
+    "end" : 138
+  },
+  "id" : "CNN_ENG_20030408_200618.14-R17-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "reporter : wolf , hello to you. it was a very tense and nerve-racking day for the pilot who is stationed at this base near the iraqi border. he flies one of the a-10s behind me , the warthog attack planes. took it out early this morning. here 's what happened to him. he was going on a mission south of baghdad when he was close to his target area , all of a sudden he heard a noise. turns out it was an iraqi missile , a very likely a shoulder fired missile that hit his aircraft. he realized the plane was going to crash so he ejected. all these planes have ejection seats. the pilots carry parachutes. ejected landed in the desert south of baghdad and then he was rescued by u . s. army ground troops who were in the area. the pilot , whose name has not been released , was brought back to this base. he is in good condition with the 172nd fire squadron which is based in battle creek , michigan. but he 's a very lucky man. he 's with two other a-10s flying along with him. they , two , were hit. one came back to the base. the other we have a picture of. it landed at a base controlled by the coalition. that particular a-10 was hit in the right engine. the pilot also was able to make a safe landing and neither of those pilots were hurt. those are three planes hit today. another a-10 warthog was hit here today. that pilot was hit by at least one missile and some artillery. we have video of that plane. that plane has a role in one of the engines. stabilizer in the back of the plane. the pilot lost all flight control as she was flying back. thinking about ejecting. decided she could make it back safely. she came back to this base near the border of iraq and it 's being described as an heroic landing after she was struck by artillery missiles. course , we just heard from jamie mcintyre about the f-15 e strike eagle. authorities",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "wolf", ",", "hello", "to", "you.", "it", "was", "a", "very", "tense", "and", "nerve-racking", "day", "for", "the", "pilot", "who", "is", "stationed", "at", "this", "base", "near", "the", "iraqi", "border.", "he", "flies", "one", "of", "the", "a-10s", "behind", "me", ",", "the", "warthog", "attack", "planes.", "took", "it", "out", "early", "this", "morning.", "here", "'s", "what", "happened", "to", "him.", "he", "was", "going", "on", "a", "mission", "south", "of", "baghdad", "when", "he", "was", "close", "to", "his", "target", "area", ",", "all", "of", "a", "sudden", "he", "heard", "a", "noise.", "turns", "out", "it", "was", "an", "iraqi", "missile", ",", "a", "very", "likely", "a", "shoulder", "fired", "missile", "that", "hit", "his", "aircraft.", "he", "realized", "the", "plane", "was", "going", "to", "crash", "so", "he", "ejected.", "all", "these", "planes", "have", "ejection", "seats.", "the", "pilots", "carry", "parachutes.", "ejected", "landed", "in", "the", "desert", "south", "of", "baghdad", "and", "then", "he", "was", "rescued", "by", "u", ".", "s.", "army", "ground", "troops", "who", "were", "in", "the", "area.", "the", "pilot", ",", "whose", "name", "has", "not", "been", "released", ",", "was", "brought", "back", "to", "this", "base.", "he", "is", "in", "good", "condition", "with", "the", "172nd", "fire", "squadron", "which", "is", "based", "in", "battle", "creek", ",", "michigan.", "but", "he", "'s", "a", "very", "lucky", "man.", "he", "'s", "with", "two", "other", "a-10s", "flying", "along", "with", "him.", "they", ",", "two", ",", "were", "hit.", "one", "came", "back", "to", "the", "base.", "the", "other", "we", "have", "a", "picture", "of.", "it", "landed", "at", "a", "base", "controlled", "by", "the", "coalition.", "that", "particular", "a-10", "was", "hit", "in", "the", "right", "engine.", "the", "pilot", "also", "was", "able", "to", "make", "a", "safe", "landing", "and", "neither", "of", "those", "pilots", "were", "hurt.", "those", "are", "three", "planes", "hit", "today.", "another", "a-10", "warthog", "was", "hit", "here", "today.", "that", "pilot", "was", "hit", "by", "at", "least", "one", "missile", "and", "some", "artillery.", "we", "have", "video", "of", "that", "plane.", "that", "plane", "has", "a", "role", "in", "one", "of", "the", "engines.", "stabilizer", "in", "the", "back", "of", "the", "plane.", "the", "pilot", "lost", "all", "flight", "control", "as", "she", "was", "flying", "back.", "thinking", "about", "ejecting.", "decided", "she", "could", "make", "it", "back", "safely.", "she", "came", "back", "to", "this", "base", "near", "the", "border", "of", "iraq", "and", "it", "'s", "being", "described", "as", "an", "heroic", "landing", "after", "she", "was", "struck", "by", "artillery", "missiles.", "course", ",", "we", "just", "heard", "from", "jamie", "mcintyre", "about", "the", "f-15", "e", "strike", "eagle.", "authorities" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "he is in good condition with the 172nd fire squadron which is based in battle creek, michigan",
+  "sentence_length" : 360,
+  "mentionArg2" : {
+    "extent" : "battle creek, michigan",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E15-44",
+    "start" : 174,
+    "end" : 177
+  },
+  "relationID" : "CNN_ENG_20030408_200618.14-R19",
+  "mentionArg1" : {
+    "extent" : "which",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E13-43",
+    "start" : 170,
+    "end" : 170
+  },
+  "id" : "CNN_ENG_20030408_200618.14-R19-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "reporter : wolf , hello to you. it was a very tense and nerve-racking day for the pilot who is stationed at this base near the iraqi border. he flies one of the a-10s behind me , the warthog attack planes. took it out early this morning. here 's what happened to him. he was going on a mission south of baghdad when he was close to his target area , all of a sudden he heard a noise. turns out it was an iraqi missile , a very likely a shoulder fired missile that hit his aircraft. he realized the plane was going to crash so he ejected. all these planes have ejection seats. the pilots carry parachutes. ejected landed in the desert south of baghdad and then he was rescued by u . s. army ground troops who were in the area. the pilot , whose name has not been released , was brought back to this base. he is in good condition with the 172nd fire squadron which is based in battle creek , michigan. but he 's a very lucky man. he 's with two other a-10s flying along with him. they , two , were hit. one came back to the base. the other we have a picture of. it landed at a base controlled by the coalition. that particular a-10 was hit in the right engine. the pilot also was able to make a safe landing and neither of those pilots were hurt. those are three planes hit today. another a-10 warthog was hit here today. that pilot was hit by at least one missile and some artillery. we have video of that plane. that plane has a role in one of the engines. stabilizer in the back of the plane. the pilot lost all flight control as she was flying back. thinking about ejecting. decided she could make it back safely. she came back to this base near the border of iraq and it 's being described as an heroic landing after she was struck by artillery missiles. course , we just heard from jamie mcintyre about the f-15 e strike eagle. authorities",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "wolf", ",", "hello", "to", "you.", "it", "was", "a", "very", "tense", "and", "nerve-racking", "day", "for", "the", "pilot", "who", "is", "stationed", "at", "this", "base", "near", "the", "iraqi", "border.", "he", "flies", "one", "of", "the", "a-10s", "behind", "me", ",", "the", "warthog", "attack", "planes.", "took", "it", "out", "early", "this", "morning.", "here", "'s", "what", "happened", "to", "him.", "he", "was", "going", "on", "a", "mission", "south", "of", "baghdad", "when", "he", "was", "close", "to", "his", "target", "area", ",", "all", "of", "a", "sudden", "he", "heard", "a", "noise.", "turns", "out", "it", "was", "an", "iraqi", "missile", ",", "a", "very", "likely", "a", "shoulder", "fired", "missile", "that", "hit", "his", "aircraft.", "he", "realized", "the", "plane", "was", "going", "to", "crash", "so", "he", "ejected.", "all", "these", "planes", "have", "ejection", "seats.", "the", "pilots", "carry", "parachutes.", "ejected", "landed", "in", "the", "desert", "south", "of", "baghdad", "and", "then", "he", "was", "rescued", "by", "u", ".", "s.", "army", "ground", "troops", "who", "were", "in", "the", "area.", "the", "pilot", ",", "whose", "name", "has", "not", "been", "released", ",", "was", "brought", "back", "to", "this", "base.", "he", "is", "in", "good", "condition", "with", "the", "172nd", "fire", "squadron", "which", "is", "based", "in", "battle", "creek", ",", "michigan.", "but", "he", "'s", "a", "very", "lucky", "man.", "he", "'s", "with", "two", "other", "a-10s", "flying", "along", "with", "him.", "they", ",", "two", ",", "were", "hit.", "one", "came", "back", "to", "the", "base.", "the", "other", "we", "have", "a", "picture", "of.", "it", "landed", "at", "a", "base", "controlled", "by", "the", "coalition.", "that", "particular", "a-10", "was", "hit", "in", "the", "right", "engine.", "the", "pilot", "also", "was", "able", "to", "make", "a", "safe", "landing", "and", "neither", "of", "those", "pilots", "were", "hurt.", "those", "are", "three", "planes", "hit", "today.", "another", "a-10", "warthog", "was", "hit", "here", "today.", "that", "pilot", "was", "hit", "by", "at", "least", "one", "missile", "and", "some", "artillery.", "we", "have", "video", "of", "that", "plane.", "that", "plane", "has", "a", "role", "in", "one", "of", "the", "engines.", "stabilizer", "in", "the", "back", "of", "the", "plane.", "the", "pilot", "lost", "all", "flight", "control", "as", "she", "was", "flying", "back.", "thinking", "about", "ejecting.", "decided", "she", "could", "make", "it", "back", "safely.", "she", "came", "back", "to", "this", "base", "near", "the", "border", "of", "iraq", "and", "it", "'s", "being", "described", "as", "an", "heroic", "landing", "after", "she", "was", "struck", "by", "artillery", "missiles.", "course", ",", "we", "just", "heard", "from", "jamie", "mcintyre", "about", "the", "f-15", "e", "strike", "eagle.", "authorities" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "battle creek, michigan",
+  "sentence_length" : 360,
+  "mentionArg2" : {
+    "extent" : "michigan",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E17-45",
+    "start" : 177,
+    "end" : 177
+  },
+  "relationID" : "CNN_ENG_20030408_200618.14-R20",
+  "mentionArg1" : {
+    "extent" : "battle creek, michigan",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E15-44",
+    "start" : 174,
+    "end" : 177
+  },
+  "id" : "CNN_ENG_20030408_200618.14-R20-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "reporter : wolf , hello to you. it was a very tense and nerve-racking day for the pilot who is stationed at this base near the iraqi border. he flies one of the a-10s behind me , the warthog attack planes. took it out early this morning. here 's what happened to him. he was going on a mission south of baghdad when he was close to his target area , all of a sudden he heard a noise. turns out it was an iraqi missile , a very likely a shoulder fired missile that hit his aircraft. he realized the plane was going to crash so he ejected. all these planes have ejection seats. the pilots carry parachutes. ejected landed in the desert south of baghdad and then he was rescued by u . s. army ground troops who were in the area. the pilot , whose name has not been released , was brought back to this base. he is in good condition with the 172nd fire squadron which is based in battle creek , michigan. but he 's a very lucky man. he 's with two other a-10s flying along with him. they , two , were hit. one came back to the base. the other we have a picture of. it landed at a base controlled by the coalition. that particular a-10 was hit in the right engine. the pilot also was able to make a safe landing and neither of those pilots were hurt. those are three planes hit today. another a-10 warthog was hit here today. that pilot was hit by at least one missile and some artillery. we have video of that plane. that plane has a role in one of the engines. stabilizer in the back of the plane. the pilot lost all flight control as she was flying back. thinking about ejecting. decided she could make it back safely. she came back to this base near the border of iraq and it 's being described as an heroic landing after she was struck by artillery missiles. course , we just heard from jamie mcintyre about the f-15 e strike eagle. authorities",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "wolf", ",", "hello", "to", "you.", "it", "was", "a", "very", "tense", "and", "nerve-racking", "day", "for", "the", "pilot", "who", "is", "stationed", "at", "this", "base", "near", "the", "iraqi", "border.", "he", "flies", "one", "of", "the", "a-10s", "behind", "me", ",", "the", "warthog", "attack", "planes.", "took", "it", "out", "early", "this", "morning.", "here", "'s", "what", "happened", "to", "him.", "he", "was", "going", "on", "a", "mission", "south", "of", "baghdad", "when", "he", "was", "close", "to", "his", "target", "area", ",", "all", "of", "a", "sudden", "he", "heard", "a", "noise.", "turns", "out", "it", "was", "an", "iraqi", "missile", ",", "a", "very", "likely", "a", "shoulder", "fired", "missile", "that", "hit", "his", "aircraft.", "he", "realized", "the", "plane", "was", "going", "to", "crash", "so", "he", "ejected.", "all", "these", "planes", "have", "ejection", "seats.", "the", "pilots", "carry", "parachutes.", "ejected", "landed", "in", "the", "desert", "south", "of", "baghdad", "and", "then", "he", "was", "rescued", "by", "u", ".", "s.", "army", "ground", "troops", "who", "were", "in", "the", "area.", "the", "pilot", ",", "whose", "name", "has", "not", "been", "released", ",", "was", "brought", "back", "to", "this", "base.", "he", "is", "in", "good", "condition", "with", "the", "172nd", "fire", "squadron", "which", "is", "based", "in", "battle", "creek", ",", "michigan.", "but", "he", "'s", "a", "very", "lucky", "man.", "he", "'s", "with", "two", "other", "a-10s", "flying", "along", "with", "him.", "they", ",", "two", ",", "were", "hit.", "one", "came", "back", "to", "the", "base.", "the", "other", "we", "have", "a", "picture", "of.", "it", "landed", "at", "a", "base", "controlled", "by", "the", "coalition.", "that", "particular", "a-10", "was", "hit", "in", "the", "right", "engine.", "the", "pilot", "also", "was", "able", "to", "make", "a", "safe", "landing", "and", "neither", "of", "those", "pilots", "were", "hurt.", "those", "are", "three", "planes", "hit", "today.", "another", "a-10", "warthog", "was", "hit", "here", "today.", "that", "pilot", "was", "hit", "by", "at", "least", "one", "missile", "and", "some", "artillery.", "we", "have", "video", "of", "that", "plane.", "that", "plane", "has", "a", "role", "in", "one", "of", "the", "engines.", "stabilizer", "in", "the", "back", "of", "the", "plane.", "the", "pilot", "lost", "all", "flight", "control", "as", "she", "was", "flying", "back.", "thinking", "about", "ejecting.", "decided", "she", "could", "make", "it", "back", "safely.", "she", "came", "back", "to", "this", "base", "near", "the", "border", "of", "iraq", "and", "it", "'s", "being", "described", "as", "an", "heroic", "landing", "after", "she", "was", "struck", "by", "artillery", "missiles.", "course", ",", "we", "just", "heard", "from", "jamie", "mcintyre", "about", "the", "f-15", "e", "strike", "eagle.", "authorities" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a base controlled by the coalition",
+  "sentence_length" : 360,
+  "mentionArg2" : {
+    "extent" : "a base controlled by the coalition",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E24-59",
+    "start" : 217,
+    "end" : 222
+  },
+  "relationID" : "CNN_ENG_20030408_200618.14-R21",
+  "mentionArg1" : {
+    "extent" : "the coalition",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E25-60",
+    "start" : 221,
+    "end" : 222
+  },
+  "id" : "CNN_ENG_20030408_200618.14-R21-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "reporter : wolf , hello to you. it was a very tense and nerve-racking day for the pilot who is stationed at this base near the iraqi border. he flies one of the a-10s behind me , the warthog attack planes. took it out early this morning. here 's what happened to him. he was going on a mission south of baghdad when he was close to his target area , all of a sudden he heard a noise. turns out it was an iraqi missile , a very likely a shoulder fired missile that hit his aircraft. he realized the plane was going to crash so he ejected. all these planes have ejection seats. the pilots carry parachutes. ejected landed in the desert south of baghdad and then he was rescued by u . s. army ground troops who were in the area. the pilot , whose name has not been released , was brought back to this base. he is in good condition with the 172nd fire squadron which is based in battle creek , michigan. but he 's a very lucky man. he 's with two other a-10s flying along with him. they , two , were hit. one came back to the base. the other we have a picture of. it landed at a base controlled by the coalition. that particular a-10 was hit in the right engine. the pilot also was able to make a safe landing and neither of those pilots were hurt. those are three planes hit today. another a-10 warthog was hit here today. that pilot was hit by at least one missile and some artillery. we have video of that plane. that plane has a role in one of the engines. stabilizer in the back of the plane. the pilot lost all flight control as she was flying back. thinking about ejecting. decided she could make it back safely. she came back to this base near the border of iraq and it 's being described as an heroic landing after she was struck by artillery missiles. course , we just heard from jamie mcintyre about the f-15 e strike eagle. authorities",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "wolf", ",", "hello", "to", "you.", "it", "was", "a", "very", "tense", "and", "nerve-racking", "day", "for", "the", "pilot", "who", "is", "stationed", "at", "this", "base", "near", "the", "iraqi", "border.", "he", "flies", "one", "of", "the", "a-10s", "behind", "me", ",", "the", "warthog", "attack", "planes.", "took", "it", "out", "early", "this", "morning.", "here", "'s", "what", "happened", "to", "him.", "he", "was", "going", "on", "a", "mission", "south", "of", "baghdad", "when", "he", "was", "close", "to", "his", "target", "area", ",", "all", "of", "a", "sudden", "he", "heard", "a", "noise.", "turns", "out", "it", "was", "an", "iraqi", "missile", ",", "a", "very", "likely", "a", "shoulder", "fired", "missile", "that", "hit", "his", "aircraft.", "he", "realized", "the", "plane", "was", "going", "to", "crash", "so", "he", "ejected.", "all", "these", "planes", "have", "ejection", "seats.", "the", "pilots", "carry", "parachutes.", "ejected", "landed", "in", "the", "desert", "south", "of", "baghdad", "and", "then", "he", "was", "rescued", "by", "u", ".", "s.", "army", "ground", "troops", "who", "were", "in", "the", "area.", "the", "pilot", ",", "whose", "name", "has", "not", "been", "released", ",", "was", "brought", "back", "to", "this", "base.", "he", "is", "in", "good", "condition", "with", "the", "172nd", "fire", "squadron", "which", "is", "based", "in", "battle", "creek", ",", "michigan.", "but", "he", "'s", "a", "very", "lucky", "man.", "he", "'s", "with", "two", "other", "a-10s", "flying", "along", "with", "him.", "they", ",", "two", ",", "were", "hit.", "one", "came", "back", "to", "the", "base.", "the", "other", "we", "have", "a", "picture", "of.", "it", "landed", "at", "a", "base", "controlled", "by", "the", "coalition.", "that", "particular", "a-10", "was", "hit", "in", "the", "right", "engine.", "the", "pilot", "also", "was", "able", "to", "make", "a", "safe", "landing", "and", "neither", "of", "those", "pilots", "were", "hurt.", "those", "are", "three", "planes", "hit", "today.", "another", "a-10", "warthog", "was", "hit", "here", "today.", "that", "pilot", "was", "hit", "by", "at", "least", "one", "missile", "and", "some", "artillery.", "we", "have", "video", "of", "that", "plane.", "that", "plane", "has", "a", "role", "in", "one", "of", "the", "engines.", "stabilizer", "in", "the", "back", "of", "the", "plane.", "the", "pilot", "lost", "all", "flight", "control", "as", "she", "was", "flying", "back.", "thinking", "about", "ejecting.", "decided", "she", "could", "make", "it", "back", "safely.", "she", "came", "back", "to", "this", "base", "near", "the", "border", "of", "iraq", "and", "it", "'s", "being", "described", "as", "an", "heroic", "landing", "after", "she", "was", "struck", "by", "artillery", "missiles.", "course", ",", "we", "just", "heard", "from", "jamie", "mcintyre", "about", "the", "f-15", "e", "strike", "eagle.", "authorities" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "she came back to this base near the border of iraq and it's being described as an heroic landing after she was struck by artillery missiles",
+  "sentence_length" : 360,
+  "mentionArg2" : {
+    "extent" : "this base near the border of iraq",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E34-79",
+    "start" : 322,
+    "end" : 328
+  },
+  "relationID" : "CNN_ENG_20030408_200618.14-R22",
+  "mentionArg1" : {
+    "extent" : "she",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E31-78",
+    "start" : 318,
+    "end" : 318
+  },
+  "id" : "CNN_ENG_20030408_200618.14-R22-1",
+  "relationSubType" : "Located",
+  "Sentence" : "reporter : wolf , hello to you. it was a very tense and nerve-racking day for the pilot who is stationed at this base near the iraqi border. he flies one of the a-10s behind me , the warthog attack planes. took it out early this morning. here 's what happened to him. he was going on a mission south of baghdad when he was close to his target area , all of a sudden he heard a noise. turns out it was an iraqi missile , a very likely a shoulder fired missile that hit his aircraft. he realized the plane was going to crash so he ejected. all these planes have ejection seats. the pilots carry parachutes. ejected landed in the desert south of baghdad and then he was rescued by u . s. army ground troops who were in the area. the pilot , whose name has not been released , was brought back to this base. he is in good condition with the 172nd fire squadron which is based in battle creek , michigan. but he 's a very lucky man. he 's with two other a-10s flying along with him. they , two , were hit. one came back to the base. the other we have a picture of. it landed at a base controlled by the coalition. that particular a-10 was hit in the right engine. the pilot also was able to make a safe landing and neither of those pilots were hurt. those are three planes hit today. another a-10 warthog was hit here today. that pilot was hit by at least one missile and some artillery. we have video of that plane. that plane has a role in one of the engines. stabilizer in the back of the plane. the pilot lost all flight control as she was flying back. thinking about ejecting. decided she could make it back safely. she came back to this base near the border of iraq and it 's being described as an heroic landing after she was struck by artillery missiles. course , we just heard from jamie mcintyre about the f-15 e strike eagle. authorities",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "wolf", ",", "hello", "to", "you.", "it", "was", "a", "very", "tense", "and", "nerve-racking", "day", "for", "the", "pilot", "who", "is", "stationed", "at", "this", "base", "near", "the", "iraqi", "border.", "he", "flies", "one", "of", "the", "a-10s", "behind", "me", ",", "the", "warthog", "attack", "planes.", "took", "it", "out", "early", "this", "morning.", "here", "'s", "what", "happened", "to", "him.", "he", "was", "going", "on", "a", "mission", "south", "of", "baghdad", "when", "he", "was", "close", "to", "his", "target", "area", ",", "all", "of", "a", "sudden", "he", "heard", "a", "noise.", "turns", "out", "it", "was", "an", "iraqi", "missile", ",", "a", "very", "likely", "a", "shoulder", "fired", "missile", "that", "hit", "his", "aircraft.", "he", "realized", "the", "plane", "was", "going", "to", "crash", "so", "he", "ejected.", "all", "these", "planes", "have", "ejection", "seats.", "the", "pilots", "carry", "parachutes.", "ejected", "landed", "in", "the", "desert", "south", "of", "baghdad", "and", "then", "he", "was", "rescued", "by", "u", ".", "s.", "army", "ground", "troops", "who", "were", "in", "the", "area.", "the", "pilot", ",", "whose", "name", "has", "not", "been", "released", ",", "was", "brought", "back", "to", "this", "base.", "he", "is", "in", "good", "condition", "with", "the", "172nd", "fire", "squadron", "which", "is", "based", "in", "battle", "creek", ",", "michigan.", "but", "he", "'s", "a", "very", "lucky", "man.", "he", "'s", "with", "two", "other", "a-10s", "flying", "along", "with", "him.", "they", ",", "two", ",", "were", "hit.", "one", "came", "back", "to", "the", "base.", "the", "other", "we", "have", "a", "picture", "of.", "it", "landed", "at", "a", "base", "controlled", "by", "the", "coalition.", "that", "particular", "a-10", "was", "hit", "in", "the", "right", "engine.", "the", "pilot", "also", "was", "able", "to", "make", "a", "safe", "landing", "and", "neither", "of", "those", "pilots", "were", "hurt.", "those", "are", "three", "planes", "hit", "today.", "another", "a-10", "warthog", "was", "hit", "here", "today.", "that", "pilot", "was", "hit", "by", "at", "least", "one", "missile", "and", "some", "artillery.", "we", "have", "video", "of", "that", "plane.", "that", "plane", "has", "a", "role", "in", "one", "of", "the", "engines.", "stabilizer", "in", "the", "back", "of", "the", "plane.", "the", "pilot", "lost", "all", "flight", "control", "as", "she", "was", "flying", "back.", "thinking", "about", "ejecting.", "decided", "she", "could", "make", "it", "back", "safely.", "she", "came", "back", "to", "this", "base", "near", "the", "border", "of", "iraq", "and", "it", "'s", "being", "described", "as", "an", "heroic", "landing", "after", "she", "was", "struck", "by", "artillery", "missiles.", "course", ",", "we", "just", "heard", "from", "jamie", "mcintyre", "about", "the", "f-15", "e", "strike", "eagle.", "authorities" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "this base near the border of iraq",
+  "sentence_length" : 360,
+  "mentionArg2" : {
+    "extent" : "the border of iraq",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E35-80",
+    "start" : 325,
+    "end" : 328
+  },
+  "relationID" : "CNN_ENG_20030408_200618.14-R23",
+  "mentionArg1" : {
+    "extent" : "this base near the border of iraq",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E34-79",
+    "start" : 322,
+    "end" : 328
+  },
+  "id" : "CNN_ENG_20030408_200618.14-R23-1",
+  "relationSubType" : "Near",
+  "Sentence" : "reporter : wolf , hello to you. it was a very tense and nerve-racking day for the pilot who is stationed at this base near the iraqi border. he flies one of the a-10s behind me , the warthog attack planes. took it out early this morning. here 's what happened to him. he was going on a mission south of baghdad when he was close to his target area , all of a sudden he heard a noise. turns out it was an iraqi missile , a very likely a shoulder fired missile that hit his aircraft. he realized the plane was going to crash so he ejected. all these planes have ejection seats. the pilots carry parachutes. ejected landed in the desert south of baghdad and then he was rescued by u . s. army ground troops who were in the area. the pilot , whose name has not been released , was brought back to this base. he is in good condition with the 172nd fire squadron which is based in battle creek , michigan. but he 's a very lucky man. he 's with two other a-10s flying along with him. they , two , were hit. one came back to the base. the other we have a picture of. it landed at a base controlled by the coalition. that particular a-10 was hit in the right engine. the pilot also was able to make a safe landing and neither of those pilots were hurt. those are three planes hit today. another a-10 warthog was hit here today. that pilot was hit by at least one missile and some artillery. we have video of that plane. that plane has a role in one of the engines. stabilizer in the back of the plane. the pilot lost all flight control as she was flying back. thinking about ejecting. decided she could make it back safely. she came back to this base near the border of iraq and it 's being described as an heroic landing after she was struck by artillery missiles. course , we just heard from jamie mcintyre about the f-15 e strike eagle. authorities",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "wolf", ",", "hello", "to", "you.", "it", "was", "a", "very", "tense", "and", "nerve-racking", "day", "for", "the", "pilot", "who", "is", "stationed", "at", "this", "base", "near", "the", "iraqi", "border.", "he", "flies", "one", "of", "the", "a-10s", "behind", "me", ",", "the", "warthog", "attack", "planes.", "took", "it", "out", "early", "this", "morning.", "here", "'s", "what", "happened", "to", "him.", "he", "was", "going", "on", "a", "mission", "south", "of", "baghdad", "when", "he", "was", "close", "to", "his", "target", "area", ",", "all", "of", "a", "sudden", "he", "heard", "a", "noise.", "turns", "out", "it", "was", "an", "iraqi", "missile", ",", "a", "very", "likely", "a", "shoulder", "fired", "missile", "that", "hit", "his", "aircraft.", "he", "realized", "the", "plane", "was", "going", "to", "crash", "so", "he", "ejected.", "all", "these", "planes", "have", "ejection", "seats.", "the", "pilots", "carry", "parachutes.", "ejected", "landed", "in", "the", "desert", "south", "of", "baghdad", "and", "then", "he", "was", "rescued", "by", "u", ".", "s.", "army", "ground", "troops", "who", "were", "in", "the", "area.", "the", "pilot", ",", "whose", "name", "has", "not", "been", "released", ",", "was", "brought", "back", "to", "this", "base.", "he", "is", "in", "good", "condition", "with", "the", "172nd", "fire", "squadron", "which", "is", "based", "in", "battle", "creek", ",", "michigan.", "but", "he", "'s", "a", "very", "lucky", "man.", "he", "'s", "with", "two", "other", "a-10s", "flying", "along", "with", "him.", "they", ",", "two", ",", "were", "hit.", "one", "came", "back", "to", "the", "base.", "the", "other", "we", "have", "a", "picture", "of.", "it", "landed", "at", "a", "base", "controlled", "by", "the", "coalition.", "that", "particular", "a-10", "was", "hit", "in", "the", "right", "engine.", "the", "pilot", "also", "was", "able", "to", "make", "a", "safe", "landing", "and", "neither", "of", "those", "pilots", "were", "hurt.", "those", "are", "three", "planes", "hit", "today.", "another", "a-10", "warthog", "was", "hit", "here", "today.", "that", "pilot", "was", "hit", "by", "at", "least", "one", "missile", "and", "some", "artillery.", "we", "have", "video", "of", "that", "plane.", "that", "plane", "has", "a", "role", "in", "one", "of", "the", "engines.", "stabilizer", "in", "the", "back", "of", "the", "plane.", "the", "pilot", "lost", "all", "flight", "control", "as", "she", "was", "flying", "back.", "thinking", "about", "ejecting.", "decided", "she", "could", "make", "it", "back", "safely.", "she", "came", "back", "to", "this", "base", "near", "the", "border", "of", "iraq", "and", "it", "'s", "being", "described", "as", "an", "heroic", "landing", "after", "she", "was", "struck", "by", "artillery", "missiles.", "course", ",", "we", "just", "heard", "from", "jamie", "mcintyre", "about", "the", "f-15", "e", "strike", "eagle.", "authorities" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the border of iraq",
+  "sentence_length" : 360,
+  "mentionArg2" : {
+    "extent" : "iraq",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E1-81",
+    "start" : 328,
+    "end" : 328
+  },
+  "relationID" : "CNN_ENG_20030408_200618.14-R24",
+  "mentionArg1" : {
+    "extent" : "the border of iraq",
+    "argMentionid" : "CNN_ENG_20030408_200618.14-E35-80",
+    "start" : 325,
+    "end" : 328
+  },
+  "id" : "CNN_ENG_20030408_200618.14-R24-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "reporter : wolf , hello to you. it was a very tense and nerve-racking day for the pilot who is stationed at this base near the iraqi border. he flies one of the a-10s behind me , the warthog attack planes. took it out early this morning. here 's what happened to him. he was going on a mission south of baghdad when he was close to his target area , all of a sudden he heard a noise. turns out it was an iraqi missile , a very likely a shoulder fired missile that hit his aircraft. he realized the plane was going to crash so he ejected. all these planes have ejection seats. the pilots carry parachutes. ejected landed in the desert south of baghdad and then he was rescued by u . s. army ground troops who were in the area. the pilot , whose name has not been released , was brought back to this base. he is in good condition with the 172nd fire squadron which is based in battle creek , michigan. but he 's a very lucky man. he 's with two other a-10s flying along with him. they , two , were hit. one came back to the base. the other we have a picture of. it landed at a base controlled by the coalition. that particular a-10 was hit in the right engine. the pilot also was able to make a safe landing and neither of those pilots were hurt. those are three planes hit today. another a-10 warthog was hit here today. that pilot was hit by at least one missile and some artillery. we have video of that plane. that plane has a role in one of the engines. stabilizer in the back of the plane. the pilot lost all flight control as she was flying back. thinking about ejecting. decided she could make it back safely. she came back to this base near the border of iraq and it 's being described as an heroic landing after she was struck by artillery missiles. course , we just heard from jamie mcintyre about the f-15 e strike eagle. authorities",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "wolf", ",", "hello", "to", "you.", "it", "was", "a", "very", "tense", "and", "nerve-racking", "day", "for", "the", "pilot", "who", "is", "stationed", "at", "this", "base", "near", "the", "iraqi", "border.", "he", "flies", "one", "of", "the", "a-10s", "behind", "me", ",", "the", "warthog", "attack", "planes.", "took", "it", "out", "early", "this", "morning.", "here", "'s", "what", "happened", "to", "him.", "he", "was", "going", "on", "a", "mission", "south", "of", "baghdad", "when", "he", "was", "close", "to", "his", "target", "area", ",", "all", "of", "a", "sudden", "he", "heard", "a", "noise.", "turns", "out", "it", "was", "an", "iraqi", "missile", ",", "a", "very", "likely", "a", "shoulder", "fired", "missile", "that", "hit", "his", "aircraft.", "he", "realized", "the", "plane", "was", "going", "to", "crash", "so", "he", "ejected.", "all", "these", "planes", "have", "ejection", "seats.", "the", "pilots", "carry", "parachutes.", "ejected", "landed", "in", "the", "desert", "south", "of", "baghdad", "and", "then", "he", "was", "rescued", "by", "u", ".", "s.", "army", "ground", "troops", "who", "were", "in", "the", "area.", "the", "pilot", ",", "whose", "name", "has", "not", "been", "released", ",", "was", "brought", "back", "to", "this", "base.", "he", "is", "in", "good", "condition", "with", "the", "172nd", "fire", "squadron", "which", "is", "based", "in", "battle", "creek", ",", "michigan.", "but", "he", "'s", "a", "very", "lucky", "man.", "he", "'s", "with", "two", "other", "a-10s", "flying", "along", "with", "him.", "they", ",", "two", ",", "were", "hit.", "one", "came", "back", "to", "the", "base.", "the", "other", "we", "have", "a", "picture", "of.", "it", "landed", "at", "a", "base", "controlled", "by", "the", "coalition.", "that", "particular", "a-10", "was", "hit", "in", "the", "right", "engine.", "the", "pilot", "also", "was", "able", "to", "make", "a", "safe", "landing", "and", "neither", "of", "those", "pilots", "were", "hurt.", "those", "are", "three", "planes", "hit", "today.", "another", "a-10", "warthog", "was", "hit", "here", "today.", "that", "pilot", "was", "hit", "by", "at", "least", "one", "missile", "and", "some", "artillery.", "we", "have", "video", "of", "that", "plane.", "that", "plane", "has", "a", "role", "in", "one", "of", "the", "engines.", "stabilizer", "in", "the", "back", "of", "the", "plane.", "the", "pilot", "lost", "all", "flight", "control", "as", "she", "was", "flying", "back.", "thinking", "about", "ejecting.", "decided", "she", "could", "make", "it", "back", "safely.", "she", "came", "back", "to", "this", "base", "near", "the", "border", "of", "iraq", "and", "it", "'s", "being", "described", "as", "an", "heroic", "landing", "after", "she", "was", "struck", "by", "artillery", "missiles.", "course", ",", "we", "just", "heard", "from", "jamie", "mcintyre", "about", "the", "f-15", "e", "strike", "eagle.", "authorities" ]
+} ]

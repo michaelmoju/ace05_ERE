@@ -1,0 +1,155 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "tens of thousands of college and high school students",
+  "sentence_length" : 103,
+  "mentionArg2" : {
+    "extent" : "college",
+    "argMentionid" : "CNN_ENG_20030306_083604.6-E8-11",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_ENG_20030306_083604.6-R1",
+  "mentionArg1" : {
+    "extent" : "tens of thousands of college and high school students",
+    "argMentionid" : "CNN_ENG_20030306_083604.6-E7-1",
+    "start" : 0,
+    "end" : 8
+  },
+  "id" : "CNN_ENG_20030306_083604.6-R1-1",
+  "relationSubType" : "Student-Alum",
+  "Sentence" : "tens of thousands of college and high school students stage antiwar protests on campuses yesterday from coast-to-coast. california now , high school and college students there skipped class to show their opposition to a u . s.-led war with iraq. the books not bombs demonstration coored naed by the national youth and student peace coalition. record temperatures in the north. threatening right now to freeze over lake superior surface. if so , forecasters say it will be the first time there in about two decades. lake superior , the largest of the five great lakes. it does n't look too frozen there .",
+  "sentence_index" : 0,
+  "Tokens" : [ "tens", "of", "thousands", "of", "college", "and", "high", "school", "students", "stage", "antiwar", "protests", "on", "campuses", "yesterday", "from", "coast-to-coast.", "california", "now", ",", "high", "school", "and", "college", "students", "there", "skipped", "class", "to", "show", "their", "opposition", "to", "a", "u", ".", "s.-led", "war", "with", "iraq.", "the", "books", "not", "bombs", "demonstration", "coored", "naed", "by", "the", "national", "youth", "and", "student", "peace", "coalition.", "record", "temperatures", "in", "the", "north.", "threatening", "right", "now", "to", "freeze", "over", "lake", "superior", "surface.", "if", "so", ",", "forecasters", "say", "it", "will", "be", "the", "first", "time", "there", "in", "about", "two", "decades.", "lake", "superior", ",", "the", "largest", "of", "the", "five", "great", "lakes.", "it", "does", "n't", "look", "too", "frozen", "there", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "tens of thousands of college and high school students",
+  "sentence_length" : 103,
+  "mentionArg2" : {
+    "extent" : "high school",
+    "argMentionid" : "CNN_ENG_20030306_083604.6-E9-12",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNN_ENG_20030306_083604.6-R2",
+  "mentionArg1" : {
+    "extent" : "tens of thousands of college and high school students",
+    "argMentionid" : "CNN_ENG_20030306_083604.6-E7-1",
+    "start" : 0,
+    "end" : 8
+  },
+  "id" : "CNN_ENG_20030306_083604.6-R2-1",
+  "relationSubType" : "Student-Alum",
+  "Sentence" : "tens of thousands of college and high school students stage antiwar protests on campuses yesterday from coast-to-coast. california now , high school and college students there skipped class to show their opposition to a u . s.-led war with iraq. the books not bombs demonstration coored naed by the national youth and student peace coalition. record temperatures in the north. threatening right now to freeze over lake superior surface. if so , forecasters say it will be the first time there in about two decades. lake superior , the largest of the five great lakes. it does n't look too frozen there .",
+  "sentence_index" : 0,
+  "Tokens" : [ "tens", "of", "thousands", "of", "college", "and", "high", "school", "students", "stage", "antiwar", "protests", "on", "campuses", "yesterday", "from", "coast-to-coast.", "california", "now", ",", "high", "school", "and", "college", "students", "there", "skipped", "class", "to", "show", "their", "opposition", "to", "a", "u", ".", "s.-led", "war", "with", "iraq.", "the", "books", "not", "bombs", "demonstration", "coored", "naed", "by", "the", "national", "youth", "and", "student", "peace", "coalition.", "record", "temperatures", "in", "the", "north.", "threatening", "right", "now", "to", "freeze", "over", "lake", "superior", "surface.", "if", "so", ",", "forecasters", "say", "it", "will", "be", "the", "first", "time", "there", "in", "about", "two", "decades.", "lake", "superior", ",", "the", "largest", "of", "the", "five", "great", "lakes.", "it", "does", "n't", "look", "too", "frozen", "there", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "campuses yesterday from coast-to-coast",
+  "sentence_length" : 103,
+  "mentionArg2" : {
+    "extent" : "coast",
+    "argMentionid" : "CNN_ENG_20030306_083604.6-E11-14",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "CNN_ENG_20030306_083604.6-R3",
+  "mentionArg1" : {
+    "extent" : "campuses",
+    "argMentionid" : "CNN_ENG_20030306_083604.6-E10-13",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "CNN_ENG_20030306_083604.6-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "tens of thousands of college and high school students stage antiwar protests on campuses yesterday from coast-to-coast. california now , high school and college students there skipped class to show their opposition to a u . s.-led war with iraq. the books not bombs demonstration coored naed by the national youth and student peace coalition. record temperatures in the north. threatening right now to freeze over lake superior surface. if so , forecasters say it will be the first time there in about two decades. lake superior , the largest of the five great lakes. it does n't look too frozen there .",
+  "sentence_index" : 0,
+  "Tokens" : [ "tens", "of", "thousands", "of", "college", "and", "high", "school", "students", "stage", "antiwar", "protests", "on", "campuses", "yesterday", "from", "coast-to-coast.", "california", "now", ",", "high", "school", "and", "college", "students", "there", "skipped", "class", "to", "show", "their", "opposition", "to", "a", "u", ".", "s.-led", "war", "with", "iraq.", "the", "books", "not", "bombs", "demonstration", "coored", "naed", "by", "the", "national", "youth", "and", "student", "peace", "coalition.", "record", "temperatures", "in", "the", "north.", "threatening", "right", "now", "to", "freeze", "over", "lake", "superior", "surface.", "if", "so", ",", "forecasters", "say", "it", "will", "be", "the", "first", "time", "there", "in", "about", "two", "decades.", "lake", "superior", ",", "the", "largest", "of", "the", "five", "great", "lakes.", "it", "does", "n't", "look", "too", "frozen", "there", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "campuses yesterday from coast-to-coast",
+  "sentence_length" : 103,
+  "mentionArg2" : {
+    "extent" : "coast",
+    "argMentionid" : "CNN_ENG_20030306_083604.6-E11-15",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "CNN_ENG_20030306_083604.6-R3",
+  "mentionArg1" : {
+    "extent" : "campuses",
+    "argMentionid" : "CNN_ENG_20030306_083604.6-E10-13",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "CNN_ENG_20030306_083604.6-R3-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "tens of thousands of college and high school students stage antiwar protests on campuses yesterday from coast-to-coast. california now , high school and college students there skipped class to show their opposition to a u . s.-led war with iraq. the books not bombs demonstration coored naed by the national youth and student peace coalition. record temperatures in the north. threatening right now to freeze over lake superior surface. if so , forecasters say it will be the first time there in about two decades. lake superior , the largest of the five great lakes. it does n't look too frozen there .",
+  "sentence_index" : 0,
+  "Tokens" : [ "tens", "of", "thousands", "of", "college", "and", "high", "school", "students", "stage", "antiwar", "protests", "on", "campuses", "yesterday", "from", "coast-to-coast.", "california", "now", ",", "high", "school", "and", "college", "students", "there", "skipped", "class", "to", "show", "their", "opposition", "to", "a", "u", ".", "s.-led", "war", "with", "iraq.", "the", "books", "not", "bombs", "demonstration", "coored", "naed", "by", "the", "national", "youth", "and", "student", "peace", "coalition.", "record", "temperatures", "in", "the", "north.", "threatening", "right", "now", "to", "freeze", "over", "lake", "superior", "surface.", "if", "so", ",", "forecasters", "say", "it", "will", "be", "the", "first", "time", "there", "in", "about", "two", "decades.", "lake", "superior", ",", "the", "largest", "of", "the", "five", "great", "lakes.", "it", "does", "n't", "look", "too", "frozen", "there", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "high school and college students there",
+  "sentence_length" : 103,
+  "mentionArg2" : {
+    "extent" : "high school",
+    "argMentionid" : "CNN_ENG_20030306_083604.6-E9-18",
+    "start" : 20,
+    "end" : 21
+  },
+  "relationID" : "CNN_ENG_20030306_083604.6-R5",
+  "mentionArg1" : {
+    "extent" : "high school and college students there",
+    "argMentionid" : "CNN_ENG_20030306_083604.6-E13-17",
+    "start" : 20,
+    "end" : 25
+  },
+  "id" : "CNN_ENG_20030306_083604.6-R5-1",
+  "relationSubType" : "Student-Alum",
+  "Sentence" : "tens of thousands of college and high school students stage antiwar protests on campuses yesterday from coast-to-coast. california now , high school and college students there skipped class to show their opposition to a u . s.-led war with iraq. the books not bombs demonstration coored naed by the national youth and student peace coalition. record temperatures in the north. threatening right now to freeze over lake superior surface. if so , forecasters say it will be the first time there in about two decades. lake superior , the largest of the five great lakes. it does n't look too frozen there .",
+  "sentence_index" : 0,
+  "Tokens" : [ "tens", "of", "thousands", "of", "college", "and", "high", "school", "students", "stage", "antiwar", "protests", "on", "campuses", "yesterday", "from", "coast-to-coast.", "california", "now", ",", "high", "school", "and", "college", "students", "there", "skipped", "class", "to", "show", "their", "opposition", "to", "a", "u", ".", "s.-led", "war", "with", "iraq.", "the", "books", "not", "bombs", "demonstration", "coored", "naed", "by", "the", "national", "youth", "and", "student", "peace", "coalition.", "record", "temperatures", "in", "the", "north.", "threatening", "right", "now", "to", "freeze", "over", "lake", "superior", "surface.", "if", "so", ",", "forecasters", "say", "it", "will", "be", "the", "first", "time", "there", "in", "about", "two", "decades.", "lake", "superior", ",", "the", "largest", "of", "the", "five", "great", "lakes.", "it", "does", "n't", "look", "too", "frozen", "there", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "high school and college students there",
+  "sentence_length" : 103,
+  "mentionArg2" : {
+    "extent" : "college",
+    "argMentionid" : "CNN_ENG_20030306_083604.6-E8-19",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "CNN_ENG_20030306_083604.6-R6",
+  "mentionArg1" : {
+    "extent" : "high school and college students there",
+    "argMentionid" : "CNN_ENG_20030306_083604.6-E13-17",
+    "start" : 20,
+    "end" : 25
+  },
+  "id" : "CNN_ENG_20030306_083604.6-R6-1",
+  "relationSubType" : "Student-Alum",
+  "Sentence" : "tens of thousands of college and high school students stage antiwar protests on campuses yesterday from coast-to-coast. california now , high school and college students there skipped class to show their opposition to a u . s.-led war with iraq. the books not bombs demonstration coored naed by the national youth and student peace coalition. record temperatures in the north. threatening right now to freeze over lake superior surface. if so , forecasters say it will be the first time there in about two decades. lake superior , the largest of the five great lakes. it does n't look too frozen there .",
+  "sentence_index" : 0,
+  "Tokens" : [ "tens", "of", "thousands", "of", "college", "and", "high", "school", "students", "stage", "antiwar", "protests", "on", "campuses", "yesterday", "from", "coast-to-coast.", "california", "now", ",", "high", "school", "and", "college", "students", "there", "skipped", "class", "to", "show", "their", "opposition", "to", "a", "u", ".", "s.-led", "war", "with", "iraq.", "the", "books", "not", "bombs", "demonstration", "coored", "naed", "by", "the", "national", "youth", "and", "student", "peace", "coalition.", "record", "temperatures", "in", "the", "north.", "threatening", "right", "now", "to", "freeze", "over", "lake", "superior", "surface.", "if", "so", ",", "forecasters", "say", "it", "will", "be", "the", "first", "time", "there", "in", "about", "two", "decades.", "lake", "superior", ",", "the", "largest", "of", "the", "five", "great", "lakes.", "it", "does", "n't", "look", "too", "frozen", "there", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "california now, high school and college students there skipped class to show their opposition to a u.s.-led war with iraq",
+  "sentence_length" : 103,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "CNN_ENG_20030306_083604.6-E12-20",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "CNN_ENG_20030306_083604.6-R7",
+  "mentionArg1" : {
+    "extent" : "high school and college students there",
+    "argMentionid" : "CNN_ENG_20030306_083604.6-E13-17",
+    "start" : 20,
+    "end" : 25
+  },
+  "id" : "CNN_ENG_20030306_083604.6-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "tens of thousands of college and high school students stage antiwar protests on campuses yesterday from coast-to-coast. california now , high school and college students there skipped class to show their opposition to a u . s.-led war with iraq. the books not bombs demonstration coored naed by the national youth and student peace coalition. record temperatures in the north. threatening right now to freeze over lake superior surface. if so , forecasters say it will be the first time there in about two decades. lake superior , the largest of the five great lakes. it does n't look too frozen there .",
+  "sentence_index" : 0,
+  "Tokens" : [ "tens", "of", "thousands", "of", "college", "and", "high", "school", "students", "stage", "antiwar", "protests", "on", "campuses", "yesterday", "from", "coast-to-coast.", "california", "now", ",", "high", "school", "and", "college", "students", "there", "skipped", "class", "to", "show", "their", "opposition", "to", "a", "u", ".", "s.-led", "war", "with", "iraq.", "the", "books", "not", "bombs", "demonstration", "coored", "naed", "by", "the", "national", "youth", "and", "student", "peace", "coalition.", "record", "temperatures", "in", "the", "north.", "threatening", "right", "now", "to", "freeze", "over", "lake", "superior", "surface.", "if", "so", ",", "forecasters", "say", "it", "will", "be", "the", "first", "time", "there", "in", "about", "two", "decades.", "lake", "superior", ",", "the", "largest", "of", "the", "five", "great", "lakes.", "it", "does", "n't", "look", "too", "frozen", "there", "." ]
+} ]

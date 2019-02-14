@@ -1,0 +1,67 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "the lieutenant in miami",
+  "sentence_length" : 78,
+  "mentionArg2" : {
+    "extent" : "miami",
+    "argMentionid" : "CNN_ENG_20030612_072835.2-E13-17",
+    "start" : 53,
+    "end" : 53
+  },
+  "relationID" : "CNN_ENG_20030612_072835.2-R1",
+  "mentionArg1" : {
+    "extent" : "the lieutenant in miami",
+    "argMentionid" : "CNN_ENG_20030612_072835.2-E12-16",
+    "start" : 50,
+    "end" : 53
+  },
+  "id" : "CNN_ENG_20030612_072835.2-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "want to get to florida. a massive manhunt underway where a rapist is targeting children. dna testing has conclusively linked one man. the two most recent victims , age 11 and 13. they also believed one of those attacked in this string is age 79 as well. we talked with the lieutenant in miami and there is big time concern in the shenandoah neighborhood , southwestern portion of miami. overseas in iraq , a major operation underway .",
+  "sentence_index" : 0,
+  "Tokens" : [ "want", "to", "get", "to", "florida.", "a", "massive", "manhunt", "underway", "where", "a", "rapist", "is", "targeting", "children.", "dna", "testing", "has", "conclusively", "linked", "one", "man.", "the", "two", "most", "recent", "victims", ",", "age", "11", "and", "13.", "they", "also", "believed", "one", "of", "those", "attacked", "in", "this", "string", "is", "age", "79", "as", "well.", "we", "talked", "with", "the", "lieutenant", "in", "miami", "and", "there", "is", "big", "time", "concern", "in", "the", "shenandoah", "neighborhood", ",", "southwestern", "portion", "of", "miami.", "overseas", "in", "iraq", ",", "a", "major", "operation", "underway", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the shenandoah neighborhood, southwestern portion of miami",
+  "sentence_length" : 78,
+  "mentionArg2" : {
+    "extent" : "shenandoah",
+    "argMentionid" : "CNN_ENG_20030612_072835.2-E2-3",
+    "start" : 62,
+    "end" : 62
+  },
+  "relationID" : "CNN_ENG_20030612_072835.2-R2",
+  "mentionArg1" : {
+    "extent" : "the shenandoah neighborhood",
+    "argMentionid" : "CNN_ENG_20030612_072835.2-E3-4",
+    "start" : 61,
+    "end" : 63
+  },
+  "id" : "CNN_ENG_20030612_072835.2-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "want to get to florida. a massive manhunt underway where a rapist is targeting children. dna testing has conclusively linked one man. the two most recent victims , age 11 and 13. they also believed one of those attacked in this string is age 79 as well. we talked with the lieutenant in miami and there is big time concern in the shenandoah neighborhood , southwestern portion of miami. overseas in iraq , a major operation underway .",
+  "sentence_index" : 0,
+  "Tokens" : [ "want", "to", "get", "to", "florida.", "a", "massive", "manhunt", "underway", "where", "a", "rapist", "is", "targeting", "children.", "dna", "testing", "has", "conclusively", "linked", "one", "man.", "the", "two", "most", "recent", "victims", ",", "age", "11", "and", "13.", "they", "also", "believed", "one", "of", "those", "attacked", "in", "this", "string", "is", "age", "79", "as", "well.", "we", "talked", "with", "the", "lieutenant", "in", "miami", "and", "there", "is", "big", "time", "concern", "in", "the", "shenandoah", "neighborhood", ",", "southwestern", "portion", "of", "miami.", "overseas", "in", "iraq", ",", "a", "major", "operation", "underway", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "southwestern portion of miami",
+  "sentence_length" : 78,
+  "mentionArg2" : {
+    "extent" : "miami",
+    "argMentionid" : "CNN_ENG_20030612_072835.2-E13-1",
+    "start" : 68,
+    "end" : 68
+  },
+  "relationID" : "CNN_ENG_20030612_072835.2-R3",
+  "mentionArg1" : {
+    "extent" : "southwestern portion of miami",
+    "argMentionid" : "CNN_ENG_20030612_072835.2-E3-5",
+    "start" : 65,
+    "end" : 68
+  },
+  "id" : "CNN_ENG_20030612_072835.2-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "want to get to florida. a massive manhunt underway where a rapist is targeting children. dna testing has conclusively linked one man. the two most recent victims , age 11 and 13. they also believed one of those attacked in this string is age 79 as well. we talked with the lieutenant in miami and there is big time concern in the shenandoah neighborhood , southwestern portion of miami. overseas in iraq , a major operation underway .",
+  "sentence_index" : 0,
+  "Tokens" : [ "want", "to", "get", "to", "florida.", "a", "massive", "manhunt", "underway", "where", "a", "rapist", "is", "targeting", "children.", "dna", "testing", "has", "conclusively", "linked", "one", "man.", "the", "two", "most", "recent", "victims", ",", "age", "11", "and", "13.", "they", "also", "believed", "one", "of", "those", "attacked", "in", "this", "string", "is", "age", "79", "as", "well.", "we", "talked", "with", "the", "lieutenant", "in", "miami", "and", "there", "is", "big", "time", "concern", "in", "the", "shenandoah", "neighborhood", ",", "southwestern", "portion", "of", "miami.", "overseas", "in", "iraq", ",", "a", "major", "operation", "underway", "." ]
+} ]

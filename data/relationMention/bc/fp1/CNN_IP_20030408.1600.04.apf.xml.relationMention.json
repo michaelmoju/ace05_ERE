@@ -1,0 +1,661 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "CNN SR. ANALYST",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E103-146",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R2",
+  "mentionArg1" : {
+    "extent" : "CNN SR. ANALYST",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E102-145",
+    "start" : 7,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030408.1600.04-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "( BEGIN VIDEOTAPE ) JEFF GREENFIELD , CNN SR .",
+  "sentence_index" : 3,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "JEFF", "GREENFIELD", ",", "CNN", "SR", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Jeff Greenfield, CNN",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E103-98",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R2",
+  "mentionArg1" : {
+    "extent" : "Jeff Greenfield",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E102-97",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030408.1600.04-R2-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Jeff Greenfield , CNN , New York .",
+  "sentence_index" : 30,
+  "Tokens" : [ "Jeff", "Greenfield", ",", "CNN", ",", "New", "York", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our senior analyst",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E103-156",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R2",
+  "mentionArg1" : {
+    "extent" : "our senior analyst",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E102-159",
+    "start" : 7,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030408.1600.04-R2-3",
+  "relationSubType" : "Employment",
+  "Sentence" : "Some thoughts now on the dangers from our senior analyst , Jeff Greenfield .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Some", "thoughts", "now", "on", "the", "dangers", "from", "our", "senior", "analyst", ",", "Jeff", "Greenfield", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "an Al- Jazeera reporter",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Al- Jazeera",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E101-160",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R3",
+  "mentionArg1" : {
+    "extent" : "an Al- Jazeera reporter",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E114-161",
+    "start" : 5,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030408.1600.04-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "ANALYST ( voice-over ) When an Al- Jazeera reporter was killed today , the network charged it had been targeted by U.S. force .",
+  "sentence_index" : 4,
+  "Tokens" : [ "ANALYST", "(", "voice-over", ")", "When", "an", "Al-", "Jazeera", "reporter", "was", "killed", "today", ",", "the", "network", "charged", "it", "had", "been", "targeted", "by", "U.S.", "force", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a photographer from Reuters",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Reuters",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E9-13",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R4",
+  "mentionArg1" : {
+    "extent" : "a photographer from Reuters",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E7-11",
+    "start" : 9,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030408.1600.04-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "At a nearby hotel , two other journalists , a photographer from Reuters and another from Tele 5 Spain died , another case , CENTCOM says , of coalition forces returning fire .",
+  "sentence_index" : 6,
+  "Tokens" : [ "At", "a", "nearby", "hotel", ",", "two", "other", "journalists", ",", "a", "photographer", "from", "Reuters", "and", "another", "from", "Tele", "5", "Spain", "died", ",", "another", "case", ",", "CENTCOM", "says", ",", "of", "coalition", "forces", "returning", "fire", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "another from Tele 5 Spain",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Tele 5 Spain",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E10-14",
+    "start" : 16,
+    "end" : 18
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R5",
+  "mentionArg1" : {
+    "extent" : "another from Tele 5 Spain",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E8-12",
+    "start" : 14,
+    "end" : 18
+  },
+  "id" : "CNN_IP_20030408.1600.04-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "At a nearby hotel , two other journalists , a photographer from Reuters and another from Tele 5 Spain died , another case , CENTCOM says , of coalition forces returning fire .",
+  "sentence_index" : 6,
+  "Tokens" : [ "At", "a", "nearby", "hotel", ",", "two", "other", "journalists", ",", "a", "photographer", "from", "Reuters", "and", "another", "from", "Tele", "5", "Spain", "died", ",", "another", "case", ",", "CENTCOM", "says", ",", "of", "coalition", "forces", "returning", "fire", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "ABC News producer David Kaplan was killed by sniper fire in the Balkans in 1992",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "the Balkans",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E99-139",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R6",
+  "mentionArg1" : {
+    "extent" : "ABC News producer David Kaplan",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E44-55",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "CNN_IP_20030408.1600.04-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "ABC News producer David Kaplan was killed by sniper fire in the Balkans in 1992 .",
+  "sentence_index" : 14,
+  "Tokens" : [ "ABC", "News", "producer", "David", "Kaplan", "was", "killed", "by", "sniper", "fire", "in", "the", "Balkans", "in", "1992", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "ABC News producer David Kaplan was killed by sniper fire in the Balkans in 1992",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "the Balkans",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E99-139",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R7",
+  "mentionArg1" : {
+    "extent" : "sniper",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E46-56",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030408.1600.04-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "ABC News producer David Kaplan was killed by sniper fire in the Balkans in 1992 .",
+  "sentence_index" : 14,
+  "Tokens" : [ "ABC", "News", "producer", "David", "Kaplan", "was", "killed", "by", "sniper", "fire", "in", "the", "Balkans", "in", "1992", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Pearl was murdered by terrorists in Pakistan",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "Pakistan",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E52-64",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R8",
+  "mentionArg1" : {
+    "extent" : "Pearl",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E50-62",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_IP_20030408.1600.04-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Pearl was murdered by terrorists in Pakistan .",
+  "sentence_index" : 16,
+  "Tokens" : [ "Pearl", "was", "murdered", "by", "terrorists", "in", "Pakistan", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Central Command said, no, its forces were trading fire from a hotel where the network was housed",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "where",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E4-57",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R9",
+  "mentionArg1" : {
+    "extent" : "the network",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E101-8",
+    "start" : 15,
+    "end" : 16
+  },
+  "id" : "CNN_IP_20030408.1600.04-R9-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Central Command said , no , its forces were trading fire from a hotel where the network was housed .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Central", "Command", "said", ",", "no", ",", "its", "forces", "were", "trading", "fire", "from", "a", "hotel", "where", "the", "network", "was", "housed", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "coalition forces",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E47-52",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R10",
+  "mentionArg1" : {
+    "extent" : "coalition forces",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E11-16",
+    "start" : 28,
+    "end" : 29
+  },
+  "id" : "CNN_IP_20030408.1600.04-R10-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "At a nearby hotel , two other journalists , a photographer from Reuters and another from Tele 5 Spain died , another case , CENTCOM says , of coalition forces returning fire .",
+  "sentence_index" : 6,
+  "Tokens" : [ "At", "a", "nearby", "hotel", ",", "two", "other", "journalists", ",", "a", "photographer", "from", "Reuters", "and", "another", "from", "Tele", "5", "Spain", "died", ",", "another", "case", ",", "CENTCOM", "says", ",", "of", "coalition", "forces", "returning", "fire", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Famed World War II reporter Ernie Pyle was killed by a sniper on an island in the Pacific",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "an island in the Pacific",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E28-34",
+    "start" : 17,
+    "end" : 21
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R11",
+  "mentionArg1" : {
+    "extent" : "a sniper",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E27-33",
+    "start" : 14,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030408.1600.04-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "( voice-over ) : Famed World War II reporter Ernie Pyle was killed by a sniper on an island in the Pacific .",
+  "sentence_index" : 10,
+  "Tokens" : [ "(", "voice-over", ")", ":", "Famed", "World", "War", "II", "reporter", "Ernie", "Pyle", "was", "killed", "by", "a", "sniper", "on", "an", "island", "in", "the", "Pacific", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Washington Post\" editorial columnist",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Washington Post",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E16-22",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R12",
+  "mentionArg1" : {
+    "extent" : "Washington Post\" editorial columnist",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E15-23",
+    "start" : 8,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030408.1600.04-R12-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "And an American writer / editor , \" Washington Post \" editorial columnist Michael Kelly , was killed when his Humvee plunged into a canal while evading Iraqi fire .",
+  "sentence_index" : 8,
+  "Tokens" : [ "And", "an", "American", "writer", "/", "editor", ",", "\"", "Washington", "Post", "\"", "editorial", "columnist", "Michael", "Kelly", ",", "was", "killed", "when", "his", "Humvee", "plunged", "into", "a", "canal", "while", "evading", "Iraqi", "fire", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "his Humvee",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "his Humvee",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E19-27",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R13",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E15-25",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "CNN_IP_20030408.1600.04-R13-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "And an American writer / editor , \" Washington Post \" editorial columnist Michael Kelly , was killed when his Humvee plunged into a canal while evading Iraqi fire .",
+  "sentence_index" : 8,
+  "Tokens" : [ "And", "an", "American", "writer", "/", "editor", ",", "\"", "Washington", "Post", "\"", "editorial", "columnist", "Michael", "Kelly", ",", "was", "killed", "when", "his", "Humvee", "plunged", "into", "a", "canal", "while", "evading", "Iraqi", "fire", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "an island in the Pacific",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "the Pacific",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E29-35",
+    "start" : 20,
+    "end" : 21
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R14",
+  "mentionArg1" : {
+    "extent" : "an island in the Pacific",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E28-34",
+    "start" : 17,
+    "end" : 21
+  },
+  "id" : "CNN_IP_20030408.1600.04-R14-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "( voice-over ) : Famed World War II reporter Ernie Pyle was killed by a sniper on an island in the Pacific .",
+  "sentence_index" : 10,
+  "Tokens" : [ "(", "voice-over", ")", ":", "Famed", "World", "War", "II", "reporter", "Ernie", "Pyle", "was", "killed", "by", "a", "sniper", "on", "an", "island", "in", "the", "Pacific", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "son of the famous actor Errol Flynn",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "the famous actor Errol Flynn",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E38-47",
+    "start" : 5,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R15",
+  "mentionArg1" : {
+    "extent" : "son of the famous actor Errol Flynn",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E36-46",
+    "start" : 3,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030408.1600.04-R15-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Sean Flynn , son of the famous actor Errol Flynn , disappeared in Cambodia in 1970 .",
+  "sentence_index" : 12,
+  "Tokens" : [ "Sean", "Flynn", ",", "son", "of", "the", "famous", "actor", "Errol", "Flynn", ",", "disappeared", "in", "Cambodia", "in", "1970", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Sean Flynn, son of the famous actor Errol Flynn, disappeared in Cambodia in 1970",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Cambodia",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E40-49",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R16",
+  "mentionArg1" : {
+    "extent" : "Sean Flynn",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E36-45",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030408.1600.04-R16-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Sean Flynn , son of the famous actor Errol Flynn , disappeared in Cambodia in 1970 .",
+  "sentence_index" : 12,
+  "Tokens" : [ "Sean", "Flynn", ",", "son", "of", "the", "famous", "actor", "Errol", "Flynn", ",", "disappeared", "in", "Cambodia", "in", "1970", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "At a nearby hotel, two other journalists",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "a nearby hotel",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E5-9",
+    "start" : 1,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R17",
+  "mentionArg1" : {
+    "extent" : "two other journalists",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E6-10",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030408.1600.04-R17-1",
+  "relationSubType" : "Located",
+  "Sentence" : "At a nearby hotel , two other journalists , a photographer from Reuters and another from Tele 5 Spain died , another case , CENTCOM says , of coalition forces returning fire .",
+  "sentence_index" : 6,
+  "Tokens" : [ "At", "a", "nearby", "hotel", ",", "two", "other", "journalists", ",", "a", "photographer", "from", "Reuters", "and", "another", "from", "Tele", "5", "Spain", "died", ",", "another", "case", ",", "CENTCOM", "says", ",", "of", "coalition", "forces", "returning", "fire", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "A Kurdish journalist died in a U.S. friendly-fire accident in the north",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "the north",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E14-19",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R18",
+  "mentionArg1" : {
+    "extent" : "A Kurdish journalist",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E12-17",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030408.1600.04-R18-1",
+  "relationSubType" : "Located",
+  "Sentence" : "A Kurdish journalist died in a U.S. friendly-fire accident in the north .",
+  "sentence_index" : 7,
+  "Tokens" : [ "A", "Kurdish", "journalist", "died", "in", "a", "U.S.", "friendly-fire", "accident", "in", "the", "north", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "American troops in Iraq",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E21-67",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R19",
+  "mentionArg1" : {
+    "extent" : "American troops in Iraq",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E55-147",
+    "start" : 5,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030408.1600.04-R19-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The 600 journalists embedded with American troops in Iraq will be threatened by the same fire as the troops they are covering .",
+  "sentence_index" : 18,
+  "Tokens" : [ "The", "600", "journalists", "embedded", "with", "American", "troops", "in", "Iraq", "will", "be", "threatened", "by", "the", "same", "fire", "as", "the", "troops", "they", "are", "covering", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "CBS News President",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "CBS News",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E57-75",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R20",
+  "mentionArg1" : {
+    "extent" : "CBS News President",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E56-76",
+    "start" : 9,
+    "end" : 11
+  },
+  "id" : "CNN_IP_20030408.1600.04-R20-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "In an interview with broadcasting and cable magazine , CBS News President Andrew Heyward said of the neutrality notion -- quote -- \" It 's one of the stupidest things I 've ever heard .",
+  "sentence_index" : 24,
+  "Tokens" : [ "In", "an", "interview", "with", "broadcasting", "and", "cable", "magazine", ",", "CBS", "News", "President", "Andrew", "Heyward", "said", "of", "the", "neutrality", "notion", "--", "quote", "--", "\"", "It", "'s", "one", "of", "the", "stupidest", "things", "I", "'ve", "ever", "heard", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "American reporters",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E1-79",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R21",
+  "mentionArg1" : {
+    "extent" : "American reporters",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E61-81",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030408.1600.04-R21-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "We are American reporters , the ones with the troops . \"",
+  "sentence_index" : 26,
+  "Tokens" : [ "We", "are", "American", "reporters", ",", "the", "ones", "with", "the", "troops", ".", "\"" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Jeff Greenfield, CNN, New York",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "New York",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E75-99",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R22",
+  "mentionArg1" : {
+    "extent" : "Jeff Greenfield",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E102-97",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030408.1600.04-R22-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Jeff Greenfield , CNN , New York .",
+  "sentence_index" : 30,
+  "Tokens" : [ "Jeff", "Greenfield", ",", "CNN", ",", "New", "York", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Famed World War II reporter Ernie Pyle was killed by a sniper on an island in the Pacific",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "an island in the Pacific",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E28-34",
+    "start" : 17,
+    "end" : 21
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R24",
+  "mentionArg1" : {
+    "extent" : "Famed World War II reporter Ernie Pyle",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E24-31",
+    "start" : 4,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030408.1600.04-R24-1",
+  "relationSubType" : "Located",
+  "Sentence" : "( voice-over ) : Famed World War II reporter Ernie Pyle was killed by a sniper on an island in the Pacific .",
+  "sentence_index" : 10,
+  "Tokens" : [ "(", "voice-over", ")", ":", "Famed", "World", "War", "II", "reporter", "Ernie", "Pyle", "was", "killed", "by", "a", "sniper", "on", "an", "island", "in", "the", "Pacific", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "More than 65 journalists of many nationalities died in Southeast Asia",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "Southeast Asia",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E42-51",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R25",
+  "mentionArg1" : {
+    "extent" : "More than 65 journalists of many nationalities",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E41-50",
+    "start" : 0,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030408.1600.04-R25-1",
+  "relationSubType" : "Located",
+  "Sentence" : "More than 65 journalists of many nationalities died in Southeast Asia .",
+  "sentence_index" : 13,
+  "Tokens" : [ "More", "than", "65", "journalists", "of", "many", "nationalities", "died", "in", "Southeast", "Asia", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "himself died from a land mine in Indochina",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Indochina",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E33-41",
+    "start" : 29,
+    "end" : 29
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R26",
+  "mentionArg1" : {
+    "extent" : "himself",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E30-40",
+    "start" : 22,
+    "end" : 22
+  },
+  "id" : "CNN_IP_20030408.1600.04-R26-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Famed combat photographer Robert Capa , who took a classic photo of a fighter 's death during the Spanish Civil War , himself died from a land mine in Indochina .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Famed", "combat", "photographer", "Robert", "Capa", ",", "who", "took", "a", "classic", "photo", "of", "a", "fighter", "'s", "death", "during", "the", "Spanish", "Civil", "War", ",", "himself", "died", "from", "a", "land", "mine", "in", "Indochina", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Pearl was murdered by terrorists in Pakistan",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "Pakistan",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E52-64",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R27",
+  "mentionArg1" : {
+    "extent" : "terrorists",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E51-63",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "CNN_IP_20030408.1600.04-R27-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Pearl was murdered by terrorists in Pakistan .",
+  "sentence_index" : 16,
+  "Tokens" : [ "Pearl", "was", "murdered", "by", "terrorists", "in", "Pakistan", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "an American writer/editor",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E1-26",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R28",
+  "mentionArg1" : {
+    "extent" : "an American writer/editor",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E15-21",
+    "start" : 1,
+    "end" : 5
+  },
+  "id" : "CNN_IP_20030408.1600.04-R28-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "And an American writer / editor , \" Washington Post \" editorial columnist Michael Kelly , was killed when his Humvee plunged into a canal while evading Iraqi fire .",
+  "sentence_index" : 8,
+  "Tokens" : [ "And", "an", "American", "writer", "/", "editor", ",", "\"", "Washington", "Post", "\"", "editorial", "columnist", "Michael", "Kelly", ",", "was", "killed", "when", "his", "Humvee", "plunged", "into", "a", "canal", "while", "evading", "Iraqi", "fire", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The Wall Street Journal\"'s Danny Pearl",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "The Wall Street Journal",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E49-60",
+    "start" : 5,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R29",
+  "mentionArg1" : {
+    "extent" : "The Wall Street Journal\"'s Danny Pearl",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E50-61",
+    "start" : 5,
+    "end" : 13
+  },
+  "id" : "CNN_IP_20030408.1600.04-R29-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Sometimes reporters , like \" The Wall Street Journal \" ' s Danny Pearl , die in covering a different kind of war .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Sometimes", "reporters", ",", "like", "\"", "The", "Wall", "Street", "Journal", "\"", "'", "s", "Danny", "Pearl", ",", "die", "in", "covering", "a", "different", "kind", "of", "war", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. troops",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E1-59",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030408.1600.04-R30",
+  "mentionArg1" : {
+    "extent" : "U.S. troops",
+    "argMentionid" : "CNN_IP_20030408.1600.04-E105-142",
+    "start" : 13,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030408.1600.04-R30-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "WOODRUFF Well , the journalists ' death raise questions about the tactics of U.S. troops trying to take control of Baghdad .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WOODRUFF", "Well", ",", "the", "journalists", "'", "death", "raise", "questions", "about", "the", "tactics", "of", "U.S.", "troops", "trying", "to", "take", "control", "of", "Baghdad", "." ]
+} ]

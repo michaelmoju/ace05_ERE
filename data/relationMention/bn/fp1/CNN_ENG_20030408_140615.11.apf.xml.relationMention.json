@@ -1,0 +1,529 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "journalist held a candle light vigil in baghdad mourning the deaths of their colleagues",
+  "sentence_length" : 72,
+  "mentionArg2" : {
+    "extent" : "baghdad",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E48-77",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "CNN_ENG_20030408_140615.11-R1",
+  "mentionArg1" : {
+    "extent" : "journalist",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E24-1",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_ENG_20030408_140615.11-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "journalist held a candle light vigil in baghdad mourning the deaths of their colleagues. military fire killed three journalists in baghdad today , one an al jazeera cameraman and spanish television. al jazeera says if u . s. deliberately targeted its facilities in baghdad. the central command denies that. they say they were being used by the iraqi military. here 's how the network covered the incidents in this translated report .",
+  "sentence_index" : 0,
+  "Tokens" : [ "journalist", "held", "a", "candle", "light", "vigil", "in", "baghdad", "mourning", "the", "deaths", "of", "their", "colleagues.", "military", "fire", "killed", "three", "journalists", "in", "baghdad", "today", ",", "one", "an", "al", "jazeera", "cameraman", "and", "spanish", "television.", "al", "jazeera", "says", "if", "u", ".", "s.", "deliberately", "targeted", "its", "facilities", "in", "baghdad.", "the", "central", "command", "denies", "that.", "they", "say", "they", "were", "being", "used", "by", "the", "iraqi", "military.", "here", "'s", "how", "the", "network", "covered", "the", "incidents", "in", "this", "translated", "report", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a base for international journalists in baghdad",
+  "sentence_length" : 146,
+  "mentionArg2" : {
+    "extent" : "baghdad",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E48-48",
+    "start" : 42,
+    "end" : 42
+  },
+  "relationID" : "CNN_ENG_20030408_140615.11-R1",
+  "mentionArg1" : {
+    "extent" : "international journalists in baghdad",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E24-47",
+    "start" : 39,
+    "end" : 42
+  },
+  "id" : "CNN_ENG_20030408_140615.11-R1-2",
+  "relationSubType" : "Located",
+  "Sentence" : "that report from al jazeera through a translator , how they 're reporting this story and the two journalists who were killed today in that tank shell were killed at the palestine hotel. that 's been a base for international journalists in baghdad. both of the dead were camera men one with reporters and one with spain. three journalists were wound ned that same incident. a central command says american forces were responding to what they described as , quote , significant fire coming at them from inside the hotel. joining me here in kuwait city a journalist who knows first hand the dangers of covering war , our chief international correspondent , christian a manpower. that 's your take on what may have happened in these i understand didn't. the death of this al jazeera reporter and these two camera men. two separate locations .",
+  "sentence_index" : 2,
+  "Tokens" : [ "that", "report", "from", "al", "jazeera", "through", "a", "translator", ",", "how", "they", "'re", "reporting", "this", "story", "and", "the", "two", "journalists", "who", "were", "killed", "today", "in", "that", "tank", "shell", "were", "killed", "at", "the", "palestine", "hotel.", "that", "'s", "been", "a", "base", "for", "international", "journalists", "in", "baghdad.", "both", "of", "the", "dead", "were", "camera", "men", "one", "with", "reporters", "and", "one", "with", "spain.", "three", "journalists", "were", "wound", "ned", "that", "same", "incident.", "a", "central", "command", "says", "american", "forces", "were", "responding", "to", "what", "they", "described", "as", ",", "quote", ",", "significant", "fire", "coming", "at", "them", "from", "inside", "the", "hotel.", "joining", "me", "here", "in", "kuwait", "city", "a", "journalist", "who", "knows", "first", "hand", "the", "dangers", "of", "covering", "war", ",", "our", "chief", "international", "correspondent", ",", "christian", "a", "manpower.", "that", "'s", "your", "take", "on", "what", "may", "have", "happened", "in", "these", "i", "understand", "didn't.", "the", "death", "of", "this", "al", "jazeera", "reporter", "and", "these", "two", "camera", "men.", "two", "separate", "locations", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their colleagues",
+  "sentence_length" : 72,
+  "mentionArg2" : {
+    "extent" : "their colleagues",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E49-83",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "CNN_ENG_20030408_140615.11-R2",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E24-82",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "CNN_ENG_20030408_140615.11-R2-1",
+  "relationSubType" : "Business",
+  "Sentence" : "journalist held a candle light vigil in baghdad mourning the deaths of their colleagues. military fire killed three journalists in baghdad today , one an al jazeera cameraman and spanish television. al jazeera says if u . s. deliberately targeted its facilities in baghdad. the central command denies that. they say they were being used by the iraqi military. here 's how the network covered the incidents in this translated report .",
+  "sentence_index" : 0,
+  "Tokens" : [ "journalist", "held", "a", "candle", "light", "vigil", "in", "baghdad", "mourning", "the", "deaths", "of", "their", "colleagues.", "military", "fire", "killed", "three", "journalists", "in", "baghdad", "today", ",", "one", "an", "al", "jazeera", "cameraman", "and", "spanish", "television.", "al", "jazeera", "says", "if", "u", ".", "s.", "deliberately", "targeted", "its", "facilities", "in", "baghdad.", "the", "central", "command", "denies", "that.", "they", "say", "they", "were", "being", "used", "by", "the", "iraqi", "military.", "here", "'s", "how", "the", "network", "covered", "the", "incidents", "in", "this", "translated", "report", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "military fire killed three journalists in baghdad today, one an al jazeera cameraman and spanish television",
+  "sentence_length" : 72,
+  "mentionArg2" : {
+    "extent" : "baghdad",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E48-86",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "CNN_ENG_20030408_140615.11-R3",
+  "mentionArg1" : {
+    "extent" : "three journalists",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E51-85",
+    "start" : 17,
+    "end" : 18
+  },
+  "id" : "CNN_ENG_20030408_140615.11-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "journalist held a candle light vigil in baghdad mourning the deaths of their colleagues. military fire killed three journalists in baghdad today , one an al jazeera cameraman and spanish television. al jazeera says if u . s. deliberately targeted its facilities in baghdad. the central command denies that. they say they were being used by the iraqi military. here 's how the network covered the incidents in this translated report .",
+  "sentence_index" : 0,
+  "Tokens" : [ "journalist", "held", "a", "candle", "light", "vigil", "in", "baghdad", "mourning", "the", "deaths", "of", "their", "colleagues.", "military", "fire", "killed", "three", "journalists", "in", "baghdad", "today", ",", "one", "an", "al", "jazeera", "cameraman", "and", "spanish", "television.", "al", "jazeera", "says", "if", "u", ".", "s.", "deliberately", "targeted", "its", "facilities", "in", "baghdad.", "the", "central", "command", "denies", "that.", "they", "say", "they", "were", "being", "used", "by", "the", "iraqi", "military.", "here", "'s", "how", "the", "network", "covered", "the", "incidents", "in", "this", "translated", "report", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "an al jazeera cameraman",
+  "sentence_length" : 72,
+  "mentionArg2" : {
+    "extent" : "al jazeera",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E7-89",
+    "start" : 25,
+    "end" : 26
+  },
+  "relationID" : "CNN_ENG_20030408_140615.11-R4",
+  "mentionArg1" : {
+    "extent" : "an al jazeera cameraman",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E52-88",
+    "start" : 24,
+    "end" : 27
+  },
+  "id" : "CNN_ENG_20030408_140615.11-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "journalist held a candle light vigil in baghdad mourning the deaths of their colleagues. military fire killed three journalists in baghdad today , one an al jazeera cameraman and spanish television. al jazeera says if u . s. deliberately targeted its facilities in baghdad. the central command denies that. they say they were being used by the iraqi military. here 's how the network covered the incidents in this translated report .",
+  "sentence_index" : 0,
+  "Tokens" : [ "journalist", "held", "a", "candle", "light", "vigil", "in", "baghdad", "mourning", "the", "deaths", "of", "their", "colleagues.", "military", "fire", "killed", "three", "journalists", "in", "baghdad", "today", ",", "one", "an", "al", "jazeera", "cameraman", "and", "spanish", "television.", "al", "jazeera", "says", "if", "u", ".", "s.", "deliberately", "targeted", "its", "facilities", "in", "baghdad.", "the", "central", "command", "denies", "that.", "they", "say", "they", "were", "being", "used", "by", "the", "iraqi", "military.", "here", "'s", "how", "the", "network", "covered", "the", "incidents", "in", "this", "translated", "report", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "this al jazeera reporter",
+  "sentence_length" : 146,
+  "mentionArg2" : {
+    "extent" : "al jazeera",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E7-73",
+    "start" : 134,
+    "end" : 135
+  },
+  "relationID" : "CNN_ENG_20030408_140615.11-R4",
+  "mentionArg1" : {
+    "extent" : "this al jazeera reporter",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E52-72",
+    "start" : 133,
+    "end" : 136
+  },
+  "id" : "CNN_ENG_20030408_140615.11-R4-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "that report from al jazeera through a translator , how they 're reporting this story and the two journalists who were killed today in that tank shell were killed at the palestine hotel. that 's been a base for international journalists in baghdad. both of the dead were camera men one with reporters and one with spain. three journalists were wound ned that same incident. a central command says american forces were responding to what they described as , quote , significant fire coming at them from inside the hotel. joining me here in kuwait city a journalist who knows first hand the dangers of covering war , our chief international correspondent , christian a manpower. that 's your take on what may have happened in these i understand didn't. the death of this al jazeera reporter and these two camera men. two separate locations .",
+  "sentence_index" : 2,
+  "Tokens" : [ "that", "report", "from", "al", "jazeera", "through", "a", "translator", ",", "how", "they", "'re", "reporting", "this", "story", "and", "the", "two", "journalists", "who", "were", "killed", "today", "in", "that", "tank", "shell", "were", "killed", "at", "the", "palestine", "hotel.", "that", "'s", "been", "a", "base", "for", "international", "journalists", "in", "baghdad.", "both", "of", "the", "dead", "were", "camera", "men", "one", "with", "reporters", "and", "one", "with", "spain.", "three", "journalists", "were", "wound", "ned", "that", "same", "incident.", "a", "central", "command", "says", "american", "forces", "were", "responding", "to", "what", "they", "described", "as", ",", "quote", ",", "significant", "fire", "coming", "at", "them", "from", "inside", "the", "hotel.", "joining", "me", "here", "in", "kuwait", "city", "a", "journalist", "who", "knows", "first", "hand", "the", "dangers", "of", "covering", "war", ",", "our", "chief", "international", "correspondent", ",", "christian", "a", "manpower.", "that", "'s", "your", "take", "on", "what", "may", "have", "happened", "in", "these", "i", "understand", "didn't.", "the", "death", "of", "this", "al", "jazeera", "reporter", "and", "these", "two", "camera", "men.", "two", "separate", "locations", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "its facilities in baghdad",
+  "sentence_length" : 72,
+  "mentionArg2" : {
+    "extent" : "its facilities in baghdad",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E59-94",
+    "start" : 40,
+    "end" : 43
+  },
+  "relationID" : "CNN_ENG_20030408_140615.11-R5",
+  "mentionArg1" : {
+    "extent" : "its",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E7-93",
+    "start" : 40,
+    "end" : 40
+  },
+  "id" : "CNN_ENG_20030408_140615.11-R5-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "journalist held a candle light vigil in baghdad mourning the deaths of their colleagues. military fire killed three journalists in baghdad today , one an al jazeera cameraman and spanish television. al jazeera says if u . s. deliberately targeted its facilities in baghdad. the central command denies that. they say they were being used by the iraqi military. here 's how the network covered the incidents in this translated report .",
+  "sentence_index" : 0,
+  "Tokens" : [ "journalist", "held", "a", "candle", "light", "vigil", "in", "baghdad", "mourning", "the", "deaths", "of", "their", "colleagues.", "military", "fire", "killed", "three", "journalists", "in", "baghdad", "today", ",", "one", "an", "al", "jazeera", "cameraman", "and", "spanish", "television.", "al", "jazeera", "says", "if", "u", ".", "s.", "deliberately", "targeted", "its", "facilities", "in", "baghdad.", "the", "central", "command", "denies", "that.", "they", "say", "they", "were", "being", "used", "by", "the", "iraqi", "military.", "here", "'s", "how", "the", "network", "covered", "the", "incidents", "in", "this", "translated", "report", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the al jazeera office",
+  "sentence_length" : 145,
+  "mentionArg2" : {
+    "extent" : "the al jazeera office",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E59-10",
+    "start" : 24,
+    "end" : 27
+  },
+  "relationID" : "CNN_ENG_20030408_140615.11-R5",
+  "mentionArg1" : {
+    "extent" : "al jazeera",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E7-11",
+    "start" : 25,
+    "end" : 26
+  },
+  "id" : "CNN_ENG_20030408_140615.11-R5-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "translator : many inquiries about the developments of shelling the media positions , why in whose interest is in targeting. the interest is targeting the al jazeera office and the tanks went on shelling the office , which resultsed in the matry come of colleague from al jazeera and others. the next hit , in fact , targeted the abu dhabi office which is also very close to al jazeera surned by the u . s. forces. the third hit was targeted to the palestine hotel where many journalists are working and a hit of a photographer. a specialist , people think the events are not put the media man in face of the weapons. looking for a shelter is not easy. the u . s. and cooperation do not appreciate the city and others. everyone , in fact , is facing this threat .",
+  "sentence_index" : 1,
+  "Tokens" : [ "translator", ":", "many", "inquiries", "about", "the", "developments", "of", "shelling", "the", "media", "positions", ",", "why", "in", "whose", "interest", "is", "in", "targeting.", "the", "interest", "is", "targeting", "the", "al", "jazeera", "office", "and", "the", "tanks", "went", "on", "shelling", "the", "office", ",", "which", "resultsed", "in", "the", "matry", "come", "of", "colleague", "from", "al", "jazeera", "and", "others.", "the", "next", "hit", ",", "in", "fact", ",", "targeted", "the", "abu", "dhabi", "office", "which", "is", "also", "very", "close", "to", "al", "jazeera", "surned", "by", "the", "u", ".", "s.", "forces.", "the", "third", "hit", "was", "targeted", "to", "the", "palestine", "hotel", "where", "many", "journalists", "are", "working", "and", "a", "hit", "of", "a", "photographer.", "a", "specialist", ",", "people", "think", "the", "events", "are", "not", "put", "the", "media", "man", "in", "face", "of", "the", "weapons.", "looking", "for", "a", "shelter", "is", "not", "easy.", "the", "u", ".", "s.", "and", "cooperation", "do", "not", "appreciate", "the", "city", "and", "others.", "everyone", ",", "in", "fact", ",", "is", "facing", "this", "threat", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "its facilities in baghdad",
+  "sentence_length" : 72,
+  "mentionArg2" : {
+    "extent" : "baghdad",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E48-95",
+    "start" : 43,
+    "end" : 43
+  },
+  "relationID" : "CNN_ENG_20030408_140615.11-R6",
+  "mentionArg1" : {
+    "extent" : "its facilities in baghdad",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E59-94",
+    "start" : 40,
+    "end" : 43
+  },
+  "id" : "CNN_ENG_20030408_140615.11-R6-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "journalist held a candle light vigil in baghdad mourning the deaths of their colleagues. military fire killed three journalists in baghdad today , one an al jazeera cameraman and spanish television. al jazeera says if u . s. deliberately targeted its facilities in baghdad. the central command denies that. they say they were being used by the iraqi military. here 's how the network covered the incidents in this translated report .",
+  "sentence_index" : 0,
+  "Tokens" : [ "journalist", "held", "a", "candle", "light", "vigil", "in", "baghdad", "mourning", "the", "deaths", "of", "their", "colleagues.", "military", "fire", "killed", "three", "journalists", "in", "baghdad", "today", ",", "one", "an", "al", "jazeera", "cameraman", "and", "spanish", "television.", "al", "jazeera", "says", "if", "u", ".", "s.", "deliberately", "targeted", "its", "facilities", "in", "baghdad.", "the", "central", "command", "denies", "that.", "they", "say", "they", "were", "being", "used", "by", "the", "iraqi", "military.", "here", "'s", "how", "the", "network", "covered", "the", "incidents", "in", "this", "translated", "report", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the iraqi military",
+  "sentence_length" : 72,
+  "mentionArg2" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E3-5",
+    "start" : 57,
+    "end" : 57
+  },
+  "relationID" : "CNN_ENG_20030408_140615.11-R7",
+  "mentionArg1" : {
+    "extent" : "the iraqi military",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E2-4",
+    "start" : 56,
+    "end" : 58
+  },
+  "id" : "CNN_ENG_20030408_140615.11-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "journalist held a candle light vigil in baghdad mourning the deaths of their colleagues. military fire killed three journalists in baghdad today , one an al jazeera cameraman and spanish television. al jazeera says if u . s. deliberately targeted its facilities in baghdad. the central command denies that. they say they were being used by the iraqi military. here 's how the network covered the incidents in this translated report .",
+  "sentence_index" : 0,
+  "Tokens" : [ "journalist", "held", "a", "candle", "light", "vigil", "in", "baghdad", "mourning", "the", "deaths", "of", "their", "colleagues.", "military", "fire", "killed", "three", "journalists", "in", "baghdad", "today", ",", "one", "an", "al", "jazeera", "cameraman", "and", "spanish", "television.", "al", "jazeera", "says", "if", "u", ".", "s.", "deliberately", "targeted", "its", "facilities", "in", "baghdad.", "the", "central", "command", "denies", "that.", "they", "say", "they", "were", "being", "used", "by", "the", "iraqi", "military.", "here", "'s", "how", "the", "network", "covered", "the", "incidents", "in", "this", "translated", "report", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "they say they were being used by the iraqi military",
+  "sentence_length" : 72,
+  "mentionArg2" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E59-3",
+    "start" : 51,
+    "end" : 51
+  },
+  "relationID" : "CNN_ENG_20030408_140615.11-R8",
+  "mentionArg1" : {
+    "extent" : "the iraqi military",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E2-4",
+    "start" : 56,
+    "end" : 58
+  },
+  "id" : "CNN_ENG_20030408_140615.11-R8-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "journalist held a candle light vigil in baghdad mourning the deaths of their colleagues. military fire killed three journalists in baghdad today , one an al jazeera cameraman and spanish television. al jazeera says if u . s. deliberately targeted its facilities in baghdad. the central command denies that. they say they were being used by the iraqi military. here 's how the network covered the incidents in this translated report .",
+  "sentence_index" : 0,
+  "Tokens" : [ "journalist", "held", "a", "candle", "light", "vigil", "in", "baghdad", "mourning", "the", "deaths", "of", "their", "colleagues.", "military", "fire", "killed", "three", "journalists", "in", "baghdad", "today", ",", "one", "an", "al", "jazeera", "cameraman", "and", "spanish", "television.", "al", "jazeera", "says", "if", "u", ".", "s.", "deliberately", "targeted", "its", "facilities", "in", "baghdad.", "the", "central", "command", "denies", "that.", "they", "say", "they", "were", "being", "used", "by", "the", "iraqi", "military.", "here", "'s", "how", "the", "network", "covered", "the", "incidents", "in", "this", "translated", "report", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "colleague from al jazeera and others",
+  "sentence_length" : 145,
+  "mentionArg2" : {
+    "extent" : "al jazeera",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E7-15",
+    "start" : 46,
+    "end" : 47
+  },
+  "relationID" : "CNN_ENG_20030408_140615.11-R10",
+  "mentionArg1" : {
+    "extent" : "colleague from al jazeera and others",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E9-14",
+    "start" : 44,
+    "end" : 49
+  },
+  "id" : "CNN_ENG_20030408_140615.11-R10-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "translator : many inquiries about the developments of shelling the media positions , why in whose interest is in targeting. the interest is targeting the al jazeera office and the tanks went on shelling the office , which resultsed in the matry come of colleague from al jazeera and others. the next hit , in fact , targeted the abu dhabi office which is also very close to al jazeera surned by the u . s. forces. the third hit was targeted to the palestine hotel where many journalists are working and a hit of a photographer. a specialist , people think the events are not put the media man in face of the weapons. looking for a shelter is not easy. the u . s. and cooperation do not appreciate the city and others. everyone , in fact , is facing this threat .",
+  "sentence_index" : 1,
+  "Tokens" : [ "translator", ":", "many", "inquiries", "about", "the", "developments", "of", "shelling", "the", "media", "positions", ",", "why", "in", "whose", "interest", "is", "in", "targeting.", "the", "interest", "is", "targeting", "the", "al", "jazeera", "office", "and", "the", "tanks", "went", "on", "shelling", "the", "office", ",", "which", "resultsed", "in", "the", "matry", "come", "of", "colleague", "from", "al", "jazeera", "and", "others.", "the", "next", "hit", ",", "in", "fact", ",", "targeted", "the", "abu", "dhabi", "office", "which", "is", "also", "very", "close", "to", "al", "jazeera", "surned", "by", "the", "u", ".", "s.", "forces.", "the", "third", "hit", "was", "targeted", "to", "the", "palestine", "hotel", "where", "many", "journalists", "are", "working", "and", "a", "hit", "of", "a", "photographer.", "a", "specialist", ",", "people", "think", "the", "events", "are", "not", "put", "the", "media", "man", "in", "face", "of", "the", "weapons.", "looking", "for", "a", "shelter", "is", "not", "easy.", "the", "u", ".", "s.", "and", "cooperation", "do", "not", "appreciate", "the", "city", "and", "others.", "everyone", ",", "in", "fact", ",", "is", "facing", "this", "threat", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "colleague from al jazeera and others",
+  "sentence_length" : 145,
+  "mentionArg2" : {
+    "extent" : "others",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E10-16",
+    "start" : 49,
+    "end" : 49
+  },
+  "relationID" : "CNN_ENG_20030408_140615.11-R11",
+  "mentionArg1" : {
+    "extent" : "colleague from al jazeera and others",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E9-14",
+    "start" : 44,
+    "end" : 49
+  },
+  "id" : "CNN_ENG_20030408_140615.11-R11-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "translator : many inquiries about the developments of shelling the media positions , why in whose interest is in targeting. the interest is targeting the al jazeera office and the tanks went on shelling the office , which resultsed in the matry come of colleague from al jazeera and others. the next hit , in fact , targeted the abu dhabi office which is also very close to al jazeera surned by the u . s. forces. the third hit was targeted to the palestine hotel where many journalists are working and a hit of a photographer. a specialist , people think the events are not put the media man in face of the weapons. looking for a shelter is not easy. the u . s. and cooperation do not appreciate the city and others. everyone , in fact , is facing this threat .",
+  "sentence_index" : 1,
+  "Tokens" : [ "translator", ":", "many", "inquiries", "about", "the", "developments", "of", "shelling", "the", "media", "positions", ",", "why", "in", "whose", "interest", "is", "in", "targeting.", "the", "interest", "is", "targeting", "the", "al", "jazeera", "office", "and", "the", "tanks", "went", "on", "shelling", "the", "office", ",", "which", "resultsed", "in", "the", "matry", "come", "of", "colleague", "from", "al", "jazeera", "and", "others.", "the", "next", "hit", ",", "in", "fact", ",", "targeted", "the", "abu", "dhabi", "office", "which", "is", "also", "very", "close", "to", "al", "jazeera", "surned", "by", "the", "u", ".", "s.", "forces.", "the", "third", "hit", "was", "targeted", "to", "the", "palestine", "hotel", "where", "many", "journalists", "are", "working", "and", "a", "hit", "of", "a", "photographer.", "a", "specialist", ",", "people", "think", "the", "events", "are", "not", "put", "the", "media", "man", "in", "face", "of", "the", "weapons.", "looking", "for", "a", "shelter", "is", "not", "easy.", "the", "u", ".", "s.", "and", "cooperation", "do", "not", "appreciate", "the", "city", "and", "others.", "everyone", ",", "in", "fact", ",", "is", "facing", "this", "threat", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the abu dhabi office which is also very close to al jazeera",
+  "sentence_length" : 145,
+  "mentionArg2" : {
+    "extent" : "the abu dhabi office which is also very close to al jazeera",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E11-17",
+    "start" : 58,
+    "end" : 69
+  },
+  "relationID" : "CNN_ENG_20030408_140615.11-R12",
+  "mentionArg1" : {
+    "extent" : "abu dhabi",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E12-18",
+    "start" : 59,
+    "end" : 60
+  },
+  "id" : "CNN_ENG_20030408_140615.11-R12-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "translator : many inquiries about the developments of shelling the media positions , why in whose interest is in targeting. the interest is targeting the al jazeera office and the tanks went on shelling the office , which resultsed in the matry come of colleague from al jazeera and others. the next hit , in fact , targeted the abu dhabi office which is also very close to al jazeera surned by the u . s. forces. the third hit was targeted to the palestine hotel where many journalists are working and a hit of a photographer. a specialist , people think the events are not put the media man in face of the weapons. looking for a shelter is not easy. the u . s. and cooperation do not appreciate the city and others. everyone , in fact , is facing this threat .",
+  "sentence_index" : 1,
+  "Tokens" : [ "translator", ":", "many", "inquiries", "about", "the", "developments", "of", "shelling", "the", "media", "positions", ",", "why", "in", "whose", "interest", "is", "in", "targeting.", "the", "interest", "is", "targeting", "the", "al", "jazeera", "office", "and", "the", "tanks", "went", "on", "shelling", "the", "office", ",", "which", "resultsed", "in", "the", "matry", "come", "of", "colleague", "from", "al", "jazeera", "and", "others.", "the", "next", "hit", ",", "in", "fact", ",", "targeted", "the", "abu", "dhabi", "office", "which", "is", "also", "very", "close", "to", "al", "jazeera", "surned", "by", "the", "u", ".", "s.", "forces.", "the", "third", "hit", "was", "targeted", "to", "the", "palestine", "hotel", "where", "many", "journalists", "are", "working", "and", "a", "hit", "of", "a", "photographer.", "a", "specialist", ",", "people", "think", "the", "events", "are", "not", "put", "the", "media", "man", "in", "face", "of", "the", "weapons.", "looking", "for", "a", "shelter", "is", "not", "easy.", "the", "u", ".", "s.", "and", "cooperation", "do", "not", "appreciate", "the", "city", "and", "others.", "everyone", ",", "in", "fact", ",", "is", "facing", "this", "threat", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the u.s. forces",
+  "sentence_length" : 145,
+  "mentionArg2" : {
+    "extent" : "u.s",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E14-22",
+    "start" : 73,
+    "end" : 75
+  },
+  "relationID" : "CNN_ENG_20030408_140615.11-R13",
+  "mentionArg1" : {
+    "extent" : "the u.s. forces",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E13-21",
+    "start" : 72,
+    "end" : 76
+  },
+  "id" : "CNN_ENG_20030408_140615.11-R13-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "translator : many inquiries about the developments of shelling the media positions , why in whose interest is in targeting. the interest is targeting the al jazeera office and the tanks went on shelling the office , which resultsed in the matry come of colleague from al jazeera and others. the next hit , in fact , targeted the abu dhabi office which is also very close to al jazeera surned by the u . s. forces. the third hit was targeted to the palestine hotel where many journalists are working and a hit of a photographer. a specialist , people think the events are not put the media man in face of the weapons. looking for a shelter is not easy. the u . s. and cooperation do not appreciate the city and others. everyone , in fact , is facing this threat .",
+  "sentence_index" : 1,
+  "Tokens" : [ "translator", ":", "many", "inquiries", "about", "the", "developments", "of", "shelling", "the", "media", "positions", ",", "why", "in", "whose", "interest", "is", "in", "targeting.", "the", "interest", "is", "targeting", "the", "al", "jazeera", "office", "and", "the", "tanks", "went", "on", "shelling", "the", "office", ",", "which", "resultsed", "in", "the", "matry", "come", "of", "colleague", "from", "al", "jazeera", "and", "others.", "the", "next", "hit", ",", "in", "fact", ",", "targeted", "the", "abu", "dhabi", "office", "which", "is", "also", "very", "close", "to", "al", "jazeera", "surned", "by", "the", "u", ".", "s.", "forces.", "the", "third", "hit", "was", "targeted", "to", "the", "palestine", "hotel", "where", "many", "journalists", "are", "working", "and", "a", "hit", "of", "a", "photographer.", "a", "specialist", ",", "people", "think", "the", "events", "are", "not", "put", "the", "media", "man", "in", "face", "of", "the", "weapons.", "looking", "for", "a", "shelter", "is", "not", "easy.", "the", "u", ".", "s.", "and", "cooperation", "do", "not", "appreciate", "the", "city", "and", "others.", "everyone", ",", "in", "fact", ",", "is", "facing", "this", "threat", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "american forces",
+  "sentence_length" : 146,
+  "mentionArg2" : {
+    "extent" : "american",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E14-57",
+    "start" : 69,
+    "end" : 69
+  },
+  "relationID" : "CNN_ENG_20030408_140615.11-R13",
+  "mentionArg1" : {
+    "extent" : "american forces",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E13-56",
+    "start" : 69,
+    "end" : 70
+  },
+  "id" : "CNN_ENG_20030408_140615.11-R13-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "that report from al jazeera through a translator , how they 're reporting this story and the two journalists who were killed today in that tank shell were killed at the palestine hotel. that 's been a base for international journalists in baghdad. both of the dead were camera men one with reporters and one with spain. three journalists were wound ned that same incident. a central command says american forces were responding to what they described as , quote , significant fire coming at them from inside the hotel. joining me here in kuwait city a journalist who knows first hand the dangers of covering war , our chief international correspondent , christian a manpower. that 's your take on what may have happened in these i understand didn't. the death of this al jazeera reporter and these two camera men. two separate locations .",
+  "sentence_index" : 2,
+  "Tokens" : [ "that", "report", "from", "al", "jazeera", "through", "a", "translator", ",", "how", "they", "'re", "reporting", "this", "story", "and", "the", "two", "journalists", "who", "were", "killed", "today", "in", "that", "tank", "shell", "were", "killed", "at", "the", "palestine", "hotel.", "that", "'s", "been", "a", "base", "for", "international", "journalists", "in", "baghdad.", "both", "of", "the", "dead", "were", "camera", "men", "one", "with", "reporters", "and", "one", "with", "spain.", "three", "journalists", "were", "wound", "ned", "that", "same", "incident.", "a", "central", "command", "says", "american", "forces", "were", "responding", "to", "what", "they", "described", "as", ",", "quote", ",", "significant", "fire", "coming", "at", "them", "from", "inside", "the", "hotel.", "joining", "me", "here", "in", "kuwait", "city", "a", "journalist", "who", "knows", "first", "hand", "the", "dangers", "of", "covering", "war", ",", "our", "chief", "international", "correspondent", ",", "christian", "a", "manpower.", "that", "'s", "your", "take", "on", "what", "may", "have", "happened", "in", "these", "i", "understand", "didn't.", "the", "death", "of", "this", "al", "jazeera", "reporter", "and", "these", "two", "camera", "men.", "two", "separate", "locations", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the palestine hotel where many journalists are working",
+  "sentence_length" : 145,
+  "mentionArg2" : {
+    "extent" : "where",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E15-24",
+    "start" : 86,
+    "end" : 86
+  },
+  "relationID" : "CNN_ENG_20030408_140615.11-R14",
+  "mentionArg1" : {
+    "extent" : "many journalists",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E16-25",
+    "start" : 87,
+    "end" : 88
+  },
+  "id" : "CNN_ENG_20030408_140615.11-R14-1",
+  "relationSubType" : "Located",
+  "Sentence" : "translator : many inquiries about the developments of shelling the media positions , why in whose interest is in targeting. the interest is targeting the al jazeera office and the tanks went on shelling the office , which resultsed in the matry come of colleague from al jazeera and others. the next hit , in fact , targeted the abu dhabi office which is also very close to al jazeera surned by the u . s. forces. the third hit was targeted to the palestine hotel where many journalists are working and a hit of a photographer. a specialist , people think the events are not put the media man in face of the weapons. looking for a shelter is not easy. the u . s. and cooperation do not appreciate the city and others. everyone , in fact , is facing this threat .",
+  "sentence_index" : 1,
+  "Tokens" : [ "translator", ":", "many", "inquiries", "about", "the", "developments", "of", "shelling", "the", "media", "positions", ",", "why", "in", "whose", "interest", "is", "in", "targeting.", "the", "interest", "is", "targeting", "the", "al", "jazeera", "office", "and", "the", "tanks", "went", "on", "shelling", "the", "office", ",", "which", "resultsed", "in", "the", "matry", "come", "of", "colleague", "from", "al", "jazeera", "and", "others.", "the", "next", "hit", ",", "in", "fact", ",", "targeted", "the", "abu", "dhabi", "office", "which", "is", "also", "very", "close", "to", "al", "jazeera", "surned", "by", "the", "u", ".", "s.", "forces.", "the", "third", "hit", "was", "targeted", "to", "the", "palestine", "hotel", "where", "many", "journalists", "are", "working", "and", "a", "hit", "of", "a", "photographer.", "a", "specialist", ",", "people", "think", "the", "events", "are", "not", "put", "the", "media", "man", "in", "face", "of", "the", "weapons.", "looking", "for", "a", "shelter", "is", "not", "easy.", "the", "u", ".", "s.", "and", "cooperation", "do", "not", "appreciate", "the", "city", "and", "others.", "everyone", ",", "in", "fact", ",", "is", "facing", "this", "threat", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "that report from al jazeera through a translator, how they're reporting this story and the two journalists who were killed today in that tank shell were killed at the palestine hotel",
+  "sentence_length" : 146,
+  "mentionArg2" : {
+    "extent" : "the palestine hotel",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E15-44",
+    "start" : 30,
+    "end" : 32
+  },
+  "relationID" : "CNN_ENG_20030408_140615.11-R15",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E28-41",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "CNN_ENG_20030408_140615.11-R15-1",
+  "relationSubType" : "Located",
+  "Sentence" : "that report from al jazeera through a translator , how they 're reporting this story and the two journalists who were killed today in that tank shell were killed at the palestine hotel. that 's been a base for international journalists in baghdad. both of the dead were camera men one with reporters and one with spain. three journalists were wound ned that same incident. a central command says american forces were responding to what they described as , quote , significant fire coming at them from inside the hotel. joining me here in kuwait city a journalist who knows first hand the dangers of covering war , our chief international correspondent , christian a manpower. that 's your take on what may have happened in these i understand didn't. the death of this al jazeera reporter and these two camera men. two separate locations .",
+  "sentence_index" : 2,
+  "Tokens" : [ "that", "report", "from", "al", "jazeera", "through", "a", "translator", ",", "how", "they", "'re", "reporting", "this", "story", "and", "the", "two", "journalists", "who", "were", "killed", "today", "in", "that", "tank", "shell", "were", "killed", "at", "the", "palestine", "hotel.", "that", "'s", "been", "a", "base", "for", "international", "journalists", "in", "baghdad.", "both", "of", "the", "dead", "were", "camera", "men", "one", "with", "reporters", "and", "one", "with", "spain.", "three", "journalists", "were", "wound", "ned", "that", "same", "incident.", "a", "central", "command", "says", "american", "forces", "were", "responding", "to", "what", "they", "described", "as", ",", "quote", ",", "significant", "fire", "coming", "at", "them", "from", "inside", "the", "hotel.", "joining", "me", "here", "in", "kuwait", "city", "a", "journalist", "who", "knows", "first", "hand", "the", "dangers", "of", "covering", "war", ",", "our", "chief", "international", "correspondent", ",", "christian", "a", "manpower.", "that", "'s", "your", "take", "on", "what", "may", "have", "happened", "in", "these", "i", "understand", "didn't.", "the", "death", "of", "this", "al", "jazeera", "reporter", "and", "these", "two", "camera", "men.", "two", "separate", "locations", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a base for international journalists in baghdad",
+  "sentence_length" : 146,
+  "mentionArg2" : {
+    "extent" : "a base for international journalists in baghdad",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E15-46",
+    "start" : 36,
+    "end" : 42
+  },
+  "relationID" : "CNN_ENG_20030408_140615.11-R16",
+  "mentionArg1" : {
+    "extent" : "international journalists in baghdad",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E24-47",
+    "start" : 39,
+    "end" : 42
+  },
+  "id" : "CNN_ENG_20030408_140615.11-R16-1",
+  "relationSubType" : "Located",
+  "Sentence" : "that report from al jazeera through a translator , how they 're reporting this story and the two journalists who were killed today in that tank shell were killed at the palestine hotel. that 's been a base for international journalists in baghdad. both of the dead were camera men one with reporters and one with spain. three journalists were wound ned that same incident. a central command says american forces were responding to what they described as , quote , significant fire coming at them from inside the hotel. joining me here in kuwait city a journalist who knows first hand the dangers of covering war , our chief international correspondent , christian a manpower. that 's your take on what may have happened in these i understand didn't. the death of this al jazeera reporter and these two camera men. two separate locations .",
+  "sentence_index" : 2,
+  "Tokens" : [ "that", "report", "from", "al", "jazeera", "through", "a", "translator", ",", "how", "they", "'re", "reporting", "this", "story", "and", "the", "two", "journalists", "who", "were", "killed", "today", "in", "that", "tank", "shell", "were", "killed", "at", "the", "palestine", "hotel.", "that", "'s", "been", "a", "base", "for", "international", "journalists", "in", "baghdad.", "both", "of", "the", "dead", "were", "camera", "men", "one", "with", "reporters", "and", "one", "with", "spain.", "three", "journalists", "were", "wound", "ned", "that", "same", "incident.", "a", "central", "command", "says", "american", "forces", "were", "responding", "to", "what", "they", "described", "as", ",", "quote", ",", "significant", "fire", "coming", "at", "them", "from", "inside", "the", "hotel.", "joining", "me", "here", "in", "kuwait", "city", "a", "journalist", "who", "knows", "first", "hand", "the", "dangers", "of", "covering", "war", ",", "our", "chief", "international", "correspondent", ",", "christian", "a", "manpower.", "that", "'s", "your", "take", "on", "what", "may", "have", "happened", "in", "these", "i", "understand", "didn't.", "the", "death", "of", "this", "al", "jazeera", "reporter", "and", "these", "two", "camera", "men.", "two", "separate", "locations", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "one with spain",
+  "sentence_length" : 146,
+  "mentionArg2" : {
+    "extent" : "spain",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E56-53",
+    "start" : 56,
+    "end" : 56
+  },
+  "relationID" : "CNN_ENG_20030408_140615.11-R18",
+  "mentionArg1" : {
+    "extent" : "one with spain",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E34-52",
+    "start" : 54,
+    "end" : 56
+  },
+  "id" : "CNN_ENG_20030408_140615.11-R18-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "that report from al jazeera through a translator , how they 're reporting this story and the two journalists who were killed today in that tank shell were killed at the palestine hotel. that 's been a base for international journalists in baghdad. both of the dead were camera men one with reporters and one with spain. three journalists were wound ned that same incident. a central command says american forces were responding to what they described as , quote , significant fire coming at them from inside the hotel. joining me here in kuwait city a journalist who knows first hand the dangers of covering war , our chief international correspondent , christian a manpower. that 's your take on what may have happened in these i understand didn't. the death of this al jazeera reporter and these two camera men. two separate locations .",
+  "sentence_index" : 2,
+  "Tokens" : [ "that", "report", "from", "al", "jazeera", "through", "a", "translator", ",", "how", "they", "'re", "reporting", "this", "story", "and", "the", "two", "journalists", "who", "were", "killed", "today", "in", "that", "tank", "shell", "were", "killed", "at", "the", "palestine", "hotel.", "that", "'s", "been", "a", "base", "for", "international", "journalists", "in", "baghdad.", "both", "of", "the", "dead", "were", "camera", "men", "one", "with", "reporters", "and", "one", "with", "spain.", "three", "journalists", "were", "wound", "ned", "that", "same", "incident.", "a", "central", "command", "says", "american", "forces", "were", "responding", "to", "what", "they", "described", "as", ",", "quote", ",", "significant", "fire", "coming", "at", "them", "from", "inside", "the", "hotel.", "joining", "me", "here", "in", "kuwait", "city", "a", "journalist", "who", "knows", "first", "hand", "the", "dangers", "of", "covering", "war", ",", "our", "chief", "international", "correspondent", ",", "christian", "a", "manpower.", "that", "'s", "your", "take", "on", "what", "may", "have", "happened", "in", "these", "i", "understand", "didn't.", "the", "death", "of", "this", "al", "jazeera", "reporter", "and", "these", "two", "camera", "men.", "two", "separate", "locations", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "joining me here in kuwait city a journalist who knows first hand the dangers of covering war, our chief international correspondent, christian a manpower",
+  "sentence_length" : 146,
+  "mentionArg2" : {
+    "extent" : "kuwait city",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E38-62",
+    "start" : 94,
+    "end" : 95
+  },
+  "relationID" : "CNN_ENG_20030408_140615.11-R20",
+  "mentionArg1" : {
+    "extent" : "me",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E37-61",
+    "start" : 91,
+    "end" : 91
+  },
+  "id" : "CNN_ENG_20030408_140615.11-R20-1",
+  "relationSubType" : "Located",
+  "Sentence" : "that report from al jazeera through a translator , how they 're reporting this story and the two journalists who were killed today in that tank shell were killed at the palestine hotel. that 's been a base for international journalists in baghdad. both of the dead were camera men one with reporters and one with spain. three journalists were wound ned that same incident. a central command says american forces were responding to what they described as , quote , significant fire coming at them from inside the hotel. joining me here in kuwait city a journalist who knows first hand the dangers of covering war , our chief international correspondent , christian a manpower. that 's your take on what may have happened in these i understand didn't. the death of this al jazeera reporter and these two camera men. two separate locations .",
+  "sentence_index" : 2,
+  "Tokens" : [ "that", "report", "from", "al", "jazeera", "through", "a", "translator", ",", "how", "they", "'re", "reporting", "this", "story", "and", "the", "two", "journalists", "who", "were", "killed", "today", "in", "that", "tank", "shell", "were", "killed", "at", "the", "palestine", "hotel.", "that", "'s", "been", "a", "base", "for", "international", "journalists", "in", "baghdad.", "both", "of", "the", "dead", "were", "camera", "men", "one", "with", "reporters", "and", "one", "with", "spain.", "three", "journalists", "were", "wound", "ned", "that", "same", "incident.", "a", "central", "command", "says", "american", "forces", "were", "responding", "to", "what", "they", "described", "as", ",", "quote", ",", "significant", "fire", "coming", "at", "them", "from", "inside", "the", "hotel.", "joining", "me", "here", "in", "kuwait", "city", "a", "journalist", "who", "knows", "first", "hand", "the", "dangers", "of", "covering", "war", ",", "our", "chief", "international", "correspondent", ",", "christian", "a", "manpower.", "that", "'s", "your", "take", "on", "what", "may", "have", "happened", "in", "these", "i", "understand", "didn't.", "the", "death", "of", "this", "al", "jazeera", "reporter", "and", "these", "two", "camera", "men.", "two", "separate", "locations", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "joining me here in kuwait city a journalist who knows first hand the dangers of covering war, our chief international correspondent, christian a manpower",
+  "sentence_length" : 146,
+  "mentionArg2" : {
+    "extent" : "kuwait city",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E38-62",
+    "start" : 94,
+    "end" : 95
+  },
+  "relationID" : "CNN_ENG_20030408_140615.11-R21",
+  "mentionArg1" : {
+    "extent" : "a journalist who knows first hand the dangers of covering war",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E39-64",
+    "start" : 96,
+    "end" : 106
+  },
+  "id" : "CNN_ENG_20030408_140615.11-R21-1",
+  "relationSubType" : "Located",
+  "Sentence" : "that report from al jazeera through a translator , how they 're reporting this story and the two journalists who were killed today in that tank shell were killed at the palestine hotel. that 's been a base for international journalists in baghdad. both of the dead were camera men one with reporters and one with spain. three journalists were wound ned that same incident. a central command says american forces were responding to what they described as , quote , significant fire coming at them from inside the hotel. joining me here in kuwait city a journalist who knows first hand the dangers of covering war , our chief international correspondent , christian a manpower. that 's your take on what may have happened in these i understand didn't. the death of this al jazeera reporter and these two camera men. two separate locations .",
+  "sentence_index" : 2,
+  "Tokens" : [ "that", "report", "from", "al", "jazeera", "through", "a", "translator", ",", "how", "they", "'re", "reporting", "this", "story", "and", "the", "two", "journalists", "who", "were", "killed", "today", "in", "that", "tank", "shell", "were", "killed", "at", "the", "palestine", "hotel.", "that", "'s", "been", "a", "base", "for", "international", "journalists", "in", "baghdad.", "both", "of", "the", "dead", "were", "camera", "men", "one", "with", "reporters", "and", "one", "with", "spain.", "three", "journalists", "were", "wound", "ned", "that", "same", "incident.", "a", "central", "command", "says", "american", "forces", "were", "responding", "to", "what", "they", "described", "as", ",", "quote", ",", "significant", "fire", "coming", "at", "them", "from", "inside", "the", "hotel.", "joining", "me", "here", "in", "kuwait", "city", "a", "journalist", "who", "knows", "first", "hand", "the", "dangers", "of", "covering", "war", ",", "our", "chief", "international", "correspondent", ",", "christian", "a", "manpower.", "that", "'s", "your", "take", "on", "what", "may", "have", "happened", "in", "these", "i", "understand", "didn't.", "the", "death", "of", "this", "al", "jazeera", "reporter", "and", "these", "two", "camera", "men.", "two", "separate", "locations", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our chief international correspondent",
+  "sentence_length" : 146,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E40-66",
+    "start" : 108,
+    "end" : 108
+  },
+  "relationID" : "CNN_ENG_20030408_140615.11-R22",
+  "mentionArg1" : {
+    "extent" : "our chief international correspondent",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E39-68",
+    "start" : 108,
+    "end" : 111
+  },
+  "id" : "CNN_ENG_20030408_140615.11-R22-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "that report from al jazeera through a translator , how they 're reporting this story and the two journalists who were killed today in that tank shell were killed at the palestine hotel. that 's been a base for international journalists in baghdad. both of the dead were camera men one with reporters and one with spain. three journalists were wound ned that same incident. a central command says american forces were responding to what they described as , quote , significant fire coming at them from inside the hotel. joining me here in kuwait city a journalist who knows first hand the dangers of covering war , our chief international correspondent , christian a manpower. that 's your take on what may have happened in these i understand didn't. the death of this al jazeera reporter and these two camera men. two separate locations .",
+  "sentence_index" : 2,
+  "Tokens" : [ "that", "report", "from", "al", "jazeera", "through", "a", "translator", ",", "how", "they", "'re", "reporting", "this", "story", "and", "the", "two", "journalists", "who", "were", "killed", "today", "in", "that", "tank", "shell", "were", "killed", "at", "the", "palestine", "hotel.", "that", "'s", "been", "a", "base", "for", "international", "journalists", "in", "baghdad.", "both", "of", "the", "dead", "were", "camera", "men", "one", "with", "reporters", "and", "one", "with", "spain.", "three", "journalists", "were", "wound", "ned", "that", "same", "incident.", "a", "central", "command", "says", "american", "forces", "were", "responding", "to", "what", "they", "described", "as", ",", "quote", ",", "significant", "fire", "coming", "at", "them", "from", "inside", "the", "hotel.", "joining", "me", "here", "in", "kuwait", "city", "a", "journalist", "who", "knows", "first", "hand", "the", "dangers", "of", "covering", "war", ",", "our", "chief", "international", "correspondent", ",", "christian", "a", "manpower.", "that", "'s", "your", "take", "on", "what", "may", "have", "happened", "in", "these", "i", "understand", "didn't.", "the", "death", "of", "this", "al", "jazeera", "reporter", "and", "these", "two", "camera", "men.", "two", "separate", "locations", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the military spokesmen",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "military",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E47-81",
+    "start" : 30,
+    "end" : 30
+  },
+  "relationID" : "CNN_ENG_20030408_140615.11-R24",
+  "mentionArg1" : {
+    "extent" : "the military spokesmen",
+    "argMentionid" : "CNN_ENG_20030408_140615.11-E46-80",
+    "start" : 29,
+    "end" : 31
+  },
+  "id" : "CNN_ENG_20030408_140615.11-R24-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "separate but close. i think it 's bearing an investigation , first what happened and why they were hit. secondly t pentagon has been essentially all over the place. the military spokesmen have been all over the map in",
+  "sentence_index" : 3,
+  "Tokens" : [ "separate", "but", "close.", "i", "think", "it", "'s", "bearing", "an", "investigation", ",", "first", "what", "happened", "and", "why", "they", "were", "hit.", "secondly", "t", "pentagon", "has", "been", "essentially", "all", "over", "the", "place.", "the", "military", "spokesmen", "have", "been", "all", "over", "the", "map", "in" ]
+} ]

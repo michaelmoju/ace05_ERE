@@ -1,0 +1,45 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "a southwest Virginia grandmother",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "southwest Virginia",
+    "argMentionid" : "BACONSREBELLION_20050214.0944-E8-13",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "BACONSREBELLION_20050214.0944-R1",
+  "mentionArg1" : {
+    "extent" : "a southwest Virginia grandmother",
+    "argMentionid" : "BACONSREBELLION_20050214.0944-E7-12",
+    "start" : 8,
+    "end" : 11
+  },
+  "id" : "BACONSREBELLION_20050214.0944-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Tugle was on trial for raping and killing a southwest Virginia grandmother .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Tugle", "was", "on", "trial", "for", "raping", "and", "killing", "a", "southwest", "Virginia", "grandmother", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Choir boy Tim Kaine is a political moderate informed by his Catholic beliefs",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Catholic",
+    "argMentionid" : "BACONSREBELLION_20050214.0944-E15-32",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "BACONSREBELLION_20050214.0944-R2",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "BACONSREBELLION_20050214.0944-E2-41",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "BACONSREBELLION_20050214.0944-R2-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Jim Bacon 2005-02-14T09:44:00 by Steven Sisson Choir boy Tim Kaine is a political moderate informed by his Catholic beliefs .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Jim", "Bacon", "2005-02-14T09:44:00", "by", "Steven", "Sisson", "Choir", "boy", "Tim", "Kaine", "is", "a", "political", "moderate", "informed", "by", "his", "Catholic", "beliefs", "." ]
+} ]

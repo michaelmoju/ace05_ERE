@@ -1,0 +1,397 @@
+[ {
+  "relationType" : "ART",
+  "extent" : "the Carnival Legend",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "the Carnival Legend",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E49-84",
+    "start" : 28,
+    "end" : 30
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R1",
+  "mentionArg1" : {
+    "extent" : "Carnival",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E1-2",
+    "start" : 29,
+    "end" : 29
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R1-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Howie Wed , 16 Feb 2005 19:22:33 - 0500 Re : Renewal of marriage vows on carnival cruise My wife and I were guests at a wedding on the Carnival Legend on New Years Eve 2003 .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Howie", "Wed", ",", "16", "Feb", "2005", "19:22:33", "-", "0500", "Re", ":", "Renewal", "of", "marriage", "vows", "on", "carnival", "cruise", "My", "wife", "and", "I", "were", "guests", "at", "a", "wedding", "on", "the", "Carnival", "Legend", "on", "New", "Years", "Eve", "2003", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "The bride was all decked out in her long gown and veil, groom in tux and the other wedding party all dressed to the nines",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "groom",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E16-26",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R2",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E15-25",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "The bride was all decked out in her long gown and veil , groom in tux and the other wedding party all dressed to the nines !",
+  "sentence_index" : 11,
+  "Tokens" : [ "The", "bride", "was", "all", "decked", "out", "in", "her", "long", "gown", "and", "veil", ",", "groom", "in", "tux", "and", "the", "other", "wedding", "party", "all", "dressed", "to", "the", "nines", "!" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a justice of the peace in the state of Florida",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "the state of Florida",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E11-13",
+    "start" : 14,
+    "end" : 17
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R3",
+  "mentionArg1" : {
+    "extent" : "a justice of the peace",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E10-12",
+    "start" : 8,
+    "end" : 12
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R3-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Thus , the couple was actual married by a justice of the peace in the state of Florida .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Thus", ",", "the", "couple", "was", "actual", "married", "by", "a", "justice", "of", "the", "peace", "in", "the", "state", "of", "Florida", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Although I am not certain of this, I assume that renewing your vows could actually be done while the ship was at sea, because it would not involve any legal issues",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "the ship",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E12-18",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R4",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E42-17",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R4-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Although I am not certain of this , I assume that renewing your vows could actually be done while the ship was at sea , because it would not involve any legal issues .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Although", "I", "am", "not", "certain", "of", "this", ",", "I", "assume", "that", "renewing", "your", "vows", "could", "actually", "be", "done", "while", "the", "ship", "was", "at", "sea", ",", "because", "it", "would", "not", "involve", "any", "legal", "issues", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Although I am not certain of this, I assume that renewing your vows could actually be done while the ship was at sea, because it would not involve any legal issues",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "sea",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E13-19",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R5",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E42-17",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Although I am not certain of this , I assume that renewing your vows could actually be done while the ship was at sea , because it would not involve any legal issues .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Although", "I", "am", "not", "certain", "of", "this", ",", "I", "assume", "that", "renewing", "your", "vows", "could", "actually", "be", "done", "while", "the", "ship", "was", "at", "sea", ",", "because", "it", "would", "not", "involve", "any", "legal", "issues", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "They had one of the larger lounges closed off for a private reception",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "one of the larger lounges",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E19-29",
+    "start" : 2,
+    "end" : 6
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R6",
+  "mentionArg1" : {
+    "extent" : "They",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E18-28",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R6-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "They had one of the larger lounges closed off for a private reception .",
+  "sentence_index" : 12,
+  "Tokens" : [ "They", "had", "one", "of", "the", "larger", "lounges", "closed", "off", "for", "a", "private", "reception", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "I didn't think it was allowed any more, but 30 minutes until sailing an announcement was made that all NON CRUISE guests must make their way to disembark the ship prior to sailing",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "the ship",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E22-34",
+    "start" : 30,
+    "end" : 31
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R7",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E21-33",
+    "start" : 26,
+    "end" : 26
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R7-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "I did n't think it was allowed any more , but 30 minutes until sailing an announcement was made that all NON CRUISE guests must make their way to disembark the ship prior to sailing .",
+  "sentence_index" : 13,
+  "Tokens" : [ "I", "did", "n't", "think", "it", "was", "allowed", "any", "more", ",", "but", "30", "minutes", "until", "sailing", "an", "announcement", "was", "made", "that", "all", "NON", "CRUISE", "guests", "must", "make", "their", "way", "to", "disembark", "the", "ship", "prior", "to", "sailing", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "The bride was still visible later into the evening still wearing her wedding gown on the Lido Deck",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "the Lido Deck",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E27-44",
+    "start" : 15,
+    "end" : 17
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R8",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E15-43",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R8-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The bride was still visible later into the evening still wearing her wedding gown on the Lido Deck !",
+  "sentence_index" : 16,
+  "Tokens" : [ "The", "bride", "was", "still", "visible", "later", "into", "the", "evening", "still", "wearing", "her", "wedding", "gown", "on", "the", "Lido", "Deck", "!" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "We renewed our vows on Carnival Conquest on 10/31/2004 - you need to contact Carnival wedding department and ask if they have any wedding/renewal packages available",
+  "sentence_length" : 62,
+  "mentionArg2" : {
+    "extent" : "Carnival Conquest",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E29-48",
+    "start" : 38,
+    "end" : 39
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R9",
+  "mentionArg1" : {
+    "extent" : "We",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E28-46",
+    "start" : 33,
+    "end" : 33
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R9-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Len ... durango_ ... @ alltel . net Thu , 17 Feb 2005 19:14:51 - 0500 Re : Renewal of marriage vows on carnival cruise On 16 Feb 2005 13:36:29 - 0800 , We renewed our vows on Carnival Conquest on 10/31/2004 - you need to contact Carnival wedding department and ask if they have any wedding / renewal packages available .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Len", "...", "durango_", "...", "@", "alltel", ".", "net", "Thu", ",", "17", "Feb", "2005", "19:14:51", "-", "0500", "Re", ":", "Renewal", "of", "marriage", "vows", "on", "carnival", "cruise", "On", "16", "Feb", "2005", "13:36:29", "-", "0800", ",", "We", "renewed", "our", "vows", "on", "Carnival", "Conquest", "on", "10/31/2004", "-", "you", "need", "to", "contact", "Carnival", "wedding", "department", "and", "ask", "if", "they", "have", "any", "wedding", "/", "renewal", "packages", "available", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Carnival Conquest",
+  "sentence_length" : 62,
+  "mentionArg2" : {
+    "extent" : "Carnival Conquest",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E29-48",
+    "start" : 38,
+    "end" : 39
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R10",
+  "mentionArg1" : {
+    "extent" : "Carnival",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E1-49",
+    "start" : 38,
+    "end" : 38
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R10-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Len ... durango_ ... @ alltel . net Thu , 17 Feb 2005 19:14:51 - 0500 Re : Renewal of marriage vows on carnival cruise On 16 Feb 2005 13:36:29 - 0800 , We renewed our vows on Carnival Conquest on 10/31/2004 - you need to contact Carnival wedding department and ask if they have any wedding / renewal packages available .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Len", "...", "durango_", "...", "@", "alltel", ".", "net", "Thu", ",", "17", "Feb", "2005", "19:14:51", "-", "0500", "Re", ":", "Renewal", "of", "marriage", "vows", "on", "carnival", "cruise", "On", "16", "Feb", "2005", "13:36:29", "-", "0800", ",", "We", "renewed", "our", "vows", "on", "Carnival", "Conquest", "on", "10/31/2004", "-", "you", "need", "to", "contact", "Carnival", "wedding", "department", "and", "ask", "if", "they", "have", "any", "wedding", "/", "renewal", "packages", "available", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Carnival wedding department",
+  "sentence_length" : 62,
+  "mentionArg2" : {
+    "extent" : "Carnival",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E1-50",
+    "start" : 47,
+    "end" : 47
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R11",
+  "mentionArg1" : {
+    "extent" : "Carnival wedding department",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E31-66",
+    "start" : 47,
+    "end" : 49
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R11-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Len ... durango_ ... @ alltel . net Thu , 17 Feb 2005 19:14:51 - 0500 Re : Renewal of marriage vows on carnival cruise On 16 Feb 2005 13:36:29 - 0800 , We renewed our vows on Carnival Conquest on 10/31/2004 - you need to contact Carnival wedding department and ask if they have any wedding / renewal packages available .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Len", "...", "durango_", "...", "@", "alltel", ".", "net", "Thu", ",", "17", "Feb", "2005", "19:14:51", "-", "0500", "Re", ":", "Renewal", "of", "marriage", "vows", "on", "carnival", "cruise", "On", "16", "Feb", "2005", "13:36:29", "-", "0800", ",", "We", "renewed", "our", "vows", "on", "Carnival", "Conquest", "on", "10/31/2004", "-", "you", "need", "to", "contact", "Carnival", "wedding", "department", "and", "ask", "if", "they", "have", "any", "wedding", "/", "renewal", "packages", "available", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Carnival Wedding Dept",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Carnival",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E1-67",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R11",
+  "mentionArg1" : {
+    "extent" : "Carnival Wedding Dept",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E31-65",
+    "start" : 1,
+    "end" : 3
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R11-2",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Call Carnival Wedding Dept. at 1 ( 800 ) 933-4968 or send an email to : weddi ... @ carnival . com Happy anniversary and enjoy your cruise !",
+  "sentence_index" : 22,
+  "Tokens" : [ "Call", "Carnival", "Wedding", "Dept.", "at", "1", "(", "800", ")", "933-4968", "or", "send", "an", "email", "to", ":", "weddi", "...", "@", "carnival", ".", "com", "Happy", "anniversary", "and", "enjoy", "your", "cruise", "!" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the family members traveling with us",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "us",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E28-64",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R12",
+  "mentionArg1" : {
+    "extent" : "the family members traveling with us",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E35-62",
+    "start" : 16,
+    "end" : 21
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R12-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Had a very nice ceremony with a justice of the peace and a small reception for the family members traveling with us .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Had", "a", "very", "nice", "ceremony", "with", "a", "justice", "of", "the", "peace", "and", "a", "small", "reception", "for", "the", "family", "members", "traveling", "with", "us", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the family members traveling with us",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "family",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E36-63",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R13",
+  "mentionArg1" : {
+    "extent" : "the family members traveling with us",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E35-62",
+    "start" : 16,
+    "end" : 21
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R13-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Had a very nice ceremony with a justice of the peace and a small reception for the family members traveling with us .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Had", "a", "very", "nice", "ceremony", "with", "a", "justice", "of", "the", "peace", "and", "a", "small", "reception", "for", "the", "family", "members", "traveling", "with", "us", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my wife",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "my wife",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E43-76",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R14",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E40-77",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R14-1",
+  "relationSubType" : "Family",
+  "Sentence" : "I wonder if its easier just renewing your vows as my wife has been looking for this for a while. going out on the Sensation in March for our 18th anniverary .",
+  "sentence_index" : 2,
+  "Tokens" : [ "I", "wonder", "if", "its", "easier", "just", "renewing", "your", "vows", "as", "my", "wife", "has", "been", "looking", "for", "this", "for", "a", "while.", "going", "out", "on", "the", "Sensation", "in", "March", "for", "our", "18th", "anniverary", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Mary in NC",
+  "sentence_length" : 3,
+  "mentionArg2" : {
+    "extent" : "NC",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E38-70",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R16",
+  "mentionArg1" : {
+    "extent" : "Mary",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E33-69",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R16-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Mary in NC",
+  "sentence_index" : 23,
+  "Tokens" : [ "Mary", "in", "NC" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "folks who had met the bride and groom",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "groom",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E6-7",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R17",
+  "mentionArg1" : {
+    "extent" : "the bride",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E5-6",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R17-1",
+  "relationSubType" : "Family",
+  "Sentence" : "All the guests were folks who had met the bride and groom ( an attractive young couple who were sailing alone ) virtually on cruisecritic .",
+  "sentence_index" : 4,
+  "Tokens" : [ "All", "the", "guests", "were", "folks", "who", "had", "met", "the", "bride", "and", "groom", "(", "an", "attractive", "young", "couple", "who", "were", "sailing", "alone", ")", "virtually", "on", "cruisecritic", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "guests at a wedding on the Carnival Legend",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "the Carnival Legend",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E49-84",
+    "start" : 28,
+    "end" : 30
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R18",
+  "mentionArg1" : {
+    "extent" : "guests",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E48-83",
+    "start" : 23,
+    "end" : 23
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R18-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Howie Wed , 16 Feb 2005 19:22:33 - 0500 Re : Renewal of marriage vows on carnival cruise My wife and I were guests at a wedding on the Carnival Legend on New Years Eve 2003 .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Howie", "Wed", ",", "16", "Feb", "2005", "19:22:33", "-", "0500", "Re", ":", "Renewal", "of", "marriage", "vows", "on", "carnival", "cruise", "My", "wife", "and", "I", "were", "guests", "at", "a", "wedding", "on", "the", "Carnival", "Legend", "on", "New", "Years", "Eve", "2003", "." ]
+} ]

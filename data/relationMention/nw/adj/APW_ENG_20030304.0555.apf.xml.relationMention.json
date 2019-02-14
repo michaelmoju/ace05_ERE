@@ -1,0 +1,309 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "As those discussions were taking place behind the scenes, Fleischer told reporters that Turkey would lose a proposed $15 billion aid package unless it admits troops into the country for the Iraq conflict",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "the country",
+    "argMentionid" : "APW_ENG_20030304.0555-E15-28",
+    "start" : 28,
+    "end" : 29
+  },
+  "relationID" : "APW_ENG_20030304.0555-R1",
+  "mentionArg1" : {
+    "extent" : "troops",
+    "argMentionid" : "APW_ENG_20030304.0555-E16-27",
+    "start" : 26,
+    "end" : 26
+  },
+  "id" : "APW_ENG_20030304.0555-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "As those discussions were taking place behind the scenes , Fleischer told reporters that Turkey would lose a proposed $15 billion aid package unless it admits troops into the country for the Iraq conflict .",
+  "sentence_index" : 10,
+  "Tokens" : [ "As", "those", "discussions", "were", "taking", "place", "behind", "the", "scenes", ",", "Fleischer", "told", "reporters", "that", "Turkey", "would", "lose", "a", "proposed", "$15", "billion", "aid", "package", "unless", "it", "admits", "troops", "into", "the", "country", "for", "the", "Iraq", "conflict", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "other White House officials",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "White House",
+    "argMentionid" : "APW_ENG_20030304.0555-E4-92",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030304.0555-R2",
+  "mentionArg1" : {
+    "extent" : "other White House officials",
+    "argMentionid" : "APW_ENG_20030304.0555-E42-86",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030304.0555-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Afterward , he and other White House officials said the remarks did not signal a lack of confidence in the resolution 's prospects .",
+  "sentence_index" : 25,
+  "Tokens" : [ "Afterward", ",", "he", "and", "other", "White", "House", "officials", "said", "the", "remarks", "did", "not", "signal", "a", "lack", "of", "confidence", "in", "the", "resolution", "'s", "prospects", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his advisers",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "his advisers",
+    "argMentionid" : "APW_ENG_20030304.0555-E29-56",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030304.0555-R3",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "APW_ENG_20030304.0555-E54-112",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030304.0555-R3-1",
+  "relationSubType" : "Business",
+  "Sentence" : "The comments came as President George W. Bush and his advisers looked beyond the diplomatic showdown and made plans for a public relations buildup to potential war .",
+  "sentence_index" : 3,
+  "Tokens" : [ "The", "comments", "came", "as", "President", "George", "W.", "Bush", "and", "his", "advisers", "looked", "beyond", "the", "diplomatic", "showdown", "and", "made", "plans", "for", "a", "public", "relations", "buildup", "to", "potential", "war", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iraqi leader",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030304.0555-E1-115",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030304.0555-R4",
+  "mentionArg1" : {
+    "extent" : "Iraqi leader",
+    "argMentionid" : "APW_ENG_20030304.0555-E47-102",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030304.0555-R4-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "One option under serious consideration was Bush giving Iraqi leader Saddam Hussein a final ultimatum , perhaps with a short-term deadline , in a major address next week , two senior White House officials said .",
+  "sentence_index" : 4,
+  "Tokens" : [ "One", "option", "under", "serious", "consideration", "was", "Bush", "giving", "Iraqi", "leader", "Saddam", "Hussein", "a", "final", "ultimatum", ",", "perhaps", "with", "a", "short-term", "deadline", ",", "in", "a", "major", "address", "next", "week", ",", "two", "senior", "White", "House", "officials", "said", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "two senior White House officials",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "White House",
+    "argMentionid" : "APW_ENG_20030304.0555-E4-90",
+    "start" : 31,
+    "end" : 32
+  },
+  "relationID" : "APW_ENG_20030304.0555-R5",
+  "mentionArg1" : {
+    "extent" : "two senior White House officials",
+    "argMentionid" : "APW_ENG_20030304.0555-E2-1",
+    "start" : 29,
+    "end" : 33
+  },
+  "id" : "APW_ENG_20030304.0555-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "One option under serious consideration was Bush giving Iraqi leader Saddam Hussein a final ultimatum , perhaps with a short-term deadline , in a major address next week , two senior White House officials said .",
+  "sentence_index" : 4,
+  "Tokens" : [ "One", "option", "under", "serious", "consideration", "was", "Bush", "giving", "Iraqi", "leader", "Saddam", "Hussein", "a", "final", "ultimatum", ",", "perhaps", "with", "a", "short-term", "deadline", ",", "in", "a", "major", "address", "next", "week", ",", "two", "senior", "White", "House", "officials", "said", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "many undecided council members",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "council",
+    "argMentionid" : "APW_ENG_20030304.0555-E3-10",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "APW_ENG_20030304.0555-R6",
+  "mentionArg1" : {
+    "extent" : "many undecided council members",
+    "argMentionid" : "APW_ENG_20030304.0555-E8-9",
+    "start" : 25,
+    "end" : 28
+  },
+  "id" : "APW_ENG_20030304.0555-R6-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "The United States still does n't have the nine votes needed to win approval of the resolution , according to supporters and opponents , and many undecided council members are looking for a compromise .",
+  "sentence_index" : 6,
+  "Tokens" : [ "The", "United", "States", "still", "does", "n't", "have", "the", "nine", "votes", "needed", "to", "win", "approval", "of", "the", "resolution", ",", "according", "to", "supporters", "and", "opponents", ",", "and", "many", "undecided", "council", "members", "are", "looking", "for", "a", "compromise", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Until Tuesday, the spokesman had suggested part of the package would be available to Turkey regardless of whether 62,000 American troops are allowed in the country",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Turkey",
+    "argMentionid" : "APW_ENG_20030304.0555-E15-36",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030304.0555-R7",
+  "mentionArg1" : {
+    "extent" : "62,000 American troops",
+    "argMentionid" : "APW_ENG_20030304.0555-E18-37",
+    "start" : 19,
+    "end" : 21
+  },
+  "id" : "APW_ENG_20030304.0555-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Until Tuesday , the spokesman had suggested part of the package would be available to Turkey regardless of whether 62,000 American troops are allowed in the country .",
+  "sentence_index" : 12,
+  "Tokens" : [ "Until", "Tuesday", ",", "the", "spokesman", "had", "suggested", "part", "of", "the", "package", "would", "be", "available", "to", "Turkey", "regardless", "of", "whether", "62,000", "American", "troops", "are", "allowed", "in", "the", "country", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "62,000 American troops",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "APW_ENG_20030304.0555-E4-38",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "APW_ENG_20030304.0555-R8",
+  "mentionArg1" : {
+    "extent" : "62,000 American troops",
+    "argMentionid" : "APW_ENG_20030304.0555-E18-37",
+    "start" : 19,
+    "end" : 21
+  },
+  "id" : "APW_ENG_20030304.0555-R8-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Until Tuesday , the spokesman had suggested part of the package would be available to Turkey regardless of whether 62,000 American troops are allowed in the country .",
+  "sentence_index" : 12,
+  "Tokens" : [ "Until", "Tuesday", ",", "the", "spokesman", "had", "suggested", "part", "of", "the", "package", "would", "be", "available", "to", "Turkey", "regardless", "of", "whether", "62,000", "American", "troops", "are", "allowed", "in", "the", "country", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "White House officials",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "White House",
+    "argMentionid" : "APW_ENG_20030304.0555-E4-91",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030304.0555-R9",
+  "mentionArg1" : {
+    "extent" : "White House officials",
+    "argMentionid" : "APW_ENG_20030304.0555-E20-40",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030304.0555-R9-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "White House officials said they were turning up pressure on Turkey in hopes that the parliament would grant the U.S. request on a second vote .",
+  "sentence_index" : 13,
+  "Tokens" : [ "White", "House", "officials", "said", "they", "were", "turning", "up", "pressure", "on", "Turkey", "in", "hopes", "that", "the", "parliament", "would", "grant", "the", "U.S.", "request", "on", "a", "second", "vote", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "At the United Nations, Secretary-General Kofi Annan",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "the United Nations",
+    "argMentionid" : "APW_ENG_20030304.0555-E27-93",
+    "start" : 1,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030304.0555-R10",
+  "mentionArg1" : {
+    "extent" : "Secretary-General Kofi Annan",
+    "argMentionid" : "APW_ENG_20030304.0555-E23-33",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030304.0555-R10-1",
+  "relationSubType" : "Located",
+  "Sentence" : "At the United Nations , Secretary-General Kofi Annan called Baghdad 's missile destruction `` a positive development , '' putting him at odds with Bush 's assessment .",
+  "sentence_index" : 15,
+  "Tokens" : [ "At", "the", "United", "Nations", ",", "Secretary-General", "Kofi", "Annan", "called", "Baghdad", "'s", "missile", "destruction", "``", "a", "positive", "development", ",", "''", "putting", "him", "at", "odds", "with", "Bush", "'s", "assessment", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Russia's Foreign Minister",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Russia",
+    "argMentionid" : "APW_ENG_20030304.0555-E10-51",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030304.0555-R11",
+  "mentionArg1" : {
+    "extent" : "Russia's Foreign Minister",
+    "argMentionid" : "APW_ENG_20030304.0555-E24-50",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "APW_ENG_20030304.0555-R11-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Russia 's Foreign Minister Igor Ivanov , hardening Moscow 's opposition to quick military action , indicated Russia may use its veto against the U.S.-backed resolution .",
+  "sentence_index" : 16,
+  "Tokens" : [ "Russia", "'s", "Foreign", "Minister", "Igor", "Ivanov", ",", "hardening", "Moscow", "'s", "opposition", "to", "quick", "military", "action", ",", "indicated", "Russia", "may", "use", "its", "veto", "against", "the", "U.S.-backed", "resolution", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. Ambassador",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030304.0555-E4-70",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030304.0555-R12",
+  "mentionArg1" : {
+    "extent" : "U.S. Ambassador",
+    "argMentionid" : "APW_ENG_20030304.0555-E33-69",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030304.0555-R12-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "U.S. Ambassador John Negroponte was asked whether the United States would withdraw the resolution if it did n't have the votes to pass it .",
+  "sentence_index" : 21,
+  "Tokens" : [ "U.S.", "Ambassador", "John", "Negroponte", "was", "asked", "whether", "the", "United", "States", "would", "withdraw", "the", "resolution", "if", "it", "did", "n't", "have", "the", "votes", "to", "pass", "it", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "he and other White House officials",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "other White House officials",
+    "argMentionid" : "APW_ENG_20030304.0555-E42-86",
+    "start" : 4,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030304.0555-R13",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "APW_ENG_20030304.0555-E33-95",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030304.0555-R13-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Afterward , he and other White House officials said the remarks did not signal a lack of confidence in the resolution 's prospects .",
+  "sentence_index" : 25,
+  "Tokens" : [ "Afterward", ",", "he", "and", "other", "White", "House", "officials", "said", "the", "remarks", "did", "not", "signal", "a", "lack", "of", "confidence", "in", "the", "resolution", "'s", "prospects", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a coalition of the willing",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "a coalition of the willing",
+    "argMentionid" : "APW_ENG_20030304.0555-E41-85",
+    "start" : 26,
+    "end" : 30
+  },
+  "relationID" : "APW_ENG_20030304.0555-R14",
+  "mentionArg1" : {
+    "extent" : "the willing",
+    "argMentionid" : "APW_ENG_20030304.0555-E43-87",
+    "start" : 29,
+    "end" : 30
+  },
+  "id" : "APW_ENG_20030304.0555-R14-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "`` The president has made clear , that ... whether the United Nations votes or does not vote , that we will disarm Saddam Hussein with a coalition of the willing , '' Fleischer said .",
+  "sentence_index" : 18,
+  "Tokens" : [ "``", "The", "president", "has", "made", "clear", ",", "that", "...", "whether", "the", "United", "Nations", "votes", "or", "does", "not", "vote", ",", "that", "we", "will", "disarm", "Saddam", "Hussein", "with", "a", "coalition", "of", "the", "willing", ",", "''", "Fleischer", "said", "." ]
+} ]

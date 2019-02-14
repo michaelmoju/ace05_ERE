@@ -1,0 +1,727 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "one US source",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "AFP_ENG_20030425.0408-E15-40",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R1",
+  "mentionArg1" : {
+    "extent" : "one US source",
+    "argMentionid" : "AFP_ENG_20030425.0408-E25-39",
+    "start" : 15,
+    "end" : 17
+  },
+  "id" : "AFP_ENG_20030425.0408-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "\" They said what we always knew , that they do have weapons , \" one US source said .",
+  "sentence_index" : 5,
+  "Tokens" : [ "\"", "They", "said", "what", "we", "always", "knew", ",", "that", "they", "do", "have", "weapons", ",", "\"", "one", "US", "source", "said", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "US officials",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "AFP_ENG_20030425.0408-E15-66",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R2",
+  "mentionArg1" : {
+    "extent" : "US officials",
+    "argMentionid" : "AFP_ENG_20030425.0408-E40-65",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "AFP_ENG_20030425.0408-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Despite the leaked details about the meetings , US officials publicly declined to confirm any of North Korea 's announcements , with US State Department spokesman Richard Boucher saying comments made by North Koreans \" require careful analysis . \"",
+  "sentence_index" : 11,
+  "Tokens" : [ "Despite", "the", "leaked", "details", "about", "the", "meetings", ",", "US", "officials", "publicly", "declined", "to", "confirm", "any", "of", "North", "Korea", "'s", "announcements", ",", "with", "US", "State", "Department", "spokesman", "Richard", "Boucher", "saying", "comments", "made", "by", "North", "Koreans", "\"", "require", "careful", "analysis", ".", "\"" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Kelly, the US assistant secretary for East Asia and Pacific Affairs, arrived in Seoul from Beijing Friday to brief Yoon, the foreign minister",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Seoul",
+    "argMentionid" : "AFP_ENG_20030425.0408-E12-97",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R3",
+  "mentionArg1" : {
+    "extent" : "Kelly",
+    "argMentionid" : "AFP_ENG_20030425.0408-E20-91",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "AFP_ENG_20030425.0408-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Kelly , the US assistant secretary for East Asia and Pacific Affairs , arrived in Seoul from Beijing Friday to brief Yoon , the foreign minister .",
+  "sentence_index" : 16,
+  "Tokens" : [ "Kelly", ",", "the", "US", "assistant", "secretary", "for", "East", "Asia", "and", "Pacific", "Affairs", ",", "arrived", "in", "Seoul", "from", "Beijing", "Friday", "to", "brief", "Yoon", ",", "the", "foreign", "minister", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Kelly, the US assistant secretary for East Asia and Pacific Affairs, arrived in Seoul from Beijing Friday to brief Yoon, the foreign minister",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Beijing",
+    "argMentionid" : "AFP_ENG_20030425.0408-E16-98",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R4",
+  "mentionArg1" : {
+    "extent" : "Kelly",
+    "argMentionid" : "AFP_ENG_20030425.0408-E20-91",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "AFP_ENG_20030425.0408-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Kelly , the US assistant secretary for East Asia and Pacific Affairs , arrived in Seoul from Beijing Friday to brief Yoon , the foreign minister .",
+  "sentence_index" : 16,
+  "Tokens" : [ "Kelly", ",", "the", "US", "assistant", "secretary", "for", "East", "Asia", "and", "Pacific", "Affairs", ",", "arrived", "in", "Seoul", "from", "Beijing", "Friday", "to", "brief", "Yoon", ",", "the", "foreign", "minister", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Kelly, who declined to talks to reporters here, travels to Tokyo Sunday for talks with Japanese officials",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Tokyo",
+    "argMentionid" : "AFP_ENG_20030425.0408-E66-111",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R5",
+  "mentionArg1" : {
+    "extent" : "Kelly",
+    "argMentionid" : "AFP_ENG_20030425.0408-E20-107",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "AFP_ENG_20030425.0408-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Kelly , who declined to talks to reporters here , travels to Tokyo Sunday for talks with Japanese officials .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Kelly", ",", "who", "declined", "to", "talks", "to", "reporters", "here", ",", "travels", "to", "Tokyo", "Sunday", "for", "talks", "with", "Japanese", "officials", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "A North Korean foreign ministry spokesman, quoted by the official Korean Central News Agency",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "North Korean foreign ministry",
+    "argMentionid" : "AFP_ENG_20030425.0408-E75-124",
+    "start" : 1,
+    "end" : 4
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R6",
+  "mentionArg1" : {
+    "extent" : "A North Korean foreign ministry spokesman, quoted by the official Korean Central News Agency",
+    "argMentionid" : "AFP_ENG_20030425.0408-E74-123",
+    "start" : 0,
+    "end" : 14
+  },
+  "id" : "AFP_ENG_20030425.0408-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "A North Korean foreign ministry spokesman , quoted by the official Korean Central News Agency , made no reference to the reports that North Korea had admitted to possessing nuclear weapons .",
+  "sentence_index" : 22,
+  "Tokens" : [ "A", "North", "Korean", "foreign", "ministry", "spokesman", ",", "quoted", "by", "the", "official", "Korean", "Central", "News", "Agency", ",", "made", "no", "reference", "to", "the", "reports", "that", "North", "Korea", "had", "admitted", "to", "possessing", "nuclear", "weapons", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "officials in Moscow and London",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "London",
+    "argMentionid" : "AFP_ENG_20030425.0408-E7-6",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R7",
+  "mentionArg1" : {
+    "extent" : "officials in Moscow and London",
+    "argMentionid" : "AFP_ENG_20030425.0408-E5-4",
+    "start" : 12,
+    "end" : 16
+  },
+  "id" : "AFP_ENG_20030425.0408-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "China expressed hopes that both sides would keep the dialogue alive while officials in Moscow and London called for patience in resolving the complex impasse .",
+  "sentence_index" : 2,
+  "Tokens" : [ "China", "expressed", "hopes", "that", "both", "sides", "would", "keep", "the", "dialogue", "alive", "while", "officials", "in", "Moscow", "and", "London", "called", "for", "patience", "in", "resolving", "the", "complex", "impasse", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "US allegations that North Korea admitted to possessing nuclear weapons triggered alarm across Asia Friday and prompted appeals for calm from world capitals",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "nuclear weapons",
+    "argMentionid" : "AFP_ENG_20030425.0408-E14-139",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R8",
+  "mentionArg1" : {
+    "extent" : "North Korea",
+    "argMentionid" : "AFP_ENG_20030425.0408-E1-94",
+    "start" : 10,
+    "end" : 11
+  },
+  "id" : "AFP_ENG_20030425.0408-R8-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "SEOUL , April 25 ( AFP ) US allegations that North Korea admitted to possessing nuclear weapons triggered alarm across Asia Friday and prompted appeals for calm from world capitals .",
+  "sentence_index" : 0,
+  "Tokens" : [ "SEOUL", ",", "April", "25", "(", "AFP", ")", "US", "allegations", "that", "North", "Korea", "admitted", "to", "possessing", "nuclear", "weapons", "triggered", "alarm", "across", "Asia", "Friday", "and", "prompted", "appeals", "for", "calm", "from", "world", "capitals", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "They said what we always knew, that they do have weapons,\" one US source said",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "weapons",
+    "argMentionid" : "AFP_ENG_20030425.0408-E14-16",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R8",
+  "mentionArg1" : {
+    "extent" : "They",
+    "argMentionid" : "AFP_ENG_20030425.0408-E1-33",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "AFP_ENG_20030425.0408-R8-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "\" They said what we always knew , that they do have weapons , \" one US source said .",
+  "sentence_index" : 5,
+  "Tokens" : [ "\"", "They", "said", "what", "we", "always", "knew", ",", "that", "they", "do", "have", "weapons", ",", "\"", "one", "US", "source", "said", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "If it is true that North Korea possesses nuclear weapons, this would be a major breach of peace on the Korean peninsula as well as in Northeast Asia,\" said Yoon",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "nuclear weapons",
+    "argMentionid" : "AFP_ENG_20030425.0408-E14-103",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R8",
+  "mentionArg1" : {
+    "extent" : "North Korea",
+    "argMentionid" : "AFP_ENG_20030425.0408-E1-102",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "AFP_ENG_20030425.0408-R8-3",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "\" If it is true that North Korea possesses nuclear weapons , this would be a major breach of peace on the Korean peninsula as well as in Northeast Asia , \" said Yoon .",
+  "sentence_index" : 17,
+  "Tokens" : [ "\"", "If", "it", "is", "true", "that", "North", "Korea", "possesses", "nuclear", "weapons", ",", "this", "would", "be", "a", "major", "breach", "of", "peace", "on", "the", "Korean", "peninsula", "as", "well", "as", "in", "Northeast", "Asia", ",", "\"", "said", "Yoon", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "A North Korean foreign ministry spokesman, quoted by the official Korean Central News Agency, made no reference to the reports that North Korea had admitted to possessing nuclear weapons",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "nuclear weapons",
+    "argMentionid" : "AFP_ENG_20030425.0408-E14-127",
+    "start" : 29,
+    "end" : 30
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R8",
+  "mentionArg1" : {
+    "extent" : "North Korea",
+    "argMentionid" : "AFP_ENG_20030425.0408-E1-126",
+    "start" : 23,
+    "end" : 24
+  },
+  "id" : "AFP_ENG_20030425.0408-R8-4",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "A North Korean foreign ministry spokesman , quoted by the official Korean Central News Agency , made no reference to the reports that North Korea had admitted to possessing nuclear weapons .",
+  "sentence_index" : 22,
+  "Tokens" : [ "A", "North", "Korean", "foreign", "ministry", "spokesman", ",", "quoted", "by", "the", "official", "Korean", "Central", "News", "Agency", ",", "made", "no", "reference", "to", "the", "reports", "that", "North", "Korea", "had", "admitted", "to", "possessing", "nuclear", "weapons", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "world capitals",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "world",
+    "argMentionid" : "AFP_ENG_20030425.0408-E91-156",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R9",
+  "mentionArg1" : {
+    "extent" : "world capitals",
+    "argMentionid" : "AFP_ENG_20030425.0408-E90-155",
+    "start" : 28,
+    "end" : 29
+  },
+  "id" : "AFP_ENG_20030425.0408-R9-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "SEOUL , April 25 ( AFP ) US allegations that North Korea admitted to possessing nuclear weapons triggered alarm across Asia Friday and prompted appeals for calm from world capitals .",
+  "sentence_index" : 0,
+  "Tokens" : [ "SEOUL", ",", "April", "25", "(", "AFP", ")", "US", "allegations", "that", "North", "Korea", "admitted", "to", "possessing", "nuclear", "weapons", "triggered", "alarm", "across", "Asia", "Friday", "and", "prompted", "appeals", "for", "calm", "from", "world", "capitals", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "US sources",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "AFP_ENG_20030425.0408-E15-160",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R10",
+  "mentionArg1" : {
+    "extent" : "US sources",
+    "argMentionid" : "AFP_ENG_20030425.0408-E94-159",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "AFP_ENG_20030425.0408-R10-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The admission , according to US sources , came during three-day talks in Beijing which concluded Friday , the first meeting between US and North Korean officials since the nuclear crisis erupted six months ago .",
+  "sentence_index" : 1,
+  "Tokens" : [ "The", "admission", ",", "according", "to", "US", "sources", ",", "came", "during", "three-day", "talks", "in", "Beijing", "which", "concluded", "Friday", ",", "the", "first", "meeting", "between", "US", "and", "North", "Korean", "officials", "since", "the", "nuclear", "crisis", "erupted", "six", "months", "ago", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "US and North Korean officials",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "AFP_ENG_20030425.0408-E15-164",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R11",
+  "mentionArg1" : {
+    "extent" : "US and North Korean officials",
+    "argMentionid" : "AFP_ENG_20030425.0408-E97-163",
+    "start" : 22,
+    "end" : 26
+  },
+  "id" : "AFP_ENG_20030425.0408-R11-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The admission , according to US sources , came during three-day talks in Beijing which concluded Friday , the first meeting between US and North Korean officials since the nuclear crisis erupted six months ago .",
+  "sentence_index" : 1,
+  "Tokens" : [ "The", "admission", ",", "according", "to", "US", "sources", ",", "came", "during", "three-day", "talks", "in", "Beijing", "which", "concluded", "Friday", ",", "the", "first", "meeting", "between", "US", "and", "North", "Korean", "officials", "since", "the", "nuclear", "crisis", "erupted", "six", "months", "ago", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "US and North Korean officials",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "North Korean",
+    "argMentionid" : "AFP_ENG_20030425.0408-E1-165",
+    "start" : 24,
+    "end" : 25
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R12",
+  "mentionArg1" : {
+    "extent" : "US and North Korean officials",
+    "argMentionid" : "AFP_ENG_20030425.0408-E97-163",
+    "start" : 22,
+    "end" : 26
+  },
+  "id" : "AFP_ENG_20030425.0408-R12-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The admission , according to US sources , came during three-day talks in Beijing which concluded Friday , the first meeting between US and North Korean officials since the nuclear crisis erupted six months ago .",
+  "sentence_index" : 1,
+  "Tokens" : [ "The", "admission", ",", "according", "to", "US", "sources", ",", "came", "during", "three-day", "talks", "in", "Beijing", "which", "concluded", "Friday", ",", "the", "first", "meeting", "between", "US", "and", "North", "Korean", "officials", "since", "the", "nuclear", "crisis", "erupted", "six", "months", "ago", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "officials in Moscow and London",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Moscow",
+    "argMentionid" : "AFP_ENG_20030425.0408-E6-5",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R13",
+  "mentionArg1" : {
+    "extent" : "officials in Moscow and London",
+    "argMentionid" : "AFP_ENG_20030425.0408-E5-4",
+    "start" : 12,
+    "end" : 16
+  },
+  "id" : "AFP_ENG_20030425.0408-R13-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "China expressed hopes that both sides would keep the dialogue alive while officials in Moscow and London called for patience in resolving the complex impasse .",
+  "sentence_index" : 2,
+  "Tokens" : [ "China", "expressed", "hopes", "that", "both", "sides", "would", "keep", "the", "dialogue", "alive", "while", "officials", "in", "Moscow", "and", "London", "called", "for", "patience", "in", "resolving", "the", "complex", "impasse", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Seoul Foreign Minister",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Seoul",
+    "argMentionid" : "AFP_ENG_20030425.0408-E12-11",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R14",
+  "mentionArg1" : {
+    "extent" : "Seoul Foreign Minister",
+    "argMentionid" : "AFP_ENG_20030425.0408-E10-10",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "AFP_ENG_20030425.0408-R14-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "South Korea and Japan were cautious , with Seoul Foreign Minister Yoon Young-Kwan saying if the North Koreans were telling the truth , it would represent a \" major \" threat to peace in Northeast Asia .",
+  "sentence_index" : 3,
+  "Tokens" : [ "South", "Korea", "and", "Japan", "were", "cautious", ",", "with", "Seoul", "Foreign", "Minister", "Yoon", "Young-Kwan", "saying", "if", "the", "North", "Koreans", "were", "telling", "the", "truth", ",", "it", "would", "represent", "a", "\"", "major", "\"", "threat", "to", "peace", "in", "Northeast", "Asia", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "US sources with authoritative knowledge of the Beijing meetings",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "AFP_ENG_20030425.0408-E15-17",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R15",
+  "mentionArg1" : {
+    "extent" : "US sources with authoritative knowledge of the Beijing meetings",
+    "argMentionid" : "AFP_ENG_20030425.0408-E33-13",
+    "start" : 0,
+    "end" : 8
+  },
+  "id" : "AFP_ENG_20030425.0408-R15-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "US sources with authoritative knowledge of the Beijing meetings said the head of the North Korean delegation Li Gun had confirmed to US envoy James Kelly that the Stalinist state had developed nuclear weapons and hinted it may sell or use them , depending on US actions .",
+  "sentence_index" : 4,
+  "Tokens" : [ "US", "sources", "with", "authoritative", "knowledge", "of", "the", "Beijing", "meetings", "said", "the", "head", "of", "the", "North", "Korean", "delegation", "Li", "Gun", "had", "confirmed", "to", "US", "envoy", "James", "Kelly", "that", "the", "Stalinist", "state", "had", "developed", "nuclear", "weapons", "and", "hinted", "it", "may", "sell", "or", "use", "them", ",", "depending", "on", "US", "actions", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the head of the North Korean delegation",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "the North Korean delegation",
+    "argMentionid" : "AFP_ENG_20030425.0408-E54-12",
+    "start" : 13,
+    "end" : 16
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R16",
+  "mentionArg1" : {
+    "extent" : "the head of the North Korean delegation",
+    "argMentionid" : "AFP_ENG_20030425.0408-E17-20",
+    "start" : 10,
+    "end" : 16
+  },
+  "id" : "AFP_ENG_20030425.0408-R16-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "US sources with authoritative knowledge of the Beijing meetings said the head of the North Korean delegation Li Gun had confirmed to US envoy James Kelly that the Stalinist state had developed nuclear weapons and hinted it may sell or use them , depending on US actions .",
+  "sentence_index" : 4,
+  "Tokens" : [ "US", "sources", "with", "authoritative", "knowledge", "of", "the", "Beijing", "meetings", "said", "the", "head", "of", "the", "North", "Korean", "delegation", "Li", "Gun", "had", "confirmed", "to", "US", "envoy", "James", "Kelly", "that", "the", "Stalinist", "state", "had", "developed", "nuclear", "weapons", "and", "hinted", "it", "may", "sell", "or", "use", "them", ",", "depending", "on", "US", "actions", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the North Korean delegation",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "North Korean",
+    "argMentionid" : "AFP_ENG_20030425.0408-E1-23",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R17",
+  "mentionArg1" : {
+    "extent" : "the North Korean delegation",
+    "argMentionid" : "AFP_ENG_20030425.0408-E54-12",
+    "start" : 13,
+    "end" : 16
+  },
+  "id" : "AFP_ENG_20030425.0408-R17-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "US sources with authoritative knowledge of the Beijing meetings said the head of the North Korean delegation Li Gun had confirmed to US envoy James Kelly that the Stalinist state had developed nuclear weapons and hinted it may sell or use them , depending on US actions .",
+  "sentence_index" : 4,
+  "Tokens" : [ "US", "sources", "with", "authoritative", "knowledge", "of", "the", "Beijing", "meetings", "said", "the", "head", "of", "the", "North", "Korean", "delegation", "Li", "Gun", "had", "confirmed", "to", "US", "envoy", "James", "Kelly", "that", "the", "Stalinist", "state", "had", "developed", "nuclear", "weapons", "and", "hinted", "it", "may", "sell", "or", "use", "them", ",", "depending", "on", "US", "actions", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "US envoy",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "AFP_ENG_20030425.0408-E15-26",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R18",
+  "mentionArg1" : {
+    "extent" : "US envoy",
+    "argMentionid" : "AFP_ENG_20030425.0408-E20-25",
+    "start" : 22,
+    "end" : 23
+  },
+  "id" : "AFP_ENG_20030425.0408-R18-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "US sources with authoritative knowledge of the Beijing meetings said the head of the North Korean delegation Li Gun had confirmed to US envoy James Kelly that the Stalinist state had developed nuclear weapons and hinted it may sell or use them , depending on US actions .",
+  "sentence_index" : 4,
+  "Tokens" : [ "US", "sources", "with", "authoritative", "knowledge", "of", "the", "Beijing", "meetings", "said", "the", "head", "of", "the", "North", "Korean", "delegation", "Li", "Gun", "had", "confirmed", "to", "US", "envoy", "James", "Kelly", "that", "the", "Stalinist", "state", "had", "developed", "nuclear", "weapons", "and", "hinted", "it", "may", "sell", "or", "use", "them", ",", "depending", "on", "US", "actions", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the US assistant secretary for East Asia and Pacific Affairs",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "AFP_ENG_20030425.0408-E15-93",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R18",
+  "mentionArg1" : {
+    "extent" : "the US assistant secretary for East Asia and Pacific Affairs",
+    "argMentionid" : "AFP_ENG_20030425.0408-E20-92",
+    "start" : 2,
+    "end" : 11
+  },
+  "id" : "AFP_ENG_20030425.0408-R18-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Kelly , the US assistant secretary for East Asia and Pacific Affairs , arrived in Seoul from Beijing Friday to brief Yoon , the foreign minister .",
+  "sentence_index" : 16,
+  "Tokens" : [ "Kelly", ",", "the", "US", "assistant", "secretary", "for", "East", "Asia", "and", "Pacific", "Affairs", ",", "arrived", "in", "Seoul", "from", "Beijing", "Friday", "to", "brief", "Yoon", ",", "the", "foreign", "minister", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "its Yongbyon plant",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "its Yongbyon plant",
+    "argMentionid" : "AFP_ENG_20030425.0408-E83-141",
+    "start" : 17,
+    "end" : 19
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R19",
+  "mentionArg1" : {
+    "extent" : "its",
+    "argMentionid" : "AFP_ENG_20030425.0408-E1-47",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "AFP_ENG_20030425.0408-R19-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Li also told Kelly that North Korea had gone ahead with reprocessing 8,000 spent fuel rods at its Yongbyon plant , which could produce enough weapons grade plutonium for several more nuclear bombs , said the sources who requested anonymity .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Li", "also", "told", "Kelly", "that", "North", "Korea", "had", "gone", "ahead", "with", "reprocessing", "8,000", "spent", "fuel", "rods", "at", "its", "Yongbyon", "plant", ",", "which", "could", "produce", "enough", "weapons", "grade", "plutonium", "for", "several", "more", "nuclear", "bombs", ",", "said", "the", "sources", "who", "requested", "anonymity", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "its Yongbyon plant",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "Yongbyon",
+    "argMentionid" : "AFP_ENG_20030425.0408-E29-42",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R20",
+  "mentionArg1" : {
+    "extent" : "its Yongbyon plant",
+    "argMentionid" : "AFP_ENG_20030425.0408-E83-141",
+    "start" : 17,
+    "end" : 19
+  },
+  "id" : "AFP_ENG_20030425.0408-R20-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Li also told Kelly that North Korea had gone ahead with reprocessing 8,000 spent fuel rods at its Yongbyon plant , which could produce enough weapons grade plutonium for several more nuclear bombs , said the sources who requested anonymity .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Li", "also", "told", "Kelly", "that", "North", "Korea", "had", "gone", "ahead", "with", "reprocessing", "8,000", "spent", "fuel", "rods", "at", "its", "Yongbyon", "plant", ",", "which", "could", "produce", "enough", "weapons", "grade", "plutonium", "for", "several", "more", "nuclear", "bombs", ",", "said", "the", "sources", "who", "requested", "anonymity", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "US President",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "AFP_ENG_20030425.0408-E15-57",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R21",
+  "mentionArg1" : {
+    "extent" : "US President",
+    "argMentionid" : "AFP_ENG_20030425.0408-E34-56",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "AFP_ENG_20030425.0408-R21-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "An angry US President George W. Bush accused Pyongyang of reverting to blackmail following the nuclear admission and North Korea fired back with a charge that Washington had rejected a \" bold \" plan to resolve the six-month-old impasse .",
+  "sentence_index" : 9,
+  "Tokens" : [ "An", "angry", "US", "President", "George", "W.", "Bush", "accused", "Pyongyang", "of", "reverting", "to", "blackmail", "following", "the", "nuclear", "admission", "and", "North", "Korea", "fired", "back", "with", "a", "charge", "that", "Washington", "had", "rejected", "a", "\"", "bold", "\"", "plan", "to", "resolve", "the", "six-month-old", "impasse", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "US State Department spokesman",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "US State Department",
+    "argMentionid" : "AFP_ENG_20030425.0408-E44-70",
+    "start" : 22,
+    "end" : 24
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R22",
+  "mentionArg1" : {
+    "extent" : "US State Department spokesman",
+    "argMentionid" : "AFP_ENG_20030425.0408-E42-69",
+    "start" : 22,
+    "end" : 25
+  },
+  "id" : "AFP_ENG_20030425.0408-R22-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Despite the leaked details about the meetings , US officials publicly declined to confirm any of North Korea 's announcements , with US State Department spokesman Richard Boucher saying comments made by North Koreans \" require careful analysis . \"",
+  "sentence_index" : 11,
+  "Tokens" : [ "Despite", "the", "leaked", "details", "about", "the", "meetings", ",", "US", "officials", "publicly", "declined", "to", "confirm", "any", "of", "North", "Korea", "'s", "announcements", ",", "with", "US", "State", "Department", "spokesman", "Richard", "Boucher", "saying", "comments", "made", "by", "North", "Koreans", "\"", "require", "careful", "analysis", ".", "\"" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "US State Department",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "AFP_ENG_20030425.0408-E15-71",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R23",
+  "mentionArg1" : {
+    "extent" : "US State Department",
+    "argMentionid" : "AFP_ENG_20030425.0408-E44-70",
+    "start" : 22,
+    "end" : 24
+  },
+  "id" : "AFP_ENG_20030425.0408-R23-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Despite the leaked details about the meetings , US officials publicly declined to confirm any of North Korea 's announcements , with US State Department spokesman Richard Boucher saying comments made by North Koreans \" require careful analysis . \"",
+  "sentence_index" : 11,
+  "Tokens" : [ "Despite", "the", "leaked", "details", "about", "the", "meetings", ",", "US", "officials", "publicly", "declined", "to", "confirm", "any", "of", "North", "Korea", "'s", "announcements", ",", "with", "US", "State", "Department", "spokesman", "Richard", "Boucher", "saying", "comments", "made", "by", "North", "Koreans", "\"", "require", "careful", "analysis", ".", "\"" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "A top Russian foreign ministry official",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Russian foreign ministry",
+    "argMentionid" : "AFP_ENG_20030425.0408-E82-140",
+    "start" : 2,
+    "end" : 4
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R24",
+  "mentionArg1" : {
+    "extent" : "A top Russian foreign ministry official",
+    "argMentionid" : "AFP_ENG_20030425.0408-E53-85",
+    "start" : 0,
+    "end" : 5
+  },
+  "id" : "AFP_ENG_20030425.0408-R24-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "A top Russian foreign ministry official called for patience and Britain 's Foreign Secretary Jack Straw echoed the call in a BBC radio interview .",
+  "sentence_index" : 15,
+  "Tokens" : [ "A", "top", "Russian", "foreign", "ministry", "official", "called", "for", "patience", "and", "Britain", "'s", "Foreign", "Secretary", "Jack", "Straw", "echoed", "the", "call", "in", "a", "BBC", "radio", "interview", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Russian foreign ministry",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Russian",
+    "argMentionid" : "AFP_ENG_20030425.0408-E55-86",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R28",
+  "mentionArg1" : {
+    "extent" : "Russian foreign ministry",
+    "argMentionid" : "AFP_ENG_20030425.0408-E82-140",
+    "start" : 2,
+    "end" : 4
+  },
+  "id" : "AFP_ENG_20030425.0408-R28-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "A top Russian foreign ministry official called for patience and Britain 's Foreign Secretary Jack Straw echoed the call in a BBC radio interview .",
+  "sentence_index" : 15,
+  "Tokens" : [ "A", "top", "Russian", "foreign", "ministry", "official", "called", "for", "patience", "and", "Britain", "'s", "Foreign", "Secretary", "Jack", "Straw", "echoed", "the", "call", "in", "a", "BBC", "radio", "interview", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Britain's Foreign Secretary",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Britain",
+    "argMentionid" : "AFP_ENG_20030425.0408-E58-89",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R29",
+  "mentionArg1" : {
+    "extent" : "Britain's Foreign Secretary",
+    "argMentionid" : "AFP_ENG_20030425.0408-E56-88",
+    "start" : 10,
+    "end" : 13
+  },
+  "id" : "AFP_ENG_20030425.0408-R29-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "A top Russian foreign ministry official called for patience and Britain 's Foreign Secretary Jack Straw echoed the call in a BBC radio interview .",
+  "sentence_index" : 15,
+  "Tokens" : [ "A", "top", "Russian", "foreign", "ministry", "official", "called", "for", "patience", "and", "Britain", "'s", "Foreign", "Secretary", "Jack", "Straw", "echoed", "the", "call", "in", "a", "BBC", "radio", "interview", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Japanese officials",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Japanese",
+    "argMentionid" : "AFP_ENG_20030425.0408-E9-113",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R31",
+  "mentionArg1" : {
+    "extent" : "Japanese officials",
+    "argMentionid" : "AFP_ENG_20030425.0408-E67-112",
+    "start" : 17,
+    "end" : 18
+  },
+  "id" : "AFP_ENG_20030425.0408-R31-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Kelly , who declined to talks to reporters here , travels to Tokyo Sunday for talks with Japanese officials .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Kelly", ",", "who", "declined", "to", "talks", "to", "reporters", "here", ",", "travels", "to", "Tokyo", "Sunday", "for", "talks", "with", "Japanese", "officials", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "US Secretary of State",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "AFP_ENG_20030425.0408-E15-118",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R32",
+  "mentionArg1" : {
+    "extent" : "US Secretary of State",
+    "argMentionid" : "AFP_ENG_20030425.0408-E70-116",
+    "start" : 1,
+    "end" : 4
+  },
+  "id" : "AFP_ENG_20030425.0408-R32-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "However US Secretary of State Colin Powell said the talks had featured \" strong views \" on all sides and insisted that the United States would not bow to blackmail , threats or \" bellicose statements . \"",
+  "sentence_index" : 20,
+  "Tokens" : [ "However", "US", "Secretary", "of", "State", "Colin", "Powell", "said", "the", "talks", "had", "featured", "\"", "strong", "views", "\"", "on", "all", "sides", "and", "insisted", "that", "the", "United", "States", "would", "not", "bow", "to", "blackmail", ",", "threats", "or", "\"", "bellicose", "statements", ".", "\"" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "North Korean foreign ministry",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "North Korean",
+    "argMentionid" : "AFP_ENG_20030425.0408-E1-125",
+    "start" : 1,
+    "end" : 2
+  },
+  "relationID" : "AFP_ENG_20030425.0408-R33",
+  "mentionArg1" : {
+    "extent" : "North Korean foreign ministry",
+    "argMentionid" : "AFP_ENG_20030425.0408-E75-124",
+    "start" : 1,
+    "end" : 4
+  },
+  "id" : "AFP_ENG_20030425.0408-R33-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "A North Korean foreign ministry spokesman , quoted by the official Korean Central News Agency , made no reference to the reports that North Korea had admitted to possessing nuclear weapons .",
+  "sentence_index" : 22,
+  "Tokens" : [ "A", "North", "Korean", "foreign", "ministry", "spokesman", ",", "quoted", "by", "the", "official", "Korean", "Central", "News", "Agency", ",", "made", "no", "reference", "to", "the", "reports", "that", "North", "Korea", "had", "admitted", "to", "possessing", "nuclear", "weapons", "." ]
+} ]

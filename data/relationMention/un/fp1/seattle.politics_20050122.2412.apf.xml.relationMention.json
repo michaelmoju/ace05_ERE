@@ -1,0 +1,45 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Bush administration",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "the Bush administration",
+    "argMentionid" : "seattle.politics_20050122.2412-E17-84",
+    "start" : 2,
+    "end" : 4
+  },
+  "relationID" : "seattle.politics_20050122.2412-R2",
+  "mentionArg1" : {
+    "extent" : "Bush",
+    "argMentionid" : "seattle.politics_20050122.2412-E18-85",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "seattle.politics_20050122.2412-R2-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "That is the Bush administration way , and it happens to be realistic : History is dynamic and changeable .",
+  "sentence_index" : 4,
+  "Tokens" : [ "That", "is", "the", "Bush", "administration", "way", ",", "and", "it", "happens", "to", "be", "realistic", ":", "History", "is", "dynamic", "and", "changeable", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Perfection in the life of man on earth is not",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "earth",
+    "argMentionid" : "seattle.politics_20050122.2412-E5-14",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "seattle.politics_20050122.2412-R3",
+  "mentionArg1" : {
+    "extent" : "man",
+    "argMentionid" : "seattle.politics_20050122.2412-E36-15",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "seattle.politics_20050122.2412-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Perfection in the life of man on earth is not .",
+  "sentence_index" : 26,
+  "Tokens" : [ "Perfection", "in", "the", "life", "of", "man", "on", "earth", "is", "not", "." ]
+} ]

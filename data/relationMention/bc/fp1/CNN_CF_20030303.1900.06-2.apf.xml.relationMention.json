@@ -1,0 +1,45 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "Paul Avalar (ph) from Tempe, Arizona",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "Tempe, Arizona",
+    "argMentionid" : "CNN_CF_20030303.1900.06-2-E12-36",
+    "start" : 8,
+    "end" : 10
+  },
+  "relationID" : "CNN_CF_20030303.1900.06-2-R1",
+  "mentionArg1" : {
+    "extent" : "Paul Avalar (ph) from Tempe, Arizona",
+    "argMentionid" : "CNN_CF_20030303.1900.06-2-E11-34",
+    "start" : 2,
+    "end" : 10
+  },
+  "id" : "CNN_CF_20030303.1900.06-2-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "I 'm Paul Avalar ( ph ) from Tempe , Arizona .",
+  "sentence_index" : 2,
+  "Tokens" : [ "I", "'m", "Paul", "Avalar", "(", "ph", ")", "from", "Tempe", ",", "Arizona", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Tempe, Arizona",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "Arizona",
+    "argMentionid" : "CNN_CF_20030303.1900.06-2-E13-37",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "CNN_CF_20030303.1900.06-2-R2",
+  "mentionArg1" : {
+    "extent" : "Tempe, Arizona",
+    "argMentionid" : "CNN_CF_20030303.1900.06-2-E12-36",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "CNN_CF_20030303.1900.06-2-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "I 'm Paul Avalar ( ph ) from Tempe , Arizona .",
+  "sentence_index" : 2,
+  "Tokens" : [ "I", "'m", "Paul", "Avalar", "(", "ph", ")", "from", "Tempe", ",", "Arizona", "." ]
+} ]

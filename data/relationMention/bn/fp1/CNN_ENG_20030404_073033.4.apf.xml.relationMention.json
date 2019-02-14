@@ -1,0 +1,89 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "military officials",
+  "sentence_length" : 96,
+  "mentionArg2" : {
+    "extent" : "military",
+    "argMentionid" : "CNN_ENG_20030404_073033.4-E2-10",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "CNN_ENG_20030404_073033.4-R1",
+  "mentionArg1" : {
+    "extent" : "military officials",
+    "argMentionid" : "CNN_ENG_20030404_073033.4-E8-9",
+    "start" : 28,
+    "end" : 29
+  },
+  "id" : "CNN_ENG_20030404_073033.4-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "central command has determined that baghdad airport is unusable for normal air operations. the airport , for the most part , is now under u . s. control. military officials will not say whether damage to the runways is going to limit operation there , but they know there are underground bunkers there and some other areas that may be of use. centcom also says 2500 republican guard troops have surrendered to u . s. marines between kut and baghdad. military officials say the baghdad republican guard division is no longer an effective fighting force .",
+  "sentence_index" : 0,
+  "Tokens" : [ "central", "command", "has", "determined", "that", "baghdad", "airport", "is", "unusable", "for", "normal", "air", "operations.", "the", "airport", ",", "for", "the", "most", "part", ",", "is", "now", "under", "u", ".", "s.", "control.", "military", "officials", "will", "not", "say", "whether", "damage", "to", "the", "runways", "is", "going", "to", "limit", "operation", "there", ",", "but", "they", "know", "there", "are", "underground", "bunkers", "there", "and", "some", "other", "areas", "that", "may", "be", "of", "use.", "centcom", "also", "says", "2500", "republican", "guard", "troops", "have", "surrendered", "to", "u", ".", "s.", "marines", "between", "kut", "and", "baghdad.", "military", "officials", "say", "the", "baghdad", "republican", "guard", "division", "is", "no", "longer", "an", "effective", "fighting", "force", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "military officials",
+  "sentence_length" : 96,
+  "mentionArg2" : {
+    "extent" : "military",
+    "argMentionid" : "CNN_ENG_20030404_073033.4-E2-3",
+    "start" : 80,
+    "end" : 80
+  },
+  "relationID" : "CNN_ENG_20030404_073033.4-R1",
+  "mentionArg1" : {
+    "extent" : "military officials",
+    "argMentionid" : "CNN_ENG_20030404_073033.4-E8-2",
+    "start" : 80,
+    "end" : 81
+  },
+  "id" : "CNN_ENG_20030404_073033.4-R1-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "central command has determined that baghdad airport is unusable for normal air operations. the airport , for the most part , is now under u . s. control. military officials will not say whether damage to the runways is going to limit operation there , but they know there are underground bunkers there and some other areas that may be of use. centcom also says 2500 republican guard troops have surrendered to u . s. marines between kut and baghdad. military officials say the baghdad republican guard division is no longer an effective fighting force .",
+  "sentence_index" : 0,
+  "Tokens" : [ "central", "command", "has", "determined", "that", "baghdad", "airport", "is", "unusable", "for", "normal", "air", "operations.", "the", "airport", ",", "for", "the", "most", "part", ",", "is", "now", "under", "u", ".", "s.", "control.", "military", "officials", "will", "not", "say", "whether", "damage", "to", "the", "runways", "is", "going", "to", "limit", "operation", "there", ",", "but", "they", "know", "there", "are", "underground", "bunkers", "there", "and", "some", "other", "areas", "that", "may", "be", "of", "use.", "centcom", "also", "says", "2500", "republican", "guard", "troops", "have", "surrendered", "to", "u", ".", "s.", "marines", "between", "kut", "and", "baghdad.", "military", "officials", "say", "the", "baghdad", "republican", "guard", "division", "is", "no", "longer", "an", "effective", "fighting", "force", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the baghdad republican guard division",
+  "sentence_length" : 96,
+  "mentionArg2" : {
+    "extent" : "baghdad",
+    "argMentionid" : "CNN_ENG_20030404_073033.4-E1-5",
+    "start" : 84,
+    "end" : 84
+  },
+  "relationID" : "CNN_ENG_20030404_073033.4-R2",
+  "mentionArg1" : {
+    "extent" : "the baghdad republican guard division",
+    "argMentionid" : "CNN_ENG_20030404_073033.4-E3-4",
+    "start" : 83,
+    "end" : 87
+  },
+  "id" : "CNN_ENG_20030404_073033.4-R2-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "central command has determined that baghdad airport is unusable for normal air operations. the airport , for the most part , is now under u . s. control. military officials will not say whether damage to the runways is going to limit operation there , but they know there are underground bunkers there and some other areas that may be of use. centcom also says 2500 republican guard troops have surrendered to u . s. marines between kut and baghdad. military officials say the baghdad republican guard division is no longer an effective fighting force .",
+  "sentence_index" : 0,
+  "Tokens" : [ "central", "command", "has", "determined", "that", "baghdad", "airport", "is", "unusable", "for", "normal", "air", "operations.", "the", "airport", ",", "for", "the", "most", "part", ",", "is", "now", "under", "u", ".", "s.", "control.", "military", "officials", "will", "not", "say", "whether", "damage", "to", "the", "runways", "is", "going", "to", "limit", "operation", "there", ",", "but", "they", "know", "there", "are", "underground", "bunkers", "there", "and", "some", "other", "areas", "that", "may", "be", "of", "use.", "centcom", "also", "says", "2500", "republican", "guard", "troops", "have", "surrendered", "to", "u", ".", "s.", "marines", "between", "kut", "and", "baghdad.", "military", "officials", "say", "the", "baghdad", "republican", "guard", "division", "is", "no", "longer", "an", "effective", "fighting", "force", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "u.s. marines",
+  "sentence_length" : 96,
+  "mentionArg2" : {
+    "extent" : "u.s",
+    "argMentionid" : "CNN_ENG_20030404_073033.4-E7-18",
+    "start" : 72,
+    "end" : 74
+  },
+  "relationID" : "CNN_ENG_20030404_073033.4-R4",
+  "mentionArg1" : {
+    "extent" : "u.s. marines",
+    "argMentionid" : "CNN_ENG_20030404_073033.4-E13-17",
+    "start" : 72,
+    "end" : 75
+  },
+  "id" : "CNN_ENG_20030404_073033.4-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "central command has determined that baghdad airport is unusable for normal air operations. the airport , for the most part , is now under u . s. control. military officials will not say whether damage to the runways is going to limit operation there , but they know there are underground bunkers there and some other areas that may be of use. centcom also says 2500 republican guard troops have surrendered to u . s. marines between kut and baghdad. military officials say the baghdad republican guard division is no longer an effective fighting force .",
+  "sentence_index" : 0,
+  "Tokens" : [ "central", "command", "has", "determined", "that", "baghdad", "airport", "is", "unusable", "for", "normal", "air", "operations.", "the", "airport", ",", "for", "the", "most", "part", ",", "is", "now", "under", "u", ".", "s.", "control.", "military", "officials", "will", "not", "say", "whether", "damage", "to", "the", "runways", "is", "going", "to", "limit", "operation", "there", ",", "but", "they", "know", "there", "are", "underground", "bunkers", "there", "and", "some", "other", "areas", "that", "may", "be", "of", "use.", "centcom", "also", "says", "2500", "republican", "guard", "troops", "have", "surrendered", "to", "u", ".", "s.", "marines", "between", "kut", "and", "baghdad.", "military", "officials", "say", "the", "baghdad", "republican", "guard", "division", "is", "no", "longer", "an", "effective", "fighting", "force", "." ]
+} ]

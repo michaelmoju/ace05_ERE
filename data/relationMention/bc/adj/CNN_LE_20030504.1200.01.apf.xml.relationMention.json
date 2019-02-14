@@ -1,0 +1,419 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "the secretary of state",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "state",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E70-165",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R1",
+  "mentionArg1" : {
+    "extent" : "the secretary of state",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E2-164",
+    "start" : 11,
+    "end" : 14
+  },
+  "id" : "CNN_LE_20030504.1200.01-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Has the situation improved , especially in the aftermath now of the secretary of state 's meeting with Bashar al-Asad ?",
+  "sentence_index" : 3,
+  "Tokens" : [ "Has", "the", "situation", "improved", ",", "especially", "in", "the", "aftermath", "now", "of", "the", "secretary", "of", "state", "'s", "meeting", "with", "Bashar", "al-Asad", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The secretary of state",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "state",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E70-30",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R1",
+  "mentionArg1" : {
+    "extent" : "The secretary of state",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E2-29",
+    "start" : 1,
+    "end" : 4
+  },
+  "id" : "CNN_LE_20030504.1200.01-R1-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "BLITZER The secretary of state has written you a letter expressing , apparently , some concern about the length that the prisoners are going to be spending , those detained at the U.S. Naval base at Guantanamo Bay in Cuba , about 600 or so of them .",
+  "sentence_index" : 14,
+  "Tokens" : [ "BLITZER", "The", "secretary", "of", "state", "has", "written", "you", "a", "letter", "expressing", ",", "apparently", ",", "some", "concern", "about", "the", "length", "that", "the", "prisoners", "are", "going", "to", "be", "spending", ",", "those", "detained", "at", "the", "U.S.", "Naval", "base", "at", "Guantanamo", "Bay", "in", "Cuba", ",", "about", "600", "or", "so", "of", "them", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the United States defense secretary",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "United States",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E9-82",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R2",
+  "mentionArg1" : {
+    "extent" : "the United States defense secretary",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E62-156",
+    "start" : 9,
+    "end" : 13
+  },
+  "id" : "CNN_LE_20030504.1200.01-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "We return now to my interview earlier today with the United States defense secretary , Donald Rumsfeld .",
+  "sentence_index" : 1,
+  "Tokens" : [ "We", "return", "now", "to", "my", "interview", "earlier", "today", "with", "the", "United", "States", "defense", "secretary", ",", "Donald", "Rumsfeld", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I know that Secretary Powell was just there and advised them that it was unhelpful, and gave them some pointers and some suggestions for the future",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E65-23",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R4",
+  "mentionArg1" : {
+    "extent" : "Secretary Powell",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E2-21",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "CNN_LE_20030504.1200.01-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I know that Secretary Powell was just there and advised them that it was unhelpful , and gave them some pointers and some suggestions for the future .",
+  "sentence_index" : 11,
+  "Tokens" : [ "I", "know", "that", "Secretary", "Powell", "was", "just", "there", "and", "advised", "them", "that", "it", "was", "unhelpful", ",", "and", "gave", "them", "some", "pointers", "and", "some", "suggestions", "for", "the", "future", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "those detained at the U.S. Naval base at Guantanamo Bay in Cuba, about 600 or so of them",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "the U.S. Naval base at Guantanamo Bay in Cuba",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E8-34",
+    "start" : 31,
+    "end" : 39
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R5",
+  "mentionArg1" : {
+    "extent" : "those detained at the U.S. Naval base at Guantanamo Bay in Cuba",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E7-33",
+    "start" : 28,
+    "end" : 39
+  },
+  "id" : "CNN_LE_20030504.1200.01-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "BLITZER The secretary of state has written you a letter expressing , apparently , some concern about the length that the prisoners are going to be spending , those detained at the U.S. Naval base at Guantanamo Bay in Cuba , about 600 or so of them .",
+  "sentence_index" : 14,
+  "Tokens" : [ "BLITZER", "The", "secretary", "of", "state", "has", "written", "you", "a", "letter", "expressing", ",", "apparently", ",", "some", "concern", "about", "the", "length", "that", "the", "prisoners", "are", "going", "to", "be", "spending", ",", "those", "detained", "at", "the", "U.S.", "Naval", "base", "at", "Guantanamo", "Bay", "in", "Cuba", ",", "about", "600", "or", "so", "of", "them", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the U.S. Naval base at Guantanamo Bay in Cuba",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "the U.S. Naval base at Guantanamo Bay in Cuba",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E8-34",
+    "start" : 31,
+    "end" : 39
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R6",
+  "mentionArg1" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E9-153",
+    "start" : 32,
+    "end" : 32
+  },
+  "id" : "CNN_LE_20030504.1200.01-R6-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "BLITZER The secretary of state has written you a letter expressing , apparently , some concern about the length that the prisoners are going to be spending , those detained at the U.S. Naval base at Guantanamo Bay in Cuba , about 600 or so of them .",
+  "sentence_index" : 14,
+  "Tokens" : [ "BLITZER", "The", "secretary", "of", "state", "has", "written", "you", "a", "letter", "expressing", ",", "apparently", ",", "some", "concern", "about", "the", "length", "that", "the", "prisoners", "are", "going", "to", "be", "spending", ",", "those", "detained", "at", "the", "U.S.", "Naval", "base", "at", "Guantanamo", "Bay", "in", "Cuba", ",", "about", "600", "or", "so", "of", "them", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Guantanamo Bay, Cuba",
+  "sentence_length" : 63,
+  "mentionArg2" : {
+    "extent" : "Cuba",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E12-79",
+    "start" : 32,
+    "end" : 32
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R7",
+  "mentionArg1" : {
+    "extent" : "Guantanamo Bay, Cuba",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E11-78",
+    "start" : 29,
+    "end" : 32
+  },
+  "id" : "CNN_LE_20030504.1200.01-R7-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "There are a number of countries , and the Department of State has the responsibility of dealing with those countries , that have foreign nationals in Gitmo , in Guantanamo Bay , Cuba , being detained , and those countries , understandably , would like to know when they could have those people.So the inter-agency process takes a great deal of time .",
+  "sentence_index" : 19,
+  "Tokens" : [ "There", "are", "a", "number", "of", "countries", ",", "and", "the", "Department", "of", "State", "has", "the", "responsibility", "of", "dealing", "with", "those", "countries", ",", "that", "have", "foreign", "nationals", "in", "Gitmo", ",", "in", "Guantanamo", "Bay", ",", "Cuba", ",", "being", "detained", ",", "and", "those", "countries", ",", "understandably", ",", "would", "like", "to", "know", "when", "they", "could", "have", "those", "people.So", "the", "inter-agency", "process", "takes", "a", "great", "deal", "of", "time", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Guantanamo Bay in Cuba",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "Cuba",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E12-39",
+    "start" : 39,
+    "end" : 39
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R7",
+  "mentionArg1" : {
+    "extent" : "Guantanamo Bay in Cuba",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E11-38",
+    "start" : 36,
+    "end" : 39
+  },
+  "id" : "CNN_LE_20030504.1200.01-R7-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "BLITZER The secretary of state has written you a letter expressing , apparently , some concern about the length that the prisoners are going to be spending , those detained at the U.S. Naval base at Guantanamo Bay in Cuba , about 600 or so of them .",
+  "sentence_index" : 14,
+  "Tokens" : [ "BLITZER", "The", "secretary", "of", "state", "has", "written", "you", "a", "letter", "expressing", ",", "apparently", ",", "some", "concern", "about", "the", "length", "that", "the", "prisoners", "are", "going", "to", "be", "spending", ",", "those", "detained", "at", "the", "U.S.", "Naval", "base", "at", "Guantanamo", "Bay", "in", "Cuba", ",", "about", "600", "or", "so", "of", "them", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the U.S. Naval base at Guantanamo Bay in Cuba",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "Guantanamo Bay in Cuba",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E11-38",
+    "start" : 36,
+    "end" : 39
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R8",
+  "mentionArg1" : {
+    "extent" : "the U.S. Naval base at Guantanamo Bay in Cuba",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E8-34",
+    "start" : 31,
+    "end" : 39
+  },
+  "id" : "CNN_LE_20030504.1200.01-R8-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "BLITZER The secretary of state has written you a letter expressing , apparently , some concern about the length that the prisoners are going to be spending , those detained at the U.S. Naval base at Guantanamo Bay in Cuba , about 600 or so of them .",
+  "sentence_index" : 14,
+  "Tokens" : [ "BLITZER", "The", "secretary", "of", "state", "has", "written", "you", "a", "letter", "expressing", ",", "apparently", ",", "some", "concern", "about", "the", "length", "that", "the", "prisoners", "are", "going", "to", "be", "spending", ",", "those", "detained", "at", "the", "U.S.", "Naval", "base", "at", "Guantanamo", "Bay", "in", "Cuba", ",", "about", "600", "or", "so", "of", "them", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "all these FBI and Department of Justice and CIA and DIA, and what have you",
+  "sentence_length" : 61,
+  "mentionArg2" : {
+    "extent" : "FBI",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E22-63",
+    "start" : 29,
+    "end" : 29
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R10",
+  "mentionArg1" : {
+    "extent" : "all these FBI and Department of Justice and CIA and DIA, and what have you",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E17-57",
+    "start" : 27,
+    "end" : 42
+  },
+  "id" : "CNN_LE_20030504.1200.01-R10-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "BLITZER All right , tell me what ... RUMSFELD I think what he wrote me about was the fact that the inter-agency process , where we have all these FBI and Department of Justice and CIA and DIA , and what have you , involved in interrogating these detainees , it takes time to find out what intelligence they have .",
+  "sentence_index" : 17,
+  "Tokens" : [ "BLITZER", "All", "right", ",", "tell", "me", "what", "...", "RUMSFELD", "I", "think", "what", "he", "wrote", "me", "about", "was", "the", "fact", "that", "the", "inter-agency", "process", ",", "where", "we", "have", "all", "these", "FBI", "and", "Department", "of", "Justice", "and", "CIA", "and", "DIA", ",", "and", "what", "have", "you", ",", "involved", "in", "interrogating", "these", "detainees", ",", "it", "takes", "time", "to", "find", "out", "what", "intelligence", "they", "have", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "all these FBI and Department of Justice and CIA and DIA, and what have you",
+  "sentence_length" : 61,
+  "mentionArg2" : {
+    "extent" : "Department of Justice",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E23-64",
+    "start" : 31,
+    "end" : 33
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R11",
+  "mentionArg1" : {
+    "extent" : "all these FBI and Department of Justice and CIA and DIA, and what have you",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E18-58",
+    "start" : 27,
+    "end" : 42
+  },
+  "id" : "CNN_LE_20030504.1200.01-R11-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "BLITZER All right , tell me what ... RUMSFELD I think what he wrote me about was the fact that the inter-agency process , where we have all these FBI and Department of Justice and CIA and DIA , and what have you , involved in interrogating these detainees , it takes time to find out what intelligence they have .",
+  "sentence_index" : 17,
+  "Tokens" : [ "BLITZER", "All", "right", ",", "tell", "me", "what", "...", "RUMSFELD", "I", "think", "what", "he", "wrote", "me", "about", "was", "the", "fact", "that", "the", "inter-agency", "process", ",", "where", "we", "have", "all", "these", "FBI", "and", "Department", "of", "Justice", "and", "CIA", "and", "DIA", ",", "and", "what", "have", "you", ",", "involved", "in", "interrogating", "these", "detainees", ",", "it", "takes", "time", "to", "find", "out", "what", "intelligence", "they", "have", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "all these FBI and Department of Justice and CIA and DIA, and what have you",
+  "sentence_length" : 61,
+  "mentionArg2" : {
+    "extent" : "CIA",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E24-65",
+    "start" : 35,
+    "end" : 35
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R12",
+  "mentionArg1" : {
+    "extent" : "all these FBI and Department of Justice and CIA and DIA, and what have you",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E19-59",
+    "start" : 27,
+    "end" : 42
+  },
+  "id" : "CNN_LE_20030504.1200.01-R12-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "BLITZER All right , tell me what ... RUMSFELD I think what he wrote me about was the fact that the inter-agency process , where we have all these FBI and Department of Justice and CIA and DIA , and what have you , involved in interrogating these detainees , it takes time to find out what intelligence they have .",
+  "sentence_index" : 17,
+  "Tokens" : [ "BLITZER", "All", "right", ",", "tell", "me", "what", "...", "RUMSFELD", "I", "think", "what", "he", "wrote", "me", "about", "was", "the", "fact", "that", "the", "inter-agency", "process", ",", "where", "we", "have", "all", "these", "FBI", "and", "Department", "of", "Justice", "and", "CIA", "and", "DIA", ",", "and", "what", "have", "you", ",", "involved", "in", "interrogating", "these", "detainees", ",", "it", "takes", "time", "to", "find", "out", "what", "intelligence", "they", "have", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "all these FBI and Department of Justice and CIA and DIA, and what have you",
+  "sentence_length" : 61,
+  "mentionArg2" : {
+    "extent" : "DIA",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E25-66",
+    "start" : 37,
+    "end" : 37
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R13",
+  "mentionArg1" : {
+    "extent" : "all these FBI and Department of Justice and CIA and DIA, and what have you",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E21-61",
+    "start" : 27,
+    "end" : 42
+  },
+  "id" : "CNN_LE_20030504.1200.01-R13-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "BLITZER All right , tell me what ... RUMSFELD I think what he wrote me about was the fact that the inter-agency process , where we have all these FBI and Department of Justice and CIA and DIA , and what have you , involved in interrogating these detainees , it takes time to find out what intelligence they have .",
+  "sentence_index" : 17,
+  "Tokens" : [ "BLITZER", "All", "right", ",", "tell", "me", "what", "...", "RUMSFELD", "I", "think", "what", "he", "wrote", "me", "about", "was", "the", "fact", "that", "the", "inter-agency", "process", ",", "where", "we", "have", "all", "these", "FBI", "and", "Department", "of", "Justice", "and", "CIA", "and", "DIA", ",", "and", "what", "have", "you", ",", "involved", "in", "interrogating", "these", "detainees", ",", "it", "takes", "time", "to", "find", "out", "what", "intelligence", "they", "have", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "There are a number of countries, and the Department of State has the responsibility of dealing with those countries, that have foreign nationals in Gitmo, in Guantanamo Bay, Cuba, being detained, and those countries, understandably, would like to know when they could have those people",
+  "sentence_length" : 63,
+  "mentionArg2" : {
+    "extent" : "that",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E27-75",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R14",
+  "mentionArg1" : {
+    "extent" : "foreign nationals in Gitmo, in Guantanamo Bay, Cuba, being detained",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E30-76",
+    "start" : 23,
+    "end" : 35
+  },
+  "id" : "CNN_LE_20030504.1200.01-R14-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "There are a number of countries , and the Department of State has the responsibility of dealing with those countries , that have foreign nationals in Gitmo , in Guantanamo Bay , Cuba , being detained , and those countries , understandably , would like to know when they could have those people.So the inter-agency process takes a great deal of time .",
+  "sentence_index" : 19,
+  "Tokens" : [ "There", "are", "a", "number", "of", "countries", ",", "and", "the", "Department", "of", "State", "has", "the", "responsibility", "of", "dealing", "with", "those", "countries", ",", "that", "have", "foreign", "nationals", "in", "Gitmo", ",", "in", "Guantanamo", "Bay", ",", "Cuba", ",", "being", "detained", ",", "and", "those", "countries", ",", "understandably", ",", "would", "like", "to", "know", "when", "they", "could", "have", "those", "people.So", "the", "inter-agency", "process", "takes", "a", "great", "deal", "of", "time", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "foreign nationals in Gitmo, in Guantanamo Bay, Cuba, being detained",
+  "sentence_length" : 63,
+  "mentionArg2" : {
+    "extent" : "Guantanamo Bay, Cuba",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E11-78",
+    "start" : 29,
+    "end" : 32
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R15",
+  "mentionArg1" : {
+    "extent" : "foreign nationals in Gitmo, in Guantanamo Bay, Cuba, being detained",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E30-76",
+    "start" : 23,
+    "end" : 35
+  },
+  "id" : "CNN_LE_20030504.1200.01-R15-1",
+  "relationSubType" : "Located",
+  "Sentence" : "There are a number of countries , and the Department of State has the responsibility of dealing with those countries , that have foreign nationals in Gitmo , in Guantanamo Bay , Cuba , being detained , and those countries , understandably , would like to know when they could have those people.So the inter-agency process takes a great deal of time .",
+  "sentence_index" : 19,
+  "Tokens" : [ "There", "are", "a", "number", "of", "countries", ",", "and", "the", "Department", "of", "State", "has", "the", "responsibility", "of", "dealing", "with", "those", "countries", ",", "that", "have", "foreign", "nationals", "in", "Gitmo", ",", "in", "Guantanamo", "Bay", ",", "Cuba", ",", "being", "detained", ",", "and", "those", "countries", ",", "understandably", ",", "would", "like", "to", "know", "when", "they", "could", "have", "those", "people.So", "the", "inter-agency", "process", "takes", "a", "great", "deal", "of", "time", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "terrorist states that exist, that work with those global networks",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "terrorist states that exist, that work with those global networks",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E48-121",
+    "start" : 15,
+    "end" : 25
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R16",
+  "mentionArg1" : {
+    "extent" : "terrorist",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E46-120",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "CNN_LE_20030504.1200.01-R16-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "We still have to face the problem of a number of global terrorist networks and terrorist states that exist , that work with those global networks .",
+  "sentence_index" : 31,
+  "Tokens" : [ "We", "still", "have", "to", "face", "the", "problem", "of", "a", "number", "of", "global", "terrorist", "networks", "and", "terrorist", "states", "that", "exist", ",", "that", "work", "with", "those", "global", "networks", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Clinton administration",
+  "sentence_length" : 65,
+  "mentionArg2" : {
+    "extent" : "the Clinton administration",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E53-138",
+    "start" : 9,
+    "end" : 11
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R17",
+  "mentionArg1" : {
+    "extent" : "Clinton",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E54-139",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "CNN_LE_20030504.1200.01-R17-1",
+  "relationSubType" : "Ownership",
+  "Sentence" : "I know that back in the 1990s , in the Clinton administration , Secretary Perry called in the former secretaries of defense , and we had a discussion , and they clearly had teed up a military option that they were considering , and they then at a certain moment were able to do some things that persuaded them that that was not appropriate .",
+  "sentence_index" : 40,
+  "Tokens" : [ "I", "know", "that", "back", "in", "the", "1990s", ",", "in", "the", "Clinton", "administration", ",", "Secretary", "Perry", "called", "in", "the", "former", "secretaries", "of", "defense", ",", "and", "we", "had", "a", "discussion", ",", "and", "they", "clearly", "had", "teed", "up", "a", "military", "option", "that", "they", "were", "considering", ",", "and", "they", "then", "at", "a", "certain", "moment", "were", "able", "to", "do", "some", "things", "that", "persuaded", "them", "that", "that", "was", "not", "appropriate", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In the case of 1991, the task was to go in and get them out of Kuwait, and they did it, and they were properly greeted coming back to the United States",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "Kuwait",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E10-37",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R18",
+  "mentionArg1" : {
+    "extent" : "them",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E34-154",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "CNN_LE_20030504.1200.01-R18-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In the case of 1991 , the task was to go in and get them out of Kuwait , and they did it , and they were properly greeted coming back to the United States .",
+  "sentence_index" : 28,
+  "Tokens" : [ "In", "the", "case", "of", "1991", ",", "the", "task", "was", "to", "go", "in", "and", "get", "them", "out", "of", "Kuwait", ",", "and", "they", "did", "it", ",", "and", "they", "were", "properly", "greeted", "coming", "back", "to", "the", "United", "States", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In the case of 1991, the task was to go in and get them out of Kuwait, and they did it, and they were properly greeted coming back to the United States",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "the United States",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E9-116",
+    "start" : 32,
+    "end" : 34
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R19",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E34-114",
+    "start" : 25,
+    "end" : 25
+  },
+  "id" : "CNN_LE_20030504.1200.01-R19-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In the case of 1991 , the task was to go in and get them out of Kuwait , and they did it , and they were properly greeted coming back to the United States .",
+  "sentence_index" : 28,
+  "Tokens" : [ "In", "the", "case", "of", "1991", ",", "the", "task", "was", "to", "go", "in", "and", "get", "them", "out", "of", "Kuwait", ",", "and", "they", "did", "it", ",", "and", "they", "were", "properly", "greeted", "coming", "back", "to", "the", "United", "States", "." ]
+} ]

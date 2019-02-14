@@ -1,0 +1,221 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "House clearance Royal Marine style, troops from (UNINTELLIGIBLE) commando task to seek out the last pockets of Iraqi resistance in Umm Qasr go in hard to arrest suspected regime sympathizers and search for weapons",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "Umm Qasr",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E33-74",
+    "start" : 32,
+    "end" : 33
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-5-R1",
+  "mentionArg1" : {
+    "extent" : "troops from (UNINTELLIGIBLE) commando",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E17-63",
+    "start" : 15,
+    "end" : 20
+  },
+  "id" : "CNN_IP_20030329.1600.00-5-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "( BEGIN VIDEOTAPE ) DAVID BOWDEN , CNN CORRESPONDENT House clearance Royal Marine style , troops from ( UNINTELLIGIBLE ) commando task to seek out the last pockets of Iraqi resistance in Umm Qasr go in hard to arrest suspected regime sympathizers and search for weapons .",
+  "sentence_index" : 0,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "DAVID", "BOWDEN", ",", "CNN", "CORRESPONDENT", "House", "clearance", "Royal", "Marine", "style", ",", "troops", "from", "(", "UNINTELLIGIBLE", ")", "commando", "task", "to", "seek", "out", "the", "last", "pockets", "of", "Iraqi", "resistance", "in", "Umm", "Qasr", "go", "in", "hard", "to", "arrest", "suspected", "regime", "sympathizers", "and", "search", "for", "weapons", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "many militia here",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E33-60",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-5-R2",
+  "mentionArg1" : {
+    "extent" : "many militia here",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E40-82",
+    "start" : 13,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030329.1600.00-5-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The Iraqis arrested looked bemused ( ph ) and plead innocence but with many militia here , pretending to surrender only to open fire on their captors later , first impressions can be deceptive and lethal .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "Iraqis", "arrested", "looked", "bemused", "(", "ph", ")", "and", "plead", "innocence", "but", "with", "many", "militia", "here", ",", "pretending", "to", "surrender", "only", "to", "open", "fire", "on", "their", "captors", "later", ",", "first", "impressions", "can", "be", "deceptive", "and", "lethal", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the coalition forces",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E6-16",
+    "start" : 31,
+    "end" : 31
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-5-R3",
+  "mentionArg1" : {
+    "extent" : "the coalition forces",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E5-15",
+    "start" : 30,
+    "end" : 32
+  },
+  "id" : "CNN_IP_20030329.1600.00-5-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The Marines believe they have a firm hold on Umm Qasr right now but they ca n't afford to slack in their grip and allow those who are hostile to the coalition forces to regroup and begin again their cycle of violence .",
+  "sentence_index" : 5,
+  "Tokens" : [ "The", "Marines", "believe", "they", "have", "a", "firm", "hold", "on", "Umm", "Qasr", "right", "now", "but", "they", "ca", "n't", "afford", "to", "slack", "in", "their", "grip", "and", "allow", "those", "who", "are", "hostile", "to", "the", "coalition", "forces", "to", "regroup", "and", "begin", "again", "their", "cycle", "of", "violence", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their snipers",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "their snipers",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E7-20",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-5-R4",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E17-65",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030329.1600.00-5-R4-1",
+  "relationSubType" : "Business",
+  "Sentence" : "The Marines with their snipers have now snipers have now spread their area of operations north to include the town of Umm Kiou ( ph ) .",
+  "sentence_index" : 6,
+  "Tokens" : [ "The", "Marines", "with", "their", "snipers", "have", "now", "snipers", "have", "now", "spread", "their", "area", "of", "operations", "north", "to", "include", "the", "town", "of", "Umm", "Kiou", "(", "ph", ")", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The Marines with their snipers have now snipers have now spread their area of operations north to include the town of Umm Kiou (ph",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "the town of Umm Kiou",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E8-24",
+    "start" : 18,
+    "end" : 22
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-5-R5",
+  "mentionArg1" : {
+    "extent" : "snipers",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E7-22",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030329.1600.00-5-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The Marines with their snipers have now snipers have now spread their area of operations north to include the town of Umm Kiou ( ph ) .",
+  "sentence_index" : 6,
+  "Tokens" : [ "The", "Marines", "with", "their", "snipers", "have", "now", "snipers", "have", "now", "spread", "their", "area", "of", "operations", "north", "to", "include", "the", "town", "of", "Umm", "Kiou", "(", "ph", ")", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "As in Umm Qasr before it, they're here to clear out the opponents to regime change",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E8-62",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-5-R5",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E7-28",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030329.1600.00-5-R5-2",
+  "relationSubType" : "Located",
+  "Sentence" : "As in Umm Qasr before it , they 're here to clear out the opponents to regime change .",
+  "sentence_index" : 7,
+  "Tokens" : [ "As", "in", "Umm", "Qasr", "before", "it", ",", "they", "'re", "here", "to", "clear", "out", "the", "opponents", "to", "regime", "change", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "As in Umm Qasr before it, they're here to clear out the opponents to regime change",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Umm Qasr",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E33-26",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-5-R7",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E7-28",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030329.1600.00-5-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "As in Umm Qasr before it , they 're here to clear out the opponents to regime change .",
+  "sentence_index" : 7,
+  "Tokens" : [ "As", "in", "Umm", "Qasr", "before", "it", ",", "they", "'re", "here", "to", "clear", "out", "the", "opponents", "to", "regime", "change", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "David Bowden in southern Iraq",
+  "sentence_length" : 6,
+  "mentionArg2" : {
+    "extent" : "southern Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E23-59",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-5-R8",
+  "mentionArg1" : {
+    "extent" : "David Bowden in southern Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E9-58",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "CNN_IP_20030329.1600.00-5-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "David Bowden in southern Iraq .",
+  "sentence_index" : 14,
+  "Tokens" : [ "David", "Bowden", "in", "southern", "Iraq", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "We sent in one of our companies of about 100 men in here this morning and we took about 12 or 13 prisoners, three or four enemy were injured and they've now been flown out and we're treating them including a man who is almost dead with a gunshot wound to the chest",
+  "sentence_length" : 63,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E8-70",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-5-R9",
+  "mentionArg1" : {
+    "extent" : "one of our companies of about 100 men",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E14-36",
+    "start" : 9,
+    "end" : 16
+  },
+  "id" : "CNN_IP_20030329.1600.00-5-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "MAJOR ROB MACGOWAN , ROYAL MARINES We sent in one of our companies of about 100 men in here this morning and we took about 12 or 13 prisoners , three or four enemy were injured and they 've now been flown out and we 're treating them including a man who is almost dead with a gunshot wound to the chest .",
+  "sentence_index" : 10,
+  "Tokens" : [ "MAJOR", "ROB", "MACGOWAN", ",", "ROYAL", "MARINES", "We", "sent", "in", "one", "of", "our", "companies", "of", "about", "100", "men", "in", "here", "this", "morning", "and", "we", "took", "about", "12", "or", "13", "prisoners", ",", "three", "or", "four", "enemy", "were", "injured", "and", "they", "'ve", "now", "been", "flown", "out", "and", "we", "'re", "treating", "them", "including", "a", "man", "who", "is", "almost", "dead", "with", "a", "gunshot", "wound", "to", "the", "chest", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "this small corner of Iraq",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E30-56",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-5-R10",
+  "mentionArg1" : {
+    "extent" : "this small corner of Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E26-35",
+    "start" : 11,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030329.1600.00-5-R10-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "BOWDEN The Royal Marines are satisfied they are in control of this small corner of Iraq .",
+  "sentence_index" : 12,
+  "Tokens" : [ "BOWDEN", "The", "Royal", "Marines", "are", "satisfied", "they", "are", "in", "control", "of", "this", "small", "corner", "of", "Iraq", "." ]
+} ]

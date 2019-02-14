@@ -1,0 +1,67 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "a Virginia Tech chemist",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Virginia Tech",
+    "argMentionid" : "BACONSREBELLION_20050209.0721-E9-15",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "BACONSREBELLION_20050209.0721-R1",
+  "mentionArg1" : {
+    "extent" : "a Virginia Tech chemist",
+    "argMentionid" : "BACONSREBELLION_20050209.0721-E11-16",
+    "start" : 15,
+    "end" : 18
+  },
+  "id" : "BACONSREBELLION_20050209.0721-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Will Vehrs 2005-02-09T07:21:00 Earth & Sky , a program that airs on NPR , featured a Virginia Tech chemist this morning .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Will", "Vehrs", "2005-02-09T07:21:00", "Earth", "&", "Sky", ",", "a", "program", "that", "airs", "on", "NPR", ",", "featured", "a", "Virginia", "Tech", "chemist", "this", "morning", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Maybe some day we'll be stuck in traffic in hydrogen-powered cars",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "hydrogen-powered cars",
+    "argMentionid" : "BACONSREBELLION_20050209.0721-E4-9",
+    "start" : 24,
+    "end" : 25
+  },
+  "relationID" : "BACONSREBELLION_20050209.0721-R2",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "BACONSREBELLION_20050209.0721-E14-21",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "BACONSREBELLION_20050209.0721-R2-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Wonder what she thought of Larry Summer 's remarks on women and science .... Maybe some day we 'll be stuck in traffic in hydrogen-powered cars .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Wonder", "what", "she", "thought", "of", "Larry", "Summer", "'s", "remarks", "on", "women", "and", "science", "....", "Maybe", "some", "day", "we", "'ll", "be", "stuck", "in", "traffic", "in", "hydrogen-powered", "cars", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Virginia is falling behind when we should be ahead with schools like Tech developing the technology",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Virginia",
+    "argMentionid" : "BACONSREBELLION_20050209.0721-E1-3",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "BACONSREBELLION_20050209.0721-R3",
+  "mentionArg1" : {
+    "extent" : "schools like Tech",
+    "argMentionid" : "BACONSREBELLION_20050209.0721-E2-5",
+    "start" : 10,
+    "end" : 12
+  },
+  "id" : "BACONSREBELLION_20050209.0721-R3-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Virginia is falling behind when we should be ahead with schools like Tech developing the technology .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Virginia", "is", "falling", "behind", "when", "we", "should", "be", "ahead", "with", "schools", "like", "Tech", "developing", "the", "technology", "." ]
+} ]

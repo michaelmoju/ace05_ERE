@@ -1,0 +1,67 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "The last State Archaeologist, Catherine Slusser, is still around, according to the article, serving the Department of Historical Resources",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "the Department of Historical Resources",
+    "argMentionid" : "BACONSREBELLION_20050218.0848-E17-25",
+    "start" : 18,
+    "end" : 22
+  },
+  "relationID" : "BACONSREBELLION_20050218.0848-R1",
+  "mentionArg1" : {
+    "extent" : "The last State Archaeologist",
+    "argMentionid" : "BACONSREBELLION_20050218.0848-E15-22",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "BACONSREBELLION_20050218.0848-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The last State Archaeologist , Catherine Slusser , is still around , according to the article , serving the Department of Historical Resources .",
+  "sentence_index" : 3,
+  "Tokens" : [ "The", "last", "State", "Archaeologist", ",", "Catherine", "Slusser", ",", "is", "still", "around", ",", "according", "to", "the", "article", ",", "serving", "the", "Department", "of", "Historical", "Resources", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Few Virginia employees",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Virginia",
+    "argMentionid" : "BACONSREBELLION_20050218.0848-E10-16",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "BACONSREBELLION_20050218.0848-R2",
+  "mentionArg1" : {
+    "extent" : "Few Virginia employees",
+    "argMentionid" : "BACONSREBELLION_20050218.0848-E18-27",
+    "start" : 12,
+    "end" : 14
+  },
+  "id" : "BACONSREBELLION_20050218.0848-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "She describes the untenable ongoing situation with archaeology budget cuts : \" Few Virginia employees have attended national conferences . \"",
+  "sentence_index" : 4,
+  "Tokens" : [ "She", "describes", "the", "untenable", "ongoing", "situation", "with", "archaeology", "budget", "cuts", ":", "\"", "Few", "Virginia", "employees", "have", "attended", "national", "conferences", ".", "\"" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Virginia's first poet laureate",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Virginia",
+    "argMentionid" : "BACONSREBELLION_20050218.0848-E10-6",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "BACONSREBELLION_20050218.0848-R3",
+  "mentionArg1" : {
+    "extent" : "Virginia's first poet laureate",
+    "argMentionid" : "BACONSREBELLION_20050218.0848-E4-7",
+    "start" : 13,
+    "end" : 17
+  },
+  "id" : "BACONSREBELLION_20050218.0848-R3-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Jim Bacon ???? - ?? - ?? T12:35:00 I nominate John K. for Virginia 's first poet laureate .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Jim", "Bacon", "????", "-", "??", "-", "??", "T12:35:00", "I", "nominate", "John", "K.", "for", "Virginia", "'s", "first", "poet", "laureate", "." ]
+} ]

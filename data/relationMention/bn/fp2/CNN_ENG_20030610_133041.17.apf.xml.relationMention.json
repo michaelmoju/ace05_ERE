@@ -1,0 +1,45 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "every 26 months, mars and earth fly in close orbital formation",
+  "sentence_length" : 137,
+  "mentionArg2" : {
+    "extent" : "earth",
+    "argMentionid" : "CNN_ENG_20030610_133041.17-E16-34",
+    "start" : 110,
+    "end" : 110
+  },
+  "relationID" : "CNN_ENG_20030610_133041.17-R1",
+  "mentionArg1" : {
+    "extent" : "mars",
+    "argMentionid" : "CNN_ENG_20030610_133041.17-E4-33",
+    "start" : 108,
+    "end" : 108
+  },
+  "id" : "CNN_ENG_20030610_133041.17-R1-1",
+  "relationSubType" : "Near",
+  "Sentence" : "you 're looking at mars. this shows some of the layers effects scientists find so interesting , captured by the mars global surveyer , which has been in orbit since march of 1999 , one of the more successful missions nasa has ever staged to the red planet. only one out of three missions succeed. nasa hopes they 'll do well today with the launch of the first of a pair of identical rovers headed to the red planet. they 'll arrive in january. about the size of a golf cart. they 'll do some poking around for signs of water. past or present. every 26 months , mars and earth fly in close orbital formation. it 's only then a mission to the red planet is possible. this time , mars is closer than ever .",
+  "sentence_index" : 0,
+  "Tokens" : [ "you", "'re", "looking", "at", "mars.", "this", "shows", "some", "of", "the", "layers", "effects", "scientists", "find", "so", "interesting", ",", "captured", "by", "the", "mars", "global", "surveyer", ",", "which", "has", "been", "in", "orbit", "since", "march", "of", "1999", ",", "one", "of", "the", "more", "successful", "missions", "nasa", "has", "ever", "staged", "to", "the", "red", "planet.", "only", "one", "out", "of", "three", "missions", "succeed.", "nasa", "hopes", "they", "'ll", "do", "well", "today", "with", "the", "launch", "of", "the", "first", "of", "a", "pair", "of", "identical", "rovers", "headed", "to", "the", "red", "planet.", "they", "'ll", "arrive", "in", "january.", "about", "the", "size", "of", "a", "golf", "cart.", "they", "'ll", "do", "some", "poking", "around", "for", "signs", "of", "water.", "past", "or", "present.", "every", "26", "months", ",", "mars", "and", "earth", "fly", "in", "close", "orbital", "formation.", "it", "'s", "only", "then", "a", "mission", "to", "the", "red", "planet", "is", "possible.", "this", "time", ",", "mars", "is", "closer", "than", "ever", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the people of the earth",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "the earth",
+    "argMentionid" : "CNN_ENG_20030610_133041.17-E16-7",
+    "start" : 44,
+    "end" : 45
+  },
+  "relationID" : "CNN_ENG_20030610_133041.17-R2",
+  "mentionArg1" : {
+    "extent" : "the people of the earth",
+    "argMentionid" : "CNN_ENG_20030610_133041.17-E2-6",
+    "start" : 41,
+    "end" : 45
+  },
+  "id" : "CNN_ENG_20030610_133041.17-R2-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "this happens to be a particularly good opportunity , where we 're close enough and the geometry works out that we have an excellent data return. so that means we can bring more pictures , more information about mars back to the people of the earth , in this particular landing opportunity .",
+  "sentence_index" : 1,
+  "Tokens" : [ "this", "happens", "to", "be", "a", "particularly", "good", "opportunity", ",", "where", "we", "'re", "close", "enough", "and", "the", "geometry", "works", "out", "that", "we", "have", "an", "excellent", "data", "return.", "so", "that", "means", "we", "can", "bring", "more", "pictures", ",", "more", "information", "about", "mars", "back", "to", "the", "people", "of", "the", "earth", ",", "in", "this", "particular", "landing", "opportunity", "." ]
+} ]

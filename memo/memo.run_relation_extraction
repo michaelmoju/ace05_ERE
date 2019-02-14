@@ -50,3 +50,9 @@ process entity and relation
 rfs="-rfs r::$E/bc/@/*.apf.xml.annotation.json"
 python3.6 $WT/run_relation_extraction.py -cmd test_read $rfs $rlc -force
 date)
+
+--------------------------------------------------------------------------------
+train
+--------------------------------------------------------------------------------
+
+python3.6 relation_train.py model_LSTMbaseline train "./data/relationMention/bc/adj/*.json"

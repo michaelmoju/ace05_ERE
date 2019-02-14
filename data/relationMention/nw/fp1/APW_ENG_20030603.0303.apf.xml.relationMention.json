@@ -1,0 +1,133 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "BLOEMFONTEIN, South Africa",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "South Africa",
+    "argMentionid" : "APW_ENG_20030603.0303-E19-36",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030603.0303-R1",
+  "mentionArg1" : {
+    "extent" : "BLOEMFONTEIN",
+    "argMentionid" : "APW_ENG_20030603.0303-E17-35",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "APW_ENG_20030603.0303-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "BLOEMFONTEIN , South Africa ( AP ) South Africa 's Supreme Court of Appeal ruled Tuesday against a state request to retry the head of apartheid 's germ warfare program , once accused of plotting to poison Nelson Mandela .",
+  "sentence_index" : 0,
+  "Tokens" : [ "BLOEMFONTEIN", ",", "South", "Africa", "(", "AP", ")", "South", "Africa", "'s", "Supreme", "Court", "of", "Appeal", "ruled", "Tuesday", "against", "a", "state", "request", "to", "retry", "the", "head", "of", "apartheid", "'s", "germ", "warfare", "program", ",", "once", "accused", "of", "plotting", "to", "poison", "Nelson", "Mandela", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "South Africa's Supreme Court of Appeal",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "South Africa's",
+    "argMentionid" : "APW_ENG_20030603.0303-E19-1",
+    "start" : 7,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030603.0303-R2",
+  "mentionArg1" : {
+    "extent" : "South Africa's Supreme Court of Appeal",
+    "argMentionid" : "APW_ENG_20030603.0303-E1-38",
+    "start" : 7,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030603.0303-R2-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "BLOEMFONTEIN , South Africa ( AP ) South Africa 's Supreme Court of Appeal ruled Tuesday against a state request to retry the head of apartheid 's germ warfare program , once accused of plotting to poison Nelson Mandela .",
+  "sentence_index" : 0,
+  "Tokens" : [ "BLOEMFONTEIN", ",", "South", "Africa", "(", "AP", ")", "South", "Africa", "'s", "Supreme", "Court", "of", "Appeal", "ruled", "Tuesday", "against", "a", "state", "request", "to", "retry", "the", "head", "of", "apartheid", "'s", "germ", "warfare", "program", ",", "once", "accused", "of", "plotting", "to", "poison", "Nelson", "Mandela", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the highest appeals court in the country",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "the country",
+    "argMentionid" : "APW_ENG_20030603.0303-E19-5",
+    "start" : 21,
+    "end" : 22
+  },
+  "relationID" : "APW_ENG_20030603.0303-R2",
+  "mentionArg1" : {
+    "extent" : "the highest appeals court in the country",
+    "argMentionid" : "APW_ENG_20030603.0303-E1-4",
+    "start" : 16,
+    "end" : 22
+  },
+  "id" : "APW_ENG_20030603.0303-R2-2",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The ruling by judges Piet Streicher and Mohamed Navsa of the Supreme Court of Appeal , the highest appeals court in the country , means that Basson cannot be tried again and his acquittal stands , the South African Press Association reported .",
+  "sentence_index" : 3,
+  "Tokens" : [ "The", "ruling", "by", "judges", "Piet", "Streicher", "and", "Mohamed", "Navsa", "of", "the", "Supreme", "Court", "of", "Appeal", ",", "the", "highest", "appeals", "court", "in", "the", "country", ",", "means", "that", "Basson", "cannot", "be", "tried", "again", "and", "his", "acquittal", "stands", ",", "the", "South", "African", "Press", "Association", "reported", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "South Africa's former apartheid regime's",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "South Africa's",
+    "argMentionid" : "APW_ENG_20030603.0303-E19-45",
+    "start" : 5,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030603.0303-R3",
+  "mentionArg1" : {
+    "extent" : "South Africa's former apartheid regime's",
+    "argMentionid" : "APW_ENG_20030603.0303-E25-44",
+    "start" : 5,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030603.0303-R3-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Basson was accused of directing South Africa 's former apartheid regime 's biochemical efforts aimed at destroying its opponents .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Basson", "was", "accused", "of", "directing", "South", "Africa", "'s", "former", "apartheid", "regime", "'s", "biochemical", "efforts", "aimed", "at", "destroying", "its", "opponents", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "judges Piet Streicher and Mohamed Navsa of the Supreme Court of Appeal",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "the Supreme Court of Appeal",
+    "argMentionid" : "APW_ENG_20030603.0303-E1-3",
+    "start" : 10,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030603.0303-R4",
+  "mentionArg1" : {
+    "extent" : "judges",
+    "argMentionid" : "APW_ENG_20030603.0303-E29-50",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "APW_ENG_20030603.0303-R4-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "The ruling by judges Piet Streicher and Mohamed Navsa of the Supreme Court of Appeal , the highest appeals court in the country , means that Basson cannot be tried again and his acquittal stands , the South African Press Association reported .",
+  "sentence_index" : 3,
+  "Tokens" : [ "The", "ruling", "by", "judges", "Piet", "Streicher", "and", "Mohamed", "Navsa", "of", "the", "Supreme", "Court", "of", "Appeal", ",", "the", "highest", "appeals", "court", "in", "the", "country", ",", "means", "that", "Basson", "cannot", "be", "tried", "again", "and", "his", "acquittal", "stands", ",", "the", "South", "African", "Press", "Association", "reported", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "several African National Congress leaders",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "African National Congress",
+    "argMentionid" : "APW_ENG_20030603.0303-E14-30",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030603.0303-R6",
+  "mentionArg1" : {
+    "extent" : "several African National Congress leaders",
+    "argMentionid" : "APW_ENG_20030603.0303-E13-29",
+    "start" : 10,
+    "end" : 14
+  },
+  "id" : "APW_ENG_20030603.0303-R6-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "The alleged intended victims included former President Nelson Mandela and several African National Congress leaders who are now high-ranking government officials .",
+  "sentence_index" : 10,
+  "Tokens" : [ "The", "alleged", "intended", "victims", "included", "former", "President", "Nelson", "Mandela", "and", "several", "African", "National", "Congress", "leaders", "who", "are", "now", "high-ranking", "government", "officials", "." ]
+} ]

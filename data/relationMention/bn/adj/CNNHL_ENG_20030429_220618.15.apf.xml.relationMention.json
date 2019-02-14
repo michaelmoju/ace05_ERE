@@ -1,0 +1,111 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "aids activists and lawmakers from around the world",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "the world",
+    "argMentionid" : "CNNHL_ENG_20030429_220618.15-E7-8",
+    "start" : 27,
+    "end" : 28
+  },
+  "relationID" : "CNNHL_ENG_20030429_220618.15-R1",
+  "mentionArg1" : {
+    "extent" : "aids activists and lawmakers from around the world",
+    "argMentionid" : "CNNHL_ENG_20030429_220618.15-E6-7",
+    "start" : 21,
+    "end" : 28
+  },
+  "id" : "CNNHL_ENG_20030429_220618.15-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "president bush is pushing congress to pass his $15 billion worldwide program for fighting aids. at a white house gathering of aids activists and lawmakers from around the world , the president said hir plan could prevent 7 million new hiv infections -- and treat at least 2 million people over the next decade .",
+  "sentence_index" : 0,
+  "Tokens" : [ "president", "bush", "is", "pushing", "congress", "to", "pass", "his", "$15", "billion", "worldwide", "program", "for", "fighting", "aids.", "at", "a", "white", "house", "gathering", "of", "aids", "activists", "and", "lawmakers", "from", "around", "the", "world", ",", "the", "president", "said", "hir", "plan", "could", "prevent", "7", "million", "new", "hiv", "infections", "--", "and", "treat", "at", "least", "2", "million", "people", "over", "the", "next", "decade", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "at a white house gathering of aids activists and lawmakers from around the world, the president said hir plan could prevent 7 million new hiv infections -- and treat at least 2 million people over the next decade",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "white house",
+    "argMentionid" : "CNNHL_ENG_20030429_220618.15-E4-5",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "CNNHL_ENG_20030429_220618.15-R2",
+  "mentionArg1" : {
+    "extent" : "aids activists and lawmakers from around the world",
+    "argMentionid" : "CNNHL_ENG_20030429_220618.15-E6-7",
+    "start" : 21,
+    "end" : 28
+  },
+  "id" : "CNNHL_ENG_20030429_220618.15-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "president bush is pushing congress to pass his $15 billion worldwide program for fighting aids. at a white house gathering of aids activists and lawmakers from around the world , the president said hir plan could prevent 7 million new hiv infections -- and treat at least 2 million people over the next decade .",
+  "sentence_index" : 0,
+  "Tokens" : [ "president", "bush", "is", "pushing", "congress", "to", "pass", "his", "$15", "billion", "worldwide", "program", "for", "fighting", "aids.", "at", "a", "white", "house", "gathering", "of", "aids", "activists", "and", "lawmakers", "from", "around", "the", "world", ",", "the", "president", "said", "hir", "plan", "could", "prevent", "7", "million", "new", "hiv", "infections", "--", "and", "treat", "at", "least", "2", "million", "people", "over", "the", "next", "decade", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "at a white house gathering of aids activists and lawmakers from around the world, the president said hir plan could prevent 7 million new hiv infections -- and treat at least 2 million people over the next decade",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "white house",
+    "argMentionid" : "CNNHL_ENG_20030429_220618.15-E4-5",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "CNNHL_ENG_20030429_220618.15-R3",
+  "mentionArg1" : {
+    "extent" : "the president",
+    "argMentionid" : "CNNHL_ENG_20030429_220618.15-E1-9",
+    "start" : 30,
+    "end" : 31
+  },
+  "id" : "CNNHL_ENG_20030429_220618.15-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "president bush is pushing congress to pass his $15 billion worldwide program for fighting aids. at a white house gathering of aids activists and lawmakers from around the world , the president said hir plan could prevent 7 million new hiv infections -- and treat at least 2 million people over the next decade .",
+  "sentence_index" : 0,
+  "Tokens" : [ "president", "bush", "is", "pushing", "congress", "to", "pass", "his", "$15", "billion", "worldwide", "program", "for", "fighting", "aids.", "at", "a", "white", "house", "gathering", "of", "aids", "activists", "and", "lawmakers", "from", "around", "the", "world", ",", "the", "president", "said", "hir", "plan", "could", "prevent", "7", "million", "new", "hiv", "infections", "--", "and", "treat", "at", "least", "2", "million", "people", "over", "the", "next", "decade", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "aids activists and lawmakers from around the world",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "the world",
+    "argMentionid" : "CNNHL_ENG_20030429_220618.15-E7-8",
+    "start" : 27,
+    "end" : 28
+  },
+  "relationID" : "CNNHL_ENG_20030429_220618.15-R4",
+  "mentionArg1" : {
+    "extent" : "aids activists and lawmakers from around the world",
+    "argMentionid" : "CNNHL_ENG_20030429_220618.15-E5-6",
+    "start" : 21,
+    "end" : 28
+  },
+  "id" : "CNNHL_ENG_20030429_220618.15-R4-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "president bush is pushing congress to pass his $15 billion worldwide program for fighting aids. at a white house gathering of aids activists and lawmakers from around the world , the president said hir plan could prevent 7 million new hiv infections -- and treat at least 2 million people over the next decade .",
+  "sentence_index" : 0,
+  "Tokens" : [ "president", "bush", "is", "pushing", "congress", "to", "pass", "his", "$15", "billion", "worldwide", "program", "for", "fighting", "aids.", "at", "a", "white", "house", "gathering", "of", "aids", "activists", "and", "lawmakers", "from", "around", "the", "world", ",", "the", "president", "said", "hir", "plan", "could", "prevent", "7", "million", "new", "hiv", "infections", "--", "and", "treat", "at", "least", "2", "million", "people", "over", "the", "next", "decade", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "at a white house gathering of aids activists and lawmakers from around the world, the president said hir plan could prevent 7 million new hiv infections -- and treat at least 2 million people over the next decade",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "white house",
+    "argMentionid" : "CNNHL_ENG_20030429_220618.15-E4-5",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "CNNHL_ENG_20030429_220618.15-R5",
+  "mentionArg1" : {
+    "extent" : "aids activists and lawmakers from around the world",
+    "argMentionid" : "CNNHL_ENG_20030429_220618.15-E5-6",
+    "start" : 21,
+    "end" : 28
+  },
+  "id" : "CNNHL_ENG_20030429_220618.15-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "president bush is pushing congress to pass his $15 billion worldwide program for fighting aids. at a white house gathering of aids activists and lawmakers from around the world , the president said hir plan could prevent 7 million new hiv infections -- and treat at least 2 million people over the next decade .",
+  "sentence_index" : 0,
+  "Tokens" : [ "president", "bush", "is", "pushing", "congress", "to", "pass", "his", "$15", "billion", "worldwide", "program", "for", "fighting", "aids.", "at", "a", "white", "house", "gathering", "of", "aids", "activists", "and", "lawmakers", "from", "around", "the", "world", ",", "the", "president", "said", "hir", "plan", "could", "prevent", "7", "million", "new", "hiv", "infections", "--", "and", "treat", "at", "least", "2", "million", "people", "over", "the", "next", "decade", "." ]
+} ]

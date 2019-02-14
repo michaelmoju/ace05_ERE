@@ -1,0 +1,771 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "17,000 U.S. Army soldiers",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "U.S. Army",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E66-157",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R1",
+  "mentionArg1" : {
+    "extent" : "17,000 U.S. Army soldiers",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E25-1",
+    "start" : 6,
+    "end" : 9
+  },
+  "id" : "CNN_CF_20030303.1900.02-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Orders went out today to deploy 17,000 U.S. Army soldiers in the Persian Gulf region .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Orders", "went", "out", "today", "to", "deploy", "17,000", "U.S.", "Army", "soldiers", "in", "the", "Persian", "Gulf", "region", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "U.S. Army",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E4-186",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R2",
+  "mentionArg1" : {
+    "extent" : "U.S. Army",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E66-157",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "CNN_CF_20030303.1900.02-R2-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Orders went out today to deploy 17,000 U.S. Army soldiers in the Persian Gulf region .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Orders", "went", "out", "today", "to", "deploy", "17,000", "U.S.", "Army", "soldiers", "in", "the", "Persian", "Gulf", "region", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Persian Gulf region",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "the Persian Gulf region",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E76-191",
+    "start" : 11,
+    "end" : 14
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R3",
+  "mentionArg1" : {
+    "extent" : "Persian Gulf",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E77-192",
+    "start" : 12,
+    "end" : 13
+  },
+  "id" : "CNN_CF_20030303.1900.02-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Orders went out today to deploy 17,000 U.S. Army soldiers in the Persian Gulf region .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Orders", "went", "out", "today", "to", "deploy", "17,000", "U.S.", "Army", "soldiers", "in", "the", "Persian", "Gulf", "region", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "The army's entire first Calvary division based at Fort Hood, Texas",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "The army",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E66-193",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R4",
+  "mentionArg1" : {
+    "extent" : "The army's entire first Calvary division based at Fort Hood, Texas",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E78-195",
+    "start" : 0,
+    "end" : 12
+  },
+  "id" : "CNN_CF_20030303.1900.02-R4-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The army 's entire first Calvary division based at Fort Hood , Texas , would join the quarter million U.S. forces already in the region .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "army", "'s", "entire", "first", "Calvary", "division", "based", "at", "Fort", "Hood", ",", "Texas", ",", "would", "join", "the", "quarter", "million", "U.S.", "forces", "already", "in", "the", "region", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Fort Hood, Texas",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Texas",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E80-197",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R5",
+  "mentionArg1" : {
+    "extent" : "Fort Hood, Texas",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E79-196",
+    "start" : 9,
+    "end" : 12
+  },
+  "id" : "CNN_CF_20030303.1900.02-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The army 's entire first Calvary division based at Fort Hood , Texas , would join the quarter million U.S. forces already in the region .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "army", "'s", "entire", "first", "Calvary", "division", "based", "at", "Fort", "Hood", ",", "Texas", ",", "would", "join", "the", "quarter", "million", "U.S.", "forces", "already", "in", "the", "region", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the quarter million U.S. forces already in the region",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E4-199",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R6",
+  "mentionArg1" : {
+    "extent" : "the quarter million U.S. forces already in the region",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E81-198",
+    "start" : 16,
+    "end" : 24
+  },
+  "id" : "CNN_CF_20030303.1900.02-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The army 's entire first Calvary division based at Fort Hood , Texas , would join the quarter million U.S. forces already in the region .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "army", "'s", "entire", "first", "Calvary", "division", "based", "at", "Fort", "Hood", ",", "Texas", ",", "would", "join", "the", "quarter", "million", "U.S.", "forces", "already", "in", "the", "region", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the quarter million U.S. forces already in the region",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "the region",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E76-200",
+    "start" : 23,
+    "end" : 24
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R7",
+  "mentionArg1" : {
+    "extent" : "the quarter million U.S. forces already in the region",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E81-198",
+    "start" : 16,
+    "end" : 24
+  },
+  "id" : "CNN_CF_20030303.1900.02-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The army 's entire first Calvary division based at Fort Hood , Texas , would join the quarter million U.S. forces already in the region .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "army", "'s", "entire", "first", "Calvary", "division", "based", "at", "Fort", "Hood", ",", "Texas", ",", "would", "join", "the", "quarter", "million", "U.S.", "forces", "already", "in", "the", "region", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Democrat of Maine",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Maine",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E2-4",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R8",
+  "mentionArg1" : {
+    "extent" : "Democrat of Maine",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E1-3",
+    "start" : 15,
+    "end" : 17
+  },
+  "id" : "CNN_CF_20030303.1900.02-R8-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "We 're talking about possibilities of full scale war with former Congressman Tom Andrews , Democrat of Maine .",
+  "sentence_index" : 3,
+  "Tokens" : [ "We", "'re", "talking", "about", "possibilities", "of", "full", "scale", "war", "with", "former", "Congressman", "Tom", "Andrews", ",", "Democrat", "of", "Maine", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "national director of Win Without War",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Win Without War",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E7-10",
+    "start" : 6,
+    "end" : 8
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R9",
+  "mentionArg1" : {
+    "extent" : "national director of Win Without War",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E1-8",
+    "start" : 3,
+    "end" : 8
+  },
+  "id" : "CNN_CF_20030303.1900.02-R9-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "He 's now national director of Win Without War , and former Congressman Bob Dornan , Republican of California .",
+  "sentence_index" : 4,
+  "Tokens" : [ "He", "'s", "now", "national", "director", "of", "Win", "Without", "War", ",", "and", "former", "Congressman", "Bob", "Dornan", ",", "Republican", "of", "California", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Republican of California",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "California",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E10-13",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R10",
+  "mentionArg1" : {
+    "extent" : "Republican of California",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E6-12",
+    "start" : 16,
+    "end" : 18
+  },
+  "id" : "CNN_CF_20030303.1900.02-R10-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "He 's now national director of Win Without War , and former Congressman Bob Dornan , Republican of California .",
+  "sentence_index" : 4,
+  "Tokens" : [ "He", "'s", "now", "national", "director", "of", "Win", "Without", "War", ",", "and", "former", "Congressman", "Bob", "Dornan", ",", "Republican", "of", "California", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Former Congressman, Bob Dornan from California",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "California",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E10-120",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R10",
+  "mentionArg1" : {
+    "extent" : "Former Congressman, Bob Dornan from California",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E6-118",
+    "start" : 0,
+    "end" : 6
+  },
+  "id" : "CNN_CF_20030303.1900.02-R10-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Former Congressman , Bob Dornan from California ... DORNAN You 're not going to get a smoking city .",
+  "sentence_index" : 48,
+  "Tokens" : [ "Former", "Congressman", ",", "Bob", "Dornan", "from", "California", "...", "DORNAN", "You", "'re", "not", "going", "to", "get", "a", "smoking", "city", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "so many people around the world",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "the world",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E14-18",
+    "start" : 22,
+    "end" : 23
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R11",
+  "mentionArg1" : {
+    "extent" : "so many people around the world",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E13-17",
+    "start" : 18,
+    "end" : 23
+  },
+  "id" : "CNN_CF_20030303.1900.02-R11-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "BEGALA Bob , one of the reasons I think so many Americans are worried about this war and so many people around the world do n't want to go is there have been a lot of problems with credibility from this administration .",
+  "sentence_index" : 5,
+  "Tokens" : [ "BEGALA", "Bob", ",", "one", "of", "the", "reasons", "I", "think", "so", "many", "Americans", "are", "worried", "about", "this", "war", "and", "so", "many", "people", "around", "the", "world", "do", "n't", "want", "to", "go", "is", "there", "have", "been", "a", "lot", "of", "problems", "with", "credibility", "from", "this", "administration", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Our president",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Our",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E4-21",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R12",
+  "mentionArg1" : {
+    "extent" : "Our president",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E16-20",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_CF_20030303.1900.02-R12-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Our president has repeatedly , for example , relied on a man whom you 're aware , Hussein Kamel , Saddam Hussein 's son-in-law , leader of the Iraq arms program who defected for a time .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Our", "president", "has", "repeatedly", ",", "for", "example", ",", "relied", "on", "a", "man", "whom", "you", "'re", "aware", ",", "Hussein", "Kamel", ",", "Saddam", "Hussein", "'s", "son-in-law", ",", "leader", "of", "the", "Iraq", "arms", "program", "who", "defected", "for", "a", "time", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our president",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E4-41",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R12",
+  "mentionArg1" : {
+    "extent" : "our president",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E16-55",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "CNN_CF_20030303.1900.02-R12-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Well , our president told us that information proves that the dictator had chemical weapons , which is true .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Well", ",", "our", "president", "told", "us", "that", "information", "proves", "that", "the", "dictator", "had", "chemical", "weapons", ",", "which", "is", "true", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our president",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E4-68",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R12",
+  "mentionArg1" : {
+    "extent" : "our president",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E16-67",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "CNN_CF_20030303.1900.02-R12-3",
+  "relationSubType" : "Employment",
+  "Sentence" : "But should n't our president have told us what the CIA told him .",
+  "sentence_index" : 18,
+  "Tokens" : [ "But", "should", "n't", "our", "president", "have", "told", "us", "what", "the", "CIA", "told", "him", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Saddam Hussein's son-in-law",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Saddam Hussein's son-in-law",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E17-25",
+    "start" : 20,
+    "end" : 23
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R13",
+  "mentionArg1" : {
+    "extent" : "Saddam Hussein",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E20-27",
+    "start" : 20,
+    "end" : 21
+  },
+  "id" : "CNN_CF_20030303.1900.02-R13-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Our president has repeatedly , for example , relied on a man whom you 're aware , Hussein Kamel , Saddam Hussein 's son-in-law , leader of the Iraq arms program who defected for a time .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Our", "president", "has", "repeatedly", ",", "for", "example", ",", "relied", "on", "a", "man", "whom", "you", "'re", "aware", ",", "Hussein", "Kamel", ",", "Saddam", "Hussein", "'s", "son-in-law", ",", "leader", "of", "the", "Iraq", "arms", "program", "who", "defected", "for", "a", "time", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his father-in-law",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E17-64",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R13",
+  "mentionArg1" : {
+    "extent" : "his father-in-law",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E20-63",
+    "start" : 14,
+    "end" : 15
+  },
+  "id" : "CNN_CF_20030303.1900.02-R13-2",
+  "relationSubType" : "Family",
+  "Sentence" : "The fact that this guy was such an idiot to go back and let his father-in-law kill him shows he was n't the most stable of people .",
+  "sentence_index" : 16,
+  "Tokens" : [ "The", "fact", "that", "this", "guy", "was", "such", "an", "idiot", "to", "go", "back", "and", "let", "his", "father-in-law", "kill", "him", "shows", "he", "was", "n't", "the", "most", "stable", "of", "people", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his father-in-law",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E17-35",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R13",
+  "mentionArg1" : {
+    "extent" : "his father-in-law",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E20-34",
+    "start" : 13,
+    "end" : 14
+  },
+  "id" : "CNN_CF_20030303.1900.02-R13-3",
+  "relationSubType" : "Family",
+  "Sentence" : "And gave us a whole lot of information and then went home and his father-in-law killed him .",
+  "sentence_index" : 7,
+  "Tokens" : [ "And", "gave", "us", "a", "whole", "lot", "of", "information", "and", "then", "went", "home", "and", "his", "father-in-law", "killed", "him", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "leader of the Iraq arms program who defected for a time",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "the Iraq arms program",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E24-31",
+    "start" : 27,
+    "end" : 30
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R14",
+  "mentionArg1" : {
+    "extent" : "leader of the Iraq arms program who defected for a time",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E17-26",
+    "start" : 25,
+    "end" : 35
+  },
+  "id" : "CNN_CF_20030303.1900.02-R14-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Our president has repeatedly , for example , relied on a man whom you 're aware , Hussein Kamel , Saddam Hussein 's son-in-law , leader of the Iraq arms program who defected for a time .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Our", "president", "has", "repeatedly", ",", "for", "example", ",", "relied", "on", "a", "man", "whom", "you", "'re", "aware", ",", "Hussein", "Kamel", ",", "Saddam", "Hussein", "'s", "son-in-law", ",", "leader", "of", "the", "Iraq", "arms", "program", "who", "defected", "for", "a", "time", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Orders went out today to deploy 17,000 U.S. Army soldiers in the Persian Gulf region",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "the Persian Gulf region",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E76-191",
+    "start" : 11,
+    "end" : 14
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R15",
+  "mentionArg1" : {
+    "extent" : "17,000 U.S. Army soldiers",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E25-1",
+    "start" : 6,
+    "end" : 9
+  },
+  "id" : "CNN_CF_20030303.1900.02-R15-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Orders went out today to deploy 17,000 U.S. Army soldiers in the Persian Gulf region .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Orders", "went", "out", "today", "to", "deploy", "17,000", "U.S.", "Army", "soldiers", "in", "the", "Persian", "Gulf", "region", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Iraq arms program",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E22-28",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R16",
+  "mentionArg1" : {
+    "extent" : "the Iraq arms program",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E24-31",
+    "start" : 27,
+    "end" : 30
+  },
+  "id" : "CNN_CF_20030303.1900.02-R16-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Our president has repeatedly , for example , relied on a man whom you 're aware , Hussein Kamel , Saddam Hussein 's son-in-law , leader of the Iraq arms program who defected for a time .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Our", "president", "has", "repeatedly", ",", "for", "example", ",", "relied", "on", "a", "man", "whom", "you", "'re", "aware", ",", "Hussein", "Kamel", ",", "Saddam", "Hussein", "'s", "son-in-law", ",", "leader", "of", "the", "Iraq", "arms", "program", "who", "defected", "for", "a", "time", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "But while he was here, he gave us a whole lot of information",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E4-166",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R17",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E17-37",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "CNN_CF_20030303.1900.02-R17-1",
+  "relationSubType" : "Located",
+  "Sentence" : "But while he was here , he gave us a whole lot of information .",
+  "sentence_index" : 9,
+  "Tokens" : [ "But", "while", "he", "was", "here", ",", "he", "gave", "us", "a", "whole", "lot", "of", "information", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Well, our president told us that information proves that the dictator had chemical weapons, which is true",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "chemical weapons",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E26-44",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R18",
+  "mentionArg1" : {
+    "extent" : "the dictator",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E20-43",
+    "start" : 10,
+    "end" : 11
+  },
+  "id" : "CNN_CF_20030303.1900.02-R18-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Well , our president told us that information proves that the dictator had chemical weapons , which is true .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Well", ",", "our", "president", "told", "us", "that", "information", "proves", "that", "the", "dictator", "had", "chemical", "weapons", ",", "which", "is", "true", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Bush isn't sitting in that White House not thinking about the body bags coming home with great young men",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "that White House",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E31-83",
+    "start" : 5,
+    "end" : 7
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R19",
+  "mentionArg1" : {
+    "extent" : "Bush",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E16-82",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_CF_20030303.1900.02-R19-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Bush is n't sitting in that White House not thinking about the body bags coming home with great young men .",
+  "sentence_index" : 22,
+  "Tokens" : [ "Bush", "is", "n't", "sitting", "in", "that", "White", "House", "not", "thinking", "about", "the", "body", "bags", "coming", "home", "with", "great", "young", "men", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "all their families",
+  "sentence_length" : 6,
+  "mentionArg2" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E36-93",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R20",
+  "mentionArg1" : {
+    "extent" : "all their families",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E39-92",
+    "start" : 2,
+    "end" : 4
+  },
+  "id" : "CNN_CF_20030303.1900.02-R20-1",
+  "relationSubType" : "Family",
+  "Sentence" : "I visited all their families .",
+  "sentence_index" : 24,
+  "Tokens" : [ "I", "visited", "all", "their", "families", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. troops",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E4-194",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R21",
+  "mentionArg1" : {
+    "extent" : "U.S. troops",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E21-7",
+    "start" : 27,
+    "end" : 28
+  },
+  "id" : "CNN_CF_20030303.1900.02-R21-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "And so I would like you to take a look at the CNN / \" USA TODAY \" / Gallup poll , taken last week , should U.S. troops to go to Iraq to remove Saddam Hussein from power .",
+  "sentence_index" : 31,
+  "Tokens" : [ "And", "so", "I", "would", "like", "you", "to", "take", "a", "look", "at", "the", "CNN", "/", "\"", "USA", "TODAY", "\"", "/", "Gallup", "poll", ",", "taken", "last", "week", ",", "should", "U.S.", "troops", "to", "go", "to", "Iraq", "to", "remove", "Saddam", "Hussein", "from", "power", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "And so I would like you to take a look at the CNN/\"USA TODAY\"/Gallup poll, taken last week, should U.S. troops to go to Iraq to remove Saddam Hussein from power",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E22-29",
+    "start" : 32,
+    "end" : 32
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R22",
+  "mentionArg1" : {
+    "extent" : "U.S. troops",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E21-7",
+    "start" : 27,
+    "end" : 28
+  },
+  "id" : "CNN_CF_20030303.1900.02-R22-1",
+  "relationSubType" : "Located",
+  "Sentence" : "And so I would like you to take a look at the CNN / \" USA TODAY \" / Gallup poll , taken last week , should U.S. troops to go to Iraq to remove Saddam Hussein from power .",
+  "sentence_index" : 31,
+  "Tokens" : [ "And", "so", "I", "would", "like", "you", "to", "take", "a", "look", "at", "the", "CNN", "/", "\"", "USA", "TODAY", "\"", "/", "Gallup", "poll", ",", "taken", "last", "week", ",", "should", "U.S.", "troops", "to", "go", "to", "Iraq", "to", "remove", "Saddam", "Hussein", "from", "power", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Let me tell you, what trips to Walter Reed taught me was, that whoever thought up the term, the law of unintended consequences it pertains to war",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Walter Reed",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E40-96",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R23",
+  "mentionArg1" : {
+    "extent" : "me",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E6-80",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "CNN_CF_20030303.1900.02-R23-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Let me tell you , what trips to Walter Reed taught me was , that whoever thought up the term , the law of unintended consequences it pertains to war .",
+  "sentence_index" : 26,
+  "Tokens" : [ "Let", "me", "tell", "you", ",", "what", "trips", "to", "Walter", "Reed", "taught", "me", "was", ",", "that", "whoever", "thought", "up", "the", "term", ",", "the", "law", "of", "unintended", "consequences", "it", "pertains", "to", "war", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Take a look at it. Favor 59%, opposed 37%, that's a vastly larger support than President Bush Senior had in getting the U.S. troops out of Kuwait before that war started",
+  "sentence_length" : 6,
+  "mentionArg2" : {
+    "extent" : "Kuwait",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E53-127",
+    "start" : 32,
+    "end" : 32
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R24",
+  "mentionArg1" : {
+    "extent" : "the U.S. troops",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E68-173",
+    "start" : 27,
+    "end" : 29
+  },
+  "id" : "CNN_CF_20030303.1900.02-R24-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Take a look at it .",
+  "sentence_index" : 32,
+  "Tokens" : [ "Take", "a", "look", "at", "it", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the U.S. troops",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E4-124",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R25",
+  "mentionArg1" : {
+    "extent" : "the U.S. troops",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E68-173",
+    "start" : 21,
+    "end" : 23
+  },
+  "id" : "CNN_CF_20030303.1900.02-R25-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Favor 59 % , opposed 37 % , that 's a vastly larger support than President Bush Senior had in getting the U.S. troops out of Kuwait before that war started .",
+  "sentence_index" : 33,
+  "Tokens" : [ "Favor", "59", "%", ",", "opposed", "37", "%", ",", "that", "'s", "a", "vastly", "larger", "support", "than", "President", "Bush", "Senior", "had", "in", "getting", "the", "U.S.", "troops", "out", "of", "Kuwait", "before", "that", "war", "started", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the most distable and volatile regions in the world",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "the world",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E45-110",
+    "start" : 39,
+    "end" : 40
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R26",
+  "mentionArg1" : {
+    "extent" : "the most distable and volatile regions in the world",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E69-176",
+    "start" : 32,
+    "end" : 40
+  },
+  "id" : "CNN_CF_20030303.1900.02-R26-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Ask them about going and not just a war , Bob , but an invasion and occupying for up to 10 years a sovereign Arab nation in the midst of one of the most distable and volatile regions in the world .",
+  "sentence_index" : 39,
+  "Tokens" : [ "Ask", "them", "about", "going", "and", "not", "just", "a", "war", ",", "Bob", ",", "but", "an", "invasion", "and", "occupying", "for", "up", "to", "10", "years", "a", "sovereign", "Arab", "nation", "in", "the", "midst", "of", "one", "of", "the", "most", "distable", "and", "volatile", "regions", "in", "the", "world", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "He will blow a city off the earth in a minute if he can get the hold of the means to do it",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "the earth",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E45-104",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R27",
+  "mentionArg1" : {
+    "extent" : "a city",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E44-103",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "CNN_CF_20030303.1900.02-R27-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "He will blow a city off the earth in a minute if he can get the hold of the means to do it .",
+  "sentence_index" : 29,
+  "Tokens" : [ "He", "will", "blow", "a", "city", "off", "the", "earth", "in", "a", "minute", "if", "he", "can", "get", "the", "hold", "of", "the", "means", "to", "do", "it", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "The army's entire first Calvary division based at Fort Hood, Texas",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Fort Hood, Texas",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E79-196",
+    "start" : 9,
+    "end" : 12
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R28",
+  "mentionArg1" : {
+    "extent" : "The army's entire first Calvary division based at Fort Hood, Texas",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E78-195",
+    "start" : 0,
+    "end" : 12
+  },
+  "id" : "CNN_CF_20030303.1900.02-R28-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "The army 's entire first Calvary division based at Fort Hood , Texas , would join the quarter million U.S. forces already in the region .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "army", "'s", "entire", "first", "Calvary", "division", "based", "at", "Fort", "Hood", ",", "Texas", ",", "would", "join", "the", "quarter", "million", "U.S.", "forces", "already", "in", "the", "region", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "And so I would like you to take a look at the CNN/\"USA TODAY\"/Gallup poll, taken last week, should U.S. troops to go to Iraq to remove Saddam Hussein from power",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E22-29",
+    "start" : 32,
+    "end" : 32
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R29",
+  "mentionArg1" : {
+    "extent" : "Saddam Hussein",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E20-30",
+    "start" : 35,
+    "end" : 36
+  },
+  "id" : "CNN_CF_20030303.1900.02-R29-1",
+  "relationSubType" : "Located",
+  "Sentence" : "And so I would like you to take a look at the CNN / \" USA TODAY \" / Gallup poll , taken last week , should U.S. troops to go to Iraq to remove Saddam Hussein from power .",
+  "sentence_index" : 31,
+  "Tokens" : [ "And", "so", "I", "would", "like", "you", "to", "take", "a", "look", "at", "the", "CNN", "/", "\"", "USA", "TODAY", "\"", "/", "Gallup", "poll", ",", "taken", "last", "week", ",", "should", "U.S.", "troops", "to", "go", "to", "Iraq", "to", "remove", "Saddam", "Hussein", "from", "power", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a sovereign Arab nation in the midst of one of the most distable and volatile regions in the world",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "one of the most distable and volatile regions in the world",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E57-146",
+    "start" : 30,
+    "end" : 40
+  },
+  "relationID" : "CNN_CF_20030303.1900.02-R30",
+  "mentionArg1" : {
+    "extent" : "a sovereign Arab nation in the midst of one of the most distable and volatile regions in the world",
+    "argMentionid" : "CNN_CF_20030303.1900.02-E22-144",
+    "start" : 22,
+    "end" : 40
+  },
+  "id" : "CNN_CF_20030303.1900.02-R30-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Ask them about going and not just a war , Bob , but an invasion and occupying for up to 10 years a sovereign Arab nation in the midst of one of the most distable and volatile regions in the world .",
+  "sentence_index" : 39,
+  "Tokens" : [ "Ask", "them", "about", "going", "and", "not", "just", "a", "war", ",", "Bob", ",", "but", "an", "invasion", "and", "occupying", "for", "up", "to", "10", "years", "a", "sovereign", "Arab", "nation", "in", "the", "midst", "of", "one", "of", "the", "most", "distable", "and", "volatile", "regions", "in", "the", "world", "." ]
+} ]

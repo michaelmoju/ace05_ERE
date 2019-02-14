@@ -1,0 +1,111 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "in michigan, a second straight night and into this morning, hundreds of people have been rioting in benton harbor",
+  "sentence_length" : 58,
+  "mentionArg2" : {
+    "extent" : "benton harbor",
+    "argMentionid" : "CNN_ENG_20030618_065839.11-E3-3",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "CNN_ENG_20030618_065839.11-R1",
+  "mentionArg1" : {
+    "extent" : "hundreds of people",
+    "argMentionid" : "CNN_ENG_20030618_065839.11-E2-2",
+    "start" : 12,
+    "end" : 14
+  },
+  "id" : "CNN_ENG_20030618_065839.11-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "in michigan , a second straight night and into this morning , hundreds of people have been rioting in benton harbor. a man on a motorcycle was killed while being chased about i police , the violence broke out. the governor has declared a state of emergency. mark alberts from our affiliate has more from benton harbor .",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "michigan", ",", "a", "second", "straight", "night", "and", "into", "this", "morning", ",", "hundreds", "of", "people", "have", "been", "rioting", "in", "benton", "harbor.", "a", "man", "on", "a", "motorcycle", "was", "killed", "while", "being", "chased", "about", "i", "police", ",", "the", "violence", "broke", "out.", "the", "governor", "has", "declared", "a", "state", "of", "emergency.", "mark", "alberts", "from", "our", "affiliate", "has", "more", "from", "benton", "harbor", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "mark alberts from our affiliate has more from benton harbor",
+  "sentence_length" : 58,
+  "mentionArg2" : {
+    "extent" : "benton harbor",
+    "argMentionid" : "CNN_ENG_20030618_065839.11-E3-11",
+    "start" : 55,
+    "end" : 56
+  },
+  "relationID" : "CNN_ENG_20030618_065839.11-R2",
+  "mentionArg1" : {
+    "extent" : "mark alberts",
+    "argMentionid" : "CNN_ENG_20030618_065839.11-E8-8",
+    "start" : 47,
+    "end" : 48
+  },
+  "id" : "CNN_ENG_20030618_065839.11-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "in michigan , a second straight night and into this morning , hundreds of people have been rioting in benton harbor. a man on a motorcycle was killed while being chased about i police , the violence broke out. the governor has declared a state of emergency. mark alberts from our affiliate has more from benton harbor .",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "michigan", ",", "a", "second", "straight", "night", "and", "into", "this", "morning", ",", "hundreds", "of", "people", "have", "been", "rioting", "in", "benton", "harbor.", "a", "man", "on", "a", "motorcycle", "was", "killed", "while", "being", "chased", "about", "i", "police", ",", "the", "violence", "broke", "out.", "the", "governor", "has", "declared", "a", "state", "of", "emergency.", "mark", "alberts", "from", "our", "affiliate", "has", "more", "from", "benton", "harbor", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "mark alberts from our affiliate",
+  "sentence_length" : 58,
+  "mentionArg2" : {
+    "extent" : "our affiliate",
+    "argMentionid" : "CNN_ENG_20030618_065839.11-E9-9",
+    "start" : 50,
+    "end" : 51
+  },
+  "relationID" : "CNN_ENG_20030618_065839.11-R3",
+  "mentionArg1" : {
+    "extent" : "mark alberts",
+    "argMentionid" : "CNN_ENG_20030618_065839.11-E8-8",
+    "start" : 47,
+    "end" : 48
+  },
+  "id" : "CNN_ENG_20030618_065839.11-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "in michigan , a second straight night and into this morning , hundreds of people have been rioting in benton harbor. a man on a motorcycle was killed while being chased about i police , the violence broke out. the governor has declared a state of emergency. mark alberts from our affiliate has more from benton harbor .",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "michigan", ",", "a", "second", "straight", "night", "and", "into", "this", "morning", ",", "hundreds", "of", "people", "have", "been", "rioting", "in", "benton", "harbor.", "a", "man", "on", "a", "motorcycle", "was", "killed", "while", "being", "chased", "about", "i", "police", ",", "the", "violence", "broke", "out.", "the", "governor", "has", "declared", "a", "state", "of", "emergency.", "mark", "alberts", "from", "our", "affiliate", "has", "more", "from", "benton", "harbor", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a man on a motorcycle",
+  "sentence_length" : 58,
+  "mentionArg2" : {
+    "extent" : "a motorcycle",
+    "argMentionid" : "CNN_ENG_20030618_065839.11-E5-5",
+    "start" : 24,
+    "end" : 25
+  },
+  "relationID" : "CNN_ENG_20030618_065839.11-R4",
+  "mentionArg1" : {
+    "extent" : "a man on a motorcycle",
+    "argMentionid" : "CNN_ENG_20030618_065839.11-E4-4",
+    "start" : 21,
+    "end" : 25
+  },
+  "id" : "CNN_ENG_20030618_065839.11-R4-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "in michigan , a second straight night and into this morning , hundreds of people have been rioting in benton harbor. a man on a motorcycle was killed while being chased about i police , the violence broke out. the governor has declared a state of emergency. mark alberts from our affiliate has more from benton harbor .",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "michigan", ",", "a", "second", "straight", "night", "and", "into", "this", "morning", ",", "hundreds", "of", "people", "have", "been", "rioting", "in", "benton", "harbor.", "a", "man", "on", "a", "motorcycle", "was", "killed", "while", "being", "chased", "about", "i", "police", ",", "the", "violence", "broke", "out.", "the", "governor", "has", "declared", "a", "state", "of", "emergency.", "mark", "alberts", "from", "our", "affiliate", "has", "more", "from", "benton", "harbor", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "in michigan, a second straight night and into this morning, hundreds of people have been rioting in benton harbor",
+  "sentence_length" : 58,
+  "mentionArg2" : {
+    "extent" : "michigan",
+    "argMentionid" : "CNN_ENG_20030618_065839.11-E1-1",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "CNN_ENG_20030618_065839.11-R5",
+  "mentionArg1" : {
+    "extent" : "benton harbor",
+    "argMentionid" : "CNN_ENG_20030618_065839.11-E3-3",
+    "start" : 19,
+    "end" : 20
+  },
+  "id" : "CNN_ENG_20030618_065839.11-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "in michigan , a second straight night and into this morning , hundreds of people have been rioting in benton harbor. a man on a motorcycle was killed while being chased about i police , the violence broke out. the governor has declared a state of emergency. mark alberts from our affiliate has more from benton harbor .",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "michigan", ",", "a", "second", "straight", "night", "and", "into", "this", "morning", ",", "hundreds", "of", "people", "have", "been", "rioting", "in", "benton", "harbor.", "a", "man", "on", "a", "motorcycle", "was", "killed", "while", "being", "chased", "about", "i", "police", ",", "the", "violence", "broke", "out.", "the", "governor", "has", "declared", "a", "state", "of", "emergency.", "mark", "alberts", "from", "our", "affiliate", "has", "more", "from", "benton", "harbor", "." ]
+} ]

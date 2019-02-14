@@ -1,0 +1,177 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "Some 2,500 mainly university students",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "university",
+    "argMentionid" : "AFP_ENG_20030330.0211-E22-34",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "AFP_ENG_20030330.0211-R1",
+  "mentionArg1" : {
+    "extent" : "Some 2,500 mainly university students",
+    "argMentionid" : "AFP_ENG_20030330.0211-E3-33",
+    "start" : 7,
+    "end" : 11
+  },
+  "id" : "AFP_ENG_20030330.0211-R1-1",
+  "relationSubType" : "Student-Alum",
+  "Sentence" : "TOKYO , March 30 ( AFP ) Some 2,500 mainly university students formed a human chain in Japanese characters spelling out \" No War \" in Osaka on Sunday to protest against the ongoing US-led military campaign in Iraq .",
+  "sentence_index" : 0,
+  "Tokens" : [ "TOKYO", ",", "March", "30", "(", "AFP", ")", "Some", "2,500", "mainly", "university", "students", "formed", "a", "human", "chain", "in", "Japanese", "characters", "spelling", "out", "\"", "No", "War", "\"", "in", "Osaka", "on", "Sunday", "to", "protest", "against", "the", "ongoing", "US-led", "military", "campaign", "in", "Iraq", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the 2,000 expected to show up at the park at Osaka Castle in the city's downtown neighbourhood",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "the park at Osaka Castle in the city's downtown neighbourhood",
+    "argMentionid" : "AFP_ENG_20030330.0211-E5-11",
+    "start" : 11,
+    "end" : 21
+  },
+  "relationID" : "AFP_ENG_20030330.0211-R2",
+  "mentionArg1" : {
+    "extent" : "the 2,000 expected to show up at the park at Osaka Castle in the city's downtown neighbourhood",
+    "argMentionid" : "AFP_ENG_20030330.0211-E4-10",
+    "start" : 4,
+    "end" : 21
+  },
+  "id" : "AFP_ENG_20030330.0211-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Protesters , who exceeded the 2,000 expected to show up at the park at Osaka Castle in the city 's downtown neighbourhood , carried placards that read \" Stop war \" and \" Love and Peace \" while forming the human chain after 3:00 pm ( 0600 GMT ) , Jiji said .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Protesters", ",", "who", "exceeded", "the", "2,000", "expected", "to", "show", "up", "at", "the", "park", "at", "Osaka", "Castle", "in", "the", "city", "'s", "downtown", "neighbourhood", ",", "carried", "placards", "that", "read", "\"", "Stop", "war", "\"", "and", "\"", "Love", "and", "Peace", "\"", "while", "forming", "the", "human", "chain", "after", "3:00", "pm", "(", "0600", "GMT", ")", ",", "Jiji", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the park at Osaka Castle in the city's downtown neighbourhood",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "the park at Osaka Castle in the city's downtown neighbourhood",
+    "argMentionid" : "AFP_ENG_20030330.0211-E5-11",
+    "start" : 11,
+    "end" : 21
+  },
+  "relationID" : "AFP_ENG_20030330.0211-R3",
+  "mentionArg1" : {
+    "extent" : "Osaka Castle in the city's downtown neighbourhood",
+    "argMentionid" : "AFP_ENG_20030330.0211-E6-12",
+    "start" : 14,
+    "end" : 21
+  },
+  "id" : "AFP_ENG_20030330.0211-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Protesters , who exceeded the 2,000 expected to show up at the park at Osaka Castle in the city 's downtown neighbourhood , carried placards that read \" Stop war \" and \" Love and Peace \" while forming the human chain after 3:00 pm ( 0600 GMT ) , Jiji said .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Protesters", ",", "who", "exceeded", "the", "2,000", "expected", "to", "show", "up", "at", "the", "park", "at", "Osaka", "Castle", "in", "the", "city", "'s", "downtown", "neighbourhood", ",", "carried", "placards", "that", "read", "\"", "Stop", "war", "\"", "and", "\"", "Love", "and", "Peace", "\"", "while", "forming", "the", "human", "chain", "after", "3:00", "pm", "(", "0600", "GMT", ")", ",", "Jiji", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Osaka Castle in the city's downtown neighbourhood",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "the city's downtown neighbourhood",
+    "argMentionid" : "AFP_ENG_20030330.0211-E7-14",
+    "start" : 17,
+    "end" : 21
+  },
+  "relationID" : "AFP_ENG_20030330.0211-R4",
+  "mentionArg1" : {
+    "extent" : "Osaka Castle in the city's downtown neighbourhood",
+    "argMentionid" : "AFP_ENG_20030330.0211-E6-12",
+    "start" : 14,
+    "end" : 21
+  },
+  "id" : "AFP_ENG_20030330.0211-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Protesters , who exceeded the 2,000 expected to show up at the park at Osaka Castle in the city 's downtown neighbourhood , carried placards that read \" Stop war \" and \" Love and Peace \" while forming the human chain after 3:00 pm ( 0600 GMT ) , Jiji said .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Protesters", ",", "who", "exceeded", "the", "2,000", "expected", "to", "show", "up", "at", "the", "park", "at", "Osaka", "Castle", "in", "the", "city", "'s", "downtown", "neighbourhood", ",", "carried", "placards", "that", "read", "\"", "Stop", "war", "\"", "and", "\"", "Love", "and", "Peace", "\"", "while", "forming", "the", "human", "chain", "after", "3:00", "pm", "(", "0600", "GMT", ")", ",", "Jiji", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the city's downtown neighbourhood",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "downtown",
+    "argMentionid" : "AFP_ENG_20030330.0211-E8-15",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "AFP_ENG_20030330.0211-R5",
+  "mentionArg1" : {
+    "extent" : "the city's downtown neighbourhood",
+    "argMentionid" : "AFP_ENG_20030330.0211-E7-14",
+    "start" : 17,
+    "end" : 21
+  },
+  "id" : "AFP_ENG_20030330.0211-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Protesters , who exceeded the 2,000 expected to show up at the park at Osaka Castle in the city 's downtown neighbourhood , carried placards that read \" Stop war \" and \" Love and Peace \" while forming the human chain after 3:00 pm ( 0600 GMT ) , Jiji said .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Protesters", ",", "who", "exceeded", "the", "2,000", "expected", "to", "show", "up", "at", "the", "park", "at", "Osaka", "Castle", "in", "the", "city", "'s", "downtown", "neighbourhood", ",", "carried", "placards", "that", "read", "\"", "Stop", "war", "\"", "and", "\"", "Love", "and", "Peace", "\"", "while", "forming", "the", "human", "chain", "after", "3:00", "pm", "(", "0600", "GMT", ")", ",", "Jiji", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the city's downtown neighbourhood",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "the city",
+    "argMentionid" : "AFP_ENG_20030330.0211-E25-13",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "AFP_ENG_20030330.0211-R6",
+  "mentionArg1" : {
+    "extent" : "the city's downtown neighbourhood",
+    "argMentionid" : "AFP_ENG_20030330.0211-E7-14",
+    "start" : 17,
+    "end" : 21
+  },
+  "id" : "AFP_ENG_20030330.0211-R6-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Protesters , who exceeded the 2,000 expected to show up at the park at Osaka Castle in the city 's downtown neighbourhood , carried placards that read \" Stop war \" and \" Love and Peace \" while forming the human chain after 3:00 pm ( 0600 GMT ) , Jiji said .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Protesters", ",", "who", "exceeded", "the", "2,000", "expected", "to", "show", "up", "at", "the", "park", "at", "Osaka", "Castle", "in", "the", "city", "'s", "downtown", "neighbourhood", ",", "carried", "placards", "that", "read", "\"", "Stop", "war", "\"", "and", "\"", "Love", "and", "Peace", "\"", "while", "forming", "the", "human", "chain", "after", "3:00", "pm", "(", "0600", "GMT", ")", ",", "Jiji", "said", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "tens of thousands of peace activists across Japan",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Japan",
+    "argMentionid" : "AFP_ENG_20030330.0211-E23-18",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "AFP_ENG_20030330.0211-R7",
+  "mentionArg1" : {
+    "extent" : "tens of thousands of peace activists across Japan",
+    "argMentionid" : "AFP_ENG_20030330.0211-E9-17",
+    "start" : 8,
+    "end" : 15
+  },
+  "id" : "AFP_ENG_20030330.0211-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The protest follows a string of others involving tens of thousands of peace activists across Japan since January .",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "protest", "follows", "a", "string", "of", "others", "involving", "tens", "of", "thousands", "of", "peace", "activists", "across", "Japan", "since", "January", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Some 2,500 mainly university students formed a human chain in Japanese characters spelling out \"No War\" in Osaka on Sunday to protest against the ongoing US-led military campaign in Iraq",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Osaka",
+    "argMentionid" : "AFP_ENG_20030330.0211-E25-36",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "AFP_ENG_20030330.0211-R8",
+  "mentionArg1" : {
+    "extent" : "Some 2,500 mainly university students",
+    "argMentionid" : "AFP_ENG_20030330.0211-E3-33",
+    "start" : 7,
+    "end" : 11
+  },
+  "id" : "AFP_ENG_20030330.0211-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "TOKYO , March 30 ( AFP ) Some 2,500 mainly university students formed a human chain in Japanese characters spelling out \" No War \" in Osaka on Sunday to protest against the ongoing US-led military campaign in Iraq .",
+  "sentence_index" : 0,
+  "Tokens" : [ "TOKYO", ",", "March", "30", "(", "AFP", ")", "Some", "2,500", "mainly", "university", "students", "formed", "a", "human", "chain", "in", "Japanese", "characters", "spelling", "out", "\"", "No", "War", "\"", "in", "Osaka", "on", "Sunday", "to", "protest", "against", "the", "ongoing", "US-led", "military", "campaign", "in", "Iraq", "." ]
+} ]

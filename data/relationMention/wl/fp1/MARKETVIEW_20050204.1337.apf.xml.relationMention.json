@@ -1,0 +1,89 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "US consumers",
+  "sentence_length" : 49,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "MARKETVIEW_20050204.1337-E11-22",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "MARKETVIEW_20050204.1337-R1",
+  "mentionArg1" : {
+    "extent" : "US consumers",
+    "argMentionid" : "MARKETVIEW_20050204.1337-E12-21",
+    "start" : 13,
+    "end" : 14
+  },
+  "id" : "MARKETVIEW_20050204.1337-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "So the trade deficit is due to a confluence of the pressures from US consumers ( who control about 20 % of global GDP ) and everybody else ( excluding the non-consumption share of US GDP , that would amount to around 75 % of global GDP ) .",
+  "sentence_index" : 3,
+  "Tokens" : [ "So", "the", "trade", "deficit", "is", "due", "to", "a", "confluence", "of", "the", "pressures", "from", "US", "consumers", "(", "who", "control", "about", "20", "%", "of", "global", "GDP", ")", "and", "everybody", "else", "(", "excluding", "the", "non-consumption", "share", "of", "US", "GDP", ",", "that", "would", "amount", "to", "around", "75", "%", "of", "global", "GDP", ")", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the major banks in Asia",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "Asia",
+    "argMentionid" : "MARKETVIEW_20050204.1337-E2-5",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "MARKETVIEW_20050204.1337-R2",
+  "mentionArg1" : {
+    "extent" : "the major banks in Asia",
+    "argMentionid" : "MARKETVIEW_20050204.1337-E1-4",
+    "start" : 9,
+    "end" : 13
+  },
+  "id" : "MARKETVIEW_20050204.1337-R2-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "And about half of those borrowings end up with the major banks in Asia .",
+  "sentence_index" : 8,
+  "Tokens" : [ "And", "about", "half", "of", "those", "borrowings", "end", "up", "with", "the", "major", "banks", "in", "Asia", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Asian central banks",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Asian",
+    "argMentionid" : "MARKETVIEW_20050204.1337-E2-14",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "MARKETVIEW_20050204.1337-R2",
+  "mentionArg1" : {
+    "extent" : "Asian central banks",
+    "argMentionid" : "MARKETVIEW_20050204.1337-E1-13",
+    "start" : 23,
+    "end" : 25
+  },
+  "id" : "MARKETVIEW_20050204.1337-R2-2",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "It 's a question of who will pay for the same spending , and all else being equal I 'd be happy for Asian central banks to pick up the tab .",
+  "sentence_index" : 10,
+  "Tokens" : [ "It", "'s", "a", "question", "of", "who", "will", "pay", "for", "the", "same", "spending", ",", "and", "all", "else", "being", "equal", "I", "'d", "be", "happy", "for", "Asian", "central", "banks", "to", "pick", "up", "the", "tab", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "non-US investors",
+  "sentence_length" : 59,
+  "mentionArg2" : {
+    "extent" : "non-US",
+    "argMentionid" : "MARKETVIEW_20050204.1337-E5-10",
+    "start" : 49,
+    "end" : 49
+  },
+  "relationID" : "MARKETVIEW_20050204.1337-R4",
+  "mentionArg1" : {
+    "extent" : "non-US investors",
+    "argMentionid" : "MARKETVIEW_20050204.1337-E4-9",
+    "start" : 49,
+    "end" : 50
+  },
+  "id" : "MARKETVIEW_20050204.1337-R4-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "So , not to be a heretic , but 1 ) We 're issuing them at relatively low interest rates , 2 ) Inflation is bound to pick up eventually , and so 3 ) Would n't you rather have our deficits made up by economically nonsensical purchases by non-US investors , rather than raising taxes in America ?",
+  "sentence_index" : 9,
+  "Tokens" : [ "So", ",", "not", "to", "be", "a", "heretic", ",", "but", "1", ")", "We", "'re", "issuing", "them", "at", "relatively", "low", "interest", "rates", ",", "2", ")", "Inflation", "is", "bound", "to", "pick", "up", "eventually", ",", "and", "so", "3", ")", "Would", "n't", "you", "rather", "have", "our", "deficits", "made", "up", "by", "economically", "nonsensical", "purchases", "by", "non-US", "investors", ",", "rather", "than", "raising", "taxes", "in", "America", "?" ]
+} ]

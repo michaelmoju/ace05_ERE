@@ -1,0 +1,705 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "Russian President",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "Russian",
+    "argMentionid" : "AFP_ENG_20030413.0098-E1-138",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R1",
+  "mentionArg1" : {
+    "extent" : "Russian President",
+    "argMentionid" : "AFP_ENG_20030413.0098-E72-137",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "AFP_ENG_20030413.0098-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "MOSCOW , April 13 ( AFP ) Russian President Vladimir Putin 's summit with the leaders of Germany and France may have been a failure that proves there can be no long-term \" peace camp \" alliance following the end of war in Iraq , government sources were quoted as saying at the weekend .",
+  "sentence_index" : 0,
+  "Tokens" : [ "MOSCOW", ",", "April", "13", "(", "AFP", ")", "Russian", "President", "Vladimir", "Putin", "'s", "summit", "with", "the", "leaders", "of", "Germany", "and", "France", "may", "have", "been", "a", "failure", "that", "proves", "there", "can", "be", "no", "long-term", "\"", "peace", "camp", "\"", "alliance", "following", "the", "end", "of", "war", "in", "Iraq", ",", "government", "sources", "were", "quoted", "as", "saying", "at", "the", "weekend", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the leaders of Germany and France",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "Germany",
+    "argMentionid" : "AFP_ENG_20030413.0098-E2-140",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R2",
+  "mentionArg1" : {
+    "extent" : "the leaders of Germany and France",
+    "argMentionid" : "AFP_ENG_20030413.0098-E76-139",
+    "start" : 14,
+    "end" : 19
+  },
+  "id" : "AFP_ENG_20030413.0098-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "MOSCOW , April 13 ( AFP ) Russian President Vladimir Putin 's summit with the leaders of Germany and France may have been a failure that proves there can be no long-term \" peace camp \" alliance following the end of war in Iraq , government sources were quoted as saying at the weekend .",
+  "sentence_index" : 0,
+  "Tokens" : [ "MOSCOW", ",", "April", "13", "(", "AFP", ")", "Russian", "President", "Vladimir", "Putin", "'s", "summit", "with", "the", "leaders", "of", "Germany", "and", "France", "may", "have", "been", "a", "failure", "that", "proves", "there", "can", "be", "no", "long-term", "\"", "peace", "camp", "\"", "alliance", "following", "the", "end", "of", "war", "in", "Iraq", ",", "government", "sources", "were", "quoted", "as", "saying", "at", "the", "weekend", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the leaders of Germany and France",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "France",
+    "argMentionid" : "AFP_ENG_20030413.0098-E3-141",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R3",
+  "mentionArg1" : {
+    "extent" : "the leaders of Germany and France",
+    "argMentionid" : "AFP_ENG_20030413.0098-E76-139",
+    "start" : 14,
+    "end" : 19
+  },
+  "id" : "AFP_ENG_20030413.0098-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "MOSCOW , April 13 ( AFP ) Russian President Vladimir Putin 's summit with the leaders of Germany and France may have been a failure that proves there can be no long-term \" peace camp \" alliance following the end of war in Iraq , government sources were quoted as saying at the weekend .",
+  "sentence_index" : 0,
+  "Tokens" : [ "MOSCOW", ",", "April", "13", "(", "AFP", ")", "Russian", "President", "Vladimir", "Putin", "'s", "summit", "with", "the", "leaders", "of", "Germany", "and", "France", "may", "have", "been", "a", "failure", "that", "proves", "there", "can", "be", "no", "long-term", "\"", "peace", "camp", "\"", "alliance", "following", "the", "end", "of", "war", "in", "Iraq", ",", "government", "sources", "were", "quoted", "as", "saying", "at", "the", "weekend", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "government sources",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "government",
+    "argMentionid" : "AFP_ENG_20030413.0098-E1-145",
+    "start" : 45,
+    "end" : 45
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R4",
+  "mentionArg1" : {
+    "extent" : "government sources",
+    "argMentionid" : "AFP_ENG_20030413.0098-E81-144",
+    "start" : 45,
+    "end" : 46
+  },
+  "id" : "AFP_ENG_20030413.0098-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "MOSCOW , April 13 ( AFP ) Russian President Vladimir Putin 's summit with the leaders of Germany and France may have been a failure that proves there can be no long-term \" peace camp \" alliance following the end of war in Iraq , government sources were quoted as saying at the weekend .",
+  "sentence_index" : 0,
+  "Tokens" : [ "MOSCOW", ",", "April", "13", "(", "AFP", ")", "Russian", "President", "Vladimir", "Putin", "'s", "summit", "with", "the", "leaders", "of", "Germany", "and", "France", "may", "have", "been", "a", "failure", "that", "proves", "there", "can", "be", "no", "long-term", "\"", "peace", "camp", "\"", "alliance", "following", "the", "end", "of", "war", "in", "Iraq", ",", "government", "sources", "were", "quoted", "as", "saying", "at", "the", "weekend", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Senior government officials",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "government",
+    "argMentionid" : "AFP_ENG_20030413.0098-E1-147",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R4",
+  "mentionArg1" : {
+    "extent" : "Senior government officials",
+    "argMentionid" : "AFP_ENG_20030413.0098-E81-146",
+    "start" : 1,
+    "end" : 3
+  },
+  "id" : "AFP_ENG_20030413.0098-R4-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "\" Senior government officials , speaking in the corridors of power in Moscow , have no illusions about any long-term perspectives for the ( Russian-German-French ) axis , \" the respected Izvestia daily reported .",
+  "sentence_index" : 1,
+  "Tokens" : [ "\"", "Senior", "government", "officials", ",", "speaking", "in", "the", "corridors", "of", "power", "in", "Moscow", ",", "have", "no", "illusions", "about", "any", "long-term", "perspectives", "for", "the", "(", "Russian-German-French", ")", "axis", ",", "\"", "the", "respected", "Izvestia", "daily", "reported", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the corridors of power in Moscow",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Moscow",
+    "argMentionid" : "AFP_ENG_20030413.0098-E24-148",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R5",
+  "mentionArg1" : {
+    "extent" : "the corridors of power in Moscow",
+    "argMentionid" : "AFP_ENG_20030413.0098-E84-149",
+    "start" : 7,
+    "end" : 12
+  },
+  "id" : "AFP_ENG_20030413.0098-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "\" Senior government officials , speaking in the corridors of power in Moscow , have no illusions about any long-term perspectives for the ( Russian-German-French ) axis , \" the respected Izvestia daily reported .",
+  "sentence_index" : 1,
+  "Tokens" : [ "\"", "Senior", "government", "officials", ",", "speaking", "in", "the", "corridors", "of", "power", "in", "Moscow", ",", "have", "no", "illusions", "about", "any", "long-term", "perspectives", "for", "the", "(", "Russian-German-French", ")", "axis", ",", "\"", "the", "respected", "Izvestia", "daily", "reported", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Senior government officials, speaking in the corridors of power in Moscow",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "the corridors of power in Moscow",
+    "argMentionid" : "AFP_ENG_20030413.0098-E84-149",
+    "start" : 7,
+    "end" : 12
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R6",
+  "mentionArg1" : {
+    "extent" : "Senior government officials",
+    "argMentionid" : "AFP_ENG_20030413.0098-E81-146",
+    "start" : 1,
+    "end" : 3
+  },
+  "id" : "AFP_ENG_20030413.0098-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "\" Senior government officials , speaking in the corridors of power in Moscow , have no illusions about any long-term perspectives for the ( Russian-German-French ) axis , \" the respected Izvestia daily reported .",
+  "sentence_index" : 1,
+  "Tokens" : [ "\"", "Senior", "government", "officials", ",", "speaking", "in", "the", "corridors", "of", "power", "in", "Moscow", ",", "have", "no", "illusions", "about", "any", "long-term", "perspectives", "for", "the", "(", "Russian-German-French", ")", "axis", ",", "\"", "the", "respected", "Izvestia", "daily", "reported", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the senior Moscow official, who was reported to be close to Putin",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Moscow",
+    "argMentionid" : "AFP_ENG_20030413.0098-E1-13",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R7",
+  "mentionArg1" : {
+    "extent" : "the senior Moscow official, who was reported to be close to Putin",
+    "argMentionid" : "AFP_ENG_20030413.0098-E7-10",
+    "start" : 19,
+    "end" : 31
+  },
+  "id" : "AFP_ENG_20030413.0098-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "\" Sooner or later Iraq will fall and Russia and the United Sates will resume normal relations , \" the senior Moscow official , who was reported to be close to Putin , told the paper .",
+  "sentence_index" : 2,
+  "Tokens" : [ "\"", "Sooner", "or", "later", "Iraq", "will", "fall", "and", "Russia", "and", "the", "United", "Sates", "will", "resume", "normal", "relations", ",", "\"", "the", "senior", "Moscow", "official", ",", "who", "was", "reported", "to", "be", "close", "to", "Putin", ",", "told", "the", "paper", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Sooner or later Iraq will fall and Russia and the United Sates will resume normal relations,\" the senior Moscow official, who was reported to be close to Putin, told the paper",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Putin",
+    "argMentionid" : "AFP_ENG_20030413.0098-E72-12",
+    "start" : 31,
+    "end" : 31
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R8",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "AFP_ENG_20030413.0098-E7-11",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "AFP_ENG_20030413.0098-R8-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "\" Sooner or later Iraq will fall and Russia and the United Sates will resume normal relations , \" the senior Moscow official , who was reported to be close to Putin , told the paper .",
+  "sentence_index" : 2,
+  "Tokens" : [ "\"", "Sooner", "or", "later", "Iraq", "will", "fall", "and", "Russia", "and", "the", "United", "Sates", "will", "resume", "normal", "relations", ",", "\"", "the", "senior", "Moscow", "official", ",", "who", "was", "reported", "to", "be", "close", "to", "Putin", ",", "told", "the", "paper", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "US President",
+  "sentence_length" : 49,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "AFP_ENG_20030413.0098-E6-24",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R9",
+  "mentionArg1" : {
+    "extent" : "US President",
+    "argMentionid" : "AFP_ENG_20030413.0098-E9-23",
+    "start" : 28,
+    "end" : 29
+  },
+  "id" : "AFP_ENG_20030413.0098-R9-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The comments indicate that Russia 's nuanced position over the war in Iraq was becoming ever more scrambled , with Putin pushing to protect his budding friendship with US President George W. Bush in the face of strident opposition from the Russian media and other top Kremlin officials .",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "comments", "indicate", "that", "Russia", "'s", "nuanced", "position", "over", "the", "war", "in", "Iraq", "was", "becoming", "ever", "more", "scrambled", ",", "with", "Putin", "pushing", "to", "protect", "his", "budding", "friendship", "with", "US", "President", "George", "W.", "Bush", "in", "the", "face", "of", "strident", "opposition", "from", "the", "Russian", "media", "and", "other", "top", "Kremlin", "officials", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Russian media",
+  "sentence_length" : 49,
+  "mentionArg2" : {
+    "extent" : "Russian",
+    "argMentionid" : "AFP_ENG_20030413.0098-E1-25",
+    "start" : 41,
+    "end" : 41
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R10",
+  "mentionArg1" : {
+    "extent" : "the Russian media",
+    "argMentionid" : "AFP_ENG_20030413.0098-E13-135",
+    "start" : 40,
+    "end" : 42
+  },
+  "id" : "AFP_ENG_20030413.0098-R10-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "The comments indicate that Russia 's nuanced position over the war in Iraq was becoming ever more scrambled , with Putin pushing to protect his budding friendship with US President George W. Bush in the face of strident opposition from the Russian media and other top Kremlin officials .",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "comments", "indicate", "that", "Russia", "'s", "nuanced", "position", "over", "the", "war", "in", "Iraq", "was", "becoming", "ever", "more", "scrambled", ",", "with", "Putin", "pushing", "to", "protect", "his", "budding", "friendship", "with", "US", "President", "George", "W.", "Bush", "in", "the", "face", "of", "strident", "opposition", "from", "the", "Russian", "media", "and", "other", "top", "Kremlin", "officials", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Russian media",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Russian",
+    "argMentionid" : "AFP_ENG_20030413.0098-E1-33",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R10",
+  "mentionArg1" : {
+    "extent" : "the Russian media",
+    "argMentionid" : "AFP_ENG_20030413.0098-E13-32",
+    "start" : 27,
+    "end" : 29
+  },
+  "id" : "AFP_ENG_20030413.0098-R10-2",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Analysts have long argued that Putin is far keener to preserve friendly relations with the United States than the pro-European , anti-war camps embedded in much of the Russian media and the foreign and defense ministries .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Analysts", "have", "long", "argued", "that", "Putin", "is", "far", "keener", "to", "preserve", "friendly", "relations", "with", "the", "United", "States", "than", "the", "pro-European", ",", "anti-war", "camps", "embedded", "in", "much", "of", "the", "Russian", "media", "and", "the", "foreign", "and", "defense", "ministries", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "other top Kremlin officials",
+  "sentence_length" : 49,
+  "mentionArg2" : {
+    "extent" : "Kremlin",
+    "argMentionid" : "AFP_ENG_20030413.0098-E1-27",
+    "start" : 46,
+    "end" : 46
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R11",
+  "mentionArg1" : {
+    "extent" : "other top Kremlin officials",
+    "argMentionid" : "AFP_ENG_20030413.0098-E14-26",
+    "start" : 44,
+    "end" : 47
+  },
+  "id" : "AFP_ENG_20030413.0098-R11-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The comments indicate that Russia 's nuanced position over the war in Iraq was becoming ever more scrambled , with Putin pushing to protect his budding friendship with US President George W. Bush in the face of strident opposition from the Russian media and other top Kremlin officials .",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "comments", "indicate", "that", "Russia", "'s", "nuanced", "position", "over", "the", "war", "in", "Iraq", "was", "becoming", "ever", "more", "scrambled", ",", "with", "Putin", "pushing", "to", "protect", "his", "budding", "friendship", "with", "US", "President", "George", "W.", "Bush", "in", "the", "face", "of", "strident", "opposition", "from", "the", "Russian", "media", "and", "other", "top", "Kremlin", "officials", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Russia's foreign minister",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "Russia",
+    "argMentionid" : "AFP_ENG_20030413.0098-E1-35",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R12",
+  "mentionArg1" : {
+    "extent" : "Russia's foreign minister",
+    "argMentionid" : "AFP_ENG_20030413.0098-E20-36",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "AFP_ENG_20030413.0098-R12-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Russia 's foreign minister expressed outrage at suggestions from a top Washington official last week that Moscow should forgive the eight billion dollars in Soviet-era debt that Baghdad owes it , as a gesture of good will .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Russia", "'s", "foreign", "minister", "expressed", "outrage", "at", "suggestions", "from", "a", "top", "Washington", "official", "last", "week", "that", "Moscow", "should", "forgive", "the", "eight", "billion", "dollars", "in", "Soviet-era", "debt", "that", "Baghdad", "owes", "it", ",", "as", "a", "gesture", "of", "good", "will", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a top Washington official",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "Washington",
+    "argMentionid" : "AFP_ENG_20030413.0098-E6-38",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R13",
+  "mentionArg1" : {
+    "extent" : "a top Washington official",
+    "argMentionid" : "AFP_ENG_20030413.0098-E21-37",
+    "start" : 9,
+    "end" : 12
+  },
+  "id" : "AFP_ENG_20030413.0098-R13-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Russia 's foreign minister expressed outrage at suggestions from a top Washington official last week that Moscow should forgive the eight billion dollars in Soviet-era debt that Baghdad owes it , as a gesture of good will .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Russia", "'s", "foreign", "minister", "expressed", "outrage", "at", "suggestions", "from", "a", "top", "Washington", "official", "last", "week", "that", "Moscow", "should", "forgive", "the", "eight", "billion", "dollars", "in", "Soviet-era", "debt", "that", "Baghdad", "owes", "it", ",", "as", "a", "gesture", "of", "good", "will", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his loyal finance minister",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "his loyal finance minister",
+    "argMentionid" : "AFP_ENG_20030413.0098-E30-57",
+    "start" : 2,
+    "end" : 5
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R14",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "AFP_ENG_20030413.0098-E72-56",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "AFP_ENG_20030413.0098-R14-1",
+  "relationSubType" : "Business",
+  "Sentence" : "He and his loyal finance minister suggested Friday that Moscow might be prepared to waiver some of the Iraqi debts in return for better Russia-US relations .",
+  "sentence_index" : 11,
+  "Tokens" : [ "He", "and", "his", "loyal", "finance", "minister", "suggested", "Friday", "that", "Moscow", "might", "be", "prepared", "to", "waiver", "some", "of", "the", "Iraqi", "debts", "in", "return", "for", "better", "Russia-US", "relations", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Putin concluded his two days of talks in Saint Petersburg with Jacques Chirac of France and German Chancellor Gerhard Schroeder on Saturday still urging for a central role for the United Nations in a post-war revival of Iraq",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "Saint Petersburg",
+    "argMentionid" : "AFP_ENG_20030413.0098-E34-66",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R15",
+  "mentionArg1" : {
+    "extent" : "Putin",
+    "argMentionid" : "AFP_ENG_20030413.0098-E72-64",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "AFP_ENG_20030413.0098-R15-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Putin concluded his two days of talks in Saint Petersburg with Jacques Chirac of France and German Chancellor Gerhard Schroeder on Saturday still urging for a central role for the United Nations in a post-war revival of Iraq .",
+  "sentence_index" : 14,
+  "Tokens" : [ "Putin", "concluded", "his", "two", "days", "of", "talks", "in", "Saint", "Petersburg", "with", "Jacques", "Chirac", "of", "France", "and", "German", "Chancellor", "Gerhard", "Schroeder", "on", "Saturday", "still", "urging", "for", "a", "central", "role", "for", "the", "United", "Nations", "in", "a", "post-war", "revival", "of", "Iraq", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Putin concluded his two days of talks in Saint Petersburg with Jacques Chirac of France and German Chancellor Gerhard Schroeder on Saturday still urging for a central role for the United Nations in a post-war revival of Iraq",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "Saint Petersburg",
+    "argMentionid" : "AFP_ENG_20030413.0098-E34-66",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R16",
+  "mentionArg1" : {
+    "extent" : "Jacques Chirac of France",
+    "argMentionid" : "AFP_ENG_20030413.0098-E35-67",
+    "start" : 11,
+    "end" : 14
+  },
+  "id" : "AFP_ENG_20030413.0098-R16-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Putin concluded his two days of talks in Saint Petersburg with Jacques Chirac of France and German Chancellor Gerhard Schroeder on Saturday still urging for a central role for the United Nations in a post-war revival of Iraq .",
+  "sentence_index" : 14,
+  "Tokens" : [ "Putin", "concluded", "his", "two", "days", "of", "talks", "in", "Saint", "Petersburg", "with", "Jacques", "Chirac", "of", "France", "and", "German", "Chancellor", "Gerhard", "Schroeder", "on", "Saturday", "still", "urging", "for", "a", "central", "role", "for", "the", "United", "Nations", "in", "a", "post-war", "revival", "of", "Iraq", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Putin concluded his two days of talks in Saint Petersburg with Jacques Chirac of France and German Chancellor Gerhard Schroeder on Saturday still urging for a central role for the United Nations in a post-war revival of Iraq",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "Saint Petersburg",
+    "argMentionid" : "AFP_ENG_20030413.0098-E34-66",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R17",
+  "mentionArg1" : {
+    "extent" : "German Chancellor Gerhard Schroeder",
+    "argMentionid" : "AFP_ENG_20030413.0098-E37-70",
+    "start" : 16,
+    "end" : 19
+  },
+  "id" : "AFP_ENG_20030413.0098-R17-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Putin concluded his two days of talks in Saint Petersburg with Jacques Chirac of France and German Chancellor Gerhard Schroeder on Saturday still urging for a central role for the United Nations in a post-war revival of Iraq .",
+  "sentence_index" : 14,
+  "Tokens" : [ "Putin", "concluded", "his", "two", "days", "of", "talks", "in", "Saint", "Petersburg", "with", "Jacques", "Chirac", "of", "France", "and", "German", "Chancellor", "Gerhard", "Schroeder", "on", "Saturday", "still", "urging", "for", "a", "central", "role", "for", "the", "United", "Nations", "in", "a", "post-war", "revival", "of", "Iraq", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Jacques Chirac of France",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "France",
+    "argMentionid" : "AFP_ENG_20030413.0098-E3-68",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R18",
+  "mentionArg1" : {
+    "extent" : "Jacques Chirac of France",
+    "argMentionid" : "AFP_ENG_20030413.0098-E35-67",
+    "start" : 11,
+    "end" : 14
+  },
+  "id" : "AFP_ENG_20030413.0098-R18-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Putin concluded his two days of talks in Saint Petersburg with Jacques Chirac of France and German Chancellor Gerhard Schroeder on Saturday still urging for a central role for the United Nations in a post-war revival of Iraq .",
+  "sentence_index" : 14,
+  "Tokens" : [ "Putin", "concluded", "his", "two", "days", "of", "talks", "in", "Saint", "Petersburg", "with", "Jacques", "Chirac", "of", "France", "and", "German", "Chancellor", "Gerhard", "Schroeder", "on", "Saturday", "still", "urging", "for", "a", "central", "role", "for", "the", "United", "Nations", "in", "a", "post-war", "revival", "of", "Iraq", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "German Chancellor",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "German",
+    "argMentionid" : "AFP_ENG_20030413.0098-E2-69",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R19",
+  "mentionArg1" : {
+    "extent" : "German Chancellor",
+    "argMentionid" : "AFP_ENG_20030413.0098-E37-71",
+    "start" : 16,
+    "end" : 17
+  },
+  "id" : "AFP_ENG_20030413.0098-R19-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Putin concluded his two days of talks in Saint Petersburg with Jacques Chirac of France and German Chancellor Gerhard Schroeder on Saturday still urging for a central role for the United Nations in a post-war revival of Iraq .",
+  "sentence_index" : 14,
+  "Tokens" : [ "Putin", "concluded", "his", "two", "days", "of", "talks", "in", "Saint", "Petersburg", "with", "Jacques", "Chirac", "of", "France", "and", "German", "Chancellor", "Gerhard", "Schroeder", "on", "Saturday", "still", "urging", "for", "a", "central", "role", "for", "the", "United", "Nations", "in", "a", "post-war", "revival", "of", "Iraq", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iraqi President",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "AFP_ENG_20030413.0098-E31-79",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R20",
+  "mentionArg1" : {
+    "extent" : "Iraqi President",
+    "argMentionid" : "AFP_ENG_20030413.0098-E45-80",
+    "start" : 27,
+    "end" : 28
+  },
+  "id" : "AFP_ENG_20030413.0098-R20-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The call reflected the insistent demand made by the three leaders before the US-British invasion of Iraq that UN approval was essential for any mission to topple Iraqi President Saddam Hussein .",
+  "sentence_index" : 15,
+  "Tokens" : [ "The", "call", "reflected", "the", "insistent", "demand", "made", "by", "the", "three", "leaders", "before", "the", "US-British", "invasion", "of", "Iraq", "that", "UN", "approval", "was", "essential", "for", "any", "mission", "to", "topple", "Iraqi", "President", "Saddam", "Hussein", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his developing friendship with Bush",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Bush",
+    "argMentionid" : "AFP_ENG_20030413.0098-E9-91",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R21",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "AFP_ENG_20030413.0098-E72-90",
+    "start" : 21,
+    "end" : 21
+  },
+  "id" : "AFP_ENG_20030413.0098-R21-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "And diplomats noted that Putin appeared uncomfortable at being so closely associated with the anti-Washington stance of Schroeder and Chirac amid his developing friendship with Bush .",
+  "sentence_index" : 17,
+  "Tokens" : [ "And", "diplomats", "noted", "that", "Putin", "appeared", "uncomfortable", "at", "being", "so", "closely", "associated", "with", "the", "anti-Washington", "stance", "of", "Schroeder", "and", "Chirac", "amid", "his", "developing", "friendship", "with", "Bush", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his budding friendship with US President George W. Bush",
+  "sentence_length" : 49,
+  "mentionArg2" : {
+    "extent" : "US President George W. Bush",
+    "argMentionid" : "AFP_ENG_20030413.0098-E9-22",
+    "start" : 28,
+    "end" : 32
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R21",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "AFP_ENG_20030413.0098-E72-21",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "AFP_ENG_20030413.0098-R21-2",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "The comments indicate that Russia 's nuanced position over the war in Iraq was becoming ever more scrambled , with Putin pushing to protect his budding friendship with US President George W. Bush in the face of strident opposition from the Russian media and other top Kremlin officials .",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "comments", "indicate", "that", "Russia", "'s", "nuanced", "position", "over", "the", "war", "in", "Iraq", "was", "becoming", "ever", "more", "scrambled", ",", "with", "Putin", "pushing", "to", "protect", "his", "budding", "friendship", "with", "US", "President", "George", "W.", "Bush", "in", "the", "face", "of", "strident", "opposition", "from", "the", "Russian", "media", "and", "other", "top", "Kremlin", "officials", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "British Prime Minister",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "AFP_ENG_20030413.0098-E42-94",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R22",
+  "mentionArg1" : {
+    "extent" : "British Prime Minister",
+    "argMentionid" : "AFP_ENG_20030413.0098-E50-95",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "AFP_ENG_20030413.0098-R22-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Putin had even secretly invited British Prime Minister Tony Blair , Bush 's staunchest backer in the war on Iraq , to attend the pow-wow in Saint Petersburg 's Grand Hotel Europe , although diplomats said Blair turned the offer down .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Putin", "had", "even", "secretly", "invited", "British", "Prime", "Minister", "Tony", "Blair", ",", "Bush", "'s", "staunchest", "backer", "in", "the", "war", "on", "Iraq", ",", "to", "attend", "the", "pow-wow", "in", "Saint", "Petersburg", "'s", "Grand", "Hotel", "Europe", ",", "although", "diplomats", "said", "Blair", "turned", "the", "offer", "down", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Bush's staunchest backer in the war on Iraq",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Bush's staunchest backer in the war on Iraq",
+    "argMentionid" : "AFP_ENG_20030413.0098-E50-96",
+    "start" : 11,
+    "end" : 19
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R23",
+  "mentionArg1" : {
+    "extent" : "Bush",
+    "argMentionid" : "AFP_ENG_20030413.0098-E9-97",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "AFP_ENG_20030413.0098-R23-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Putin had even secretly invited British Prime Minister Tony Blair , Bush 's staunchest backer in the war on Iraq , to attend the pow-wow in Saint Petersburg 's Grand Hotel Europe , although diplomats said Blair turned the offer down .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Putin", "had", "even", "secretly", "invited", "British", "Prime", "Minister", "Tony", "Blair", ",", "Bush", "'s", "staunchest", "backer", "in", "the", "war", "on", "Iraq", ",", "to", "attend", "the", "pow-wow", "in", "Saint", "Petersburg", "'s", "Grand", "Hotel", "Europe", ",", "although", "diplomats", "said", "Blair", "turned", "the", "offer", "down", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Saint Petersburg's Grand Hotel Europe",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Saint Petersburg",
+    "argMentionid" : "AFP_ENG_20030413.0098-E34-100",
+    "start" : 26,
+    "end" : 27
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R24",
+  "mentionArg1" : {
+    "extent" : "Saint Petersburg's Grand Hotel Europe",
+    "argMentionid" : "AFP_ENG_20030413.0098-E54-101",
+    "start" : 26,
+    "end" : 31
+  },
+  "id" : "AFP_ENG_20030413.0098-R24-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Putin had even secretly invited British Prime Minister Tony Blair , Bush 's staunchest backer in the war on Iraq , to attend the pow-wow in Saint Petersburg 's Grand Hotel Europe , although diplomats said Blair turned the offer down .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Putin", "had", "even", "secretly", "invited", "British", "Prime", "Minister", "Tony", "Blair", ",", "Bush", "'s", "staunchest", "backer", "in", "the", "war", "on", "Iraq", ",", "to", "attend", "the", "pow-wow", "in", "Saint", "Petersburg", "'s", "Grand", "Hotel", "Europe", ",", "although", "diplomats", "said", "Blair", "turned", "the", "offer", "down", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Putin had even secretly invited British Prime Minister Tony Blair, Bush's staunchest backer in the war on Iraq, to attend the pow-wow in Saint Petersburg's Grand Hotel Europe, although diplomats said Blair turned the offer down",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Saint Petersburg's Grand Hotel Europe",
+    "argMentionid" : "AFP_ENG_20030413.0098-E54-101",
+    "start" : 26,
+    "end" : 31
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R25",
+  "mentionArg1" : {
+    "extent" : "British Prime Minister Tony Blair",
+    "argMentionid" : "AFP_ENG_20030413.0098-E50-93",
+    "start" : 5,
+    "end" : 9
+  },
+  "id" : "AFP_ENG_20030413.0098-R25-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Putin had even secretly invited British Prime Minister Tony Blair , Bush 's staunchest backer in the war on Iraq , to attend the pow-wow in Saint Petersburg 's Grand Hotel Europe , although diplomats said Blair turned the offer down .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Putin", "had", "even", "secretly", "invited", "British", "Prime", "Minister", "Tony", "Blair", ",", "Bush", "'s", "staunchest", "backer", "in", "the", "war", "on", "Iraq", ",", "to", "attend", "the", "pow-wow", "in", "Saint", "Petersburg", "'s", "Grand", "Hotel", "Europe", ",", "although", "diplomats", "said", "Blair", "turned", "the", "offer", "down", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the head of the lower house of parliament's foreign affairs committee",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "the lower house of parliament's foreign affairs committee",
+    "argMentionid" : "AFP_ENG_20030413.0098-E62-119",
+    "start" : 17,
+    "end" : 25
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R26",
+  "mentionArg1" : {
+    "extent" : "the head of the lower house of parliament's foreign affairs committee",
+    "argMentionid" : "AFP_ENG_20030413.0098-E56-115",
+    "start" : 14,
+    "end" : 25
+  },
+  "id" : "AFP_ENG_20030413.0098-R26-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "\" We do not think that America won , \" said Dmitry Rogozin , the head of the lower house of parliament 's foreign affairs committee , told Rossia television .",
+  "sentence_index" : 21,
+  "Tokens" : [ "\"", "We", "do", "not", "think", "that", "America", "won", ",", "\"", "said", "Dmitry", "Rogozin", ",", "the", "head", "of", "the", "lower", "house", "of", "parliament", "'s", "foreign", "affairs", "committee", ",", "told", "Rossia", "television", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the lower house of parliament",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "parliament",
+    "argMentionid" : "AFP_ENG_20030413.0098-E61-118",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R27",
+  "mentionArg1" : {
+    "extent" : "the lower house of parliament",
+    "argMentionid" : "AFP_ENG_20030413.0098-E60-117",
+    "start" : 17,
+    "end" : 21
+  },
+  "id" : "AFP_ENG_20030413.0098-R27-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "\" We do not think that America won , \" said Dmitry Rogozin , the head of the lower house of parliament 's foreign affairs committee , told Rossia television .",
+  "sentence_index" : 21,
+  "Tokens" : [ "\"", "We", "do", "not", "think", "that", "America", "won", ",", "\"", "said", "Dmitry", "Rogozin", ",", "the", "head", "of", "the", "lower", "house", "of", "parliament", "'s", "foreign", "affairs", "committee", ",", "told", "Rossia", "television", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the lower house of parliament's foreign affairs committee",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "the lower house of parliament",
+    "argMentionid" : "AFP_ENG_20030413.0098-E60-117",
+    "start" : 17,
+    "end" : 21
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R28",
+  "mentionArg1" : {
+    "extent" : "the lower house of parliament's foreign affairs committee",
+    "argMentionid" : "AFP_ENG_20030413.0098-E62-119",
+    "start" : 17,
+    "end" : 25
+  },
+  "id" : "AFP_ENG_20030413.0098-R28-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "\" We do not think that America won , \" said Dmitry Rogozin , the head of the lower house of parliament 's foreign affairs committee , told Rossia television .",
+  "sentence_index" : 21,
+  "Tokens" : [ "\"", "We", "do", "not", "think", "that", "America", "won", ",", "\"", "said", "Dmitry", "Rogozin", ",", "the", "head", "of", "the", "lower", "house", "of", "parliament", "'s", "foreign", "affairs", "committee", ",", "told", "Rossia", "television", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Putin's media aide",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Putin's media aide",
+    "argMentionid" : "AFP_ENG_20030413.0098-E66-125",
+    "start" : 1,
+    "end" : 4
+  },
+  "relationID" : "AFP_ENG_20030413.0098-R29",
+  "mentionArg1" : {
+    "extent" : "Putin",
+    "argMentionid" : "AFP_ENG_20030413.0098-E72-124",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "AFP_ENG_20030413.0098-R29-1",
+  "relationSubType" : "Business",
+  "Sentence" : "And Putin 's media aide , Sergei Yastrzhembsky , told Kommersant Russia would not forgive the Iraqi debt .",
+  "sentence_index" : 24,
+  "Tokens" : [ "And", "Putin", "'s", "media", "aide", ",", "Sergei", "Yastrzhembsky", ",", "told", "Kommersant", "Russia", "would", "not", "forgive", "the", "Iraqi", "debt", "." ]
+} ]

@@ -1,0 +1,67 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "the host of its highest-rated show",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "its",
+    "argMentionid" : "CNN_CF_20030305.1900.00-2-E19-65",
+    "start" : 34,
+    "end" : 34
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-2-R1",
+  "mentionArg1" : {
+    "extent" : "the host of its highest-rated show",
+    "argMentionid" : "CNN_CF_20030305.1900.00-2-E4-64",
+    "start" : 31,
+    "end" : 36
+  },
+  "id" : "CNN_CF_20030305.1900.00-2-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "BEGALA Well , those of you who still believe the myth of the liberal media should consider this : MSNBC , an obscure cable channel , has fired Phil Donahue , the host of its highest-rated show .",
+  "sentence_index" : 0,
+  "Tokens" : [ "BEGALA", "Well", ",", "those", "of", "you", "who", "still", "believe", "the", "myth", "of", "the", "liberal", "media", "should", "consider", "this", ":", "MSNBC", ",", "an", "obscure", "cable", "channel", ",", "has", "fired", "Phil", "Donahue", ",", "the", "host", "of", "its", "highest-rated", "show", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "NBC, of course, is a division of the conglomerate GE, where they apparently only bring right wing things to life",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "the conglomerate GE, where they apparently only bring right wing things to life",
+    "argMentionid" : "CNN_CF_20030305.1900.00-2-E7-15",
+    "start" : 9,
+    "end" : 22
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-2-R2",
+  "mentionArg1" : {
+    "extent" : "NBC",
+    "argMentionid" : "CNN_CF_20030305.1900.00-2-E6-13",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_CF_20030305.1900.00-2-R2-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "NBC , of course , is a division of the conglomerate GE , where they apparently only bring right wing things to life .",
+  "sentence_index" : 5,
+  "Tokens" : [ "NBC", ",", "of", "course", ",", "is", "a", "division", "of", "the", "conglomerate", "GE", ",", "where", "they", "apparently", "only", "bring", "right", "wing", "things", "to", "life", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I used to work there",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "CNN_CF_20030305.1900.00-2-E19-44",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-2-R3",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "CNN_CF_20030305.1900.00-2-E11-43",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "CNN_CF_20030305.1900.00-2-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "BEGALA I used to work there .",
+  "sentence_index" : 16,
+  "Tokens" : [ "BEGALA", "I", "used", "to", "work", "there", "." ]
+} ]

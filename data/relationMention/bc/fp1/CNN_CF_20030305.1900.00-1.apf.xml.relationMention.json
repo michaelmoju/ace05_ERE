@@ -1,0 +1,419 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "Hello, everybody. Welcome to CROSSFIRE. On this Ash Wednesday, the pope asks Catholics to fast for peace and he asks President Bush to work for peace, while the White House sends out Colin Powell to make yet another case for war",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "the White House",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E69-138",
+    "start" : 37,
+    "end" : 39
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-1-R2",
+  "mentionArg1" : {
+    "extent" : "Colin Powell",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E30-139",
+    "start" : 42,
+    "end" : 43
+  },
+  "id" : "CNN_CF_20030305.1900.00-1-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "PAUL BEGALA , CNN CO-HOST Hello , everybody .",
+  "sentence_index" : 0,
+  "Tokens" : [ "PAUL", "BEGALA", ",", "CNN", "CO-HOST", "Hello", ",", "everybody", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The foreign ministers of France, Germany and Russia",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "France",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E5-6",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-1-R3",
+  "mentionArg1" : {
+    "extent" : "The foreign ministers of France, Germany and Russia",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E2-3",
+    "start" : 0,
+    "end" : 8
+  },
+  "id" : "CNN_CF_20030305.1900.00-1-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The foreign ministers of France , Germany and Russia today issued a joint declaration that they will not allow a second American-backed resolution to pass the United Nations Security Council .",
+  "sentence_index" : 8,
+  "Tokens" : [ "The", "foreign", "ministers", "of", "France", ",", "Germany", "and", "Russia", "today", "issued", "a", "joint", "declaration", "that", "they", "will", "not", "allow", "a", "second", "American-backed", "resolution", "to", "pass", "the", "United", "Nations", "Security", "Council", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The foreign ministers of France, Germany and Russia",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Germany",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E4-5",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-1-R4",
+  "mentionArg1" : {
+    "extent" : "The foreign ministers of France, Germany and Russia",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E2-3",
+    "start" : 0,
+    "end" : 8
+  },
+  "id" : "CNN_CF_20030305.1900.00-1-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The foreign ministers of France , Germany and Russia today issued a joint declaration that they will not allow a second American-backed resolution to pass the United Nations Security Council .",
+  "sentence_index" : 8,
+  "Tokens" : [ "The", "foreign", "ministers", "of", "France", ",", "Germany", "and", "Russia", "today", "issued", "a", "joint", "declaration", "that", "they", "will", "not", "allow", "a", "second", "American-backed", "resolution", "to", "pass", "the", "United", "Nations", "Security", "Council", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The foreign ministers of France, Germany and Russia",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Russia",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E3-4",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-1-R5",
+  "mentionArg1" : {
+    "extent" : "The foreign ministers of France, Germany and Russia",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E2-3",
+    "start" : 0,
+    "end" : 8
+  },
+  "id" : "CNN_CF_20030305.1900.00-1-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The foreign ministers of France , Germany and Russia today issued a joint declaration that they will not allow a second American-backed resolution to pass the United Nations Security Council .",
+  "sentence_index" : 8,
+  "Tokens" : [ "The", "foreign", "ministers", "of", "France", ",", "Germany", "and", "Russia", "today", "issued", "a", "joint", "declaration", "that", "they", "will", "not", "allow", "a", "second", "American-backed", "resolution", "to", "pass", "the", "United", "Nations", "Security", "Council", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his press secretary",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "his press secretary",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E11-14",
+    "start" : 14,
+    "end" : 16
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-1-R6",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E9-16",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "CNN_CF_20030305.1900.00-1-R6-1",
+  "relationSubType" : "Business",
+  "Sentence" : "President Bush wants the Security Council to explicitly authorize force against Iraq , and his press secretary today remained optimistic that in the end , that 's just what he 'll get .",
+  "sentence_index" : 9,
+  "Tokens" : [ "President", "Bush", "wants", "the", "Security", "Council", "to", "explicitly", "authorize", "force", "against", "Iraq", ",", "and", "his", "press", "secretary", "today", "remained", "optimistic", "that", "in", "the", "end", ",", "that", "'s", "just", "what", "he", "'ll", "get", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "one fence-sitting Security Council member",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Security Council",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E8-22",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-1-R7",
+  "mentionArg1" : {
+    "extent" : "one fence-sitting Security Council member",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E14-21",
+    "start" : 8,
+    "end" : 12
+  },
+  "id" : "CNN_CF_20030305.1900.00-1-R7-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "President Bush is said to be focusing on one fence-sitting Security Council member , the African nation of Guinea , because he said -- quote -- \" I used to have one of their pigs . \"",
+  "sentence_index" : 10,
+  "Tokens" : [ "President", "Bush", "is", "said", "to", "be", "focusing", "on", "one", "fence-sitting", "Security", "Council", "member", ",", "the", "African", "nation", "of", "Guinea", ",", "because", "he", "said", "--", "quote", "--", "\"", "I", "used", "to", "have", "one", "of", "their", "pigs", ".", "\"" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the African nation of Guinea",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "African",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E18-25",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-1-R8",
+  "mentionArg1" : {
+    "extent" : "the African nation of Guinea",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E14-23",
+    "start" : 14,
+    "end" : 18
+  },
+  "id" : "CNN_CF_20030305.1900.00-1-R8-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "President Bush is said to be focusing on one fence-sitting Security Council member , the African nation of Guinea , because he said -- quote -- \" I used to have one of their pigs . \"",
+  "sentence_index" : 10,
+  "Tokens" : [ "President", "Bush", "is", "said", "to", "be", "focusing", "on", "one", "fence-sitting", "Security", "Council", "member", ",", "the", "African", "nation", "of", "Guinea", ",", "because", "he", "said", "--", "quote", "--", "\"", "I", "used", "to", "have", "one", "of", "their", "pigs", ".", "\"" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Saddam wouldn't be destroying missiles unless he thought he was going to be destroyed if he didn't",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "missiles",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E27-41",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-1-R9",
+  "mentionArg1" : {
+    "extent" : "Saddam",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E26-40",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_CF_20030305.1900.00-1-R9-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Saddam would n't be destroying missiles unless he thought he was going to be destroyed if he didn't .",
+  "sentence_index" : 20,
+  "Tokens" : [ "Saddam", "would", "n't", "be", "destroying", "missiles", "unless", "he", "thought", "he", "was", "going", "to", "be", "destroyed", "if", "he", "didn't", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Secretary of State",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "State",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E31-60",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-1-R10",
+  "mentionArg1" : {
+    "extent" : "Secretary of State",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E30-59",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "CNN_CF_20030305.1900.00-1-R10-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Secretary of State Colin Powell today responded to Saddam Hussein 's latest attempts to fool the world .",
+  "sentence_index" : 28,
+  "Tokens" : [ "Secretary", "of", "State", "Colin", "Powell", "today", "responded", "to", "Saddam", "Hussein", "'s", "latest", "attempts", "to", "fool", "the", "world", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Secretary of State",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "State",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E31-96",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-1-R10",
+  "mentionArg1" : {
+    "extent" : "Secretary of State",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E30-95",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "CNN_CF_20030305.1900.00-1-R10-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Secretary of State Colin Powell or France ?",
+  "sentence_index" : 36,
+  "Tokens" : [ "Secretary", "of", "State", "Colin", "Powell", "or", "France", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "its weapons of mass destruction",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "its weapons of mass destruction",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E34-66",
+    "start" : 29,
+    "end" : 33
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-1-R11",
+  "mentionArg1" : {
+    "extent" : "its",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E10-67",
+    "start" : 29,
+    "end" : 29
+  },
+  "id" : "CNN_CF_20030305.1900.00-1-R11-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Powell called Iraqi steps toward disarmament -- quote -- \" too little , too late \" gestures , meant to split international resolve to force Baghdad to give up its weapons of mass destruction .",
+  "sentence_index" : 29,
+  "Tokens" : [ "Powell", "called", "Iraqi", "steps", "toward", "disarmament", "--", "quote", "--", "\"", "too", "little", ",", "too", "late", "\"", "gestures", ",", "meant", "to", "split", "international", "resolve", "to", "force", "Baghdad", "to", "give", "up", "its", "weapons", "of", "mass", "destruction", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "U.S. intelligence said Powell indicates Iraq has hidden equipment to produce al-Samoud 2 missiles, even as it destroys existing ones, missiles that until recently, it claimed not to have",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "al-Samoud 2 missiles",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E36-71",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-1-R12",
+  "mentionArg1" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E10-70",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "CNN_CF_20030305.1900.00-1-R12-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "U.S. intelligence said Powell indicates Iraq has hidden equipment to produce al-Samoud 2 missiles , even as it destroys existing ones , missiles that until recently , it claimed not to have .",
+  "sentence_index" : 30,
+  "Tokens" : [ "U.S.", "intelligence", "said", "Powell", "indicates", "Iraq", "has", "hidden", "equipment", "to", "produce", "al-Samoud", "2", "missiles", ",", "even", "as", "it", "destroys", "existing", "ones", ",", "missiles", "that", "until", "recently", ",", "it", "claimed", "not", "to", "have", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "U.S. intelligence said Powell indicates Iraq has hidden equipment to produce al-Samoud 2 missiles, even as it destroys existing ones, missiles that until recently, it claimed not to have",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "existing ones",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E37-74",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-1-R13",
+  "mentionArg1" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E10-70",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "CNN_CF_20030305.1900.00-1-R13-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "U.S. intelligence said Powell indicates Iraq has hidden equipment to produce al-Samoud 2 missiles , even as it destroys existing ones , missiles that until recently , it claimed not to have .",
+  "sentence_index" : 30,
+  "Tokens" : [ "U.S.", "intelligence", "said", "Powell", "indicates", "Iraq", "has", "hidden", "equipment", "to", "produce", "al-Samoud", "2", "missiles", ",", "even", "as", "it", "destroys", "existing", "ones", ",", "missiles", "that", "until", "recently", ",", "it", "claimed", "not", "to", "have", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Powell also revealed that Iraq is hiding chemical and biological weapons in poor neighborhoods around Baghdad",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "chemical and biological weapons",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E39-81",
+    "start" : 7,
+    "end" : 10
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-1-R14",
+  "mentionArg1" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E10-78",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "CNN_CF_20030305.1900.00-1-R14-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Powell also revealed that Iraq is hiding chemical and biological weapons in poor neighborhoods around Baghdad .",
+  "sentence_index" : 31,
+  "Tokens" : [ "Powell", "also", "revealed", "that", "Iraq", "is", "hiding", "chemical", "and", "biological", "weapons", "in", "poor", "neighborhoods", "around", "Baghdad", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "poor neighborhoods around Baghdad",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E43-85",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-1-R15",
+  "mentionArg1" : {
+    "extent" : "poor neighborhoods around Baghdad",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E42-84",
+    "start" : 12,
+    "end" : 15
+  },
+  "id" : "CNN_CF_20030305.1900.00-1-R15-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Powell also revealed that Iraq is hiding chemical and biological weapons in poor neighborhoods around Baghdad .",
+  "sentence_index" : 31,
+  "Tokens" : [ "Powell", "also", "revealed", "that", "Iraq", "is", "hiding", "chemical", "and", "biological", "weapons", "in", "poor", "neighborhoods", "around", "Baghdad", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "We are watching them destroy weapons, as the president says, Oh, that's just a hoax",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "weapons",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E54-104",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-1-R16",
+  "mentionArg1" : {
+    "extent" : "them",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E10-103",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "CNN_CF_20030305.1900.00-1-R16-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "We are watching them destroy weapons , as the president says , Oh , that 's just a hoax .",
+  "sentence_index" : 39,
+  "Tokens" : [ "We", "are", "watching", "them", "destroy", "weapons", ",", "as", "the", "president", "says", ",", "Oh", ",", "that", "'s", "just", "a", "hoax", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "He's saying, the -- it's a hoax to the extent that those are only a small number of the weapons there. Keep in mind, these are weapons that Saddam Hussein, until recently, said he didn't even have",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "weapons that Saddam Hussein, until recently, said he didn't even have",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E57-112",
+    "start" : 31,
+    "end" : 44
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-1-R17",
+  "mentionArg1" : {
+    "extent" : "Saddam Hussein",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E26-115",
+    "start" : 33,
+    "end" : 34
+  },
+  "id" : "CNN_CF_20030305.1900.00-1-R17-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "He 's saying , the -- it 's a hoax to the extent that those are only a small number of the weapons there .",
+  "sentence_index" : 42,
+  "Tokens" : [ "He", "'s", "saying", ",", "the", "--", "it", "'s", "a", "hoax", "to", "the", "extent", "that", "those", "are", "only", "a", "small", "number", "of", "the", "weapons", "there", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "our young men and women",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E6-129",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-1-R18",
+  "mentionArg1" : {
+    "extent" : "our young men and women",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E63-127",
+    "start" : 17,
+    "end" : 21
+  },
+  "id" : "CNN_CF_20030305.1900.00-1-R18-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The question is , Is he a sufficient threat to America today to risk the lives of our young men and women .",
+  "sentence_index" : 49,
+  "Tokens" : [ "The", "question", "is", ",", "Is", "he", "a", "sufficient", "threat", "to", "America", "today", "to", "risk", "the", "lives", "of", "our", "young", "men", "and", "women", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "our young men and women",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E6-129",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-1-R19",
+  "mentionArg1" : {
+    "extent" : "our young men and women",
+    "argMentionid" : "CNN_CF_20030305.1900.00-1-E64-128",
+    "start" : 17,
+    "end" : 21
+  },
+  "id" : "CNN_CF_20030305.1900.00-1-R19-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The question is , Is he a sufficient threat to America today to risk the lives of our young men and women .",
+  "sentence_index" : 49,
+  "Tokens" : [ "The", "question", "is", ",", "Is", "he", "a", "sufficient", "threat", "to", "America", "today", "to", "risk", "the", "lives", "of", "our", "young", "men", "and", "women", "." ]
+} ]

@@ -1,0 +1,507 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "Over in Iraq, arms inspectors are discovering and destroying missiles",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E18-1",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "CNN_CF_20030304.1900.04-R1",
+  "mentionArg1" : {
+    "extent" : "arms inspectors",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E49-86",
+    "start" : 4,
+    "end" : 5
+  },
+  "id" : "CNN_CF_20030304.1900.04-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Over in Iraq , arms inspectors are discovering and destroying missiles .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Over", "in", "Iraq", ",", "arms", "inspectors", "are", "discovering", "and", "destroying", "missiles", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iraqi scientists",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E18-211",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "CNN_CF_20030304.1900.04-R2",
+  "mentionArg1" : {
+    "extent" : "Iraqi scientists",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E72-210",
+    "start" : 10,
+    "end" : 11
+  },
+  "id" : "CNN_CF_20030304.1900.04-R2-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Spy planes are searching for more banned arms , and Iraqi scientists are being interviewed by U.N. weapons inspectors .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Spy", "planes", "are", "searching", "for", "more", "banned", "arms", ",", "and", "Iraqi", "scientists", "are", "being", "interviewed", "by", "U.N.", "weapons", "inspectors", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.N. weapons inspectors",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "U.N",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E74-213",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "CNN_CF_20030304.1900.04-R3",
+  "mentionArg1" : {
+    "extent" : "U.N. weapons inspectors",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E49-212",
+    "start" : 16,
+    "end" : 18
+  },
+  "id" : "CNN_CF_20030304.1900.04-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Spy planes are searching for more banned arms , and Iraqi scientists are being interviewed by U.N. weapons inspectors .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Spy", "planes", "are", "searching", "for", "more", "banned", "arms", ",", "and", "Iraqi", "scientists", "are", "being", "interviewed", "by", "U.N.", "weapons", "inspectors", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "But here in Washington, President Bush says it's all a hoax, and many believe he has already made up his mind to go to war",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Washington",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E77-217",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_CF_20030304.1900.04-R4",
+  "mentionArg1" : {
+    "extent" : "President",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E78-219",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "CNN_CF_20030304.1900.04-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "But here in Washington , President Bush says it 's all a hoax , and many believe he has already made up his mind to go to war .",
+  "sentence_index" : 3,
+  "Tokens" : [ "But", "here", "in", "Washington", ",", "President", "Bush", "says", "it", "'s", "all", "a", "hoax", ",", "and", "many", "believe", "he", "has", "already", "made", "up", "his", "mind", "to", "go", "to", "war", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Republican from Arizona",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Arizona",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E5-10",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "CNN_CF_20030304.1900.04-R5",
+  "mentionArg1" : {
+    "extent" : "the Republican from Arizona",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E3-9",
+    "start" : 14,
+    "end" : 17
+  },
+  "id" : "CNN_CF_20030304.1900.04-R5-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Back with us to talk about it , two Congressmen : J.D. Hayworth , the Republican from Arizona , and Bernie Sanders , an Independent from Vermont .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Back", "with", "us", "to", "talk", "about", "it", ",", "two", "Congressmen", ":", "J.D.", "Hayworth", ",", "the", "Republican", "from", "Arizona", ",", "and", "Bernie", "Sanders", ",", "an", "Independent", "from", "Vermont", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a Republican from Arizona",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "Arizona",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E5-190",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "CNN_CF_20030304.1900.04-R5",
+  "mentionArg1" : {
+    "extent" : "a Republican from Arizona",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E3-189",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "CNN_CF_20030304.1900.04-R5-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Congressman J.D. Hayworth , a Republican from Arizona , thank you both very much .",
+  "sentence_index" : 74,
+  "Tokens" : [ "Congressman", "J.D.", "Hayworth", ",", "a", "Republican", "from", "Arizona", ",", "thank", "you", "both", "very", "much", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "an Independent from Vermont",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Vermont",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E8-14",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "CNN_CF_20030304.1900.04-R6",
+  "mentionArg1" : {
+    "extent" : "an Independent from Vermont",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E6-13",
+    "start" : 23,
+    "end" : 26
+  },
+  "id" : "CNN_CF_20030304.1900.04-R6-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Back with us to talk about it , two Congressmen : J.D. Hayworth , the Republican from Arizona , and Bernie Sanders , an Independent from Vermont .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Back", "with", "us", "to", "talk", "about", "it", ",", "two", "Congressmen", ":", "J.D.", "Hayworth", ",", "the", "Republican", "from", "Arizona", ",", "and", "Bernie", "Sanders", ",", "an", "Independent", "from", "Vermont", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "an Independent from Vermont",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "Vermont",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E8-184",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_CF_20030304.1900.04-R6",
+  "mentionArg1" : {
+    "extent" : "an Independent from Vermont",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E6-183",
+    "start" : 3,
+    "end" : 6
+  },
+  "id" : "CNN_CF_20030304.1900.04-R6-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Bernie Sanders , an Independent from Vermont , thank you very much .",
+  "sentence_index" : 73,
+  "Tokens" : [ "Bernie", "Sanders", ",", "an", "Independent", "from", "Vermont", ",", "thank", "you", "very", "much", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "tens and thousands of Iraqi women and children",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E18-31",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "CNN_CF_20030304.1900.04-R7",
+  "mentionArg1" : {
+    "extent" : "tens and thousands of Iraqi women and children",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E16-29",
+    "start" : 14,
+    "end" : 21
+  },
+  "id" : "CNN_CF_20030304.1900.04-R7-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "( APPLAUSE ) SANDERS Well it 's not -- are you suggesting that when tens and thousands of Iraqi women and children are killed , and when young men and women in this country are unnecessarily put at harm 's risk , what should we do ?",
+  "sentence_index" : 9,
+  "Tokens" : [ "(", "APPLAUSE", ")", "SANDERS", "Well", "it", "'s", "not", "--", "are", "you", "suggesting", "that", "when", "tens", "and", "thousands", "of", "Iraqi", "women", "and", "children", "are", "killed", ",", "and", "when", "young", "men", "and", "women", "in", "this", "country", "are", "unnecessarily", "put", "at", "harm", "'s", "risk", ",", "what", "should", "we", "do", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "tens and thousands of Iraqi women and children",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E18-31",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "CNN_CF_20030304.1900.04-R8",
+  "mentionArg1" : {
+    "extent" : "tens and thousands of Iraqi women and children",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E17-30",
+    "start" : 14,
+    "end" : 21
+  },
+  "id" : "CNN_CF_20030304.1900.04-R8-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "( APPLAUSE ) SANDERS Well it 's not -- are you suggesting that when tens and thousands of Iraqi women and children are killed , and when young men and women in this country are unnecessarily put at harm 's risk , what should we do ?",
+  "sentence_index" : 9,
+  "Tokens" : [ "(", "APPLAUSE", ")", "SANDERS", "Well", "it", "'s", "not", "--", "are", "you", "suggesting", "that", "when", "tens", "and", "thousands", "of", "Iraqi", "women", "and", "children", "are", "killed", ",", "and", "when", "young", "men", "and", "women", "in", "this", "country", "are", "unnecessarily", "put", "at", "harm", "'s", "risk", ",", "what", "should", "we", "do", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "young men and women in this country",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "this country",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E12-34",
+    "start" : 32,
+    "end" : 33
+  },
+  "relationID" : "CNN_CF_20030304.1900.04-R9",
+  "mentionArg1" : {
+    "extent" : "young men and women in this country",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E19-32",
+    "start" : 27,
+    "end" : 33
+  },
+  "id" : "CNN_CF_20030304.1900.04-R9-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "( APPLAUSE ) SANDERS Well it 's not -- are you suggesting that when tens and thousands of Iraqi women and children are killed , and when young men and women in this country are unnecessarily put at harm 's risk , what should we do ?",
+  "sentence_index" : 9,
+  "Tokens" : [ "(", "APPLAUSE", ")", "SANDERS", "Well", "it", "'s", "not", "--", "are", "you", "suggesting", "that", "when", "tens", "and", "thousands", "of", "Iraqi", "women", "and", "children", "are", "killed", ",", "and", "when", "young", "men", "and", "women", "in", "this", "country", "are", "unnecessarily", "put", "at", "harm", "'s", "risk", ",", "what", "should", "we", "do", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "young men and women in this country",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "this country",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E12-34",
+    "start" : 32,
+    "end" : 33
+  },
+  "relationID" : "CNN_CF_20030304.1900.04-R10",
+  "mentionArg1" : {
+    "extent" : "young men and women in this country",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E20-33",
+    "start" : 27,
+    "end" : 33
+  },
+  "id" : "CNN_CF_20030304.1900.04-R10-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "( APPLAUSE ) SANDERS Well it 's not -- are you suggesting that when tens and thousands of Iraqi women and children are killed , and when young men and women in this country are unnecessarily put at harm 's risk , what should we do ?",
+  "sentence_index" : 9,
+  "Tokens" : [ "(", "APPLAUSE", ")", "SANDERS", "Well", "it", "'s", "not", "--", "are", "you", "suggesting", "that", "when", "tens", "and", "thousands", "of", "Iraqi", "women", "and", "children", "are", "killed", ",", "and", "when", "young", "men", "and", "women", "in", "this", "country", "are", "unnecessarily", "put", "at", "harm", "'s", "risk", ",", "what", "should", "we", "do", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "my neighbors from Vermont",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Vermont",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E8-39",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNN_CF_20030304.1900.04-R11",
+  "mentionArg1" : {
+    "extent" : "my neighbors from Vermont",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E15-37",
+    "start" : 6,
+    "end" : 9
+  },
+  "id" : "CNN_CF_20030304.1900.04-R11-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The answer is , these are my neighbors from Vermont and obviously we 're going to support them .",
+  "sentence_index" : 10,
+  "Tokens" : [ "The", "answer", "is", ",", "these", "are", "my", "neighbors", "from", "Vermont", "and", "obviously", "we", "'re", "going", "to", "support", "them", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the butcher of Baghdad",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E35-74",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "CNN_CF_20030304.1900.04-R12",
+  "mentionArg1" : {
+    "extent" : "the butcher of Baghdad",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E31-73",
+    "start" : 9,
+    "end" : 12
+  },
+  "id" : "CNN_CF_20030304.1900.04-R12-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "You said , \" This is Saddam Hussein , the butcher of Baghdad . \"",
+  "sentence_index" : 26,
+  "Tokens" : [ "You", "said", ",", "\"", "This", "is", "Saddam", "Hussein", ",", "the", "butcher", "of", "Baghdad", ".", "\"" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the butcher of Baghdad",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E35-89",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "CNN_CF_20030304.1900.04-R12",
+  "mentionArg1" : {
+    "extent" : "the butcher of Baghdad",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E31-88",
+    "start" : 20,
+    "end" : 23
+  },
+  "id" : "CNN_CF_20030304.1900.04-R12-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Therefore , was n't Dick Cheney , as the CEO of Halliburton , wrong to be selling oilfield equipment to the butcher of Baghdad in 1988 ?",
+  "sentence_index" : 32,
+  "Tokens" : [ "Therefore", ",", "was", "n't", "Dick", "Cheney", ",", "as", "the", "CEO", "of", "Halliburton", ",", "wrong", "to", "be", "selling", "oilfield", "equipment", "to", "the", "butcher", "of", "Baghdad", "in", "1988", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I think it has described him, especially since he's taken basically a one-man rule over with the Baath Party in 1979",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "the Baath Party",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E37-82",
+    "start" : 18,
+    "end" : 20
+  },
+  "relationID" : "CNN_CF_20030304.1900.04-R13",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E31-80",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "CNN_CF_20030304.1900.04-R13-1",
+  "relationSubType" : "Ownership",
+  "Sentence" : "I think it has described him , especially since he 's taken basically a one-man rule over with the Baath Party in 1979 .",
+  "sentence_index" : 30,
+  "Tokens" : [ "I", "think", "it", "has", "described", "him", ",", "especially", "since", "he", "'s", "taken", "basically", "a", "one-man", "rule", "over", "with", "the", "Baath", "Party", "in", "1979", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the CEO of Halliburton",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Halliburton",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E40-87",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_CF_20030304.1900.04-R14",
+  "mentionArg1" : {
+    "extent" : "the CEO of Halliburton",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E38-85",
+    "start" : 8,
+    "end" : 11
+  },
+  "id" : "CNN_CF_20030304.1900.04-R14-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Therefore , was n't Dick Cheney , as the CEO of Halliburton , wrong to be selling oilfield equipment to the butcher of Baghdad in 1988 ?",
+  "sentence_index" : 32,
+  "Tokens" : [ "Therefore", ",", "was", "n't", "Dick", "Cheney", ",", "as", "the", "CEO", "of", "Halliburton", ",", "wrong", "to", "be", "selling", "oilfield", "equipment", "to", "the", "butcher", "of", "Baghdad", "in", "1988", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Iran had hostages",
+  "sentence_length" : 4,
+  "mentionArg2" : {
+    "extent" : "Iran",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E45-127",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_CF_20030304.1900.04-R15",
+  "mentionArg1" : {
+    "extent" : "hostages",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E46-128",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "CNN_CF_20030304.1900.04-R15-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Iran had hostages .",
+  "sentence_index" : 49,
+  "Tokens" : [ "Iran", "had", "hostages", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Shah of Iran",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "Iran",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E45-150",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_CF_20030304.1900.04-R16",
+  "mentionArg1" : {
+    "extent" : "the Shah of Iran",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E50-149",
+    "start" : 8,
+    "end" : 11
+  },
+  "id" : "CNN_CF_20030304.1900.04-R16-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "SANDERS We overthrew ( UNINTELLIGIBLE ) and put the Shah of Iran in power .",
+  "sentence_index" : 61,
+  "Tokens" : [ "SANDERS", "We", "overthrew", "(", "UNINTELLIGIBLE", ")", "and", "put", "the", "Shah", "of", "Iran", "in", "power", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Shah of Iran",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Iran",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E45-165",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "CNN_CF_20030304.1900.04-R16",
+  "mentionArg1" : {
+    "extent" : "the Shah of Iran",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E50-164",
+    "start" : 18,
+    "end" : 21
+  },
+  "id" : "CNN_CF_20030304.1900.04-R16-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "SANDERS No , the point I made , Khomeini came about because we put a brutal dictator , the Shah of Iran , in power .",
+  "sentence_index" : 65,
+  "Tokens" : [ "SANDERS", "No", ",", "the", "point", "I", "made", ",", "Khomeini", "came", "about", "because", "we", "put", "a", "brutal", "dictator", ",", "the", "Shah", "of", "Iran", ",", "in", "power", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the most powerful nation on Earth",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Earth",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E54-174",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "CNN_CF_20030304.1900.04-R17",
+  "mentionArg1" : {
+    "extent" : "the most powerful nation on Earth",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E12-173",
+    "start" : 7,
+    "end" : 12
+  },
+  "id" : "CNN_CF_20030304.1900.04-R17-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "You do n't know what happens when the most powerful nation on Earth invades and occupies a Muslim nation and kills tens of thousands of people .",
+  "sentence_index" : 70,
+  "Tokens" : [ "You", "do", "n't", "know", "what", "happens", "when", "the", "most", "powerful", "nation", "on", "Earth", "invades", "and", "occupies", "a", "Muslim", "nation", "and", "kills", "tens", "of", "thousands", "of", "people", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a Muslim nation",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "a Muslim nation",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E55-175",
+    "start" : 16,
+    "end" : 18
+  },
+  "relationID" : "CNN_CF_20030304.1900.04-R18",
+  "mentionArg1" : {
+    "extent" : "Muslim",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E56-176",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "CNN_CF_20030304.1900.04-R18-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "You do n't know what happens when the most powerful nation on Earth invades and occupies a Muslim nation and kills tens of thousands of people .",
+  "sentence_index" : 70,
+  "Tokens" : [ "You", "do", "n't", "know", "what", "happens", "when", "the", "most", "powerful", "nation", "on", "Earth", "invades", "and", "occupies", "a", "Muslim", "nation", "and", "kills", "tens", "of", "thousands", "of", "people", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "that al Qaeda ring leader",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "al Qaeda",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E64-199",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "CNN_CF_20030304.1900.04-R19",
+  "mentionArg1" : {
+    "extent" : "that al Qaeda ring leader",
+    "argMentionid" : "CNN_CF_20030304.1900.04-E63-198",
+    "start" : 16,
+    "end" : 20
+  },
+  "id" : "CNN_CF_20030304.1900.04-R19-1",
+  "relationSubType" : "Founder",
+  "Sentence" : "One of our viewers , though , thinks there 's a sure fire way to get that al Qaeda ring leader to talk .",
+  "sentence_index" : 76,
+  "Tokens" : [ "One", "of", "our", "viewers", ",", "though", ",", "thinks", "there", "'s", "a", "sure", "fire", "way", "to", "get", "that", "al", "Qaeda", "ring", "leader", "to", "talk", "." ]
+} ]

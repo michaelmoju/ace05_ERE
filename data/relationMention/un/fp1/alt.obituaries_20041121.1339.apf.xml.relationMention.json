@@ -1,0 +1,111 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Israeli secret police",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "alt.obituaries_20041121.1339-E4-30",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "alt.obituaries_20041121.1339-R1",
+  "mentionArg1" : {
+    "extent" : "the Israeli secret police",
+    "argMentionid" : "alt.obituaries_20041121.1339-E17-1",
+    "start" : 8,
+    "end" : 11
+  },
+  "id" : "alt.obituaries_20041121.1339-R1-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "There has always been that urban legend that the Israeli secret police murdered the Shah of Iran by infecting him with plutonium , which manifested itself into terminal lung cancer .",
+  "sentence_index" : 2,
+  "Tokens" : [ "There", "has", "always", "been", "that", "urban", "legend", "that", "the", "Israeli", "secret", "police", "murdered", "the", "Shah", "of", "Iran", "by", "infecting", "him", "with", "plutonium", ",", "which", "manifested", "itself", "into", "terminal", "lung", "cancer", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Shah of Iran",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Iran",
+    "argMentionid" : "alt.obituaries_20041121.1339-E21-32",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "alt.obituaries_20041121.1339-R2",
+  "mentionArg1" : {
+    "extent" : "the Shah of Iran",
+    "argMentionid" : "alt.obituaries_20041121.1339-E20-31",
+    "start" : 13,
+    "end" : 16
+  },
+  "id" : "alt.obituaries_20041121.1339-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "There has always been that urban legend that the Israeli secret police murdered the Shah of Iran by infecting him with plutonium , which manifested itself into terminal lung cancer .",
+  "sentence_index" : 2,
+  "Tokens" : [ "There", "has", "always", "been", "that", "urban", "legend", "that", "the", "Israeli", "secret", "police", "murdered", "the", "Shah", "of", "Iran", "by", "infecting", "him", "with", "plutonium", ",", "which", "manifested", "itself", "into", "terminal", "lung", "cancer", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the late Israeli singer",
+  "sentence_length" : 63,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "alt.obituaries_20041121.1339-E4-4",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "alt.obituaries_20041121.1339-R3",
+  "mentionArg1" : {
+    "extent" : "the late Israeli singer",
+    "argMentionid" : "alt.obituaries_20041121.1339-E5-6",
+    "start" : 25,
+    "end" : 28
+  },
+  "id" : "alt.obituaries_20041121.1339-R3-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "I do n't mean to suggest that I agree with anything David Frum says , but these Arafat-had-AIDS allegations remind me of what happened with the late Israeli singer Ofra Haza , where there was a lot of speculation , a mysterious death from a \" blood disease , \" and then it came out eventually that she 'd died of AIDS .",
+  "sentence_index" : 9,
+  "Tokens" : [ "I", "do", "n't", "mean", "to", "suggest", "that", "I", "agree", "with", "anything", "David", "Frum", "says", ",", "but", "these", "Arafat-had-AIDS", "allegations", "remind", "me", "of", "what", "happened", "with", "the", "late", "Israeli", "singer", "Ofra", "Haza", ",", "where", "there", "was", "a", "lot", "of", "speculation", ",", "a", "mysterious", "death", "from", "a", "\"", "blood", "disease", ",", "\"", "and", "then", "it", "came", "out", "eventually", "that", "she", "'d", "died", "of", "AIDS", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Israeli media",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "alt.obituaries_20041121.1339-E4-8",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "alt.obituaries_20041121.1339-R4",
+  "mentionArg1" : {
+    "extent" : "the Israeli media",
+    "argMentionid" : "alt.obituaries_20041121.1339-E8-9",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "alt.obituaries_20041121.1339-R4-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "( Although I would think the Israeli media , who were blamed for hushing up Haza 's cause of death , would take a unique pleasure in making the most of Arafat's , if all this was true . ) Hulka J.D. Baldwin Mon , 22 Nov 2004 21:56:48 + 0000 ( UTC ) Re : Yasser Arafat Murdered ?",
+  "sentence_index" : 10,
+  "Tokens" : [ "(", "Although", "I", "would", "think", "the", "Israeli", "media", ",", "who", "were", "blamed", "for", "hushing", "up", "Haza", "'s", "cause", "of", "death", ",", "would", "take", "a", "unique", "pleasure", "in", "making", "the", "most", "of", "Arafat's", ",", "if", "all", "this", "was", "true", ".", ")", "Hulka", "J.D.", "Baldwin", "Mon", ",", "22", "Nov", "2004", "21:56:48", "+", "0000", "(", "UTC", ")", "Re", ":", "Yasser", "Arafat", "Murdered", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "his HQ",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "his HQ",
+    "argMentionid" : "alt.obituaries_20041121.1339-E10-18",
+    "start" : 20,
+    "end" : 21
+  },
+  "relationID" : "alt.obituaries_20041121.1339-R5",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "alt.obituaries_20041121.1339-E2-17",
+    "start" : 20,
+    "end" : 20
+  },
+  "id" : "alt.obituaries_20041121.1339-R5-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The \" suspicious evidence \" is simply that Arafat did not look particularly near death when he was removed from his HQ .",
+  "sentence_index" : 15,
+  "Tokens" : [ "The", "\"", "suspicious", "evidence", "\"", "is", "simply", "that", "Arafat", "did", "not", "look", "particularly", "near", "death", "when", "he", "was", "removed", "from", "his", "HQ", "." ]
+} ]

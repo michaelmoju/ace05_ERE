@@ -1,0 +1,89 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "if there was any question about how the dixie chicks would be received in america, answered last night, in part, the band played to about 15,000 in greenville, south carolina",
+  "sentence_length" : 233,
+  "mentionArg2" : {
+    "extent" : "greenville, south carolina",
+    "argMentionid" : "CNN_ENG_20030502_050021.17-E7-20",
+    "start" : 192,
+    "end" : 195
+  },
+  "relationID" : "CNN_ENG_20030502_050021.17-R1",
+  "mentionArg1" : {
+    "extent" : "about 15,000",
+    "argMentionid" : "CNN_ENG_20030502_050021.17-E6-19",
+    "start" : 189,
+    "end" : 190
+  },
+  "id" : "CNN_ENG_20030502_050021.17-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "real people , real results , in six weeks. i 'm a whole new person. in just six weeks , i lost 20 pounds , which is just fantastic. i think i lost 5 inches around my tummy. in six weeks , i lost 19 1/2 pounds. call now to get a free video that tells you all about the home gym that guarantees real results for real people just like you. bowflex. working out with bowflex was fun. i was able to transition from one exercise to another very seamlessly. all it takes is one simple workout. i like the leg curls. you could just really feel you 're working the backs of your legs. everything has surprised me , the way i look , the way i feel. i feel like i could take on the world. you know , gr-r-r. call ... ... to get your free video and brochure and check out the entire bowflex lineup. that's ... if there was any question about how the dixie chicks would be received in america , answered last night , in part , the band played to about 15,000 in greenville , south carolina. their first u . s. concert since their singer natalie maines sparked a controversy when she said she was ashamed the president was from the state of texas. we are back on stage looking online good .",
+  "sentence_index" : 2,
+  "Tokens" : [ "real", "people", ",", "real", "results", ",", "in", "six", "weeks.", "i", "'m", "a", "whole", "new", "person.", "in", "just", "six", "weeks", ",", "i", "lost", "20", "pounds", ",", "which", "is", "just", "fantastic.", "i", "think", "i", "lost", "5", "inches", "around", "my", "tummy.", "in", "six", "weeks", ",", "i", "lost", "19", "1/2", "pounds.", "call", "now", "to", "get", "a", "free", "video", "that", "tells", "you", "all", "about", "the", "home", "gym", "that", "guarantees", "real", "results", "for", "real", "people", "just", "like", "you.", "bowflex.", "working", "out", "with", "bowflex", "was", "fun.", "i", "was", "able", "to", "transition", "from", "one", "exercise", "to", "another", "very", "seamlessly.", "all", "it", "takes", "is", "one", "simple", "workout.", "i", "like", "the", "leg", "curls.", "you", "could", "just", "really", "feel", "you", "'re", "working", "the", "backs", "of", "your", "legs.", "everything", "has", "surprised", "me", ",", "the", "way", "i", "look", ",", "the", "way", "i", "feel.", "i", "feel", "like", "i", "could", "take", "on", "the", "world.", "you", "know", ",", "gr-r-r.", "call", "...", "...", "to", "get", "your", "free", "video", "and", "brochure", "and", "check", "out", "the", "entire", "bowflex", "lineup.", "that's", "...", "if", "there", "was", "any", "question", "about", "how", "the", "dixie", "chicks", "would", "be", "received", "in", "america", ",", "answered", "last", "night", ",", "in", "part", ",", "the", "band", "played", "to", "about", "15,000", "in", "greenville", ",", "south", "carolina.", "their", "first", "u", ".", "s.", "concert", "since", "their", "singer", "natalie", "maines", "sparked", "a", "controversy", "when", "she", "said", "she", "was", "ashamed", "the", "president", "was", "from", "the", "state", "of", "texas.", "we", "are", "back", "on", "stage", "looking", "online", "good", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "greenville, south carolina",
+  "sentence_length" : 233,
+  "mentionArg2" : {
+    "extent" : "south carolina",
+    "argMentionid" : "CNN_ENG_20030502_050021.17-E8-21",
+    "start" : 194,
+    "end" : 195
+  },
+  "relationID" : "CNN_ENG_20030502_050021.17-R2",
+  "mentionArg1" : {
+    "extent" : "greenville, south carolina",
+    "argMentionid" : "CNN_ENG_20030502_050021.17-E7-20",
+    "start" : 192,
+    "end" : 195
+  },
+  "id" : "CNN_ENG_20030502_050021.17-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "real people , real results , in six weeks. i 'm a whole new person. in just six weeks , i lost 20 pounds , which is just fantastic. i think i lost 5 inches around my tummy. in six weeks , i lost 19 1/2 pounds. call now to get a free video that tells you all about the home gym that guarantees real results for real people just like you. bowflex. working out with bowflex was fun. i was able to transition from one exercise to another very seamlessly. all it takes is one simple workout. i like the leg curls. you could just really feel you 're working the backs of your legs. everything has surprised me , the way i look , the way i feel. i feel like i could take on the world. you know , gr-r-r. call ... ... to get your free video and brochure and check out the entire bowflex lineup. that's ... if there was any question about how the dixie chicks would be received in america , answered last night , in part , the band played to about 15,000 in greenville , south carolina. their first u . s. concert since their singer natalie maines sparked a controversy when she said she was ashamed the president was from the state of texas. we are back on stage looking online good .",
+  "sentence_index" : 2,
+  "Tokens" : [ "real", "people", ",", "real", "results", ",", "in", "six", "weeks.", "i", "'m", "a", "whole", "new", "person.", "in", "just", "six", "weeks", ",", "i", "lost", "20", "pounds", ",", "which", "is", "just", "fantastic.", "i", "think", "i", "lost", "5", "inches", "around", "my", "tummy.", "in", "six", "weeks", ",", "i", "lost", "19", "1/2", "pounds.", "call", "now", "to", "get", "a", "free", "video", "that", "tells", "you", "all", "about", "the", "home", "gym", "that", "guarantees", "real", "results", "for", "real", "people", "just", "like", "you.", "bowflex.", "working", "out", "with", "bowflex", "was", "fun.", "i", "was", "able", "to", "transition", "from", "one", "exercise", "to", "another", "very", "seamlessly.", "all", "it", "takes", "is", "one", "simple", "workout.", "i", "like", "the", "leg", "curls.", "you", "could", "just", "really", "feel", "you", "'re", "working", "the", "backs", "of", "your", "legs.", "everything", "has", "surprised", "me", ",", "the", "way", "i", "look", ",", "the", "way", "i", "feel.", "i", "feel", "like", "i", "could", "take", "on", "the", "world.", "you", "know", ",", "gr-r-r.", "call", "...", "...", "to", "get", "your", "free", "video", "and", "brochure", "and", "check", "out", "the", "entire", "bowflex", "lineup.", "that's", "...", "if", "there", "was", "any", "question", "about", "how", "the", "dixie", "chicks", "would", "be", "received", "in", "america", ",", "answered", "last", "night", ",", "in", "part", ",", "the", "band", "played", "to", "about", "15,000", "in", "greenville", ",", "south", "carolina.", "their", "first", "u", ".", "s.", "concert", "since", "their", "singer", "natalie", "maines", "sparked", "a", "controversy", "when", "she", "said", "she", "was", "ashamed", "the", "president", "was", "from", "the", "state", "of", "texas.", "we", "are", "back", "on", "stage", "looking", "online", "good", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "their singer",
+  "sentence_length" : 233,
+  "mentionArg2" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_ENG_20030502_050021.17-E4-24",
+    "start" : 203,
+    "end" : 203
+  },
+  "relationID" : "CNN_ENG_20030502_050021.17-R3",
+  "mentionArg1" : {
+    "extent" : "their singer",
+    "argMentionid" : "CNN_ENG_20030502_050021.17-E10-25",
+    "start" : 203,
+    "end" : 204
+  },
+  "id" : "CNN_ENG_20030502_050021.17-R3-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "real people , real results , in six weeks. i 'm a whole new person. in just six weeks , i lost 20 pounds , which is just fantastic. i think i lost 5 inches around my tummy. in six weeks , i lost 19 1/2 pounds. call now to get a free video that tells you all about the home gym that guarantees real results for real people just like you. bowflex. working out with bowflex was fun. i was able to transition from one exercise to another very seamlessly. all it takes is one simple workout. i like the leg curls. you could just really feel you 're working the backs of your legs. everything has surprised me , the way i look , the way i feel. i feel like i could take on the world. you know , gr-r-r. call ... ... to get your free video and brochure and check out the entire bowflex lineup. that's ... if there was any question about how the dixie chicks would be received in america , answered last night , in part , the band played to about 15,000 in greenville , south carolina. their first u . s. concert since their singer natalie maines sparked a controversy when she said she was ashamed the president was from the state of texas. we are back on stage looking online good .",
+  "sentence_index" : 2,
+  "Tokens" : [ "real", "people", ",", "real", "results", ",", "in", "six", "weeks.", "i", "'m", "a", "whole", "new", "person.", "in", "just", "six", "weeks", ",", "i", "lost", "20", "pounds", ",", "which", "is", "just", "fantastic.", "i", "think", "i", "lost", "5", "inches", "around", "my", "tummy.", "in", "six", "weeks", ",", "i", "lost", "19", "1/2", "pounds.", "call", "now", "to", "get", "a", "free", "video", "that", "tells", "you", "all", "about", "the", "home", "gym", "that", "guarantees", "real", "results", "for", "real", "people", "just", "like", "you.", "bowflex.", "working", "out", "with", "bowflex", "was", "fun.", "i", "was", "able", "to", "transition", "from", "one", "exercise", "to", "another", "very", "seamlessly.", "all", "it", "takes", "is", "one", "simple", "workout.", "i", "like", "the", "leg", "curls.", "you", "could", "just", "really", "feel", "you", "'re", "working", "the", "backs", "of", "your", "legs.", "everything", "has", "surprised", "me", ",", "the", "way", "i", "look", ",", "the", "way", "i", "feel.", "i", "feel", "like", "i", "could", "take", "on", "the", "world.", "you", "know", ",", "gr-r-r.", "call", "...", "...", "to", "get", "your", "free", "video", "and", "brochure", "and", "check", "out", "the", "entire", "bowflex", "lineup.", "that's", "...", "if", "there", "was", "any", "question", "about", "how", "the", "dixie", "chicks", "would", "be", "received", "in", "america", ",", "answered", "last", "night", ",", "in", "part", ",", "the", "band", "played", "to", "about", "15,000", "in", "greenville", ",", "south", "carolina.", "their", "first", "u", ".", "s.", "concert", "since", "their", "singer", "natalie", "maines", "sparked", "a", "controversy", "when", "she", "said", "she", "was", "ashamed", "the", "president", "was", "from", "the", "state", "of", "texas.", "we", "are", "back", "on", "stage", "looking", "online", "good", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "their first u.s. concert since their singer natalie maines sparked a controversy when she said she was ashamed the president was from the state of texas",
+  "sentence_length" : 233,
+  "mentionArg2" : {
+    "extent" : "the state of texas",
+    "argMentionid" : "CNN_ENG_20030502_050021.17-E12-31",
+    "start" : 220,
+    "end" : 223
+  },
+  "relationID" : "CNN_ENG_20030502_050021.17-R4",
+  "mentionArg1" : {
+    "extent" : "the president",
+    "argMentionid" : "CNN_ENG_20030502_050021.17-E15-30",
+    "start" : 216,
+    "end" : 217
+  },
+  "id" : "CNN_ENG_20030502_050021.17-R4-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "real people , real results , in six weeks. i 'm a whole new person. in just six weeks , i lost 20 pounds , which is just fantastic. i think i lost 5 inches around my tummy. in six weeks , i lost 19 1/2 pounds. call now to get a free video that tells you all about the home gym that guarantees real results for real people just like you. bowflex. working out with bowflex was fun. i was able to transition from one exercise to another very seamlessly. all it takes is one simple workout. i like the leg curls. you could just really feel you 're working the backs of your legs. everything has surprised me , the way i look , the way i feel. i feel like i could take on the world. you know , gr-r-r. call ... ... to get your free video and brochure and check out the entire bowflex lineup. that's ... if there was any question about how the dixie chicks would be received in america , answered last night , in part , the band played to about 15,000 in greenville , south carolina. their first u . s. concert since their singer natalie maines sparked a controversy when she said she was ashamed the president was from the state of texas. we are back on stage looking online good .",
+  "sentence_index" : 2,
+  "Tokens" : [ "real", "people", ",", "real", "results", ",", "in", "six", "weeks.", "i", "'m", "a", "whole", "new", "person.", "in", "just", "six", "weeks", ",", "i", "lost", "20", "pounds", ",", "which", "is", "just", "fantastic.", "i", "think", "i", "lost", "5", "inches", "around", "my", "tummy.", "in", "six", "weeks", ",", "i", "lost", "19", "1/2", "pounds.", "call", "now", "to", "get", "a", "free", "video", "that", "tells", "you", "all", "about", "the", "home", "gym", "that", "guarantees", "real", "results", "for", "real", "people", "just", "like", "you.", "bowflex.", "working", "out", "with", "bowflex", "was", "fun.", "i", "was", "able", "to", "transition", "from", "one", "exercise", "to", "another", "very", "seamlessly.", "all", "it", "takes", "is", "one", "simple", "workout.", "i", "like", "the", "leg", "curls.", "you", "could", "just", "really", "feel", "you", "'re", "working", "the", "backs", "of", "your", "legs.", "everything", "has", "surprised", "me", ",", "the", "way", "i", "look", ",", "the", "way", "i", "feel.", "i", "feel", "like", "i", "could", "take", "on", "the", "world.", "you", "know", ",", "gr-r-r.", "call", "...", "...", "to", "get", "your", "free", "video", "and", "brochure", "and", "check", "out", "the", "entire", "bowflex", "lineup.", "that's", "...", "if", "there", "was", "any", "question", "about", "how", "the", "dixie", "chicks", "would", "be", "received", "in", "america", ",", "answered", "last", "night", ",", "in", "part", ",", "the", "band", "played", "to", "about", "15,000", "in", "greenville", ",", "south", "carolina.", "their", "first", "u", ".", "s.", "concert", "since", "their", "singer", "natalie", "maines", "sparked", "a", "controversy", "when", "she", "said", "she", "was", "ashamed", "the", "president", "was", "from", "the", "state", "of", "texas.", "we", "are", "back", "on", "stage", "looking", "online", "good", "." ]
+} ]

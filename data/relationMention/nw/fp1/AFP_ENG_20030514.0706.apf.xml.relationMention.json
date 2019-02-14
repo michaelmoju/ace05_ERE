@@ -1,0 +1,353 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "Israeli Foreign Minister",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "AFP_ENG_20030514.0706-E26-38",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "AFP_ENG_20030514.0706-R1",
+  "mentionArg1" : {
+    "extent" : "Israeli Foreign Minister",
+    "argMentionid" : "AFP_ENG_20030514.0706-E13-37",
+    "start" : 7,
+    "end" : 9
+  },
+  "id" : "AFP_ENG_20030514.0706-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "PARIS , May 14 ( AFP ) Israeli Foreign Minister Silvan Shalom on Wednesday stressed Qatar 's role in the Middle East peace process during talks with his Qatari counterpart Sheikh Hamad bin Jassem bin Jabr al-Thani in Paris .",
+  "sentence_index" : 0,
+  "Tokens" : [ "PARIS", ",", "May", "14", "(", "AFP", ")", "Israeli", "Foreign", "Minister", "Silvan", "Shalom", "on", "Wednesday", "stressed", "Qatar", "'s", "role", "in", "the", "Middle", "East", "peace", "process", "during", "talks", "with", "his", "Qatari", "counterpart", "Sheikh", "Hamad", "bin", "Jassem", "bin", "Jabr", "al-Thani", "in", "Paris", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Israel's foreign minister",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Israel",
+    "argMentionid" : "AFP_ENG_20030514.0706-E26-23",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "AFP_ENG_20030514.0706-R1",
+  "mentionArg1" : {
+    "extent" : "Israel's foreign minister",
+    "argMentionid" : "AFP_ENG_20030514.0706-E13-22",
+    "start" : 16,
+    "end" : 19
+  },
+  "id" : "AFP_ENG_20030514.0706-R1-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "The meeting was Shalom 's first encounter with an Arab counterpart since he took office as Israel 's foreign minister on February 27 .",
+  "sentence_index" : 6,
+  "Tokens" : [ "The", "meeting", "was", "Shalom", "'s", "first", "encounter", "with", "an", "Arab", "counterpart", "since", "he", "took", "office", "as", "Israel", "'s", "foreign", "minister", "on", "February", "27", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "his Qatari counterpart",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Qatari",
+    "argMentionid" : "AFP_ENG_20030514.0706-E9-43",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "AFP_ENG_20030514.0706-R2",
+  "mentionArg1" : {
+    "extent" : "his Qatari counterpart",
+    "argMentionid" : "AFP_ENG_20030514.0706-E30-44",
+    "start" : 27,
+    "end" : 29
+  },
+  "id" : "AFP_ENG_20030514.0706-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "PARIS , May 14 ( AFP ) Israeli Foreign Minister Silvan Shalom on Wednesday stressed Qatar 's role in the Middle East peace process during talks with his Qatari counterpart Sheikh Hamad bin Jassem bin Jabr al-Thani in Paris .",
+  "sentence_index" : 0,
+  "Tokens" : [ "PARIS", ",", "May", "14", "(", "AFP", ")", "Israeli", "Foreign", "Minister", "Silvan", "Shalom", "on", "Wednesday", "stressed", "Qatar", "'s", "role", "in", "the", "Middle", "East", "peace", "process", "during", "talks", "with", "his", "Qatari", "counterpart", "Sheikh", "Hamad", "bin", "Jassem", "bin", "Jabr", "al-Thani", "in", "Paris", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Qatari foreign minister",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Qatari",
+    "argMentionid" : "AFP_ENG_20030514.0706-E9-15",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "AFP_ENG_20030514.0706-R2",
+  "mentionArg1" : {
+    "extent" : "the Qatari foreign minister",
+    "argMentionid" : "AFP_ENG_20030514.0706-E30-14",
+    "start" : 6,
+    "end" : 9
+  },
+  "id" : "AFP_ENG_20030514.0706-R2-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "I know the special relationship that the Qatari foreign minister has with Abu Mazen , \" he said , using Abbas 's alternative name .",
+  "sentence_index" : 5,
+  "Tokens" : [ "I", "know", "the", "special", "relationship", "that", "the", "Qatari", "foreign", "minister", "has", "with", "Abu", "Mazen", ",", "\"", "he", "said", ",", "using", "Abbas", "'s", "alternative", "name", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his Qatari counterpart",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "his Qatari counterpart",
+    "argMentionid" : "AFP_ENG_20030514.0706-E30-44",
+    "start" : 27,
+    "end" : 29
+  },
+  "relationID" : "AFP_ENG_20030514.0706-R3",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "AFP_ENG_20030514.0706-E13-42",
+    "start" : 27,
+    "end" : 27
+  },
+  "id" : "AFP_ENG_20030514.0706-R3-1",
+  "relationSubType" : "Business",
+  "Sentence" : "PARIS , May 14 ( AFP ) Israeli Foreign Minister Silvan Shalom on Wednesday stressed Qatar 's role in the Middle East peace process during talks with his Qatari counterpart Sheikh Hamad bin Jassem bin Jabr al-Thani in Paris .",
+  "sentence_index" : 0,
+  "Tokens" : [ "PARIS", ",", "May", "14", "(", "AFP", ")", "Israeli", "Foreign", "Minister", "Silvan", "Shalom", "on", "Wednesday", "stressed", "Qatar", "'s", "role", "in", "the", "Middle", "East", "peace", "process", "during", "talks", "with", "his", "Qatari", "counterpart", "Sheikh", "Hamad", "bin", "Jassem", "bin", "Jabr", "al-Thani", "in", "Paris", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Israeli Foreign Minister Silvan Shalom on Wednesday stressed Qatar's role in the Middle East peace process during talks with his Qatari counterpart Sheikh Hamad bin Jassem bin Jabr al-Thani in Paris",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Paris",
+    "argMentionid" : "AFP_ENG_20030514.0706-E22-45",
+    "start" : 38,
+    "end" : 38
+  },
+  "relationID" : "AFP_ENG_20030514.0706-R4",
+  "mentionArg1" : {
+    "extent" : "Israeli Foreign Minister Silvan Shalom",
+    "argMentionid" : "AFP_ENG_20030514.0706-E13-36",
+    "start" : 7,
+    "end" : 11
+  },
+  "id" : "AFP_ENG_20030514.0706-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "PARIS , May 14 ( AFP ) Israeli Foreign Minister Silvan Shalom on Wednesday stressed Qatar 's role in the Middle East peace process during talks with his Qatari counterpart Sheikh Hamad bin Jassem bin Jabr al-Thani in Paris .",
+  "sentence_index" : 0,
+  "Tokens" : [ "PARIS", ",", "May", "14", "(", "AFP", ")", "Israeli", "Foreign", "Minister", "Silvan", "Shalom", "on", "Wednesday", "stressed", "Qatar", "'s", "role", "in", "the", "Middle", "East", "peace", "process", "during", "talks", "with", "his", "Qatari", "counterpart", "Sheikh", "Hamad", "bin", "Jassem", "bin", "Jabr", "al-Thani", "in", "Paris", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Israeli Foreign Minister Silvan Shalom on Wednesday stressed Qatar's role in the Middle East peace process during talks with his Qatari counterpart Sheikh Hamad bin Jassem bin Jabr al-Thani in Paris",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Paris",
+    "argMentionid" : "AFP_ENG_20030514.0706-E22-45",
+    "start" : 38,
+    "end" : 38
+  },
+  "relationID" : "AFP_ENG_20030514.0706-R5",
+  "mentionArg1" : {
+    "extent" : "his Qatari counterpart Sheikh Hamad bin Jassem bin Jabr al-Thani",
+    "argMentionid" : "AFP_ENG_20030514.0706-E30-41",
+    "start" : 27,
+    "end" : 36
+  },
+  "id" : "AFP_ENG_20030514.0706-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "PARIS , May 14 ( AFP ) Israeli Foreign Minister Silvan Shalom on Wednesday stressed Qatar 's role in the Middle East peace process during talks with his Qatari counterpart Sheikh Hamad bin Jassem bin Jabr al-Thani in Paris .",
+  "sentence_index" : 0,
+  "Tokens" : [ "PARIS", ",", "May", "14", "(", "AFP", ")", "Israeli", "Foreign", "Minister", "Silvan", "Shalom", "on", "Wednesday", "stressed", "Qatar", "'s", "role", "in", "the", "Middle", "East", "peace", "process", "during", "talks", "with", "his", "Qatari", "counterpart", "Sheikh", "Hamad", "bin", "Jassem", "bin", "Jabr", "al-Thani", "in", "Paris", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the tiny Gulf state",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Gulf",
+    "argMentionid" : "AFP_ENG_20030514.0706-E33-48",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "AFP_ENG_20030514.0706-R7",
+  "mentionArg1" : {
+    "extent" : "the tiny Gulf state",
+    "argMentionid" : "AFP_ENG_20030514.0706-E9-47",
+    "start" : 7,
+    "end" : 10
+  },
+  "id" : "AFP_ENG_20030514.0706-R7-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Shalom told a joint press conference that the tiny Gulf state 's strong relationship with the recently appointed Palestinian prime minister , Mahmud Abbas , could be a boost for peace .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Shalom", "told", "a", "joint", "press", "conference", "that", "the", "tiny", "Gulf", "state", "'s", "strong", "relationship", "with", "the", "recently", "appointed", "Palestinian", "prime", "minister", ",", "Mahmud", "Abbas", ",", "could", "be", "a", "boost", "for", "peace", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the recently appointed Palestinian prime minister",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "AFP_ENG_20030514.0706-E2-2",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "AFP_ENG_20030514.0706-R8",
+  "mentionArg1" : {
+    "extent" : "the recently appointed Palestinian prime minister",
+    "argMentionid" : "AFP_ENG_20030514.0706-E1-50",
+    "start" : 15,
+    "end" : 20
+  },
+  "id" : "AFP_ENG_20030514.0706-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Shalom told a joint press conference that the tiny Gulf state 's strong relationship with the recently appointed Palestinian prime minister , Mahmud Abbas , could be a boost for peace .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Shalom", "told", "a", "joint", "press", "conference", "that", "the", "tiny", "Gulf", "state", "'s", "strong", "relationship", "with", "the", "recently", "appointed", "Palestinian", "prime", "minister", ",", "Mahmud", "Abbas", ",", "could", "be", "a", "boost", "for", "peace", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Arab world",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "the Arab world",
+    "argMentionid" : "AFP_ENG_20030514.0706-E7-8",
+    "start" : 16,
+    "end" : 18
+  },
+  "relationID" : "AFP_ENG_20030514.0706-R9",
+  "mentionArg1" : {
+    "extent" : "Arab",
+    "argMentionid" : "AFP_ENG_20030514.0706-E8-9",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "AFP_ENG_20030514.0706-R9-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Over an hour of talks , we asserted the will of both parties ( Israel and the Arab world ) to do everything to return to the negotiating table , \" Shalom said .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Over", "an", "hour", "of", "talks", ",", "we", "asserted", "the", "will", "of", "both", "parties", "(", "Israel", "and", "the", "Arab", "world", ")", "to", "do", "everything", "to", "return", "to", "the", "negotiating", "table", ",", "\"", "Shalom", "said", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "an Arab counterpart",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Arab",
+    "argMentionid" : "AFP_ENG_20030514.0706-E8-20",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "AFP_ENG_20030514.0706-R10",
+  "mentionArg1" : {
+    "extent" : "an Arab counterpart",
+    "argMentionid" : "AFP_ENG_20030514.0706-E11-19",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "AFP_ENG_20030514.0706-R10-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The meeting was Shalom 's first encounter with an Arab counterpart since he took office as Israel 's foreign minister on February 27 .",
+  "sentence_index" : 6,
+  "Tokens" : [ "The", "meeting", "was", "Shalom", "'s", "first", "encounter", "with", "an", "Arab", "counterpart", "since", "he", "took", "office", "as", "Israel", "'s", "foreign", "minister", "on", "February", "27", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "other Arab countries",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "other Arab countries",
+    "argMentionid" : "AFP_ENG_20030514.0706-E14-26",
+    "start" : 17,
+    "end" : 19
+  },
+  "relationID" : "AFP_ENG_20030514.0706-R12",
+  "mentionArg1" : {
+    "extent" : "Arab",
+    "argMentionid" : "AFP_ENG_20030514.0706-E8-27",
+    "start" : 18,
+    "end" : 18
+  },
+  "id" : "AFP_ENG_20030514.0706-R12-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Qatar has economic links with Israel without maintaining diplomatic relations , in the face of criticism from other Arab countries .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Qatar", "has", "economic", "links", "with", "Israel", "without", "maintaining", "diplomatic", "relations", ",", "in", "the", "face", "of", "criticism", "from", "other", "Arab", "countries", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "British Prime Minister",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "AFP_ENG_20030514.0706-E19-32",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "AFP_ENG_20030514.0706-R13",
+  "mentionArg1" : {
+    "extent" : "British Prime Minister",
+    "argMentionid" : "AFP_ENG_20030514.0706-E17-31",
+    "start" : 11,
+    "end" : 13
+  },
+  "id" : "AFP_ENG_20030514.0706-R13-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Afterwards Shalom was to fly on to London for talks with British Prime Minister Tony Blair and Foreign Secretary Jack Straw .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Afterwards", "Shalom", "was", "to", "fly", "on", "to", "London", "for", "talks", "with", "British", "Prime", "Minister", "Tony", "Blair", "and", "Foreign", "Secretary", "Jack", "Straw", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Afterwards Shalom was to fly on to London for talks with British Prime Minister Tony Blair and Foreign Secretary Jack Straw",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "London",
+    "argMentionid" : "AFP_ENG_20030514.0706-E16-29",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "AFP_ENG_20030514.0706-R14",
+  "mentionArg1" : {
+    "extent" : "Shalom",
+    "argMentionid" : "AFP_ENG_20030514.0706-E13-28",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "AFP_ENG_20030514.0706-R14-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Afterwards Shalom was to fly on to London for talks with British Prime Minister Tony Blair and Foreign Secretary Jack Straw .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Afterwards", "Shalom", "was", "to", "fly", "on", "to", "London", "for", "talks", "with", "British", "Prime", "Minister", "Tony", "Blair", "and", "Foreign", "Secretary", "Jack", "Straw", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Afterwards Shalom was to fly on to London for talks with British Prime Minister Tony Blair and Foreign Secretary Jack Straw",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "London",
+    "argMentionid" : "AFP_ENG_20030514.0706-E16-29",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "AFP_ENG_20030514.0706-R15",
+  "mentionArg1" : {
+    "extent" : "British Prime Minister Tony Blair",
+    "argMentionid" : "AFP_ENG_20030514.0706-E17-30",
+    "start" : 11,
+    "end" : 15
+  },
+  "id" : "AFP_ENG_20030514.0706-R15-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Afterwards Shalom was to fly on to London for talks with British Prime Minister Tony Blair and Foreign Secretary Jack Straw .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Afterwards", "Shalom", "was", "to", "fly", "on", "to", "London", "for", "talks", "with", "British", "Prime", "Minister", "Tony", "Blair", "and", "Foreign", "Secretary", "Jack", "Straw", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Afterwards Shalom was to fly on to London for talks with British Prime Minister Tony Blair and Foreign Secretary Jack Straw",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "London",
+    "argMentionid" : "AFP_ENG_20030514.0706-E16-29",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "AFP_ENG_20030514.0706-R16",
+  "mentionArg1" : {
+    "extent" : "Foreign Secretary Jack Straw",
+    "argMentionid" : "AFP_ENG_20030514.0706-E20-33",
+    "start" : 17,
+    "end" : 20
+  },
+  "id" : "AFP_ENG_20030514.0706-R16-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Afterwards Shalom was to fly on to London for talks with British Prime Minister Tony Blair and Foreign Secretary Jack Straw .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Afterwards", "Shalom", "was", "to", "fly", "on", "to", "London", "for", "talks", "with", "British", "Prime", "Minister", "Tony", "Blair", "and", "Foreign", "Secretary", "Jack", "Straw", "." ]
+} ]

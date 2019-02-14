@@ -1,0 +1,45 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "the country's legitimate president",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "the country",
+    "argMentionid" : "XIN_ENG_20030523.0202-E3-31",
+    "start" : 29,
+    "end" : 30
+  },
+  "relationID" : "XIN_ENG_20030523.0202-R1",
+  "mentionArg1" : {
+    "extent" : "the country's legitimate president",
+    "argMentionid" : "XIN_ENG_20030523.0202-E4-30",
+    "start" : 29,
+    "end" : 33
+  },
+  "id" : "XIN_ENG_20030523.0202-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "MANILA , May 23 ( Xinhua ) The Philippine Presidential Palace Friday dismissed as an \" old tune \" deposed leader Joseph Estrada 's claim that he was still the country 's legitimate president .",
+  "sentence_index" : 0,
+  "Tokens" : [ "MANILA", ",", "May", "23", "(", "Xinhua", ")", "The", "Philippine", "Presidential", "Palace", "Friday", "dismissed", "as", "an", "\"", "old", "tune", "\"", "deposed", "leader", "Joseph", "Estrada", "'s", "claim", "that", "he", "was", "still", "the", "country", "'s", "legitimate", "president", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Estrada, who was ousted in a military-backed popular revolt in January 2001, has been detained for almost two years at the Veterans Memorial Medical Center in Metro Manila on plunder charges",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "the Veterans Memorial Medical Center in Metro Manila",
+    "argMentionid" : "XIN_ENG_20030523.0202-E8-18",
+    "start" : 22,
+    "end" : 29
+  },
+  "relationID" : "XIN_ENG_20030523.0202-R2",
+  "mentionArg1" : {
+    "extent" : "Estrada",
+    "argMentionid" : "XIN_ENG_20030523.0202-E4-20",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "XIN_ENG_20030523.0202-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Estrada , who was ousted in a military-backed popular revolt in January 2001 , has been detained for almost two years at the Veterans Memorial Medical Center in Metro Manila on plunder charges .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Estrada", ",", "who", "was", "ousted", "in", "a", "military-backed", "popular", "revolt", "in", "January", "2001", ",", "has", "been", "detained", "for", "almost", "two", "years", "at", "the", "Veterans", "Memorial", "Medical", "Center", "in", "Metro", "Manila", "on", "plunder", "charges", "." ]
+} ]

@@ -1,0 +1,287 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "his wife",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "his wife",
+    "argMentionid" : "fsh_29268-E18-171",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "fsh_29268-R1",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29268-E7-172",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "fsh_29268-R1-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Peterson Trial Scott Peterson has been found guilty of murdering his wife Laci and their unborn son , and he now faces the death penalty .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Peterson", "Trial", "Scott", "Peterson", "has", "been", "found", "guilty", "of", "murdering", "his", "wife", "Laci", "and", "their", "unborn", "son", ",", "and", "he", "now", "faces", "the", "death", "penalty", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his wife",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "his wife",
+    "argMentionid" : "fsh_29268-E18-62",
+    "start" : 18,
+    "end" : 19
+  },
+  "relationID" : "fsh_29268-R1",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29268-E7-63",
+    "start" : 18,
+    "end" : 18
+  },
+  "id" : "fsh_29268-R1-2",
+  "relationSubType" : "Family",
+  "Sentence" : "So , he was , uh , seeing this gal -- on the side , eh , behind his wife 's back and his wife 's going to have a baby and everything .",
+  "sentence_index" : 45,
+  "Tokens" : [ "So", ",", "he", "was", ",", "uh", ",", "seeing", "this", "gal", "--", "on", "the", "side", ",", "eh", ",", "behind", "his", "wife", "'s", "back", "and", "his", "wife", "'s", "going", "to", "have", "a", "baby", "and", "everything", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his wife",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "his wife",
+    "argMentionid" : "fsh_29268-E18-64",
+    "start" : 23,
+    "end" : 24
+  },
+  "relationID" : "fsh_29268-R1",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29268-E7-65",
+    "start" : 23,
+    "end" : 23
+  },
+  "id" : "fsh_29268-R1-3",
+  "relationSubType" : "Family",
+  "Sentence" : "So , he was , uh , seeing this gal -- on the side , eh , behind his wife 's back and his wife 's going to have a baby and everything .",
+  "sentence_index" : 45,
+  "Tokens" : [ "So", ",", "he", "was", ",", "uh", ",", "seeing", "this", "gal", "--", "on", "the", "side", ",", "eh", ",", "behind", "his", "wife", "'s", "back", "and", "his", "wife", "'s", "going", "to", "have", "a", "baby", "and", "everything", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his wife",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "his wife",
+    "argMentionid" : "fsh_29268-E18-76",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "fsh_29268-R1",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29268-E7-77",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "fsh_29268-R1-4",
+  "relationSubType" : "Family",
+  "Sentence" : "And so maybe he got rid of his wife because -- he wanted to be with the girlfriend .",
+  "sentence_index" : 50,
+  "Tokens" : [ "And", "so", "maybe", "he", "got", "rid", "of", "his", "wife", "because", "--", "he", "wanted", "to", "be", "with", "the", "girlfriend", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their unborn son",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "their unborn son",
+    "argMentionid" : "fsh_29268-E20-173",
+    "start" : 14,
+    "end" : 16
+  },
+  "relationID" : "fsh_29268-R2",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "fsh_29268-E21-174",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "fsh_29268-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Peterson Trial Scott Peterson has been found guilty of murdering his wife Laci and their unborn son , and he now faces the death penalty .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Peterson", "Trial", "Scott", "Peterson", "has", "been", "found", "guilty", "of", "murdering", "his", "wife", "Laci", "and", "their", "unborn", "son", ",", "and", "he", "now", "faces", "the", "death", "penalty", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Mohammed from New York",
+  "sentence_length" : 5,
+  "mentionArg2" : {
+    "extent" : "New York",
+    "argMentionid" : "fsh_29268-E24-184",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "fsh_29268-R3",
+  "mentionArg1" : {
+    "extent" : "Mohammed from New York",
+    "argMentionid" : "fsh_29268-E23-183",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "fsh_29268-R3-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Mohammed from New York .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Mohammed", "from", "New", "York", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "And uh, so then, um,  they follow him and they find out that he has a girlfriend,  and he's been having a girlfriend",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "a girlfriend",
+    "argMentionid" : "fsh_29268-E8-57",
+    "start" : 25,
+    "end" : 26
+  },
+  "relationID" : "fsh_29268-R4",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "fsh_29268-E7-56",
+    "start" : 23,
+    "end" : 23
+  },
+  "id" : "fsh_29268-R4-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "Wow , and hoping that sh- -- And uh , so then , um , they follow him and they find out that he has a girlfriend , and he 's been having a girlfriend .",
+  "sentence_index" : 44,
+  "Tokens" : [ "Wow", ",", "and", "hoping", "that", "sh-", "--", "And", "uh", ",", "so", "then", ",", "um", ",", "they", "follow", "him", "and", "they", "find", "out", "that", "he", "has", "a", "girlfriend", ",", "and", "he", "'s", "been", "having", "a", "girlfriend", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "And uh, so then, um,  they follow him and they find out that he has a girlfriend,  and he's been having a girlfriend",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "a girlfriend",
+    "argMentionid" : "fsh_29268-E8-59",
+    "start" : 33,
+    "end" : 34
+  },
+  "relationID" : "fsh_29268-R4",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "fsh_29268-E7-58",
+    "start" : 29,
+    "end" : 29
+  },
+  "id" : "fsh_29268-R4-2",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "Wow , and hoping that sh- -- And uh , so then , um , they follow him and they find out that he has a girlfriend , and he 's been having a girlfriend .",
+  "sentence_index" : 44,
+  "Tokens" : [ "Wow", ",", "and", "hoping", "that", "sh-", "--", "And", "uh", ",", "so", "then", ",", "um", ",", "they", "follow", "him", "and", "they", "find", "out", "that", "he", "has", "a", "girlfriend", ",", "and", "he", "'s", "been", "having", "a", "girlfriend", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "So, he was, uh, seeing this gal -- on the side, eh, behind his wife's back and his wife's going to have a baby and everything",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "this gal",
+    "argMentionid" : "fsh_29268-E8-61",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "fsh_29268-R4",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "fsh_29268-E7-60",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "fsh_29268-R4-3",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "So , he was , uh , seeing this gal -- on the side , eh , behind his wife 's back and his wife 's going to have a baby and everything .",
+  "sentence_index" : 45,
+  "Tokens" : [ "So", ",", "he", "was", ",", "uh", ",", "seeing", "this", "gal", "--", "on", "the", "side", ",", "eh", ",", "behind", "his", "wife", "'s", "back", "and", "his", "wife", "'s", "going", "to", "have", "a", "baby", "and", "everything", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "her car",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "her car",
+    "argMentionid" : "fsh_29268-E10-85",
+    "start" : 23,
+    "end" : 24
+  },
+  "relationID" : "fsh_29268-R10",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "fsh_29268-E18-86",
+    "start" : 23,
+    "end" : 23
+  },
+  "id" : "fsh_29268-R10-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "But anyways , while she 's still missing and the country 's still looking for her , he goes out and he sells her car .",
+  "sentence_index" : 51,
+  "Tokens" : [ "But", "anyways", ",", "while", "she", "'s", "still", "missing", "and", "the", "country", "'s", "still", "looking", "for", "her", ",", "he", "goes", "out", "and", "he", "sells", "her", "car", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "her car",
+  "sentence_length" : 6,
+  "mentionArg2" : {
+    "extent" : "her car",
+    "argMentionid" : "fsh_29268-E10-89",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "fsh_29268-R10",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "fsh_29268-E18-90",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29268-R10-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "He just sells her car .",
+  "sentence_index" : 54,
+  "Tokens" : [ "He", "just", "sells", "her", "car", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "her really expensive vehicle",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "her really expensive vehicle",
+    "argMentionid" : "fsh_29268-E10-94",
+    "start" : 17,
+    "end" : 20
+  },
+  "relationID" : "fsh_29268-R10",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "fsh_29268-E18-95",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "fsh_29268-R10-3",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Uh , he gets rid of her starts getting rid of some of her possessions , especially her really expensive vehicle .",
+  "sentence_index" : 55,
+  "Tokens" : [ "Uh", ",", "he", "gets", "rid", "of", "her", "starts", "getting", "rid", "of", "some", "of", "her", "possessions", ",", "especially", "her", "really", "expensive", "vehicle", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "her to have an expensive car",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "an expensive car",
+    "argMentionid" : "fsh_29268-E10-97",
+    "start" : 3,
+    "end" : 5
+  },
+  "relationID" : "fsh_29268-R10",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "fsh_29268-E18-96",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29268-R10-4",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "her to have an expensive car .",
+  "sentence_index" : 56,
+  "Tokens" : [ "her", "to", "have", "an", "expensive", "car", "." ]
+} ]

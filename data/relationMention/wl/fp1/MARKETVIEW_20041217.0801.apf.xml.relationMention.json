@@ -1,0 +1,89 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "the main Russian gas company",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Russian",
+    "argMentionid" : "MARKETVIEW_20041217.0801-E2-14",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "MARKETVIEW_20041217.0801-R1",
+  "mentionArg1" : {
+    "extent" : "the main Russian gas company",
+    "argMentionid" : "MARKETVIEW_20041217.0801-E5-11",
+    "start" : 4,
+    "end" : 8
+  },
+  "id" : "MARKETVIEW_20041217.0801-R1-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Byrne 2004-12-17T08:01:00 Gazprom , the main Russian gas company , has been denied a $10 billion credit line due to the political situation in Russia .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Byrne", "2004-12-17T08:01:00", "Gazprom", ",", "the", "main", "Russian", "gas", "company", ",", "has", "been", "denied", "a", "$10", "billion", "credit", "line", "due", "to", "the", "political", "situation", "in", "Russia", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "US courts",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "MARKETVIEW_20041217.0801-E11-18",
+    "start" : 38,
+    "end" : 38
+  },
+  "relationID" : "MARKETVIEW_20041217.0801-R2",
+  "mentionArg1" : {
+    "extent" : "US courts",
+    "argMentionid" : "MARKETVIEW_20041217.0801-E12-19",
+    "start" : 38,
+    "end" : 39
+  },
+  "id" : "MARKETVIEW_20041217.0801-R2-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The company intended to use the cash to pay an artificially low price for Yukos assets ( hence that firm 's bankruptcy filing a few days ago -- you know it 's bad when you have to use US courts to protect your own assets from appropriation by your home country ) .",
+  "sentence_index" : 1,
+  "Tokens" : [ "The", "company", "intended", "to", "use", "the", "cash", "to", "pay", "an", "artificially", "low", "price", "for", "Yukos", "assets", "(", "hence", "that", "firm", "'s", "bankruptcy", "filing", "a", "few", "days", "ago", "--", "you", "know", "it", "'s", "bad", "when", "you", "have", "to", "use", "US", "courts", "to", "protect", "your", "own", "assets", "from", "appropriation", "by", "your", "home", "country", ")", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "your home country",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "your home country",
+    "argMentionid" : "MARKETVIEW_20041217.0801-E14-23",
+    "start" : 48,
+    "end" : 50
+  },
+  "relationID" : "MARKETVIEW_20041217.0801-R3",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "MARKETVIEW_20041217.0801-E13-22",
+    "start" : 48,
+    "end" : 48
+  },
+  "id" : "MARKETVIEW_20041217.0801-R3-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The company intended to use the cash to pay an artificially low price for Yukos assets ( hence that firm 's bankruptcy filing a few days ago -- you know it 's bad when you have to use US courts to protect your own assets from appropriation by your home country ) .",
+  "sentence_index" : 1,
+  "Tokens" : [ "The", "company", "intended", "to", "use", "the", "cash", "to", "pay", "an", "artificially", "low", "price", "for", "Yukos", "assets", "(", "hence", "that", "firm", "'s", "bankruptcy", "filing", "a", "few", "days", "ago", "--", "you", "know", "it", "'s", "bad", "when", "you", "have", "to", "use", "US", "courts", "to", "protect", "your", "own", "assets", "from", "appropriation", "by", "your", "home", "country", ")", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Russian leadership",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Russian",
+    "argMentionid" : "MARKETVIEW_20041217.0801-E2-5",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "MARKETVIEW_20041217.0801-R4",
+  "mentionArg1" : {
+    "extent" : "the Russian leadership",
+    "argMentionid" : "MARKETVIEW_20041217.0801-E3-6",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "MARKETVIEW_20041217.0801-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Do n't expect any of the Russian leadership to reverse course ; given the current trends there , they 'll just Blame the West when their screwy plan screws them over .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Do", "n't", "expect", "any", "of", "the", "Russian", "leadership", "to", "reverse", "course", ";", "given", "the", "current", "trends", "there", ",", "they", "'ll", "just", "Blame", "the", "West", "when", "their", "screwy", "plan", "screws", "them", "over", "." ]
+} ]

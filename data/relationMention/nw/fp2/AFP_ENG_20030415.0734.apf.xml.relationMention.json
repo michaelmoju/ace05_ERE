@@ -1,0 +1,89 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "Lebanese Prime Minister Rafiq Hariri",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Lebanese",
+    "argMentionid" : "AFP_ENG_20030415.0734-E13-21",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "AFP_ENG_20030415.0734-R1",
+  "mentionArg1" : {
+    "extent" : "Lebanese Prime Minister Rafiq Hariri",
+    "argMentionid" : "AFP_ENG_20030415.0734-E8-1",
+    "start" : 7,
+    "end" : 11
+  },
+  "id" : "AFP_ENG_20030415.0734-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "BEIRUT , April 15 ( AFP ) Lebanese Prime Minister Rafiq Hariri submitted his resignation Tuesday and it was accepted by President Emile Lahoud , who asked him to stay on in a caretaker role , according to an official statement .",
+  "sentence_index" : 0,
+  "Tokens" : [ "BEIRUT", ",", "April", "15", "(", "AFP", ")", "Lebanese", "Prime", "Minister", "Rafiq", "Hariri", "submitted", "his", "resignation", "Tuesday", "and", "it", "was", "accepted", "by", "President", "Emile", "Lahoud", ",", "who", "asked", "him", "to", "stay", "on", "in", "a", "caretaker", "role", ",", "according", "to", "an", "official", "statement", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the head of state",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "state",
+    "argMentionid" : "AFP_ENG_20030415.0734-E20-33",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "AFP_ENG_20030415.0734-R2",
+  "mentionArg1" : {
+    "extent" : "the head of state",
+    "argMentionid" : "AFP_ENG_20030415.0734-E15-32",
+    "start" : 9,
+    "end" : 12
+  },
+  "id" : "AFP_ENG_20030415.0734-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Hariri submitted his resignation during a 10-minute meeting with the head of state at the Baabda presidential palace , outside the capital .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Hariri", "submitted", "his", "resignation", "during", "a", "10-minute", "meeting", "with", "the", "head", "of", "state", "at", "the", "Baabda", "presidential", "palace", ",", "outside", "the", "capital", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the Baabda presidential palace, outside the capital",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "the capital",
+    "argMentionid" : "AFP_ENG_20030415.0734-E18-35",
+    "start" : 20,
+    "end" : 21
+  },
+  "relationID" : "AFP_ENG_20030415.0734-R3",
+  "mentionArg1" : {
+    "extent" : "the Baabda presidential palace, outside the capital",
+    "argMentionid" : "AFP_ENG_20030415.0734-E21-34",
+    "start" : 14,
+    "end" : 21
+  },
+  "id" : "AFP_ENG_20030415.0734-R3-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Hariri submitted his resignation during a 10-minute meeting with the head of state at the Baabda presidential palace , outside the capital .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Hariri", "submitted", "his", "resignation", "during", "a", "10-minute", "meeting", "with", "the", "head", "of", "state", "at", "the", "Baabda", "presidential", "palace", ",", "outside", "the", "capital", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the country's government",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "the country's",
+    "argMentionid" : "AFP_ENG_20030415.0734-E13-4",
+    "start" : 3,
+    "end" : 5
+  },
+  "relationID" : "AFP_ENG_20030415.0734-R4",
+  "mentionArg1" : {
+    "extent" : "the country's government",
+    "argMentionid" : "AFP_ENG_20030415.0734-E2-3",
+    "start" : 3,
+    "end" : 6
+  },
+  "id" : "AFP_ENG_20030415.0734-R4-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Hariri has headed the country 's government for nine of the past 11 years , and highly placed governmental sources said he would probably stay on in the job .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Hariri", "has", "headed", "the", "country", "'s", "government", "for", "nine", "of", "the", "past", "11", "years", ",", "and", "highly", "placed", "governmental", "sources", "said", "he", "would", "probably", "stay", "on", "in", "the", "job", "." ]
+} ]

@@ -1,0 +1,375 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "his wife",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "his wife",
+    "argMentionid" : "fsh_29272-E26-240",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "fsh_29272-R1",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29272-E1-207",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "fsh_29272-R1-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Peterson Trial Scott Peterson has been found guilty of murdering his wife Laci and their unborn son , and he now faces the death penalty .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Peterson", "Trial", "Scott", "Peterson", "has", "been", "found", "guilty", "of", "murdering", "his", "wife", "Laci", "and", "their", "unborn", "son", ",", "and", "he", "now", "faces", "the", "death", "penalty", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their unborn son",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "their unborn son",
+    "argMentionid" : "fsh_29272-E29-243",
+    "start" : 14,
+    "end" : 16
+  },
+  "relationID" : "fsh_29272-R2",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "fsh_29272-E28-242",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "fsh_29272-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Peterson Trial Scott Peterson has been found guilty of murdering his wife Laci and their unborn son , and he now faces the death penalty .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Peterson", "Trial", "Scott", "Peterson", "has", "been", "found", "guilty", "of", "murdering", "his", "wife", "Laci", "and", "their", "unborn", "son", ",", "and", "he", "now", "faces", "the", "death", "penalty", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The only reason I- I, uh, actually picked to do this one is I lived in Redwood City, so",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Redwood City",
+    "argMentionid" : "fsh_29272-E3-6",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "fsh_29272-R3",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29272-E2-3",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "fsh_29272-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "A The only reason I- I , uh , actually picked to do this one is I lived in Redwood City , so .",
+  "sentence_index" : 10,
+  "Tokens" : [ "A", "The", "only", "reason", "I-", "I", ",", "uh", ",", "actually", "picked", "to", "do", "this", "one", "is", "I", "lived", "in", "Redwood", "City", ",", "so", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I live in Redwood City, which they actually moved the trial here a couple months into it",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Redwood City, which they actually moved the trial here a couple months into it",
+    "argMentionid" : "fsh_29272-E3-64",
+    "start" : 3,
+    "end" : 17
+  },
+  "relationID" : "fsh_29272-R3",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29272-E2-63",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29272-R3-2",
+  "relationSubType" : "Located",
+  "Sentence" : "I live in Redwood City , which they actually moved the trial here a couple months into it .",
+  "sentence_index" : 40,
+  "Tokens" : [ "I", "live", "in", "Redwood", "City", ",", "which", "they", "actually", "moved", "the", "trial", "here", "a", "couple", "months", "into", "it", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "it's northern California",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "northern California",
+    "argMentionid" : "fsh_29272-E4-10",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "fsh_29272-R4",
+  "mentionArg1" : {
+    "extent" : "it",
+    "argMentionid" : "fsh_29272-E3-9",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29272-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "A Um , it 's northern California .",
+  "sentence_index" : 12,
+  "Tokens" : [ "A", "Um", ",", "it", "'s", "northern", "California", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Modesto, California",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "California",
+    "argMentionid" : "fsh_29272-E12-69",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "fsh_29272-R5",
+  "mentionArg1" : {
+    "extent" : "Modesto, California",
+    "argMentionid" : "fsh_29272-E11-68",
+    "start" : 3,
+    "end" : 5
+  },
+  "id" : "fsh_29272-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Um , from Modesto , California .",
+  "sentence_index" : 41,
+  "Tokens" : [ "Um", ",", "from", "Modesto", ",", "California", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Where he had committed the murders, so",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "Where",
+    "argMentionid" : "fsh_29272-E11-70",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "fsh_29272-R6",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "fsh_29272-E1-71",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "fsh_29272-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "A Where he had committed the murders , so .",
+  "sentence_index" : 43,
+  "Tokens" : [ "A", "Where", "he", "had", "committed", "the", "murders", ",", "so", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Eh, did you all -- did you all know her, or",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "her",
+    "argMentionid" : "fsh_29272-E26-113",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "fsh_29272-R7",
+  "mentionArg1" : {
+    "extent" : "you all",
+    "argMentionid" : "fsh_29272-E21-122",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "fsh_29272-R7-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "Eh , did you all -- did you all know her , or ?",
+  "sentence_index" : 58,
+  "Tokens" : [ "Eh", ",", "did", "you", "all", "--", "did", "you", "all", "know", "her", ",", "or", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Did you all know Laci, or",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "Laci",
+    "argMentionid" : "fsh_29272-E26-118",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "fsh_29272-R7",
+  "mentionArg1" : {
+    "extent" : "you all",
+    "argMentionid" : "fsh_29272-E21-239",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "fsh_29272-R7-2",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "Alithia Did you all know Laci , or ?",
+  "sentence_index" : 60,
+  "Tokens" : [ "Alithia", "Did", "you", "all", "know", "Laci", ",", "or", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "a friend of mine's sister",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "a friend of mine's sister",
+    "argMentionid" : "fsh_29272-E19-119",
+    "start" : 3,
+    "end" : 8
+  },
+  "relationID" : "fsh_29272-R9",
+  "mentionArg1" : {
+    "extent" : "a friend of mine",
+    "argMentionid" : "fsh_29272-E20-120",
+    "start" : 3,
+    "end" : 6
+  },
+  "id" : "fsh_29272-R9-1",
+  "relationSubType" : "Family",
+  "Sentence" : "A Um , a friend of mine 's sister used to work in a maternity wear store and Laci Peterson , the day before she disappeared , was in her store maternity shopping .",
+  "sentence_index" : 61,
+  "Tokens" : [ "A", "Um", ",", "a", "friend", "of", "mine", "'s", "sister", "used", "to", "work", "in", "a", "maternity", "wear", "store", "and", "Laci", "Peterson", ",", "the", "day", "before", "she", "disappeared", ",", "was", "in", "her", "store", "maternity", "shopping", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my friend's sister -- who lives in Modesto",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "my friend's sister -- who lives in Modesto",
+    "argMentionid" : "fsh_29272-E19-123",
+    "start" : 7,
+    "end" : 15
+  },
+  "relationID" : "fsh_29272-R9",
+  "mentionArg1" : {
+    "extent" : "my friend",
+    "argMentionid" : "fsh_29272-E20-124",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "fsh_29272-R9-2",
+  "relationSubType" : "Family",
+  "Sentence" : "A So , yeah , it was my friend 's sister -- who lives in Modesto .",
+  "sentence_index" : 63,
+  "Tokens" : [ "A", "So", ",", "yeah", ",", "it", "was", "my", "friend", "'s", "sister", "--", "who", "lives", "in", "Modesto", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "a friend of mine's sister",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "mine",
+    "argMentionid" : "fsh_29272-E2-121",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "fsh_29272-R10",
+  "mentionArg1" : {
+    "extent" : "a friend of mine",
+    "argMentionid" : "fsh_29272-E20-120",
+    "start" : 3,
+    "end" : 6
+  },
+  "id" : "fsh_29272-R10-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "A Um , a friend of mine 's sister used to work in a maternity wear store and Laci Peterson , the day before she disappeared , was in her store maternity shopping .",
+  "sentence_index" : 61,
+  "Tokens" : [ "A", "Um", ",", "a", "friend", "of", "mine", "'s", "sister", "used", "to", "work", "in", "a", "maternity", "wear", "store", "and", "Laci", "Peterson", ",", "the", "day", "before", "she", "disappeared", ",", "was", "in", "her", "store", "maternity", "shopping", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "her store",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "her store",
+    "argMentionid" : "fsh_29272-E18-117",
+    "start" : 29,
+    "end" : 30
+  },
+  "relationID" : "fsh_29272-R11",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "fsh_29272-E19-116",
+    "start" : 29,
+    "end" : 29
+  },
+  "id" : "fsh_29272-R11-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "A Um , a friend of mine 's sister used to work in a maternity wear store and Laci Peterson , the day before she disappeared , was in her store maternity shopping .",
+  "sentence_index" : 61,
+  "Tokens" : [ "A", "Um", ",", "a", "friend", "of", "mine", "'s", "sister", "used", "to", "work", "in", "a", "maternity", "wear", "store", "and", "Laci", "Peterson", ",", "the", "day", "before", "she", "disappeared", ",", "was", "in", "her", "store", "maternity", "shopping", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Um,  a friend of mine's sister used to work in a maternity wear store and Laci Peterson, the day before she disappeared, was in her store maternity shopping",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "her store",
+    "argMentionid" : "fsh_29272-E18-117",
+    "start" : 29,
+    "end" : 30
+  },
+  "relationID" : "fsh_29272-R12",
+  "mentionArg1" : {
+    "extent" : "Laci Peterson",
+    "argMentionid" : "fsh_29272-E26-112",
+    "start" : 18,
+    "end" : 19
+  },
+  "id" : "fsh_29272-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "A Um , a friend of mine 's sister used to work in a maternity wear store and Laci Peterson , the day before she disappeared , was in her store maternity shopping .",
+  "sentence_index" : 61,
+  "Tokens" : [ "A", "Um", ",", "a", "friend", "of", "mine", "'s", "sister", "used", "to", "work", "in", "a", "maternity", "wear", "store", "and", "Laci", "Peterson", ",", "the", "day", "before", "she", "disappeared", ",", "was", "in", "her", "store", "maternity", "shopping", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my friend",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "my friend",
+    "argMentionid" : "fsh_29272-E20-124",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "fsh_29272-R13",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29272-E2-125",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "fsh_29272-R13-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "A So , yeah , it was my friend 's sister -- who lives in Modesto .",
+  "sentence_index" : 63,
+  "Tokens" : [ "A", "So", ",", "yeah", ",", "it", "was", "my", "friend", "'s", "sister", "--", "who", "lives", "in", "Modesto", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "my friend's sister -- who lives in Modesto",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Modesto",
+    "argMentionid" : "fsh_29272-E11-127",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "fsh_29272-R15",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "fsh_29272-E19-126",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "fsh_29272-R15-1",
+  "relationSubType" : "Located",
+  "Sentence" : "A So , yeah , it was my friend 's sister -- who lives in Modesto .",
+  "sentence_index" : 63,
+  "Tokens" : [ "A", "So", ",", "yeah", ",", "it", "was", "my", "friend", "'s", "sister", "--", "who", "lives", "in", "Modesto", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "your area",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "your area",
+    "argMentionid" : "fsh_29272-E10-157",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "fsh_29272-R16",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29272-E32-158",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "fsh_29272-R16-1",
+  "relationSubType" : "Located",
+  "Sentence" : "A So , it 's now getting wind to your area .",
+  "sentence_index" : 90,
+  "Tokens" : [ "A", "So", ",", "it", "'s", "now", "getting", "wind", "to", "your", "area", "." ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "the 19-year-old white house intern who slept with jfk",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "white house",
+    "argMentionid" : "CNN_ENG_20030515_193533.6-E6-20",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "CNN_ENG_20030515_193533.6-R1",
+  "mentionArg1" : {
+    "extent" : "the 19-year-old white house intern who slept with jfk",
+    "argMentionid" : "CNN_ENG_20030515_193533.6-E9-23",
+    "start" : 12,
+    "end" : 20
+  },
+  "id" : "CNN_ENG_20030515_193533.6-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "in today 's daily news , a 60-year-old woman acknowledges she was the 19-year-old white house intern who slept with jfk. she told the papers , \" i am the mimi . \"",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "today", "'s", "daily", "news", ",", "a", "60-year-old", "woman", "acknowledges", "she", "was", "the", "19-year-old", "white", "house", "intern", "who", "slept", "with", "jfk.", "she", "told", "the", "papers", ",", "\"", "i", "am", "the", "mimi", ".", "\"" ]
+} ]

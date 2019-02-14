@@ -1,0 +1,89 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "the pond located just outside fredrick, not far from washington, d.c",
+  "sentence_length" : 64,
+  "mentionArg2" : {
+    "extent" : "fredrick",
+    "argMentionid" : "CNN_ENG_20030612_173004.2-E5-6",
+    "start" : 31,
+    "end" : 31
+  },
+  "relationID" : "CNN_ENG_20030612_173004.2-R1",
+  "mentionArg1" : {
+    "extent" : "the pond located just outside fredrick, not far from washington, d.c",
+    "argMentionid" : "CNN_ENG_20030612_173004.2-E1-5",
+    "start" : 26,
+    "end" : 40
+  },
+  "id" : "CNN_ENG_20030612_173004.2-R1-1",
+  "relationSubType" : "Near",
+  "Sentence" : "the draining of a pond for anthrax evidence in maryland is finished. up next for investigators , to try to search sediment on the bottom of the pond located just outside fredrick , not far from washington , d . c. it 's part of the investigation into the deadly anthrax attacks in the fall of 2001 in which five people were killed .",
+  "sentence_index" : 0,
+  "Tokens" : [ "the", "draining", "of", "a", "pond", "for", "anthrax", "evidence", "in", "maryland", "is", "finished.", "up", "next", "for", "investigators", ",", "to", "try", "to", "search", "sediment", "on", "the", "bottom", "of", "the", "pond", "located", "just", "outside", "fredrick", ",", "not", "far", "from", "washington", ",", "d", ".", "c.", "it", "'s", "part", "of", "the", "investigation", "into", "the", "deadly", "anthrax", "attacks", "in", "the", "fall", "of", "2001", "in", "which", "five", "people", "were", "killed", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the pond located just outside fredrick, not far from washington, d.c",
+  "sentence_length" : 64,
+  "mentionArg2" : {
+    "extent" : "washington, d.c",
+    "argMentionid" : "CNN_ENG_20030612_173004.2-E6-7",
+    "start" : 36,
+    "end" : 40
+  },
+  "relationID" : "CNN_ENG_20030612_173004.2-R2",
+  "mentionArg1" : {
+    "extent" : "the pond located just outside fredrick, not far from washington, d.c",
+    "argMentionid" : "CNN_ENG_20030612_173004.2-E1-5",
+    "start" : 26,
+    "end" : 40
+  },
+  "id" : "CNN_ENG_20030612_173004.2-R2-1",
+  "relationSubType" : "Near",
+  "Sentence" : "the draining of a pond for anthrax evidence in maryland is finished. up next for investigators , to try to search sediment on the bottom of the pond located just outside fredrick , not far from washington , d . c. it 's part of the investigation into the deadly anthrax attacks in the fall of 2001 in which five people were killed .",
+  "sentence_index" : 0,
+  "Tokens" : [ "the", "draining", "of", "a", "pond", "for", "anthrax", "evidence", "in", "maryland", "is", "finished.", "up", "next", "for", "investigators", ",", "to", "try", "to", "search", "sediment", "on", "the", "bottom", "of", "the", "pond", "located", "just", "outside", "fredrick", ",", "not", "far", "from", "washington", ",", "d", ".", "c.", "it", "'s", "part", "of", "the", "investigation", "into", "the", "deadly", "anthrax", "attacks", "in", "the", "fall", "of", "2001", "in", "which", "five", "people", "were", "killed", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the draining of a pond for anthrax evidence in maryland is finished",
+  "sentence_length" : 64,
+  "mentionArg2" : {
+    "extent" : "maryland",
+    "argMentionid" : "CNN_ENG_20030612_173004.2-E3-3",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNN_ENG_20030612_173004.2-R3",
+  "mentionArg1" : {
+    "extent" : "a pond",
+    "argMentionid" : "CNN_ENG_20030612_173004.2-E1-1",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "CNN_ENG_20030612_173004.2-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "the draining of a pond for anthrax evidence in maryland is finished. up next for investigators , to try to search sediment on the bottom of the pond located just outside fredrick , not far from washington , d . c. it 's part of the investigation into the deadly anthrax attacks in the fall of 2001 in which five people were killed .",
+  "sentence_index" : 0,
+  "Tokens" : [ "the", "draining", "of", "a", "pond", "for", "anthrax", "evidence", "in", "maryland", "is", "finished.", "up", "next", "for", "investigators", ",", "to", "try", "to", "search", "sediment", "on", "the", "bottom", "of", "the", "pond", "located", "just", "outside", "fredrick", ",", "not", "far", "from", "washington", ",", "d", ".", "c.", "it", "'s", "part", "of", "the", "investigation", "into", "the", "deadly", "anthrax", "attacks", "in", "the", "fall", "of", "2001", "in", "which", "five", "people", "were", "killed", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the bottom of the pond located just outside fredrick, not far from washington, d.c",
+  "sentence_length" : 64,
+  "mentionArg2" : {
+    "extent" : "the pond located just outside fredrick, not far from washington, d.c",
+    "argMentionid" : "CNN_ENG_20030612_173004.2-E1-5",
+    "start" : 26,
+    "end" : 40
+  },
+  "relationID" : "CNN_ENG_20030612_173004.2-R4",
+  "mentionArg1" : {
+    "extent" : "the bottom of the pond located just outside fredrick, not far from washington, d.c",
+    "argMentionid" : "CNN_ENG_20030612_173004.2-E7-8",
+    "start" : 23,
+    "end" : 40
+  },
+  "id" : "CNN_ENG_20030612_173004.2-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "the draining of a pond for anthrax evidence in maryland is finished. up next for investigators , to try to search sediment on the bottom of the pond located just outside fredrick , not far from washington , d . c. it 's part of the investigation into the deadly anthrax attacks in the fall of 2001 in which five people were killed .",
+  "sentence_index" : 0,
+  "Tokens" : [ "the", "draining", "of", "a", "pond", "for", "anthrax", "evidence", "in", "maryland", "is", "finished.", "up", "next", "for", "investigators", ",", "to", "try", "to", "search", "sediment", "on", "the", "bottom", "of", "the", "pond", "located", "just", "outside", "fredrick", ",", "not", "far", "from", "washington", ",", "d", ".", "c.", "it", "'s", "part", "of", "the", "investigation", "into", "the", "deadly", "anthrax", "attacks", "in", "the", "fall", "of", "2001", "in", "which", "five", "people", "were", "killed", "." ]
+} ]

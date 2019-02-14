@@ -1,0 +1,177 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "my wife",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "my wife",
+    "argMentionid" : "MARKBACKER_20041112.0707-E50-108",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "MARKBACKER_20041112.0707-R1",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "MARKBACKER_20041112.0707-E18-109",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "MARKBACKER_20041112.0707-R1-1",
+  "relationSubType" : "Family",
+  "Sentence" : "I have n't been back since 1994 and when I was talking to my wife about the trip this morning , it seems like a lifetime ago .",
+  "sentence_index" : 1,
+  "Tokens" : [ "I", "have", "n't", "been", "back", "since", "1994", "and", "when", "I", "was", "talking", "to", "my", "wife", "about", "the", "trip", "this", "morning", ",", "it", "seems", "like", "a", "lifetime", "ago", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Auburn's Quentin Groves",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Auburn",
+    "argMentionid" : "MARKBACKER_20041112.0707-E3-37",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "MARKBACKER_20041112.0707-R2",
+  "mentionArg1" : {
+    "extent" : "Auburn's Quentin Groves",
+    "argMentionid" : "MARKBACKER_20041112.0707-E15-35",
+    "start" : 11,
+    "end" : 14
+  },
+  "id" : "MARKBACKER_20041112.0707-R2-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Here are a couple of middle of the road stats : Auburn 's Quentin Groves and Georgia 's David Pollack are tied for the SEC sack lead .",
+  "sentence_index" : 22,
+  "Tokens" : [ "Here", "are", "a", "couple", "of", "middle", "of", "the", "road", "stats", ":", "Auburn", "'s", "Quentin", "Groves", "and", "Georgia", "'s", "David", "Pollack", "are", "tied", "for", "the", "SEC", "sack", "lead", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Georgia's David Pollack",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Georgia",
+    "argMentionid" : "MARKBACKER_20041112.0707-E4-100",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "MARKBACKER_20041112.0707-R3",
+  "mentionArg1" : {
+    "extent" : "Georgia's David Pollack",
+    "argMentionid" : "MARKBACKER_20041112.0707-E16-38",
+    "start" : 16,
+    "end" : 19
+  },
+  "id" : "MARKBACKER_20041112.0707-R3-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Here are a couple of middle of the road stats : Auburn 's Quentin Groves and Georgia 's David Pollack are tied for the SEC sack lead .",
+  "sentence_index" : 22,
+  "Tokens" : [ "Here", "are", "a", "couple", "of", "middle", "of", "the", "road", "stats", ":", "Auburn", "'s", "Quentin", "Groves", "and", "Georgia", "'s", "David", "Pollack", "are", "tied", "for", "the", "SEC", "sack", "lead", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the country's biggest hitters",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "the country",
+    "argMentionid" : "MARKBACKER_20041112.0707-E21-46",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "MARKBACKER_20041112.0707-R4",
+  "mentionArg1" : {
+    "extent" : "the country's biggest hitters",
+    "argMentionid" : "MARKBACKER_20041112.0707-E20-45",
+    "start" : 10,
+    "end" : 14
+  },
+  "id" : "MARKBACKER_20041112.0707-R4-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "UGA 's defense is relentless and contains a couple of the country 's biggest hitters , especially Greg Blue and Odell Thurman .",
+  "sentence_index" : 27,
+  "Tokens" : [ "UGA", "'s", "defense", "is", "relentless", "and", "contains", "a", "couple", "of", "the", "country", "'s", "biggest", "hitters", ",", "especially", "Greg", "Blue", "and", "Odell", "Thurman", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "UGA's receivers",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "UGA",
+    "argMentionid" : "MARKBACKER_20041112.0707-E4-51",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "MARKBACKER_20041112.0707-R5",
+  "mentionArg1" : {
+    "extent" : "UGA's receivers",
+    "argMentionid" : "MARKBACKER_20041112.0707-E25-52",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "MARKBACKER_20041112.0707-R5-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "UGA 's receivers are leaders , with one of them a team captain .",
+  "sentence_index" : 29,
+  "Tokens" : [ "UGA", "'s", "receivers", "are", "leaders", ",", "with", "one", "of", "them", "a", "team", "captain", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a team captain",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "team",
+    "argMentionid" : "MARKBACKER_20041112.0707-E4-99",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "MARKBACKER_20041112.0707-R6",
+  "mentionArg1" : {
+    "extent" : "a team captain",
+    "argMentionid" : "MARKBACKER_20041112.0707-E27-56",
+    "start" : 10,
+    "end" : 12
+  },
+  "id" : "MARKBACKER_20041112.0707-R6-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "UGA 's receivers are leaders , with one of them a team captain .",
+  "sentence_index" : 29,
+  "Tokens" : [ "UGA", "'s", "receivers", "are", "leaders", ",", "with", "one", "of", "them", "a", "team", "captain", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Auburn's two running backs",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "Auburn",
+    "argMentionid" : "MARKBACKER_20041112.0707-E3-59",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "MARKBACKER_20041112.0707-R7",
+  "mentionArg1" : {
+    "extent" : "Auburn's two running backs",
+    "argMentionid" : "MARKBACKER_20041112.0707-E28-58",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "MARKBACKER_20041112.0707-R7-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Auburn 's two running backs are seniors and very experienced and dangerous , bruising backs .",
+  "sentence_index" : 30,
+  "Tokens" : [ "Auburn", "'s", "two", "running", "backs", "are", "seniors", "and", "very", "experienced", "and", "dangerous", ",", "bruising", "backs", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "UGA's two backs",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "UGA",
+    "argMentionid" : "MARKBACKER_20041112.0707-E4-62",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "MARKBACKER_20041112.0707-R8",
+  "mentionArg1" : {
+    "extent" : "UGA's two backs",
+    "argMentionid" : "MARKBACKER_20041112.0707-E31-63",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "MARKBACKER_20041112.0707-R8-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "UGA 's two backs are smaller freshmen with less experience , but are dangerous as well .",
+  "sentence_index" : 31,
+  "Tokens" : [ "UGA", "'s", "two", "backs", "are", "smaller", "freshmen", "with", "less", "experience", ",", "but", "are", "dangerous", "as", "well", "." ]
+} ]

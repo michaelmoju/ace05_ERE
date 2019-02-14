@@ -1,0 +1,1255 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "JAKARTA, Indonesia",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Indonesia",
+    "argMentionid" : "APW_ENG_20030412.0531-E5-70",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "APW_ENG_20030412.0531-R1",
+  "mentionArg1" : {
+    "extent" : "JAKARTA, Indonesia",
+    "argMentionid" : "APW_ENG_20030412.0531-E21-1",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030412.0531-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "JAKARTA , Indonesia ( AP ) The dictator Suharto has fallen , the constitution has changed , the media was unshackled , democratic elections held , and East Timor freed .",
+  "sentence_index" : 0,
+  "Tokens" : [ "JAKARTA", ",", "Indonesia", "(", "AP", ")", "The", "dictator", "Suharto", "has", "fallen", ",", "the", "constitution", "has", "changed", ",", "the", "media", "was", "unshackled", ",", "democratic", "elections", "held", ",", "and", "East", "Timor", "freed", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Although opposite ends of the Earth, Indonesia and Russia have some basic things in common",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "the Earth",
+    "argMentionid" : "APW_ENG_20030412.0531-E144-18",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030412.0531-R2",
+  "mentionArg1" : {
+    "extent" : "Russia",
+    "argMentionid" : "APW_ENG_20030412.0531-E7-20",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030412.0531-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Although opposite ends of the Earth , Indonesia and Russia have some basic things in common .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Although", "opposite", "ends", "of", "the", "Earth", ",", "Indonesia", "and", "Russia", "have", "some", "basic", "things", "in", "common", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Indonesia's Foreign Ministry spokesman",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Indonesia's Foreign Ministry",
+    "argMentionid" : "APW_ENG_20030412.0531-E18-29",
+    "start" : 0,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030412.0531-R3",
+  "mentionArg1" : {
+    "extent" : "Indonesia's Foreign Ministry spokesman",
+    "argMentionid" : "APW_ENG_20030412.0531-E17-40",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030412.0531-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Indonesia 's Foreign Ministry spokesman Marty Natalegawa says Megawati 's meeting with Russian President Putin slated for April 21 will touch on the Iraq crisis .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Indonesia", "'s", "Foreign", "Ministry", "spokesman", "Marty", "Natalegawa", "says", "Megawati", "'s", "meeting", "with", "Russian", "President", "Putin", "slated", "for", "April", "21", "will", "touch", "on", "the", "Iraq", "crisis", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "her increasingly obsolete 300,000-member armed forces",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "her increasingly obsolete 300,000-member armed forces",
+    "argMentionid" : "APW_ENG_20030412.0531-E31-206",
+    "start" : 18,
+    "end" : 23
+  },
+  "relationID" : "APW_ENG_20030412.0531-R4",
+  "mentionArg1" : {
+    "extent" : "300,000-member",
+    "argMentionid" : "APW_ENG_20030412.0531-E19-17",
+    "start" : 21,
+    "end" : 21
+  },
+  "id" : "APW_ENG_20030412.0531-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Later this month Indonesian President Megawati Sukarnoputri travels to Moscow to seek the Kremlin 's help in modernizing her increasingly obsolete 300,000-member armed forces .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Later", "this", "month", "Indonesian", "President", "Megawati", "Sukarnoputri", "travels", "to", "Moscow", "to", "seek", "the", "Kremlin", "'s", "help", "in", "modernizing", "her", "increasingly", "obsolete", "300,000-member", "armed", "forces", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Indonesia's Foreign Ministry",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Indonesia",
+    "argMentionid" : "APW_ENG_20030412.0531-E5-30",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030412.0531-R5",
+  "mentionArg1" : {
+    "extent" : "Indonesia's Foreign Ministry",
+    "argMentionid" : "APW_ENG_20030412.0531-E18-29",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "APW_ENG_20030412.0531-R5-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Indonesia 's Foreign Ministry spokesman Marty Natalegawa says Megawati 's meeting with Russian President Putin slated for April 21 will touch on the Iraq crisis .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Indonesia", "'s", "Foreign", "Ministry", "spokesman", "Marty", "Natalegawa", "says", "Megawati", "'s", "meeting", "with", "Russian", "President", "Putin", "slated", "for", "April", "21", "will", "touch", "on", "the", "Iraq", "crisis", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Nearly everybody in Indonesia",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Indonesia",
+    "argMentionid" : "APW_ENG_20030412.0531-E5-59",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030412.0531-R6",
+  "mentionArg1" : {
+    "extent" : "Nearly everybody in Indonesia",
+    "argMentionid" : "APW_ENG_20030412.0531-E38-58",
+    "start" : 1,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030412.0531-R6-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "`` Nearly everybody in Indonesia sees this Iraq war as completely unnecessary and there is widespread public opposition to U.S. policies , '' said Jusuf Wanadi of the Center for Strategic and International Studies in Jakarta .",
+  "sentence_index" : 16,
+  "Tokens" : [ "``", "Nearly", "everybody", "in", "Indonesia", "sees", "this", "Iraq", "war", "as", "completely", "unnecessary", "and", "there", "is", "widespread", "public", "opposition", "to", "U.S.", "policies", ",", "''", "said", "Jusuf", "Wanadi", "of", "the", "Center", "for", "Strategic", "and", "International", "Studies", "in", "Jakarta", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Russian President",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Russian",
+    "argMentionid" : "APW_ENG_20030412.0531-E7-32",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030412.0531-R7",
+  "mentionArg1" : {
+    "extent" : "Russian President",
+    "argMentionid" : "APW_ENG_20030412.0531-E20-69",
+    "start" : 12,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030412.0531-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Indonesia 's Foreign Ministry spokesman Marty Natalegawa says Megawati 's meeting with Russian President Putin slated for April 21 will touch on the Iraq crisis .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Indonesia", "'s", "Foreign", "Ministry", "spokesman", "Marty", "Natalegawa", "says", "Megawati", "'s", "meeting", "with", "Russian", "President", "Putin", "slated", "for", "April", "21", "will", "touch", "on", "the", "Iraq", "crisis", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Russian companies",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Russian",
+    "argMentionid" : "APW_ENG_20030412.0531-E7-13",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030412.0531-R8",
+  "mentionArg1" : {
+    "extent" : "Russian companies",
+    "argMentionid" : "APW_ENG_20030412.0531-E9-12",
+    "start" : 9,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030412.0531-R8-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "She is also likely to open the way for Russian companies to vie for lucrative deals in the oil and gas sector , long dominated by American and British resource giants .",
+  "sentence_index" : 5,
+  "Tokens" : [ "She", "is", "also", "likely", "to", "open", "the", "way", "for", "Russian", "companies", "to", "vie", "for", "lucrative", "deals", "in", "the", "oil", "and", "gas", "sector", ",", "long", "dominated", "by", "American", "and", "British", "resource", "giants", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Russian companies",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "Russian",
+    "argMentionid" : "APW_ENG_20030412.0531-E7-196",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030412.0531-R8",
+  "mentionArg1" : {
+    "extent" : "Russian companies",
+    "argMentionid" : "APW_ENG_20030412.0531-E9-195",
+    "start" : 10,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030412.0531-R8-2",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Megawati and Putin are expected to sign agreements to give Russian companies a toehold in Indonesia 's oil and gas industry , long dominated by American and British giants such as Exxon Mobil and BP .",
+  "sentence_index" : 42,
+  "Tokens" : [ "Megawati", "and", "Putin", "are", "expected", "to", "sign", "agreements", "to", "give", "Russian", "companies", "a", "toehold", "in", "Indonesia", "'s", "oil", "and", "gas", "industry", ",", "long", "dominated", "by", "American", "and", "British", "giants", "such", "as", "Exxon", "Mobil", "and", "BP", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Indonesia's military",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Indonesia",
+    "argMentionid" : "APW_ENG_20030412.0531-E5-47",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030412.0531-R9",
+  "mentionArg1" : {
+    "extent" : "Indonesia's military",
+    "argMentionid" : "APW_ENG_20030412.0531-E31-46",
+    "start" : 3,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030412.0531-R9-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Analysts worry that Indonesia 's military is now so degraded it can no longer control the borders of the far-flung archipelago , allowing for easy infiltration by extremists .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Analysts", "worry", "that", "Indonesia", "'s", "military", "is", "now", "so", "degraded", "it", "can", "no", "longer", "control", "the", "borders", "of", "the", "far-flung", "archipelago", ",", "allowing", "for", "easy", "infiltration", "by", "extremists", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Indonesian military",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Indonesian",
+    "argMentionid" : "APW_ENG_20030412.0531-E5-115",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030412.0531-R9",
+  "mentionArg1" : {
+    "extent" : "the Indonesian military",
+    "argMentionid" : "APW_ENG_20030412.0531-E31-114",
+    "start" : 3,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030412.0531-R9-2",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "`` I think the Indonesian military has finally decided that restrictions and conditionalities from Washington are just not worth it , '' said Juwono Sudarsono , a former defense minister .",
+  "sentence_index" : 26,
+  "Tokens" : [ "``", "I", "think", "the", "Indonesian", "military", "has", "finally", "decided", "that", "restrictions", "and", "conditionalities", "from", "Washington", "are", "just", "not", "worth", "it", ",", "''", "said", "Juwono", "Sudarsono", ",", "a", "former", "defense", "minister", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the borders of the far-flung archipelago",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "the far-flung archipelago",
+    "argMentionid" : "APW_ENG_20030412.0531-E5-50",
+    "start" : 18,
+    "end" : 20
+  },
+  "relationID" : "APW_ENG_20030412.0531-R10",
+  "mentionArg1" : {
+    "extent" : "the borders of the far-flung archipelago",
+    "argMentionid" : "APW_ENG_20030412.0531-E32-49",
+    "start" : 15,
+    "end" : 20
+  },
+  "id" : "APW_ENG_20030412.0531-R10-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Analysts worry that Indonesia 's military is now so degraded it can no longer control the borders of the far-flung archipelago , allowing for easy infiltration by extremists .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Analysts", "worry", "that", "Indonesia", "'s", "military", "is", "now", "so", "degraded", "it", "can", "no", "longer", "control", "the", "borders", "of", "the", "far-flung", "archipelago", ",", "allowing", "for", "easy", "infiltration", "by", "extremists", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Analysts worry that Indonesia's military is now so degraded it can no longer control the borders of the far-flung archipelago, allowing for easy infiltration by extremists",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "the borders of the far-flung archipelago",
+    "argMentionid" : "APW_ENG_20030412.0531-E32-49",
+    "start" : 15,
+    "end" : 20
+  },
+  "relationID" : "APW_ENG_20030412.0531-R11",
+  "mentionArg1" : {
+    "extent" : "extremists",
+    "argMentionid" : "APW_ENG_20030412.0531-E33-51",
+    "start" : 27,
+    "end" : 27
+  },
+  "id" : "APW_ENG_20030412.0531-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Analysts worry that Indonesia 's military is now so degraded it can no longer control the borders of the far-flung archipelago , allowing for easy infiltration by extremists .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Analysts", "worry", "that", "Indonesia", "'s", "military", "is", "now", "so", "degraded", "it", "can", "no", "longer", "control", "the", "borders", "of", "the", "far-flung", "archipelago", ",", "allowing", "for", "easy", "infiltration", "by", "extremists", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the world's most populous Muslim nation",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "the world",
+    "argMentionid" : "APW_ENG_20030412.0531-E144-220",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030412.0531-R12",
+  "mentionArg1" : {
+    "extent" : "the world's most populous Muslim nation",
+    "argMentionid" : "APW_ENG_20030412.0531-E5-2",
+    "start" : 11,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030412.0531-R12-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Yet , Washington maintains a 12-year ban on arms sales to the world 's most populous Muslim nation with the aim of curbing human rights abuses still happening despite momentous political change .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Yet", ",", "Washington", "maintains", "a", "12-year", "ban", "on", "arms", "sales", "to", "the", "world", "'s", "most", "populous", "Muslim", "nation", "with", "the", "aim", "of", "curbing", "human", "rights", "abuses", "still", "happening", "despite", "momentous", "political", "change", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Although opposite ends of the Earth, Indonesia and Russia have some basic things in common",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "the Earth",
+    "argMentionid" : "APW_ENG_20030412.0531-E144-18",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030412.0531-R12",
+  "mentionArg1" : {
+    "extent" : "Indonesia",
+    "argMentionid" : "APW_ENG_20030412.0531-E5-19",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030412.0531-R12-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Although opposite ends of the Earth , Indonesia and Russia have some basic things in common .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Although", "opposite", "ends", "of", "the", "Earth", ",", "Indonesia", "and", "Russia", "have", "some", "basic", "things", "in", "common", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the world's most populous Muslim nation",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "the world's most populous Muslim nation",
+    "argMentionid" : "APW_ENG_20030412.0531-E5-2",
+    "start" : 11,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030412.0531-R13",
+  "mentionArg1" : {
+    "extent" : "Muslim",
+    "argMentionid" : "APW_ENG_20030412.0531-E1-3",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "APW_ENG_20030412.0531-R13-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Yet , Washington maintains a 12-year ban on arms sales to the world 's most populous Muslim nation with the aim of curbing human rights abuses still happening despite momentous political change .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Yet", ",", "Washington", "maintains", "a", "12-year", "ban", "on", "arms", "sales", "to", "the", "world", "'s", "most", "populous", "Muslim", "nation", "with", "the", "aim", "of", "curbing", "human", "rights", "abuses", "still", "happening", "despite", "momentous", "political", "change", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. President",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030412.0531-E12-217",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030412.0531-R14",
+  "mentionArg1" : {
+    "extent" : "U.S. President",
+    "argMentionid" : "APW_ENG_20030412.0531-E26-38",
+    "start" : 12,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030412.0531-R14-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "After Sept. 11 , 2001 , Indonesia was quick to sign onto U.S. President George W. Bush 's global war on terror .",
+  "sentence_index" : 1,
+  "Tokens" : [ "After", "Sept.", "11", ",", "2001", ",", "Indonesia", "was", "quick", "to", "sign", "onto", "U.S.", "President", "George", "W.", "Bush", "'s", "global", "war", "on", "terror", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Jakarta's generals",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "Jakarta",
+    "argMentionid" : "APW_ENG_20030412.0531-E5-6",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "APW_ENG_20030412.0531-R15",
+  "mentionArg1" : {
+    "extent" : "Jakarta's generals",
+    "argMentionid" : "APW_ENG_20030412.0531-E3-5",
+    "start" : 2,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030412.0531-R15-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Frustrated , Jakarta 's generals are looking elsewhere to replace antiquated arsenals .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Frustrated", ",", "Jakarta", "'s", "generals", "are", "looking", "elsewhere", "to", "replace", "antiquated", "arsenals", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Indonesian President",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Indonesian",
+    "argMentionid" : "APW_ENG_20030412.0531-E5-7",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030412.0531-R16",
+  "mentionArg1" : {
+    "extent" : "Indonesian President",
+    "argMentionid" : "APW_ENG_20030412.0531-E4-34",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030412.0531-R16-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Later this month Indonesian President Megawati Sukarnoputri travels to Moscow to seek the Kremlin 's help in modernizing her increasingly obsolete 300,000-member armed forces .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Later", "this", "month", "Indonesian", "President", "Megawati", "Sukarnoputri", "travels", "to", "Moscow", "to", "seek", "the", "Kremlin", "'s", "help", "in", "modernizing", "her", "increasingly", "obsolete", "300,000-member", "armed", "forces", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Later this month Indonesian President Megawati Sukarnoputri travels to Moscow to seek the Kremlin's help in modernizing her increasingly obsolete 300,000-member armed forces",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Moscow",
+    "argMentionid" : "APW_ENG_20030412.0531-E6-8",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030412.0531-R17",
+  "mentionArg1" : {
+    "extent" : "Indonesian President Megawati Sukarnoputri",
+    "argMentionid" : "APW_ENG_20030412.0531-E4-35",
+    "start" : 3,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030412.0531-R17-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Later this month Indonesian President Megawati Sukarnoputri travels to Moscow to seek the Kremlin 's help in modernizing her increasingly obsolete 300,000-member armed forces .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Later", "this", "month", "Indonesian", "President", "Megawati", "Sukarnoputri", "travels", "to", "Moscow", "to", "seek", "the", "Kremlin", "'s", "help", "in", "modernizing", "her", "increasingly", "obsolete", "300,000-member", "armed", "forces", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Jusuf Wanadi of the Center for Strategic and International Studies in Jakarta",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "the Center for Strategic and International Studies in Jakarta",
+    "argMentionid" : "APW_ENG_20030412.0531-E42-63",
+    "start" : 27,
+    "end" : 35
+  },
+  "relationID" : "APW_ENG_20030412.0531-R19",
+  "mentionArg1" : {
+    "extent" : "Jusuf Wanadi of the Center for Strategic and International Studies in Jakarta",
+    "argMentionid" : "APW_ENG_20030412.0531-E41-62",
+    "start" : 24,
+    "end" : 35
+  },
+  "id" : "APW_ENG_20030412.0531-R19-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "`` Nearly everybody in Indonesia sees this Iraq war as completely unnecessary and there is widespread public opposition to U.S. policies , '' said Jusuf Wanadi of the Center for Strategic and International Studies in Jakarta .",
+  "sentence_index" : 16,
+  "Tokens" : [ "``", "Nearly", "everybody", "in", "Indonesia", "sees", "this", "Iraq", "war", "as", "completely", "unnecessary", "and", "there", "is", "widespread", "public", "opposition", "to", "U.S.", "policies", ",", "''", "said", "Jusuf", "Wanadi", "of", "the", "Center", "for", "Strategic", "and", "International", "Studies", "in", "Jakarta", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Center for Strategic and International Studies in Jakarta",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Jakarta",
+    "argMentionid" : "APW_ENG_20030412.0531-E21-64",
+    "start" : 35,
+    "end" : 35
+  },
+  "relationID" : "APW_ENG_20030412.0531-R20",
+  "mentionArg1" : {
+    "extent" : "the Center for Strategic and International Studies in Jakarta",
+    "argMentionid" : "APW_ENG_20030412.0531-E42-63",
+    "start" : 27,
+    "end" : 35
+  },
+  "id" : "APW_ENG_20030412.0531-R20-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "`` Nearly everybody in Indonesia sees this Iraq war as completely unnecessary and there is widespread public opposition to U.S. policies , '' said Jusuf Wanadi of the Center for Strategic and International Studies in Jakarta .",
+  "sentence_index" : 16,
+  "Tokens" : [ "``", "Nearly", "everybody", "in", "Indonesia", "sees", "this", "Iraq", "war", "as", "completely", "unnecessary", "and", "there", "is", "widespread", "public", "opposition", "to", "U.S.", "policies", ",", "''", "said", "Jusuf", "Wanadi", "of", "the", "Center", "for", "Strategic", "and", "International", "Studies", "in", "Jakarta", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Soviet military",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Soviet",
+    "argMentionid" : "APW_ENG_20030412.0531-E44-216",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030412.0531-R21",
+  "mentionArg1" : {
+    "extent" : "Soviet military",
+    "argMentionid" : "APW_ENG_20030412.0531-E43-68",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030412.0531-R21-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Indonesia relied on Soviet military assistance in the 1950s under Megawati 's father and founding President Sukarno , but these were severed after the anti-communist Gen. Suharto seized power in 1965 .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Indonesia", "relied", "on", "Soviet", "military", "assistance", "in", "the", "1950s", "under", "Megawati", "'s", "father", "and", "founding", "President", "Sukarno", ",", "but", "these", "were", "severed", "after", "the", "anti-communist", "Gen.", "Suharto", "seized", "power", "in", "1965", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Megawati's father",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Megawati's father",
+    "argMentionid" : "APW_ENG_20030412.0531-E46-73",
+    "start" : 10,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030412.0531-R22",
+  "mentionArg1" : {
+    "extent" : "Megawati",
+    "argMentionid" : "APW_ENG_20030412.0531-E4-74",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030412.0531-R22-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Indonesia relied on Soviet military assistance in the 1950s under Megawati 's father and founding President Sukarno , but these were severed after the anti-communist Gen. Suharto seized power in 1965 .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Indonesia", "relied", "on", "Soviet", "military", "assistance", "in", "the", "1950s", "under", "Megawati", "'s", "father", "and", "founding", "President", "Sukarno", ",", "but", "these", "were", "severed", "after", "the", "anti-communist", "Gen.", "Suharto", "seized", "power", "in", "1965", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Southeast Asian country",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Southeast Asian",
+    "argMentionid" : "APW_ENG_20030412.0531-E49-81",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030412.0531-R23",
+  "mentionArg1" : {
+    "extent" : "the Southeast Asian country",
+    "argMentionid" : "APW_ENG_20030412.0531-E5-80",
+    "start" : 5,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030412.0531-R23-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The United States quickly became the Southeast Asian country 's main weapons supplier , and annual arms sales peaked at US $ 400 million in the 1980s .",
+  "sentence_index" : 19,
+  "Tokens" : [ "The", "United", "States", "quickly", "became", "the", "Southeast", "Asian", "country", "'s", "main", "weapons", "supplier", ",", "and", "annual", "arms", "sales", "peaked", "at", "US", "$", "400", "million", "in", "the", "1980s", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the U.S. Congress",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030412.0531-E12-86",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030412.0531-R24",
+  "mentionArg1" : {
+    "extent" : "the U.S. Congress",
+    "argMentionid" : "APW_ENG_20030412.0531-E53-85",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030412.0531-R24-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "In 1991 , however , the U.S. Congress banned this after Indonesian troops killed hundreds of civilians in East Timor .",
+  "sentence_index" : 20,
+  "Tokens" : [ "In", "1991", ",", "however", ",", "the", "U.S.", "Congress", "banned", "this", "after", "Indonesian", "troops", "killed", "hundreds", "of", "civilians", "in", "East", "Timor", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Indonesian troops",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Indonesian",
+    "argMentionid" : "APW_ENG_20030412.0531-E5-88",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030412.0531-R25",
+  "mentionArg1" : {
+    "extent" : "Indonesian troops",
+    "argMentionid" : "APW_ENG_20030412.0531-E55-87",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030412.0531-R25-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "In 1991 , however , the U.S. Congress banned this after Indonesian troops killed hundreds of civilians in East Timor .",
+  "sentence_index" : 20,
+  "Tokens" : [ "In", "1991", ",", "however", ",", "the", "U.S.", "Congress", "banned", "this", "after", "Indonesian", "troops", "killed", "hundreds", "of", "civilians", "in", "East", "Timor", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "hundreds of civilians in East Timor",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "East Timor",
+    "argMentionid" : "APW_ENG_20030412.0531-E139-90",
+    "start" : 18,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030412.0531-R26",
+  "mentionArg1" : {
+    "extent" : "hundreds of civilians in East Timor",
+    "argMentionid" : "APW_ENG_20030412.0531-E57-89",
+    "start" : 14,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030412.0531-R26-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In 1991 , however , the U.S. Congress banned this after Indonesian troops killed hundreds of civilians in East Timor .",
+  "sentence_index" : 20,
+  "Tokens" : [ "In", "1991", ",", "however", ",", "the", "U.S.", "Congress", "banned", "this", "after", "Indonesian", "troops", "killed", "hundreds", "of", "civilians", "in", "East", "Timor", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. lawmakers",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030412.0531-E12-97",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030412.0531-R27",
+  "mentionArg1" : {
+    "extent" : "U.S. lawmakers",
+    "argMentionid" : "APW_ENG_20030412.0531-E59-96",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030412.0531-R27-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The shocking level of destruction prompted U.S. lawmakers to expand the ban to cover almost all military ties with Indonesia .",
+  "sentence_index" : 22,
+  "Tokens" : [ "The", "shocking", "level", "of", "destruction", "prompted", "U.S.", "lawmakers", "to", "expand", "the", "ban", "to", "cover", "almost", "all", "military", "ties", "with", "Indonesia", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. lawmakers",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030412.0531-E12-109",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030412.0531-R27",
+  "mentionArg1" : {
+    "extent" : "U.S. lawmakers",
+    "argMentionid" : "APW_ENG_20030412.0531-E59-108",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030412.0531-R27-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "So far , U.S. lawmakers have reinstated only a limited officer training program .",
+  "sentence_index" : 24,
+  "Tokens" : [ "So", "far", ",", "U.S.", "lawmakers", "have", "reinstated", "only", "a", "limited", "officer", "training", "program", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Bush administration",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "the Bush administration",
+    "argMentionid" : "APW_ENG_20030412.0531-E63-101",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030412.0531-R28",
+  "mentionArg1" : {
+    "extent" : "Bush",
+    "argMentionid" : "APW_ENG_20030412.0531-E26-102",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030412.0531-R28-1",
+  "relationSubType" : "Founder",
+  "Sentence" : "Since then some in the Bush administration _ particularly Deputy Defense Secretary Paul Wolfowitz , a former ambassador to Jakarta and a prime architect of the Iraq war _ have pushed for the ban to be repealed .",
+  "sentence_index" : 23,
+  "Tokens" : [ "Since", "then", "some", "in", "the", "Bush", "administration", "_", "particularly", "Deputy", "Defense", "Secretary", "Paul", "Wolfowitz", ",", "a", "former", "ambassador", "to", "Jakarta", "and", "a", "prime", "architect", "of", "the", "Iraq", "war", "_", "have", "pushed", "for", "the", "ban", "to", "be", "repealed", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "some in the Bush administration",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "the Bush administration",
+    "argMentionid" : "APW_ENG_20030412.0531-E63-101",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030412.0531-R29",
+  "mentionArg1" : {
+    "extent" : "some in the Bush administration",
+    "argMentionid" : "APW_ENG_20030412.0531-E62-100",
+    "start" : 2,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030412.0531-R29-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Since then some in the Bush administration _ particularly Deputy Defense Secretary Paul Wolfowitz , a former ambassador to Jakarta and a prime architect of the Iraq war _ have pushed for the ban to be repealed .",
+  "sentence_index" : 23,
+  "Tokens" : [ "Since", "then", "some", "in", "the", "Bush", "administration", "_", "particularly", "Deputy", "Defense", "Secretary", "Paul", "Wolfowitz", ",", "a", "former", "ambassador", "to", "Jakarta", "and", "a", "prime", "architect", "of", "the", "Iraq", "war", "_", "have", "pushed", "for", "the", "ban", "to", "be", "repealed", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Deputy Defense Secretary",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "Defense",
+    "argMentionid" : "APW_ENG_20030412.0531-E68-105",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030412.0531-R30",
+  "mentionArg1" : {
+    "extent" : "Deputy Defense Secretary",
+    "argMentionid" : "APW_ENG_20030412.0531-E65-104",
+    "start" : 9,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030412.0531-R30-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Since then some in the Bush administration _ particularly Deputy Defense Secretary Paul Wolfowitz , a former ambassador to Jakarta and a prime architect of the Iraq war _ have pushed for the ban to be repealed .",
+  "sentence_index" : 23,
+  "Tokens" : [ "Since", "then", "some", "in", "the", "Bush", "administration", "_", "particularly", "Deputy", "Defense", "Secretary", "Paul", "Wolfowitz", ",", "a", "former", "ambassador", "to", "Jakarta", "and", "a", "prime", "architect", "of", "the", "Iraq", "war", "_", "have", "pushed", "for", "the", "ban", "to", "be", "repealed", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Indonesia's generals",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "Indonesia",
+    "argMentionid" : "APW_ENG_20030412.0531-E5-112",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030412.0531-R31",
+  "mentionArg1" : {
+    "extent" : "Indonesia's generals",
+    "argMentionid" : "APW_ENG_20030412.0531-E73-111",
+    "start" : 7,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030412.0531-R31-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "But that 's far from enough for Indonesia 's generals .",
+  "sentence_index" : 25,
+  "Tokens" : [ "But", "that", "'s", "far", "from", "enough", "for", "Indonesia", "'s", "generals", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Jakarta has recently purchased some Russian weapons, including 10,000 Kalashnikov assault rifles, a squadron of naval Mil-2 helicopters and a dozen BTR-80A amphibious carriers for its marines",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "some Russian weapons, including 10,000 Kalashnikov assault rifles, a squadron of naval Mil-2 helicopters and a dozen BTR-80A amphibious carriers for its marines",
+    "argMentionid" : "APW_ENG_20030412.0531-E80-127",
+    "start" : 4,
+    "end" : 28
+  },
+  "relationID" : "APW_ENG_20030412.0531-R33",
+  "mentionArg1" : {
+    "extent" : "Jakarta",
+    "argMentionid" : "APW_ENG_20030412.0531-E5-125",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "APW_ENG_20030412.0531-R33-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Jakarta has recently purchased some Russian weapons , including 10,000 Kalashnikov assault rifles , a squadron of naval Mil-2 helicopters and a dozen BTR-80A amphibious carriers for its marines .",
+  "sentence_index" : 29,
+  "Tokens" : [ "Jakarta", "has", "recently", "purchased", "some", "Russian", "weapons", ",", "including", "10,000", "Kalashnikov", "assault", "rifles", ",", "a", "squadron", "of", "naval", "Mil-2", "helicopters", "and", "a", "dozen", "BTR-80A", "amphibious", "carriers", "for", "its", "marines", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Currently, Indonesia uses short-range Rapier missiles purchased 30 years ago to protect its vital oil and natural gas fields in Sumatra, Borneo and Papua from air attack",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "short-range Rapier missiles purchased 30 years ago to protect its vital oil and natural gas fields in Sumatra, Borneo and Papua from air attack",
+    "argMentionid" : "APW_ENG_20030412.0531-E88-154",
+    "start" : 4,
+    "end" : 28
+  },
+  "relationID" : "APW_ENG_20030412.0531-R34",
+  "mentionArg1" : {
+    "extent" : "Indonesia",
+    "argMentionid" : "APW_ENG_20030412.0531-E5-135",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030412.0531-R34-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Currently , Indonesia uses short-range Rapier missiles purchased 30 years ago to protect its vital oil and natural gas fields in Sumatra , Borneo and Papua from air attack .",
+  "sentence_index" : 30,
+  "Tokens" : [ "Currently", ",", "Indonesia", "uses", "short-range", "Rapier", "missiles", "purchased", "30", "years", "ago", "to", "protect", "its", "vital", "oil", "and", "natural", "gas", "fields", "in", "Sumatra", ",", "Borneo", "and", "Papua", "from", "air", "attack", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "its vital oil and natural gas fields in Sumatra, Borneo and Papua from air attack",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "its",
+    "argMentionid" : "APW_ENG_20030412.0531-E5-136",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030412.0531-R35",
+  "mentionArg1" : {
+    "extent" : "its vital oil and natural gas fields in Sumatra, Borneo and Papua",
+    "argMentionid" : "APW_ENG_20030412.0531-E89-137",
+    "start" : 13,
+    "end" : 25
+  },
+  "id" : "APW_ENG_20030412.0531-R35-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Currently , Indonesia uses short-range Rapier missiles purchased 30 years ago to protect its vital oil and natural gas fields in Sumatra , Borneo and Papua from air attack .",
+  "sentence_index" : 30,
+  "Tokens" : [ "Currently", ",", "Indonesia", "uses", "short-range", "Rapier", "missiles", "purchased", "30", "years", "ago", "to", "protect", "its", "vital", "oil", "and", "natural", "gas", "fields", "in", "Sumatra", ",", "Borneo", "and", "Papua", "from", "air", "attack", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "its vital oil and natural gas fields in Sumatra, Borneo and Papua from air attack",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Sumatra",
+    "argMentionid" : "APW_ENG_20030412.0531-E90-138",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "APW_ENG_20030412.0531-R36",
+  "mentionArg1" : {
+    "extent" : "its vital oil and natural gas fields in Sumatra, Borneo and Papua",
+    "argMentionid" : "APW_ENG_20030412.0531-E89-137",
+    "start" : 13,
+    "end" : 25
+  },
+  "id" : "APW_ENG_20030412.0531-R36-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Currently , Indonesia uses short-range Rapier missiles purchased 30 years ago to protect its vital oil and natural gas fields in Sumatra , Borneo and Papua from air attack .",
+  "sentence_index" : 30,
+  "Tokens" : [ "Currently", ",", "Indonesia", "uses", "short-range", "Rapier", "missiles", "purchased", "30", "years", "ago", "to", "protect", "its", "vital", "oil", "and", "natural", "gas", "fields", "in", "Sumatra", ",", "Borneo", "and", "Papua", "from", "air", "attack", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "its vital oil and natural gas fields in Sumatra, Borneo and Papua from air attack",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Borneo",
+    "argMentionid" : "APW_ENG_20030412.0531-E91-139",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "APW_ENG_20030412.0531-R37",
+  "mentionArg1" : {
+    "extent" : "its vital oil and natural gas fields in Sumatra, Borneo and Papua",
+    "argMentionid" : "APW_ENG_20030412.0531-E89-137",
+    "start" : 13,
+    "end" : 25
+  },
+  "id" : "APW_ENG_20030412.0531-R37-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Currently , Indonesia uses short-range Rapier missiles purchased 30 years ago to protect its vital oil and natural gas fields in Sumatra , Borneo and Papua from air attack .",
+  "sentence_index" : 30,
+  "Tokens" : [ "Currently", ",", "Indonesia", "uses", "short-range", "Rapier", "missiles", "purchased", "30", "years", "ago", "to", "protect", "its", "vital", "oil", "and", "natural", "gas", "fields", "in", "Sumatra", ",", "Borneo", "and", "Papua", "from", "air", "attack", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "its vital oil and natural gas fields in Sumatra, Borneo and Papua from air attack",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Papua",
+    "argMentionid" : "APW_ENG_20030412.0531-E92-141",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "APW_ENG_20030412.0531-R38",
+  "mentionArg1" : {
+    "extent" : "its vital oil and natural gas fields in Sumatra, Borneo and Papua",
+    "argMentionid" : "APW_ENG_20030412.0531-E89-137",
+    "start" : 13,
+    "end" : 25
+  },
+  "id" : "APW_ENG_20030412.0531-R38-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Currently , Indonesia uses short-range Rapier missiles purchased 30 years ago to protect its vital oil and natural gas fields in Sumatra , Borneo and Papua from air attack .",
+  "sentence_index" : 30,
+  "Tokens" : [ "Currently", ",", "Indonesia", "uses", "short-range", "Rapier", "missiles", "purchased", "30", "years", "ago", "to", "protect", "its", "vital", "oil", "and", "natural", "gas", "fields", "in", "Sumatra", ",", "Borneo", "and", "Papua", "from", "air", "attack", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Russia's impressive long-range S-300 missiles",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Russia's impressive long-range S-300 missiles",
+    "argMentionid" : "APW_ENG_20030412.0531-E94-146",
+    "start" : 9,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030412.0531-R39",
+  "mentionArg1" : {
+    "extent" : "Russia",
+    "argMentionid" : "APW_ENG_20030412.0531-E7-147",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030412.0531-R39-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Air defense commanders want to augment the Rapiers with Russia 's impressive long-range S-300 missiles , or shorter-range systems such as the SA-15 Gauntlet or shoulder-fired Igla .",
+  "sentence_index" : 32,
+  "Tokens" : [ "Air", "defense", "commanders", "want", "to", "augment", "the", "Rapiers", "with", "Russia", "'s", "impressive", "long-range", "S-300", "missiles", ",", "or", "shorter-range", "systems", "such", "as", "the", "SA-15", "Gauntlet", "or", "shoulder-fired", "Igla", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "The Air Force is reportedly considering purchasing several squadrons of Sukhoi Su-27 interceptors, considered the world's premier dogfighters",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "several squadrons of Sukhoi Su-27 interceptors, considered the world's premier dogfighters",
+    "argMentionid" : "APW_ENG_20030412.0531-E103-157",
+    "start" : 7,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030412.0531-R40",
+  "mentionArg1" : {
+    "extent" : "The Air Force",
+    "argMentionid" : "APW_ENG_20030412.0531-E98-151",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030412.0531-R40-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The Air Force is reportedly considering purchasing several squadrons of Sukhoi Su-27 interceptors , considered the world 's premier dogfighters .",
+  "sentence_index" : 33,
+  "Tokens" : [ "The", "Air", "Force", "is", "reportedly", "considering", "purchasing", "several", "squadrons", "of", "Sukhoi", "Su-27", "interceptors", ",", "considered", "the", "world", "'s", "premier", "dogfighters", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Indonesian Air Force commanders",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Indonesian",
+    "argMentionid" : "APW_ENG_20030412.0531-E5-162",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "APW_ENG_20030412.0531-R41",
+  "mentionArg1" : {
+    "extent" : "Air Force",
+    "argMentionid" : "APW_ENG_20030412.0531-E98-161",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030412.0531-R41-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Previously , Indonesian Air Force commanders preferred Western jets that were compatible with the U.S.-made F-16 fighter-bombers already in the Indonesian inventory .",
+  "sentence_index" : 34,
+  "Tokens" : [ "Previously", ",", "Indonesian", "Air", "Force", "commanders", "preferred", "Western", "jets", "that", "were", "compatible", "with", "the", "U.S.-made", "F-16", "fighter-bombers", "already", "in", "the", "Indonesian", "inventory", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Indonesian Air Force commanders",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Air Force",
+    "argMentionid" : "APW_ENG_20030412.0531-E98-161",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030412.0531-R42",
+  "mentionArg1" : {
+    "extent" : "Indonesian Air Force commanders",
+    "argMentionid" : "APW_ENG_20030412.0531-E104-160",
+    "start" : 2,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030412.0531-R42-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Previously , Indonesian Air Force commanders preferred Western jets that were compatible with the U.S.-made F-16 fighter-bombers already in the Indonesian inventory .",
+  "sentence_index" : 34,
+  "Tokens" : [ "Previously", ",", "Indonesian", "Air", "Force", "commanders", "preferred", "Western", "jets", "that", "were", "compatible", "with", "the", "U.S.-made", "F-16", "fighter-bombers", "already", "in", "the", "Indonesian", "inventory", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Western jets that were compatible with the U.S.-made F-16 fighter-bombers already in the Indonesian inventory",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Western jets that were compatible with the U.S.-made F-16 fighter-bombers already in the Indonesian inventory",
+    "argMentionid" : "APW_ENG_20030412.0531-E107-163",
+    "start" : 7,
+    "end" : 21
+  },
+  "relationID" : "APW_ENG_20030412.0531-R43",
+  "mentionArg1" : {
+    "extent" : "Western",
+    "argMentionid" : "APW_ENG_20030412.0531-E108-164",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030412.0531-R43-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Previously , Indonesian Air Force commanders preferred Western jets that were compatible with the U.S.-made F-16 fighter-bombers already in the Indonesian inventory .",
+  "sentence_index" : 34,
+  "Tokens" : [ "Previously", ",", "Indonesian", "Air", "Force", "commanders", "preferred", "Western", "jets", "that", "were", "compatible", "with", "the", "U.S.-made", "F-16", "fighter-bombers", "already", "in", "the", "Indonesian", "inventory", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the U.S.-made F-16 fighter-bombers already in the Indonesian inventory",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "the U.S.-made F-16 fighter-bombers already in the Indonesian inventory",
+    "argMentionid" : "APW_ENG_20030412.0531-E109-166",
+    "start" : 13,
+    "end" : 21
+  },
+  "relationID" : "APW_ENG_20030412.0531-R44",
+  "mentionArg1" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030412.0531-E12-168",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "APW_ENG_20030412.0531-R44-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Previously , Indonesian Air Force commanders preferred Western jets that were compatible with the U.S.-made F-16 fighter-bombers already in the Indonesian inventory .",
+  "sentence_index" : 34,
+  "Tokens" : [ "Previously", ",", "Indonesian", "Air", "Force", "commanders", "preferred", "Western", "jets", "that", "were", "compatible", "with", "the", "U.S.-made", "F-16", "fighter-bombers", "already", "in", "the", "Indonesian", "inventory", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the U.S.-made F-16 fighter-bombers already in the Indonesian inventory",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "the U.S.-made F-16 fighter-bombers already in the Indonesian inventory",
+    "argMentionid" : "APW_ENG_20030412.0531-E109-166",
+    "start" : 13,
+    "end" : 21
+  },
+  "relationID" : "APW_ENG_20030412.0531-R45",
+  "mentionArg1" : {
+    "extent" : "Indonesian",
+    "argMentionid" : "APW_ENG_20030412.0531-E5-169",
+    "start" : 20,
+    "end" : 20
+  },
+  "id" : "APW_ENG_20030412.0531-R45-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Previously , Indonesian Air Force commanders preferred Western jets that were compatible with the U.S.-made F-16 fighter-bombers already in the Indonesian inventory .",
+  "sentence_index" : 34,
+  "Tokens" : [ "Previously", ",", "Indonesian", "Air", "Force", "commanders", "preferred", "Western", "jets", "that", "were", "compatible", "with", "the", "U.S.-made", "F-16", "fighter-bombers", "already", "in", "the", "Indonesian", "inventory", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Russian MiG-29s",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Russian MiG-29s",
+    "argMentionid" : "APW_ENG_20030412.0531-E116-172",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030412.0531-R46",
+  "mentionArg1" : {
+    "extent" : "Russian",
+    "argMentionid" : "APW_ENG_20030412.0531-E7-173",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030412.0531-R46-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "But neighboring Malaysia 's success in integrating Russian MiG-29s and American F / A-18 Hornets persuaded them otherwise , Sudarsono said .",
+  "sentence_index" : 35,
+  "Tokens" : [ "But", "neighboring", "Malaysia", "'s", "success", "in", "integrating", "Russian", "MiG-29s", "and", "American", "F", "/", "A-18", "Hornets", "persuaded", "them", "otherwise", ",", "Sudarsono", "said", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "American F/A-18 Hornets",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "American F/A-18 Hornets",
+    "argMentionid" : "APW_ENG_20030412.0531-E118-174",
+    "start" : 10,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030412.0531-R47",
+  "mentionArg1" : {
+    "extent" : "American",
+    "argMentionid" : "APW_ENG_20030412.0531-E12-175",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030412.0531-R47-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "But neighboring Malaysia 's success in integrating Russian MiG-29s and American F / A-18 Hornets persuaded them otherwise , Sudarsono said .",
+  "sentence_index" : 35,
+  "Tokens" : [ "But", "neighboring", "Malaysia", "'s", "success", "in", "integrating", "Russian", "MiG-29s", "and", "American", "F", "/", "A-18", "Hornets", "persuaded", "them", "otherwise", ",", "Sudarsono", "said", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "But neighboring Malaysia's success in integrating Russian MiG-29s and American F/A-18 Hornets persuaded them otherwise, Sudarsono said",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Russian MiG-29s",
+    "argMentionid" : "APW_ENG_20030412.0531-E116-172",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030412.0531-R48",
+  "mentionArg1" : {
+    "extent" : "neighboring Malaysia",
+    "argMentionid" : "APW_ENG_20030412.0531-E115-171",
+    "start" : 1,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030412.0531-R48-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "But neighboring Malaysia 's success in integrating Russian MiG-29s and American F / A-18 Hornets persuaded them otherwise , Sudarsono said .",
+  "sentence_index" : 35,
+  "Tokens" : [ "But", "neighboring", "Malaysia", "'s", "success", "in", "integrating", "Russian", "MiG-29s", "and", "American", "F", "/", "A-18", "Hornets", "persuaded", "them", "otherwise", ",", "Sudarsono", "said", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "But neighboring Malaysia's success in integrating Russian MiG-29s and American F/A-18 Hornets persuaded them otherwise, Sudarsono said",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "American F/A-18 Hornets",
+    "argMentionid" : "APW_ENG_20030412.0531-E118-174",
+    "start" : 10,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030412.0531-R49",
+  "mentionArg1" : {
+    "extent" : "neighboring Malaysia",
+    "argMentionid" : "APW_ENG_20030412.0531-E115-171",
+    "start" : 1,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030412.0531-R49-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "But neighboring Malaysia 's success in integrating Russian MiG-29s and American F / A-18 Hornets persuaded them otherwise , Sudarsono said .",
+  "sentence_index" : 35,
+  "Tokens" : [ "But", "neighboring", "Malaysia", "'s", "success", "in", "integrating", "Russian", "MiG-29s", "and", "American", "F", "/", "A-18", "Hornets", "persuaded", "them", "otherwise", ",", "Sudarsono", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "American and British giants",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "APW_ENG_20030412.0531-E13-200",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "APW_ENG_20030412.0531-R51",
+  "mentionArg1" : {
+    "extent" : "American and British giants",
+    "argMentionid" : "APW_ENG_20030412.0531-E11-198",
+    "start" : 25,
+    "end" : 28
+  },
+  "id" : "APW_ENG_20030412.0531-R51-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Megawati and Putin are expected to sign agreements to give Russian companies a toehold in Indonesia 's oil and gas industry , long dominated by American and British giants such as Exxon Mobil and BP .",
+  "sentence_index" : 42,
+  "Tokens" : [ "Megawati", "and", "Putin", "are", "expected", "to", "sign", "agreements", "to", "give", "Russian", "companies", "a", "toehold", "in", "Indonesia", "'s", "oil", "and", "gas", "industry", ",", "long", "dominated", "by", "American", "and", "British", "giants", "such", "as", "Exxon", "Mobil", "and", "BP", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "American and British resource giants",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "APW_ENG_20030412.0531-E13-16",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "APW_ENG_20030412.0531-R51",
+  "mentionArg1" : {
+    "extent" : "American and British resource giants",
+    "argMentionid" : "APW_ENG_20030412.0531-E11-14",
+    "start" : 26,
+    "end" : 30
+  },
+  "id" : "APW_ENG_20030412.0531-R51-2",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "She is also likely to open the way for Russian companies to vie for lucrative deals in the oil and gas sector , long dominated by American and British resource giants .",
+  "sentence_index" : 5,
+  "Tokens" : [ "She", "is", "also", "likely", "to", "open", "the", "way", "for", "Russian", "companies", "to", "vie", "for", "lucrative", "deals", "in", "the", "oil", "and", "gas", "sector", ",", "long", "dominated", "by", "American", "and", "British", "resource", "giants", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "American and British giants",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "APW_ENG_20030412.0531-E12-199",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "APW_ENG_20030412.0531-R52",
+  "mentionArg1" : {
+    "extent" : "American and British giants",
+    "argMentionid" : "APW_ENG_20030412.0531-E11-198",
+    "start" : 25,
+    "end" : 28
+  },
+  "id" : "APW_ENG_20030412.0531-R52-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Megawati and Putin are expected to sign agreements to give Russian companies a toehold in Indonesia 's oil and gas industry , long dominated by American and British giants such as Exxon Mobil and BP .",
+  "sentence_index" : 42,
+  "Tokens" : [ "Megawati", "and", "Putin", "are", "expected", "to", "sign", "agreements", "to", "give", "Russian", "companies", "a", "toehold", "in", "Indonesia", "'s", "oil", "and", "gas", "industry", ",", "long", "dominated", "by", "American", "and", "British", "giants", "such", "as", "Exxon", "Mobil", "and", "BP", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Indonesia's oil and gas industry",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "Indonesia",
+    "argMentionid" : "APW_ENG_20030412.0531-E5-197",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030412.0531-R53",
+  "mentionArg1" : {
+    "extent" : "Indonesia's oil and gas industry",
+    "argMentionid" : "APW_ENG_20030412.0531-E133-207",
+    "start" : 15,
+    "end" : 20
+  },
+  "id" : "APW_ENG_20030412.0531-R53-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Megawati and Putin are expected to sign agreements to give Russian companies a toehold in Indonesia 's oil and gas industry , long dominated by American and British giants such as Exxon Mobil and BP .",
+  "sentence_index" : 42,
+  "Tokens" : [ "Megawati", "and", "Putin", "are", "expected", "to", "sign", "agreements", "to", "give", "Russian", "companies", "a", "toehold", "in", "Indonesia", "'s", "oil", "and", "gas", "industry", ",", "long", "dominated", "by", "American", "and", "British", "giants", "such", "as", "Exxon", "Mobil", "and", "BP", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Indonesian forces",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Indonesian",
+    "argMentionid" : "APW_ENG_20030412.0531-E5-93",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030412.0531-R54",
+  "mentionArg1" : {
+    "extent" : "Indonesian forces",
+    "argMentionid" : "APW_ENG_20030412.0531-E8-92",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030412.0531-R54-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "In 1999 , East Timor became free , but only after Indonesian forces laid waste to it as they withdrew after a pro-independence referendum .",
+  "sentence_index" : 21,
+  "Tokens" : [ "In", "1999", ",", "East", "Timor", "became", "free", ",", "but", "only", "after", "Indonesian", "forces", "laid", "waste", "to", "it", "as", "they", "withdrew", "after", "a", "pro-independence", "referendum", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "American and British resource giants",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "APW_ENG_20030412.0531-E12-15",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "APW_ENG_20030412.0531-R56",
+  "mentionArg1" : {
+    "extent" : "American and British resource giants",
+    "argMentionid" : "APW_ENG_20030412.0531-E11-14",
+    "start" : 26,
+    "end" : 30
+  },
+  "id" : "APW_ENG_20030412.0531-R56-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "She is also likely to open the way for Russian companies to vie for lucrative deals in the oil and gas sector , long dominated by American and British resource giants .",
+  "sentence_index" : 5,
+  "Tokens" : [ "She", "is", "also", "likely", "to", "open", "the", "way", "for", "Russian", "companies", "to", "vie", "for", "lucrative", "deals", "in", "the", "oil", "and", "gas", "sector", ",", "long", "dominated", "by", "American", "and", "British", "resource", "giants", "." ]
+} ]

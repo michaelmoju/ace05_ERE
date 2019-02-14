@@ -1,0 +1,243 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "the horse racing club in neighboring Macau",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "neighboring Macau",
+    "argMentionid" : "APW_ENG_20030310.0719-E5-34",
+    "start" : 21,
+    "end" : 22
+  },
+  "relationID" : "APW_ENG_20030310.0719-R1",
+  "mentionArg1" : {
+    "extent" : "the horse racing club in neighboring Macau",
+    "argMentionid" : "APW_ENG_20030310.0719-E18-33",
+    "start" : 16,
+    "end" : 22
+  },
+  "id" : "APW_ENG_20030310.0719-R1-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "HONG KONG ( AP ) The Hong Kong Jockey Club is in talks about buying out the horse racing club in neighboring Macau , a newspaper reported Tuesday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "HONG", "KONG", "(", "AP", ")", "The", "Hong", "Kong", "Jockey", "Club", "is", "in", "talks", "about", "buying", "out", "the", "horse", "racing", "club", "in", "neighboring", "Macau", ",", "a", "newspaper", "reported", "Tuesday", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "The Macau club",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Macau",
+    "argMentionid" : "APW_ENG_20030310.0719-E5-13",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030310.0719-R1",
+  "mentionArg1" : {
+    "extent" : "The Macau club",
+    "argMentionid" : "APW_ENG_20030310.0719-E18-12",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030310.0719-R1-2",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "The Macau club later threatened to start taking wagers on Hong Kong races in Macau , at a better price for gamblers because less tax would be levied , but the plan never materialized .",
+  "sentence_index" : 5,
+  "Tokens" : [ "The", "Macau", "club", "later", "threatened", "to", "start", "taking", "wagers", "on", "Hong", "Kong", "races", "in", "Macau", ",", "at", "a", "better", "price", "for", "gamblers", "because", "less", "tax", "would", "be", "levied", ",", "but", "the", "plan", "never", "materialized", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Hong Kong Jockey Club Chief Executive",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Hong Kong Jockey Club",
+    "argMentionid" : "APW_ENG_20030310.0719-E17-37",
+    "start" : 6,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030310.0719-R2",
+  "mentionArg1" : {
+    "extent" : "Hong Kong Jockey Club Chief Executive",
+    "argMentionid" : "APW_ENG_20030310.0719-E22-38",
+    "start" : 6,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030310.0719-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The South China Morning Post quoted Hong Kong Jockey Club Chief Executive Lawrence Wong as saying the discussions were underway , but no price was reported .",
+  "sentence_index" : 1,
+  "Tokens" : [ "The", "South", "China", "Morning", "Post", "quoted", "Hong", "Kong", "Jockey", "Club", "Chief", "Executive", "Lawrence", "Wong", "as", "saying", "the", "discussions", "were", "underway", ",", "but", "no", "price", "was", "reported", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "The Hong Kong club",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Hong Kong",
+    "argMentionid" : "APW_ENG_20030310.0719-E6-41",
+    "start" : 1,
+    "end" : 2
+  },
+  "relationID" : "APW_ENG_20030310.0719-R3",
+  "mentionArg1" : {
+    "extent" : "The Hong Kong club",
+    "argMentionid" : "APW_ENG_20030310.0719-E17-40",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "APW_ENG_20030310.0719-R3-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "The Hong Kong club is a charitable entity , while the Macau Jockey Club is a for-profit concern controlled by gambling tycoon Stanley Ho .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "Hong", "Kong", "club", "is", "a", "charitable", "entity", ",", "while", "the", "Macau", "Jockey", "Club", "is", "a", "for-profit", "concern", "controlled", "by", "gambling", "tycoon", "Stanley", "Ho", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a for-profit concern controlled by gambling tycoon Stanley Ho",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "a for-profit concern controlled by gambling tycoon Stanley Ho",
+    "argMentionid" : "APW_ENG_20030310.0719-E18-44",
+    "start" : 15,
+    "end" : 23
+  },
+  "relationID" : "APW_ENG_20030310.0719-R4",
+  "mentionArg1" : {
+    "extent" : "gambling tycoon Stanley Ho",
+    "argMentionid" : "APW_ENG_20030310.0719-E27-45",
+    "start" : 20,
+    "end" : 23
+  },
+  "id" : "APW_ENG_20030310.0719-R4-1",
+  "relationSubType" : "Ownership",
+  "Sentence" : "The Hong Kong club is a charitable entity , while the Macau Jockey Club is a for-profit concern controlled by gambling tycoon Stanley Ho .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "Hong", "Kong", "club", "is", "a", "charitable", "entity", ",", "while", "the", "Macau", "Jockey", "Club", "is", "a", "for-profit", "concern", "controlled", "by", "gambling", "tycoon", "Stanley", "Ho", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Macau's gaming industry",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Macau",
+    "argMentionid" : "APW_ENG_20030310.0719-E5-48",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030310.0719-R5",
+  "mentionArg1" : {
+    "extent" : "Macau's gaming industry",
+    "argMentionid" : "APW_ENG_20030310.0719-E1-2",
+    "start" : 3,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030310.0719-R5-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Hong Kong angered Macau 's gaming industry last year when it banned gamblers in Hong Kong from placing horse bets with anyone but the Hong Kong Jockey Club .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Hong", "Kong", "angered", "Macau", "'s", "gaming", "industry", "last", "year", "when", "it", "banned", "gamblers", "in", "Hong", "Kong", "from", "placing", "horse", "bets", "with", "anyone", "but", "the", "Hong", "Kong", "Jockey", "Club", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "gamblers in Hong Kong",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Hong Kong",
+    "argMentionid" : "APW_ENG_20030310.0719-E6-5",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030310.0719-R6",
+  "mentionArg1" : {
+    "extent" : "gamblers in Hong Kong",
+    "argMentionid" : "APW_ENG_20030310.0719-E2-4",
+    "start" : 12,
+    "end" : 15
+  },
+  "id" : "APW_ENG_20030310.0719-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Hong Kong angered Macau 's gaming industry last year when it banned gamblers in Hong Kong from placing horse bets with anyone but the Hong Kong Jockey Club .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Hong", "Kong", "angered", "Macau", "'s", "gaming", "industry", "last", "year", "when", "it", "banned", "gamblers", "in", "Hong", "Kong", "from", "placing", "horse", "bets", "with", "anyone", "but", "the", "Hong", "Kong", "Jockey", "Club", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "people in Hong Kong",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Hong Kong",
+    "argMentionid" : "APW_ENG_20030310.0719-E6-10",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030310.0719-R6",
+  "mentionArg1" : {
+    "extent" : "people in Hong Kong",
+    "argMentionid" : "APW_ENG_20030310.0719-E2-9",
+    "start" : 7,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030310.0719-R6-2",
+  "relationSubType" : "Located",
+  "Sentence" : "Macau had been taking off-track bets from people in Hong Kong , but the offices handling those wagers were closed .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Macau", "had", "been", "taking", "off-track", "bets", "from", "people", "in", "Hong", "Kong", ",", "but", "the", "offices", "handling", "those", "wagers", "were", "closed", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a gambling enclave 60 kilometers (40 miles) west of Hong Kong that was governed by the Portuguese for more than four centuries before it returned to Chinese sovereignty in 1999",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Hong Kong",
+    "argMentionid" : "APW_ENG_20030310.0719-E6-22",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030310.0719-R7",
+  "mentionArg1" : {
+    "extent" : "a gambling enclave 60 kilometers (40 miles) west of Hong Kong that was governed by the Portuguese for more than four centuries before it returned to Chinese sovereignty in 1999",
+    "argMentionid" : "APW_ENG_20030310.0719-E5-20",
+    "start" : 2,
+    "end" : 33
+  },
+  "id" : "APW_ENG_20030310.0719-R7-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Macau is a gambling enclave 60 kilometers ( 40 miles ) west of Hong Kong that was governed by the Portuguese for more than four centuries before it returned to Chinese sovereignty in 1999 .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Macau", "is", "a", "gambling", "enclave", "60", "kilometers", "(", "40", "miles", ")", "west", "of", "Hong", "Kong", "that", "was", "governed", "by", "the", "Portuguese", "for", "more", "than", "four", "centuries", "before", "it", "returned", "to", "Chinese", "sovereignty", "in", "1999", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Macau is a gambling enclave 60 kilometers (40 miles) west of Hong Kong that was governed by the Portuguese for more than four centuries before it returned to Chinese sovereignty in 1999",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "the Portuguese",
+    "argMentionid" : "APW_ENG_20030310.0719-E10-23",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "APW_ENG_20030310.0719-R8",
+  "mentionArg1" : {
+    "extent" : "that",
+    "argMentionid" : "APW_ENG_20030310.0719-E5-21",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "APW_ENG_20030310.0719-R8-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Macau is a gambling enclave 60 kilometers ( 40 miles ) west of Hong Kong that was governed by the Portuguese for more than four centuries before it returned to Chinese sovereignty in 1999 .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Macau", "is", "a", "gambling", "enclave", "60", "kilometers", "(", "40", "miles", ")", "west", "of", "Hong", "Kong", "that", "was", "governed", "by", "the", "Portuguese", "for", "more", "than", "four", "centuries", "before", "it", "returned", "to", "Chinese", "sovereignty", "in", "1999", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Hong Kong, a former British colony, returned to Chinese rule in 1997",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "APW_ENG_20030310.0719-E14-30",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030310.0719-R11",
+  "mentionArg1" : {
+    "extent" : "a former British colony",
+    "argMentionid" : "APW_ENG_20030310.0719-E6-27",
+    "start" : 3,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030310.0719-R11-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Hong Kong , a former British colony , returned to Chinese rule in 1997 .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Hong", "Kong", ",", "a", "former", "British", "colony", ",", "returned", "to", "Chinese", "rule", "in", "1997", "." ]
+} ]

@@ -1,0 +1,199 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "her ex-husband Robert L. Johnson",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "her ex-husband Robert L. Johnson",
+    "argMentionid" : "BACONSREBELLION_20050123.1639-E1-42",
+    "start" : 36,
+    "end" : 40
+  },
+  "relationID" : "BACONSREBELLION_20050123.1639-R1",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "BACONSREBELLION_20050123.1639-E3-41",
+    "start" : 36,
+    "end" : 36
+  },
+  "id" : "BACONSREBELLION_20050123.1639-R1-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Not only is she developing the Salamander Inn & amp ; Spa in Fauquier County , and not only is she a major philanthropist , but she was a co-founder of of Black Entertainment Television with her ex-husband Robert L. Johnson .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Not", "only", "is", "she", "developing", "the", "Salamander", "Inn", "&", "amp", ";", "Spa", "in", "Fauquier", "County", ",", "and", "not", "only", "is", "she", "a", "major", "philanthropist", ",", "but", "she", "was", "a", "co-founder", "of", "of", "Black", "Entertainment", "Television", "with", "her", "ex-husband", "Robert", "L.", "Johnson", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "If you haven't figured it out yet, she is an African-American",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "an African-American",
+    "argMentionid" : "BACONSREBELLION_20050123.1639-E3-4",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "BACONSREBELLION_20050123.1639-R2",
+  "mentionArg1" : {
+    "extent" : "she",
+    "argMentionid" : "BACONSREBELLION_20050123.1639-E3-3",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "BACONSREBELLION_20050123.1639-R2-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "If you have n't figured it out yet , she is an African-American .",
+  "sentence_index" : 4,
+  "Tokens" : [ "If", "you", "have", "n't", "figured", "it", "out", "yet", ",", "she", "is", "an", "African-American", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "But the Old Dominion has come a long way, in my humble opinion, when the biggest campaign contributor in the state is African American",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "African American",
+    "argMentionid" : "BACONSREBELLION_20050123.1639-E3-14",
+    "start" : 24,
+    "end" : 25
+  },
+  "relationID" : "BACONSREBELLION_20050123.1639-R2",
+  "mentionArg1" : {
+    "extent" : "the biggest campaign contributor in the state",
+    "argMentionid" : "BACONSREBELLION_20050123.1639-E3-13",
+    "start" : 16,
+    "end" : 22
+  },
+  "id" : "BACONSREBELLION_20050123.1639-R2-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "But the Old Dominion has come a long way , in my humble opinion , when the biggest campaign contributor in the state is African American .",
+  "sentence_index" : 6,
+  "Tokens" : [ "But", "the", "Old", "Dominion", "has", "come", "a", "long", "way", ",", "in", "my", "humble", "opinion", ",", "when", "the", "biggest", "campaign", "contributor", "in", "the", "state", "is", "African", "American", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Sheila C. Johnson, of the Plains, who made five contributions totaling $320,490",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "the Plains",
+    "argMentionid" : "BACONSREBELLION_20050123.1639-E22-30",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "BACONSREBELLION_20050123.1639-R4",
+  "mentionArg1" : {
+    "extent" : "Sheila C. Johnson, of the Plains, who made five contributions totaling $320,490",
+    "argMentionid" : "BACONSREBELLION_20050123.1639-E3-29",
+    "start" : 12,
+    "end" : 25
+  },
+  "id" : "BACONSREBELLION_20050123.1639-R4-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The single largest political donor in the second half of 2004 was Sheila C. Johnson , of the Plains , who made five contributions totaling $320,490 .",
+  "sentence_index" : 1,
+  "Tokens" : [ "The", "single", "largest", "political", "donor", "in", "the", "second", "half", "of", "2004", "was", "Sheila", "C.", "Johnson", ",", "of", "the", "Plains", ",", "who", "made", "five", "contributions", "totaling", "$320,490", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Salamander Inn & Spa in Fauquier County",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Fauquier County",
+    "argMentionid" : "BACONSREBELLION_20050123.1639-E25-35",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "BACONSREBELLION_20050123.1639-R5",
+  "mentionArg1" : {
+    "extent" : "the Salamander Inn & Spa in Fauquier County",
+    "argMentionid" : "BACONSREBELLION_20050123.1639-E24-34",
+    "start" : 5,
+    "end" : 14
+  },
+  "id" : "BACONSREBELLION_20050123.1639-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Not only is she developing the Salamander Inn & amp ; Spa in Fauquier County , and not only is she a major philanthropist , but she was a co-founder of of Black Entertainment Television with her ex-husband Robert L. Johnson .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Not", "only", "is", "she", "developing", "the", "Salamander", "Inn", "&", "amp", ";", "Spa", "in", "Fauquier", "County", ",", "and", "not", "only", "is", "she", "a", "major", "philanthropist", ",", "but", "she", "was", "a", "co-founder", "of", "of", "Black", "Entertainment", "Television", "with", "her", "ex-husband", "Robert", "L.", "Johnson", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a co-founder of of Black Entertainment Television with her ex-husband Robert L. Johnson",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Black Entertainment Television",
+    "argMentionid" : "BACONSREBELLION_20050123.1639-E28-40",
+    "start" : 32,
+    "end" : 34
+  },
+  "relationID" : "BACONSREBELLION_20050123.1639-R6",
+  "mentionArg1" : {
+    "extent" : "a co-founder of of Black Entertainment Television with her ex-husband Robert L. Johnson",
+    "argMentionid" : "BACONSREBELLION_20050123.1639-E3-39",
+    "start" : 28,
+    "end" : 40
+  },
+  "id" : "BACONSREBELLION_20050123.1639-R6-1",
+  "relationSubType" : "Founder",
+  "Sentence" : "Not only is she developing the Salamander Inn & amp ; Spa in Fauquier County , and not only is she a major philanthropist , but she was a co-founder of of Black Entertainment Television with her ex-husband Robert L. Johnson .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Not", "only", "is", "she", "developing", "the", "Salamander", "Inn", "&", "amp", ";", "Spa", "in", "Fauquier", "County", ",", "and", "not", "only", "is", "she", "a", "major", "philanthropist", ",", "but", "she", "was", "a", "co-founder", "of", "of", "Black", "Entertainment", "Television", "with", "her", "ex-husband", "Robert", "L.", "Johnson", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a co-founder of of Black Entertainment Television with her ex-husband Robert L. Johnson",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Black Entertainment Television",
+    "argMentionid" : "BACONSREBELLION_20050123.1639-E28-40",
+    "start" : 32,
+    "end" : 34
+  },
+  "relationID" : "BACONSREBELLION_20050123.1639-R7",
+  "mentionArg1" : {
+    "extent" : "her ex-husband Robert L. Johnson",
+    "argMentionid" : "BACONSREBELLION_20050123.1639-E1-42",
+    "start" : 36,
+    "end" : 40
+  },
+  "id" : "BACONSREBELLION_20050123.1639-R7-1",
+  "relationSubType" : "Founder",
+  "Sentence" : "Not only is she developing the Salamander Inn & amp ; Spa in Fauquier County , and not only is she a major philanthropist , but she was a co-founder of of Black Entertainment Television with her ex-husband Robert L. Johnson .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Not", "only", "is", "she", "developing", "the", "Salamander", "Inn", "&", "amp", ";", "Spa", "in", "Fauquier", "County", ",", "and", "not", "only", "is", "she", "a", "major", "philanthropist", ",", "but", "she", "was", "a", "co-founder", "of", "of", "Black", "Entertainment", "Television", "with", "her", "ex-husband", "Robert", "L.", "Johnson", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the biggest campaign contributor in the state",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "the state",
+    "argMentionid" : "BACONSREBELLION_20050123.1639-E18-28",
+    "start" : 21,
+    "end" : 22
+  },
+  "relationID" : "BACONSREBELLION_20050123.1639-R8",
+  "mentionArg1" : {
+    "extent" : "the biggest campaign contributor in the state",
+    "argMentionid" : "BACONSREBELLION_20050123.1639-E3-13",
+    "start" : 16,
+    "end" : 22
+  },
+  "id" : "BACONSREBELLION_20050123.1639-R8-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "But the Old Dominion has come a long way , in my humble opinion , when the biggest campaign contributor in the state is African American .",
+  "sentence_index" : 6,
+  "Tokens" : [ "But", "the", "Old", "Dominion", "has", "come", "a", "long", "way", ",", "in", "my", "humble", "opinion", ",", "when", "the", "biggest", "campaign", "contributor", "in", "the", "state", "is", "African", "American", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Domocratic gubernatorial hopeful",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "Domocratic",
+    "argMentionid" : "BACONSREBELLION_20050123.1639-E16-24",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "BACONSREBELLION_20050123.1639-R9",
+  "mentionArg1" : {
+    "extent" : "Domocratic gubernatorial hopeful",
+    "argMentionid" : "BACONSREBELLION_20050123.1639-E14-23",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "BACONSREBELLION_20050123.1639-R9-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Johnson 's donations last year included $287,490 for Domocratic gubernatorial hopeful Tim Kaine .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Johnson", "'s", "donations", "last", "year", "included", "$287,490", "for", "Domocratic", "gubernatorial", "hopeful", "Tim", "Kaine", "." ]
+} ]

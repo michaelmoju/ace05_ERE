@@ -1,0 +1,177 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "the president united states",
+  "sentence_length" : 240,
+  "mentionArg2" : {
+    "extent" : "united states",
+    "argMentionid" : "CNN_ENG_20030408_083034.11-E10-70",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNN_ENG_20030408_083034.11-R1",
+  "mentionArg1" : {
+    "extent" : "the president united states",
+    "argMentionid" : "CNN_ENG_20030408_083034.11-E20-62",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "CNN_ENG_20030408_083034.11-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "a live picture of the president united states landing at an air field in northern ireland. once he gets out of the helicopter he 'll transfer to air force one to come home after a 20-hour visit with the prime minister of great britain. they talked about a lot of things , about what peace in the middle east could look like , what post-war iraq could look like. they talked about problems in northern ireland. we 're going to pause for a second to see if we see the president hopping off this chopper. as you probably know , the prime minister of the great britain has been under great pressure at home and much of europe to support giving the united nations a very strong role in stabilizing iraq. the white house had signaled consistently it wants the united states and great britain to create a lead role. we learned from john king , traveling with the president , that the new iraq run neither by u . s . / british coalition or united nations , but by the iraqi people. that some of what the prime minister and president shared with reporters at news conference following their meetings. the president went on to say that an interim authority composed of iraq grs inside and outside the country will run iraq until a permanent government can be established. do you want to hang with the shot ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "live", "picture", "of", "the", "president", "united", "states", "landing", "at", "an", "air", "field", "in", "northern", "ireland.", "once", "he", "gets", "out", "of", "the", "helicopter", "he", "'ll", "transfer", "to", "air", "force", "one", "to", "come", "home", "after", "a", "20-hour", "visit", "with", "the", "prime", "minister", "of", "great", "britain.", "they", "talked", "about", "a", "lot", "of", "things", ",", "about", "what", "peace", "in", "the", "middle", "east", "could", "look", "like", ",", "what", "post-war", "iraq", "could", "look", "like.", "they", "talked", "about", "problems", "in", "northern", "ireland.", "we", "'re", "going", "to", "pause", "for", "a", "second", "to", "see", "if", "we", "see", "the", "president", "hopping", "off", "this", "chopper.", "as", "you", "probably", "know", ",", "the", "prime", "minister", "of", "the", "great", "britain", "has", "been", "under", "great", "pressure", "at", "home", "and", "much", "of", "europe", "to", "support", "giving", "the", "united", "nations", "a", "very", "strong", "role", "in", "stabilizing", "iraq.", "the", "white", "house", "had", "signaled", "consistently", "it", "wants", "the", "united", "states", "and", "great", "britain", "to", "create", "a", "lead", "role.", "we", "learned", "from", "john", "king", ",", "traveling", "with", "the", "president", ",", "that", "the", "new", "iraq", "run", "neither", "by", "u", ".", "s", ".", "/", "british", "coalition", "or", "united", "nations", ",", "but", "by", "the", "iraqi", "people.", "that", "some", "of", "what", "the", "prime", "minister", "and", "president", "shared", "with", "reporters", "at", "news", "conference", "following", "their", "meetings.", "the", "president", "went", "on", "to", "say", "that", "an", "interim", "authority", "composed", "of", "iraq", "grs", "inside", "and", "outside", "the", "country", "will", "run", "iraq", "until", "a", "permanent", "government", "can", "be", "established.", "do", "you", "want", "to", "hang", "with", "the", "shot", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a live picture of the president united states landing at an air field in northern ireland",
+  "sentence_length" : 240,
+  "mentionArg2" : {
+    "extent" : "northern ireland",
+    "argMentionid" : "CNN_ENG_20030408_083034.11-E34-74",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "CNN_ENG_20030408_083034.11-R2",
+  "mentionArg1" : {
+    "extent" : "the president united states",
+    "argMentionid" : "CNN_ENG_20030408_083034.11-E20-62",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "CNN_ENG_20030408_083034.11-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "a live picture of the president united states landing at an air field in northern ireland. once he gets out of the helicopter he 'll transfer to air force one to come home after a 20-hour visit with the prime minister of great britain. they talked about a lot of things , about what peace in the middle east could look like , what post-war iraq could look like. they talked about problems in northern ireland. we 're going to pause for a second to see if we see the president hopping off this chopper. as you probably know , the prime minister of the great britain has been under great pressure at home and much of europe to support giving the united nations a very strong role in stabilizing iraq. the white house had signaled consistently it wants the united states and great britain to create a lead role. we learned from john king , traveling with the president , that the new iraq run neither by u . s . / british coalition or united nations , but by the iraqi people. that some of what the prime minister and president shared with reporters at news conference following their meetings. the president went on to say that an interim authority composed of iraq grs inside and outside the country will run iraq until a permanent government can be established. do you want to hang with the shot ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "live", "picture", "of", "the", "president", "united", "states", "landing", "at", "an", "air", "field", "in", "northern", "ireland.", "once", "he", "gets", "out", "of", "the", "helicopter", "he", "'ll", "transfer", "to", "air", "force", "one", "to", "come", "home", "after", "a", "20-hour", "visit", "with", "the", "prime", "minister", "of", "great", "britain.", "they", "talked", "about", "a", "lot", "of", "things", ",", "about", "what", "peace", "in", "the", "middle", "east", "could", "look", "like", ",", "what", "post-war", "iraq", "could", "look", "like.", "they", "talked", "about", "problems", "in", "northern", "ireland.", "we", "'re", "going", "to", "pause", "for", "a", "second", "to", "see", "if", "we", "see", "the", "president", "hopping", "off", "this", "chopper.", "as", "you", "probably", "know", ",", "the", "prime", "minister", "of", "the", "great", "britain", "has", "been", "under", "great", "pressure", "at", "home", "and", "much", "of", "europe", "to", "support", "giving", "the", "united", "nations", "a", "very", "strong", "role", "in", "stabilizing", "iraq.", "the", "white", "house", "had", "signaled", "consistently", "it", "wants", "the", "united", "states", "and", "great", "britain", "to", "create", "a", "lead", "role.", "we", "learned", "from", "john", "king", ",", "traveling", "with", "the", "president", ",", "that", "the", "new", "iraq", "run", "neither", "by", "u", ".", "s", ".", "/", "british", "coalition", "or", "united", "nations", ",", "but", "by", "the", "iraqi", "people.", "that", "some", "of", "what", "the", "prime", "minister", "and", "president", "shared", "with", "reporters", "at", "news", "conference", "following", "their", "meetings.", "the", "president", "went", "on", "to", "say", "that", "an", "interim", "authority", "composed", "of", "iraq", "grs", "inside", "and", "outside", "the", "country", "will", "run", "iraq", "until", "a", "permanent", "government", "can", "be", "established.", "do", "you", "want", "to", "hang", "with", "the", "shot", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the prime minister of great britain",
+  "sentence_length" : 240,
+  "mentionArg2" : {
+    "extent" : "great britain",
+    "argMentionid" : "CNN_ENG_20030408_083034.11-E9-72",
+    "start" : 42,
+    "end" : 43
+  },
+  "relationID" : "CNN_ENG_20030408_083034.11-R3",
+  "mentionArg1" : {
+    "extent" : "the prime minister of great britain",
+    "argMentionid" : "CNN_ENG_20030408_083034.11-E30-71",
+    "start" : 38,
+    "end" : 43
+  },
+  "id" : "CNN_ENG_20030408_083034.11-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "a live picture of the president united states landing at an air field in northern ireland. once he gets out of the helicopter he 'll transfer to air force one to come home after a 20-hour visit with the prime minister of great britain. they talked about a lot of things , about what peace in the middle east could look like , what post-war iraq could look like. they talked about problems in northern ireland. we 're going to pause for a second to see if we see the president hopping off this chopper. as you probably know , the prime minister of the great britain has been under great pressure at home and much of europe to support giving the united nations a very strong role in stabilizing iraq. the white house had signaled consistently it wants the united states and great britain to create a lead role. we learned from john king , traveling with the president , that the new iraq run neither by u . s . / british coalition or united nations , but by the iraqi people. that some of what the prime minister and president shared with reporters at news conference following their meetings. the president went on to say that an interim authority composed of iraq grs inside and outside the country will run iraq until a permanent government can be established. do you want to hang with the shot ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "live", "picture", "of", "the", "president", "united", "states", "landing", "at", "an", "air", "field", "in", "northern", "ireland.", "once", "he", "gets", "out", "of", "the", "helicopter", "he", "'ll", "transfer", "to", "air", "force", "one", "to", "come", "home", "after", "a", "20-hour", "visit", "with", "the", "prime", "minister", "of", "great", "britain.", "they", "talked", "about", "a", "lot", "of", "things", ",", "about", "what", "peace", "in", "the", "middle", "east", "could", "look", "like", ",", "what", "post-war", "iraq", "could", "look", "like.", "they", "talked", "about", "problems", "in", "northern", "ireland.", "we", "'re", "going", "to", "pause", "for", "a", "second", "to", "see", "if", "we", "see", "the", "president", "hopping", "off", "this", "chopper.", "as", "you", "probably", "know", ",", "the", "prime", "minister", "of", "the", "great", "britain", "has", "been", "under", "great", "pressure", "at", "home", "and", "much", "of", "europe", "to", "support", "giving", "the", "united", "nations", "a", "very", "strong", "role", "in", "stabilizing", "iraq.", "the", "white", "house", "had", "signaled", "consistently", "it", "wants", "the", "united", "states", "and", "great", "britain", "to", "create", "a", "lead", "role.", "we", "learned", "from", "john", "king", ",", "traveling", "with", "the", "president", ",", "that", "the", "new", "iraq", "run", "neither", "by", "u", ".", "s", ".", "/", "british", "coalition", "or", "united", "nations", ",", "but", "by", "the", "iraqi", "people.", "that", "some", "of", "what", "the", "prime", "minister", "and", "president", "shared", "with", "reporters", "at", "news", "conference", "following", "their", "meetings.", "the", "president", "went", "on", "to", "say", "that", "an", "interim", "authority", "composed", "of", "iraq", "grs", "inside", "and", "outside", "the", "country", "will", "run", "iraq", "until", "a", "permanent", "government", "can", "be", "established.", "do", "you", "want", "to", "hang", "with", "the", "shot", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the prime minister of the great britain",
+  "sentence_length" : 240,
+  "mentionArg2" : {
+    "extent" : "the great britain",
+    "argMentionid" : "CNN_ENG_20030408_083034.11-E9-4",
+    "start" : 104,
+    "end" : 106
+  },
+  "relationID" : "CNN_ENG_20030408_083034.11-R3",
+  "mentionArg1" : {
+    "extent" : "the prime minister of the great britain",
+    "argMentionid" : "CNN_ENG_20030408_083034.11-E30-3",
+    "start" : 100,
+    "end" : 106
+  },
+  "id" : "CNN_ENG_20030408_083034.11-R3-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "a live picture of the president united states landing at an air field in northern ireland. once he gets out of the helicopter he 'll transfer to air force one to come home after a 20-hour visit with the prime minister of great britain. they talked about a lot of things , about what peace in the middle east could look like , what post-war iraq could look like. they talked about problems in northern ireland. we 're going to pause for a second to see if we see the president hopping off this chopper. as you probably know , the prime minister of the great britain has been under great pressure at home and much of europe to support giving the united nations a very strong role in stabilizing iraq. the white house had signaled consistently it wants the united states and great britain to create a lead role. we learned from john king , traveling with the president , that the new iraq run neither by u . s . / british coalition or united nations , but by the iraqi people. that some of what the prime minister and president shared with reporters at news conference following their meetings. the president went on to say that an interim authority composed of iraq grs inside and outside the country will run iraq until a permanent government can be established. do you want to hang with the shot ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "live", "picture", "of", "the", "president", "united", "states", "landing", "at", "an", "air", "field", "in", "northern", "ireland.", "once", "he", "gets", "out", "of", "the", "helicopter", "he", "'ll", "transfer", "to", "air", "force", "one", "to", "come", "home", "after", "a", "20-hour", "visit", "with", "the", "prime", "minister", "of", "great", "britain.", "they", "talked", "about", "a", "lot", "of", "things", ",", "about", "what", "peace", "in", "the", "middle", "east", "could", "look", "like", ",", "what", "post-war", "iraq", "could", "look", "like.", "they", "talked", "about", "problems", "in", "northern", "ireland.", "we", "'re", "going", "to", "pause", "for", "a", "second", "to", "see", "if", "we", "see", "the", "president", "hopping", "off", "this", "chopper.", "as", "you", "probably", "know", ",", "the", "prime", "minister", "of", "the", "great", "britain", "has", "been", "under", "great", "pressure", "at", "home", "and", "much", "of", "europe", "to", "support", "giving", "the", "united", "nations", "a", "very", "strong", "role", "in", "stabilizing", "iraq.", "the", "white", "house", "had", "signaled", "consistently", "it", "wants", "the", "united", "states", "and", "great", "britain", "to", "create", "a", "lead", "role.", "we", "learned", "from", "john", "king", ",", "traveling", "with", "the", "president", ",", "that", "the", "new", "iraq", "run", "neither", "by", "u", ".", "s", ".", "/", "british", "coalition", "or", "united", "nations", ",", "but", "by", "the", "iraqi", "people.", "that", "some", "of", "what", "the", "prime", "minister", "and", "president", "shared", "with", "reporters", "at", "news", "conference", "following", "their", "meetings.", "the", "president", "went", "on", "to", "say", "that", "an", "interim", "authority", "composed", "of", "iraq", "grs", "inside", "and", "outside", "the", "country", "will", "run", "iraq", "until", "a", "permanent", "government", "can", "be", "established.", "do", "you", "want", "to", "hang", "with", "the", "shot", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "much of europe",
+  "sentence_length" : 240,
+  "mentionArg2" : {
+    "extent" : "europe",
+    "argMentionid" : "CNN_ENG_20030408_083034.11-E3-8",
+    "start" : 117,
+    "end" : 117
+  },
+  "relationID" : "CNN_ENG_20030408_083034.11-R4",
+  "mentionArg1" : {
+    "extent" : "much of europe",
+    "argMentionid" : "CNN_ENG_20030408_083034.11-E2-7",
+    "start" : 115,
+    "end" : 117
+  },
+  "id" : "CNN_ENG_20030408_083034.11-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "a live picture of the president united states landing at an air field in northern ireland. once he gets out of the helicopter he 'll transfer to air force one to come home after a 20-hour visit with the prime minister of great britain. they talked about a lot of things , about what peace in the middle east could look like , what post-war iraq could look like. they talked about problems in northern ireland. we 're going to pause for a second to see if we see the president hopping off this chopper. as you probably know , the prime minister of the great britain has been under great pressure at home and much of europe to support giving the united nations a very strong role in stabilizing iraq. the white house had signaled consistently it wants the united states and great britain to create a lead role. we learned from john king , traveling with the president , that the new iraq run neither by u . s . / british coalition or united nations , but by the iraqi people. that some of what the prime minister and president shared with reporters at news conference following their meetings. the president went on to say that an interim authority composed of iraq grs inside and outside the country will run iraq until a permanent government can be established. do you want to hang with the shot ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "live", "picture", "of", "the", "president", "united", "states", "landing", "at", "an", "air", "field", "in", "northern", "ireland.", "once", "he", "gets", "out", "of", "the", "helicopter", "he", "'ll", "transfer", "to", "air", "force", "one", "to", "come", "home", "after", "a", "20-hour", "visit", "with", "the", "prime", "minister", "of", "great", "britain.", "they", "talked", "about", "a", "lot", "of", "things", ",", "about", "what", "peace", "in", "the", "middle", "east", "could", "look", "like", ",", "what", "post-war", "iraq", "could", "look", "like.", "they", "talked", "about", "problems", "in", "northern", "ireland.", "we", "'re", "going", "to", "pause", "for", "a", "second", "to", "see", "if", "we", "see", "the", "president", "hopping", "off", "this", "chopper.", "as", "you", "probably", "know", ",", "the", "prime", "minister", "of", "the", "great", "britain", "has", "been", "under", "great", "pressure", "at", "home", "and", "much", "of", "europe", "to", "support", "giving", "the", "united", "nations", "a", "very", "strong", "role", "in", "stabilizing", "iraq.", "the", "white", "house", "had", "signaled", "consistently", "it", "wants", "the", "united", "states", "and", "great", "britain", "to", "create", "a", "lead", "role.", "we", "learned", "from", "john", "king", ",", "traveling", "with", "the", "president", ",", "that", "the", "new", "iraq", "run", "neither", "by", "u", ".", "s", ".", "/", "british", "coalition", "or", "united", "nations", ",", "but", "by", "the", "iraqi", "people.", "that", "some", "of", "what", "the", "prime", "minister", "and", "president", "shared", "with", "reporters", "at", "news", "conference", "following", "their", "meetings.", "the", "president", "went", "on", "to", "say", "that", "an", "interim", "authority", "composed", "of", "iraq", "grs", "inside", "and", "outside", "the", "country", "will", "run", "iraq", "until", "a", "permanent", "government", "can", "be", "established.", "do", "you", "want", "to", "hang", "with", "the", "shot", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the iraqi people",
+  "sentence_length" : 240,
+  "mentionArg2" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNN_ENG_20030408_083034.11-E12-24",
+    "start" : 182,
+    "end" : 182
+  },
+  "relationID" : "CNN_ENG_20030408_083034.11-R5",
+  "mentionArg1" : {
+    "extent" : "the iraqi people",
+    "argMentionid" : "CNN_ENG_20030408_083034.11-E11-23",
+    "start" : 181,
+    "end" : 183
+  },
+  "id" : "CNN_ENG_20030408_083034.11-R5-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "a live picture of the president united states landing at an air field in northern ireland. once he gets out of the helicopter he 'll transfer to air force one to come home after a 20-hour visit with the prime minister of great britain. they talked about a lot of things , about what peace in the middle east could look like , what post-war iraq could look like. they talked about problems in northern ireland. we 're going to pause for a second to see if we see the president hopping off this chopper. as you probably know , the prime minister of the great britain has been under great pressure at home and much of europe to support giving the united nations a very strong role in stabilizing iraq. the white house had signaled consistently it wants the united states and great britain to create a lead role. we learned from john king , traveling with the president , that the new iraq run neither by u . s . / british coalition or united nations , but by the iraqi people. that some of what the prime minister and president shared with reporters at news conference following their meetings. the president went on to say that an interim authority composed of iraq grs inside and outside the country will run iraq until a permanent government can be established. do you want to hang with the shot ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "live", "picture", "of", "the", "president", "united", "states", "landing", "at", "an", "air", "field", "in", "northern", "ireland.", "once", "he", "gets", "out", "of", "the", "helicopter", "he", "'ll", "transfer", "to", "air", "force", "one", "to", "come", "home", "after", "a", "20-hour", "visit", "with", "the", "prime", "minister", "of", "great", "britain.", "they", "talked", "about", "a", "lot", "of", "things", ",", "about", "what", "peace", "in", "the", "middle", "east", "could", "look", "like", ",", "what", "post-war", "iraq", "could", "look", "like.", "they", "talked", "about", "problems", "in", "northern", "ireland.", "we", "'re", "going", "to", "pause", "for", "a", "second", "to", "see", "if", "we", "see", "the", "president", "hopping", "off", "this", "chopper.", "as", "you", "probably", "know", ",", "the", "prime", "minister", "of", "the", "great", "britain", "has", "been", "under", "great", "pressure", "at", "home", "and", "much", "of", "europe", "to", "support", "giving", "the", "united", "nations", "a", "very", "strong", "role", "in", "stabilizing", "iraq.", "the", "white", "house", "had", "signaled", "consistently", "it", "wants", "the", "united", "states", "and", "great", "britain", "to", "create", "a", "lead", "role.", "we", "learned", "from", "john", "king", ",", "traveling", "with", "the", "president", ",", "that", "the", "new", "iraq", "run", "neither", "by", "u", ".", "s", ".", "/", "british", "coalition", "or", "united", "nations", ",", "but", "by", "the", "iraqi", "people.", "that", "some", "of", "what", "the", "prime", "minister", "and", "president", "shared", "with", "reporters", "at", "news", "conference", "following", "their", "meetings.", "the", "president", "went", "on", "to", "say", "that", "an", "interim", "authority", "composed", "of", "iraq", "grs", "inside", "and", "outside", "the", "country", "will", "run", "iraq", "until", "a", "permanent", "government", "can", "be", "established.", "do", "you", "want", "to", "hang", "with", "the", "shot", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the president went on to say that an interim authority composed of iraq grs inside and outside the country will run iraq until a permanent government can be established",
+  "sentence_length" : 240,
+  "mentionArg2" : {
+    "extent" : "an interim authority composed of iraq grs inside and outside the country",
+    "argMentionid" : "CNN_ENG_20030408_083034.11-E13-29",
+    "start" : 209,
+    "end" : 220
+  },
+  "relationID" : "CNN_ENG_20030408_083034.11-R7",
+  "mentionArg1" : {
+    "extent" : "iraq grs inside and outside the country",
+    "argMentionid" : "CNN_ENG_20030408_083034.11-E14-30",
+    "start" : 214,
+    "end" : 220
+  },
+  "id" : "CNN_ENG_20030408_083034.11-R7-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "a live picture of the president united states landing at an air field in northern ireland. once he gets out of the helicopter he 'll transfer to air force one to come home after a 20-hour visit with the prime minister of great britain. they talked about a lot of things , about what peace in the middle east could look like , what post-war iraq could look like. they talked about problems in northern ireland. we 're going to pause for a second to see if we see the president hopping off this chopper. as you probably know , the prime minister of the great britain has been under great pressure at home and much of europe to support giving the united nations a very strong role in stabilizing iraq. the white house had signaled consistently it wants the united states and great britain to create a lead role. we learned from john king , traveling with the president , that the new iraq run neither by u . s . / british coalition or united nations , but by the iraqi people. that some of what the prime minister and president shared with reporters at news conference following their meetings. the president went on to say that an interim authority composed of iraq grs inside and outside the country will run iraq until a permanent government can be established. do you want to hang with the shot ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "live", "picture", "of", "the", "president", "united", "states", "landing", "at", "an", "air", "field", "in", "northern", "ireland.", "once", "he", "gets", "out", "of", "the", "helicopter", "he", "'ll", "transfer", "to", "air", "force", "one", "to", "come", "home", "after", "a", "20-hour", "visit", "with", "the", "prime", "minister", "of", "great", "britain.", "they", "talked", "about", "a", "lot", "of", "things", ",", "about", "what", "peace", "in", "the", "middle", "east", "could", "look", "like", ",", "what", "post-war", "iraq", "could", "look", "like.", "they", "talked", "about", "problems", "in", "northern", "ireland.", "we", "'re", "going", "to", "pause", "for", "a", "second", "to", "see", "if", "we", "see", "the", "president", "hopping", "off", "this", "chopper.", "as", "you", "probably", "know", ",", "the", "prime", "minister", "of", "the", "great", "britain", "has", "been", "under", "great", "pressure", "at", "home", "and", "much", "of", "europe", "to", "support", "giving", "the", "united", "nations", "a", "very", "strong", "role", "in", "stabilizing", "iraq.", "the", "white", "house", "had", "signaled", "consistently", "it", "wants", "the", "united", "states", "and", "great", "britain", "to", "create", "a", "lead", "role.", "we", "learned", "from", "john", "king", ",", "traveling", "with", "the", "president", ",", "that", "the", "new", "iraq", "run", "neither", "by", "u", ".", "s", ".", "/", "british", "coalition", "or", "united", "nations", ",", "but", "by", "the", "iraqi", "people.", "that", "some", "of", "what", "the", "prime", "minister", "and", "president", "shared", "with", "reporters", "at", "news", "conference", "following", "their", "meetings.", "the", "president", "went", "on", "to", "say", "that", "an", "interim", "authority", "composed", "of", "iraq", "grs", "inside", "and", "outside", "the", "country", "will", "run", "iraq", "until", "a", "permanent", "government", "can", "be", "established.", "do", "you", "want", "to", "hang", "with", "the", "shot", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "an iraqi dissident",
+  "sentence_length" : 185,
+  "mentionArg2" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNN_ENG_20030408_083034.11-E12-49",
+    "start" : 134,
+    "end" : 134
+  },
+  "relationID" : "CNN_ENG_20030408_083034.11-R8",
+  "mentionArg1" : {
+    "extent" : "an iraqi dissident",
+    "argMentionid" : "CNN_ENG_20030408_083034.11-E21-45",
+    "start" : 133,
+    "end" : 135
+  },
+  "id" : "CNN_ENG_20030408_083034.11-R8-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "okay , we 're going to stay with this shot. we 'll talk more about what the two leaders discussed at the joint news conference following their series of meetings. they really wanted to let folks who had any concerns about what the u . n. involvement might be to not worry. they said there will definitely be some kind of role for the united nations , they think it 's very important for the european nations to be on board with the plan , but once again , they very much view the future of iraq as being that in iraqi hands. the president greeting a number of dignitaries as he gets ready here to board air force one on his way home. a little earlier this morning , i spoke with an iraqi dissident who teaches at writes extensively on the middle east. he wrote a book called the republic of fear. the politics of modern iraq. and i asked him about the news that saddam hussein was targeted in yesterday 's strike and how iraqis would react if saddam was killed .",
+  "sentence_index" : 1,
+  "Tokens" : [ "okay", ",", "we", "'re", "going", "to", "stay", "with", "this", "shot.", "we", "'ll", "talk", "more", "about", "what", "the", "two", "leaders", "discussed", "at", "the", "joint", "news", "conference", "following", "their", "series", "of", "meetings.", "they", "really", "wanted", "to", "let", "folks", "who", "had", "any", "concerns", "about", "what", "the", "u", ".", "n.", "involvement", "might", "be", "to", "not", "worry.", "they", "said", "there", "will", "definitely", "be", "some", "kind", "of", "role", "for", "the", "united", "nations", ",", "they", "think", "it", "'s", "very", "important", "for", "the", "european", "nations", "to", "be", "on", "board", "with", "the", "plan", ",", "but", "once", "again", ",", "they", "very", "much", "view", "the", "future", "of", "iraq", "as", "being", "that", "in", "iraqi", "hands.", "the", "president", "greeting", "a", "number", "of", "dignitaries", "as", "he", "gets", "ready", "here", "to", "board", "air", "force", "one", "on", "his", "way", "home.", "a", "little", "earlier", "this", "morning", ",", "i", "spoke", "with", "an", "iraqi", "dissident", "who", "teaches", "at", "writes", "extensively", "on", "the", "middle", "east.", "he", "wrote", "a", "book", "called", "the", "republic", "of", "fear.", "the", "politics", "of", "modern", "iraq.", "and", "i", "asked", "him", "about", "the", "news", "that", "saddam", "hussein", "was", "targeted", "in", "yesterday", "'s", "strike", "and", "how", "iraqis", "would", "react", "if", "saddam", "was", "killed", "." ]
+} ]

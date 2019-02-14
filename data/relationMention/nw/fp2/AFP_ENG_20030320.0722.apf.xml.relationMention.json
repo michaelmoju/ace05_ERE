@@ -1,0 +1,1057 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "US military",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "AFP_ENG_20030320.0722-E6-31",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R1",
+  "mentionArg1" : {
+    "extent" : "US military",
+    "argMentionid" : "AFP_ENG_20030320.0722-E21-30",
+    "start" : 17,
+    "end" : 18
+  },
+  "id" : "AFP_ENG_20030320.0722-R1-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Saudi Arabia , however , expressed its \" deep concern \" and regret over the start of US military operations .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Saudi", "Arabia", ",", "however", ",", "expressed", "its", "\"", "deep", "concern", "\"", "and", "regret", "over", "the", "start", "of", "US", "military", "operations", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "US military",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "AFP_ENG_20030320.0722-E6-27",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R1",
+  "mentionArg1" : {
+    "extent" : "US military",
+    "argMentionid" : "AFP_ENG_20030320.0722-E21-26",
+    "start" : 22,
+    "end" : 23
+  },
+  "id" : "AFP_ENG_20030320.0722-R1-2",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "However , there were no reports of protests against the war from the Gulf states , many of whom are host to US military personnel .",
+  "sentence_index" : 3,
+  "Tokens" : [ "However", ",", "there", "were", "no", "reports", "of", "protests", "against", "the", "war", "from", "the", "Gulf", "states", ",", "many", "of", "whom", "are", "host", "to", "US", "military", "personnel", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Lebanese President Emile Lahoud",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Lebanese",
+    "argMentionid" : "AFP_ENG_20030320.0722-E37-45",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R2",
+  "mentionArg1" : {
+    "extent" : "Lebanese President Emile Lahoud",
+    "argMentionid" : "AFP_ENG_20030320.0722-E35-43",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "AFP_ENG_20030320.0722-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Lebanese President Emile Lahoud , meanwhile , was more forthright , strongly denouncing Washington 's \" aggression \" and warning that it could have repercussions beyond the borders of the pariah state .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Lebanese", "President", "Emile", "Lahoud", ",", "meanwhile", ",", "was", "more", "forthright", ",", "strongly", "denouncing", "Washington", "'s", "\"", "aggression", "\"", "and", "warning", "that", "it", "could", "have", "repercussions", "beyond", "the", "borders", "of", "the", "pariah", "state", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the borders of the pariah state",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "the pariah state",
+    "argMentionid" : "AFP_ENG_20030320.0722-E10-48",
+    "start" : 29,
+    "end" : 31
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R3",
+  "mentionArg1" : {
+    "extent" : "the borders of the pariah state",
+    "argMentionid" : "AFP_ENG_20030320.0722-E39-47",
+    "start" : 26,
+    "end" : 31
+  },
+  "id" : "AFP_ENG_20030320.0722-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Lebanese President Emile Lahoud , meanwhile , was more forthright , strongly denouncing Washington 's \" aggression \" and warning that it could have repercussions beyond the borders of the pariah state .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Lebanese", "President", "Emile", "Lahoud", ",", "meanwhile", ",", "was", "more", "forthright", ",", "strongly", "denouncing", "Washington", "'s", "\"", "aggression", "\"", "and", "warning", "that", "it", "could", "have", "repercussions", "beyond", "the", "borders", "of", "the", "pariah", "state", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Palestinian people",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "AFP_ENG_20030320.0722-E57-81",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R4",
+  "mentionArg1" : {
+    "extent" : "the Palestinian people",
+    "argMentionid" : "AFP_ENG_20030320.0722-E56-80",
+    "start" : 18,
+    "end" : 20
+  },
+  "id" : "AFP_ENG_20030320.0722-R4-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "\" We are warning Israel not to exploit this war against Iraq to carry out more attacks against the Palestinian people in the Gaza Strip and destroy the Palestinian Authority and the peace process , \" he said .",
+  "sentence_index" : 13,
+  "Tokens" : [ "\"", "We", "are", "warning", "Israel", "not", "to", "exploit", "this", "war", "against", "Iraq", "to", "carry", "out", "more", "attacks", "against", "the", "Palestinian", "people", "in", "the", "Gaza", "Strip", "and", "destroy", "the", "Palestinian", "Authority", "and", "the", "peace", "process", ",", "\"", "he", "said", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "some 500 Jordanian lawyers",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "Jordanian",
+    "argMentionid" : "AFP_ENG_20030320.0722-E113-169",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R5",
+  "mentionArg1" : {
+    "extent" : "some 500 Jordanian lawyers",
+    "argMentionid" : "AFP_ENG_20030320.0722-E112-168",
+    "start" : 8,
+    "end" : 11
+  },
+  "id" : "AFP_ENG_20030320.0722-R5-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "In Amman , three protestors were hospitalised after some 500 Jordanian lawyers staged a sit-in at the main court house after being forcibly blocked by riot police from marching towards the Iraqi embassy to show their solidarity .",
+  "sentence_index" : 24,
+  "Tokens" : [ "In", "Amman", ",", "three", "protestors", "were", "hospitalised", "after", "some", "500", "Jordanian", "lawyers", "staged", "a", "sit-in", "at", "the", "main", "court", "house", "after", "being", "forcibly", "blocked", "by", "riot", "police", "from", "marching", "towards", "the", "Iraqi", "embassy", "to", "show", "their", "solidarity", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Hamas senior official Abdul Aziz al-Rantissi",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Hamas",
+    "argMentionid" : "AFP_ENG_20030320.0722-E62-101",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R6",
+  "mentionArg1" : {
+    "extent" : "Hamas senior official",
+    "argMentionid" : "AFP_ENG_20030320.0722-E68-100",
+    "start" : 26,
+    "end" : 28
+  },
+  "id" : "AFP_ENG_20030320.0722-R6-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "\" The aggression by the vile Americans and the war against Iraq signifies a war against all Arabs and Muslims around the world , \" said Hamas senior official Abdul Aziz al-Rantissi .",
+  "sentence_index" : 15,
+  "Tokens" : [ "\"", "The", "aggression", "by", "the", "vile", "Americans", "and", "the", "war", "against", "Iraq", "signifies", "a", "war", "against", "all", "Arabs", "and", "Muslims", "around", "the", "world", ",", "\"", "said", "Hamas", "senior", "official", "Abdul", "Aziz", "al-Rantissi", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Palestinian Authority",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "AFP_ENG_20030320.0722-E57-84",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R7",
+  "mentionArg1" : {
+    "extent" : "the Palestinian Authority",
+    "argMentionid" : "AFP_ENG_20030320.0722-E147-83",
+    "start" : 27,
+    "end" : 29
+  },
+  "id" : "AFP_ENG_20030320.0722-R7-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "\" We are warning Israel not to exploit this war against Iraq to carry out more attacks against the Palestinian people in the Gaza Strip and destroy the Palestinian Authority and the peace process , \" he said .",
+  "sentence_index" : 13,
+  "Tokens" : [ "\"", "We", "are", "warning", "Israel", "not", "to", "exploit", "this", "war", "against", "Iraq", "to", "carry", "out", "more", "attacks", "against", "the", "Palestinian", "people", "in", "the", "Gaza", "Strip", "and", "destroy", "the", "Palestinian", "Authority", "and", "the", "peace", "process", ",", "\"", "he", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Palestinian Authority",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "AFP_ENG_20030320.0722-E57-211",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R7",
+  "mentionArg1" : {
+    "extent" : "the Palestinian Authority",
+    "argMentionid" : "AFP_ENG_20030320.0722-E147-210",
+    "start" : 2,
+    "end" : 4
+  },
+  "id" : "AFP_ENG_20030320.0722-R7-2",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Lebanon and the Palestinian Authority issued fierce denunciations of the US-led attacks , while the Egyptian government daily Al-Ahram warned it marked \" the beginning an era of US colonisation that will benefit only Israel \" .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Lebanon", "and", "the", "Palestinian", "Authority", "issued", "fierce", "denunciations", "of", "the", "US-led", "attacks", ",", "while", "the", "Egyptian", "government", "daily", "Al-Ahram", "warned", "it", "marked", "\"", "the", "beginning", "an", "era", "of", "US", "colonisation", "that", "will", "benefit", "only", "Israel", "\"", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Egyptian government",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Egyptian",
+    "argMentionid" : "AFP_ENG_20030320.0722-E4-6",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R8",
+  "mentionArg1" : {
+    "extent" : "Egyptian government",
+    "argMentionid" : "AFP_ENG_20030320.0722-E3-5",
+    "start" : 15,
+    "end" : 16
+  },
+  "id" : "AFP_ENG_20030320.0722-R8-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Lebanon and the Palestinian Authority issued fierce denunciations of the US-led attacks , while the Egyptian government daily Al-Ahram warned it marked \" the beginning an era of US colonisation that will benefit only Israel \" .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Lebanon", "and", "the", "Palestinian", "Authority", "issued", "fierce", "denunciations", "of", "the", "US-led", "attacks", ",", "while", "the", "Egyptian", "government", "daily", "Al-Ahram", "warned", "it", "marked", "\"", "the", "beginning", "an", "era", "of", "US", "colonisation", "that", "will", "benefit", "only", "Israel", "\"", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Egyptian government daily",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Egyptian government",
+    "argMentionid" : "AFP_ENG_20030320.0722-E3-5",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R9",
+  "mentionArg1" : {
+    "extent" : "the Egyptian government daily",
+    "argMentionid" : "AFP_ENG_20030320.0722-E1-3",
+    "start" : 14,
+    "end" : 17
+  },
+  "id" : "AFP_ENG_20030320.0722-R9-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Lebanon and the Palestinian Authority issued fierce denunciations of the US-led attacks , while the Egyptian government daily Al-Ahram warned it marked \" the beginning an era of US colonisation that will benefit only Israel \" .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Lebanon", "and", "the", "Palestinian", "Authority", "issued", "fierce", "denunciations", "of", "the", "US-led", "attacks", ",", "while", "the", "Egyptian", "government", "daily", "Al-Ahram", "warned", "it", "marked", "\"", "the", "beginning", "an", "era", "of", "US", "colonisation", "that", "will", "benefit", "only", "Israel", "\"", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Egyptian government daily",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Egyptian",
+    "argMentionid" : "AFP_ENG_20030320.0722-E4-6",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R10",
+  "mentionArg1" : {
+    "extent" : "the Egyptian government daily",
+    "argMentionid" : "AFP_ENG_20030320.0722-E1-3",
+    "start" : 14,
+    "end" : 17
+  },
+  "id" : "AFP_ENG_20030320.0722-R10-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Lebanon and the Palestinian Authority issued fierce denunciations of the US-led attacks , while the Egyptian government daily Al-Ahram warned it marked \" the beginning an era of US colonisation that will benefit only Israel \" .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Lebanon", "and", "the", "Palestinian", "Authority", "issued", "fierce", "denunciations", "of", "the", "US-led", "attacks", ",", "while", "the", "Egyptian", "government", "daily", "Al-Ahram", "warned", "it", "marked", "\"", "the", "beginning", "an", "era", "of", "US", "colonisation", "that", "will", "benefit", "only", "Israel", "\"", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iraqi President Saddam Hussein",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "AFP_ENG_20030320.0722-E10-11",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R11",
+  "mentionArg1" : {
+    "extent" : "Iraqi President Saddam Hussein",
+    "argMentionid" : "AFP_ENG_20030320.0722-E8-9",
+    "start" : 7,
+    "end" : 10
+  },
+  "id" : "AFP_ENG_20030320.0722-R11-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Protests against the action aimed at toppling Iraqi President Saddam Hussein were held in cities across Libya , Egypt and Lebanon , as well as in Amman , Damascus and the Gaza Strip .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Protests", "against", "the", "action", "aimed", "at", "toppling", "Iraqi", "President", "Saddam", "Hussein", "were", "held", "in", "cities", "across", "Libya", ",", "Egypt", "and", "Lebanon", ",", "as", "well", "as", "in", "Amman", ",", "Damascus", "and", "the", "Gaza", "Strip", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "cities across Libya, Egypt and Lebanon",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "Libya",
+    "argMentionid" : "AFP_ENG_20030320.0722-E12-13",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R12",
+  "mentionArg1" : {
+    "extent" : "cities across Libya, Egypt and Lebanon",
+    "argMentionid" : "AFP_ENG_20030320.0722-E11-12",
+    "start" : 14,
+    "end" : 20
+  },
+  "id" : "AFP_ENG_20030320.0722-R12-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Protests against the action aimed at toppling Iraqi President Saddam Hussein were held in cities across Libya , Egypt and Lebanon , as well as in Amman , Damascus and the Gaza Strip .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Protests", "against", "the", "action", "aimed", "at", "toppling", "Iraqi", "President", "Saddam", "Hussein", "were", "held", "in", "cities", "across", "Libya", ",", "Egypt", "and", "Lebanon", ",", "as", "well", "as", "in", "Amman", ",", "Damascus", "and", "the", "Gaza", "Strip", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "US military personnel",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "AFP_ENG_20030320.0722-E6-27",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R13",
+  "mentionArg1" : {
+    "extent" : "US military personnel",
+    "argMentionid" : "AFP_ENG_20030320.0722-E20-25",
+    "start" : 22,
+    "end" : 24
+  },
+  "id" : "AFP_ENG_20030320.0722-R13-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "However , there were no reports of protests against the war from the Gulf states , many of whom are host to US military personnel .",
+  "sentence_index" : 3,
+  "Tokens" : [ "However", ",", "there", "were", "no", "reports", "of", "protests", "against", "the", "war", "from", "the", "Gulf", "states", ",", "many", "of", "whom", "are", "host", "to", "US", "military", "personnel", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "all Arab states",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "all Arab states",
+    "argMentionid" : "AFP_ENG_20030320.0722-E71-102",
+    "start" : 7,
+    "end" : 9
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R14",
+  "mentionArg1" : {
+    "extent" : "Arab",
+    "argMentionid" : "AFP_ENG_20030320.0722-E72-103",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "AFP_ENG_20030320.0722-R14-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The war \" shows the impotence of all Arab states .",
+  "sentence_index" : 16,
+  "Tokens" : [ "The", "war", "\"", "shows", "the", "impotence", "of", "all", "Arab", "states", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "all Arab states",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "all Arab states",
+    "argMentionid" : "AFP_ENG_20030320.0722-E71-105",
+    "start" : 3,
+    "end" : 5
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R14",
+  "mentionArg1" : {
+    "extent" : "Arab",
+    "argMentionid" : "AFP_ENG_20030320.0722-E72-106",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "AFP_ENG_20030320.0722-R14-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "We call on all Arab states to act immediately to defend Iraq and counter the US war , \" he said .",
+  "sentence_index" : 17,
+  "Tokens" : [ "We", "call", "on", "all", "Arab", "states", "to", "act", "immediately", "to", "defend", "Iraq", "and", "counter", "the", "US", "war", ",", "\"", "he", "said", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "State radio in Syria",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Syria",
+    "argMentionid" : "AFP_ENG_20030320.0722-E81-120",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R15",
+  "mentionArg1" : {
+    "extent" : "State radio in Syria",
+    "argMentionid" : "AFP_ENG_20030320.0722-E79-118",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "AFP_ENG_20030320.0722-R15-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "State radio in Syria accused the United States and its allies of wanting to get their \" hands on Iraq 's oil and wealth and impose their hegemony on the world \" .",
+  "sentence_index" : 19,
+  "Tokens" : [ "State", "radio", "in", "Syria", "accused", "the", "United", "States", "and", "its", "allies", "of", "wanting", "to", "get", "their", "\"", "hands", "on", "Iraq", "'s", "oil", "and", "wealth", "and", "impose", "their", "hegemony", "on", "the", "world", "\"", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "State radio in Syria",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "State",
+    "argMentionid" : "AFP_ENG_20030320.0722-E80-119",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R16",
+  "mentionArg1" : {
+    "extent" : "State radio in Syria",
+    "argMentionid" : "AFP_ENG_20030320.0722-E79-118",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "AFP_ENG_20030320.0722-R16-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "State radio in Syria accused the United States and its allies of wanting to get their \" hands on Iraq 's oil and wealth and impose their hegemony on the world \" .",
+  "sentence_index" : 19,
+  "Tokens" : [ "State", "radio", "in", "Syria", "accused", "the", "United", "States", "and", "its", "allies", "of", "wanting", "to", "get", "their", "\"", "hands", "on", "Iraq", "'s", "oil", "and", "wealth", "and", "impose", "their", "hegemony", "on", "the", "world", "\"", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Egyptian capital",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Egyptian",
+    "argMentionid" : "AFP_ENG_20030320.0722-E4-129",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R17",
+  "mentionArg1" : {
+    "extent" : "the Egyptian capital",
+    "argMentionid" : "AFP_ENG_20030320.0722-E29-128",
+    "start" : 1,
+    "end" : 3
+  },
+  "id" : "AFP_ENG_20030320.0722-R17-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "In the Egyptian capital , 10 demonstrators and at least four policeman were injured in clashes after several thousand demonstrators took to the streets near the US and British embassies .",
+  "sentence_index" : 20,
+  "Tokens" : [ "In", "the", "Egyptian", "capital", ",", "10", "demonstrators", "and", "at", "least", "four", "policeman", "were", "injured", "in", "clashes", "after", "several", "thousand", "demonstrators", "took", "to", "the", "streets", "near", "the", "US", "and", "British", "embassies", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the streets near the US and British embassies",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "the US and British embassies",
+    "argMentionid" : "AFP_ENG_20030320.0722-E88-134",
+    "start" : 25,
+    "end" : 29
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R18",
+  "mentionArg1" : {
+    "extent" : "the streets near the US and British embassies",
+    "argMentionid" : "AFP_ENG_20030320.0722-E87-133",
+    "start" : 22,
+    "end" : 29
+  },
+  "id" : "AFP_ENG_20030320.0722-R18-1",
+  "relationSubType" : "Near",
+  "Sentence" : "In the Egyptian capital , 10 demonstrators and at least four policeman were injured in clashes after several thousand demonstrators took to the streets near the US and British embassies .",
+  "sentence_index" : 20,
+  "Tokens" : [ "In", "the", "Egyptian", "capital", ",", "10", "demonstrators", "and", "at", "least", "four", "policeman", "were", "injured", "in", "clashes", "after", "several", "thousand", "demonstrators", "took", "to", "the", "streets", "near", "the", "US", "and", "British", "embassies", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the US and British embassies",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "the US and British embassies",
+    "argMentionid" : "AFP_ENG_20030320.0722-E88-134",
+    "start" : 25,
+    "end" : 29
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R19",
+  "mentionArg1" : {
+    "extent" : "US",
+    "argMentionid" : "AFP_ENG_20030320.0722-E6-135",
+    "start" : 26,
+    "end" : 26
+  },
+  "id" : "AFP_ENG_20030320.0722-R19-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "In the Egyptian capital , 10 demonstrators and at least four policeman were injured in clashes after several thousand demonstrators took to the streets near the US and British embassies .",
+  "sentence_index" : 20,
+  "Tokens" : [ "In", "the", "Egyptian", "capital", ",", "10", "demonstrators", "and", "at", "least", "four", "policeman", "were", "injured", "in", "clashes", "after", "several", "thousand", "demonstrators", "took", "to", "the", "streets", "near", "the", "US", "and", "British", "embassies", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "hundreds of students from the American University in Cairo",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "the American University in Cairo",
+    "argMentionid" : "AFP_ENG_20030320.0722-E95-141",
+    "start" : 13,
+    "end" : 17
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R20",
+  "mentionArg1" : {
+    "extent" : "hundreds of students from the American University in Cairo",
+    "argMentionid" : "AFP_ENG_20030320.0722-E94-140",
+    "start" : 9,
+    "end" : 17
+  },
+  "id" : "AFP_ENG_20030320.0722-R20-1",
+  "relationSubType" : "Student-Alum",
+  "Sentence" : "Riot police intervened after the protestors , who included hundreds of students from the American University in Cairo , rallied on the city 's central Tahrir Square , close to both the university campus and the US embassy .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Riot", "police", "intervened", "after", "the", "protestors", ",", "who", "included", "hundreds", "of", "students", "from", "the", "American", "University", "in", "Cairo", ",", "rallied", "on", "the", "city", "'s", "central", "Tahrir", "Square", ",", "close", "to", "both", "the", "university", "campus", "and", "the", "US", "embassy", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the American University in Cairo",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "Cairo",
+    "argMentionid" : "AFP_ENG_20030320.0722-E29-143",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R21",
+  "mentionArg1" : {
+    "extent" : "the American University in Cairo",
+    "argMentionid" : "AFP_ENG_20030320.0722-E95-141",
+    "start" : 13,
+    "end" : 17
+  },
+  "id" : "AFP_ENG_20030320.0722-R21-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Riot police intervened after the protestors , who included hundreds of students from the American University in Cairo , rallied on the city 's central Tahrir Square , close to both the university campus and the US embassy .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Riot", "police", "intervened", "after", "the", "protestors", ",", "who", "included", "hundreds", "of", "students", "from", "the", "American", "University", "in", "Cairo", ",", "rallied", "on", "the", "city", "'s", "central", "Tahrir", "Square", ",", "close", "to", "both", "the", "university", "campus", "and", "the", "US", "embassy", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the city's central Tahrir Square, close to both the university campus and the US embassy",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "the city's",
+    "argMentionid" : "AFP_ENG_20030320.0722-E29-145",
+    "start" : 21,
+    "end" : 23
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R22",
+  "mentionArg1" : {
+    "extent" : "the city's central Tahrir Square, close to both the university campus and the US embassy",
+    "argMentionid" : "AFP_ENG_20030320.0722-E96-144",
+    "start" : 21,
+    "end" : 37
+  },
+  "id" : "AFP_ENG_20030320.0722-R22-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Riot police intervened after the protestors , who included hundreds of students from the American University in Cairo , rallied on the city 's central Tahrir Square , close to both the university campus and the US embassy .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Riot", "police", "intervened", "after", "the", "protestors", ",", "who", "included", "hundreds", "of", "students", "from", "the", "American", "University", "in", "Cairo", ",", "rallied", "on", "the", "city", "'s", "central", "Tahrir", "Square", ",", "close", "to", "both", "the", "university", "campus", "and", "the", "US", "embassy", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the city's central Tahrir Square, close to both the university campus and the US embassy",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "the university campus",
+    "argMentionid" : "AFP_ENG_20030320.0722-E97-146",
+    "start" : 31,
+    "end" : 33
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R23",
+  "mentionArg1" : {
+    "extent" : "the city's central Tahrir Square, close to both the university campus and the US embassy",
+    "argMentionid" : "AFP_ENG_20030320.0722-E96-144",
+    "start" : 21,
+    "end" : 37
+  },
+  "id" : "AFP_ENG_20030320.0722-R23-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Riot police intervened after the protestors , who included hundreds of students from the American University in Cairo , rallied on the city 's central Tahrir Square , close to both the university campus and the US embassy .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Riot", "police", "intervened", "after", "the", "protestors", ",", "who", "included", "hundreds", "of", "students", "from", "the", "American", "University", "in", "Cairo", ",", "rallied", "on", "the", "city", "'s", "central", "Tahrir", "Square", ",", "close", "to", "both", "the", "university", "campus", "and", "the", "US", "embassy", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the university campus",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "the university campus",
+    "argMentionid" : "AFP_ENG_20030320.0722-E97-146",
+    "start" : 31,
+    "end" : 33
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R24",
+  "mentionArg1" : {
+    "extent" : "university",
+    "argMentionid" : "AFP_ENG_20030320.0722-E95-147",
+    "start" : 32,
+    "end" : 32
+  },
+  "id" : "AFP_ENG_20030320.0722-R24-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Riot police intervened after the protestors , who included hundreds of students from the American University in Cairo , rallied on the city 's central Tahrir Square , close to both the university campus and the US embassy .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Riot", "police", "intervened", "after", "the", "protestors", ",", "who", "included", "hundreds", "of", "students", "from", "the", "American", "University", "in", "Cairo", ",", "rallied", "on", "the", "city", "'s", "central", "Tahrir", "Square", ",", "close", "to", "both", "the", "university", "campus", "and", "the", "US", "embassy", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the Iraqi embassy",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "the Iraqi embassy",
+    "argMentionid" : "AFP_ENG_20030320.0722-E116-172",
+    "start" : 30,
+    "end" : 32
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R25",
+  "mentionArg1" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "AFP_ENG_20030320.0722-E10-173",
+    "start" : 31,
+    "end" : 31
+  },
+  "id" : "AFP_ENG_20030320.0722-R25-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "In Amman , three protestors were hospitalised after some 500 Jordanian lawyers staged a sit-in at the main court house after being forcibly blocked by riot police from marching towards the Iraqi embassy to show their solidarity .",
+  "sentence_index" : 24,
+  "Tokens" : [ "In", "Amman", ",", "three", "protestors", "were", "hospitalised", "after", "some", "500", "Jordanian", "lawyers", "staged", "a", "sit-in", "at", "the", "main", "court", "house", "after", "being", "forcibly", "blocked", "by", "riot", "police", "from", "marching", "towards", "the", "Iraqi", "embassy", "to", "show", "their", "solidarity", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Cairo's Al-Azhar Islamic University",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Cairo's",
+    "argMentionid" : "AFP_ENG_20030320.0722-E29-153",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R26",
+  "mentionArg1" : {
+    "extent" : "Cairo's Al-Azhar Islamic University",
+    "argMentionid" : "AFP_ENG_20030320.0722-E102-152",
+    "start" : 7,
+    "end" : 11
+  },
+  "id" : "AFP_ENG_20030320.0722-R26-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "More than 1,000 people also gathered at Cairo 's Al-Azhar Islamic University , where they burned an American flag and demanded the expulsion of the ambassadors of the United States , Britain , Spain and Israel .",
+  "sentence_index" : 22,
+  "Tokens" : [ "More", "than", "1,000", "people", "also", "gathered", "at", "Cairo", "'s", "Al-Azhar", "Islamic", "University", ",", "where", "they", "burned", "an", "American", "flag", "and", "demanded", "the", "expulsion", "of", "the", "ambassadors", "of", "the", "United", "States", ",", "Britain", ",", "Spain", "and", "Israel", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the ambassadors of the United States, Britain, Spain and Israel",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "the United States",
+    "argMentionid" : "AFP_ENG_20030320.0722-E6-158",
+    "start" : 27,
+    "end" : 29
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R27",
+  "mentionArg1" : {
+    "extent" : "the ambassadors of the United States, Britain, Spain and Israel",
+    "argMentionid" : "AFP_ENG_20030320.0722-E104-157",
+    "start" : 24,
+    "end" : 35
+  },
+  "id" : "AFP_ENG_20030320.0722-R27-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "More than 1,000 people also gathered at Cairo 's Al-Azhar Islamic University , where they burned an American flag and demanded the expulsion of the ambassadors of the United States , Britain , Spain and Israel .",
+  "sentence_index" : 22,
+  "Tokens" : [ "More", "than", "1,000", "people", "also", "gathered", "at", "Cairo", "'s", "Al-Azhar", "Islamic", "University", ",", "where", "they", "burned", "an", "American", "flag", "and", "demanded", "the", "expulsion", "of", "the", "ambassadors", "of", "the", "United", "States", ",", "Britain", ",", "Spain", "and", "Israel", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the northern Egyptian cities of Alexandria, Tanta and Kafr el-Sheikh",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Egyptian",
+    "argMentionid" : "AFP_ENG_20030320.0722-E4-162",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R28",
+  "mentionArg1" : {
+    "extent" : "the northern Egyptian cities of Alexandria, Tanta and Kafr el-Sheikh",
+    "argMentionid" : "AFP_ENG_20030320.0722-E106-161",
+    "start" : 5,
+    "end" : 15
+  },
+  "id" : "AFP_ENG_20030320.0722-R28-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Demonstrations also took place in the northern Egyptian cities of Alexandria , Tanta and Kafr el-Sheikh .",
+  "sentence_index" : 23,
+  "Tokens" : [ "Demonstrations", "also", "took", "place", "in", "the", "northern", "Egyptian", "cities", "of", "Alexandria", ",", "Tanta", "and", "Kafr", "el-Sheikh", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In Lebanon, hundreds of students gathered on the campuses of the Arab University of Beirut and the American University of Beirut calling for the assassination of US President George W. Bush and British Prime Minister Tony Blair",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "Lebanon",
+    "argMentionid" : "AFP_ENG_20030320.0722-E37-175",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R29",
+  "mentionArg1" : {
+    "extent" : "hundreds of students",
+    "argMentionid" : "AFP_ENG_20030320.0722-E118-176",
+    "start" : 3,
+    "end" : 5
+  },
+  "id" : "AFP_ENG_20030320.0722-R29-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In Lebanon , hundreds of students gathered on the campuses of the Arab University of Beirut and the American University of Beirut calling for the assassination of US President George W. Bush and British Prime Minister Tony Blair .",
+  "sentence_index" : 25,
+  "Tokens" : [ "In", "Lebanon", ",", "hundreds", "of", "students", "gathered", "on", "the", "campuses", "of", "the", "Arab", "University", "of", "Beirut", "and", "the", "American", "University", "of", "Beirut", "calling", "for", "the", "assassination", "of", "US", "President", "George", "W.", "Bush", "and", "British", "Prime", "Minister", "Tony", "Blair", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the campuses of the Arab University of Beirut and the American University of Beirut",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "the campuses of the Arab University of Beirut and the American University of Beirut",
+    "argMentionid" : "AFP_ENG_20030320.0722-E119-177",
+    "start" : 8,
+    "end" : 21
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R30",
+  "mentionArg1" : {
+    "extent" : "the Arab University of Beirut",
+    "argMentionid" : "AFP_ENG_20030320.0722-E120-178",
+    "start" : 11,
+    "end" : 15
+  },
+  "id" : "AFP_ENG_20030320.0722-R30-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "In Lebanon , hundreds of students gathered on the campuses of the Arab University of Beirut and the American University of Beirut calling for the assassination of US President George W. Bush and British Prime Minister Tony Blair .",
+  "sentence_index" : 25,
+  "Tokens" : [ "In", "Lebanon", ",", "hundreds", "of", "students", "gathered", "on", "the", "campuses", "of", "the", "Arab", "University", "of", "Beirut", "and", "the", "American", "University", "of", "Beirut", "calling", "for", "the", "assassination", "of", "US", "President", "George", "W.", "Bush", "and", "British", "Prime", "Minister", "Tony", "Blair", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Arab University of Beirut",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "Beirut",
+    "argMentionid" : "AFP_ENG_20030320.0722-E122-180",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R31",
+  "mentionArg1" : {
+    "extent" : "the Arab University of Beirut",
+    "argMentionid" : "AFP_ENG_20030320.0722-E120-178",
+    "start" : 11,
+    "end" : 15
+  },
+  "id" : "AFP_ENG_20030320.0722-R31-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "In Lebanon , hundreds of students gathered on the campuses of the Arab University of Beirut and the American University of Beirut calling for the assassination of US President George W. Bush and British Prime Minister Tony Blair .",
+  "sentence_index" : 25,
+  "Tokens" : [ "In", "Lebanon", ",", "hundreds", "of", "students", "gathered", "on", "the", "campuses", "of", "the", "Arab", "University", "of", "Beirut", "and", "the", "American", "University", "of", "Beirut", "calling", "for", "the", "assassination", "of", "US", "President", "George", "W.", "Bush", "and", "British", "Prime", "Minister", "Tony", "Blair", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "US President George W. Bush",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "AFP_ENG_20030320.0722-E6-186",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R32",
+  "mentionArg1" : {
+    "extent" : "US President George W. Bush",
+    "argMentionid" : "AFP_ENG_20030320.0722-E126-184",
+    "start" : 27,
+    "end" : 31
+  },
+  "id" : "AFP_ENG_20030320.0722-R32-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "In Lebanon , hundreds of students gathered on the campuses of the Arab University of Beirut and the American University of Beirut calling for the assassination of US President George W. Bush and British Prime Minister Tony Blair .",
+  "sentence_index" : 25,
+  "Tokens" : [ "In", "Lebanon", ",", "hundreds", "of", "students", "gathered", "on", "the", "campuses", "of", "the", "Arab", "University", "of", "Beirut", "and", "the", "American", "University", "of", "Beirut", "calling", "for", "the", "assassination", "of", "US", "President", "George", "W.", "Bush", "and", "British", "Prime", "Minister", "Tony", "Blair", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "British Prime Minister Tony Blair",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "AFP_ENG_20030320.0722-E90-189",
+    "start" : 33,
+    "end" : 33
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R33",
+  "mentionArg1" : {
+    "extent" : "British Prime Minister Tony Blair",
+    "argMentionid" : "AFP_ENG_20030320.0722-E129-187",
+    "start" : 33,
+    "end" : 37
+  },
+  "id" : "AFP_ENG_20030320.0722-R33-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "In Lebanon , hundreds of students gathered on the campuses of the Arab University of Beirut and the American University of Beirut calling for the assassination of US President George W. Bush and British Prime Minister Tony Blair .",
+  "sentence_index" : 25,
+  "Tokens" : [ "In", "Lebanon", ",", "hundreds", "of", "students", "gathered", "on", "the", "campuses", "of", "the", "Arab", "University", "of", "Beirut", "and", "the", "American", "University", "of", "Beirut", "calling", "for", "the", "assassination", "of", "US", "President", "George", "W.", "Bush", "and", "British", "Prime", "Minister", "Tony", "Blair", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "South of the capital in Sidon, some 1,500 schoolboys denounced \"the Bush assassin\" and the \"silence of the Arab leaders who sold out Iraq",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Sidon",
+    "argMentionid" : "AFP_ENG_20030320.0722-E132-191",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R34",
+  "mentionArg1" : {
+    "extent" : "the capital",
+    "argMentionid" : "AFP_ENG_20030320.0722-E122-190",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "AFP_ENG_20030320.0722-R34-1",
+  "relationSubType" : "Near",
+  "Sentence" : "South of the capital in Sidon , some 1,500 schoolboys denounced \" the Bush assassin \" and the \" silence of the Arab leaders who sold out Iraq \" .",
+  "sentence_index" : 26,
+  "Tokens" : [ "South", "of", "the", "capital", "in", "Sidon", ",", "some", "1,500", "schoolboys", "denounced", "\"", "the", "Bush", "assassin", "\"", "and", "the", "\"", "silence", "of", "the", "Arab", "leaders", "who", "sold", "out", "Iraq", "\"", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "South of the capital in Sidon, some 1,500 schoolboys denounced \"the Bush assassin\" and the \"silence of the Arab leaders who sold out Iraq",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Sidon",
+    "argMentionid" : "AFP_ENG_20030320.0722-E132-191",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R35",
+  "mentionArg1" : {
+    "extent" : "some 1,500 schoolboys",
+    "argMentionid" : "AFP_ENG_20030320.0722-E133-192",
+    "start" : 7,
+    "end" : 9
+  },
+  "id" : "AFP_ENG_20030320.0722-R35-1",
+  "relationSubType" : "Located",
+  "Sentence" : "South of the capital in Sidon , some 1,500 schoolboys denounced \" the Bush assassin \" and the \" silence of the Arab leaders who sold out Iraq \" .",
+  "sentence_index" : 26,
+  "Tokens" : [ "South", "of", "the", "capital", "in", "Sidon", ",", "some", "1,500", "schoolboys", "denounced", "\"", "the", "Bush", "assassin", "\"", "and", "the", "\"", "silence", "of", "the", "Arab", "leaders", "who", "sold", "out", "Iraq", "\"", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "cities across Libya, Egypt and Lebanon",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "Egypt",
+    "argMentionid" : "AFP_ENG_20030320.0722-E4-14",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R37",
+  "mentionArg1" : {
+    "extent" : "cities across Libya, Egypt and Lebanon",
+    "argMentionid" : "AFP_ENG_20030320.0722-E11-12",
+    "start" : 14,
+    "end" : 20
+  },
+  "id" : "AFP_ENG_20030320.0722-R37-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Protests against the action aimed at toppling Iraqi President Saddam Hussein were held in cities across Libya , Egypt and Lebanon , as well as in Amman , Damascus and the Gaza Strip .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Protests", "against", "the", "action", "aimed", "at", "toppling", "Iraqi", "President", "Saddam", "Hussein", "were", "held", "in", "cities", "across", "Libya", ",", "Egypt", "and", "Lebanon", ",", "as", "well", "as", "in", "Amman", ",", "Damascus", "and", "the", "Gaza", "Strip", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "cities across Libya, Egypt and Lebanon",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "Lebanon",
+    "argMentionid" : "AFP_ENG_20030320.0722-E37-15",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R38",
+  "mentionArg1" : {
+    "extent" : "cities across Libya, Egypt and Lebanon",
+    "argMentionid" : "AFP_ENG_20030320.0722-E11-12",
+    "start" : 14,
+    "end" : 20
+  },
+  "id" : "AFP_ENG_20030320.0722-R38-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Protests against the action aimed at toppling Iraqi President Saddam Hussein were held in cities across Libya , Egypt and Lebanon , as well as in Amman , Damascus and the Gaza Strip .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Protests", "against", "the", "action", "aimed", "at", "toppling", "Iraqi", "President", "Saddam", "Hussein", "were", "held", "in", "cities", "across", "Libya", ",", "Egypt", "and", "Lebanon", ",", "as", "well", "as", "in", "Amman", ",", "Damascus", "and", "the", "Gaza", "Strip", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the US and British embassies",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "the US and British embassies",
+    "argMentionid" : "AFP_ENG_20030320.0722-E88-134",
+    "start" : 25,
+    "end" : 29
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R41",
+  "mentionArg1" : {
+    "extent" : "British",
+    "argMentionid" : "AFP_ENG_20030320.0722-E90-136",
+    "start" : 28,
+    "end" : 28
+  },
+  "id" : "AFP_ENG_20030320.0722-R41-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "In the Egyptian capital , 10 demonstrators and at least four policeman were injured in clashes after several thousand demonstrators took to the streets near the US and British embassies .",
+  "sentence_index" : 20,
+  "Tokens" : [ "In", "the", "Egyptian", "capital", ",", "10", "demonstrators", "and", "at", "least", "four", "policeman", "were", "injured", "in", "clashes", "after", "several", "thousand", "demonstrators", "took", "to", "the", "streets", "near", "the", "US", "and", "British", "embassies", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the city's central Tahrir Square, close to both the university campus and the US embassy",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "the US embassy",
+    "argMentionid" : "AFP_ENG_20030320.0722-E99-149",
+    "start" : 35,
+    "end" : 37
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R42",
+  "mentionArg1" : {
+    "extent" : "the city's",
+    "argMentionid" : "AFP_ENG_20030320.0722-E29-145",
+    "start" : 21,
+    "end" : 23
+  },
+  "id" : "AFP_ENG_20030320.0722-R42-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Riot police intervened after the protestors , who included hundreds of students from the American University in Cairo , rallied on the city 's central Tahrir Square , close to both the university campus and the US embassy .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Riot", "police", "intervened", "after", "the", "protestors", ",", "who", "included", "hundreds", "of", "students", "from", "the", "American", "University", "in", "Cairo", ",", "rallied", "on", "the", "city", "'s", "central", "Tahrir", "Square", ",", "close", "to", "both", "the", "university", "campus", "and", "the", "US", "embassy", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the US embassy",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "the US embassy",
+    "argMentionid" : "AFP_ENG_20030320.0722-E99-149",
+    "start" : 35,
+    "end" : 37
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R43",
+  "mentionArg1" : {
+    "extent" : "US",
+    "argMentionid" : "AFP_ENG_20030320.0722-E6-150",
+    "start" : 36,
+    "end" : 36
+  },
+  "id" : "AFP_ENG_20030320.0722-R43-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Riot police intervened after the protestors , who included hundreds of students from the American University in Cairo , rallied on the city 's central Tahrir Square , close to both the university campus and the US embassy .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Riot", "police", "intervened", "after", "the", "protestors", ",", "who", "included", "hundreds", "of", "students", "from", "the", "American", "University", "in", "Cairo", ",", "rallied", "on", "the", "city", "'s", "central", "Tahrir", "Square", ",", "close", "to", "both", "the", "university", "campus", "and", "the", "US", "embassy", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the ambassadors of the United States, Britain, Spain and Israel",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Britain",
+    "argMentionid" : "AFP_ENG_20030320.0722-E90-159",
+    "start" : 31,
+    "end" : 31
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R44",
+  "mentionArg1" : {
+    "extent" : "the ambassadors of the United States, Britain, Spain and Israel",
+    "argMentionid" : "AFP_ENG_20030320.0722-E104-157",
+    "start" : 24,
+    "end" : 35
+  },
+  "id" : "AFP_ENG_20030320.0722-R44-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "More than 1,000 people also gathered at Cairo 's Al-Azhar Islamic University , where they burned an American flag and demanded the expulsion of the ambassadors of the United States , Britain , Spain and Israel .",
+  "sentence_index" : 22,
+  "Tokens" : [ "More", "than", "1,000", "people", "also", "gathered", "at", "Cairo", "'s", "Al-Azhar", "Islamic", "University", ",", "where", "they", "burned", "an", "American", "flag", "and", "demanded", "the", "expulsion", "of", "the", "ambassadors", "of", "the", "United", "States", ",", "Britain", ",", "Spain", "and", "Israel", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the ambassadors of the United States, Britain, Spain and Israel",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Spain",
+    "argMentionid" : "AFP_ENG_20030320.0722-E105-160",
+    "start" : 33,
+    "end" : 33
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R45",
+  "mentionArg1" : {
+    "extent" : "the ambassadors of the United States, Britain, Spain and Israel",
+    "argMentionid" : "AFP_ENG_20030320.0722-E104-157",
+    "start" : 24,
+    "end" : 35
+  },
+  "id" : "AFP_ENG_20030320.0722-R45-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "More than 1,000 people also gathered at Cairo 's Al-Azhar Islamic University , where they burned an American flag and demanded the expulsion of the ambassadors of the United States , Britain , Spain and Israel .",
+  "sentence_index" : 22,
+  "Tokens" : [ "More", "than", "1,000", "people", "also", "gathered", "at", "Cairo", "'s", "Al-Azhar", "Islamic", "University", ",", "where", "they", "burned", "an", "American", "flag", "and", "demanded", "the", "expulsion", "of", "the", "ambassadors", "of", "the", "United", "States", ",", "Britain", ",", "Spain", "and", "Israel", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the ambassadors of the United States, Britain, Spain and Israel",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Israel",
+    "argMentionid" : "AFP_ENG_20030320.0722-E7-200",
+    "start" : 35,
+    "end" : 35
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R46",
+  "mentionArg1" : {
+    "extent" : "the ambassadors of the United States, Britain, Spain and Israel",
+    "argMentionid" : "AFP_ENG_20030320.0722-E104-157",
+    "start" : 24,
+    "end" : 35
+  },
+  "id" : "AFP_ENG_20030320.0722-R46-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "More than 1,000 people also gathered at Cairo 's Al-Azhar Islamic University , where they burned an American flag and demanded the expulsion of the ambassadors of the United States , Britain , Spain and Israel .",
+  "sentence_index" : 22,
+  "Tokens" : [ "More", "than", "1,000", "people", "also", "gathered", "at", "Cairo", "'s", "Al-Azhar", "Islamic", "University", ",", "where", "they", "burned", "an", "American", "flag", "and", "demanded", "the", "expulsion", "of", "the", "ambassadors", "of", "the", "United", "States", ",", "Britain", ",", "Spain", "and", "Israel", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the campuses of the Arab University of Beirut and the American University of Beirut",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "the campuses of the Arab University of Beirut and the American University of Beirut",
+    "argMentionid" : "AFP_ENG_20030320.0722-E119-177",
+    "start" : 8,
+    "end" : 21
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R47",
+  "mentionArg1" : {
+    "extent" : "the American University of Beirut",
+    "argMentionid" : "AFP_ENG_20030320.0722-E123-181",
+    "start" : 17,
+    "end" : 21
+  },
+  "id" : "AFP_ENG_20030320.0722-R47-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "In Lebanon , hundreds of students gathered on the campuses of the Arab University of Beirut and the American University of Beirut calling for the assassination of US President George W. Bush and British Prime Minister Tony Blair .",
+  "sentence_index" : 25,
+  "Tokens" : [ "In", "Lebanon", ",", "hundreds", "of", "students", "gathered", "on", "the", "campuses", "of", "the", "Arab", "University", "of", "Beirut", "and", "the", "American", "University", "of", "Beirut", "calling", "for", "the", "assassination", "of", "US", "President", "George", "W.", "Bush", "and", "British", "Prime", "Minister", "Tony", "Blair", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the American University of Beirut",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "Beirut",
+    "argMentionid" : "AFP_ENG_20030320.0722-E122-183",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "AFP_ENG_20030320.0722-R48",
+  "mentionArg1" : {
+    "extent" : "the American University of Beirut",
+    "argMentionid" : "AFP_ENG_20030320.0722-E123-181",
+    "start" : 17,
+    "end" : 21
+  },
+  "id" : "AFP_ENG_20030320.0722-R48-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "In Lebanon , hundreds of students gathered on the campuses of the Arab University of Beirut and the American University of Beirut calling for the assassination of US President George W. Bush and British Prime Minister Tony Blair .",
+  "sentence_index" : 25,
+  "Tokens" : [ "In", "Lebanon", ",", "hundreds", "of", "students", "gathered", "on", "the", "campuses", "of", "the", "Arab", "University", "of", "Beirut", "and", "the", "American", "University", "of", "Beirut", "calling", "for", "the", "assassination", "of", "US", "President", "George", "W.", "Bush", "and", "British", "Prime", "Minister", "Tony", "Blair", "." ]
+} ]

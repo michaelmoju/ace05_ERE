@@ -1,0 +1,1255 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "12 different countries in the Middle East",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "the Middle East",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E37-77",
+    "start" : 44,
+    "end" : 46
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R1",
+  "mentionArg1" : {
+    "extent" : "12 different countries in the Middle East",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E36-76",
+    "start" : 40,
+    "end" : 46
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "They 're expecting a total at this particular base near the Iraqi border of 300 sorties in a 24-hour period ending today according to the Air Force total from all the bases and there are more than 30 bases in 12 different countries in the Middle East according to the Pentagon .",
+  "sentence_index" : 32,
+  "Tokens" : [ "They", "'re", "expecting", "a", "total", "at", "this", "particular", "base", "near", "the", "Iraqi", "border", "of", "300", "sorties", "in", "a", "24-hour", "period", "ending", "today", "according", "to", "the", "Air", "Force", "total", "from", "all", "the", "bases", "and", "there", "are", "more", "than", "30", "bases", "in", "12", "different", "countries", "in", "the", "Middle", "East", "according", "to", "the", "Pentagon", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Gary Tuchman in an air base near the Iraq border",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "an air base near the Iraq border",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E24-89",
+    "start" : 3,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R2",
+  "mentionArg1" : {
+    "extent" : "Gary Tuchman",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E42-84",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Gary Tuchman in an air base near the Iraq border , thanks very much , Gary Tuchman .",
+  "sentence_index" : 37,
+  "Tokens" : [ "Gary", "Tuchman", "in", "an", "air", "base", "near", "the", "Iraq", "border", ",", "thanks", "very", "much", ",", "Gary", "Tuchman", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the nation's top military officer",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "military",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E46-96",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R3",
+  "mentionArg1" : {
+    "extent" : "the nation's top military officer",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E43-92",
+    "start" : 15,
+    "end" : 20
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "This programming note , tomorrow at noon Eastern I 'll have a special interview with the nation 's top military officer , the Chairman of the Joint Chiefs of Staff .",
+  "sentence_index" : 38,
+  "Tokens" : [ "This", "programming", "note", ",", "tomorrow", "at", "noon", "Eastern", "I", "'ll", "have", "a", "special", "interview", "with", "the", "nation", "'s", "top", "military", "officer", ",", "the", "Chairman", "of", "the", "Joint", "Chiefs", "of", "Staff", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the nation's top military officer",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "the nation",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E5-91",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R4",
+  "mentionArg1" : {
+    "extent" : "the nation's top military officer",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E43-92",
+    "start" : 15,
+    "end" : 20
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "This programming note , tomorrow at noon Eastern I 'll have a special interview with the nation 's top military officer , the Chairman of the Joint Chiefs of Staff .",
+  "sentence_index" : 38,
+  "Tokens" : [ "This", "programming", "note", ",", "tomorrow", "at", "noon", "Eastern", "I", "'ll", "have", "a", "special", "interview", "with", "the", "nation", "'s", "top", "military", "officer", ",", "the", "Chairman", "of", "the", "Joint", "Chiefs", "of", "Staff", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Chairman of the Joint Chiefs of Staff",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "the Joint Chiefs of Staff",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E44-94",
+    "start" : 25,
+    "end" : 29
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R5",
+  "mentionArg1" : {
+    "extent" : "the Chairman of the Joint Chiefs of Staff",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E43-193",
+    "start" : 22,
+    "end" : 29
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R5-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "This programming note , tomorrow at noon Eastern I 'll have a special interview with the nation 's top military officer , the Chairman of the Joint Chiefs of Staff .",
+  "sentence_index" : 38,
+  "Tokens" : [ "This", "programming", "note", ",", "tomorrow", "at", "noon", "Eastern", "I", "'ll", "have", "a", "special", "interview", "with", "the", "nation", "'s", "top", "military", "officer", ",", "the", "Chairman", "of", "the", "Joint", "Chiefs", "of", "Staff", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Judy Woodruff in Washington",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "Washington",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E49-103",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R6",
+  "mentionArg1" : {
+    "extent" : "Judy Woodruff",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E48-102",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In the meantime , back to Judy Woodruff in Washington .",
+  "sentence_index" : 43,
+  "Tokens" : [ "In", "the", "meantime", ",", "back", "to", "Judy", "Woodruff", "in", "Washington", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "coalition forces",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E52-108",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R7",
+  "mentionArg1" : {
+    "extent" : "coalition forces",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E51-107",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Well , as coalition forces push north , they are encountering a unique problem of combat , getting rid of the weapons captured from the enemy .",
+  "sentence_index" : 46,
+  "Tokens" : [ "Well", ",", "as", "coalition", "forces", "push", "north", ",", "they", "are", "encountering", "a", "unique", "problem", "of", "combat", ",", "getting", "rid", "of", "the", "weapons", "captured", "from", "the", "enemy", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the coalition forces",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E52-157",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R7",
+  "mentionArg1" : {
+    "extent" : "the coalition forces",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E51-156",
+    "start" : 1,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R7-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "With the coalition forces moving forward the last thing they want is weaponry like this lurking behind them .",
+  "sentence_index" : 59,
+  "Tokens" : [ "With", "the", "coalition", "forces", "moving", "forward", "the", "last", "thing", "they", "want", "is", "weaponry", "like", "this", "lurking", "behind", "them", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the weapons captured from the enemy",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "the weapons captured from the enemy",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E53-110",
+    "start" : 20,
+    "end" : 25
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R8",
+  "mentionArg1" : {
+    "extent" : "the enemy",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E2-111",
+    "start" : 24,
+    "end" : 25
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R8-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Well , as coalition forces push north , they are encountering a unique problem of combat , getting rid of the weapons captured from the enemy .",
+  "sentence_index" : 46,
+  "Tokens" : [ "Well", ",", "as", "coalition", "forces", "push", "north", ",", "they", "are", "encountering", "a", "unique", "problem", "of", "combat", ",", "getting", "rid", "of", "the", "weapons", "captured", "from", "the", "enemy", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Iraqi desert",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E32-120",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R9",
+  "mentionArg1" : {
+    "extent" : "the Iraqi desert",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E57-116",
+    "start" : 14,
+    "end" : 16
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R9-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Some of the 40,000 British troops are kicking up a lot of dust in the Iraqi desert making sure that nothing is left behind them that could hurt them .",
+  "sentence_index" : 47,
+  "Tokens" : [ "Some", "of", "the", "40,000", "British", "troops", "are", "kicking", "up", "a", "lot", "of", "dust", "in", "the", "Iraqi", "desert", "making", "sure", "that", "nothing", "is", "left", "behind", "them", "that", "could", "hurt", "them", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Greg Milam is with the U.K. forces in southern Iraq",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "southern Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E61-122",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R10",
+  "mentionArg1" : {
+    "extent" : "Greg Milam",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E58-119",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R10-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Greg Milam is with the U.K. forces in southern Iraq .",
+  "sentence_index" : 48,
+  "Tokens" : [ "Greg", "Milam", "is", "with", "the", "U.K.", "forces", "in", "southern", "Iraq", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Greg Milam, Sky News, Southern Iraq",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "Southern Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E61-172",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R10",
+  "mentionArg1" : {
+    "extent" : "Greg Milam",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E58-173",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R10-2",
+  "relationSubType" : "Located",
+  "Sentence" : "Greg Milam , Sky News , Southern Iraq .",
+  "sentence_index" : 63,
+  "Tokens" : [ "Greg", "Milam", ",", "Sky", "News", ",", "Southern", "Iraq", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Greg Milam is with the U.K. forces in southern Iraq",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "southern Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E61-122",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R11",
+  "mentionArg1" : {
+    "extent" : "the U.K. forces",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E60-121",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Greg Milam is with the U.K. forces in southern Iraq .",
+  "sentence_index" : 48,
+  "Tokens" : [ "Greg", "Milam", "is", "with", "the", "U.K.", "forces", "in", "southern", "Iraq", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the British forces here",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E61-171",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R11",
+  "mentionArg1" : {
+    "extent" : "the British forces here",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E60-170",
+    "start" : 3,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R11-2",
+  "relationSubType" : "Located",
+  "Sentence" : "No one in the British forces here is willing to take any risks .",
+  "sentence_index" : 62,
+  "Tokens" : [ "No", "one", "in", "the", "British", "forces", "here", "is", "willing", "to", "take", "any", "risks", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the British forces here",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E55-209",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R12",
+  "mentionArg1" : {
+    "extent" : "the British forces here",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E60-170",
+    "start" : 3,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R12-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "No one in the British forces here is willing to take any risks .",
+  "sentence_index" : 62,
+  "Tokens" : [ "No", "one", "in", "the", "British", "forces", "here", "is", "willing", "to", "take", "any", "risks", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the U.K. forces",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "U.K",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E55-115",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R12",
+  "mentionArg1" : {
+    "extent" : "the U.K. forces",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E60-121",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R12-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Greg Milam is with the U.K. forces in southern Iraq .",
+  "sentence_index" : 48,
+  "Tokens" : [ "Greg", "Milam", "is", "with", "the", "U.K.", "forces", "in", "southern", "Iraq", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "British forces in Iraq",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E32-125",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R13",
+  "mentionArg1" : {
+    "extent" : "British forces in Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E94-205",
+    "start" : 20,
+    "end" : 23
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R13-1",
+  "relationSubType" : "Located",
+  "Sentence" : "( BEGIN VIDEOTAPE ) GREG MILAM , CNN CORRESPONDENT Seemingly deserted , these battered buildings hold a deadly threat to British forces in Iraq .",
+  "sentence_index" : 49,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "GREG", "MILAM", ",", "CNN", "CORRESPONDENT", "Seemingly", "deserted", ",", "these", "battered", "buildings", "hold", "a", "deadly", "threat", "to", "British", "forces", "in", "Iraq", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "10 men aboard this Air Force HC-130 search and rescue and refueling plane",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "this Air Force HC-130 search and rescue and refueling plane",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E95-113",
+    "start" : 21,
+    "end" : 30
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R14",
+  "mentionArg1" : {
+    "extent" : "10 men aboard this Air Force HC-130 search and rescue and refueling plane",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E17-75",
+    "start" : 18,
+    "end" : 30
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R14-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "( BEGIN VIDEOTAPE ) TUCHMAN ( voice-over ) As they get ready to head over hostile territory , 10 men aboard this Air Force HC-130 search and rescue and refueling plane start to feel their adrenaline rushing .",
+  "sentence_index" : 0,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "TUCHMAN", "(", "voice-over", ")", "As", "they", "get", "ready", "to", "head", "over", "hostile", "territory", ",", "10", "men", "aboard", "this", "Air", "Force", "HC-130", "search", "and", "rescue", "and", "refueling", "plane", "start", "to", "feel", "their", "adrenaline", "rushing", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Iraqi aircraft",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Iraqi aircraft",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E110-239",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R15",
+  "mentionArg1" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E32-240",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R15-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Who looks out for the unlikely prospect of Iraqi aircraft , and the more likely prospect of Iraqi missiles or artillery .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Who", "looks", "out", "for", "the", "unlikely", "prospect", "of", "Iraqi", "aircraft", ",", "and", "the", "more", "likely", "prospect", "of", "Iraqi", "missiles", "or", "artillery", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Iraqi missiles or artillery",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Iraqi missiles or artillery",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E113-241",
+    "start" : 17,
+    "end" : 20
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R16",
+  "mentionArg1" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E32-243",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R16-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Who looks out for the unlikely prospect of Iraqi aircraft , and the more likely prospect of Iraqi missiles or artillery .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Who", "looks", "out", "for", "the", "unlikely", "prospect", "of", "Iraqi", "aircraft", ",", "and", "the", "more", "likely", "prospect", "of", "Iraqi", "missiles", "or", "artillery", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Iraqi missiles or artillery",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Iraqi missiles or artillery",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E114-242",
+    "start" : 17,
+    "end" : 20
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R17",
+  "mentionArg1" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E32-243",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R17-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Who looks out for the unlikely prospect of Iraqi aircraft , and the more likely prospect of Iraqi missiles or artillery .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Who", "looks", "out", "for", "the", "unlikely", "prospect", "of", "Iraqi", "aircraft", ",", "and", "the", "more", "likely", "prospect", "of", "Iraqi", "missiles", "or", "artillery", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the border into Iraq",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E32-2",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R18",
+  "mentionArg1" : {
+    "extent" : "the border into Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E1-3",
+    "start" : 10,
+    "end" : 13
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R18-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "( on camera ) : Does your mindset change across the border into Iraq ?",
+  "sentence_index" : 2,
+  "Tokens" : [ "(", "on", "camera", ")", ":", "Does", "your", "mindset", "change", "across", "the", "border", "into", "Iraq", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Iraqi border",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E32-71",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R18",
+  "mentionArg1" : {
+    "extent" : "the Iraqi border",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E1-70",
+    "start" : 10,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R18-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "They 're expecting a total at this particular base near the Iraqi border of 300 sorties in a 24-hour period ending today according to the Air Force total from all the bases and there are more than 30 bases in 12 different countries in the Middle East according to the Pentagon .",
+  "sentence_index" : 32,
+  "Tokens" : [ "They", "'re", "expecting", "a", "total", "at", "this", "particular", "base", "near", "the", "Iraqi", "border", "of", "300", "sorties", "in", "a", "24-hour", "period", "ending", "today", "according", "to", "the", "Air", "Force", "total", "from", "all", "the", "bases", "and", "there", "are", "more", "than", "30", "bases", "in", "12", "different", "countries", "in", "the", "Middle", "East", "according", "to", "the", "Pentagon", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "U.S. combat helicopters",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "U.S. combat helicopters",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E4-7",
+    "start" : 7,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R19",
+  "mentionArg1" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E5-8",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R19-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Ultimately it 's discovered the targets are U.S. combat helicopters .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Ultimately", "it", "'s", "discovered", "the", "targets", "are", "U.S.", "combat", "helicopters", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "enemy land",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "enemy land",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E107-15",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R20",
+  "mentionArg1" : {
+    "extent" : "enemy",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E2-179",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R20-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Both aircraft fly at 125 miles per hour gingerly over enemy land .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Both", "aircraft", "fly", "at", "125", "miles", "per", "hour", "gingerly", "over", "enemy", "land", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "They haven't hit anybody, but isn't it risky flying so low knowing they have that ammunition to fire at you",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "that ammunition",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E16-37",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R21",
+  "mentionArg1" : {
+    "extent" : "They",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E11-25",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R21-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "They have n't hit anybody , but is n't it risky flying so low knowing they have that ammunition to fire at you .",
+  "sentence_index" : 15,
+  "Tokens" : [ "They", "have", "n't", "hit", "anybody", ",", "but", "is", "n't", "it", "risky", "flying", "so", "low", "knowing", "they", "have", "that", "ammunition", "to", "fire", "at", "you", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "three airmen aboard this plane",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "this plane",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E95-46",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R22",
+  "mentionArg1" : {
+    "extent" : "three airmen aboard this plane",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E19-47",
+    "start" : 5,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R22-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "( voice-over ) : But three airmen aboard this plane have parachutes for a different reason .",
+  "sentence_index" : 20,
+  "Tokens" : [ "(", "voice-over", ")", ":", "But", "three", "airmen", "aboard", "this", "plane", "have", "parachutes", "for", "a", "different", "reason", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "who jump off the plane for rescue missions",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "the plane",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E95-52",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R22",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E19-51",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R22-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "They are the Pararescue jumpers , or PJs who jump off the plane for rescue missions .",
+  "sentence_index" : 21,
+  "Tokens" : [ "They", "are", "the", "Pararescue", "jumpers", ",", "or", "PJs", "who", "jump", "off", "the", "plane", "for", "rescue", "missions", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "an air base near the Iraq border",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "the Iraq border",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E1-86",
+    "start" : 7,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R23",
+  "mentionArg1" : {
+    "extent" : "an air base near the Iraq border",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E24-89",
+    "start" : 3,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R23-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Gary Tuchman in an air base near the Iraq border , thanks very much , Gary Tuchman .",
+  "sentence_index" : 37,
+  "Tokens" : [ "Gary", "Tuchman", "in", "an", "air", "base", "near", "the", "Iraq", "border", ",", "thanks", "very", "much", ",", "Gary", "Tuchman", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "this particular base near the Iraqi border",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "the Iraqi border",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E1-70",
+    "start" : 10,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R23",
+  "mentionArg1" : {
+    "extent" : "this particular base near the Iraqi border",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E24-69",
+    "start" : 6,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R23-2",
+  "relationSubType" : "Near",
+  "Sentence" : "They 're expecting a total at this particular base near the Iraqi border of 300 sorties in a 24-hour period ending today according to the Air Force total from all the bases and there are more than 30 bases in 12 different countries in the Middle East according to the Pentagon .",
+  "sentence_index" : 32,
+  "Tokens" : [ "They", "'re", "expecting", "a", "total", "at", "this", "particular", "base", "near", "the", "Iraqi", "border", "of", "300", "sorties", "in", "a", "24-hour", "period", "ending", "today", "according", "to", "the", "Air", "Force", "total", "from", "all", "the", "bases", "and", "there", "are", "more", "than", "30", "bases", "in", "12", "different", "countries", "in", "the", "Middle", "East", "according", "to", "the", "Pentagon", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "more than 30 bases in 12 different countries in the Middle East",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "12 different countries in the Middle East",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E36-76",
+    "start" : 40,
+    "end" : 46
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R24",
+  "mentionArg1" : {
+    "extent" : "more than 30 bases in 12 different countries in the Middle East",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E35-74",
+    "start" : 35,
+    "end" : 46
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R24-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "They 're expecting a total at this particular base near the Iraqi border of 300 sorties in a 24-hour period ending today according to the Air Force total from all the bases and there are more than 30 bases in 12 different countries in the Middle East according to the Pentagon .",
+  "sentence_index" : 32,
+  "Tokens" : [ "They", "'re", "expecting", "a", "total", "at", "this", "particular", "base", "near", "the", "Iraqi", "border", "of", "300", "sorties", "in", "a", "24-hour", "period", "ending", "today", "according", "to", "the", "Air", "Force", "total", "from", "all", "the", "bases", "and", "there", "are", "more", "than", "30", "bases", "in", "12", "different", "countries", "in", "the", "Middle", "East", "according", "to", "the", "Pentagon", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "British forces in Iraq",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E55-124",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R25",
+  "mentionArg1" : {
+    "extent" : "British forces in Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E94-205",
+    "start" : 20,
+    "end" : 23
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R25-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "( BEGIN VIDEOTAPE ) GREG MILAM , CNN CORRESPONDENT Seemingly deserted , these battered buildings hold a deadly threat to British forces in Iraq .",
+  "sentence_index" : 49,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "GREG", "MILAM", ",", "CNN", "CORRESPONDENT", "Seemingly", "deserted", ",", "these", "battered", "buildings", "hold", "a", "deadly", "threat", "to", "British", "forces", "in", "Iraq", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the 40,000 British troops",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E55-114",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R25",
+  "mentionArg1" : {
+    "extent" : "the 40,000 British troops",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E94-194",
+    "start" : 2,
+    "end" : 5
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R25-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Some of the 40,000 British troops are kicking up a lot of dust in the Iraqi desert making sure that nothing is left behind them that could hurt them .",
+  "sentence_index" : 47,
+  "Tokens" : [ "Some", "of", "the", "40,000", "British", "troops", "are", "kicking", "up", "a", "lot", "of", "dust", "in", "the", "Iraqi", "desert", "making", "sure", "that", "nothing", "is", "left", "behind", "them", "that", "could", "hurt", "them", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iraqi soldiers",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E32-147",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R26",
+  "mentionArg1" : {
+    "extent" : "Iraqi soldiers",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E71-146",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R26-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "MILAM Grenades , mortars , all sorts of ammunition abandoned by Iraqi soldiers but there for the taking .",
+  "sentence_index" : 54,
+  "Tokens" : [ "MILAM", "Grenades", ",", "mortars", ",", "all", "sorts", "of", "ammunition", "abandoned", "by", "Iraqi", "soldiers", "but", "there", "for", "the", "taking", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Greg Milam, Sky News, Southern Iraq",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "Sky News",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E85-174",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R28",
+  "mentionArg1" : {
+    "extent" : "Greg Milam",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E58-173",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R28-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Greg Milam , Sky News , Southern Iraq .",
+  "sentence_index" : 63,
+  "Tokens" : [ "Greg", "Milam", ",", "Sky", "News", ",", "Southern", "Iraq", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "As they get ready to head over hostile territory, 10 men aboard this Air Force HC-130 search and rescue and refueling plane start to feel their adrenaline rushing",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "hostile territory",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E107-211",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R32",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E17-1",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R32-1",
+  "relationSubType" : "Located",
+  "Sentence" : "( BEGIN VIDEOTAPE ) TUCHMAN ( voice-over ) As they get ready to head over hostile territory , 10 men aboard this Air Force HC-130 search and rescue and refueling plane start to feel their adrenaline rushing .",
+  "sentence_index" : 0,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "TUCHMAN", "(", "voice-over", ")", "As", "they", "get", "ready", "to", "head", "over", "hostile", "territory", ",", "10", "men", "aboard", "this", "Air", "Force", "HC-130", "search", "and", "rescue", "and", "refueling", "plane", "start", "to", "feel", "their", "adrenaline", "rushing", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "10 men aboard this Air Force HC-130 search and rescue and refueling plane",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "this Air Force HC-130 search and rescue and refueling plane",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E95-113",
+    "start" : 21,
+    "end" : 30
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R33",
+  "mentionArg1" : {
+    "extent" : "Air Force",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E33-178",
+    "start" : 22,
+    "end" : 23
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R33-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "( BEGIN VIDEOTAPE ) TUCHMAN ( voice-over ) As they get ready to head over hostile territory , 10 men aboard this Air Force HC-130 search and rescue and refueling plane start to feel their adrenaline rushing .",
+  "sentence_index" : 0,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "TUCHMAN", "(", "voice-over", ")", "As", "they", "get", "ready", "to", "head", "over", "hostile", "territory", ",", "10", "men", "aboard", "this", "Air", "Force", "HC-130", "search", "and", "rescue", "and", "refueling", "plane", "start", "to", "feel", "their", "adrenaline", "rushing", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "No, because I am in an area which I don't know where the enemy could be and I might get to the airplane, by the time I get out of the airplane I'm thinking the same way",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "an area",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E88-180",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R34",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E116-245",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R34-1",
+  "relationSubType" : "Located",
+  "Sentence" : "UNIDENTIFIED MALE No , because I am in an area which I do n't know where the enemy could be and I might get to the airplane , by the time I get out of the airplane I 'm thinking the same way .",
+  "sentence_index" : 3,
+  "Tokens" : [ "UNIDENTIFIED", "MALE", "No", ",", "because", "I", "am", "in", "an", "area", "which", "I", "do", "n't", "know", "where", "the", "enemy", "could", "be", "and", "I", "might", "get", "to", "the", "airplane", ",", "by", "the", "time", "I", "get", "out", "of", "the", "airplane", "I", "'m", "thinking", "the", "same", "way", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "No, because I am in an area which I don't know where the enemy could be and I might get to the airplane, by the time I get out of the airplane I'm thinking the same way",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "an area",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E88-180",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R35",
+  "mentionArg1" : {
+    "extent" : "the enemy",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E2-4",
+    "start" : 16,
+    "end" : 17
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R35-1",
+  "relationSubType" : "Located",
+  "Sentence" : "UNIDENTIFIED MALE No , because I am in an area which I do n't know where the enemy could be and I might get to the airplane , by the time I get out of the airplane I 'm thinking the same way .",
+  "sentence_index" : 3,
+  "Tokens" : [ "UNIDENTIFIED", "MALE", "No", ",", "because", "I", "am", "in", "an", "area", "which", "I", "do", "n't", "know", "where", "the", "enemy", "could", "be", "and", "I", "might", "get", "to", "the", "airplane", ",", "by", "the", "time", "I", "get", "out", "of", "the", "airplane", "I", "'m", "thinking", "the", "same", "way", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "No, because I am in an area which I don't know where the enemy could be and I might get to the airplane, by the time I get out of the airplane I'm thinking the same way",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "the airplane",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E91-161",
+    "start" : 25,
+    "end" : 26
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R36",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E116-245",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R36-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "UNIDENTIFIED MALE No , because I am in an area which I do n't know where the enemy could be and I might get to the airplane , by the time I get out of the airplane I 'm thinking the same way .",
+  "sentence_index" : 3,
+  "Tokens" : [ "UNIDENTIFIED", "MALE", "No", ",", "because", "I", "am", "in", "an", "area", "which", "I", "do", "n't", "know", "where", "the", "enemy", "could", "be", "and", "I", "might", "get", "to", "the", "airplane", ",", "by", "the", "time", "I", "get", "out", "of", "the", "airplane", "I", "'m", "thinking", "the", "same", "way", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "As a precaution, the crew starts turning the huge plane in circles to see what the targets do",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "the huge plane",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E95-6",
+    "start" : 12,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R37",
+  "mentionArg1" : {
+    "extent" : "the crew",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E89-206",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R37-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "TUCHMAN ( voice-over ) As a precaution , the crew starts turning the huge plane in circles to see what the targets do .",
+  "sentence_index" : 6,
+  "Tokens" : [ "TUCHMAN", "(", "voice-over", ")", "As", "a", "precaution", ",", "the", "crew", "starts", "turning", "the", "huge", "plane", "in", "circles", "to", "see", "what", "the", "targets", "do", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "What stops though - we know the Iraqis have fired sand missiles and fired AAA at aircraft all throughout this war",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "sand missiles",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E12-22",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R38",
+  "mentionArg1" : {
+    "extent" : "the Iraqis",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E11-21",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R38-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "( on camera ) : What stops though - we know the Iraqis have fired sand missiles and fired AAA at aircraft all throughout this war .",
+  "sentence_index" : 14,
+  "Tokens" : [ "(", "on", "camera", ")", ":", "What", "stops", "though", "-", "we", "know", "the", "Iraqis", "have", "fired", "sand", "missiles", "and", "fired", "AAA", "at", "aircraft", "all", "throughout", "this", "war", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "What stops though - we know the Iraqis have fired sand missiles and fired AAA at aircraft all throughout this war",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "AAA",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E13-23",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R39",
+  "mentionArg1" : {
+    "extent" : "the Iraqis",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E11-21",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R39-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "( on camera ) : What stops though - we know the Iraqis have fired sand missiles and fired AAA at aircraft all throughout this war .",
+  "sentence_index" : 14,
+  "Tokens" : [ "(", "on", "camera", ")", ":", "What", "stops", "though", "-", "we", "know", "the", "Iraqis", "have", "fired", "sand", "missiles", "and", "fired", "AAA", "at", "aircraft", "all", "throughout", "this", "war", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "We all fly with bulletproof vests in case the plane goes down",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "the plane",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E95-43",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R40",
+  "mentionArg1" : {
+    "extent" : "We",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E18-41",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R40-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "TUCHMAN We all fly with bulletproof vests in case the plane goes down .",
+  "sentence_index" : 18,
+  "Tokens" : [ "TUCHMAN", "We", "all", "fly", "with", "bulletproof", "vests", "in", "case", "the", "plane", "goes", "down", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "We also fly with parachutes in case we need to get out before the plane goes down",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "the plane",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E95-45",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R40",
+  "mentionArg1" : {
+    "extent" : "We",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E18-42",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R40-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "We also fly with parachutes in case we need to get out before the plane goes down .",
+  "sentence_index" : 19,
+  "Tokens" : [ "We", "also", "fly", "with", "parachutes", "in", "case", "we", "need", "to", "get", "out", "before", "the", "plane", "goes", "down", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "We also fly with parachutes in case we need to get out before the plane goes down",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "parachutes",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E93-190",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R41",
+  "mentionArg1" : {
+    "extent" : "We",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E18-42",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R41-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "We also fly with parachutes in case we need to get out before the plane goes down .",
+  "sentence_index" : 19,
+  "Tokens" : [ "We", "also", "fly", "with", "parachutes", "in", "case", "we", "need", "to", "get", "out", "before", "the", "plane", "goes", "down", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "But three airmen aboard this plane have parachutes for a different reason",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "parachutes",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E93-197",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R42",
+  "mentionArg1" : {
+    "extent" : "three airmen aboard this plane",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E19-47",
+    "start" : 5,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R42-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "( voice-over ) : But three airmen aboard this plane have parachutes for a different reason .",
+  "sentence_index" : 20,
+  "Tokens" : [ "(", "voice-over", ")", ":", "But", "three", "airmen", "aboard", "this", "plane", "have", "parachutes", "for", "a", "different", "reason", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Air Force total from all the bases",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "all the bases",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E34-73",
+    "start" : 29,
+    "end" : 31
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R44",
+  "mentionArg1" : {
+    "extent" : "Air Force",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E33-72",
+    "start" : 25,
+    "end" : 26
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R44-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "They 're expecting a total at this particular base near the Iraqi border of 300 sorties in a 24-hour period ending today according to the Air Force total from all the bases and there are more than 30 bases in 12 different countries in the Middle East according to the Pentagon .",
+  "sentence_index" : 32,
+  "Tokens" : [ "They", "'re", "expecting", "a", "total", "at", "this", "particular", "base", "near", "the", "Iraqi", "border", "of", "300", "sorties", "in", "a", "24-hour", "period", "ending", "today", "according", "to", "the", "Air", "Force", "total", "from", "all", "the", "bases", "and", "there", "are", "more", "than", "30", "bases", "in", "12", "different", "countries", "in", "the", "Middle", "East", "according", "to", "the", "Pentagon", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Some of the 40,000 British troops are kicking up a lot of dust in the Iraqi desert making sure that nothing is left behind them that could hurt them",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "the Iraqi desert",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E57-116",
+    "start" : 14,
+    "end" : 16
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R47",
+  "mentionArg1" : {
+    "extent" : "Some of the 40,000 British troops",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E54-112",
+    "start" : 0,
+    "end" : 5
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R47-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Some of the 40,000 British troops are kicking up a lot of dust in the Iraqi desert making sure that nothing is left behind them that could hurt them .",
+  "sentence_index" : 47,
+  "Tokens" : [ "Some", "of", "the", "40,000", "British", "troops", "are", "kicking", "up", "a", "lot", "of", "dust", "in", "the", "Iraqi", "desert", "making", "sure", "that", "nothing", "is", "left", "behind", "them", "that", "could", "hurt", "them", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "I'm not too sure but judging by some of this, it's been here quite a long time so whether it's been used recently by them - there was an Intel upbeat saying that they were possibly coming back to try and get this to use against them",
+  "sentence_length" : 61,
+  "mentionArg2" : {
+    "extent" : "it",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E62-137",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R48",
+  "mentionArg1" : {
+    "extent" : "them",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E65-139",
+    "start" : 37,
+    "end" : 37
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R48-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "I mean do you know ( UNINTELLIGIBLE ) BANHAM I 'm not too sure but judging by some of this , it 's been here quite a long time so whether it 's been used recently by them - there was an Intel upbeat saying that they were possibly coming back to try and get this to use against them .",
+  "sentence_index" : 53,
+  "Tokens" : [ "I", "mean", "do", "you", "know", "(", "UNINTELLIGIBLE", ")", "BANHAM", "I", "'m", "not", "too", "sure", "but", "judging", "by", "some", "of", "this", ",", "it", "'s", "been", "here", "quite", "a", "long", "time", "so", "whether", "it", "'s", "been", "used", "recently", "by", "them", "-", "there", "was", "an", "Intel", "upbeat", "saying", "that", "they", "were", "possibly", "coming", "back", "to", "try", "and", "get", "this", "to", "use", "against", "them", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "I'm not too sure but judging by some of this, it's been here quite a long time so whether it's been used recently by them - there was an Intel upbeat saying that they were possibly coming back to try and get this to use against them",
+  "sentence_length" : 61,
+  "mentionArg2" : {
+    "extent" : "this",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E98-202",
+    "start" : 55,
+    "end" : 55
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R49",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E65-140",
+    "start" : 46,
+    "end" : 46
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R49-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "I mean do you know ( UNINTELLIGIBLE ) BANHAM I 'm not too sure but judging by some of this , it 's been here quite a long time so whether it 's been used recently by them - there was an Intel upbeat saying that they were possibly coming back to try and get this to use against them .",
+  "sentence_index" : 53,
+  "Tokens" : [ "I", "mean", "do", "you", "know", "(", "UNINTELLIGIBLE", ")", "BANHAM", "I", "'m", "not", "too", "sure", "but", "judging", "by", "some", "of", "this", ",", "it", "'s", "been", "here", "quite", "a", "long", "time", "so", "whether", "it", "'s", "been", "used", "recently", "by", "them", "-", "there", "was", "an", "Intel", "upbeat", "saying", "that", "they", "were", "possibly", "coming", "back", "to", "try", "and", "get", "this", "to", "use", "against", "them", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Grenades, mortars, all sorts of ammunition abandoned by Iraqi soldiers",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Grenades",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E68-143",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R50",
+  "mentionArg1" : {
+    "extent" : "Iraqi soldiers",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E71-146",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R50-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "MILAM Grenades , mortars , all sorts of ammunition abandoned by Iraqi soldiers but there for the taking .",
+  "sentence_index" : 54,
+  "Tokens" : [ "MILAM", "Grenades", ",", "mortars", ",", "all", "sorts", "of", "ammunition", "abandoned", "by", "Iraqi", "soldiers", "but", "there", "for", "the", "taking", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Grenades, mortars, all sorts of ammunition abandoned by Iraqi soldiers",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "mortars",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E69-144",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R51",
+  "mentionArg1" : {
+    "extent" : "Iraqi soldiers",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E71-146",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R51-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "MILAM Grenades , mortars , all sorts of ammunition abandoned by Iraqi soldiers but there for the taking .",
+  "sentence_index" : 54,
+  "Tokens" : [ "MILAM", "Grenades", ",", "mortars", ",", "all", "sorts", "of", "ammunition", "abandoned", "by", "Iraqi", "soldiers", "but", "there", "for", "the", "taking", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Grenades, mortars, all sorts of ammunition abandoned by Iraqi soldiers",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "all sorts of ammunition",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E70-145",
+    "start" : 5,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R52",
+  "mentionArg1" : {
+    "extent" : "Iraqi soldiers",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E71-146",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R52-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "MILAM Grenades , mortars , all sorts of ammunition abandoned by Iraqi soldiers but there for the taking .",
+  "sentence_index" : 54,
+  "Tokens" : [ "MILAM", "Grenades", ",", "mortars", ",", "all", "sorts", "of", "ammunition", "abandoned", "by", "Iraqi", "soldiers", "but", "there", "for", "the", "taking", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "The job of these Royal Engineers is to clear this and many other mountains of armaments and destroy them",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "them",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E75-152",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R53",
+  "mentionArg1" : {
+    "extent" : "these Royal Engineers",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E73-148",
+    "start" : 3,
+    "end" : 5
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R53-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The job of these Royal Engineers is to clear this and many other mountains of armaments and destroy them .",
+  "sentence_index" : 55,
+  "Tokens" : [ "The", "job", "of", "these", "Royal", "Engineers", "is", "to", "clear", "this", "and", "many", "other", "mountains", "of", "armaments", "and", "destroy", "them", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "With the amounts of ammunition and weapons left about, if they'd used those systems, that amount of weapon it would have given us a considerable amount of trouble trying to take the positions",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "the amounts of ammunition",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E81-163",
+    "start" : 7,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R54",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E65-165",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R54-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "CAPTAIN ANDY GOOCH , ROYAL ENGINEERS With the amounts of ammunition and weapons left about , if they 'd used those systems , that amount of weapon it would have given us a considerable amount of trouble trying to take the positions .",
+  "sentence_index" : 60,
+  "Tokens" : [ "CAPTAIN", "ANDY", "GOOCH", ",", "ROYAL", "ENGINEERS", "With", "the", "amounts", "of", "ammunition", "and", "weapons", "left", "about", ",", "if", "they", "'d", "used", "those", "systems", ",", "that", "amount", "of", "weapon", "it", "would", "have", "given", "us", "a", "considerable", "amount", "of", "trouble", "trying", "to", "take", "the", "positions", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "With the amounts of ammunition and weapons left about, if they'd used those systems, that amount of weapon it would have given us a considerable amount of trouble trying to take the positions",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "weapons",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E82-164",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-2-R55",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_IP_20030329.1600.00-2-E65-165",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "CNN_IP_20030329.1600.00-2-R55-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "CAPTAIN ANDY GOOCH , ROYAL ENGINEERS With the amounts of ammunition and weapons left about , if they 'd used those systems , that amount of weapon it would have given us a considerable amount of trouble trying to take the positions .",
+  "sentence_index" : 60,
+  "Tokens" : [ "CAPTAIN", "ANDY", "GOOCH", ",", "ROYAL", "ENGINEERS", "With", "the", "amounts", "of", "ammunition", "and", "weapons", "left", "about", ",", "if", "they", "'d", "used", "those", "systems", ",", "that", "amount", "of", "weapon", "it", "would", "have", "given", "us", "a", "considerable", "amount", "of", "trouble", "trying", "to", "take", "the", "positions", "." ]
+} ]

@@ -1,0 +1,265 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "my wife",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "my wife",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E38-71",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R1",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E35-70",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R1-1",
+  "relationSubType" : "Family",
+  "Sentence" : "I wonder if its easier just renewing your vows as my wife has been looking for this for a while. going out on the Sensation in March for our 18th anniverary .",
+  "sentence_index" : 2,
+  "Tokens" : [ "I", "wonder", "if", "its", "easier", "just", "renewing", "your", "vows", "as", "my", "wife", "has", "been", "looking", "for", "this", "for", "a", "while.", "going", "out", "on", "the", "Sensation", "in", "March", "for", "our", "18th", "anniverary", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "My wife",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "My wife",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E42-76",
+    "start" : 18,
+    "end" : 19
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R2",
+  "mentionArg1" : {
+    "extent" : "My",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E8-74",
+    "start" : 18,
+    "end" : 18
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Howie Wed , 16 Feb 2005 19:22:33 - 0500 Re : Renewal of marriage vows on carnival cruise My wife and I were guests at a wedding on the Carnival Legend on New Years Eve 2003 .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Howie", "Wed", ",", "16", "Feb", "2005", "19:22:33", "-", "0500", "Re", ":", "Renewal", "of", "marriage", "vows", "on", "carnival", "cruise", "My", "wife", "and", "I", "were", "guests", "at", "a", "wedding", "on", "the", "Carnival", "Legend", "on", "New", "Years", "Eve", "2003", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the Carnival Legend",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "the Carnival Legend",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E44-78",
+    "start" : 28,
+    "end" : 30
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R3",
+  "mentionArg1" : {
+    "extent" : "Carnival",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E25-79",
+    "start" : 29,
+    "end" : 29
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R3-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Howie Wed , 16 Feb 2005 19:22:33 - 0500 Re : Renewal of marriage vows on carnival cruise My wife and I were guests at a wedding on the Carnival Legend on New Years Eve 2003 .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Howie", "Wed", ",", "16", "Feb", "2005", "19:22:33", "-", "0500", "Re", ":", "Renewal", "of", "marriage", "vows", "on", "carnival", "cruise", "My", "wife", "and", "I", "were", "guests", "at", "a", "wedding", "on", "the", "Carnival", "Legend", "on", "New", "Years", "Eve", "2003", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Thus, the couple was actual married by a justice of the peace in the state of Florida",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "the state of Florida",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E7-10",
+    "start" : 14,
+    "end" : 17
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R4",
+  "mentionArg1" : {
+    "extent" : "the couple",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E5-8",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Thus , the couple was actual married by a justice of the peace in the state of Florida .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Thus", ",", "the", "couple", "was", "actual", "married", "by", "a", "justice", "of", "the", "peace", "in", "the", "state", "of", "Florida", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Thus, the couple was actual married by a justice of the peace in the state of Florida",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "the state of Florida",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E7-10",
+    "start" : 14,
+    "end" : 17
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R5",
+  "mentionArg1" : {
+    "extent" : "a justice of the peace",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E6-9",
+    "start" : 8,
+    "end" : 12
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Thus , the couple was actual married by a justice of the peace in the state of Florida .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Thus", ",", "the", "couple", "was", "actual", "married", "by", "a", "justice", "of", "the", "peace", "in", "the", "state", "of", "Florida", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Carnival Conquest",
+  "sentence_length" : 62,
+  "mentionArg2" : {
+    "extent" : "Carnival Conquest",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E24-42",
+    "start" : 38,
+    "end" : 39
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R6",
+  "mentionArg1" : {
+    "extent" : "Carnival",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E25-45",
+    "start" : 38,
+    "end" : 38
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R6-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Len ... durango_ ... @ alltel . net Thu , 17 Feb 2005 19:14:51 - 0500 Re : Renewal of marriage vows on carnival cruise On 16 Feb 2005 13:36:29 - 0800 , We renewed our vows on Carnival Conquest on 10/31/2004 - you need to contact Carnival wedding department and ask if they have any wedding / renewal packages available .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Len", "...", "durango_", "...", "@", "alltel", ".", "net", "Thu", ",", "17", "Feb", "2005", "19:14:51", "-", "0500", "Re", ":", "Renewal", "of", "marriage", "vows", "on", "carnival", "cruise", "On", "16", "Feb", "2005", "13:36:29", "-", "0800", ",", "We", "renewed", "our", "vows", "on", "Carnival", "Conquest", "on", "10/31/2004", "-", "you", "need", "to", "contact", "Carnival", "wedding", "department", "and", "ask", "if", "they", "have", "any", "wedding", "/", "renewal", "packages", "available", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Carnival wedding department",
+  "sentence_length" : 62,
+  "mentionArg2" : {
+    "extent" : "Carnival",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E25-44",
+    "start" : 47,
+    "end" : 47
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R7",
+  "mentionArg1" : {
+    "extent" : "Carnival wedding department",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E27-46",
+    "start" : 47,
+    "end" : 49
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R7-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Len ... durango_ ... @ alltel . net Thu , 17 Feb 2005 19:14:51 - 0500 Re : Renewal of marriage vows on carnival cruise On 16 Feb 2005 13:36:29 - 0800 , We renewed our vows on Carnival Conquest on 10/31/2004 - you need to contact Carnival wedding department and ask if they have any wedding / renewal packages available .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Len", "...", "durango_", "...", "@", "alltel", ".", "net", "Thu", ",", "17", "Feb", "2005", "19:14:51", "-", "0500", "Re", ":", "Renewal", "of", "marriage", "vows", "on", "carnival", "cruise", "On", "16", "Feb", "2005", "13:36:29", "-", "0800", ",", "We", "renewed", "our", "vows", "on", "Carnival", "Conquest", "on", "10/31/2004", "-", "you", "need", "to", "contact", "Carnival", "wedding", "department", "and", "ask", "if", "they", "have", "any", "wedding", "/", "renewal", "packages", "available", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Carnival Wedding Dept",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Carnival",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E25-60",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R7",
+  "mentionArg1" : {
+    "extent" : "Carnival Wedding Dept",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E27-59",
+    "start" : 1,
+    "end" : 3
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R7-2",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Call Carnival Wedding Dept. at 1 ( 800 ) 933-4968 or send an email to : weddi ... @ carnival . com Happy anniversary and enjoy your cruise !",
+  "sentence_index" : 22,
+  "Tokens" : [ "Call", "Carnival", "Wedding", "Dept.", "at", "1", "(", "800", ")", "933-4968", "or", "send", "an", "email", "to", ":", "weddi", "...", "@", "carnival", ".", "com", "Happy", "anniversary", "and", "enjoy", "your", "cruise", "!" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Mary in NC",
+  "sentence_length" : 3,
+  "mentionArg2" : {
+    "extent" : "NC",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E32-63",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R9",
+  "mentionArg1" : {
+    "extent" : "Mary in NC",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E28-62",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Mary in NC",
+  "sentence_index" : 23,
+  "Tokens" : [ "Mary", "in", "NC" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "going out on the Sensation in March for our 18th anniverary",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "the Sensation",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E39-72",
+    "start" : 23,
+    "end" : 24
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R10",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E40-73",
+    "start" : 28,
+    "end" : 28
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R10-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "I wonder if its easier just renewing your vows as my wife has been looking for this for a while. going out on the Sensation in March for our 18th anniverary .",
+  "sentence_index" : 2,
+  "Tokens" : [ "I", "wonder", "if", "its", "easier", "just", "renewing", "your", "vows", "as", "my", "wife", "has", "been", "looking", "for", "this", "for", "a", "while.", "going", "out", "on", "the", "Sensation", "in", "March", "for", "our", "18th", "anniverary", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "guests at a wedding on the Carnival Legend on New Years Eve 2003",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "the Carnival Legend",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E44-78",
+    "start" : 28,
+    "end" : 30
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R11",
+  "mentionArg1" : {
+    "extent" : "guests at a wedding on the Carnival Legend on New Years Eve 2003",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E43-77",
+    "start" : 23,
+    "end" : 35
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R11-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Howie Wed , 16 Feb 2005 19:22:33 - 0500 Re : Renewal of marriage vows on carnival cruise My wife and I were guests at a wedding on the Carnival Legend on New Years Eve 2003 .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Howie", "Wed", ",", "16", "Feb", "2005", "19:22:33", "-", "0500", "Re", ":", "Renewal", "of", "marriage", "vows", "on", "carnival", "cruise", "My", "wife", "and", "I", "were", "guests", "at", "a", "wedding", "on", "the", "Carnival", "Legend", "on", "New", "Years", "Eve", "2003", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "We renewed our vows on Carnival Conquest on 10/31/2004 - you need to contact Carnival wedding department and ask if they have any wedding/renewal packages available",
+  "sentence_length" : 62,
+  "mentionArg2" : {
+    "extent" : "Carnival Conquest",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E24-42",
+    "start" : 38,
+    "end" : 39
+  },
+  "relationID" : "rec.travel.cruises_20050216.1636-R12",
+  "mentionArg1" : {
+    "extent" : "We",
+    "argMentionid" : "rec.travel.cruises_20050216.1636-E23-40",
+    "start" : 33,
+    "end" : 33
+  },
+  "id" : "rec.travel.cruises_20050216.1636-R12-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Len ... durango_ ... @ alltel . net Thu , 17 Feb 2005 19:14:51 - 0500 Re : Renewal of marriage vows on carnival cruise On 16 Feb 2005 13:36:29 - 0800 , We renewed our vows on Carnival Conquest on 10/31/2004 - you need to contact Carnival wedding department and ask if they have any wedding / renewal packages available .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Len", "...", "durango_", "...", "@", "alltel", ".", "net", "Thu", ",", "17", "Feb", "2005", "19:14:51", "-", "0500", "Re", ":", "Renewal", "of", "marriage", "vows", "on", "carnival", "cruise", "On", "16", "Feb", "2005", "13:36:29", "-", "0800", ",", "We", "renewed", "our", "vows", "on", "Carnival", "Conquest", "on", "10/31/2004", "-", "you", "need", "to", "contact", "Carnival", "wedding", "department", "and", "ask", "if", "they", "have", "any", "wedding", "/", "renewal", "packages", "available", "." ]
+} ]

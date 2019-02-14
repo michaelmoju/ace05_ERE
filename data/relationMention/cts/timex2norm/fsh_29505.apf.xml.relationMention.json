@@ -1,0 +1,353 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "Yeah, are you in a blue or a red state",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "a blue or a red state",
+    "argMentionid" : "fsh_29505-E8-18",
+    "start" : 6,
+    "end" : 11
+  },
+  "relationID" : "fsh_29505-R1",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29505-E66-17",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "fsh_29505-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Dave Yeah , are you in a blue or a red state ?",
+  "sentence_index" : 16,
+  "Tokens" : [ "Dave", "Yeah", ",", "are", "you", "in", "a", "blue", "or", "a", "red", "state", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "But, uh, I live in a kind of a staunchly -- Republican state",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "a kind of a staunchly -- Republican state",
+    "argMentionid" : "fsh_29505-E15-55",
+    "start" : 8,
+    "end" : 15
+  },
+  "relationID" : "fsh_29505-R2",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29505-E1-54",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "fsh_29505-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Dave But , uh , I live in a kind of a staunchly -- Republican state .",
+  "sentence_index" : 31,
+  "Tokens" : [ "Dave", "But", ",", "uh", ",", "I", "live", "in", "a", "kind", "of", "a", "staunchly", "--", "Republican", "state", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Yeah, I'm in Indiana -- so, uh",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Indiana",
+    "argMentionid" : "fsh_29505-E15-37",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "fsh_29505-R2",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29505-E1-36",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29505-R2-2",
+  "relationSubType" : "Located",
+  "Sentence" : "Dave Yeah , I 'm in Indiana -- so , uh , Lynn And we were kind of split in the middle I think so I do n't know .",
+  "sentence_index" : 24,
+  "Tokens" : [ "Dave", "Yeah", ",", "I", "'m", "in", "Indiana", "--", "so", ",", "uh", ",", "Lynn", "And", "we", "were", "kind", "of", "split", "in", "the", "middle", "I", "think", "so", "I", "do", "n't", "know", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a kind of a staunchly -- Republican state",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Republican",
+    "argMentionid" : "fsh_29505-E20-56",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "fsh_29505-R3",
+  "mentionArg1" : {
+    "extent" : "a kind of a staunchly -- Republican state",
+    "argMentionid" : "fsh_29505-E15-55",
+    "start" : 8,
+    "end" : 15
+  },
+  "id" : "fsh_29505-R3-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Dave But , uh , I live in a kind of a staunchly -- Republican state .",
+  "sentence_index" : 31,
+  "Tokens" : [ "Dave", "But", ",", "uh", ",", "I", "live", "in", "a", "kind", "of", "a", "staunchly", "--", "Republican", "state", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "one world government",
+  "sentence_length" : 70,
+  "mentionArg2" : {
+    "extent" : "world",
+    "argMentionid" : "fsh_29505-E46-165",
+    "start" : 48,
+    "end" : 48
+  },
+  "relationID" : "fsh_29505-R4",
+  "mentionArg1" : {
+    "extent" : "one world government",
+    "argMentionid" : "fsh_29505-E31-110",
+    "start" : 47,
+    "end" : 49
+  },
+  "id" : "fsh_29505-R4-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Lynn But -- it kind of falls like -- I mean I 've been on the internet lately and I 've ran across these really weird websites -- and I 'm not a fanatic or anything but they 're all about the -- the new world , one world government and things like that , you know , and to me it 's just another point in that direction .",
+  "sentence_index" : 45,
+  "Tokens" : [ "Lynn", "But", "--", "it", "kind", "of", "falls", "like", "--", "I", "mean", "I", "'ve", "been", "on", "the", "internet", "lately", "and", "I", "'ve", "ran", "across", "these", "really", "weird", "websites", "--", "and", "I", "'m", "not", "a", "fanatic", "or", "anything", "but", "they", "'re", "all", "about", "the", "--", "the", "new", "world", ",", "one", "world", "government", "and", "things", "like", "that", ",", "you", "know", ",", "and", "to", "me", "it", "'s", "just", "another", "point", "in", "that", "direction", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "I'm from Missouri",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "Missouri",
+    "argMentionid" : "fsh_29505-E11-27",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "fsh_29505-R5",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29505-E66-24",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "fsh_29505-R5-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Lynn I 'm from Missouri -- I 'm in Missouri .",
+  "sentence_index" : 19,
+  "Tokens" : [ "Lynn", "I", "'m", "from", "Missouri", "--", "I", "'m", "in", "Missouri", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I'm in Missouri",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "Missouri",
+    "argMentionid" : "fsh_29505-E11-28",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "fsh_29505-R6",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29505-E66-25",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "fsh_29505-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Lynn I 'm from Missouri -- I 'm in Missouri .",
+  "sentence_index" : 19,
+  "Tokens" : [ "Lynn", "I", "'m", "from", "Missouri", "--", "I", "'m", "in", "Missouri", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a Hispanic fellow",
+  "sentence_length" : 101,
+  "mentionArg2" : {
+    "extent" : "Hispanic",
+    "argMentionid" : "fsh_29505-E28-89",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "fsh_29505-R8",
+  "mentionArg1" : {
+    "extent" : "a Hispanic fellow",
+    "argMentionid" : "fsh_29505-E27-88",
+    "start" : 20,
+    "end" : 22
+  },
+  "id" : "fsh_29505-R8-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "And , uh , well , I I -- I did read a a column today by , uh , a Hispanic fellow and , uh , he was n't native born , he was from Cuba , and , uh , he stated that , uh , we he was in the fifth grade and and , uh , uh , he was taking -- no , I guess he was in middle school and he was taking a civics class and and it was pointed out to him that , you know , he could never become President .",
+  "sentence_index" : 40,
+  "Tokens" : [ "And", ",", "uh", ",", "well", ",", "I", "I", "--", "I", "did", "read", "a", "a", "column", "today", "by", ",", "uh", ",", "a", "Hispanic", "fellow", "and", ",", "uh", ",", "he", "was", "n't", "native", "born", ",", "he", "was", "from", "Cuba", ",", "and", ",", "uh", ",", "he", "stated", "that", ",", "uh", ",", "we", "he", "was", "in", "the", "fifth", "grade", "and", "and", ",", "uh", ",", "uh", ",", "he", "was", "taking", "--", "no", ",", "I", "guess", "he", "was", "in", "middle", "school", "and", "he", "was", "taking", "a", "civics", "class", "and", "and", "it", "was", "pointed", "out", "to", "him", "that", ",", "you", "know", ",", "he", "could", "never", "become", "President", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "And, uh,  well, I I -- I did read a a column today by,  uh,  a Hispanic fellow and, uh,  he wasn't native born, he was from Cuba,  and, uh,  he stated that, uh,  we he was in the fifth grade and and, uh,  uh, he was taking -- no, I guess he was in middle school and he was taking a civics class and and it was pointed out to him that, you know, he could never become President",
+  "sentence_length" : 101,
+  "mentionArg2" : {
+    "extent" : "Cuba",
+    "argMentionid" : "fsh_29505-E30-106",
+    "start" : 36,
+    "end" : 36
+  },
+  "relationID" : "fsh_29505-R9",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "fsh_29505-E27-92",
+    "start" : 33,
+    "end" : 33
+  },
+  "id" : "fsh_29505-R9-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "And , uh , well , I I -- I did read a a column today by , uh , a Hispanic fellow and , uh , he was n't native born , he was from Cuba , and , uh , he stated that , uh , we he was in the fifth grade and and , uh , uh , he was taking -- no , I guess he was in middle school and he was taking a civics class and and it was pointed out to him that , you know , he could never become President .",
+  "sentence_index" : 40,
+  "Tokens" : [ "And", ",", "uh", ",", "well", ",", "I", "I", "--", "I", "did", "read", "a", "a", "column", "today", "by", ",", "uh", ",", "a", "Hispanic", "fellow", "and", ",", "uh", ",", "he", "was", "n't", "native", "born", ",", "he", "was", "from", "Cuba", ",", "and", ",", "uh", ",", "he", "stated", "that", ",", "uh", ",", "we", "he", "was", "in", "the", "fifth", "grade", "and", "and", ",", "uh", ",", "uh", ",", "he", "was", "taking", "--", "no", ",", "I", "guess", "he", "was", "in", "middle", "school", "and", "he", "was", "taking", "a", "civics", "class", "and", "and", "it", "was", "pointed", "out", "to", "him", "that", ",", "you", "know", ",", "he", "could", "never", "become", "President", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my grandparents",
+  "sentence_length" : 74,
+  "mentionArg2" : {
+    "extent" : "my grandparents",
+    "argMentionid" : "fsh_29505-E32-113",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "fsh_29505-R10",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29505-E66-114",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "fsh_29505-R10-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Lynn Well , you know , in one sense it is but then , I mean -- well , my grandparents came over , Ellis Island and everything , but when I think about , you know , a foreign person or maybe born in another country and coming here it doe- it does n't seem right in one sense for -- for them to be able to be President of this country .",
+  "sentence_index" : 43,
+  "Tokens" : [ "Lynn", "Well", ",", "you", "know", ",", "in", "one", "sense", "it", "is", "but", "then", ",", "I", "mean", "--", "well", ",", "my", "grandparents", "came", "over", ",", "Ellis", "Island", "and", "everything", ",", "but", "when", "I", "think", "about", ",", "you", "know", ",", "a", "foreign", "person", "or", "maybe", "born", "in", "another", "country", "and", "coming", "here", "it", "doe-", "it", "does", "n't", "seem", "right", "in", "one", "sense", "for", "--", "for", "them", "to", "be", "able", "to", "be", "President", "of", "this", "country", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I mean, that's another thing they were talking about that he is with the Skull and Bones from I think he went to Yale",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "the Skull and Bones",
+    "argMentionid" : "fsh_29505-E2-143",
+    "start" : 15,
+    "end" : 18
+  },
+  "relationID" : "fsh_29505-R11",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "fsh_29505-E5-142",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "fsh_29505-R11-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "I mean , that 's another thing they were talking about that he is with the Skull and Bones from I think he went to Yale , Dave Right .",
+  "sentence_index" : 50,
+  "Tokens" : [ "I", "mean", ",", "that", "'s", "another", "thing", "they", "were", "talking", "about", "that", "he", "is", "with", "the", "Skull", "and", "Bones", "from", "I", "think", "he", "went", "to", "Yale", ",", "Dave", "Right", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I mean, that's another thing they were talking about that he is with the Skull and Bones from I think he went to Yale",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Yale",
+    "argMentionid" : "fsh_29505-E39-145",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "fsh_29505-R12",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "fsh_29505-E5-144",
+    "start" : 22,
+    "end" : 22
+  },
+  "id" : "fsh_29505-R12-1",
+  "relationSubType" : "Student-Alum",
+  "Sentence" : "I mean , that 's another thing they were talking about that he is with the Skull and Bones from I think he went to Yale , Dave Right .",
+  "sentence_index" : 50,
+  "Tokens" : [ "I", "mean", ",", "that", "'s", "another", "thing", "they", "were", "talking", "about", "that", "he", "is", "with", "the", "Skull", "and", "Bones", "from", "I", "think", "he", "went", "to", "Yale", ",", "Dave", "Right", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his father",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "his father",
+    "argMentionid" : "fsh_29505-E3-7",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "fsh_29505-R13",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29505-E5-278",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "fsh_29505-R13-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Lynn and so was his father and and Clinton was , too , and and people actually that + alumina Dave And Kerry was a Skull and Bones , also .",
+  "sentence_index" : 51,
+  "Tokens" : [ "Lynn", "and", "so", "was", "his", "father", "and", "and", "Clinton", "was", ",", "too", ",", "and", "and", "people", "actually", "that", "+", "alumina", "Dave", "And", "Kerry", "was", "a", "Skull", "and", "Bones", ",", "also", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his father",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "his father",
+    "argMentionid" : "fsh_29505-E3-163",
+    "start" : 23,
+    "end" : 24
+  },
+  "relationID" : "fsh_29505-R13",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29505-E5-162",
+    "start" : 23,
+    "end" : 23
+  },
+  "id" : "fsh_29505-R13-2",
+  "relationSubType" : "Family",
+  "Sentence" : "I watched a show on channel nine about Bush and him being religious , spiritual , of course , but also religious when his father wasn't , and -- I do n't know .",
+  "sentence_index" : 54,
+  "Tokens" : [ "I", "watched", "a", "show", "on", "channel", "nine", "about", "Bush", "and", "him", "being", "religious", ",", "spiritual", ",", "of", "course", ",", "but", "also", "religious", "when", "his", "father", "wasn't", ",", "and", "--", "I", "do", "n't", "know", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his dad",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "his dad",
+    "argMentionid" : "fsh_29505-E3-224",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "fsh_29505-R13",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29505-E5-218",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "fsh_29505-R13-3",
+  "relationSubType" : "Family",
+  "Sentence" : "Dave Well , I I think I think his dad was a better man than he is .",
+  "sentence_index" : 64,
+  "Tokens" : [ "Dave", "Well", ",", "I", "I", "think", "I", "think", "his", "dad", "was", "a", "better", "man", "than", "he", "is", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the American people",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "fsh_29505-E37-227",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "fsh_29505-R14",
+  "mentionArg1" : {
+    "extent" : "the American people",
+    "argMentionid" : "fsh_29505-E56-226",
+    "start" : 7,
+    "end" : 9
+  },
+  "id" : "fsh_29505-R14-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "I think he was just sold to the American people .",
+  "sentence_index" : 67,
+  "Tokens" : [ "I", "think", "he", "was", "just", "sold", "to", "the", "American", "people", "." ]
+} ]

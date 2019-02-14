@@ -1,0 +1,265 @@
+[ {
+  "relationType" : "ART",
+  "extent" : "two passenger buses",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "two passenger buses",
+    "argMentionid" : "AFP_ENG_20030424.0230-E26-34",
+    "start" : 15,
+    "end" : 17
+  },
+  "relationID" : "AFP_ENG_20030424.0230-R2",
+  "mentionArg1" : {
+    "extent" : "passenger",
+    "argMentionid" : "AFP_ENG_20030424.0230-E27-35",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "AFP_ENG_20030424.0230-R2-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "LAGOS , April 24 ( AFP ) Forty-six people were killed and dozens injured when two passenger buses collided on a road outside Nigeria 's capital Abuja , national police spokesman Chris Olakpe told AFP .",
+  "sentence_index" : 0,
+  "Tokens" : [ "LAGOS", ",", "April", "24", "(", "AFP", ")", "Forty-six", "people", "were", "killed", "and", "dozens", "injured", "when", "two", "passenger", "buses", "collided", "on", "a", "road", "outside", "Nigeria", "'s", "capital", "Abuja", ",", "national", "police", "spokesman", "Chris", "Olakpe", "told", "AFP", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a road outside Nigeria's capital Abuja",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "Nigeria's capital Abuja",
+    "argMentionid" : "AFP_ENG_20030424.0230-E30-38",
+    "start" : 23,
+    "end" : 26
+  },
+  "relationID" : "AFP_ENG_20030424.0230-R3",
+  "mentionArg1" : {
+    "extent" : "a road outside Nigeria's capital Abuja",
+    "argMentionid" : "AFP_ENG_20030424.0230-E28-36",
+    "start" : 20,
+    "end" : 26
+  },
+  "id" : "AFP_ENG_20030424.0230-R3-1",
+  "relationSubType" : "Near",
+  "Sentence" : "LAGOS , April 24 ( AFP ) Forty-six people were killed and dozens injured when two passenger buses collided on a road outside Nigeria 's capital Abuja , national police spokesman Chris Olakpe told AFP .",
+  "sentence_index" : 0,
+  "Tokens" : [ "LAGOS", ",", "April", "24", "(", "AFP", ")", "Forty-six", "people", "were", "killed", "and", "dozens", "injured", "when", "two", "passenger", "buses", "collided", "on", "a", "road", "outside", "Nigeria", "'s", "capital", "Abuja", ",", "national", "police", "spokesman", "Chris", "Olakpe", "told", "AFP", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Nigeria's capital",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "Nigeria",
+    "argMentionid" : "AFP_ENG_20030424.0230-E29-37",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "AFP_ENG_20030424.0230-R4",
+  "mentionArg1" : {
+    "extent" : "Nigeria's capital",
+    "argMentionid" : "AFP_ENG_20030424.0230-E30-39",
+    "start" : 23,
+    "end" : 25
+  },
+  "id" : "AFP_ENG_20030424.0230-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "LAGOS , April 24 ( AFP ) Forty-six people were killed and dozens injured when two passenger buses collided on a road outside Nigeria 's capital Abuja , national police spokesman Chris Olakpe told AFP .",
+  "sentence_index" : 0,
+  "Tokens" : [ "LAGOS", ",", "April", "24", "(", "AFP", ")", "Forty-six", "people", "were", "killed", "and", "dozens", "injured", "when", "two", "passenger", "buses", "collided", "on", "a", "road", "outside", "Nigeria", "'s", "capital", "Abuja", ",", "national", "police", "spokesman", "Chris", "Olakpe", "told", "AFP", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "national police spokesman",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "national police",
+    "argMentionid" : "AFP_ENG_20030424.0230-E34-41",
+    "start" : 28,
+    "end" : 29
+  },
+  "relationID" : "AFP_ENG_20030424.0230-R5",
+  "mentionArg1" : {
+    "extent" : "national police spokesman",
+    "argMentionid" : "AFP_ENG_20030424.0230-E32-40",
+    "start" : 28,
+    "end" : 30
+  },
+  "id" : "AFP_ENG_20030424.0230-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "LAGOS , April 24 ( AFP ) Forty-six people were killed and dozens injured when two passenger buses collided on a road outside Nigeria 's capital Abuja , national police spokesman Chris Olakpe told AFP .",
+  "sentence_index" : 0,
+  "Tokens" : [ "LAGOS", ",", "April", "24", "(", "AFP", ")", "Forty-six", "people", "were", "killed", "and", "dozens", "injured", "when", "two", "passenger", "buses", "collided", "on", "a", "road", "outside", "Nigeria", "'s", "capital", "Abuja", ",", "national", "police", "spokesman", "Chris", "Olakpe", "told", "AFP", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Gwagwalada district of the city",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "the city",
+    "argMentionid" : "AFP_ENG_20030424.0230-E30-5",
+    "start" : 27,
+    "end" : 28
+  },
+  "relationID" : "AFP_ENG_20030424.0230-R6",
+  "mentionArg1" : {
+    "extent" : "the Gwagwalada district of the city",
+    "argMentionid" : "AFP_ENG_20030424.0230-E2-4",
+    "start" : 23,
+    "end" : 28
+  },
+  "id" : "AFP_ENG_20030424.0230-R6-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Olakpe said the two buses were travelling in opposite directions when they had a head-on collision late Tuesday at Giri junction , near the Gwagwalada district of the city .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Olakpe", "said", "the", "two", "buses", "were", "travelling", "in", "opposite", "directions", "when", "they", "had", "a", "head-on", "collision", "late", "Tuesday", "at", "Giri", "junction", ",", "near", "the", "Gwagwalada", "district", "of", "the", "city", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Earlier police had reported that 39 passengers had died, and 50 were injured and receiving treatment at the Gwagwalada Specialist Hospital",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "the Gwagwalada Specialist Hospital",
+    "argMentionid" : "AFP_ENG_20030424.0230-E6-10",
+    "start" : 18,
+    "end" : 21
+  },
+  "relationID" : "AFP_ENG_20030424.0230-R7",
+  "mentionArg1" : {
+    "extent" : "50",
+    "argMentionid" : "AFP_ENG_20030424.0230-E5-9",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "AFP_ENG_20030424.0230-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Earlier police had reported that 39 passengers had died , and 50 were injured and receiving treatment at the Gwagwalada Specialist Hospital .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Earlier", "police", "had", "reported", "that", "39", "passengers", "had", "died", ",", "and", "50", "were", "injured", "and", "receiving", "treatment", "at", "the", "Gwagwalada", "Specialist", "Hospital", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Road accidents occur regularly in Nigeria because of poor roads, disregard of traffic rules and speeding",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "Nigeria",
+    "argMentionid" : "AFP_ENG_20030424.0230-E29-17",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "AFP_ENG_20030424.0230-R8",
+  "mentionArg1" : {
+    "extent" : "poor roads",
+    "argMentionid" : "AFP_ENG_20030424.0230-E11-18",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "AFP_ENG_20030424.0230-R8-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Road accidents occur regularly in Nigeria because of poor roads , disregard of traffic rules and speeding .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Road", "accidents", "occur", "regularly", "in", "Nigeria", "because", "of", "poor", "roads", ",", "disregard", "of", "traffic", "rules", "and", "speeding", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the busy Lagos-Ibadan expressway, near the economic capital Lagos",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "the economic capital Lagos",
+    "argMentionid" : "AFP_ENG_20030424.0230-E17-25",
+    "start" : 24,
+    "end" : 27
+  },
+  "relationID" : "AFP_ENG_20030424.0230-R9",
+  "mentionArg1" : {
+    "extent" : "the busy Lagos-Ibadan expressway",
+    "argMentionid" : "AFP_ENG_20030424.0230-E16-22",
+    "start" : 18,
+    "end" : 21
+  },
+  "id" : "AFP_ENG_20030424.0230-R9-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Two weeks ago , some 30 people were killed in an eight-vehicle pile up in southwest Nigeria on the busy Lagos-Ibadan expressway , near the economic capital Lagos .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Two", "weeks", "ago", ",", "some", "30", "people", "were", "killed", "in", "an", "eight-vehicle", "pile", "up", "in", "southwest", "Nigeria", "on", "the", "busy", "Lagos-Ibadan", "expressway", ",", "near", "the", "economic", "capital", "Lagos", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the busy Lagos-Ibadan expressway",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Lagos",
+    "argMentionid" : "AFP_ENG_20030424.0230-E17-23",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "AFP_ENG_20030424.0230-R9",
+  "mentionArg1" : {
+    "extent" : "the busy Lagos-Ibadan expressway",
+    "argMentionid" : "AFP_ENG_20030424.0230-E16-22",
+    "start" : 18,
+    "end" : 21
+  },
+  "id" : "AFP_ENG_20030424.0230-R9-2",
+  "relationSubType" : "Near",
+  "Sentence" : "Two weeks ago , some 30 people were killed in an eight-vehicle pile up in southwest Nigeria on the busy Lagos-Ibadan expressway , near the economic capital Lagos .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Two", "weeks", "ago", ",", "some", "30", "people", "were", "killed", "in", "an", "eight-vehicle", "pile", "up", "in", "southwest", "Nigeria", "on", "the", "busy", "Lagos-Ibadan", "expressway", ",", "near", "the", "economic", "capital", "Lagos", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Two weeks ago, some 30 people were killed in an eight-vehicle pile up in southwest Nigeria on the busy Lagos-Ibadan expressway, near the economic capital Lagos",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "southwest Nigeria",
+    "argMentionid" : "AFP_ENG_20030424.0230-E15-21",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "AFP_ENG_20030424.0230-R10",
+  "mentionArg1" : {
+    "extent" : "the busy Lagos-Ibadan expressway",
+    "argMentionid" : "AFP_ENG_20030424.0230-E16-22",
+    "start" : 18,
+    "end" : 21
+  },
+  "id" : "AFP_ENG_20030424.0230-R10-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Two weeks ago , some 30 people were killed in an eight-vehicle pile up in southwest Nigeria on the busy Lagos-Ibadan expressway , near the economic capital Lagos .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Two", "weeks", "ago", ",", "some", "30", "people", "were", "killed", "in", "an", "eight-vehicle", "pile", "up", "in", "southwest", "Nigeria", "on", "the", "busy", "Lagos-Ibadan", "expressway", ",", "near", "the", "economic", "capital", "Lagos", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the busy Lagos-Ibadan expressway",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Ibadan",
+    "argMentionid" : "AFP_ENG_20030424.0230-E18-24",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "AFP_ENG_20030424.0230-R11",
+  "mentionArg1" : {
+    "extent" : "the busy Lagos-Ibadan expressway",
+    "argMentionid" : "AFP_ENG_20030424.0230-E16-22",
+    "start" : 18,
+    "end" : 21
+  },
+  "id" : "AFP_ENG_20030424.0230-R11-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Two weeks ago , some 30 people were killed in an eight-vehicle pile up in southwest Nigeria on the busy Lagos-Ibadan expressway , near the economic capital Lagos .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Two", "weeks", "ago", ",", "some", "30", "people", "were", "killed", "in", "an", "eight-vehicle", "pile", "up", "in", "southwest", "Nigeria", "on", "the", "busy", "Lagos-Ibadan", "expressway", ",", "near", "the", "economic", "capital", "Lagos", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Two weeks ago, some 30 people were killed in an eight-vehicle pile up in southwest Nigeria on the busy Lagos-Ibadan expressway, near the economic capital Lagos",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "the busy Lagos-Ibadan expressway",
+    "argMentionid" : "AFP_ENG_20030424.0230-E16-22",
+    "start" : 18,
+    "end" : 21
+  },
+  "relationID" : "AFP_ENG_20030424.0230-R12",
+  "mentionArg1" : {
+    "extent" : "some 30 people",
+    "argMentionid" : "AFP_ENG_20030424.0230-E12-19",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "AFP_ENG_20030424.0230-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Two weeks ago , some 30 people were killed in an eight-vehicle pile up in southwest Nigeria on the busy Lagos-Ibadan expressway , near the economic capital Lagos .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Two", "weeks", "ago", ",", "some", "30", "people", "were", "killed", "in", "an", "eight-vehicle", "pile", "up", "in", "southwest", "Nigeria", "on", "the", "busy", "Lagos-Ibadan", "expressway", ",", "near", "the", "economic", "capital", "Lagos", "." ]
+} ]

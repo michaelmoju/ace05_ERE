@@ -1,0 +1,133 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "sharon osbourne did not enjoy her meal at a los angeles restaurant last night",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "a los angeles restaurant",
+    "argMentionid" : "CNNHL_ENG_20030411_230640.38-E5-8",
+    "start" : 8,
+    "end" : 11
+  },
+  "relationID" : "CNNHL_ENG_20030411_230640.38-R1",
+  "mentionArg1" : {
+    "extent" : "sharon osbourne",
+    "argMentionid" : "CNNHL_ENG_20030411_230640.38-E4-1",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNNHL_ENG_20030411_230640.38-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "sharon osbourne did not enjoy her meal at a los angeles restaurant last night. ozzy 's wife reportedly got into a fight with hollywood agent renee tab. sharon spit on tab and called her names. osbourne 's spokeswomen says sharon was quote , \" viciously assaulted and treated at a hospital . \"",
+  "sentence_index" : 0,
+  "Tokens" : [ "sharon", "osbourne", "did", "not", "enjoy", "her", "meal", "at", "a", "los", "angeles", "restaurant", "last", "night.", "ozzy", "'s", "wife", "reportedly", "got", "into", "a", "fight", "with", "hollywood", "agent", "renee", "tab.", "sharon", "spit", "on", "tab", "and", "called", "her", "names.", "osbourne", "'s", "spokeswomen", "says", "sharon", "was", "quote", ",", "\"", "viciously", "assaulted", "and", "treated", "at", "a", "hospital", ".", "\"" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a los angeles restaurant",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "los angeles",
+    "argMentionid" : "CNNHL_ENG_20030411_230640.38-E6-9",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "CNNHL_ENG_20030411_230640.38-R2",
+  "mentionArg1" : {
+    "extent" : "a los angeles restaurant",
+    "argMentionid" : "CNNHL_ENG_20030411_230640.38-E5-8",
+    "start" : 8,
+    "end" : 11
+  },
+  "id" : "CNNHL_ENG_20030411_230640.38-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "sharon osbourne did not enjoy her meal at a los angeles restaurant last night. ozzy 's wife reportedly got into a fight with hollywood agent renee tab. sharon spit on tab and called her names. osbourne 's spokeswomen says sharon was quote , \" viciously assaulted and treated at a hospital . \"",
+  "sentence_index" : 0,
+  "Tokens" : [ "sharon", "osbourne", "did", "not", "enjoy", "her", "meal", "at", "a", "los", "angeles", "restaurant", "last", "night.", "ozzy", "'s", "wife", "reportedly", "got", "into", "a", "fight", "with", "hollywood", "agent", "renee", "tab.", "sharon", "spit", "on", "tab", "and", "called", "her", "names.", "osbourne", "'s", "spokeswomen", "says", "sharon", "was", "quote", ",", "\"", "viciously", "assaulted", "and", "treated", "at", "a", "hospital", ".", "\"" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "ozzy's wife",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "ozzy's wife",
+    "argMentionid" : "CNNHL_ENG_20030411_230640.38-E4-10",
+    "start" : 14,
+    "end" : 16
+  },
+  "relationID" : "CNNHL_ENG_20030411_230640.38-R3",
+  "mentionArg1" : {
+    "extent" : "ozzy",
+    "argMentionid" : "CNNHL_ENG_20030411_230640.38-E7-11",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "CNNHL_ENG_20030411_230640.38-R3-1",
+  "relationSubType" : "Family",
+  "Sentence" : "sharon osbourne did not enjoy her meal at a los angeles restaurant last night. ozzy 's wife reportedly got into a fight with hollywood agent renee tab. sharon spit on tab and called her names. osbourne 's spokeswomen says sharon was quote , \" viciously assaulted and treated at a hospital . \"",
+  "sentence_index" : 0,
+  "Tokens" : [ "sharon", "osbourne", "did", "not", "enjoy", "her", "meal", "at", "a", "los", "angeles", "restaurant", "last", "night.", "ozzy", "'s", "wife", "reportedly", "got", "into", "a", "fight", "with", "hollywood", "agent", "renee", "tab.", "sharon", "spit", "on", "tab", "and", "called", "her", "names.", "osbourne", "'s", "spokeswomen", "says", "sharon", "was", "quote", ",", "\"", "viciously", "assaulted", "and", "treated", "at", "a", "hospital", ".", "\"" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "osbourne's spokeswomen",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "osbourne's spokeswomen",
+    "argMentionid" : "CNNHL_ENG_20030411_230640.38-E11-17",
+    "start" : 35,
+    "end" : 37
+  },
+  "relationID" : "CNNHL_ENG_20030411_230640.38-R4",
+  "mentionArg1" : {
+    "extent" : "osbourne",
+    "argMentionid" : "CNNHL_ENG_20030411_230640.38-E4-18",
+    "start" : 35,
+    "end" : 35
+  },
+  "id" : "CNNHL_ENG_20030411_230640.38-R4-1",
+  "relationSubType" : "Business",
+  "Sentence" : "sharon osbourne did not enjoy her meal at a los angeles restaurant last night. ozzy 's wife reportedly got into a fight with hollywood agent renee tab. sharon spit on tab and called her names. osbourne 's spokeswomen says sharon was quote , \" viciously assaulted and treated at a hospital . \"",
+  "sentence_index" : 0,
+  "Tokens" : [ "sharon", "osbourne", "did", "not", "enjoy", "her", "meal", "at", "a", "los", "angeles", "restaurant", "last", "night.", "ozzy", "'s", "wife", "reportedly", "got", "into", "a", "fight", "with", "hollywood", "agent", "renee", "tab.", "sharon", "spit", "on", "tab", "and", "called", "her", "names.", "osbourne", "'s", "spokeswomen", "says", "sharon", "was", "quote", ",", "\"", "viciously", "assaulted", "and", "treated", "at", "a", "hospital", ".", "\"" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "sharon spit on tab and called her names. osbourne's spokeswomen says sharon was quote, \"viciously assaulted and treated at a hospital",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "a hospital",
+    "argMentionid" : "CNNHL_ENG_20030411_230640.38-E12-20",
+    "start" : 49,
+    "end" : 50
+  },
+  "relationID" : "CNNHL_ENG_20030411_230640.38-R5",
+  "mentionArg1" : {
+    "extent" : "sharon",
+    "argMentionid" : "CNNHL_ENG_20030411_230640.38-E4-19",
+    "start" : 39,
+    "end" : 39
+  },
+  "id" : "CNNHL_ENG_20030411_230640.38-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "sharon osbourne did not enjoy her meal at a los angeles restaurant last night. ozzy 's wife reportedly got into a fight with hollywood agent renee tab. sharon spit on tab and called her names. osbourne 's spokeswomen says sharon was quote , \" viciously assaulted and treated at a hospital . \"",
+  "sentence_index" : 0,
+  "Tokens" : [ "sharon", "osbourne", "did", "not", "enjoy", "her", "meal", "at", "a", "los", "angeles", "restaurant", "last", "night.", "ozzy", "'s", "wife", "reportedly", "got", "into", "a", "fight", "with", "hollywood", "agent", "renee", "tab.", "sharon", "spit", "on", "tab", "and", "called", "her", "names.", "osbourne", "'s", "spokeswomen", "says", "sharon", "was", "quote", ",", "\"", "viciously", "assaulted", "and", "treated", "at", "a", "hospital", ".", "\"" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her family",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "her family",
+    "argMentionid" : "CNNHL_ENG_20030411_230640.38-E2-4",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "CNNHL_ENG_20030411_230640.38-R6",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNNHL_ENG_20030411_230640.38-E4-5",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "CNNHL_ENG_20030411_230640.38-R6-1",
+  "relationSubType" : "Family",
+  "Sentence" : "disagreement between the women began months ago when osbourne said tab atended her family 's new year 's eve party uninvited and then won the door prize , a $15,000 necklace. a spokesman says that if any charges are filed , they will be on the low end of the misdemeanor scale .",
+  "sentence_index" : 1,
+  "Tokens" : [ "disagreement", "between", "the", "women", "began", "months", "ago", "when", "osbourne", "said", "tab", "atended", "her", "family", "'s", "new", "year", "'s", "eve", "party", "uninvited", "and", "then", "won", "the", "door", "prize", ",", "a", "$15,000", "necklace.", "a", "spokesman", "says", "that", "if", "any", "charges", "are", "filed", ",", "they", "will", "be", "on", "the", "low", "end", "of", "the", "misdemeanor", "scale", "." ]
+} ]

@@ -1,0 +1,243 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "his wife",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "his wife",
+    "argMentionid" : "fsh_29395-E15-111",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "fsh_29395-R1",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29395-E1-186",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "fsh_29395-R1-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Criminal Trials / Peterson Scott Peterson has been found guilty of murdering his wife Laci and their unborn son , and he now faces the death penalty .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Criminal", "Trials", "/", "Peterson", "Scott", "Peterson", "has", "been", "found", "guilty", "of", "murdering", "his", "wife", "Laci", "and", "their", "unborn", "son", ",", "and", "he", "now", "faces", "the", "death", "penalty", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their unborn son",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "their unborn son",
+    "argMentionid" : "fsh_29395-E32-214",
+    "start" : 16,
+    "end" : 18
+  },
+  "relationID" : "fsh_29395-R2",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "fsh_29395-E41-215",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "fsh_29395-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Criminal Trials / Peterson Scott Peterson has been found guilty of murdering his wife Laci and their unborn son , and he now faces the death penalty .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Criminal", "Trials", "/", "Peterson", "Scott", "Peterson", "has", "been", "found", "guilty", "of", "murdering", "his", "wife", "Laci", "and", "their", "unborn", "son", ",", "and", "he", "now", "faces", "the", "death", "penalty", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their first",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "their first",
+    "argMentionid" : "fsh_29395-E32-173",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "fsh_29395-R2",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "fsh_29395-E41-162",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "fsh_29395-R2-2",
+  "relationSubType" : "Family",
+  "Sentence" : "Winnette that was -- No , that was going to be their first .",
+  "sentence_index" : 82,
+  "Tokens" : [ "Winnette", "that", "was", "--", "No", ",", "that", "was", "going", "to", "be", "their", "first", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Winnette, in Michigan",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "Michigan",
+    "argMentionid" : "fsh_29395-E46-220",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "fsh_29395-R3",
+  "mentionArg1" : {
+    "extent" : "Winnette",
+    "argMentionid" : "fsh_29395-E33-175",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "fsh_29395-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Winnette Hi , this is Winnette , in Michigan .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Winnette", "Hi", ",", "this", "is", "Winnette", ",", "in", "Michigan", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "You're in Michigan, huh",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "Michigan",
+    "argMentionid" : "fsh_29395-E46-12",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "fsh_29395-R3",
+  "mentionArg1" : {
+    "extent" : "You",
+    "argMentionid" : "fsh_29395-E33-11",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29395-R3-2",
+  "relationSubType" : "Located",
+  "Sentence" : "You 're in Michigan , huh ?",
+  "sentence_index" : 14,
+  "Tokens" : [ "You", "'re", "in", "Michigan", ",", "huh", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Sullivan, Illinois",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "Illinois",
+    "argMentionid" : "fsh_29395-E48-222",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "fsh_29395-R4",
+  "mentionArg1" : {
+    "extent" : "Sullivan, Illinois",
+    "argMentionid" : "fsh_29395-E47-221",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "fsh_29395-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Irvin Hi this is Irvin , Sullivan , Illinois .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Irvin", "Hi", "this", "is", "Irvin", ",", "Sullivan", ",", "Illinois", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Irvin, Sullivan, Illinois",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "Sullivan, Illinois",
+    "argMentionid" : "fsh_29395-E47-221",
+    "start" : 6,
+    "end" : 8
+  },
+  "relationID" : "fsh_29395-R5",
+  "mentionArg1" : {
+    "extent" : "Irvin",
+    "argMentionid" : "fsh_29395-E34-177",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "fsh_29395-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Irvin Hi this is Irvin , Sullivan , Illinois .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Irvin", "Hi", "this", "is", "Irvin", ",", "Sullivan", ",", "Illinois", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our employees",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "fsh_29395-E8-181",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "fsh_29395-R7",
+  "mentionArg1" : {
+    "extent" : "our employees",
+    "argMentionid" : "fsh_29395-E11-72",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "fsh_29395-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Winnette um actually one of our employees had wa- watched (( happening )) -- so from that point on we kind of -- talked a lot about it at work and Irvin How long ago was it ?",
+  "sentence_index" : 35,
+  "Tokens" : [ "Winnette", "um", "actually", "one", "of", "our", "employees", "had", "wa-", "watched", "((", "happening", "))", "--", "so", "from", "that", "point", "on", "we", "kind", "of", "--", "talked", "a", "lot", "about", "it", "at", "work", "and", "Irvin", "How", "long", "ago", "was", "it", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "and uh -- when it first happened it was -- pretty publicized on every radio station um -- it come across -- on the news and we keep our ~TV on at my work, because we have a customer waiting area, so",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "a customer waiting area",
+    "argMentionid" : "fsh_29395-E9-66",
+    "start" : 40,
+    "end" : 43
+  },
+  "relationID" : "fsh_29395-R8",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "fsh_29395-E8-64",
+    "start" : 38,
+    "end" : 38
+  },
+  "id" : "fsh_29395-R8-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Winnette and uh -- when it first happened it was -- pretty publicized on every radio station um -- it come across -- on the news and we keep our ~ TV on at my work , because we have a customer waiting area , so Irvin Oh , uh-huh .",
+  "sentence_index" : 34,
+  "Tokens" : [ "Winnette", "and", "uh", "--", "when", "it", "first", "happened", "it", "was", "--", "pretty", "publicized", "on", "every", "radio", "station", "um", "--", "it", "come", "across", "--", "on", "the", "news", "and", "we", "keep", "our", "~", "TV", "on", "at", "my", "work", ",", "because", "we", "have", "a", "customer", "waiting", "area", ",", "so", "Irvin", "Oh", ",", "uh-huh", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Um, actually she was pregnant for the baby",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "the baby",
+    "argMentionid" : "fsh_29395-E32-107",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "fsh_29395-R9",
+  "mentionArg1" : {
+    "extent" : "she",
+    "argMentionid" : "fsh_29395-E15-106",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29395-R9-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Um , actually she was pregnant for the baby .",
+  "sentence_index" : 48,
+  "Tokens" : [ "Um", ",", "actually", "she", "was", "pregnant", "for", "the", "baby", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "So is he is he still um -- in prison now",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "prison",
+    "argMentionid" : "fsh_29395-E25-166",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "fsh_29395-R10",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "fsh_29395-E1-190",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "fsh_29395-R10-1",
+  "relationSubType" : "Located",
+  "Sentence" : "So is he is he still um -- in prison now ?",
+  "sentence_index" : 60,
+  "Tokens" : [ "So", "is", "he", "is", "he", "still", "um", "--", "in", "prison", "now", "?" ]
+} ]

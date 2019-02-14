@@ -1,0 +1,243 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "15,000 companies in the united states",
+  "sentence_length" : 118,
+  "mentionArg2" : {
+    "extent" : "the united states",
+    "argMentionid" : "CNN_ENG_20030513_170507.15-E40-93",
+    "start" : 24,
+    "end" : 26
+  },
+  "relationID" : "CNN_ENG_20030513_170507.15-R1",
+  "mentionArg1" : {
+    "extent" : "15,000 companies in the united states",
+    "argMentionid" : "CNN_ENG_20030513_170507.15-E39-92",
+    "start" : 21,
+    "end" : 26
+  },
+  "id" : "CNN_ENG_20030513_170507.15-R1-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "well , no. i think that quote is a little out of context there. there are a number -- there are 15,000 companies in the united states , and i think the great bulk of them are very honestly managed and so forth. there have been a few -- a number of people have had egregious fraud and so forth. there 's been a general loosening of morals across the board. what i was referring to in that quote you had was the number of cases we see day in and day out at the lowest levels , scams and so forth , where considerable amounts of money are being made and lost by relatively small investors .",
+  "sentence_index" : 3,
+  "Tokens" : [ "well", ",", "no.", "i", "think", "that", "quote", "is", "a", "little", "out", "of", "context", "there.", "there", "are", "a", "number", "--", "there", "are", "15,000", "companies", "in", "the", "united", "states", ",", "and", "i", "think", "the", "great", "bulk", "of", "them", "are", "very", "honestly", "managed", "and", "so", "forth.", "there", "have", "been", "a", "few", "--", "a", "number", "of", "people", "have", "had", "egregious", "fraud", "and", "so", "forth.", "there", "'s", "been", "a", "general", "loosening", "of", "morals", "across", "the", "board.", "what", "i", "was", "referring", "to", "in", "that", "quote", "you", "had", "was", "the", "number", "of", "cases", "we", "see", "day", "in", "and", "day", "out", "at", "the", "lowest", "levels", ",", "scams", "and", "so", "forth", ",", "where", "considerable", "amounts", "of", "money", "are", "being", "made", "and", "lost", "by", "relatively", "small", "investors", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "i think a number of the reforms that have come via the sarbanes-oxley act and a number of things that we have done at the sec are basically making everybody take a new look at how they're performing their duty as a director, how they're performing their duties on audit committees and compensation committees and in wall street",
+  "sentence_length" : 107,
+  "mentionArg2" : {
+    "extent" : "audit committees",
+    "argMentionid" : "CNN_ENG_20030513_170507.15-E10-20",
+    "start" : 65,
+    "end" : 66
+  },
+  "relationID" : "CNN_ENG_20030513_170507.15-R3",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_ENG_20030513_170507.15-E6-19",
+    "start" : 62,
+    "end" : 62
+  },
+  "id" : "CNN_ENG_20030513_170507.15-R3-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "well , i think that the -- the marketplace is becoming increasingly secure. i think a number of the reforms that have come via the sarbanes-oxley act and a number of things that we have done at the sec are basically making everybody take a new look at how they 're performing their duty as a director , how they 're performing their duties on audit committees and compensation committees and in wall street. i think the reforms that came as a part of the large settlement are going to change the way research and investment banking are done to the betterment of the individual investor .",
+  "sentence_index" : 5,
+  "Tokens" : [ "well", ",", "i", "think", "that", "the", "--", "the", "marketplace", "is", "becoming", "increasingly", "secure.", "i", "think", "a", "number", "of", "the", "reforms", "that", "have", "come", "via", "the", "sarbanes-oxley", "act", "and", "a", "number", "of", "things", "that", "we", "have", "done", "at", "the", "sec", "are", "basically", "making", "everybody", "take", "a", "new", "look", "at", "how", "they", "'re", "performing", "their", "duty", "as", "a", "director", ",", "how", "they", "'re", "performing", "their", "duties", "on", "audit", "committees", "and", "compensation", "committees", "and", "in", "wall", "street.", "i", "think", "the", "reforms", "that", "came", "as", "a", "part", "of", "the", "large", "settlement", "are", "going", "to", "change", "the", "way", "research", "and", "investment", "banking", "are", "done", "to", "the", "betterment", "of", "the", "individual", "investor", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "i think a number of the reforms that have come via the sarbanes-oxley act and a number of things that we have done at the sec are basically making everybody take a new look at how they're performing their duty as a director, how they're performing their duties on audit committees and compensation committees and in wall street",
+  "sentence_length" : 107,
+  "mentionArg2" : {
+    "extent" : "compensation committees",
+    "argMentionid" : "CNN_ENG_20030513_170507.15-E11-21",
+    "start" : 68,
+    "end" : 69
+  },
+  "relationID" : "CNN_ENG_20030513_170507.15-R4",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_ENG_20030513_170507.15-E6-19",
+    "start" : 62,
+    "end" : 62
+  },
+  "id" : "CNN_ENG_20030513_170507.15-R4-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "well , i think that the -- the marketplace is becoming increasingly secure. i think a number of the reforms that have come via the sarbanes-oxley act and a number of things that we have done at the sec are basically making everybody take a new look at how they 're performing their duty as a director , how they 're performing their duties on audit committees and compensation committees and in wall street. i think the reforms that came as a part of the large settlement are going to change the way research and investment banking are done to the betterment of the individual investor .",
+  "sentence_index" : 5,
+  "Tokens" : [ "well", ",", "i", "think", "that", "the", "--", "the", "marketplace", "is", "becoming", "increasingly", "secure.", "i", "think", "a", "number", "of", "the", "reforms", "that", "have", "come", "via", "the", "sarbanes-oxley", "act", "and", "a", "number", "of", "things", "that", "we", "have", "done", "at", "the", "sec", "are", "basically", "making", "everybody", "take", "a", "new", "look", "at", "how", "they", "'re", "performing", "their", "duty", "as", "a", "director", ",", "how", "they", "'re", "performing", "their", "duties", "on", "audit", "committees", "and", "compensation", "committees", "and", "in", "wall", "street.", "i", "think", "the", "reforms", "that", "came", "as", "a", "part", "of", "the", "large", "settlement", "are", "going", "to", "change", "the", "way", "research", "and", "investment", "banking", "are", "done", "to", "the", "betterment", "of", "the", "individual", "investor", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "phil purcell of morgan stanley",
+  "sentence_length" : 92,
+  "mentionArg2" : {
+    "extent" : "morgan stanley",
+    "argMentionid" : "CNN_ENG_20030513_170507.15-E15-31",
+    "start" : 26,
+    "end" : 27
+  },
+  "relationID" : "CNN_ENG_20030513_170507.15-R5",
+  "mentionArg1" : {
+    "extent" : "phil purcell of morgan stanley",
+    "argMentionid" : "CNN_ENG_20030513_170507.15-E14-30",
+    "start" : 23,
+    "end" : 27
+  },
+  "id" : "CNN_ENG_20030513_170507.15-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "and some people are surprised and i might even add pleased in this city that your sec has been quick to react when phil purcell of morgan stanley made a statement that your sec did n't think and that you did n't think expressed appropriate contrition when bear stearns stepped out of line in the view of the sec. it was n't a polite phone call quietly made , either from your enforcement division or from your office. it was rather public. is that the way you 're going to operate ?",
+  "sentence_index" : 6,
+  "Tokens" : [ "and", "some", "people", "are", "surprised", "and", "i", "might", "even", "add", "pleased", "in", "this", "city", "that", "your", "sec", "has", "been", "quick", "to", "react", "when", "phil", "purcell", "of", "morgan", "stanley", "made", "a", "statement", "that", "your", "sec", "did", "n't", "think", "and", "that", "you", "did", "n't", "think", "expressed", "appropriate", "contrition", "when", "bear", "stearns", "stepped", "out", "of", "line", "in", "the", "view", "of", "the", "sec.", "it", "was", "n't", "a", "polite", "phone", "call", "quietly", "made", ",", "either", "from", "your", "enforcement", "division", "or", "from", "your", "office.", "it", "was", "rather", "public.", "is", "that", "the", "way", "you", "'re", "going", "to", "operate", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "and some people are surprised and i might even add pleased in this city that your sec has been quick to react when phil purcell of morgan stanley made a statement that your sec didn't think and that you didn't think expressed appropriate contrition when bear stearns stepped out of line in the view of the sec",
+  "sentence_length" : 92,
+  "mentionArg2" : {
+    "extent" : "this city",
+    "argMentionid" : "CNN_ENG_20030513_170507.15-E13-27",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "CNN_ENG_20030513_170507.15-R6",
+  "mentionArg1" : {
+    "extent" : "some people",
+    "argMentionid" : "CNN_ENG_20030513_170507.15-E12-25",
+    "start" : 1,
+    "end" : 2
+  },
+  "id" : "CNN_ENG_20030513_170507.15-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "and some people are surprised and i might even add pleased in this city that your sec has been quick to react when phil purcell of morgan stanley made a statement that your sec did n't think and that you did n't think expressed appropriate contrition when bear stearns stepped out of line in the view of the sec. it was n't a polite phone call quietly made , either from your enforcement division or from your office. it was rather public. is that the way you 're going to operate ?",
+  "sentence_index" : 6,
+  "Tokens" : [ "and", "some", "people", "are", "surprised", "and", "i", "might", "even", "add", "pleased", "in", "this", "city", "that", "your", "sec", "has", "been", "quick", "to", "react", "when", "phil", "purcell", "of", "morgan", "stanley", "made", "a", "statement", "that", "your", "sec", "did", "n't", "think", "and", "that", "you", "did", "n't", "think", "expressed", "appropriate", "contrition", "when", "bear", "stearns", "stepped", "out", "of", "line", "in", "the", "view", "of", "the", "sec.", "it", "was", "n't", "a", "polite", "phone", "call", "quietly", "made", ",", "either", "from", "your", "enforcement", "division", "or", "from", "your", "office.", "it", "was", "rather", "public.", "is", "that", "the", "way", "you", "'re", "going", "to", "operate", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the people running those firms on wall street",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "those firms on wall street",
+    "argMentionid" : "CNN_ENG_20030513_170507.15-E24-55",
+    "start" : 14,
+    "end" : 18
+  },
+  "relationID" : "CNN_ENG_20030513_170507.15-R7",
+  "mentionArg1" : {
+    "extent" : "the people running those firms on wall street",
+    "argMentionid" : "CNN_ENG_20030513_170507.15-E23-54",
+    "start" : 11,
+    "end" : 18
+  },
+  "id" : "CNN_ENG_20030513_170507.15-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "and i think perhaps no one more surprised than some of the people running those firms on wall street. you have also expressed concern about excessive executive compensation , particularly ceo compensation. is there really anything that can be done about this problem ?",
+  "sentence_index" : 8,
+  "Tokens" : [ "and", "i", "think", "perhaps", "no", "one", "more", "surprised", "than", "some", "of", "the", "people", "running", "those", "firms", "on", "wall", "street.", "you", "have", "also", "expressed", "concern", "about", "excessive", "executive", "compensation", ",", "particularly", "ceo", "compensation.", "is", "there", "really", "anything", "that", "can", "be", "done", "about", "this", "problem", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "i think there are a number of other measures that tell how -- or indicate how well somebody's doing running a company",
+  "sentence_length" : 88,
+  "mentionArg2" : {
+    "extent" : "a company",
+    "argMentionid" : "CNN_ENG_20030513_170507.15-E28-68",
+    "start" : 72,
+    "end" : 73
+  },
+  "relationID" : "CNN_ENG_20030513_170507.15-R9",
+  "mentionArg1" : {
+    "extent" : "somebody",
+    "argMentionid" : "CNN_ENG_20030513_170507.15-E27-67",
+    "start" : 68,
+    "end" : 68
+  },
+  "id" : "CNN_ENG_20030513_170507.15-R9-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "i think so , lou. i think the real next step here is for compensation committees to spend a little more time than they do on what they 're really compensating for. i think there 's been too much emphasis on performance defined strictly by stock performance and earnings per share. i think there are a number of other measures that tell how -- or indicate how well somebody 's doing running a company. and i think corporation boards need to spend more time on that dimension .",
+  "sentence_index" : 9,
+  "Tokens" : [ "i", "think", "so", ",", "lou.", "i", "think", "the", "real", "next", "step", "here", "is", "for", "compensation", "committees", "to", "spend", "a", "little", "more", "time", "than", "they", "do", "on", "what", "they", "'re", "really", "compensating", "for.", "i", "think", "there", "'s", "been", "too", "much", "emphasis", "on", "performance", "defined", "strictly", "by", "stock", "performance", "and", "earnings", "per", "share.", "i", "think", "there", "are", "a", "number", "of", "other", "measures", "that", "tell", "how", "--", "or", "indicate", "how", "well", "somebody", "'s", "doing", "running", "a", "company.", "and", "i", "think", "corporation", "boards", "need", "to", "spend", "more", "time", "on", "that", "dimension", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "your sec",
+  "sentence_length" : 92,
+  "mentionArg2" : {
+    "extent" : "your sec",
+    "argMentionid" : "CNN_ENG_20030513_170507.15-E35-28",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "CNN_ENG_20030513_170507.15-R12",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "CNN_ENG_20030513_170507.15-E33-29",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "CNN_ENG_20030513_170507.15-R12-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "and some people are surprised and i might even add pleased in this city that your sec has been quick to react when phil purcell of morgan stanley made a statement that your sec did n't think and that you did n't think expressed appropriate contrition when bear stearns stepped out of line in the view of the sec. it was n't a polite phone call quietly made , either from your enforcement division or from your office. it was rather public. is that the way you 're going to operate ?",
+  "sentence_index" : 6,
+  "Tokens" : [ "and", "some", "people", "are", "surprised", "and", "i", "might", "even", "add", "pleased", "in", "this", "city", "that", "your", "sec", "has", "been", "quick", "to", "react", "when", "phil", "purcell", "of", "morgan", "stanley", "made", "a", "statement", "that", "your", "sec", "did", "n't", "think", "and", "that", "you", "did", "n't", "think", "expressed", "appropriate", "contrition", "when", "bear", "stearns", "stepped", "out", "of", "line", "in", "the", "view", "of", "the", "sec.", "it", "was", "n't", "a", "polite", "phone", "call", "quietly", "made", ",", "either", "from", "your", "enforcement", "division", "or", "from", "your", "office.", "it", "was", "rather", "public.", "is", "that", "the", "way", "you", "'re", "going", "to", "operate", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "your sec",
+  "sentence_length" : 92,
+  "mentionArg2" : {
+    "extent" : "your sec",
+    "argMentionid" : "CNN_ENG_20030513_170507.15-E35-32",
+    "start" : 32,
+    "end" : 33
+  },
+  "relationID" : "CNN_ENG_20030513_170507.15-R12",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "CNN_ENG_20030513_170507.15-E33-33",
+    "start" : 32,
+    "end" : 32
+  },
+  "id" : "CNN_ENG_20030513_170507.15-R12-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "and some people are surprised and i might even add pleased in this city that your sec has been quick to react when phil purcell of morgan stanley made a statement that your sec did n't think and that you did n't think expressed appropriate contrition when bear stearns stepped out of line in the view of the sec. it was n't a polite phone call quietly made , either from your enforcement division or from your office. it was rather public. is that the way you 're going to operate ?",
+  "sentence_index" : 6,
+  "Tokens" : [ "and", "some", "people", "are", "surprised", "and", "i", "might", "even", "add", "pleased", "in", "this", "city", "that", "your", "sec", "has", "been", "quick", "to", "react", "when", "phil", "purcell", "of", "morgan", "stanley", "made", "a", "statement", "that", "your", "sec", "did", "n't", "think", "and", "that", "you", "did", "n't", "think", "expressed", "appropriate", "contrition", "when", "bear", "stearns", "stepped", "out", "of", "line", "in", "the", "view", "of", "the", "sec.", "it", "was", "n't", "a", "polite", "phone", "call", "quietly", "made", ",", "either", "from", "your", "enforcement", "division", "or", "from", "your", "office.", "it", "was", "rather", "public.", "is", "that", "the", "way", "you", "'re", "going", "to", "operate", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "chairman of the sec",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "the sec",
+    "argMentionid" : "CNN_ENG_20030513_170507.15-E35-72",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNN_ENG_20030513_170507.15-R12",
+  "mentionArg1" : {
+    "extent" : "chairman of the sec",
+    "argMentionid" : "CNN_ENG_20030513_170507.15-E33-75",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "CNN_ENG_20030513_170507.15-R12-3",
+  "relationSubType" : "Employment",
+  "Sentence" : "and with you as chairman of the sec exercising your bully pulpit , one assumes that",
+  "sentence_index" : 10,
+  "Tokens" : [ "and", "with", "you", "as", "chairman", "of", "the", "sec", "exercising", "your", "bully", "pulpit", ",", "one", "assumes", "that" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the chairman of the securities and exchange commission",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "the securities and exchange commission",
+    "argMentionid" : "CNN_ENG_20030513_170507.15-E35-81",
+    "start" : 9,
+    "end" : 13
+  },
+  "relationID" : "CNN_ENG_20030513_170507.15-R12",
+  "mentionArg1" : {
+    "extent" : "the chairman of the securities and exchange commission",
+    "argMentionid" : "CNN_ENG_20030513_170507.15-E33-79",
+    "start" : 6,
+    "end" : 13
+  },
+  "id" : "CNN_ENG_20030513_170507.15-R12-4",
+  "relationSubType" : "Employment",
+  "Sentence" : "well , joining us now , the chairman of the securities and exchange commission , william donaldson. mr. chairman , it 's good to have you here .",
+  "sentence_index" : 0,
+  "Tokens" : [ "well", ",", "joining", "us", "now", ",", "the", "chairman", "of", "the", "securities", "and", "exchange", "commission", ",", "william", "donaldson.", "mr.", "chairman", ",", "it", "'s", "good", "to", "have", "you", "here", "." ]
+} ]

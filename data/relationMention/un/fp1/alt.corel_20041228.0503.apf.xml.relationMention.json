@@ -1,0 +1,529 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "your coastal villages and resorts",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "your",
+    "argMentionid" : "alt.corel_20041228.0503-E9-27",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "alt.corel_20041228.0503-R1",
+  "mentionArg1" : {
+    "extent" : "your coastal villages and resorts",
+    "argMentionid" : "alt.corel_20041228.0503-E19-29",
+    "start" : 24,
+    "end" : 28
+  },
+  "id" : "alt.corel_20041228.0503-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "A voice on the other end of the line says he 's a scientist with NOAA and that a tsunami is bearing down on your coastal villages and resorts .",
+  "sentence_index" : 14,
+  "Tokens" : [ "A", "voice", "on", "the", "other", "end", "of", "the", "line", "says", "he", "'s", "a", "scientist", "with", "NOAA", "and", "that", "a", "tsunami", "is", "bearing", "down", "on", "your", "coastal", "villages", "and", "resorts", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Jeff LaDouce of the National Oceanic and Atmospheric Administration",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "the National Oceanic and Atmospheric Administration",
+    "argMentionid" : "alt.corel_20041228.0503-E1-122",
+    "start" : 24,
+    "end" : 29
+  },
+  "relationID" : "alt.corel_20041228.0503-R2",
+  "mentionArg1" : {
+    "extent" : "Jeff LaDouce of the National Oceanic and Atmospheric Administration",
+    "argMentionid" : "alt.corel_20041228.0503-E65-121",
+    "start" : 21,
+    "end" : 29
+  },
+  "id" : "alt.corel_20041228.0503-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "\" We put out a bulletin within 20 minutes , technically as fast as we could do it , \" says Jeff LaDouce of the National Oceanic and Atmospheric Administration .",
+  "sentence_index" : 2,
+  "Tokens" : [ "\"", "We", "put", "out", "a", "bulletin", "within", "20", "minutes", ",", "technically", "as", "fast", "as", "we", "could", "do", "it", ",", "\"", "says", "Jeff", "LaDouce", "of", "the", "National", "Oceanic", "and", "Atmospheric", "Administration", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Indonesian officials",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Indonesian",
+    "argMentionid" : "alt.corel_20041228.0503-E9-125",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "alt.corel_20041228.0503-R3",
+  "mentionArg1" : {
+    "extent" : "Indonesian officials",
+    "argMentionid" : "alt.corel_20041228.0503-E67-124",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "alt.corel_20041228.0503-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "LaDouce says e-mails were dispatched to Indonesian officials , but he does n't know what happened to the information . \"",
+  "sentence_index" : 3,
+  "Tokens" : [ "LaDouce", "says", "e-mails", "were", "dispatched", "to", "Indonesian", "officials", ",", "but", "he", "does", "n't", "know", "what", "happened", "to", "the", "information", ".", "\"" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Indonesian officials",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Indonesian",
+    "argMentionid" : "alt.corel_20041228.0503-E9-128",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "alt.corel_20041228.0503-R3",
+  "mentionArg1" : {
+    "extent" : "the Indonesian officials",
+    "argMentionid" : "alt.corel_20041228.0503-E67-127",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "alt.corel_20041228.0503-R3-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "It looks more like the Indonesian officials were n't sitting at their computer or did n't have their email client set for 10 minute checks for new mail .",
+  "sentence_index" : 4,
+  "Tokens" : [ "It", "looks", "more", "like", "the", "Indonesian", "officials", "were", "n't", "sitting", "at", "their", "computer", "or", "did", "n't", "have", "their", "email", "client", "set", "for", "10", "minute", "checks", "for", "new", "mail", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "those NOAA people",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "NOAA",
+    "argMentionid" : "alt.corel_20041228.0503-E1-3",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "alt.corel_20041228.0503-R5",
+  "mentionArg1" : {
+    "extent" : "those NOAA people",
+    "argMentionid" : "alt.corel_20041228.0503-E60-107",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "alt.corel_20041228.0503-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "It 's too bad those NOAA people had n't used the telephone .",
+  "sentence_index" : 7,
+  "Tokens" : [ "It", "'s", "too", "bad", "those", "NOAA", "people", "had", "n't", "used", "the", "telephone", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the NOAA scientists",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "NOAA",
+    "argMentionid" : "alt.corel_20041228.0503-E1-68",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "alt.corel_20041228.0503-R5",
+  "mentionArg1" : {
+    "extent" : "the NOAA scientists",
+    "argMentionid" : "alt.corel_20041228.0503-E60-111",
+    "start" : 20,
+    "end" : 22
+  },
+  "id" : "alt.corel_20041228.0503-R5-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "So it cuts both ways , the Indonesian government should have done some prior planning , but so too should the NOAA scientists .",
+  "sentence_index" : 24,
+  "Tokens" : [ "So", "it", "cuts", "both", "ways", ",", "the", "Indonesian", "government", "should", "have", "done", "some", "prior", "planning", ",", "but", "so", "too", "should", "the", "NOAA", "scientists", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "scientists from any other country",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "any other country",
+    "argMentionid" : "alt.corel_20041228.0503-E6-8",
+    "start" : 24,
+    "end" : 26
+  },
+  "relationID" : "alt.corel_20041228.0503-R6",
+  "mentionArg1" : {
+    "extent" : "scientists from any other country",
+    "argMentionid" : "alt.corel_20041228.0503-E5-7",
+    "start" : 22,
+    "end" : 26
+  },
+  "id" : "alt.corel_20041228.0503-R6-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Joe727 Tue , 28 Dec 2004 14:46:35 GMT Re : Indonesia warned about tsunamis Well , I have yet to hear that scientists from any other country even made the attempt the American scientists made .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Joe727", "Tue", ",", "28", "Dec", "2004", "14:46:35", "GMT", "Re", ":", "Indonesia", "warned", "about", "tsunamis", "Well", ",", "I", "have", "yet", "to", "hear", "that", "scientists", "from", "any", "other", "country", "even", "made", "the", "attempt", "the", "American", "scientists", "made", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the American scientists",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "alt.corel_20041228.0503-E7-10",
+    "start" : 32,
+    "end" : 32
+  },
+  "relationID" : "alt.corel_20041228.0503-R7",
+  "mentionArg1" : {
+    "extent" : "the American scientists",
+    "argMentionid" : "alt.corel_20041228.0503-E60-109",
+    "start" : 31,
+    "end" : 33
+  },
+  "id" : "alt.corel_20041228.0503-R7-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Joe727 Tue , 28 Dec 2004 14:46:35 GMT Re : Indonesia warned about tsunamis Well , I have yet to hear that scientists from any other country even made the attempt the American scientists made .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Joe727", "Tue", ",", "28", "Dec", "2004", "14:46:35", "GMT", "Re", ":", "Indonesia", "warned", "about", "tsunamis", "Well", ",", "I", "have", "yet", "to", "hear", "that", "scientists", "from", "any", "other", "country", "even", "made", "the", "attempt", "the", "American", "scientists", "made", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the American scientists",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "alt.corel_20041228.0503-E7-13",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "alt.corel_20041228.0503-R7",
+  "mentionArg1" : {
+    "extent" : "the American scientists",
+    "argMentionid" : "alt.corel_20041228.0503-E60-110",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "alt.corel_20041228.0503-R7-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "As the article notes , the American scientists did not know who to contact .",
+  "sentence_index" : 11,
+  "Tokens" : [ "As", "the", "article", "notes", ",", "the", "American", "scientists", "did", "not", "know", "who", "to", "contact", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "And you pick up the phone in the embassy",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "the embassy",
+    "argMentionid" : "alt.corel_20041228.0503-E15-22",
+    "start" : 47,
+    "end" : 48
+  },
+  "relationID" : "alt.corel_20041228.0503-R9",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "alt.corel_20041228.0503-E14-21",
+    "start" : 41,
+    "end" : 41
+  },
+  "id" : "alt.corel_20041228.0503-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Joe Peter Tue , 28 Dec 2004 09:53:06 - 0500 Re : Indonesia warned about tsunamis EMBASSY + TELEPHONE -- Peter Scientists sometimes lack common sense Joe727 Tue , 28 Dec 2004 15:26:51 GMT Re : Indonesia warned about tsunamis And you pick up the phone in the embassy .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Joe", "Peter", "Tue", ",", "28", "Dec", "2004", "09:53:06", "-", "0500", "Re", ":", "Indonesia", "warned", "about", "tsunamis", "EMBASSY", "+", "TELEPHONE", "--", "Peter", "Scientists", "sometimes", "lack", "common", "sense", "Joe727", "Tue", ",", "28", "Dec", "2004", "15:26:51", "GMT", "Re", ":", "Indonesia", "warned", "about", "tsunamis", "And", "you", "pick", "up", "the", "phone", "in", "the", "embassy", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a scientist with NOAA",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "NOAA",
+    "argMentionid" : "alt.corel_20041228.0503-E1-26",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "alt.corel_20041228.0503-R10",
+  "mentionArg1" : {
+    "extent" : "a scientist with NOAA",
+    "argMentionid" : "alt.corel_20041228.0503-E16-25",
+    "start" : 12,
+    "end" : 15
+  },
+  "id" : "alt.corel_20041228.0503-R10-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "A voice on the other end of the line says he 's a scientist with NOAA and that a tsunami is bearing down on your coastal villages and resorts .",
+  "sentence_index" : 14,
+  "Tokens" : [ "A", "voice", "on", "the", "other", "end", "of", "the", "line", "says", "he", "'s", "a", "scientist", "with", "NOAA", "and", "that", "a", "tsunami", "is", "bearing", "down", "on", "your", "coastal", "villages", "and", "resorts", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "The Boston Globe points out that New England has no system in place to warn residents of tidal waves, which are known to happen off New England",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "New England",
+    "argMentionid" : "alt.corel_20041228.0503-E26-42",
+    "start" : 23,
+    "end" : 24
+  },
+  "relationID" : "alt.corel_20041228.0503-R11",
+  "mentionArg1" : {
+    "extent" : "residents",
+    "argMentionid" : "alt.corel_20041228.0503-E27-43",
+    "start" : 32,
+    "end" : 32
+  },
+  "id" : "alt.corel_20041228.0503-R11-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Joe Eugene Gallagher Tue , 28 Dec 2004 10:38:02 - 0500 Re : Indonesia warned about tsunamis The Boston Globe points out that New England has no system in place to warn residents of tidal waves , which are known to happen off New England .",
+  "sentence_index" : 19,
+  "Tokens" : [ "Joe", "Eugene", "Gallagher", "Tue", ",", "28", "Dec", "2004", "10:38:02", "-", "0500", "Re", ":", "Indonesia", "warned", "about", "tsunamis", "The", "Boston", "Globe", "points", "out", "that", "New", "England", "has", "no", "system", "in", "place", "to", "warn", "residents", "of", "tidal", "waves", ",", "which", "are", "known", "to", "happen", "off", "New", "England", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "The entire East Coast of the U.S",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "the U.S",
+    "argMentionid" : "alt.corel_20041228.0503-E7-48",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "alt.corel_20041228.0503-R12",
+  "mentionArg1" : {
+    "extent" : "The entire East Coast of the U.S",
+    "argMentionid" : "alt.corel_20041228.0503-E30-47",
+    "start" : 14,
+    "end" : 20
+  },
+  "id" : "alt.corel_20041228.0503-R12-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Joe727 Tue , 28 Dec 2004 15:47:40 GMT Re : Indonesia warned about tsunamis The entire East Coast of the U.S. does not have a tsunami warning system .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Joe727", "Tue", ",", "28", "Dec", "2004", "15:47:40", "GMT", "Re", ":", "Indonesia", "warned", "about", "tsunamis", "The", "entire", "East", "Coast", "of", "the", "U.S.", "does", "not", "have", "a", "tsunami", "warning", "system", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a scientist at NOAA",
+  "sentence_length" : 59,
+  "mentionArg2" : {
+    "extent" : "NOAA",
+    "argMentionid" : "alt.corel_20041228.0503-E1-52",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "alt.corel_20041228.0503-R13",
+  "mentionArg1" : {
+    "extent" : "a scientist at NOAA",
+    "argMentionid" : "alt.corel_20041228.0503-E31-51",
+    "start" : 22,
+    "end" : 25
+  },
+  "id" : "alt.corel_20041228.0503-R13-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Joe William Asher 28 Dec 2004 16:36:47 GMT Re : Indonesia warned about tsunamis On the other hand , if you were a scientist at NOAA and were into saving people from tsunamis , you would think you might have figured out beforehand who you might call if you did get some advanced warning of such an event .",
+  "sentence_index" : 22,
+  "Tokens" : [ "Joe", "William", "Asher", "28", "Dec", "2004", "16:36:47", "GMT", "Re", ":", "Indonesia", "warned", "about", "tsunamis", "On", "the", "other", "hand", ",", "if", "you", "were", "a", "scientist", "at", "NOAA", "and", "were", "into", "saving", "people", "from", "tsunamis", ",", "you", "would", "think", "you", "might", "have", "figured", "out", "beforehand", "who", "you", "might", "call", "if", "you", "did", "get", "some", "advanced", "warning", "of", "such", "an", "event", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. officials",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "alt.corel_20041228.0503-E7-83",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "alt.corel_20041228.0503-R15",
+  "mentionArg1" : {
+    "extent" : "U.S. officials",
+    "argMentionid" : "alt.corel_20041228.0503-E45-82",
+    "start" : 12,
+    "end" : 13
+  },
+  "id" : "alt.corel_20041228.0503-R15-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The Indonesian government should have contacted the U.S. State Department and provided U.S. officials with the contact info .",
+  "sentence_index" : 27,
+  "Tokens" : [ "The", "Indonesian", "government", "should", "have", "contacted", "the", "U.S.", "State", "Department", "and", "provided", "U.S.", "officials", "with", "the", "contact", "info", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the U.S. State Department",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "alt.corel_20041228.0503-E7-81",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "alt.corel_20041228.0503-R16",
+  "mentionArg1" : {
+    "extent" : "the U.S. State Department",
+    "argMentionid" : "alt.corel_20041228.0503-E43-80",
+    "start" : 6,
+    "end" : 9
+  },
+  "id" : "alt.corel_20041228.0503-R16-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The Indonesian government should have contacted the U.S. State Department and provided U.S. officials with the contact info .",
+  "sentence_index" : 27,
+  "Tokens" : [ "The", "Indonesian", "government", "should", "have", "contacted", "the", "U.S.", "State", "Department", "and", "provided", "U.S.", "officials", "with", "the", "contact", "info", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the USAF boys in Diego Garcia",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Diego Garcia",
+    "argMentionid" : "alt.corel_20041228.0503-E50-89",
+    "start" : 25,
+    "end" : 26
+  },
+  "relationID" : "alt.corel_20041228.0503-R17",
+  "mentionArg1" : {
+    "extent" : "the USAF boys in Diego Garcia",
+    "argMentionid" : "alt.corel_20041228.0503-E48-87",
+    "start" : 21,
+    "end" : 26
+  },
+  "id" : "alt.corel_20041228.0503-R17-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Joe EW Tue , 28 Dec 2004 12:24:30 - 0500 Re : Indonesia warned about tsunamis Do you think they warned the USAF boys in Diego Garcia ?",
+  "sentence_index" : 28,
+  "Tokens" : [ "Joe", "EW", "Tue", ",", "28", "Dec", "2004", "12:24:30", "-", "0500", "Re", ":", "Indonesia", "warned", "about", "tsunamis", "Do", "you", "think", "they", "warned", "the", "USAF", "boys", "in", "Diego", "Garcia", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the USAF boys in Diego Garcia",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "USAF",
+    "argMentionid" : "alt.corel_20041228.0503-E49-88",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "alt.corel_20041228.0503-R18",
+  "mentionArg1" : {
+    "extent" : "the USAF boys in Diego Garcia",
+    "argMentionid" : "alt.corel_20041228.0503-E48-87",
+    "start" : 21,
+    "end" : 26
+  },
+  "id" : "alt.corel_20041228.0503-R18-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Joe EW Tue , 28 Dec 2004 12:24:30 - 0500 Re : Indonesia warned about tsunamis Do you think they warned the USAF boys in Diego Garcia ?",
+  "sentence_index" : 28,
+  "Tokens" : [ "Joe", "EW", "Tue", ",", "28", "Dec", "2004", "12:24:30", "-", "0500", "Re", ":", "Indonesia", "warned", "about", "tsunamis", "Do", "you", "think", "they", "warned", "the", "USAF", "boys", "in", "Diego", "Garcia", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "It's highest point",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "It's",
+    "argMentionid" : "alt.corel_20041228.0503-E50-90",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "alt.corel_20041228.0503-R19",
+  "mentionArg1" : {
+    "extent" : "It's highest point",
+    "argMentionid" : "alt.corel_20041228.0503-E11-14",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "alt.corel_20041228.0503-R19-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "It 's highest point is only 20 ' above sea level .",
+  "sentence_index" : 29,
+  "Tokens" : [ "It", "'s", "highest", "point", "is", "only", "20", "'", "above", "sea", "level", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "its personnel",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "its",
+    "argMentionid" : "alt.corel_20041228.0503-E3-9",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "alt.corel_20041228.0503-R20",
+  "mentionArg1" : {
+    "extent" : "its personnel",
+    "argMentionid" : "alt.corel_20041228.0503-E53-94",
+    "start" : 17,
+    "end" : 18
+  },
+  "id" : "alt.corel_20041228.0503-R20-1",
+  "relationSubType" : "Located",
+  "Sentence" : "If the seabed slopes upward near it , one might expect nothing remains of the base and its personnel .",
+  "sentence_index" : 30,
+  "Tokens" : [ "If", "the", "seabed", "slopes", "upward", "near", "it", ",", "one", "might", "expect", "nothing", "remains", "of", "the", "base", "and", "its", "personnel", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "our friend's daughter",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "our friend",
+    "argMentionid" : "alt.corel_20041228.0503-E58-101",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "alt.corel_20041228.0503-R21",
+  "mentionArg1" : {
+    "extent" : "our friend's daughter",
+    "argMentionid" : "alt.corel_20041228.0503-E57-100",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "alt.corel_20041228.0503-R21-1",
+  "relationSubType" : "Family",
+  "Sentence" : "We just learned that our friend 's daughter when to Thailand to visit her father after the wave hit .",
+  "sentence_index" : 33,
+  "Tokens" : [ "We", "just", "learned", "that", "our", "friend", "'s", "daughter", "when", "to", "Thailand", "to", "visit", "her", "father", "after", "the", "wave", "hit", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her father",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "her father",
+    "argMentionid" : "alt.corel_20041228.0503-E58-103",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "alt.corel_20041228.0503-R21",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "alt.corel_20041228.0503-E57-104",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "alt.corel_20041228.0503-R21-2",
+  "relationSubType" : "Family",
+  "Sentence" : "We just learned that our friend 's daughter when to Thailand to visit her father after the wave hit .",
+  "sentence_index" : 33,
+  "Tokens" : [ "We", "just", "learned", "that", "our", "friend", "'s", "daughter", "when", "to", "Thailand", "to", "visit", "her", "father", "after", "the", "wave", "hit", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "our friend",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "our friend",
+    "argMentionid" : "alt.corel_20041228.0503-E58-101",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "alt.corel_20041228.0503-R22",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "alt.corel_20041228.0503-E56-99",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "alt.corel_20041228.0503-R22-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "We just learned that our friend 's daughter when to Thailand to visit her father after the wave hit .",
+  "sentence_index" : 33,
+  "Tokens" : [ "We", "just", "learned", "that", "our", "friend", "'s", "daughter", "when", "to", "Thailand", "to", "visit", "her", "father", "after", "the", "wave", "hit", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "We just learned that our friend's daughter when to Thailand to visit her father after the wave hit",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Thailand",
+    "argMentionid" : "alt.corel_20041228.0503-E59-102",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "alt.corel_20041228.0503-R23",
+  "mentionArg1" : {
+    "extent" : "our friend's daughter",
+    "argMentionid" : "alt.corel_20041228.0503-E57-100",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "alt.corel_20041228.0503-R23-1",
+  "relationSubType" : "Located",
+  "Sentence" : "We just learned that our friend 's daughter when to Thailand to visit her father after the wave hit .",
+  "sentence_index" : 33,
+  "Tokens" : [ "We", "just", "learned", "that", "our", "friend", "'s", "daughter", "when", "to", "Thailand", "to", "visit", "her", "father", "after", "the", "wave", "hit", "." ]
+} ]

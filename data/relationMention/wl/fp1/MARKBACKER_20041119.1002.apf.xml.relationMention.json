@@ -1,0 +1,67 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "This is brother against brother after one slept with the other's wife and then bragged about it",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "brother",
+    "argMentionid" : "MARKBACKER_20041119.1002-E21-46",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "MARKBACKER_20041119.1002-R1",
+  "mentionArg1" : {
+    "extent" : "brother",
+    "argMentionid" : "MARKBACKER_20041119.1002-E19-45",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "MARKBACKER_20041119.1002-R1-1",
+  "relationSubType" : "Family",
+  "Sentence" : "This is brother against brother after one slept with the other 's wife and then bragged about it .",
+  "sentence_index" : 21,
+  "Tokens" : [ "This", "is", "brother", "against", "brother", "after", "one", "slept", "with", "the", "other", "'s", "wife", "and", "then", "bragged", "about", "it", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the other's wife",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "the other's wife",
+    "argMentionid" : "MARKBACKER_20041119.1002-E22-48",
+    "start" : 9,
+    "end" : 12
+  },
+  "relationID" : "MARKBACKER_20041119.1002-R2",
+  "mentionArg1" : {
+    "extent" : "the other",
+    "argMentionid" : "MARKBACKER_20041119.1002-E21-49",
+    "start" : 9,
+    "end" : 10
+  },
+  "id" : "MARKBACKER_20041119.1002-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "This is brother against brother after one slept with the other 's wife and then bragged about it .",
+  "sentence_index" : 21,
+  "Tokens" : [ "This", "is", "brother", "against", "brother", "after", "one", "slept", "with", "the", "other", "'s", "wife", "and", "then", "bragged", "about", "it", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "I live in Georgia, and losing that game affects me much more directly than losing the Alabama game",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Georgia",
+    "argMentionid" : "MARKBACKER_20041119.1002-E11-32",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "MARKBACKER_20041119.1002-R3",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "MARKBACKER_20041119.1002-E23-33",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "MARKBACKER_20041119.1002-R3-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "I live in Georgia , and losing that game affects me much more directly than losing the Alabama game .",
+  "sentence_index" : 18,
+  "Tokens" : [ "I", "live", "in", "Georgia", ",", "and", "losing", "that", "game", "affects", "me", "much", "more", "directly", "than", "losing", "the", "Alabama", "game", "." ]
+} ]

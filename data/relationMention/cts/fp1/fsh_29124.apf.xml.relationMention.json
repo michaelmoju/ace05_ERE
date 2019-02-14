@@ -1,0 +1,925 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "your current or former workplace",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "your current or former workplace",
+    "argMentionid" : "fsh_29124-E53-186",
+    "start" : 7,
+    "end" : 11
+  },
+  "relationID" : "fsh_29124-R1",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29124-E48-122",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "fsh_29124-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Workplace Culture Describe the organizational structure of your current or former workplace .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Workplace", "Culture", "Describe", "the", "organizational", "structure", "of", "your", "current", "or", "former", "workplace", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "your company",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "your company",
+    "argMentionid" : "fsh_29124-E53-252",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "fsh_29124-R1",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29124-E48-251",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29124-R1-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Do you think your company is well-run ?",
+  "sentence_index" : 6,
+  "Tokens" : [ "Do", "you", "think", "your", "company", "is", "well-run", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "How many people work there, and what is the hierarchy",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "fsh_29124-E53-242",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "fsh_29124-R2",
+  "mentionArg1" : {
+    "extent" : "How many people",
+    "argMentionid" : "fsh_29124-E54-222",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "fsh_29124-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "How many people work there , and what is the hierarchy ?",
+  "sentence_index" : 2,
+  "Tokens" : [ "How", "many", "people", "work", "there", ",", "and", "what", "is", "the", "hierarchy", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Describe some of the people that you work with and the jobs they do",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29124-E48-248",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "fsh_29124-R3",
+  "mentionArg1" : {
+    "extent" : "the people that you work with",
+    "argMentionid" : "fsh_29124-E58-247",
+    "start" : 3,
+    "end" : 8
+  },
+  "id" : "fsh_29124-R3-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Describe some of the people that you work with and the jobs they do .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Describe", "some", "of", "the", "people", "that", "you", "work", "with", "and", "the", "jobs", "they", "do", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Trish in New Jersey",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "New Jersey",
+    "argMentionid" : "fsh_29124-E1-2",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "fsh_29124-R4",
+  "mentionArg1" : {
+    "extent" : "Trish",
+    "argMentionid" : "fsh_29124-E2-3",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "fsh_29124-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Trish Hi , Ken , I 'm Trish in New Jersey .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Trish", "Hi", ",", "Ken", ",", "I", "'m", "Trish", "in", "New", "Jersey", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Um but I'm in New Jersey now",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "New Jersey",
+    "argMentionid" : "fsh_29124-E1-25",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "fsh_29124-R4",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29124-E2-24",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "fsh_29124-R4-2",
+  "relationSubType" : "Located",
+  "Sentence" : "Um but I 'm in New Jersey now .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Um", "but", "I", "'m", "in", "New", "Jersey", "now", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Um -- They managed to find me some space down here after nine eleven, so I no longer have to do that fun commute",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "fsh_29124-E1-28",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "fsh_29124-R4",
+  "mentionArg1" : {
+    "extent" : "me",
+    "argMentionid" : "fsh_29124-E2-27",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "fsh_29124-R4-3",
+  "relationSubType" : "Located",
+  "Sentence" : "Trish Um -- They managed to find me some space down here after nine eleven , so I no longer have to do that fun commute .",
+  "sentence_index" : 22,
+  "Tokens" : [ "Trish", "Um", "--", "They", "managed", "to", "find", "me", "some", "space", "down", "here", "after", "nine", "eleven", ",", "so", "I", "no", "longer", "have", "to", "do", "that", "fun", "commute", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "your workplace",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "your workplace",
+    "argMentionid" : "fsh_29124-E3-8",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "fsh_29124-R5",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29124-E2-7",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "fsh_29124-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Trish Good Ken Tell me about your workplace .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Trish", "Good", "Ken", "Tell", "me", "about", "your", "workplace", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Um, well, I work for Verizon",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "Verizon",
+    "argMentionid" : "fsh_29124-E3-10",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "fsh_29124-R5",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29124-E2-9",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "fsh_29124-R5-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Trish Um , well , I work for Verizon Ken Oh , my wife works for them .",
+  "sentence_index" : 12,
+  "Tokens" : [ "Trish", "Um", ",", "well", ",", "I", "work", "for", "Verizon", "Ken", "Oh", ",", "my", "wife", "works", "for", "them", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Wow, okay, well I've been with them for -- eight, I guess",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "them",
+    "argMentionid" : "fsh_29124-E3-20",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "fsh_29124-R5",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29124-E2-19",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "fsh_29124-R5-3",
+  "relationSubType" : "Employment",
+  "Sentence" : "Trish Wow , okay , well I 've been with them for -- eight , I guess .",
+  "sentence_index" : 16,
+  "Tokens" : [ "Trish", "Wow", ",", "okay", ",", "well", "I", "'ve", "been", "with", "them", "for", "--", "eight", ",", "I", "guess", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "So what do you do there",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "fsh_29124-E3-31",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "fsh_29124-R5",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29124-E2-30",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29124-R5-4",
+  "relationSubType" : "Employment",
+  "Sentence" : "So what do you do there ?",
+  "sentence_index" : 26,
+  "Tokens" : [ "So", "what", "do", "you", "do", "there", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "um when I first started with the company",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "the company",
+    "argMentionid" : "fsh_29124-E3-125",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "fsh_29124-R5",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29124-E2-124",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29124-R5-5",
+  "relationSubType" : "Employment",
+  "Sentence" : "Trish um when I first started with the company .",
+  "sentence_index" : 65,
+  "Tokens" : [ "Trish", "um", "when", "I", "first", "started", "with", "the", "company", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my wife",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "my wife",
+    "argMentionid" : "fsh_29124-E4-12",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "fsh_29124-R7",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29124-E44-11",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "fsh_29124-R7-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Trish Um , well , I work for Verizon Ken Oh , my wife works for them .",
+  "sentence_index" : 12,
+  "Tokens" : [ "Trish", "Um", ",", "well", ",", "I", "work", "for", "Verizon", "Ken", "Oh", ",", "my", "wife", "works", "for", "them", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "your wife",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "your wife",
+    "argMentionid" : "fsh_29124-E4-113",
+    "start" : 20,
+    "end" : 21
+  },
+  "relationID" : "fsh_29124-R7",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29124-E44-112",
+    "start" : 20,
+    "end" : 20
+  },
+  "id" : "fsh_29124-R7-2",
+  "relationSubType" : "Family",
+  "Sentence" : "Trish Yeah , I do , I , yeah I worked as a , I I do n't know what your wife does , but Ken You 're working independently ?",
+  "sentence_index" : 61,
+  "Tokens" : [ "Trish", "Yeah", ",", "I", "do", ",", "I", ",", "yeah", "I", "worked", "as", "a", ",", "I", "I", "do", "n't", "know", "what", "your", "wife", "does", ",", "but", "Ken", "You", "'re", "working", "independently", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Oh, my wife works for them",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "them",
+    "argMentionid" : "fsh_29124-E3-13",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "fsh_29124-R8",
+  "mentionArg1" : {
+    "extent" : "my wife",
+    "argMentionid" : "fsh_29124-E4-12",
+    "start" : 12,
+    "end" : 13
+  },
+  "id" : "fsh_29124-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Trish Um , well , I work for Verizon Ken Oh , my wife works for them .",
+  "sentence_index" : 12,
+  "Tokens" : [ "Trish", "Um", ",", "well", ",", "I", "work", "for", "Verizon", "Ken", "Oh", ",", "my", "wife", "works", "for", "them", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "She's been with them for seventeen years",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "them",
+    "argMentionid" : "fsh_29124-E3-17",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "fsh_29124-R8",
+  "mentionArg1" : {
+    "extent" : "She",
+    "argMentionid" : "fsh_29124-E4-16",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29124-R8-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "She 's been with them for seventeen years .",
+  "sentence_index" : 14,
+  "Tokens" : [ "She", "'s", "been", "with", "them", "for", "seventeen", "years", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "She works in New York on Thirty and Thirty-Ninth Street",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "New York",
+    "argMentionid" : "fsh_29124-E5-15",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "fsh_29124-R9",
+  "mentionArg1" : {
+    "extent" : "She",
+    "argMentionid" : "fsh_29124-E4-14",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29124-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "She works in New York on Thirty and Thirty-Ninth Street .",
+  "sentence_index" : 13,
+  "Tokens" : [ "She", "works", "in", "New", "York", "on", "Thirty", "and", "Thirty-Ninth", "Street", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Yeah, I'm originally out of New York",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "New York",
+    "argMentionid" : "fsh_29124-E5-23",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "fsh_29124-R12",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29124-E2-22",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "fsh_29124-R12-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Yeah , I 'm originally out of New York .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Yeah", ",", "I", "'m", "originally", "out", "of", "New", "York", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Yeah, and I um, I work with the wireless carriers, setting up their networks",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "the wireless carriers",
+    "argMentionid" : "fsh_29124-E7-36",
+    "start" : 9,
+    "end" : 11
+  },
+  "relationID" : "fsh_29124-R16",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29124-E2-34",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29124-R16-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Yeah , and I um , I work with the wireless carriers , setting up their networks .",
+  "sentence_index" : 28,
+  "Tokens" : [ "Yeah", ",", "and", "I", "um", ",", "I", "work", "with", "the", "wireless", "carriers", ",", "setting", "up", "their", "networks", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "I think in Orangeburg they have Veri- Verizon Wireless I f",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Orangeburg",
+    "argMentionid" : "fsh_29124-E8-39",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "fsh_29124-R17",
+  "mentionArg1" : {
+    "extent" : "Verizon Wireless",
+    "argMentionid" : "fsh_29124-E3-41",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "fsh_29124-R17-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "I think in Orangeburg they have Veri- Verizon Wireless I f- Trish That 's where their , their um , they have a big office there that handles most of their New York stuff .",
+  "sentence_index" : 31,
+  "Tokens" : [ "I", "think", "in", "Orangeburg", "they", "have", "Veri-", "Verizon", "Wireless", "I", "f-", "Trish", "That", "'s", "where", "their", ",", "their", "um", ",", "they", "have", "a", "big", "office", "there", "that", "handles", "most", "of", "their", "New", "York", "stuff", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "That's where their, their um, they have a big office there that handles most of their New York stuff",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "a big office",
+    "argMentionid" : "fsh_29124-E10-47",
+    "start" : 22,
+    "end" : 24
+  },
+  "relationID" : "fsh_29124-R18",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "fsh_29124-E3-46",
+    "start" : 20,
+    "end" : 20
+  },
+  "id" : "fsh_29124-R18-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "I think in Orangeburg they have Veri- Verizon Wireless I f- Trish That 's where their , their um , they have a big office there that handles most of their New York stuff .",
+  "sentence_index" : 31,
+  "Tokens" : [ "I", "think", "in", "Orangeburg", "they", "have", "Veri-", "Verizon", "Wireless", "I", "f-", "Trish", "That", "'s", "where", "their", ",", "their", "um", ",", "they", "have", "a", "big", "office", "there", "that", "handles", "most", "of", "their", "New", "York", "stuff", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "That's where their, their um, they have a big office there that handles most of their New York stuff",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "fsh_29124-E8-48",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "fsh_29124-R19",
+  "mentionArg1" : {
+    "extent" : "a big office",
+    "argMentionid" : "fsh_29124-E10-47",
+    "start" : 22,
+    "end" : 24
+  },
+  "id" : "fsh_29124-R19-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "I think in Orangeburg they have Veri- Verizon Wireless I f- Trish That 's where their , their um , they have a big office there that handles most of their New York stuff .",
+  "sentence_index" : 31,
+  "Tokens" : [ "I", "think", "in", "Orangeburg", "they", "have", "Veri-", "Verizon", "Wireless", "I", "f-", "Trish", "That", "'s", "where", "their", ",", "their", "um", ",", "they", "have", "a", "big", "office", "there", "that", "handles", "most", "of", "their", "New", "York", "stuff", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "their New York stuff",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "New York",
+    "argMentionid" : "fsh_29124-E5-50",
+    "start" : 31,
+    "end" : 32
+  },
+  "relationID" : "fsh_29124-R20",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "fsh_29124-E3-49",
+    "start" : 30,
+    "end" : 30
+  },
+  "id" : "fsh_29124-R20-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "I think in Orangeburg they have Veri- Verizon Wireless I f- Trish That 's where their , their um , they have a big office there that handles most of their New York stuff .",
+  "sentence_index" : 31,
+  "Tokens" : [ "I", "think", "in", "Orangeburg", "they", "have", "Veri-", "Verizon", "Wireless", "I", "f-", "Trish", "That", "'s", "where", "their", ",", "their", "um", ",", "they", "have", "a", "big", "office", "there", "that", "handles", "most", "of", "their", "New", "York", "stuff", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Yeah, they're actually headquartered in New Jersey in um",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "New Jersey",
+    "argMentionid" : "fsh_29124-E1-54",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "fsh_29124-R21",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "fsh_29124-E3-53",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29124-R21-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Trish Yeah , they 're actually headquartered in New Jersey in um Ken Ah Trish like Baskingridge or Bedminster somewhere but , yeah I 've been there a few times too for meetings and whatnot .",
+  "sentence_index" : 33,
+  "Tokens" : [ "Trish", "Yeah", ",", "they", "'re", "actually", "headquartered", "in", "New", "Jersey", "in", "um", "Ken", "Ah", "Trish", "like", "Baskingridge", "or", "Bedminster", "somewhere", "but", ",", "yeah", "I", "'ve", "been", "there", "a", "few", "times", "too", "for", "meetings", "and", "whatnot", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a testing center in the base",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "the base",
+    "argMentionid" : "fsh_29124-E18-71",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "fsh_29124-R22",
+  "mentionArg1" : {
+    "extent" : "a testing center",
+    "argMentionid" : "fsh_29124-E17-70",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "fsh_29124-R22-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Trish Right , you know what they have a testing center in the base , in -- on the ground floor in Newark -- I- in fact I was there uh , twice last week .",
+  "sentence_index" : 41,
+  "Tokens" : [ "Trish", "Right", ",", "you", "know", "what", "they", "have", "a", "testing", "center", "in", "the", "base", ",", "in", "--", "on", "the", "ground", "floor", "in", "Newark", "--", "I-", "in", "fact", "I", "was", "there", "uh", ",", "twice", "last", "week", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Right, you know what they have a testing center in the base, in -- on the ground floor in Newark -- I- in fact I was there uh, twice last week. I was there Monday and Tuesday of last week",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "a testing center",
+    "argMentionid" : "fsh_29124-E17-70",
+    "start" : 8,
+    "end" : 10
+  },
+  "relationID" : "fsh_29124-R23",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "fsh_29124-E3-69",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "fsh_29124-R23-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Trish Right , you know what they have a testing center in the base , in -- on the ground floor in Newark -- I- in fact I was there uh , twice last week .",
+  "sentence_index" : 41,
+  "Tokens" : [ "Trish", "Right", ",", "you", "know", "what", "they", "have", "a", "testing", "center", "in", "the", "base", ",", "in", "--", "on", "the", "ground", "floor", "in", "Newark", "--", "I-", "in", "fact", "I", "was", "there", "uh", ",", "twice", "last", "week", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Right, you know what they have a testing center in the base, in -- on the ground floor in Newark -- I- in fact I was there uh, twice last week. I was there Monday and Tuesday of last week",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "they",
+    "argMentionid" : "fsh_29124-E3-69",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "fsh_29124-R24",
+  "mentionArg1" : {
+    "extent" : "Newark",
+    "argMentionid" : "fsh_29124-E19-72",
+    "start" : 22,
+    "end" : 22
+  },
+  "id" : "fsh_29124-R24-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Trish Right , you know what they have a testing center in the base , in -- on the ground floor in Newark -- I- in fact I was there uh , twice last week .",
+  "sentence_index" : 41,
+  "Tokens" : [ "Trish", "Right", ",", "you", "know", "what", "they", "have", "a", "testing", "center", "in", "the", "base", ",", "in", "--", "on", "the", "ground", "floor", "in", "Newark", "--", "I-", "in", "fact", "I", "was", "there", "uh", ",", "twice", "last", "week", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "I um I worked as a line manager, so having you know reps underneath me",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "me",
+    "argMentionid" : "fsh_29124-E2-123",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "fsh_29124-R26",
+  "mentionArg1" : {
+    "extent" : "reps",
+    "argMentionid" : "fsh_29124-E33-121",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "fsh_29124-R26-1",
+  "relationSubType" : "Business",
+  "Sentence" : "I um I worked as a line manager , so having you know reps underneath me , Ken Okay .",
+  "sentence_index" : 64,
+  "Tokens" : [ "I", "um", "I", "worked", "as", "a", "line", "manager", ",", "so", "having", "you", "know", "reps", "underneath", "me", ",", "Ken", "Okay", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "How many do you have",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29124-E2-129",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "fsh_29124-R28",
+  "mentionArg1" : {
+    "extent" : "How many",
+    "argMentionid" : "fsh_29124-E34-128",
+    "start" : 15,
+    "end" : 16
+  },
+  "id" : "fsh_29124-R28-1",
+  "relationSubType" : "Family",
+  "Sentence" : "But after having children and you know , taking some time off and whatnot Ken How many do you have ?",
+  "sentence_index" : 66,
+  "Tokens" : [ "But", "after", "having", "children", "and", "you", "know", ",", "taking", "some", "time", "off", "and", "whatnot", "Ken", "How", "many", "do", "you", "have", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "I have three, I have -- six, seven-year-old daughters and a twenty-one-year-old daughter",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "three",
+    "argMentionid" : "fsh_29124-E35-132",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "fsh_29124-R29",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29124-E44-130",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29124-R29-1",
+  "relationSubType" : "Family",
+  "Sentence" : "I have three , I have -- six , seven-year-old daughters and a twenty-one-year-old daughter .",
+  "sentence_index" : 67,
+  "Tokens" : [ "I", "have", "three", ",", "I", "have", "--", "six", ",", "seven-year-old", "daughters", "and", "a", "twenty-one-year-old", "daughter", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "I have three, I have -- six, seven-year-old daughters and a twenty-one-year-old daughter",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "six, seven-year-old daughters",
+    "argMentionid" : "fsh_29124-E36-133",
+    "start" : 7,
+    "end" : 10
+  },
+  "relationID" : "fsh_29124-R30",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29124-E44-131",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "fsh_29124-R30-1",
+  "relationSubType" : "Family",
+  "Sentence" : "I have three , I have -- six , seven-year-old daughters and a twenty-one-year-old daughter .",
+  "sentence_index" : 67,
+  "Tokens" : [ "I", "have", "three", ",", "I", "have", "--", "six", ",", "seven-year-old", "daughters", "and", "a", "twenty-one-year-old", "daughter", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "I have three, I have -- six, seven-year-old daughters and a twenty-one-year-old daughter",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "a twenty-one-year-old daughter",
+    "argMentionid" : "fsh_29124-E37-134",
+    "start" : 12,
+    "end" : 14
+  },
+  "relationID" : "fsh_29124-R31",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29124-E44-131",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "fsh_29124-R31-1",
+  "relationSubType" : "Family",
+  "Sentence" : "I have three , I have -- six , seven-year-old daughters and a twenty-one-year-old daughter .",
+  "sentence_index" : 67,
+  "Tokens" : [ "I", "have", "three", ",", "I", "have", "--", "six", ",", "seven-year-old", "daughters", "and", "a", "twenty-one-year-old", "daughter", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Oh, okay I have a six-year-old son, a four-year old-son and a",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "a six-year-old son",
+    "argMentionid" : "fsh_29124-E38-136",
+    "start" : 6,
+    "end" : 8
+  },
+  "relationID" : "fsh_29124-R32",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29124-E2-135",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "fsh_29124-R32-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Trish Oh , okay I have a six-year-old son , a four-year old-son and a Ken The benefits are fantastic with Verizon .",
+  "sentence_index" : 68,
+  "Tokens" : [ "Trish", "Oh", ",", "okay", "I", "have", "a", "six-year-old", "son", ",", "a", "four-year", "old-son", "and", "a", "Ken", "The", "benefits", "are", "fantastic", "with", "Verizon", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Oh, okay I have a six-year-old son, a four-year old-son and",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "a four-year old-son",
+    "argMentionid" : "fsh_29124-E39-137",
+    "start" : 10,
+    "end" : 12
+  },
+  "relationID" : "fsh_29124-R33",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29124-E2-135",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "fsh_29124-R33-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Trish Oh , okay I have a six-year-old son , a four-year old-son and a Ken The benefits are fantastic with Verizon .",
+  "sentence_index" : 68,
+  "Tokens" : [ "Trish", "Oh", ",", "okay", "I", "have", "a", "six-year-old", "son", ",", "a", "four-year", "old-son", "and", "a", "Ken", "The", "benefits", "are", "fantastic", "with", "Verizon", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my boss, who's in Newark",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "my boss, who's in Newark",
+    "argMentionid" : "fsh_29124-E42-155",
+    "start" : 20,
+    "end" : 26
+  },
+  "relationID" : "fsh_29124-R34",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29124-E2-154",
+    "start" : 20,
+    "end" : 20
+  },
+  "id" : "fsh_29124-R34-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Trish Um , but you know , being -- independent and and able to not have to be co-located with my boss , who 's in Newark , um Ken Mhm .",
+  "sentence_index" : 75,
+  "Tokens" : [ "Trish", "Um", ",", "but", "you", "know", ",", "being", "--", "independent", "and", "and", "able", "to", "not", "have", "to", "be", "co-located", "with", "my", "boss", ",", "who", "'s", "in", "Newark", ",", "um", "Ken", "Mhm", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "my boss, who's in Newark",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Newark",
+    "argMentionid" : "fsh_29124-E14-156",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "fsh_29124-R35",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "fsh_29124-E42-189",
+    "start" : 23,
+    "end" : 23
+  },
+  "id" : "fsh_29124-R35-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Trish Um , but you know , being -- independent and and able to not have to be co-located with my boss , who 's in Newark , um Ken Mhm .",
+  "sentence_index" : 75,
+  "Tokens" : [ "Trish", "Um", ",", "but", "you", "know", ",", "being", "--", "independent", "and", "and", "able", "to", "not", "have", "to", "be", "co-located", "with", "my", "boss", ",", "who", "'s", "in", "Newark", ",", "um", "Ken", "Mhm", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I definitely can understand I work with Cablevision, I'm a manager there",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "Cablevision",
+    "argMentionid" : "fsh_29124-E45-164",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "fsh_29124-R36",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29124-E44-159",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29124-R36-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "I definitely can understand I work with Cablevision , I 'm a manager there .",
+  "sentence_index" : 78,
+  "Tokens" : [ "I", "definitely", "can", "understand", "I", "work", "with", "Cablevision", ",", "I", "'m", "a", "manager", "there", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a manager there",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "fsh_29124-E45-163",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "fsh_29124-R36",
+  "mentionArg1" : {
+    "extent" : "a manager there",
+    "argMentionid" : "fsh_29124-E44-162",
+    "start" : 11,
+    "end" : 13
+  },
+  "id" : "fsh_29124-R36-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "I definitely can understand I work with Cablevision , I 'm a manager there .",
+  "sentence_index" : 78,
+  "Tokens" : [ "I", "definitely", "can", "understand", "I", "work", "with", "Cablevision", ",", "I", "'m", "a", "manager", "there", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a uh, site in the Bronx",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "the Bronx",
+    "argMentionid" : "fsh_29124-E46-168",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "fsh_29124-R38",
+  "mentionArg1" : {
+    "extent" : "a uh, site in the Bronx",
+    "argMentionid" : "fsh_29124-E47-167",
+    "start" : 8,
+    "end" : 14
+  },
+  "id" : "fsh_29124-R38-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Ken Up in the Bronx , we have a uh , site in the Bronx and I 'm working with them .",
+  "sentence_index" : 80,
+  "Tokens" : [ "Ken", "Up", "in", "the", "Bronx", ",", "we", "have", "a", "uh", ",", "site", "in", "the", "Bronx", "and", "I", "'m", "working", "with", "them", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Up in the Bronx, we have a uh, site in the Bronx and I'm working with them",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "a uh, site in the Bronx",
+    "argMentionid" : "fsh_29124-E47-167",
+    "start" : 8,
+    "end" : 14
+  },
+  "relationID" : "fsh_29124-R39",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "fsh_29124-E45-166",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "fsh_29124-R39-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Ken Up in the Bronx , we have a uh , site in the Bronx and I 'm working with them .",
+  "sentence_index" : 80,
+  "Tokens" : [ "Ken", "Up", "in", "the", "Bronx", ",", "we", "have", "a", "uh", ",", "site", "in", "the", "Bronx", "and", "I", "'m", "working", "with", "them", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a few uh, Cablevision folks",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Cablevision",
+    "argMentionid" : "fsh_29124-E45-172",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "fsh_29124-R40",
+  "mentionArg1" : {
+    "extent" : "a few uh, Cablevision folks",
+    "argMentionid" : "fsh_29124-E49-171",
+    "start" : 3,
+    "end" : 8
+  },
+  "id" : "fsh_29124-R40-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "I worked with a few uh , Cablevision folks on some projects when uh , the Northcoast project was Ken Okay .",
+  "sentence_index" : 82,
+  "Tokens" : [ "I", "worked", "with", "a", "few", "uh", ",", "Cablevision", "folks", "on", "some", "projects", "when", "uh", ",", "the", "Northcoast", "project", "was", "Ken", "Okay", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "I worked with a few uh, Cablevision folks on some projects when uh, the Northcoast project was",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "a few uh, Cablevision folks",
+    "argMentionid" : "fsh_29124-E49-171",
+    "start" : 3,
+    "end" : 8
+  },
+  "relationID" : "fsh_29124-R41",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29124-E2-170",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29124-R41-1",
+  "relationSubType" : "Business",
+  "Sentence" : "I worked with a few uh , Cablevision folks on some projects when uh , the Northcoast project was Ken Okay .",
+  "sentence_index" : 82,
+  "Tokens" : [ "I", "worked", "with", "a", "few", "uh", ",", "Cablevision", "folks", "on", "some", "projects", "when", "uh", ",", "the", "Northcoast", "project", "was", "Ken", "Okay", "." ]
+} ]

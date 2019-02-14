@@ -1,0 +1,155 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "cnn's patty davis at reagan national airport",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "cnn",
+    "argMentionid" : "CNN_ENG_20030318_140851.8-E21-32",
+    "start" : 37,
+    "end" : 37
+  },
+  "relationID" : "CNN_ENG_20030318_140851.8-R1",
+  "mentionArg1" : {
+    "extent" : "cnn's patty davis at reagan national airport",
+    "argMentionid" : "CNN_ENG_20030318_140851.8-E20-31",
+    "start" : 37,
+    "end" : 44
+  },
+  "id" : "CNN_ENG_20030318_140851.8-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "perhaps with that in mind , the nation 's threat level back at orange , or high , to discourage and thwart potential terrorist attacks. what does this mean if you 're traveling you might ask. to cnn 's patty davis at reagan national airport. what are travelers to do and , for that matter , not to do ?",
+  "sentence_index" : 1,
+  "Tokens" : [ "perhaps", "with", "that", "in", "mind", ",", "the", "nation", "'s", "threat", "level", "back", "at", "orange", ",", "or", "high", ",", "to", "discourage", "and", "thwart", "potential", "terrorist", "attacks.", "what", "does", "this", "mean", "if", "you", "'re", "traveling", "you", "might", "ask.", "to", "cnn", "'s", "patty", "davis", "at", "reagan", "national", "airport.", "what", "are", "travelers", "to", "do", "and", ",", "for", "that", "matter", ",", "not", "to", "do", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "cnn's patty davis at reagan national airport",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "reagan national airport",
+    "argMentionid" : "CNN_ENG_20030318_140851.8-E22-33",
+    "start" : 42,
+    "end" : 44
+  },
+  "relationID" : "CNN_ENG_20030318_140851.8-R2",
+  "mentionArg1" : {
+    "extent" : "cnn's patty davis at reagan national airport",
+    "argMentionid" : "CNN_ENG_20030318_140851.8-E20-31",
+    "start" : 37,
+    "end" : 44
+  },
+  "id" : "CNN_ENG_20030318_140851.8-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "perhaps with that in mind , the nation 's threat level back at orange , or high , to discourage and thwart potential terrorist attacks. what does this mean if you 're traveling you might ask. to cnn 's patty davis at reagan national airport. what are travelers to do and , for that matter , not to do ?",
+  "sentence_index" : 1,
+  "Tokens" : [ "perhaps", "with", "that", "in", "mind", ",", "the", "nation", "'s", "threat", "level", "back", "at", "orange", ",", "or", "high", ",", "to", "discourage", "and", "thwart", "potential", "terrorist", "attacks.", "what", "does", "this", "mean", "if", "you", "'re", "traveling", "you", "might", "ask.", "to", "cnn", "'s", "patty", "davis", "at", "reagan", "national", "airport.", "what", "are", "travelers", "to", "do", "and", ",", "for", "that", "matter", ",", "not", "to", "do", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "airports across the country",
+  "sentence_length" : 66,
+  "mentionArg2" : {
+    "extent" : "the country",
+    "argMentionid" : "CNN_ENG_20030318_140851.8-E18-37",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "CNN_ENG_20030318_140851.8-R3",
+  "mentionArg1" : {
+    "extent" : "airports across the country",
+    "argMentionid" : "CNN_ENG_20030318_140851.8-E25-36",
+    "start" : 11,
+    "end" : 14
+  },
+  "id" : "CNN_ENG_20030318_140851.8-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "reporter : miles , what that means is tighter security at airports across the country. and that could potentially slow you down. some things you may want to do is , first all , just get here a little bit early. now , homeland security chief tom ridge described some of those new security measures on top of the ones that are already in place .",
+  "sentence_index" : 2,
+  "Tokens" : [ "reporter", ":", "miles", ",", "what", "that", "means", "is", "tighter", "security", "at", "airports", "across", "the", "country.", "and", "that", "could", "potentially", "slow", "you", "down.", "some", "things", "you", "may", "want", "to", "do", "is", ",", "first", "all", ",", "just", "get", "here", "a", "little", "bit", "early.", "now", ",", "homeland", "security", "chief", "tom", "ridge", "described", "some", "of", "those", "new", "security", "measures", "on", "top", "of", "the", "ones", "that", "are", "already", "in", "place", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "you may want to do is, first all, just get here",
+  "sentence_length" : 66,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_ENG_20030318_140851.8-E25-40",
+    "start" : 36,
+    "end" : 36
+  },
+  "relationID" : "CNN_ENG_20030318_140851.8-R4",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "CNN_ENG_20030318_140851.8-E17-39",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "CNN_ENG_20030318_140851.8-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "reporter : miles , what that means is tighter security at airports across the country. and that could potentially slow you down. some things you may want to do is , first all , just get here a little bit early. now , homeland security chief tom ridge described some of those new security measures on top of the ones that are already in place .",
+  "sentence_index" : 2,
+  "Tokens" : [ "reporter", ":", "miles", ",", "what", "that", "means", "is", "tighter", "security", "at", "airports", "across", "the", "country.", "and", "that", "could", "potentially", "slow", "you", "down.", "some", "things", "you", "may", "want", "to", "do", "is", ",", "first", "all", ",", "just", "get", "here", "a", "little", "bit", "early.", "now", ",", "homeland", "security", "chief", "tom", "ridge", "described", "some", "of", "those", "new", "security", "measures", "on", "top", "of", "the", "ones", "that", "are", "already", "in", "place", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "homeland security chief",
+  "sentence_length" : 66,
+  "mentionArg2" : {
+    "extent" : "homeland security",
+    "argMentionid" : "CNN_ENG_20030318_140851.8-E16-24",
+    "start" : 43,
+    "end" : 44
+  },
+  "relationID" : "CNN_ENG_20030318_140851.8-R5",
+  "mentionArg1" : {
+    "extent" : "homeland security chief",
+    "argMentionid" : "CNN_ENG_20030318_140851.8-E26-42",
+    "start" : 43,
+    "end" : 45
+  },
+  "id" : "CNN_ENG_20030318_140851.8-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "reporter : miles , what that means is tighter security at airports across the country. and that could potentially slow you down. some things you may want to do is , first all , just get here a little bit early. now , homeland security chief tom ridge described some of those new security measures on top of the ones that are already in place .",
+  "sentence_index" : 2,
+  "Tokens" : [ "reporter", ":", "miles", ",", "what", "that", "means", "is", "tighter", "security", "at", "airports", "across", "the", "country.", "and", "that", "could", "potentially", "slow", "you", "down.", "some", "things", "you", "may", "want", "to", "do", "is", ",", "first", "all", ",", "just", "get", "here", "a", "little", "bit", "early.", "now", ",", "homeland", "security", "chief", "tom", "ridge", "described", "some", "of", "those", "new", "security", "measures", "on", "top", "of", "the", "ones", "that", "are", "already", "in", "place", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the pilots in the cockpits",
+  "sentence_length" : 91,
+  "mentionArg2" : {
+    "extent" : "the cockpits",
+    "argMentionid" : "CNN_ENG_20030318_140851.8-E2-2",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "CNN_ENG_20030318_140851.8-R6",
+  "mentionArg1" : {
+    "extent" : "the pilots in the cockpits",
+    "argMentionid" : "CNN_ENG_20030318_140851.8-E1-43",
+    "start" : 4,
+    "end" : 8
+  },
+  "id" : "CNN_ENG_20030318_140851.8-R6-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "begin the training for the pilots in the cockpits with firearms. then you 've got the hardened cockpit doors. you have training for the flight attendants. you have more federal air marshals. you come outside the airline -- the airplane itself and you have technology , 100 % inspection of baggage. you have new trained inspectors for passengers. you enhance airport security outside the perimeter. there will be additional random inspections of vehicles and potentially , depending on the airport , some limitations of indegrees and egress into the airport .",
+  "sentence_index" : 3,
+  "Tokens" : [ "begin", "the", "training", "for", "the", "pilots", "in", "the", "cockpits", "with", "firearms.", "then", "you", "'ve", "got", "the", "hardened", "cockpit", "doors.", "you", "have", "training", "for", "the", "flight", "attendants.", "you", "have", "more", "federal", "air", "marshals.", "you", "come", "outside", "the", "airline", "--", "the", "airplane", "itself", "and", "you", "have", "technology", ",", "100", "%", "inspection", "of", "baggage.", "you", "have", "new", "trained", "inspectors", "for", "passengers.", "you", "enhance", "airport", "security", "outside", "the", "perimeter.", "there", "will", "be", "additional", "random", "inspections", "of", "vehicles", "and", "potentially", ",", "depending", "on", "the", "airport", ",", "some", "limitations", "of", "indegrees", "and", "egress", "into", "the", "airport", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the pilots in the cockpits with firearms",
+  "sentence_length" : 91,
+  "mentionArg2" : {
+    "extent" : "firearms",
+    "argMentionid" : "CNN_ENG_20030318_140851.8-E3-3",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "CNN_ENG_20030318_140851.8-R7",
+  "mentionArg1" : {
+    "extent" : "the pilots in the cockpits",
+    "argMentionid" : "CNN_ENG_20030318_140851.8-E1-43",
+    "start" : 4,
+    "end" : 8
+  },
+  "id" : "CNN_ENG_20030318_140851.8-R7-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "begin the training for the pilots in the cockpits with firearms. then you 've got the hardened cockpit doors. you have training for the flight attendants. you have more federal air marshals. you come outside the airline -- the airplane itself and you have technology , 100 % inspection of baggage. you have new trained inspectors for passengers. you enhance airport security outside the perimeter. there will be additional random inspections of vehicles and potentially , depending on the airport , some limitations of indegrees and egress into the airport .",
+  "sentence_index" : 3,
+  "Tokens" : [ "begin", "the", "training", "for", "the", "pilots", "in", "the", "cockpits", "with", "firearms.", "then", "you", "'ve", "got", "the", "hardened", "cockpit", "doors.", "you", "have", "training", "for", "the", "flight", "attendants.", "you", "have", "more", "federal", "air", "marshals.", "you", "come", "outside", "the", "airline", "--", "the", "airplane", "itself", "and", "you", "have", "technology", ",", "100", "%", "inspection", "of", "baggage.", "you", "have", "new", "trained", "inspectors", "for", "passengers.", "you", "enhance", "airport", "security", "outside", "the", "perimeter.", "there", "will", "be", "additional", "random", "inspections", "of", "vehicles", "and", "potentially", ",", "depending", "on", "the", "airport", ",", "some", "limitations", "of", "indegrees", "and", "egress", "into", "the", "airport", "." ]
+} ]

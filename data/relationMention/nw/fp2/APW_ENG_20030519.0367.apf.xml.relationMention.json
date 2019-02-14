@@ -1,0 +1,1431 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "a third bomber from the group",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "the group",
+    "argMentionid" : "APW_ENG_20030519.0367-E4-170",
+    "start" : 23,
+    "end" : 24
+  },
+  "relationID" : "APW_ENG_20030519.0367-R1",
+  "mentionArg1" : {
+    "extent" : "a third bomber from the group",
+    "argMentionid" : "APW_ENG_20030519.0367-E104-168",
+    "start" : 19,
+    "end" : 24
+  },
+  "id" : "APW_ENG_20030519.0367-R1-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "On Sunday morning , another Hamas assailant blew up the Jerusalem bus and about half an hour later , a third bomber from the group detonated explosives on the outskirts of Jerusalem , killing only himself .",
+  "sentence_index" : 35,
+  "Tokens" : [ "On", "Sunday", "morning", ",", "another", "Hamas", "assailant", "blew", "up", "the", "Jerusalem", "bus", "and", "about", "half", "an", "hour", "later", ",", "a", "third", "bomber", "from", "the", "group", "detonated", "explosives", "on", "the", "outskirts", "of", "Jerusalem", ",", "killing", "only", "himself", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "On Sunday morning, another Hamas assailant blew up the Jerusalem bus and about half an hour later, a third bomber from the group detonated explosives on the outskirts of Jerusalem, killing only himself",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "the outskirts of Jerusalem",
+    "argMentionid" : "APW_ENG_20030519.0367-E106-172",
+    "start" : 28,
+    "end" : 31
+  },
+  "relationID" : "APW_ENG_20030519.0367-R2",
+  "mentionArg1" : {
+    "extent" : "another Hamas assailant",
+    "argMentionid" : "APW_ENG_20030519.0367-E103-166",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030519.0367-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "On Sunday morning , another Hamas assailant blew up the Jerusalem bus and about half an hour later , a third bomber from the group detonated explosives on the outskirts of Jerusalem , killing only himself .",
+  "sentence_index" : 35,
+  "Tokens" : [ "On", "Sunday", "morning", ",", "another", "Hamas", "assailant", "blew", "up", "the", "Jerusalem", "bus", "and", "about", "half", "an", "hour", "later", ",", "a", "third", "bomber", "from", "the", "group", "detonated", "explosives", "on", "the", "outskirts", "of", "Jerusalem", ",", "killing", "only", "himself", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "A suicide bomber detonated explosives at the entrance to a crowded mall in northern Israel on Monday, killing at least four shoppers and wounding 20 in the fifth such attack in two days",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "a crowded mall in northern Israel",
+    "argMentionid" : "APW_ENG_20030519.0367-E147-233",
+    "start" : 13,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030519.0367-R3",
+  "mentionArg1" : {
+    "extent" : "A suicide bomber",
+    "argMentionid" : "APW_ENG_20030519.0367-E121-163",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030519.0367-R3-1",
+  "relationSubType" : "Near",
+  "Sentence" : "JERUSALEM ( AP ) A suicide bomber detonated explosives at the entrance to a crowded mall in northern Israel on Monday , killing at least four shoppers and wounding 20 in the fifth such attack in two days .",
+  "sentence_index" : 0,
+  "Tokens" : [ "JERUSALEM", "(", "AP", ")", "A", "suicide", "bomber", "detonated", "explosives", "at", "the", "entrance", "to", "a", "crowded", "mall", "in", "northern", "Israel", "on", "Monday", ",", "killing", "at", "least", "four", "shoppers", "and", "wounding", "20", "in", "the", "fifth", "such", "attack", "in", "two", "days", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a crowded mall in northern Israel",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "northern Israel",
+    "argMentionid" : "APW_ENG_20030519.0367-E148-235",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030519.0367-R4",
+  "mentionArg1" : {
+    "extent" : "a crowded mall in northern Israel",
+    "argMentionid" : "APW_ENG_20030519.0367-E147-233",
+    "start" : 13,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030519.0367-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "JERUSALEM ( AP ) A suicide bomber detonated explosives at the entrance to a crowded mall in northern Israel on Monday , killing at least four shoppers and wounding 20 in the fifth such attack in two days .",
+  "sentence_index" : 0,
+  "Tokens" : [ "JERUSALEM", "(", "AP", ")", "A", "suicide", "bomber", "detonated", "explosives", "at", "the", "entrance", "to", "a", "crowded", "mall", "in", "northern", "Israel", "on", "Monday", ",", "killing", "at", "least", "four", "shoppers", "and", "wounding", "20", "in", "the", "fifth", "such", "attack", "in", "two", "days", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "A suicide bomber detonated explosives at the entrance to a crowded mall in northern Israel on Monday, killing at least four shoppers and wounding 20 in the fifth such attack in two days",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "a crowded mall in northern Israel",
+    "argMentionid" : "APW_ENG_20030519.0367-E147-233",
+    "start" : 13,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030519.0367-R5",
+  "mentionArg1" : {
+    "extent" : "at least four shoppers",
+    "argMentionid" : "APW_ENG_20030519.0367-E149-236",
+    "start" : 23,
+    "end" : 26
+  },
+  "id" : "APW_ENG_20030519.0367-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "JERUSALEM ( AP ) A suicide bomber detonated explosives at the entrance to a crowded mall in northern Israel on Monday , killing at least four shoppers and wounding 20 in the fifth such attack in two days .",
+  "sentence_index" : 0,
+  "Tokens" : [ "JERUSALEM", "(", "AP", ")", "A", "suicide", "bomber", "detonated", "explosives", "at", "the", "entrance", "to", "a", "crowded", "mall", "in", "northern", "Israel", "on", "Monday", ",", "killing", "at", "least", "four", "shoppers", "and", "wounding", "20", "in", "the", "fifth", "such", "attack", "in", "two", "days", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "A suicide bomber detonated explosives at the entrance to a crowded mall in northern Israel on Monday, killing at least four shoppers and wounding 20 in the fifth such attack in two days",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "a crowded mall in northern Israel",
+    "argMentionid" : "APW_ENG_20030519.0367-E147-233",
+    "start" : 13,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030519.0367-R6",
+  "mentionArg1" : {
+    "extent" : "20",
+    "argMentionid" : "APW_ENG_20030519.0367-E150-237",
+    "start" : 29,
+    "end" : 29
+  },
+  "id" : "APW_ENG_20030519.0367-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "JERUSALEM ( AP ) A suicide bomber detonated explosives at the entrance to a crowded mall in northern Israel on Monday , killing at least four shoppers and wounding 20 in the fifth such attack in two days .",
+  "sentence_index" : 0,
+  "Tokens" : [ "JERUSALEM", "(", "AP", ")", "A", "suicide", "bomber", "detonated", "explosives", "at", "the", "entrance", "to", "a", "crowded", "mall", "in", "northern", "Israel", "on", "Monday", ",", "killing", "at", "least", "four", "shoppers", "and", "wounding", "20", "in", "the", "fifth", "such", "attack", "in", "two", "days", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Shaarei Amakim mall in the working class town of Afula, which has been targeted repeatedly by Palestinian militants because of its proximity to the West Bank",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "the working class town of Afula, which has been targeted repeatedly by Palestinian militants because of its proximity to the West Bank",
+    "argMentionid" : "APW_ENG_20030519.0367-E7-242",
+    "start" : 17,
+    "end" : 39
+  },
+  "relationID" : "APW_ENG_20030519.0367-R7",
+  "mentionArg1" : {
+    "extent" : "the Shaarei Amakim mall in the working class town of Afula, which has been targeted repeatedly by Palestinian militants because of its proximity to the West Bank",
+    "argMentionid" : "APW_ENG_20030519.0367-E147-241",
+    "start" : 12,
+    "end" : 39
+  },
+  "id" : "APW_ENG_20030519.0367-R7-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "There was no immediate claim of responsibility for Monday 's attack at the Shaarei Amakim mall in the working class town of Afula , which has been targeted repeatedly by Palestinian militants because of its proximity to the West Bank .",
+  "sentence_index" : 2,
+  "Tokens" : [ "There", "was", "no", "immediate", "claim", "of", "responsibility", "for", "Monday", "'s", "attack", "at", "the", "Shaarei", "Amakim", "mall", "in", "the", "working", "class", "town", "of", "Afula", ",", "which", "has", "been", "targeted", "repeatedly", "by", "Palestinian", "militants", "because", "of", "its", "proximity", "to", "the", "West", "Bank", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Palestinian militants",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "APW_ENG_20030519.0367-E2-2",
+    "start" : 30,
+    "end" : 30
+  },
+  "relationID" : "APW_ENG_20030519.0367-R8",
+  "mentionArg1" : {
+    "extent" : "Palestinian militants",
+    "argMentionid" : "APW_ENG_20030519.0367-E1-246",
+    "start" : 30,
+    "end" : 31
+  },
+  "id" : "APW_ENG_20030519.0367-R8-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "There was no immediate claim of responsibility for Monday 's attack at the Shaarei Amakim mall in the working class town of Afula , which has been targeted repeatedly by Palestinian militants because of its proximity to the West Bank .",
+  "sentence_index" : 2,
+  "Tokens" : [ "There", "was", "no", "immediate", "claim", "of", "responsibility", "for", "Monday", "'s", "attack", "at", "the", "Shaarei", "Amakim", "mall", "in", "the", "working", "class", "town", "of", "Afula", ",", "which", "has", "been", "targeted", "repeatedly", "by", "Palestinian", "militants", "because", "of", "its", "proximity", "to", "the", "West", "Bank", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the outskirts of Jerusalem",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Jerusalem",
+    "argMentionid" : "APW_ENG_20030519.0367-E29-62",
+    "start" : 31,
+    "end" : 31
+  },
+  "relationID" : "APW_ENG_20030519.0367-R9",
+  "mentionArg1" : {
+    "extent" : "the outskirts of Jerusalem",
+    "argMentionid" : "APW_ENG_20030519.0367-E106-172",
+    "start" : 28,
+    "end" : 31
+  },
+  "id" : "APW_ENG_20030519.0367-R9-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "On Sunday morning , another Hamas assailant blew up the Jerusalem bus and about half an hour later , a third bomber from the group detonated explosives on the outskirts of Jerusalem , killing only himself .",
+  "sentence_index" : 35,
+  "Tokens" : [ "On", "Sunday", "morning", ",", "another", "Hamas", "assailant", "blew", "up", "the", "Jerusalem", "bus", "and", "about", "half", "an", "hour", "later", ",", "a", "third", "bomber", "from", "the", "group", "detonated", "explosives", "on", "the", "outskirts", "of", "Jerusalem", ",", "killing", "only", "himself", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "There was no immediate claim of responsibility for Monday's attack at the Shaarei Amakim mall in the working class town of Afula, which has been targeted repeatedly by Palestinian militants because of its proximity to the West Bank",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "the West Bank",
+    "argMentionid" : "APW_ENG_20030519.0367-E3-3",
+    "start" : 37,
+    "end" : 39
+  },
+  "relationID" : "APW_ENG_20030519.0367-R10",
+  "mentionArg1" : {
+    "extent" : "its",
+    "argMentionid" : "APW_ENG_20030519.0367-E7-245",
+    "start" : 34,
+    "end" : 34
+  },
+  "id" : "APW_ENG_20030519.0367-R10-1",
+  "relationSubType" : "Near",
+  "Sentence" : "There was no immediate claim of responsibility for Monday 's attack at the Shaarei Amakim mall in the working class town of Afula , which has been targeted repeatedly by Palestinian militants because of its proximity to the West Bank .",
+  "sentence_index" : 2,
+  "Tokens" : [ "There", "was", "no", "immediate", "claim", "of", "responsibility", "for", "Monday", "'s", "attack", "at", "the", "Shaarei", "Amakim", "mall", "in", "the", "working", "class", "town", "of", "Afula", ",", "which", "has", "been", "targeted", "repeatedly", "by", "Palestinian", "militants", "because", "of", "its", "proximity", "to", "the", "West", "Bank", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The Afula explosion  _\tthe 95th in 32 months of fighting  _  went off at 5:14 p.m. (1414 gmt) at the entrance to the mall, reportedly as shoppers were waiting in line for a security check",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "the mall",
+    "argMentionid" : "APW_ENG_20030519.0367-E147-9",
+    "start" : 28,
+    "end" : 29
+  },
+  "relationID" : "APW_ENG_20030519.0367-R11",
+  "mentionArg1" : {
+    "extent" : "shoppers",
+    "argMentionid" : "APW_ENG_20030519.0367-E8-10",
+    "start" : 33,
+    "end" : 33
+  },
+  "id" : "APW_ENG_20030519.0367-R11-1",
+  "relationSubType" : "Near",
+  "Sentence" : "The Afula explosion _ the 95th in 32 months of fighting _ went off at 5:14 p . m .",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "Afula", "explosion", "_", "the", "95th", "in", "32", "months", "of", "fighting", "_", "went", "off", "at", "5:14", "p", ".", "m", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a 19-year-old Palestinian riding a bicycle",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "a bicycle",
+    "argMentionid" : "APW_ENG_20030519.0367-E17-23",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030519.0367-R12",
+  "mentionArg1" : {
+    "extent" : "a 19-year-old Palestinian riding a bicycle",
+    "argMentionid" : "APW_ENG_20030519.0367-E16-22",
+    "start" : 3,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030519.0367-R12-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Earlier Monday , a 19-year-old Palestinian riding a bicycle detonated a 30-kilo ( 66-pound ) bomb near a military jeep in the Gaza Strip , injuring three soldiers .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Earlier", "Monday", ",", "a", "19-year-old", "Palestinian", "riding", "a", "bicycle", "detonated", "a", "30-kilo", "(", "66-pound", ")", "bomb", "near", "a", "military", "jeep", "in", "the", "Gaza", "Strip", ",", "injuring", "three", "soldiers", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Earlier Monday, a 19-year-old Palestinian riding a bicycle detonated a 30-kilo (66-pound) bomb near a military jeep in the Gaza Strip, injuring three soldiers",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "a 30-kilo (66-pound) bomb",
+    "argMentionid" : "APW_ENG_20030519.0367-E18-24",
+    "start" : 10,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030519.0367-R13",
+  "mentionArg1" : {
+    "extent" : "a 19-year-old Palestinian riding a bicycle",
+    "argMentionid" : "APW_ENG_20030519.0367-E16-22",
+    "start" : 3,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030519.0367-R13-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Earlier Monday , a 19-year-old Palestinian riding a bicycle detonated a 30-kilo ( 66-pound ) bomb near a military jeep in the Gaza Strip , injuring three soldiers .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Earlier", "Monday", ",", "a", "19-year-old", "Palestinian", "riding", "a", "bicycle", "detonated", "a", "30-kilo", "(", "66-pound", ")", "bomb", "near", "a", "military", "jeep", "in", "the", "Gaza", "Strip", ",", "injuring", "three", "soldiers", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a military jeep in the Gaza Strip",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "a military jeep in the Gaza Strip",
+    "argMentionid" : "APW_ENG_20030519.0367-E19-25",
+    "start" : 17,
+    "end" : 23
+  },
+  "relationID" : "APW_ENG_20030519.0367-R14",
+  "mentionArg1" : {
+    "extent" : "military",
+    "argMentionid" : "APW_ENG_20030519.0367-E20-26",
+    "start" : 18,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030519.0367-R14-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Earlier Monday , a 19-year-old Palestinian riding a bicycle detonated a 30-kilo ( 66-pound ) bomb near a military jeep in the Gaza Strip , injuring three soldiers .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Earlier", "Monday", ",", "a", "19-year-old", "Palestinian", "riding", "a", "bicycle", "detonated", "a", "30-kilo", "(", "66-pound", ")", "bomb", "near", "a", "military", "jeep", "in", "the", "Gaza", "Strip", ",", "injuring", "three", "soldiers", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "The three bombers came from Hebron and at one point studied at the Polytechnic Institute in the city",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Hebron",
+    "argMentionid" : "APW_ENG_20030519.0367-E99-218",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030519.0367-R15",
+  "mentionArg1" : {
+    "extent" : "The three bombers",
+    "argMentionid" : "APW_ENG_20030519.0367-E109-177",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030519.0367-R15-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The three bombers came from Hebron and at one point studied at the Polytechnic Institute in the city .",
+  "sentence_index" : 37,
+  "Tokens" : [ "The", "three", "bombers", "came", "from", "Hebron", "and", "at", "one", "point", "studied", "at", "the", "Polytechnic", "Institute", "in", "the", "city", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Palestinian leader",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "APW_ENG_20030519.0367-E2-34",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030519.0367-R16",
+  "mentionArg1" : {
+    "extent" : "the Palestinian leader",
+    "argMentionid" : "APW_ENG_20030519.0367-E26-33",
+    "start" : 2,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030519.0367-R16-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Israel holds the Palestinian leader responsible for the latest violence , even though the recent attacks were carried out by Islamic militants .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Israel", "holds", "the", "Palestinian", "leader", "responsible", "for", "the", "latest", "violence", ",", "even", "though", "the", "recent", "attacks", "were", "carried", "out", "by", "Islamic", "militants", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Islamic militants",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Islamic",
+    "argMentionid" : "APW_ENG_20030519.0367-E6-36",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "APW_ENG_20030519.0367-R17",
+  "mentionArg1" : {
+    "extent" : "Islamic militants",
+    "argMentionid" : "APW_ENG_20030519.0367-E28-35",
+    "start" : 20,
+    "end" : 21
+  },
+  "id" : "APW_ENG_20030519.0367-R17-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Israel holds the Palestinian leader responsible for the latest violence , even though the recent attacks were carried out by Islamic militants .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Israel", "holds", "the", "Palestinian", "leader", "responsible", "for", "the", "latest", "violence", ",", "even", "though", "the", "recent", "attacks", "were", "carried", "out", "by", "Islamic", "militants", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Palestinian militant groups",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "APW_ENG_20030519.0367-E2-81",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030519.0367-R18",
+  "mentionArg1" : {
+    "extent" : "Palestinian militant groups",
+    "argMentionid" : "APW_ENG_20030519.0367-E48-82",
+    "start" : 17,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030519.0367-R18-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Hamas said Monday it has no intention of halting attacks , despite Egypt 's efforts to have Palestinian militant groups agree to a one-year suspension of shootings and bombings .",
+  "sentence_index" : 12,
+  "Tokens" : [ "Hamas", "said", "Monday", "it", "has", "no", "intention", "of", "halting", "attacks", ",", "despite", "Egypt", "'s", "efforts", "to", "have", "Palestinian", "militant", "groups", "agree", "to", "a", "one-year", "suspension", "of", "shootings", "and", "bombings", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Egyptian envoys",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Egyptian",
+    "argMentionid" : "APW_ENG_20030519.0367-E24-83",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030519.0367-R19",
+  "mentionArg1" : {
+    "extent" : "Egyptian envoys",
+    "argMentionid" : "APW_ENG_20030519.0367-E50-84",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030519.0367-R19-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "In a renewed mediation attempt , Egyptian envoys have been holding meetings in Gaza and Damascus in recent days with leaders of the militant groups .",
+  "sentence_index" : 13,
+  "Tokens" : [ "In", "a", "renewed", "mediation", "attempt", ",", "Egyptian", "envoys", "have", "been", "holding", "meetings", "in", "Gaza", "and", "Damascus", "in", "recent", "days", "with", "leaders", "of", "the", "militant", "groups", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In a renewed mediation attempt, Egyptian envoys have been holding meetings in Gaza and Damascus in recent days with leaders of the militant groups",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Gaza",
+    "argMentionid" : "APW_ENG_20030519.0367-E22-87",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030519.0367-R20",
+  "mentionArg1" : {
+    "extent" : "Egyptian envoys",
+    "argMentionid" : "APW_ENG_20030519.0367-E50-84",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030519.0367-R20-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In a renewed mediation attempt , Egyptian envoys have been holding meetings in Gaza and Damascus in recent days with leaders of the militant groups .",
+  "sentence_index" : 13,
+  "Tokens" : [ "In", "a", "renewed", "mediation", "attempt", ",", "Egyptian", "envoys", "have", "been", "holding", "meetings", "in", "Gaza", "and", "Damascus", "in", "recent", "days", "with", "leaders", "of", "the", "militant", "groups", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In a renewed mediation attempt, Egyptian envoys have been holding meetings in Gaza and Damascus in recent days with leaders of the militant groups",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Damascus",
+    "argMentionid" : "APW_ENG_20030519.0367-E52-88",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030519.0367-R21",
+  "mentionArg1" : {
+    "extent" : "Egyptian envoys",
+    "argMentionid" : "APW_ENG_20030519.0367-E50-84",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030519.0367-R21-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In a renewed mediation attempt , Egyptian envoys have been holding meetings in Gaza and Damascus in recent days with leaders of the militant groups .",
+  "sentence_index" : 13,
+  "Tokens" : [ "In", "a", "renewed", "mediation", "attempt", ",", "Egyptian", "envoys", "have", "been", "holding", "meetings", "in", "Gaza", "and", "Damascus", "in", "recent", "days", "with", "leaders", "of", "the", "militant", "groups", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In a renewed mediation attempt, Egyptian envoys have been holding meetings in Gaza and Damascus in recent days with leaders of the militant groups",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Gaza",
+    "argMentionid" : "APW_ENG_20030519.0367-E22-87",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030519.0367-R22",
+  "mentionArg1" : {
+    "extent" : "leaders of the militant groups",
+    "argMentionid" : "APW_ENG_20030519.0367-E53-89",
+    "start" : 20,
+    "end" : 24
+  },
+  "id" : "APW_ENG_20030519.0367-R22-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In a renewed mediation attempt , Egyptian envoys have been holding meetings in Gaza and Damascus in recent days with leaders of the militant groups .",
+  "sentence_index" : 13,
+  "Tokens" : [ "In", "a", "renewed", "mediation", "attempt", ",", "Egyptian", "envoys", "have", "been", "holding", "meetings", "in", "Gaza", "and", "Damascus", "in", "recent", "days", "with", "leaders", "of", "the", "militant", "groups", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In a renewed mediation attempt, Egyptian envoys have been holding meetings in Gaza and Damascus in recent days with leaders of the militant groups",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Damascus",
+    "argMentionid" : "APW_ENG_20030519.0367-E52-88",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030519.0367-R23",
+  "mentionArg1" : {
+    "extent" : "leaders of the militant groups",
+    "argMentionid" : "APW_ENG_20030519.0367-E53-89",
+    "start" : 20,
+    "end" : 24
+  },
+  "id" : "APW_ENG_20030519.0367-R23-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In a renewed mediation attempt , Egyptian envoys have been holding meetings in Gaza and Damascus in recent days with leaders of the militant groups .",
+  "sentence_index" : 13,
+  "Tokens" : [ "In", "a", "renewed", "mediation", "attempt", ",", "Egyptian", "envoys", "have", "been", "holding", "meetings", "in", "Gaza", "and", "Damascus", "in", "recent", "days", "with", "leaders", "of", "the", "militant", "groups", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "leaders of the militant groups",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "the militant groups",
+    "argMentionid" : "APW_ENG_20030519.0367-E48-90",
+    "start" : 22,
+    "end" : 24
+  },
+  "relationID" : "APW_ENG_20030519.0367-R24",
+  "mentionArg1" : {
+    "extent" : "leaders of the militant groups",
+    "argMentionid" : "APW_ENG_20030519.0367-E53-89",
+    "start" : 20,
+    "end" : 24
+  },
+  "id" : "APW_ENG_20030519.0367-R24-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "In a renewed mediation attempt , Egyptian envoys have been holding meetings in Gaza and Damascus in recent days with leaders of the militant groups .",
+  "sentence_index" : 13,
+  "Tokens" : [ "In", "a", "renewed", "mediation", "attempt", ",", "Egyptian", "envoys", "have", "been", "holding", "meetings", "in", "Gaza", "and", "Damascus", "in", "recent", "days", "with", "leaders", "of", "the", "militant", "groups", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Israeli Prime Minister",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "APW_ENG_20030519.0367-E11-95",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "APW_ENG_20030519.0367-R25",
+  "mentionArg1" : {
+    "extent" : "Israeli Prime Minister",
+    "argMentionid" : "APW_ENG_20030519.0367-E56-97",
+    "start" : 20,
+    "end" : 22
+  },
+  "id" : "APW_ENG_20030519.0367-R25-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The armed groups say they might agree to a truce if Israel promises to stop hunting militants _ a proposal Israeli Prime Minister Ariel Sharon has turned down .",
+  "sentence_index" : 14,
+  "Tokens" : [ "The", "armed", "groups", "say", "they", "might", "agree", "to", "a", "truce", "if", "Israel", "promises", "to", "stop", "hunting", "militants", "_", "a", "proposal", "Israeli", "Prime", "Minister", "Ariel", "Sharon", "has", "turned", "down", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "A Hamas leader",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Hamas",
+    "argMentionid" : "APW_ENG_20030519.0367-E4-39",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030519.0367-R26",
+  "mentionArg1" : {
+    "extent" : "A Hamas leader",
+    "argMentionid" : "APW_ENG_20030519.0367-E58-99",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030519.0367-R26-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "A Hamas leader , Abdel Aziz Rantisi , said Monday that `` legitimate resistance will continue as long as occupation exists on our holy land . ''",
+  "sentence_index" : 15,
+  "Tokens" : [ "A", "Hamas", "leader", ",", "Abdel", "Aziz", "Rantisi", ",", "said", "Monday", "that", "``", "legitimate", "resistance", "will", "continue", "as", "long", "as", "occupation", "exists", "on", "our", "holy", "land", ".", "''" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a Hamas suicide bomber",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Hamas",
+    "argMentionid" : "APW_ENG_20030519.0367-E4-41",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "APW_ENG_20030519.0367-R27",
+  "mentionArg1" : {
+    "extent" : "a Hamas suicide bomber",
+    "argMentionid" : "APW_ENG_20030519.0367-E67-113",
+    "start" : 26,
+    "end" : 29
+  },
+  "id" : "APW_ENG_20030519.0367-R27-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Israel `` will continue to fight terror everywhere , at any time and in any way possible , '' a Cabinet statement said Sunday , after a Hamas suicide bomber killed seven Israelis on a Jerusalem bus earlier in the day .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Israel", "``", "will", "continue", "to", "fight", "terror", "everywhere", ",", "at", "any", "time", "and", "in", "any", "way", "possible", ",", "''", "a", "Cabinet", "statement", "said", "Sunday", ",", "after", "a", "Hamas", "suicide", "bomber", "killed", "seven", "Israelis", "on", "a", "Jerusalem", "bus", "earlier", "in", "the", "day", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "seven Israelis on a Jerusalem bus",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "a Jerusalem bus",
+    "argMentionid" : "APW_ENG_20030519.0367-E69-115",
+    "start" : 34,
+    "end" : 36
+  },
+  "relationID" : "APW_ENG_20030519.0367-R28",
+  "mentionArg1" : {
+    "extent" : "seven Israelis on a Jerusalem bus",
+    "argMentionid" : "APW_ENG_20030519.0367-E68-114",
+    "start" : 31,
+    "end" : 36
+  },
+  "id" : "APW_ENG_20030519.0367-R28-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Israel `` will continue to fight terror everywhere , at any time and in any way possible , '' a Cabinet statement said Sunday , after a Hamas suicide bomber killed seven Israelis on a Jerusalem bus earlier in the day .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Israel", "``", "will", "continue", "to", "fight", "terror", "everywhere", ",", "at", "any", "time", "and", "in", "any", "way", "possible", ",", "''", "a", "Cabinet", "statement", "said", "Sunday", ",", "after", "a", "Hamas", "suicide", "bomber", "killed", "seven", "Israelis", "on", "a", "Jerusalem", "bus", "earlier", "in", "the", "day", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The three bombers came from Hebron and at one point studied at the Polytechnic Institute in the city",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "the Polytechnic Institute in the city",
+    "argMentionid" : "APW_ENG_20030519.0367-E135-221",
+    "start" : 12,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030519.0367-R29",
+  "mentionArg1" : {
+    "extent" : "The three bombers",
+    "argMentionid" : "APW_ENG_20030519.0367-E109-177",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030519.0367-R29-1",
+  "relationSubType" : "Student-Alum",
+  "Sentence" : "The three bombers came from Hebron and at one point studied at the Polytechnic Institute in the city .",
+  "sentence_index" : 37,
+  "Tokens" : [ "The", "three", "bombers", "came", "from", "Hebron", "and", "at", "one", "point", "studied", "at", "the", "Polytechnic", "Institute", "in", "the", "city", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "senior Israeli officials",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "APW_ENG_20030519.0367-E11-118",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030519.0367-R30",
+  "mentionArg1" : {
+    "extent" : "senior Israeli officials",
+    "argMentionid" : "APW_ENG_20030519.0367-E51-86",
+    "start" : 17,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030519.0367-R30-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "`` Whoever wants to visit Arafat can visit Arafat but he wo n't be allowed to meet senior Israeli officials , '' said a senior Sharon adviser , Raanan Gissin .",
+  "sentence_index" : 20,
+  "Tokens" : [ "``", "Whoever", "wants", "to", "visit", "Arafat", "can", "visit", "Arafat", "but", "he", "wo", "n't", "be", "allowed", "to", "meet", "senior", "Israeli", "officials", ",", "''", "said", "a", "senior", "Sharon", "adviser", ",", "Raanan", "Gissin", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "a senior Sharon adviser",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Sharon",
+    "argMentionid" : "APW_ENG_20030519.0367-E56-122",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "APW_ENG_20030519.0367-R31",
+  "mentionArg1" : {
+    "extent" : "a senior Sharon adviser",
+    "argMentionid" : "APW_ENG_20030519.0367-E73-120",
+    "start" : 23,
+    "end" : 26
+  },
+  "id" : "APW_ENG_20030519.0367-R31-1",
+  "relationSubType" : "Business",
+  "Sentence" : "`` Whoever wants to visit Arafat can visit Arafat but he wo n't be allowed to meet senior Israeli officials , '' said a senior Sharon adviser , Raanan Gissin .",
+  "sentence_index" : 20,
+  "Tokens" : [ "``", "Whoever", "wants", "to", "visit", "Arafat", "can", "visit", "Arafat", "but", "he", "wo", "n't", "be", "allowed", "to", "meet", "senior", "Israeli", "officials", ",", "''", "said", "a", "senior", "Sharon", "adviser", ",", "Raanan", "Gissin", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "EU leaders",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "EU",
+    "argMentionid" : "APW_ENG_20030519.0367-E77-124",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030519.0367-R32",
+  "mentionArg1" : {
+    "extent" : "EU leaders",
+    "argMentionid" : "APW_ENG_20030519.0367-E80-126",
+    "start" : 12,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030519.0367-R32-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The European Union on Monday dismissed the decision and a spokeswoman said EU leaders will continue to involve Arafat in the search for peace .",
+  "sentence_index" : 22,
+  "Tokens" : [ "The", "European", "Union", "on", "Monday", "dismissed", "the", "decision", "and", "a", "spokeswoman", "said", "EU", "leaders", "will", "continue", "to", "involve", "Arafat", "in", "the", "search", "for", "peace", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The European Union on Monday dismissed the decision and a spokeswoman said EU leaders will continue to involve Arafat in the search for peace",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "The European Union",
+    "argMentionid" : "APW_ENG_20030519.0367-E77-123",
+    "start" : 0,
+    "end" : 2
+  },
+  "relationID" : "APW_ENG_20030519.0367-R33",
+  "mentionArg1" : {
+    "extent" : "a spokeswoman",
+    "argMentionid" : "APW_ENG_20030519.0367-E79-125",
+    "start" : 9,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030519.0367-R33-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The European Union on Monday dismissed the decision and a spokeswoman said EU leaders will continue to involve Arafat in the search for peace .",
+  "sentence_index" : 22,
+  "Tokens" : [ "The", "European", "Union", "on", "Monday", "dismissed", "the", "decision", "and", "a", "spokeswoman", "said", "EU", "leaders", "will", "continue", "to", "involve", "Arafat", "in", "the", "search", "for", "peace", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Arafat, who has been confined by Israel to the West Bank town of Ramallah for more than a year, accused Israel of inciting against him",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "the West Bank town of Ramallah",
+    "argMentionid" : "APW_ENG_20030519.0367-E81-127",
+    "start" : 9,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030519.0367-R34",
+  "mentionArg1" : {
+    "extent" : "Arafat, who has been confined by Israel to the West Bank town of Ramallah for more than a year",
+    "argMentionid" : "APW_ENG_20030519.0367-E26-46",
+    "start" : 0,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030519.0367-R34-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Arafat , who has been confined by Israel to the West Bank town of Ramallah for more than a year , accused Israel of inciting against him .",
+  "sentence_index" : 23,
+  "Tokens" : [ "Arafat", ",", "who", "has", "been", "confined", "by", "Israel", "to", "the", "West", "Bank", "town", "of", "Ramallah", "for", "more", "than", "a", "year", ",", "accused", "Israel", "of", "inciting", "against", "him", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the West Bank town of Ramallah",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "West Bank",
+    "argMentionid" : "APW_ENG_20030519.0367-E3-129",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030519.0367-R35",
+  "mentionArg1" : {
+    "extent" : "the West Bank town of Ramallah",
+    "argMentionid" : "APW_ENG_20030519.0367-E81-127",
+    "start" : 9,
+    "end" : 14
+  },
+  "id" : "APW_ENG_20030519.0367-R35-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Arafat , who has been confined by Israel to the West Bank town of Ramallah for more than a year , accused Israel of inciting against him .",
+  "sentence_index" : 23,
+  "Tokens" : [ "Arafat", ",", "who", "has", "been", "confined", "by", "Israel", "to", "the", "West", "Bank", "town", "of", "Ramallah", "for", "more", "than", "a", "year", ",", "accused", "Israel", "of", "inciting", "against", "him", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The new Palestinian prime minister",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "APW_ENG_20030519.0367-E2-67",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "APW_ENG_20030519.0367-R36",
+  "mentionArg1" : {
+    "extent" : "The new Palestinian prime minister",
+    "argMentionid" : "APW_ENG_20030519.0367-E86-135",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030519.0367-R36-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The new Palestinian prime minister , Mahmoud Abbas , has denounced violence against Israelis , but also told Sharon in a weekend meeting _ the first Israeli-Palestinian summit in three years _ that he wants to persuade the militants to stop attacks , rather than disarm them by force .",
+  "sentence_index" : 28,
+  "Tokens" : [ "The", "new", "Palestinian", "prime", "minister", ",", "Mahmoud", "Abbas", ",", "has", "denounced", "violence", "against", "Israelis", ",", "but", "also", "told", "Sharon", "in", "a", "weekend", "meeting", "_", "the", "first", "Israeli-Palestinian", "summit", "in", "three", "years", "_", "that", "he", "wants", "to", "persuade", "the", "militants", "to", "stop", "attacks", ",", "rather", "than", "disarm", "them", "by", "force", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Israeli troop",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "APW_ENG_20030519.0367-E11-144",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030519.0367-R37",
+  "mentionArg1" : {
+    "extent" : "Israeli troop",
+    "argMentionid" : "APW_ENG_20030519.0367-E90-145",
+    "start" : 19,
+    "end" : 20
+  },
+  "id" : "APW_ENG_20030519.0367-R37-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The plan calls for parallel steps in the first stage , including a Palestinian crackdown on militants , an Israeli troop pullback from Palestinian towns and a construction freeze in Jewish settlements .",
+  "sentence_index" : 30,
+  "Tokens" : [ "The", "plan", "calls", "for", "parallel", "steps", "in", "the", "first", "stage", ",", "including", "a", "Palestinian", "crackdown", "on", "militants", ",", "an", "Israeli", "troop", "pullback", "from", "Palestinian", "towns", "and", "a", "construction", "freeze", "in", "Jewish", "settlements", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Polytechnic Institute in the city",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "the city",
+    "argMentionid" : "APW_ENG_20030519.0367-E99-219",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030519.0367-R38",
+  "mentionArg1" : {
+    "extent" : "the Polytechnic Institute in the city",
+    "argMentionid" : "APW_ENG_20030519.0367-E135-221",
+    "start" : 12,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030519.0367-R38-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "The three bombers came from Hebron and at one point studied at the Polytechnic Institute in the city .",
+  "sentence_index" : 37,
+  "Tokens" : [ "The", "three", "bombers", "came", "from", "Hebron", "and", "at", "one", "point", "studied", "at", "the", "Polytechnic", "Institute", "in", "the", "city", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Palestinian towns",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "APW_ENG_20030519.0367-E2-66",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "APW_ENG_20030519.0367-R39",
+  "mentionArg1" : {
+    "extent" : "Palestinian towns",
+    "argMentionid" : "APW_ENG_20030519.0367-E146-232",
+    "start" : 23,
+    "end" : 24
+  },
+  "id" : "APW_ENG_20030519.0367-R39-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The plan calls for parallel steps in the first stage , including a Palestinian crackdown on militants , an Israeli troop pullback from Palestinian towns and a construction freeze in Jewish settlements .",
+  "sentence_index" : 30,
+  "Tokens" : [ "The", "plan", "calls", "for", "parallel", "steps", "in", "the", "first", "stage", ",", "including", "a", "Palestinian", "crackdown", "on", "militants", ",", "an", "Israeli", "troop", "pullback", "from", "Palestinian", "towns", "and", "a", "construction", "freeze", "in", "Jewish", "settlements", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. President",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030519.0367-E94-153",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030519.0367-R40",
+  "mentionArg1" : {
+    "extent" : "U.S. President",
+    "argMentionid" : "APW_ENG_20030519.0367-E93-154",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030519.0367-R40-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "He was to have discussed his objections with U.S. President George W. Bush this week , but canceled his trip after Sunday 's bus bombing .",
+  "sentence_index" : 32,
+  "Tokens" : [ "He", "was", "to", "have", "discussed", "his", "objections", "with", "U.S.", "President", "George", "W.", "Bush", "this", "week", ",", "but", "canceled", "his", "trip", "after", "Sunday", "'s", "bus", "bombing", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a Hamas bomber",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Hamas",
+    "argMentionid" : "APW_ENG_20030519.0367-E4-59",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030519.0367-R41",
+  "mentionArg1" : {
+    "extent" : "a Hamas bomber",
+    "argMentionid" : "APW_ENG_20030519.0367-E97-156",
+    "start" : 9,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030519.0367-R41-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "The latest wave of attacks began Saturday evening when a Hamas bomber blew himself up in a square in the West Bank city of Hebron , killing an Israeli settler and his pregnant wife .",
+  "sentence_index" : 34,
+  "Tokens" : [ "The", "latest", "wave", "of", "attacks", "began", "Saturday", "evening", "when", "a", "Hamas", "bomber", "blew", "himself", "up", "in", "a", "square", "in", "the", "West", "Bank", "city", "of", "Hebron", ",", "killing", "an", "Israeli", "settler", "and", "his", "pregnant", "wife", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The latest wave of attacks began Saturday evening when a Hamas bomber blew himself up in a square in the West Bank city of Hebron, killing an Israeli settler and his pregnant wife",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "a square in the West Bank city of Hebron",
+    "argMentionid" : "APW_ENG_20030519.0367-E98-158",
+    "start" : 16,
+    "end" : 24
+  },
+  "relationID" : "APW_ENG_20030519.0367-R42",
+  "mentionArg1" : {
+    "extent" : "a Hamas bomber",
+    "argMentionid" : "APW_ENG_20030519.0367-E97-156",
+    "start" : 9,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030519.0367-R42-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The latest wave of attacks began Saturday evening when a Hamas bomber blew himself up in a square in the West Bank city of Hebron , killing an Israeli settler and his pregnant wife .",
+  "sentence_index" : 34,
+  "Tokens" : [ "The", "latest", "wave", "of", "attacks", "began", "Saturday", "evening", "when", "a", "Hamas", "bomber", "blew", "himself", "up", "in", "a", "square", "in", "the", "West", "Bank", "city", "of", "Hebron", ",", "killing", "an", "Israeli", "settler", "and", "his", "pregnant", "wife", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The latest wave of attacks began Saturday evening when a Hamas bomber blew himself up in a square in the West Bank city of Hebron, killing an Israeli settler and his pregnant wife",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "a square in the West Bank city of Hebron",
+    "argMentionid" : "APW_ENG_20030519.0367-E98-158",
+    "start" : 16,
+    "end" : 24
+  },
+  "relationID" : "APW_ENG_20030519.0367-R43",
+  "mentionArg1" : {
+    "extent" : "an Israeli settler",
+    "argMentionid" : "APW_ENG_20030519.0367-E101-162",
+    "start" : 27,
+    "end" : 29
+  },
+  "id" : "APW_ENG_20030519.0367-R43-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The latest wave of attacks began Saturday evening when a Hamas bomber blew himself up in a square in the West Bank city of Hebron , killing an Israeli settler and his pregnant wife .",
+  "sentence_index" : 34,
+  "Tokens" : [ "The", "latest", "wave", "of", "attacks", "began", "Saturday", "evening", "when", "a", "Hamas", "bomber", "blew", "himself", "up", "in", "a", "square", "in", "the", "West", "Bank", "city", "of", "Hebron", ",", "killing", "an", "Israeli", "settler", "and", "his", "pregnant", "wife", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The latest wave of attacks began Saturday evening when a Hamas bomber blew himself up in a square in the West Bank city of Hebron, killing an Israeli settler and his pregnant wife",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "a square in the West Bank city of Hebron",
+    "argMentionid" : "APW_ENG_20030519.0367-E98-158",
+    "start" : 16,
+    "end" : 24
+  },
+  "relationID" : "APW_ENG_20030519.0367-R44",
+  "mentionArg1" : {
+    "extent" : "his pregnant wife",
+    "argMentionid" : "APW_ENG_20030519.0367-E102-165",
+    "start" : 31,
+    "end" : 33
+  },
+  "id" : "APW_ENG_20030519.0367-R44-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The latest wave of attacks began Saturday evening when a Hamas bomber blew himself up in a square in the West Bank city of Hebron , killing an Israeli settler and his pregnant wife .",
+  "sentence_index" : 34,
+  "Tokens" : [ "The", "latest", "wave", "of", "attacks", "began", "Saturday", "evening", "when", "a", "Hamas", "bomber", "blew", "himself", "up", "in", "a", "square", "in", "the", "West", "Bank", "city", "of", "Hebron", ",", "killing", "an", "Israeli", "settler", "and", "his", "pregnant", "wife", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his pregnant wife",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "his pregnant wife",
+    "argMentionid" : "APW_ENG_20030519.0367-E102-165",
+    "start" : 31,
+    "end" : 33
+  },
+  "relationID" : "APW_ENG_20030519.0367-R45",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "APW_ENG_20030519.0367-E101-164",
+    "start" : 31,
+    "end" : 31
+  },
+  "id" : "APW_ENG_20030519.0367-R45-1",
+  "relationSubType" : "Family",
+  "Sentence" : "The latest wave of attacks began Saturday evening when a Hamas bomber blew himself up in a square in the West Bank city of Hebron , killing an Israeli settler and his pregnant wife .",
+  "sentence_index" : 34,
+  "Tokens" : [ "The", "latest", "wave", "of", "attacks", "began", "Saturday", "evening", "when", "a", "Hamas", "bomber", "blew", "himself", "up", "in", "a", "square", "in", "the", "West", "Bank", "city", "of", "Hebron", ",", "killing", "an", "Israeli", "settler", "and", "his", "pregnant", "wife", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "an Israeli settler",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "APW_ENG_20030519.0367-E11-60",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "APW_ENG_20030519.0367-R46",
+  "mentionArg1" : {
+    "extent" : "an Israeli settler",
+    "argMentionid" : "APW_ENG_20030519.0367-E101-162",
+    "start" : 27,
+    "end" : 29
+  },
+  "id" : "APW_ENG_20030519.0367-R46-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The latest wave of attacks began Saturday evening when a Hamas bomber blew himself up in a square in the West Bank city of Hebron , killing an Israeli settler and his pregnant wife .",
+  "sentence_index" : 34,
+  "Tokens" : [ "The", "latest", "wave", "of", "attacks", "began", "Saturday", "evening", "when", "a", "Hamas", "bomber", "blew", "himself", "up", "in", "a", "square", "in", "the", "West", "Bank", "city", "of", "Hebron", ",", "killing", "an", "Israeli", "settler", "and", "his", "pregnant", "wife", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the West Bank city of Hebron",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "West Bank",
+    "argMentionid" : "APW_ENG_20030519.0367-E3-161",
+    "start" : 20,
+    "end" : 21
+  },
+  "relationID" : "APW_ENG_20030519.0367-R47",
+  "mentionArg1" : {
+    "extent" : "the West Bank city of Hebron",
+    "argMentionid" : "APW_ENG_20030519.0367-E99-159",
+    "start" : 19,
+    "end" : 24
+  },
+  "id" : "APW_ENG_20030519.0367-R47-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The latest wave of attacks began Saturday evening when a Hamas bomber blew himself up in a square in the West Bank city of Hebron , killing an Israeli settler and his pregnant wife .",
+  "sentence_index" : 34,
+  "Tokens" : [ "The", "latest", "wave", "of", "attacks", "began", "Saturday", "evening", "when", "a", "Hamas", "bomber", "blew", "himself", "up", "in", "a", "square", "in", "the", "West", "Bank", "city", "of", "Hebron", ",", "killing", "an", "Israeli", "settler", "and", "his", "pregnant", "wife", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a square in the West Bank city of Hebron",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "the West Bank city of Hebron",
+    "argMentionid" : "APW_ENG_20030519.0367-E99-159",
+    "start" : 19,
+    "end" : 24
+  },
+  "relationID" : "APW_ENG_20030519.0367-R48",
+  "mentionArg1" : {
+    "extent" : "a square in the West Bank city of Hebron",
+    "argMentionid" : "APW_ENG_20030519.0367-E98-158",
+    "start" : 16,
+    "end" : 24
+  },
+  "id" : "APW_ENG_20030519.0367-R48-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The latest wave of attacks began Saturday evening when a Hamas bomber blew himself up in a square in the West Bank city of Hebron , killing an Israeli settler and his pregnant wife .",
+  "sentence_index" : 34,
+  "Tokens" : [ "The", "latest", "wave", "of", "attacks", "began", "Saturday", "evening", "when", "a", "Hamas", "bomber", "blew", "himself", "up", "in", "a", "square", "in", "the", "West", "Bank", "city", "of", "Hebron", ",", "killing", "an", "Israeli", "settler", "and", "his", "pregnant", "wife", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "another Hamas assailant",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Hamas",
+    "argMentionid" : "APW_ENG_20030519.0367-E4-52",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030519.0367-R49",
+  "mentionArg1" : {
+    "extent" : "another Hamas assailant",
+    "argMentionid" : "APW_ENG_20030519.0367-E103-166",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030519.0367-R49-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "On Sunday morning , another Hamas assailant blew up the Jerusalem bus and about half an hour later , a third bomber from the group detonated explosives on the outskirts of Jerusalem , killing only himself .",
+  "sentence_index" : 35,
+  "Tokens" : [ "On", "Sunday", "morning", ",", "another", "Hamas", "assailant", "blew", "up", "the", "Jerusalem", "bus", "and", "about", "half", "an", "hour", "later", ",", "a", "third", "bomber", "from", "the", "group", "detonated", "explosives", "on", "the", "outskirts", "of", "Jerusalem", ",", "killing", "only", "himself", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Two bombers, Fuad Qawasmeh, 18, and Bassem Takrouri, 19, lived in the same Hebron neighborhood and were friends",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "the same Hebron neighborhood",
+    "argMentionid" : "APW_ENG_20030519.0367-E138-224",
+    "start" : 16,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030519.0367-R50",
+  "mentionArg1" : {
+    "extent" : "Two bombers",
+    "argMentionid" : "APW_ENG_20030519.0367-E110-179",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030519.0367-R50-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Two bombers , Fuad Qawasmeh , 18 , and Bassem Takrouri , 19 , lived in the same Hebron neighborhood and were friends .",
+  "sentence_index" : 38,
+  "Tokens" : [ "Two", "bombers", ",", "Fuad", "Qawasmeh", ",", "18", ",", "and", "Bassem", "Takrouri", ",", "19", ",", "lived", "in", "the", "same", "Hebron", "neighborhood", "and", "were", "friends", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the same Hebron neighborhood",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Hebron",
+    "argMentionid" : "APW_ENG_20030519.0367-E99-220",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030519.0367-R51",
+  "mentionArg1" : {
+    "extent" : "the same Hebron neighborhood",
+    "argMentionid" : "APW_ENG_20030519.0367-E138-224",
+    "start" : 16,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030519.0367-R51-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Two bombers , Fuad Qawasmeh , 18 , and Bassem Takrouri , 19 , lived in the same Hebron neighborhood and were friends .",
+  "sentence_index" : 38,
+  "Tokens" : [ "Two", "bombers", ",", "Fuad", "Qawasmeh", ",", "18", ",", "and", "Bassem", "Takrouri", ",", "19", ",", "lived", "in", "the", "same", "Hebron", "neighborhood", "and", "were", "friends", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "The Israeli military",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "APW_ENG_20030519.0367-E11-56",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030519.0367-R52",
+  "mentionArg1" : {
+    "extent" : "The Israeli military",
+    "argMentionid" : "APW_ENG_20030519.0367-E20-57",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030519.0367-R52-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The Israeli military on Monday demolished the Qawasmeh family home , part of a policy of trying to deter attacks by punishing assailants ' relatives .",
+  "sentence_index" : 39,
+  "Tokens" : [ "The", "Israeli", "military", "on", "Monday", "demolished", "the", "Qawasmeh", "family", "home", ",", "part", "of", "a", "policy", "of", "trying", "to", "deter", "attacks", "by", "punishing", "assailants", "'", "relatives", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the Qawasmeh family home",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "the Qawasmeh family home",
+    "argMentionid" : "APW_ENG_20030519.0367-E139-225",
+    "start" : 6,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030519.0367-R53",
+  "mentionArg1" : {
+    "extent" : "Qawasmeh family",
+    "argMentionid" : "APW_ENG_20030519.0367-E140-226",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030519.0367-R53-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The Israeli military on Monday demolished the Qawasmeh family home , part of a policy of trying to deter attacks by punishing assailants ' relatives .",
+  "sentence_index" : 39,
+  "Tokens" : [ "The", "Israeli", "military", "on", "Monday", "demolished", "the", "Qawasmeh", "family", "home", ",", "part", "of", "a", "policy", "of", "trying", "to", "deter", "attacks", "by", "punishing", "assailants", "'", "relatives", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "assailants' relatives",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "assailants' relatives",
+    "argMentionid" : "APW_ENG_20030519.0367-E142-229",
+    "start" : 22,
+    "end" : 24
+  },
+  "relationID" : "APW_ENG_20030519.0367-R54",
+  "mentionArg1" : {
+    "extent" : "assailants",
+    "argMentionid" : "APW_ENG_20030519.0367-E141-228",
+    "start" : 22,
+    "end" : 22
+  },
+  "id" : "APW_ENG_20030519.0367-R54-1",
+  "relationSubType" : "Family",
+  "Sentence" : "The Israeli military on Monday demolished the Qawasmeh family home , part of a policy of trying to deter attacks by punishing assailants ' relatives .",
+  "sentence_index" : 39,
+  "Tokens" : [ "The", "Israeli", "military", "on", "Monday", "demolished", "the", "Qawasmeh", "family", "home", ",", "part", "of", "a", "policy", "of", "trying", "to", "deter", "attacks", "by", "punishing", "assailants", "'", "relatives", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The three bombers released farewell videos, apparently taken in the same wooded area",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "the same wooded area",
+    "argMentionid" : "APW_ENG_20030519.0367-E130-214",
+    "start" : 10,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030519.0367-R55",
+  "mentionArg1" : {
+    "extent" : "The three bombers",
+    "argMentionid" : "APW_ENG_20030519.0367-E109-181",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030519.0367-R55-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The three bombers released farewell videos , apparently taken in the same wooded area .",
+  "sentence_index" : 40,
+  "Tokens" : [ "The", "three", "bombers", "released", "farewell", "videos", ",", "apparently", "taken", "in", "the", "same", "wooded", "area", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "In frame grabs published in the Yediot Ahronot daily, the three struck identical poses, holding up assault rifles",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "assault rifles",
+    "argMentionid" : "APW_ENG_20030519.0367-E131-215",
+    "start" : 18,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030519.0367-R56",
+  "mentionArg1" : {
+    "extent" : "the three",
+    "argMentionid" : "APW_ENG_20030519.0367-E109-182",
+    "start" : 10,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030519.0367-R56-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "In frame grabs published in the Yediot Ahronot daily , the three struck identical poses , holding up assault rifles .",
+  "sentence_index" : 41,
+  "Tokens" : [ "In", "frame", "grabs", "published", "in", "the", "Yediot", "Ahronot", "daily", ",", "the", "three", "struck", "identical", "poses", ",", "holding", "up", "assault", "rifles", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In another development, Israeli forensics experts identified a body that washed up on a Tel Aviv beach last week as that of a Briton, Omar Khan Sharif, 27, the suspected accomplice of a British suicide bomber who blew himself up outside a Tel Aviv pub April 30",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "a Tel Aviv beach",
+    "argMentionid" : "APW_ENG_20030519.0367-E120-203",
+    "start" : 14,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030519.0367-R57",
+  "mentionArg1" : {
+    "extent" : "that",
+    "argMentionid" : "APW_ENG_20030519.0367-E113-185",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030519.0367-R57-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In another development , Israeli forensics experts identified a body that washed up on a Tel Aviv beach last week as that of a Briton , Omar Khan Sharif , 27 , the suspected accomplice of a British suicide bomber who blew himself up outside a Tel Aviv pub April 30 .",
+  "sentence_index" : 43,
+  "Tokens" : [ "In", "another", "development", ",", "Israeli", "forensics", "experts", "identified", "a", "body", "that", "washed", "up", "on", "a", "Tel", "Aviv", "beach", "last", "week", "as", "that", "of", "a", "Briton", ",", "Omar", "Khan", "Sharif", ",", "27", ",", "the", "suspected", "accomplice", "of", "a", "British", "suicide", "bomber", "who", "blew", "himself", "up", "outside", "a", "Tel", "Aviv", "pub", "April", "30", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a Tel Aviv pub",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "Tel Aviv",
+    "argMentionid" : "APW_ENG_20030519.0367-E122-208",
+    "start" : 46,
+    "end" : 47
+  },
+  "relationID" : "APW_ENG_20030519.0367-R58",
+  "mentionArg1" : {
+    "extent" : "a Tel Aviv pub",
+    "argMentionid" : "APW_ENG_20030519.0367-E125-209",
+    "start" : 45,
+    "end" : 48
+  },
+  "id" : "APW_ENG_20030519.0367-R58-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "In another development , Israeli forensics experts identified a body that washed up on a Tel Aviv beach last week as that of a Briton , Omar Khan Sharif , 27 , the suspected accomplice of a British suicide bomber who blew himself up outside a Tel Aviv pub April 30 .",
+  "sentence_index" : 43,
+  "Tokens" : [ "In", "another", "development", ",", "Israeli", "forensics", "experts", "identified", "a", "body", "that", "washed", "up", "on", "a", "Tel", "Aviv", "beach", "last", "week", "as", "that", "of", "a", "Briton", ",", "Omar", "Khan", "Sharif", ",", "27", ",", "the", "suspected", "accomplice", "of", "a", "British", "suicide", "bomber", "who", "blew", "himself", "up", "outside", "a", "Tel", "Aviv", "pub", "April", "30", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a British suicide bomber who blew himself up outside a Tel Aviv pub April 30",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "APW_ENG_20030519.0367-E128-212",
+    "start" : 37,
+    "end" : 37
+  },
+  "relationID" : "APW_ENG_20030519.0367-R59",
+  "mentionArg1" : {
+    "extent" : "a British suicide bomber who blew himself up outside a Tel Aviv pub April 30",
+    "argMentionid" : "APW_ENG_20030519.0367-E123-205",
+    "start" : 36,
+    "end" : 50
+  },
+  "id" : "APW_ENG_20030519.0367-R59-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "In another development , Israeli forensics experts identified a body that washed up on a Tel Aviv beach last week as that of a Briton , Omar Khan Sharif , 27 , the suspected accomplice of a British suicide bomber who blew himself up outside a Tel Aviv pub April 30 .",
+  "sentence_index" : 43,
+  "Tokens" : [ "In", "another", "development", ",", "Israeli", "forensics", "experts", "identified", "a", "body", "that", "washed", "up", "on", "a", "Tel", "Aviv", "beach", "last", "week", "as", "that", "of", "a", "Briton", ",", "Omar", "Khan", "Sharif", ",", "27", ",", "the", "suspected", "accomplice", "of", "a", "British", "suicide", "bomber", "who", "blew", "himself", "up", "outside", "a", "Tel", "Aviv", "pub", "April", "30", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In another development, Israeli forensics experts identified a body that washed up on a Tel Aviv beach last week as that of a Briton, Omar Khan Sharif, 27, the suspected accomplice of a British suicide bomber who blew himself up outside a Tel Aviv pub April 30",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "a Tel Aviv pub",
+    "argMentionid" : "APW_ENG_20030519.0367-E125-209",
+    "start" : 45,
+    "end" : 48
+  },
+  "relationID" : "APW_ENG_20030519.0367-R60",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "APW_ENG_20030519.0367-E123-206",
+    "start" : 40,
+    "end" : 40
+  },
+  "id" : "APW_ENG_20030519.0367-R60-1",
+  "relationSubType" : "Near",
+  "Sentence" : "In another development , Israeli forensics experts identified a body that washed up on a Tel Aviv beach last week as that of a Briton , Omar Khan Sharif , 27 , the suspected accomplice of a British suicide bomber who blew himself up outside a Tel Aviv pub April 30 .",
+  "sentence_index" : 43,
+  "Tokens" : [ "In", "another", "development", ",", "Israeli", "forensics", "experts", "identified", "a", "body", "that", "washed", "up", "on", "a", "Tel", "Aviv", "beach", "last", "week", "as", "that", "of", "a", "Briton", ",", "Omar", "Khan", "Sharif", ",", "27", ",", "the", "suspected", "accomplice", "of", "a", "British", "suicide", "bomber", "who", "blew", "himself", "up", "outside", "a", "Tel", "Aviv", "pub", "April", "30", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a Tel Aviv beach",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "Tel Aviv",
+    "argMentionid" : "APW_ENG_20030519.0367-E122-204",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "APW_ENG_20030519.0367-R61",
+  "mentionArg1" : {
+    "extent" : "a Tel Aviv beach",
+    "argMentionid" : "APW_ENG_20030519.0367-E120-203",
+    "start" : 14,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030519.0367-R61-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "In another development , Israeli forensics experts identified a body that washed up on a Tel Aviv beach last week as that of a Briton , Omar Khan Sharif , 27 , the suspected accomplice of a British suicide bomber who blew himself up outside a Tel Aviv pub April 30 .",
+  "sentence_index" : 43,
+  "Tokens" : [ "In", "another", "development", ",", "Israeli", "forensics", "experts", "identified", "a", "body", "that", "washed", "up", "on", "a", "Tel", "Aviv", "beach", "last", "week", "as", "that", "of", "a", "Briton", ",", "Omar", "Khan", "Sharif", ",", "27", ",", "the", "suspected", "accomplice", "of", "a", "British", "suicide", "bomber", "who", "blew", "himself", "up", "outside", "a", "Tel", "Aviv", "pub", "April", "30", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Sharif also carried explosives, but they didn't go off, and he fled",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "explosives",
+    "argMentionid" : "APW_ENG_20030519.0367-E115-193",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030519.0367-R62",
+  "mentionArg1" : {
+    "extent" : "Sharif",
+    "argMentionid" : "APW_ENG_20030519.0367-E113-189",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "APW_ENG_20030519.0367-R62-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Sharif also carried explosives , but they did n't go off , and he fled .",
+  "sentence_index" : 45,
+  "Tokens" : [ "Sharif", "also", "carried", "explosives", ",", "but", "they", "did", "n't", "go", "off", ",", "and", "he", "fled", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Israel's Forensics Institute",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Israel",
+    "argMentionid" : "APW_ENG_20030519.0367-E11-54",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030519.0367-R63",
+  "mentionArg1" : {
+    "extent" : "Israel's Forensics Institute",
+    "argMentionid" : "APW_ENG_20030519.0367-E116-195",
+    "start" : 12,
+    "end" : 15
+  },
+  "id" : "APW_ENG_20030519.0367-R63-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The identification was made with the help of DNA samples supplied to Israel 's Forensics Institute by British detectives , said the head of the institute , Dr. Yehuda Hiss .",
+  "sentence_index" : 47,
+  "Tokens" : [ "The", "identification", "was", "made", "with", "the", "help", "of", "DNA", "samples", "supplied", "to", "Israel", "'s", "Forensics", "Institute", "by", "British", "detectives", ",", "said", "the", "head", "of", "the", "institute", ",", "Dr.", "Yehuda", "Hiss", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "British detectives",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "APW_ENG_20030519.0367-E128-213",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030519.0367-R64",
+  "mentionArg1" : {
+    "extent" : "British detectives",
+    "argMentionid" : "APW_ENG_20030519.0367-E117-196",
+    "start" : 17,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030519.0367-R64-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The identification was made with the help of DNA samples supplied to Israel 's Forensics Institute by British detectives , said the head of the institute , Dr. Yehuda Hiss .",
+  "sentence_index" : 47,
+  "Tokens" : [ "The", "identification", "was", "made", "with", "the", "help", "of", "DNA", "samples", "supplied", "to", "Israel", "'s", "Forensics", "Institute", "by", "British", "detectives", ",", "said", "the", "head", "of", "the", "institute", ",", "Dr.", "Yehuda", "Hiss", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the head of the institute",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "the institute",
+    "argMentionid" : "APW_ENG_20030519.0367-E116-201",
+    "start" : 24,
+    "end" : 25
+  },
+  "relationID" : "APW_ENG_20030519.0367-R65",
+  "mentionArg1" : {
+    "extent" : "the head of the institute",
+    "argMentionid" : "APW_ENG_20030519.0367-E118-198",
+    "start" : 21,
+    "end" : 25
+  },
+  "id" : "APW_ENG_20030519.0367-R65-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The identification was made with the help of DNA samples supplied to Israel 's Forensics Institute by British detectives , said the head of the institute , Dr. Yehuda Hiss .",
+  "sentence_index" : 47,
+  "Tokens" : [ "The", "identification", "was", "made", "with", "the", "help", "of", "DNA", "samples", "supplied", "to", "Israel", "'s", "Forensics", "Institute", "by", "British", "detectives", ",", "said", "the", "head", "of", "the", "institute", ",", "Dr.", "Yehuda", "Hiss", "." ]
+} ]

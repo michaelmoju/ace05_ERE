@@ -1,0 +1,67 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "Czech President",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "Czech",
+    "argMentionid" : "XIN_ENG_20030609.0118-E12-19",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "XIN_ENG_20030609.0118-R1",
+  "mentionArg1" : {
+    "extent" : "Czech President",
+    "argMentionid" : "XIN_ENG_20030609.0118-E9-18",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "XIN_ENG_20030609.0118-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "PRAGUE , June 9 ( Xinhua ) Czech President Vaclav Klaus on Monday appointed Miroslav Kostelka as the country 's new defense minister to replace Jaroslav Tvrdik who resigned from the post in late May .",
+  "sentence_index" : 0,
+  "Tokens" : [ "PRAGUE", ",", "June", "9", "(", "Xinhua", ")", "Czech", "President", "Vaclav", "Klaus", "on", "Monday", "appointed", "Miroslav", "Kostelka", "as", "the", "country", "'s", "new", "defense", "minister", "to", "replace", "Jaroslav", "Tvrdik", "who", "resigned", "from", "the", "post", "in", "late", "May", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the country's new defense minister",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "the country",
+    "argMentionid" : "XIN_ENG_20030609.0118-E12-22",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "XIN_ENG_20030609.0118-R2",
+  "mentionArg1" : {
+    "extent" : "the country's new defense minister",
+    "argMentionid" : "XIN_ENG_20030609.0118-E10-21",
+    "start" : 17,
+    "end" : 22
+  },
+  "id" : "XIN_ENG_20030609.0118-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "PRAGUE , June 9 ( Xinhua ) Czech President Vaclav Klaus on Monday appointed Miroslav Kostelka as the country 's new defense minister to replace Jaroslav Tvrdik who resigned from the post in late May .",
+  "sentence_index" : 0,
+  "Tokens" : [ "PRAGUE", ",", "June", "9", "(", "Xinhua", ")", "Czech", "President", "Vaclav", "Klaus", "on", "Monday", "appointed", "Miroslav", "Kostelka", "as", "the", "country", "'s", "new", "defense", "minister", "to", "replace", "Jaroslav", "Tvrdik", "who", "resigned", "from", "the", "post", "in", "late", "May", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Spidla-led government",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "the Spidla-led government",
+    "argMentionid" : "XIN_ENG_20030609.0118-E20-14",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "XIN_ENG_20030609.0118-R3",
+  "mentionArg1" : {
+    "extent" : "Spidla",
+    "argMentionid" : "XIN_ENG_20030609.0118-E5-13",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "XIN_ENG_20030609.0118-R3-1",
+  "relationSubType" : "Founder",
+  "Sentence" : "The appointment marked the second change of the cabinet post since the Spidla-led government came into power in July 2002 .",
+  "sentence_index" : 8,
+  "Tokens" : [ "The", "appointment", "marked", "the", "second", "change", "of", "the", "cabinet", "post", "since", "the", "Spidla-led", "government", "came", "into", "power", "in", "July", "2002", "." ]
+} ]

@@ -1,0 +1,331 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "Larry from -- Arlington, Texas",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "Arlington, Texas",
+    "argMentionid" : "fsh_29106-E61-266",
+    "start" : 5,
+    "end" : 7
+  },
+  "relationID" : "fsh_29106-R1",
+  "mentionArg1" : {
+    "extent" : "Larry from -- Arlington, Texas",
+    "argMentionid" : "fsh_29106-E35-269",
+    "start" : 2,
+    "end" : 7
+  },
+  "id" : "fsh_29106-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "This is Larry from -- Arlington , Texas .",
+  "sentence_index" : 7,
+  "Tokens" : [ "This", "is", "Larry", "from", "--", "Arlington", ",", "Texas", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Arlington, Texas",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "Texas",
+    "argMentionid" : "fsh_29106-E62-267",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "fsh_29106-R2",
+  "mentionArg1" : {
+    "extent" : "Arlington, Texas",
+    "argMentionid" : "fsh_29106-E61-266",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "fsh_29106-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "This is Larry from -- Arlington , Texas .",
+  "sentence_index" : 7,
+  "Tokens" : [ "This", "is", "Larry", "from", "--", "Arlington", ",", "Texas", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Marco from Illinois",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "Illinois",
+    "argMentionid" : "fsh_29106-E27-271",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "fsh_29106-R3",
+  "mentionArg1" : {
+    "extent" : "Marco from Illinois",
+    "argMentionid" : "fsh_29106-E63-270",
+    "start" : 7,
+    "end" : 9
+  },
+  "id" : "fsh_29106-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Marco Hi , Larry , this is Marco from Illinois .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Marco", "Hi", ",", "Larry", ",", "this", "is", "Marco", "from", "Illinois", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my wife",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "my wife",
+    "argMentionid" : "fsh_29106-E65-277",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "fsh_29106-R4",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29106-E35-2",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "fsh_29106-R4-1",
+  "relationSubType" : "Family",
+  "Sentence" : "I 'm not sure , uh , my wife signed us up for this , so -- I 'll try .",
+  "sentence_index" : 11,
+  "Tokens" : [ "I", "'m", "not", "sure", ",", "uh", ",", "my", "wife", "signed", "us", "up", "for", "this", ",", "so", "--", "I", "'ll", "try", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the best candidates for both -- parties -- in two thousand eight",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "both -- parties",
+    "argMentionid" : "fsh_29106-E5-10",
+    "start" : 35,
+    "end" : 37
+  },
+  "relationID" : "fsh_29106-R5",
+  "mentionArg1" : {
+    "extent" : "the best candidates for both -- parties -- in two thousand eight",
+    "argMentionid" : "fsh_29106-E4-276",
+    "start" : 31,
+    "end" : 42
+  },
+  "id" : "fsh_29106-R5-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Yeah , um , I guess -- we 're supposed to -- eh , we 're supposed to suggest , or , you know , who we would think would be the best candidates for both -- parties -- in two thousand eight , and they give some suggestions -- of people who 've been mentioned in the press .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Yeah", ",", "um", ",", "I", "guess", "--", "we", "'re", "supposed", "to", "--", "eh", ",", "we", "'re", "supposed", "to", "suggest", ",", "or", ",", "you", "know", ",", "who", "we", "would", "think", "would", "be", "the", "best", "candidates", "for", "both", "--", "parties", "--", "in", "two", "thousand", "eight", ",", "and", "they", "give", "some", "suggestions", "--", "of", "people", "who", "'ve", "been", "mentioned", "in", "the", "press", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Uh, I've heard Colin Powell -- for the Republican party",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "the Republican party",
+    "argMentionid" : "fsh_29106-E8-23",
+    "start" : 9,
+    "end" : 11
+  },
+  "relationID" : "fsh_29106-R6",
+  "mentionArg1" : {
+    "extent" : "Colin Powell",
+    "argMentionid" : "fsh_29106-E7-22",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "fsh_29106-R6-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Uh , I 've heard Colin Powell -- for the Republican party .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Uh", ",", "I", "'ve", "heard", "Colin", "Powell", "--", "for", "the", "Republican", "party", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Senator in Illinois -- for the Democrats",
+  "sentence_length" : 63,
+  "mentionArg2" : {
+    "extent" : "Illinois",
+    "argMentionid" : "fsh_29106-E27-32",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "fsh_29106-R7",
+  "mentionArg1" : {
+    "extent" : "the Senator in Illinois -- for the Democrats",
+    "argMentionid" : "fsh_29106-E12-31",
+    "start" : 14,
+    "end" : 21
+  },
+  "id" : "fsh_29106-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "And I 've heard Hillary Clinton and -- Barak -- Obama who is -- the Senator in Illinois -- for the Democrats , and -- Um , so I guess we 're supposed to say -- suggest maybe other people , but , um , those are the only people that I know who -- have been talked about in the press .",
+  "sentence_index" : 19,
+  "Tokens" : [ "And", "I", "'ve", "heard", "Hillary", "Clinton", "and", "--", "Barak", "--", "Obama", "who", "is", "--", "the", "Senator", "in", "Illinois", "--", "for", "the", "Democrats", ",", "and", "--", "Um", ",", "so", "I", "guess", "we", "'re", "supposed", "to", "say", "--", "suggest", "maybe", "other", "people", ",", "but", ",", "um", ",", "those", "are", "the", "only", "people", "that", "I", "know", "who", "--", "have", "been", "talked", "about", "in", "the", "press", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a state congressman",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "state",
+    "argMentionid" : "fsh_29106-E27-84",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "fsh_29106-R7",
+  "mentionArg1" : {
+    "extent" : "a state congressman",
+    "argMentionid" : "fsh_29106-E12-83",
+    "start" : 3,
+    "end" : 5
+  },
+  "id" : "fsh_29106-R7-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "So he was a state congressman , and -- the Senate seat was open , and -- we were going to replace -- the Republican Fitzgerald -- in in Illinois -- and uh the Republican party had a very difficult time -- uh finding somebody who would run against Obama .",
+  "sentence_index" : 33,
+  "Tokens" : [ "So", "he", "was", "a", "state", "congressman", ",", "and", "--", "the", "Senate", "seat", "was", "open", ",", "and", "--", "we", "were", "going", "to", "replace", "--", "the", "Republican", "Fitzgerald", "--", "in", "in", "Illinois", "--", "and", "uh", "the", "Republican", "party", "had", "a", "very", "difficult", "time", "--", "uh", "finding", "somebody", "who", "would", "run", "against", "Obama", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Yeah, he's -- he basically came out of -- nowhere -- and -- there was an open seat for the ~US -- Senate,  and he was in the House,  uh the state uh assembly",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "the state uh assembly",
+    "argMentionid" : "fsh_29106-E25-81",
+    "start" : 35,
+    "end" : 38
+  },
+  "relationID" : "fsh_29106-R8",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "fsh_29106-E12-75",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "fsh_29106-R8-1",
+  "relationSubType" : "Investor-Shareholder",
+  "Sentence" : "Yeah , he 's -- he basically came out of -- nowhere -- and -- there was an open seat for the ~ US -- Senate , and he was in the House , uh the state uh assembly .",
+  "sentence_index" : 32,
+  "Tokens" : [ "Yeah", ",", "he", "'s", "--", "he", "basically", "came", "out", "of", "--", "nowhere", "--", "and", "--", "there", "was", "an", "open", "seat", "for", "the", "~", "US", "--", "Senate", ",", "and", "he", "was", "in", "the", "House", ",", "uh", "the", "state", "uh", "assembly", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Republican Fitzgerald",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "Republican",
+    "argMentionid" : "fsh_29106-E8-88",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "fsh_29106-R10",
+  "mentionArg1" : {
+    "extent" : "the Republican Fitzgerald",
+    "argMentionid" : "fsh_29106-E30-87",
+    "start" : 23,
+    "end" : 25
+  },
+  "id" : "fsh_29106-R10-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "So he was a state congressman , and -- the Senate seat was open , and -- we were going to replace -- the Republican Fitzgerald -- in in Illinois -- and uh the Republican party had a very difficult time -- uh finding somebody who would run against Obama .",
+  "sentence_index" : 33,
+  "Tokens" : [ "So", "he", "was", "a", "state", "congressman", ",", "and", "--", "the", "Senate", "seat", "was", "open", ",", "and", "--", "we", "were", "going", "to", "replace", "--", "the", "Republican", "Fitzgerald", "--", "in", "in", "Illinois", "--", "and", "uh", "the", "Republican", "party", "had", "a", "very", "difficult", "time", "--", "uh", "finding", "somebody", "who", "would", "run", "against", "Obama", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "So he was a state congressman, and -- the Senate seat was open, and -- we were going to replace -- the Republican Fitzgerald -- in in Illinois -- and uh the Republican party had a very difficult time -- uh finding somebody who would run against Obama",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "Illinois",
+    "argMentionid" : "fsh_29106-E27-89",
+    "start" : 29,
+    "end" : 29
+  },
+  "relationID" : "fsh_29106-R11",
+  "mentionArg1" : {
+    "extent" : "the Republican Fitzgerald",
+    "argMentionid" : "fsh_29106-E30-87",
+    "start" : 23,
+    "end" : 25
+  },
+  "id" : "fsh_29106-R11-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "So he was a state congressman , and -- the Senate seat was open , and -- we were going to replace -- the Republican Fitzgerald -- in in Illinois -- and uh the Republican party had a very difficult time -- uh finding somebody who would run against Obama .",
+  "sentence_index" : 33,
+  "Tokens" : [ "So", "he", "was", "a", "state", "congressman", ",", "and", "--", "the", "Senate", "seat", "was", "open", ",", "and", "--", "we", "were", "going", "to", "replace", "--", "the", "Republican", "Fitzgerald", "--", "in", "in", "Illinois", "--", "and", "uh", "the", "Republican", "party", "had", "a", "very", "difficult", "time", "--", "uh", "finding", "somebody", "who", "would", "run", "against", "Obama", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his parents",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "his parents",
+    "argMentionid" : "fsh_29106-E34-106",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "fsh_29106-R12",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29106-E12-107",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "fsh_29106-R12-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Marco And he 's very young , he 's um from -- his parents are Kenyan -- and Larry Okay , I think I have seen him .",
+  "sentence_index" : 39,
+  "Tokens" : [ "Marco", "And", "he", "'s", "very", "young", ",", "he", "'s", "um", "from", "--", "his", "parents", "are", "Kenyan", "--", "and", "Larry", "Okay", ",", "I", "think", "I", "have", "seen", "him", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "And he's very young, he's um from -- his parents are Kenyan -- and",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Kenyan",
+    "argMentionid" : "fsh_29106-E38-113",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "fsh_29106-R13",
+  "mentionArg1" : {
+    "extent" : "his parents",
+    "argMentionid" : "fsh_29106-E34-106",
+    "start" : 12,
+    "end" : 13
+  },
+  "id" : "fsh_29106-R13-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Marco And he 's very young , he 's um from -- his parents are Kenyan -- and Larry Okay , I think I have seen him .",
+  "sentence_index" : 39,
+  "Tokens" : [ "Marco", "And", "he", "'s", "very", "young", ",", "he", "'s", "um", "from", "--", "his", "parents", "are", "Kenyan", "--", "and", "Larry", "Okay", ",", "I", "think", "I", "have", "seen", "him", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the red states in the South -- and in -- the West",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "the South",
+    "argMentionid" : "fsh_29106-E57-208",
+    "start" : 23,
+    "end" : 24
+  },
+  "relationID" : "fsh_29106-R14",
+  "mentionArg1" : {
+    "extent" : "the red states in the South -- and in -- the West",
+    "argMentionid" : "fsh_29106-E55-198",
+    "start" : 19,
+    "end" : 30
+  },
+  "id" : "fsh_29106-R14-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Marco It seems -- it seems like -- the Republicans who -- who , uh , well , the the red states in the South -- and in -- the West -- the they traditionally vote Republican , um , no matter who who 's running .",
+  "sentence_index" : 65,
+  "Tokens" : [ "Marco", "It", "seems", "--", "it", "seems", "like", "--", "the", "Republicans", "who", "--", "who", ",", "uh", ",", "well", ",", "the", "the", "red", "states", "in", "the", "South", "--", "and", "in", "--", "the", "West", "--", "the", "they", "traditionally", "vote", "Republican", ",", "um", ",", "no", "matter", "who", "who", "'s", "running", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the red states in the South -- and in -- the West",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "the West",
+    "argMentionid" : "fsh_29106-E58-209",
+    "start" : 29,
+    "end" : 30
+  },
+  "relationID" : "fsh_29106-R15",
+  "mentionArg1" : {
+    "extent" : "the red states in the South -- and in -- the West",
+    "argMentionid" : "fsh_29106-E55-198",
+    "start" : 19,
+    "end" : 30
+  },
+  "id" : "fsh_29106-R15-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Marco It seems -- it seems like -- the Republicans who -- who , uh , well , the the red states in the South -- and in -- the West -- the they traditionally vote Republican , um , no matter who who 's running .",
+  "sentence_index" : 65,
+  "Tokens" : [ "Marco", "It", "seems", "--", "it", "seems", "like", "--", "the", "Republicans", "who", "--", "who", ",", "uh", ",", "well", ",", "the", "the", "red", "states", "in", "the", "South", "--", "and", "in", "--", "the", "West", "--", "the", "they", "traditionally", "vote", "Republican", ",", "um", ",", "no", "matter", "who", "who", "'s", "running", "." ]
+} ]

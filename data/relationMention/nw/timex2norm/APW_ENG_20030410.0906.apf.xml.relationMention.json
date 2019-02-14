@@ -1,0 +1,683 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iraq's ambassador",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "APW_ENG_20030410.0906-E6-60",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030410.0906-R1",
+  "mentionArg1" : {
+    "extent" : "Iraq's ambassador",
+    "argMentionid" : "APW_ENG_20030410.0906-E1-6",
+    "start" : 12,
+    "end" : 14
+  },
+  "id" : "APW_ENG_20030410.0906-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "But U.N. spokesman Fred Eckhard said Al-Douri still has diplomatic immunity as Iraq 's ambassador .",
+  "sentence_index" : 27,
+  "Tokens" : [ "But", "U.N.", "spokesman", "Fred", "Eckhard", "said", "Al-Douri", "still", "has", "diplomatic", "immunity", "as", "Iraq", "'s", "ambassador", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iraq's U.N. Ambassador",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "APW_ENG_20030410.0906-E6-41",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030410.0906-R1",
+  "mentionArg1" : {
+    "extent" : "Iraq's U.N. Ambassador",
+    "argMentionid" : "APW_ENG_20030410.0906-E1-166",
+    "start" : 5,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030410.0906-R1-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "UNITED NATIONS ( AP ) Iraq 's U.N. Ambassador Mohammed Al-Douri , the first Iraqi official to concede defeat in the U.S.-led war , met privately with Secretary-General Kofi Annan , but refused to talk about rumors that he was planning to leave New York .",
+  "sentence_index" : 0,
+  "Tokens" : [ "UNITED", "NATIONS", "(", "AP", ")", "Iraq", "'s", "U.N.", "Ambassador", "Mohammed", "Al-Douri", ",", "the", "first", "Iraqi", "official", "to", "concede", "defeat", "in", "the", "U.S.-led", "war", ",", "met", "privately", "with", "Secretary-General", "Kofi", "Annan", ",", "but", "refused", "to", "talk", "about", "rumors", "that", "he", "was", "planning", "to", "leave", "New", "York", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the first Iraqi official to concede defeat in the U.S.-led war",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030410.0906-E6-169",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030410.0906-R1",
+  "mentionArg1" : {
+    "extent" : "the first Iraqi official to concede defeat in the U.S.-led war",
+    "argMentionid" : "APW_ENG_20030410.0906-E1-165",
+    "start" : 12,
+    "end" : 22
+  },
+  "id" : "APW_ENG_20030410.0906-R1-3",
+  "relationSubType" : "Employment",
+  "Sentence" : "UNITED NATIONS ( AP ) Iraq 's U.N. Ambassador Mohammed Al-Douri , the first Iraqi official to concede defeat in the U.S.-led war , met privately with Secretary-General Kofi Annan , but refused to talk about rumors that he was planning to leave New York .",
+  "sentence_index" : 0,
+  "Tokens" : [ "UNITED", "NATIONS", "(", "AP", ")", "Iraq", "'s", "U.N.", "Ambassador", "Mohammed", "Al-Douri", ",", "the", "first", "Iraqi", "official", "to", "concede", "defeat", "in", "the", "U.S.-led", "war", ",", "met", "privately", "with", "Secretary-General", "Kofi", "Annan", ",", "but", "refused", "to", "talk", "about", "rumors", "that", "he", "was", "planning", "to", "leave", "New", "York", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iraq's ambassador at the United Nations",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "APW_ENG_20030410.0906-E6-61",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030410.0906-R1",
+  "mentionArg1" : {
+    "extent" : "Iraq's ambassador at the United Nations",
+    "argMentionid" : "APW_ENG_20030410.0906-E1-125",
+    "start" : 4,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030410.0906-R1-4",
+  "relationSubType" : "Employment",
+  "Sentence" : "`` He is still Iraq 's ambassador at the United Nations , '' White House spokesman Ari Fleischer said in Washington .",
+  "sentence_index" : 29,
+  "Tokens" : [ "``", "He", "is", "still", "Iraq", "'s", "ambassador", "at", "the", "United", "Nations", ",", "''", "White", "House", "spokesman", "Ari", "Fleischer", "said", "in", "Washington", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "White House spokesman",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "White House",
+    "argMentionid" : "APW_ENG_20030410.0906-E25-82",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030410.0906-R2",
+  "mentionArg1" : {
+    "extent" : "White House spokesman",
+    "argMentionid" : "APW_ENG_20030410.0906-E44-128",
+    "start" : 13,
+    "end" : 15
+  },
+  "id" : "APW_ENG_20030410.0906-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "`` He is still Iraq 's ambassador at the United Nations , '' White House spokesman Ari Fleischer said in Washington .",
+  "sentence_index" : 29,
+  "Tokens" : [ "``", "He", "is", "still", "Iraq", "'s", "ambassador", "at", "the", "United", "Nations", ",", "''", "White", "House", "spokesman", "Ari", "Fleischer", "said", "in", "Washington", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "White House spokesman Ari Fleischer said in Washington",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Washington",
+    "argMentionid" : "APW_ENG_20030410.0906-E46-129",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "APW_ENG_20030410.0906-R3",
+  "mentionArg1" : {
+    "extent" : "White House spokesman Ari Fleischer",
+    "argMentionid" : "APW_ENG_20030410.0906-E44-127",
+    "start" : 13,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030410.0906-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "`` He is still Iraq 's ambassador at the United Nations , '' White House spokesman Ari Fleischer said in Washington .",
+  "sentence_index" : 29,
+  "Tokens" : [ "``", "He", "is", "still", "Iraq", "'s", "ambassador", "at", "the", "United", "Nations", ",", "''", "White", "House", "spokesman", "Ari", "Fleischer", "said", "in", "Washington", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "14 survivors and victims' relatives",
+  "sentence_length" : 67,
+  "mentionArg2" : {
+    "extent" : "14 survivors and victims' relatives",
+    "argMentionid" : "APW_ENG_20030410.0906-E67-162",
+    "start" : 23,
+    "end" : 28
+  },
+  "relationID" : "APW_ENG_20030410.0906-R4",
+  "mentionArg1" : {
+    "extent" : "victims",
+    "argMentionid" : "APW_ENG_20030410.0906-E64-160",
+    "start" : 26,
+    "end" : 26
+  },
+  "id" : "APW_ENG_20030410.0906-R4-1",
+  "relationSubType" : "Family",
+  "Sentence" : "`` Legally , that is the way it works at the U.N. '' Larry Klayman , chairman of Judicial Watch , which represent 14 survivors and victims ' relatives who have filed a $1.5 billion federal lawsuit against Iraq in Washington , said his organization had served a subpoena on Al-Douri twice , on March 26 and March 28 , but said he has not responded .",
+  "sentence_index" : 30,
+  "Tokens" : [ "``", "Legally", ",", "that", "is", "the", "way", "it", "works", "at", "the", "U.N.", "''", "Larry", "Klayman", ",", "chairman", "of", "Judicial", "Watch", ",", "which", "represent", "14", "survivors", "and", "victims", "'", "relatives", "who", "have", "filed", "a", "$1.5", "billion", "federal", "lawsuit", "against", "Iraq", "in", "Washington", ",", "said", "his", "organization", "had", "served", "a", "subpoena", "on", "Al-Douri", "twice", ",", "on", "March", "26", "and", "March", "28", ",", "but", "said", "he", "has", "not", "responded", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "his New York residence",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "his New York residence",
+    "argMentionid" : "APW_ENG_20030410.0906-E2-4",
+    "start" : 19,
+    "end" : 22
+  },
+  "relationID" : "APW_ENG_20030410.0906-R7",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "APW_ENG_20030410.0906-E1-3",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030410.0906-R7-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "This is my last word to you , '' he told hordes of journalists who chased him Thursday at his New York residence and U.N. headquarters seeking comment on his talks with the secretary-general , his future and the war .",
+  "sentence_index" : 4,
+  "Tokens" : [ "This", "is", "my", "last", "word", "to", "you", ",", "''", "he", "told", "hordes", "of", "journalists", "who", "chased", "him", "Thursday", "at", "his", "New", "York", "residence", "and", "U.N.", "headquarters", "seeking", "comment", "on", "his", "talks", "with", "the", "secretary-general", ",", "his", "future", "and", "the", "war", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "No comment at all. This is my last word to you,'' he told hordes of journalists who chased him Thursday at his New York residence and U.N. headquarters seeking comment on his talks with the secretary-general, his future and the war",
+  "sentence_length" : 6,
+  "mentionArg2" : {
+    "extent" : "his New York residence",
+    "argMentionid" : "APW_ENG_20030410.0906-E2-4",
+    "start" : 25,
+    "end" : 28
+  },
+  "relationID" : "APW_ENG_20030410.0906-R8",
+  "mentionArg1" : {
+    "extent" : "him",
+    "argMentionid" : "APW_ENG_20030410.0906-E1-2",
+    "start" : 22,
+    "end" : 22
+  },
+  "id" : "APW_ENG_20030410.0906-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "`` No comment at all .",
+  "sentence_index" : 3,
+  "Tokens" : [ "``", "No", "comment", "at", "all", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "No comment at all. This is my last word to you,'' he told hordes of journalists who chased him Thursday at his New York residence and U.N. headquarters seeking comment on his talks with the secretary-general, his future and the war",
+  "sentence_length" : 6,
+  "mentionArg2" : {
+    "extent" : "U.N. headquarters",
+    "argMentionid" : "APW_ENG_20030410.0906-E60-87",
+    "start" : 30,
+    "end" : 31
+  },
+  "relationID" : "APW_ENG_20030410.0906-R9",
+  "mentionArg1" : {
+    "extent" : "him",
+    "argMentionid" : "APW_ENG_20030410.0906-E1-2",
+    "start" : 22,
+    "end" : 22
+  },
+  "id" : "APW_ENG_20030410.0906-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "`` No comment at all .",
+  "sentence_index" : 3,
+  "Tokens" : [ "``", "No", "comment", "at", "all", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "his New York residence",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "New York",
+    "argMentionid" : "APW_ENG_20030410.0906-E32-102",
+    "start" : 20,
+    "end" : 21
+  },
+  "relationID" : "APW_ENG_20030410.0906-R10",
+  "mentionArg1" : {
+    "extent" : "his New York residence",
+    "argMentionid" : "APW_ENG_20030410.0906-E2-4",
+    "start" : 19,
+    "end" : 22
+  },
+  "id" : "APW_ENG_20030410.0906-R10-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "This is my last word to you , '' he told hordes of journalists who chased him Thursday at his New York residence and U.N. headquarters seeking comment on his talks with the secretary-general , his future and the war .",
+  "sentence_index" : 4,
+  "Tokens" : [ "This", "is", "my", "last", "word", "to", "you", ",", "''", "he", "told", "hordes", "of", "journalists", "who", "chased", "him", "Thursday", "at", "his", "New", "York", "residence", "and", "U.N.", "headquarters", "seeking", "comment", "on", "his", "talks", "with", "the", "secretary-general", ",", "his", "future", "and", "the", "war", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "U.N. headquarters",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "U.N. headquarters",
+    "argMentionid" : "APW_ENG_20030410.0906-E60-87",
+    "start" : 24,
+    "end" : 25
+  },
+  "relationID" : "APW_ENG_20030410.0906-R11",
+  "mentionArg1" : {
+    "extent" : "U.N",
+    "argMentionid" : "APW_ENG_20030410.0906-E4-7",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "APW_ENG_20030410.0906-R11-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "This is my last word to you , '' he told hordes of journalists who chased him Thursday at his New York residence and U.N. headquarters seeking comment on his talks with the secretary-general , his future and the war .",
+  "sentence_index" : 4,
+  "Tokens" : [ "This", "is", "my", "last", "word", "to", "you", ",", "''", "he", "told", "hordes", "of", "journalists", "who", "chased", "him", "Thursday", "at", "his", "New", "York", "residence", "and", "U.N.", "headquarters", "seeking", "comment", "on", "his", "talks", "with", "the", "secretary-general", ",", "his", "future", "and", "the", "war", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Beside meeting with Annan, Al-Douri spent several hours during the late morning and afternoon meeting with ambassadors and diplomats in the Delegate's Lounge",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "the Delegate's Lounge",
+    "argMentionid" : "APW_ENG_20030410.0906-E9-27",
+    "start" : 21,
+    "end" : 24
+  },
+  "relationID" : "APW_ENG_20030410.0906-R12",
+  "mentionArg1" : {
+    "extent" : "ambassadors",
+    "argMentionid" : "APW_ENG_20030410.0906-E7-25",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030410.0906-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Beside meeting with Annan , Al-Douri spent several hours during the late morning and afternoon meeting with ambassadors and diplomats in the Delegate 's Lounge .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Beside", "meeting", "with", "Annan", ",", "Al-Douri", "spent", "several", "hours", "during", "the", "late", "morning", "and", "afternoon", "meeting", "with", "ambassadors", "and", "diplomats", "in", "the", "Delegate", "'s", "Lounge", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Beside meeting with Annan, Al-Douri spent several hours during the late morning and afternoon meeting with ambassadors and diplomats in the Delegate's Lounge",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "the Delegate's Lounge",
+    "argMentionid" : "APW_ENG_20030410.0906-E9-27",
+    "start" : 21,
+    "end" : 24
+  },
+  "relationID" : "APW_ENG_20030410.0906-R13",
+  "mentionArg1" : {
+    "extent" : "Al-Douri",
+    "argMentionid" : "APW_ENG_20030410.0906-E1-24",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030410.0906-R13-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Beside meeting with Annan , Al-Douri spent several hours during the late morning and afternoon meeting with ambassadors and diplomats in the Delegate 's Lounge .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Beside", "meeting", "with", "Annan", ",", "Al-Douri", "spent", "several", "hours", "during", "the", "late", "morning", "and", "afternoon", "meeting", "with", "ambassadors", "and", "diplomats", "in", "the", "Delegate", "'s", "Lounge", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Beside meeting with Annan, Al-Douri spent several hours during the late morning and afternoon meeting with ambassadors and diplomats in the Delegate's Lounge",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "the Delegate's Lounge",
+    "argMentionid" : "APW_ENG_20030410.0906-E9-27",
+    "start" : 21,
+    "end" : 24
+  },
+  "relationID" : "APW_ENG_20030410.0906-R14",
+  "mentionArg1" : {
+    "extent" : "diplomats",
+    "argMentionid" : "APW_ENG_20030410.0906-E8-26",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030410.0906-R14-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Beside meeting with Annan , Al-Douri spent several hours during the late morning and afternoon meeting with ambassadors and diplomats in the Delegate 's Lounge .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Beside", "meeting", "with", "Annan", ",", "Al-Douri", "spent", "several", "hours", "during", "the", "late", "morning", "and", "afternoon", "meeting", "with", "ambassadors", "and", "diplomats", "in", "the", "Delegate", "'s", "Lounge", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Arab League Secretary-General",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "Arab League",
+    "argMentionid" : "APW_ENG_20030410.0906-E12-39",
+    "start" : 27,
+    "end" : 28
+  },
+  "relationID" : "APW_ENG_20030410.0906-R15",
+  "mentionArg1" : {
+    "extent" : "Arab League Secretary-General",
+    "argMentionid" : "APW_ENG_20030410.0906-E10-36",
+    "start" : 27,
+    "end" : 29
+  },
+  "id" : "APW_ENG_20030410.0906-R15-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "`` I wished him good luck but I do n't know what he said to the secretary-general and what will be his next steps , '' said Arab League Secretary-General Amr Moussa , who talked with Al-Douri before his own meeting with Annan .",
+  "sentence_index" : 10,
+  "Tokens" : [ "``", "I", "wished", "him", "good", "luck", "but", "I", "do", "n't", "know", "what", "he", "said", "to", "the", "secretary-general", "and", "what", "will", "be", "his", "next", "steps", ",", "''", "said", "Arab", "League", "Secretary-General", "Amr", "Moussa", ",", "who", "talked", "with", "Al-Douri", "before", "his", "own", "meeting", "with", "Annan", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "In an interview with The Associated Press Wednesday night, Al-Douri said he will continue to work at the United Nations and had no intention of defecting",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "the United Nations",
+    "argMentionid" : "APW_ENG_20030410.0906-E4-46",
+    "start" : 18,
+    "end" : 20
+  },
+  "relationID" : "APW_ENG_20030410.0906-R16",
+  "mentionArg1" : {
+    "extent" : "Al-Douri",
+    "argMentionid" : "APW_ENG_20030410.0906-E1-37",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030410.0906-R16-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "In an interview with The Associated Press Wednesday night , Al-Douri said he will continue to work at the United Nations and had no intention of defecting .",
+  "sentence_index" : 11,
+  "Tokens" : [ "In", "an", "interview", "with", "The", "Associated", "Press", "Wednesday", "night", ",", "Al-Douri", "said", "he", "will", "continue", "to", "work", "at", "the", "United", "Nations", "and", "had", "no", "intention", "of", "defecting", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "his country",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "his country",
+    "argMentionid" : "APW_ENG_20030410.0906-E6-64",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030410.0906-R17",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "APW_ENG_20030410.0906-E1-65",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030410.0906-R17-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The ambassador had vehemently defended his country for months as the United States and its allies sought U.N. backing for war on Iraq .",
+  "sentence_index" : 18,
+  "Tokens" : [ "The", "ambassador", "had", "vehemently", "defended", "his", "country", "for", "months", "as", "the", "United", "States", "and", "its", "allies", "sought", "U.N.", "backing", "for", "war", "on", "Iraq", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Britain's U.N. Ambassador",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Britain",
+    "argMentionid" : "APW_ENG_20030410.0906-E65-158",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "APW_ENG_20030410.0906-R18",
+  "mentionArg1" : {
+    "extent" : "Britain's U.N. Ambassador",
+    "argMentionid" : "APW_ENG_20030410.0906-E21-79",
+    "start" : 16,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030410.0906-R18-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "`` I sympathize with his need to create a new life for himself , '' said Britain 's U.N. Ambassador Jeremy Greenstock .",
+  "sentence_index" : 20,
+  "Tokens" : [ "``", "I", "sympathize", "with", "his", "need", "to", "create", "a", "new", "life", "for", "himself", ",", "''", "said", "Britain", "'s", "U.N.", "Ambassador", "Jeremy", "Greenstock", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Al-Douri taught international law at Baghdad University for over 30 years before becoming a diplomat in 1999, first at the United Nations in Geneva and since early 2001 at U.N. headquarters in New York",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "the United Nations in Geneva",
+    "argMentionid" : "APW_ENG_20030410.0906-E26-85",
+    "start" : 20,
+    "end" : 24
+  },
+  "relationID" : "APW_ENG_20030410.0906-R19",
+  "mentionArg1" : {
+    "extent" : "Al-Douri",
+    "argMentionid" : "APW_ENG_20030410.0906-E1-11",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "APW_ENG_20030410.0906-R19-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Al-Douri taught international law at Baghdad University for over 30 years before becoming a diplomat in 1999 , first at the United Nations in Geneva and since early 2001 at U.N. headquarters in New York .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Al-Douri", "taught", "international", "law", "at", "Baghdad", "University", "for", "over", "30", "years", "before", "becoming", "a", "diplomat", "in", "1999", ",", "first", "at", "the", "United", "Nations", "in", "Geneva", "and", "since", "early", "2001", "at", "U.N.", "headquarters", "in", "New", "York", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Al-Douri taught international law at Baghdad University for over 30 years before becoming a diplomat in 1999, first at the United Nations in Geneva and since early 2001 at U.N. headquarters in New York",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "U.N. headquarters in New York",
+    "argMentionid" : "APW_ENG_20030410.0906-E60-155",
+    "start" : 30,
+    "end" : 34
+  },
+  "relationID" : "APW_ENG_20030410.0906-R20",
+  "mentionArg1" : {
+    "extent" : "Al-Douri",
+    "argMentionid" : "APW_ENG_20030410.0906-E1-11",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "APW_ENG_20030410.0906-R20-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Al-Douri taught international law at Baghdad University for over 30 years before becoming a diplomat in 1999 , first at the United Nations in Geneva and since early 2001 at U.N. headquarters in New York .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Al-Douri", "taught", "international", "law", "at", "Baghdad", "University", "for", "over", "30", "years", "before", "becoming", "a", "diplomat", "in", "1999", ",", "first", "at", "the", "United", "Nations", "in", "Geneva", "and", "since", "early", "2001", "at", "U.N.", "headquarters", "in", "New", "York", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "He said in the AP interview he would love to return to teaching but for now he plans to remain at the United Nations",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the United Nations",
+    "argMentionid" : "APW_ENG_20030410.0906-E4-95",
+    "start" : 21,
+    "end" : 23
+  },
+  "relationID" : "APW_ENG_20030410.0906-R21",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "APW_ENG_20030410.0906-E1-94",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "APW_ENG_20030410.0906-R21-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "He said in the AP interview he would love to return to teaching but for now he plans to remain at the United Nations .",
+  "sentence_index" : 22,
+  "Tokens" : [ "He", "said", "in", "the", "AP", "interview", "he", "would", "love", "to", "return", "to", "teaching", "but", "for", "now", "he", "plans", "to", "remain", "at", "the", "United", "Nations", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iraq's ambassador at the United Nations",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "the United Nations",
+    "argMentionid" : "APW_ENG_20030410.0906-E4-126",
+    "start" : 8,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030410.0906-R21",
+  "mentionArg1" : {
+    "extent" : "Iraq's ambassador at the United Nations",
+    "argMentionid" : "APW_ENG_20030410.0906-E1-125",
+    "start" : 4,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030410.0906-R21-2",
+  "relationSubType" : "Membership",
+  "Sentence" : "`` He is still Iraq 's ambassador at the United Nations , '' White House spokesman Ari Fleischer said in Washington .",
+  "sentence_index" : 29,
+  "Tokens" : [ "``", "He", "is", "still", "Iraq", "'s", "ambassador", "at", "the", "United", "Nations", ",", "''", "White", "House", "spokesman", "Ari", "Fleischer", "said", "in", "Washington", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a federal court in New York",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "New York",
+    "argMentionid" : "APW_ENG_20030410.0906-E32-110",
+    "start" : 26,
+    "end" : 27
+  },
+  "relationID" : "APW_ENG_20030410.0906-R22",
+  "mentionArg1" : {
+    "extent" : "a federal court in New York",
+    "argMentionid" : "APW_ENG_20030410.0906-E35-109",
+    "start" : 22,
+    "end" : 27
+  },
+  "id" : "APW_ENG_20030410.0906-R22-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Separately , lawyers who claim that Iraq helped plan the 1995 Oklahoma City bombing that killed 168 people asked a judge at a federal court in New York to force Al-Douri to testify in the case and hold the envoy in contempt , saying they worry that he would flee the country .",
+  "sentence_index" : 26,
+  "Tokens" : [ "Separately", ",", "lawyers", "who", "claim", "that", "Iraq", "helped", "plan", "the", "1995", "Oklahoma", "City", "bombing", "that", "killed", "168", "people", "asked", "a", "judge", "at", "a", "federal", "court", "in", "New", "York", "to", "force", "Al-Douri", "to", "testify", "in", "the", "case", "and", "hold", "the", "envoy", "in", "contempt", ",", "saying", "they", "worry", "that", "he", "would", "flee", "the", "country", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a judge at a federal court in New York",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "a federal court in New York",
+    "argMentionid" : "APW_ENG_20030410.0906-E35-109",
+    "start" : 22,
+    "end" : 27
+  },
+  "relationID" : "APW_ENG_20030410.0906-R23",
+  "mentionArg1" : {
+    "extent" : "a judge at a federal court in New York",
+    "argMentionid" : "APW_ENG_20030410.0906-E34-108",
+    "start" : 19,
+    "end" : 27
+  },
+  "id" : "APW_ENG_20030410.0906-R23-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Separately , lawyers who claim that Iraq helped plan the 1995 Oklahoma City bombing that killed 168 people asked a judge at a federal court in New York to force Al-Douri to testify in the case and hold the envoy in contempt , saying they worry that he would flee the country .",
+  "sentence_index" : 26,
+  "Tokens" : [ "Separately", ",", "lawyers", "who", "claim", "that", "Iraq", "helped", "plan", "the", "1995", "Oklahoma", "City", "bombing", "that", "killed", "168", "people", "asked", "a", "judge", "at", "a", "federal", "court", "in", "New", "York", "to", "force", "Al-Douri", "to", "testify", "in", "the", "case", "and", "hold", "the", "envoy", "in", "contempt", ",", "saying", "they", "worry", "that", "he", "would", "flee", "the", "country", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.N. spokesman",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "U.N",
+    "argMentionid" : "APW_ENG_20030410.0906-E4-118",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030410.0906-R24",
+  "mentionArg1" : {
+    "extent" : "U.N. spokesman",
+    "argMentionid" : "APW_ENG_20030410.0906-E36-117",
+    "start" : 1,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030410.0906-R24-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "But U.N. spokesman Fred Eckhard said Al-Douri still has diplomatic immunity as Iraq 's ambassador .",
+  "sentence_index" : 27,
+  "Tokens" : [ "But", "U.N.", "spokesman", "Fred", "Eckhard", "said", "Al-Douri", "still", "has", "diplomatic", "immunity", "as", "Iraq", "'s", "ambassador", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a new Iraqi government",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030410.0906-E6-122",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030410.0906-R25",
+  "mentionArg1" : {
+    "extent" : "a new Iraqi government",
+    "argMentionid" : "APW_ENG_20030410.0906-E40-121",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030410.0906-R25-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Under U.N. rules , a new Iraqi government would have to ask to represent the country , which the General Assembly would then consider .",
+  "sentence_index" : 28,
+  "Tokens" : [ "Under", "U.N.", "rules", ",", "a", "new", "Iraqi", "government", "would", "have", "to", "ask", "to", "represent", "the", "country", ",", "which", "the", "General", "Assembly", "would", "then", "consider", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "chairman of Judicial Watch, which represent 14 survivors and victims' relatives who have filed a $1.5 billion federal lawsuit against Iraq in Washington",
+  "sentence_length" : 67,
+  "mentionArg2" : {
+    "extent" : "Judicial Watch",
+    "argMentionid" : "APW_ENG_20030410.0906-E49-134",
+    "start" : 18,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030410.0906-R28",
+  "mentionArg1" : {
+    "extent" : "chairman of Judicial Watch",
+    "argMentionid" : "APW_ENG_20030410.0906-E47-132",
+    "start" : 16,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030410.0906-R28-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "`` Legally , that is the way it works at the U.N. '' Larry Klayman , chairman of Judicial Watch , which represent 14 survivors and victims ' relatives who have filed a $1.5 billion federal lawsuit against Iraq in Washington , said his organization had served a subpoena on Al-Douri twice , on March 26 and March 28 , but said he has not responded .",
+  "sentence_index" : 30,
+  "Tokens" : [ "``", "Legally", ",", "that", "is", "the", "way", "it", "works", "at", "the", "U.N.", "''", "Larry", "Klayman", ",", "chairman", "of", "Judicial", "Watch", ",", "which", "represent", "14", "survivors", "and", "victims", "'", "relatives", "who", "have", "filed", "a", "$1.5", "billion", "federal", "lawsuit", "against", "Iraq", "in", "Washington", ",", "said", "his", "organization", "had", "served", "a", "subpoena", "on", "Al-Douri", "twice", ",", "on", "March", "26", "and", "March", "28", ",", "but", "said", "he", "has", "not", "responded", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "his organization",
+  "sentence_length" : 67,
+  "mentionArg2" : {
+    "extent" : "his organization",
+    "argMentionid" : "APW_ENG_20030410.0906-E49-140",
+    "start" : 43,
+    "end" : 44
+  },
+  "relationID" : "APW_ENG_20030410.0906-R28",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "APW_ENG_20030410.0906-E47-139",
+    "start" : 43,
+    "end" : 43
+  },
+  "id" : "APW_ENG_20030410.0906-R28-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "`` Legally , that is the way it works at the U.N. '' Larry Klayman , chairman of Judicial Watch , which represent 14 survivors and victims ' relatives who have filed a $1.5 billion federal lawsuit against Iraq in Washington , said his organization had served a subpoena on Al-Douri twice , on March 26 and March 28 , but said he has not responded .",
+  "sentence_index" : 30,
+  "Tokens" : [ "``", "Legally", ",", "that", "is", "the", "way", "it", "works", "at", "the", "U.N.", "''", "Larry", "Klayman", ",", "chairman", "of", "Judicial", "Watch", ",", "which", "represent", "14", "survivors", "and", "victims", "'", "relatives", "who", "have", "filed", "a", "$1.5", "billion", "federal", "lawsuit", "against", "Iraq", "in", "Washington", ",", "said", "his", "organization", "had", "served", "a", "subpoena", "on", "Al-Douri", "twice", ",", "on", "March", "26", "and", "March", "28", ",", "but", "said", "he", "has", "not", "responded", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. District Judge",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030410.0906-E25-145",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030410.0906-R30",
+  "mentionArg1" : {
+    "extent" : "U.S. District Judge",
+    "argMentionid" : "APW_ENG_20030410.0906-E34-144",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030410.0906-R30-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "U.S. District Judge John S. Martin did not immediately rule but scheduled a hearing for next week .",
+  "sentence_index" : 31,
+  "Tokens" : [ "U.S.", "District", "Judge", "John", "S.", "Martin", "did", "not", "immediately", "rule", "but", "scheduled", "a", "hearing", "for", "next", "week", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iraqi officials",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030410.0906-E6-76",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030410.0906-R31",
+  "mentionArg1" : {
+    "extent" : "Iraqi officials",
+    "argMentionid" : "APW_ENG_20030410.0906-E55-147",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030410.0906-R31-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The suit claims Iraqi officials provided money and training to convicted bomber Timothy McVeigh and conspirator Terry Nichols .",
+  "sentence_index" : 33,
+  "Tokens" : [ "The", "suit", "claims", "Iraqi", "officials", "provided", "money", "and", "training", "to", "convicted", "bomber", "Timothy", "McVeigh", "and", "conspirator", "Terry", "Nichols", "." ]
+} ]

@@ -1,0 +1,177 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Fallujah, Iraq",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "fsh_29786-E6-195",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "fsh_29786-R1",
+  "mentionArg1" : {
+    "extent" : "Fallujah, Iraq",
+    "argMentionid" : "fsh_29786-E16-220",
+    "start" : 12,
+    "end" : 14
+  },
+  "id" : "fsh_29786-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "War in Iraq The US is currently engaged in major fighting in Fallujah , Iraq .",
+  "sentence_index" : 1,
+  "Tokens" : [ "War", "in", "Iraq", "The", "US", "is", "currently", "engaged", "in", "major", "fighting", "in", "Fallujah", ",", "Iraq", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I- I thought it was a great idea fir- them going in there -- and doing what they did but, uh, they had a short window of opportunity to win over the people and it didn't happen",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "fsh_29786-E6-93",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "fsh_29786-R2",
+  "mentionArg1" : {
+    "extent" : "them",
+    "argMentionid" : "fsh_29786-E5-94",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "fsh_29786-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I- I thought it was a great idea fir- them going in there -- and doing what they did but , uh , they had a short window of opportunity to win over the people and it did n't happen .",
+  "sentence_index" : 36,
+  "Tokens" : [ "I-", "I", "thought", "it", "was", "a", "great", "idea", "fir-", "them", "going", "in", "there", "--", "and", "doing", "what", "they", "did", "but", ",", "uh", ",", "they", "had", "a", "short", "window", "of", "opportunity", "to", "win", "over", "the", "people", "and", "it", "did", "n't", "happen", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Allan from ~LA",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "LA",
+    "argMentionid" : "fsh_29786-E21-234",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "fsh_29786-R3",
+  "mentionArg1" : {
+    "extent" : "Allan",
+    "argMentionid" : "fsh_29786-E18-232",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "fsh_29786-R3-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Allan Hi , I 'm Allan from ~ LA. A You 're from what ?",
+  "sentence_index" : 6,
+  "Tokens" : [ "Allan", "Hi", ",", "I", "'m", "Allan", "from", "~", "LA.", "A", "You", "'re", "from", "what", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "somebody from ~LA",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "LA",
+    "argMentionid" : "fsh_29786-E21-3",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "fsh_29786-R4",
+  "mentionArg1" : {
+    "extent" : "somebody from ~LA",
+    "argMentionid" : "fsh_29786-E2-2",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "fsh_29786-R4-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "I just talked to somebody from ~ LA a couple days ago about that on the -- survey line .",
+  "sentence_index" : 10,
+  "Tokens" : [ "I", "just", "talked", "to", "somebody", "from", "~", "LA", "a", "couple", "days", "ago", "about", "that", "on", "the", "--", "survey", "line", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "some sort of Iraqi government there",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "fsh_29786-E6-158",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "fsh_29786-R5",
+  "mentionArg1" : {
+    "extent" : "some sort of Iraqi government there",
+    "argMentionid" : "fsh_29786-E14-171",
+    "start" : 19,
+    "end" : 24
+  },
+  "id" : "fsh_29786-R5-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "A But , they- they definitely need to take a back seat to some sort -- you know , some sort of Iraqi government there .",
+  "sentence_index" : 52,
+  "Tokens" : [ "A", "But", ",", "they-", "they", "definitely", "need", "to", "take", "a", "back", "seat", "to", "some", "sort", "--", "you", "know", ",", "some", "sort", "of", "Iraqi", "government", "there", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "But, they- they definitely need to take a back seat to some sort -- you know, some sort of Iraqi government there",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "fsh_29786-E6-165",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "fsh_29786-R5",
+  "mentionArg1" : {
+    "extent" : "some sort of Iraqi government there",
+    "argMentionid" : "fsh_29786-E14-171",
+    "start" : 19,
+    "end" : 24
+  },
+  "id" : "fsh_29786-R5-2",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "A But , they- they definitely need to take a back seat to some sort -- you know , some sort of Iraqi government there .",
+  "sentence_index" : 52,
+  "Tokens" : [ "A", "But", ",", "they-", "they", "definitely", "need", "to", "take", "a", "back", "seat", "to", "some", "sort", "--", "you", "know", ",", "some", "sort", "of", "Iraqi", "government", "there", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I don't know if that could, uh,  if that's a -- plausible goal or not because, uh, it's just that- that -- a lot of that's, you know,  uh, weapons and terrorists have been, you know, getting through the borders, probably from Syria",
+  "sentence_length" : 57,
+  "mentionArg2" : {
+    "extent" : "Syria",
+    "argMentionid" : "fsh_29786-E8-157",
+    "start" : 55,
+    "end" : 55
+  },
+  "relationID" : "fsh_29786-R6",
+  "mentionArg1" : {
+    "extent" : "terrorists",
+    "argMentionid" : "fsh_29786-E11-163",
+    "start" : 41,
+    "end" : 41
+  },
+  "id" : "fsh_29786-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I do n't know if that could , uh , if that 's a -- plausible goal or not because , uh , it 's just that- that -- a lot of that's , you know , uh , weapons and terrorists have been , you know , getting through the borders , probably from Syria .",
+  "sentence_index" : 58,
+  "Tokens" : [ "I", "do", "n't", "know", "if", "that", "could", ",", "uh", ",", "if", "that", "'s", "a", "--", "plausible", "goal", "or", "not", "because", ",", "uh", ",", "it", "'s", "just", "that-", "that", "--", "a", "lot", "of", "that's", ",", "you", "know", ",", "uh", ",", "weapons", "and", "terrorists", "have", "been", ",", "you", "know", ",", "getting", "through", "the", "borders", ",", "probably", "from", "Syria", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I don't know if that could, uh,  if that's a -- plausible goal or not because, uh, it's just that- that -- a lot of that's, you know,  uh, weapons and terrorists have been, you know, getting through the borders, probably from Syria",
+  "sentence_length" : 57,
+  "mentionArg2" : {
+    "extent" : "Syria",
+    "argMentionid" : "fsh_29786-E8-157",
+    "start" : 55,
+    "end" : 55
+  },
+  "relationID" : "fsh_29786-R6",
+  "mentionArg1" : {
+    "extent" : "terrorists",
+    "argMentionid" : "fsh_29786-E11-163",
+    "start" : 41,
+    "end" : 41
+  },
+  "id" : "fsh_29786-R6-2",
+  "relationSubType" : "Located",
+  "Sentence" : "I do n't know if that could , uh , if that 's a -- plausible goal or not because , uh , it 's just that- that -- a lot of that's , you know , uh , weapons and terrorists have been , you know , getting through the borders , probably from Syria .",
+  "sentence_index" : 58,
+  "Tokens" : [ "I", "do", "n't", "know", "if", "that", "could", ",", "uh", ",", "if", "that", "'s", "a", "--", "plausible", "goal", "or", "not", "because", ",", "uh", ",", "it", "'s", "just", "that-", "that", "--", "a", "lot", "of", "that's", ",", "you", "know", ",", "uh", ",", "weapons", "and", "terrorists", "have", "been", ",", "you", "know", ",", "getting", "through", "the", "borders", ",", "probably", "from", "Syria", "." ]
+} ]

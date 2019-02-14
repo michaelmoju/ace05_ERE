@@ -1,0 +1,177 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Israeli government",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "soc.culture.jewish_20050130.2105-E36-51",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "soc.culture.jewish_20050130.2105-R1",
+  "mentionArg1" : {
+    "extent" : "the Israeli government",
+    "argMentionid" : "soc.culture.jewish_20050130.2105-E38-52",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "soc.culture.jewish_20050130.2105-R1-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The truth seems to me that the Israeli government got panicked when Saddam announced that he would reward the families of Palestinian suicide bombers with some 10 thousand dollars .",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "truth", "seems", "to", "me", "that", "the", "Israeli", "government", "got", "panicked", "when", "Saddam", "announced", "that", "he", "would", "reward", "the", "families", "of", "Palestinian", "suicide", "bombers", "with", "some", "10", "thousand", "dollars", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the families of Palestinian suicide bombers",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Palestinian suicide bombers",
+    "argMentionid" : "soc.culture.jewish_20050130.2105-E2-1",
+    "start" : 21,
+    "end" : 23
+  },
+  "relationID" : "soc.culture.jewish_20050130.2105-R2",
+  "mentionArg1" : {
+    "extent" : "the families of Palestinian suicide bombers",
+    "argMentionid" : "soc.culture.jewish_20050130.2105-E39-55",
+    "start" : 18,
+    "end" : 23
+  },
+  "id" : "soc.culture.jewish_20050130.2105-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "The truth seems to me that the Israeli government got panicked when Saddam announced that he would reward the families of Palestinian suicide bombers with some 10 thousand dollars .",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "truth", "seems", "to", "me", "that", "the", "Israeli", "government", "got", "panicked", "when", "Saddam", "announced", "that", "he", "would", "reward", "the", "families", "of", "Palestinian", "suicide", "bombers", "with", "some", "10", "thousand", "dollars", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Palestinian suicide bombers",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "soc.culture.jewish_20050130.2105-E1-56",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "soc.culture.jewish_20050130.2105-R3",
+  "mentionArg1" : {
+    "extent" : "Palestinian suicide bombers",
+    "argMentionid" : "soc.culture.jewish_20050130.2105-E2-1",
+    "start" : 21,
+    "end" : 23
+  },
+  "id" : "soc.culture.jewish_20050130.2105-R3-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The truth seems to me that the Israeli government got panicked when Saddam announced that he would reward the families of Palestinian suicide bombers with some 10 thousand dollars .",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "truth", "seems", "to", "me", "that", "the", "Israeli", "government", "got", "panicked", "when", "Saddam", "announced", "that", "he", "would", "reward", "the", "families", "of", "Palestinian", "suicide", "bombers", "with", "some", "10", "thousand", "dollars", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Saddam's Iraqi Republican Guards",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Saddam's Iraqi Republican Guards",
+    "argMentionid" : "soc.culture.jewish_20050130.2105-E4-4",
+    "start" : 6,
+    "end" : 10
+  },
+  "relationID" : "soc.culture.jewish_20050130.2105-R4",
+  "mentionArg1" : {
+    "extent" : "Saddam",
+    "argMentionid" : "soc.culture.jewish_20050130.2105-E29-3",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "soc.culture.jewish_20050130.2105-R4-1",
+  "relationSubType" : "Ownership",
+  "Sentence" : "Too young to remember the scuds Saddam 's Iraqi Republican Guards lobbed into Israel in 1991 , or 1982 when the Israelis levelled the Iraqi nuclear weapon facility ?",
+  "sentence_index" : 8,
+  "Tokens" : [ "Too", "young", "to", "remember", "the", "scuds", "Saddam", "'s", "Iraqi", "Republican", "Guards", "lobbed", "into", "Israel", "in", "1991", ",", "or", "1982", "when", "the", "Israelis", "levelled", "the", "Iraqi", "nuclear", "weapon", "facility", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Saddam's Iraqi Republican Guards",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "soc.culture.jewish_20050130.2105-E5-5",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "soc.culture.jewish_20050130.2105-R5",
+  "mentionArg1" : {
+    "extent" : "Saddam's Iraqi Republican Guards",
+    "argMentionid" : "soc.culture.jewish_20050130.2105-E4-4",
+    "start" : 6,
+    "end" : 10
+  },
+  "id" : "soc.culture.jewish_20050130.2105-R5-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Too young to remember the scuds Saddam 's Iraqi Republican Guards lobbed into Israel in 1991 , or 1982 when the Israelis levelled the Iraqi nuclear weapon facility ?",
+  "sentence_index" : 8,
+  "Tokens" : [ "Too", "young", "to", "remember", "the", "scuds", "Saddam", "'s", "Iraqi", "Republican", "Guards", "lobbed", "into", "Israel", "in", "1991", ",", "or", "1982", "when", "the", "Israelis", "levelled", "the", "Iraqi", "nuclear", "weapon", "facility", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the Iraqi nuclear weapon facility",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "the Iraqi nuclear weapon facility",
+    "argMentionid" : "soc.culture.jewish_20050130.2105-E11-11",
+    "start" : 23,
+    "end" : 27
+  },
+  "relationID" : "soc.culture.jewish_20050130.2105-R6",
+  "mentionArg1" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "soc.culture.jewish_20050130.2105-E5-9",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "soc.culture.jewish_20050130.2105-R6-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Too young to remember the scuds Saddam 's Iraqi Republican Guards lobbed into Israel in 1991 , or 1982 when the Israelis levelled the Iraqi nuclear weapon facility ?",
+  "sentence_index" : 8,
+  "Tokens" : [ "Too", "young", "to", "remember", "the", "scuds", "Saddam", "'s", "Iraqi", "Republican", "Guards", "lobbed", "into", "Israel", "in", "1991", ",", "or", "1982", "when", "the", "Israelis", "levelled", "the", "Iraqi", "nuclear", "weapon", "facility", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Kuwaiti oil tankers",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Kuwaiti oil tankers",
+    "argMentionid" : "soc.culture.jewish_20050130.2105-E22-29",
+    "start" : 20,
+    "end" : 22
+  },
+  "relationID" : "soc.culture.jewish_20050130.2105-R7",
+  "mentionArg1" : {
+    "extent" : "Kuwaiti",
+    "argMentionid" : "soc.culture.jewish_20050130.2105-E21-28",
+    "start" : 20,
+    "end" : 20
+  },
+  "id" : "soc.culture.jewish_20050130.2105-R7-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Recall that we ( and the Brits ) involved ourselves in that war ONLY in 1987 , after attacks on Kuwaiti oil tankers .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Recall", "that", "we", "(", "and", "the", "Brits", ")", "involved", "ourselves", "in", "that", "war", "ONLY", "in", "1987", ",", "after", "attacks", "on", "Kuwaiti", "oil", "tankers", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iraqi casualties",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "soc.culture.jewish_20050130.2105-E5-35",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "soc.culture.jewish_20050130.2105-R8",
+  "mentionArg1" : {
+    "extent" : "Iraqi casualties",
+    "argMentionid" : "soc.culture.jewish_20050130.2105-E27-36",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "soc.culture.jewish_20050130.2105-R8-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Saddam was so unimpressed by Iraqi casualties , he invaded Kuwait barely two years after the UN-imposed ceasefire .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Saddam", "was", "so", "unimpressed", "by", "Iraqi", "casualties", ",", "he", "invaded", "Kuwait", "barely", "two", "years", "after", "the", "UN-imposed", "ceasefire", "." ]
+} ]

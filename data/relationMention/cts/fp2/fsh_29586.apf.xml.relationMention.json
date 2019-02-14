@@ -1,0 +1,221 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "a senior US official",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "fsh_29586-E4-6",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "fsh_29586-R1",
+  "mentionArg1" : {
+    "extent" : "a senior US official",
+    "argMentionid" : "fsh_29586-E2-3",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "fsh_29586-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Should President Bush or a senior US official have attended Arafat 's funeral ?",
+  "sentence_index" : 4,
+  "Tokens" : [ "Should", "President", "Bush", "or", "a", "senior", "US", "official", "have", "attended", "Arafat", "'s", "funeral", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I'm in Delaware",
+  "sentence_length" : 5,
+  "mentionArg2" : {
+    "extent" : "Delaware",
+    "argMentionid" : "fsh_29586-E7-14",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "fsh_29586-R2",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29586-E29-13",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29586-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I 'm in Delaware .",
+  "sentence_index" : 7,
+  "Tokens" : [ "I", "'m", "in", "Delaware", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I'm in California",
+  "sentence_length" : 5,
+  "mentionArg2" : {
+    "extent" : "California",
+    "argMentionid" : "fsh_29586-E8-17",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "fsh_29586-R3",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29586-E41-16",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29586-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I 'm in California .",
+  "sentence_index" : 9,
+  "Tokens" : [ "I", "'m", "in", "California", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our administration",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "fsh_29586-E4-59",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "fsh_29586-R4",
+  "mentionArg1" : {
+    "extent" : "our administration",
+    "argMentionid" : "fsh_29586-E10-58",
+    "start" : 24,
+    "end" : 25
+  },
+  "id" : "fsh_29586-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "I I do n't know if it 'll move forward any better -- but , uh , this , uh , I 've heard our administration thinks it will .",
+  "sentence_index" : 31,
+  "Tokens" : [ "I", "I", "do", "n't", "know", "if", "it", "'ll", "move", "forward", "any", "better", "--", "but", ",", "uh", ",", "this", ",", "uh", ",", "I", "'ve", "heard", "our", "administration", "thinks", "it", "will", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the, uh, more, uh, drastic elements of the ~PLO",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "the ~PLO",
+    "argMentionid" : "fsh_29586-E43-66",
+    "start" : 39,
+    "end" : 41
+  },
+  "relationID" : "fsh_29586-R5",
+  "mentionArg1" : {
+    "extent" : "the, uh, more, uh, drastic elements of the ~PLO",
+    "argMentionid" : "fsh_29586-E11-65",
+    "start" : 28,
+    "end" : 41
+  },
+  "id" : "fsh_29586-R5-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "I think he was a block to the peace -- but I think it 's not only his doing , it 's also the -- you know , the , uh , more , uh , drastic elements of the ~ PLO that , uh , that , uh , would n't allow him to pursue peace Paul Right .",
+  "sentence_index" : 32,
+  "Tokens" : [ "I", "think", "he", "was", "a", "block", "to", "the", "peace", "--", "but", "I", "think", "it", "'s", "not", "only", "his", "doing", ",", "it", "'s", "also", "the", "--", "you", "know", ",", "the", ",", "uh", ",", "more", ",", "uh", ",", "drastic", "elements", "of", "the", "~", "PLO", "that", ",", "uh", ",", "that", ",", "uh", ",", "would", "n't", "allow", "him", "to", "pursue", "peace", "Paul", "Right", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our president",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "fsh_29586-E4-118",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "fsh_29586-R6",
+  "mentionArg1" : {
+    "extent" : "our president",
+    "argMentionid" : "fsh_29586-E1-117",
+    "start" : 14,
+    "end" : 15
+  },
+  "id" : "fsh_29586-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Mike One of the other questions it asked us was , did we think our president and our , uh , you know , officials should 've attended his funeral .",
+  "sentence_index" : 48,
+  "Tokens" : [ "Mike", "One", "of", "the", "other", "questions", "it", "asked", "us", "was", ",", "did", "we", "think", "our", "president", "and", "our", ",", "uh", ",", "you", "know", ",", "officials", "should", "'ve", "attended", "his", "funeral", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our president",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "fsh_29586-E4-180",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "fsh_29586-R6",
+  "mentionArg1" : {
+    "extent" : "our president",
+    "argMentionid" : "fsh_29586-E1-179",
+    "start" : 22,
+    "end" : 23
+  },
+  "id" : "fsh_29586-R6-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Mike And , I mean not that it would 've even been noticed -- in that regard had he -- had had our president or someone higher gone , but the fact that they didn't , that 's what 's really going to be noticed , you know what I mean ?",
+  "sentence_index" : 74,
+  "Tokens" : [ "Mike", "And", ",", "I", "mean", "not", "that", "it", "would", "'ve", "even", "been", "noticed", "--", "in", "that", "regard", "had", "he", "--", "had", "had", "our", "president", "or", "someone", "higher", "gone", ",", "but", "the", "fact", "that", "they", "didn't", ",", "that", "'s", "what", "'s", "really", "going", "to", "be", "noticed", ",", "you", "know", "what", "I", "mean", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our, uh, you know, officials",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "fsh_29586-E4-120",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "fsh_29586-R7",
+  "mentionArg1" : {
+    "extent" : "our, uh, you know, officials",
+    "argMentionid" : "fsh_29586-E21-119",
+    "start" : 17,
+    "end" : 24
+  },
+  "id" : "fsh_29586-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Mike One of the other questions it asked us was , did we think our president and our , uh , you know , officials should 've attended his funeral .",
+  "sentence_index" : 48,
+  "Tokens" : [ "Mike", "One", "of", "the", "other", "questions", "it", "asked", "us", "was", ",", "did", "we", "think", "our", "president", "and", "our", ",", "uh", ",", "you", "know", ",", "officials", "should", "'ve", "attended", "his", "funeral", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our officials",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "fsh_29586-E4-138",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "fsh_29586-R7",
+  "mentionArg1" : {
+    "extent" : "our officials",
+    "argMentionid" : "fsh_29586-E21-139",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "fsh_29586-R7-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Mike That we did or d- that we did not send our officials .",
+  "sentence_index" : 54,
+  "Tokens" : [ "Mike", "That", "we", "did", "or", "d-", "that", "we", "did", "not", "send", "our", "officials", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "some very -- low level state department person",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "state department",
+    "argMentionid" : "fsh_29586-E25-130",
+    "start" : 21,
+    "end" : 22
+  },
+  "relationID" : "fsh_29586-R8",
+  "mentionArg1" : {
+    "extent" : "some very -- low level state department person",
+    "argMentionid" : "fsh_29586-E24-129",
+    "start" : 16,
+    "end" : 23
+  },
+  "id" : "fsh_29586-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Well , I I do n't remember who they sent , but they did send over some very -- low level state department person Mike Oh , I see .",
+  "sentence_index" : 51,
+  "Tokens" : [ "Well", ",", "I", "I", "do", "n't", "remember", "who", "they", "sent", ",", "but", "they", "did", "send", "over", "some", "very", "--", "low", "level", "state", "department", "person", "Mike", "Oh", ",", "I", "see", "." ]
+} ]

@@ -1,0 +1,155 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the mexican police",
+  "sentence_length" : 117,
+  "mentionArg2" : {
+    "extent" : "mexican",
+    "argMentionid" : "CNN_ENG_20030620_095840.4-E15-22",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "CNN_ENG_20030620_095840.4-R1",
+  "mentionArg1" : {
+    "extent" : "the mexican police",
+    "argMentionid" : "CNN_ENG_20030620_095840.4-E14-21",
+    "start" : 13,
+    "end" : 15
+  },
+  "id" : "CNN_ENG_20030620_095840.4-R1-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "dog chapman was in the same truck you saw. at one point , the mexican police busted both andrew luster and dwayne dog chapman , because they do n't like bounty hunters in mexico. chapman remains behind bars as we speak in mexico. andrew luster , though arrived yesterday at los angeles international airport on a commercial flight from mexico. as soon as he arrived -- thoom being walked by the fbi to a van belonging to the ventura county sheriff 's folks. he was taken to a prison in kearn county , california , about 100 miles from los angeles , a place mostly known for its grapes. make of that what you may. heidi ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "dog", "chapman", "was", "in", "the", "same", "truck", "you", "saw.", "at", "one", "point", ",", "the", "mexican", "police", "busted", "both", "andrew", "luster", "and", "dwayne", "dog", "chapman", ",", "because", "they", "do", "n't", "like", "bounty", "hunters", "in", "mexico.", "chapman", "remains", "behind", "bars", "as", "we", "speak", "in", "mexico.", "andrew", "luster", ",", "though", "arrived", "yesterday", "at", "los", "angeles", "international", "airport", "on", "a", "commercial", "flight", "from", "mexico.", "as", "soon", "as", "he", "arrived", "--", "thoom", "being", "walked", "by", "the", "fbi", "to", "a", "van", "belonging", "to", "the", "ventura", "county", "sheriff", "'s", "folks.", "he", "was", "taken", "to", "a", "prison", "in", "kearn", "county", ",", "california", ",", "about", "100", "miles", "from", "los", "angeles", ",", "a", "place", "mostly", "known", "for", "its", "grapes.", "make", "of", "that", "what", "you", "may.", "heidi", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "chapman remains behind bars as we speak in mexico",
+  "sentence_length" : 117,
+  "mentionArg2" : {
+    "extent" : "mexico",
+    "argMentionid" : "CNN_ENG_20030620_095840.4-E15-30",
+    "start" : 42,
+    "end" : 42
+  },
+  "relationID" : "CNN_ENG_20030620_095840.4-R2",
+  "mentionArg1" : {
+    "extent" : "chapman",
+    "argMentionid" : "CNN_ENG_20030620_095840.4-E11-28",
+    "start" : 34,
+    "end" : 34
+  },
+  "id" : "CNN_ENG_20030620_095840.4-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "dog chapman was in the same truck you saw. at one point , the mexican police busted both andrew luster and dwayne dog chapman , because they do n't like bounty hunters in mexico. chapman remains behind bars as we speak in mexico. andrew luster , though arrived yesterday at los angeles international airport on a commercial flight from mexico. as soon as he arrived -- thoom being walked by the fbi to a van belonging to the ventura county sheriff 's folks. he was taken to a prison in kearn county , california , about 100 miles from los angeles , a place mostly known for its grapes. make of that what you may. heidi ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "dog", "chapman", "was", "in", "the", "same", "truck", "you", "saw.", "at", "one", "point", ",", "the", "mexican", "police", "busted", "both", "andrew", "luster", "and", "dwayne", "dog", "chapman", ",", "because", "they", "do", "n't", "like", "bounty", "hunters", "in", "mexico.", "chapman", "remains", "behind", "bars", "as", "we", "speak", "in", "mexico.", "andrew", "luster", ",", "though", "arrived", "yesterday", "at", "los", "angeles", "international", "airport", "on", "a", "commercial", "flight", "from", "mexico.", "as", "soon", "as", "he", "arrived", "--", "thoom", "being", "walked", "by", "the", "fbi", "to", "a", "van", "belonging", "to", "the", "ventura", "county", "sheriff", "'s", "folks.", "he", "was", "taken", "to", "a", "prison", "in", "kearn", "county", ",", "california", ",", "about", "100", "miles", "from", "los", "angeles", ",", "a", "place", "mostly", "known", "for", "its", "grapes.", "make", "of", "that", "what", "you", "may.", "heidi", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "andrew luster, though arrived yesterday at los angeles international airport on a commercial flight from mexico",
+  "sentence_length" : 117,
+  "mentionArg2" : {
+    "extent" : "los angeles international airport",
+    "argMentionid" : "CNN_ENG_20030620_095840.4-E21-32",
+    "start" : 50,
+    "end" : 53
+  },
+  "relationID" : "CNN_ENG_20030620_095840.4-R3",
+  "mentionArg1" : {
+    "extent" : "andrew luster",
+    "argMentionid" : "CNN_ENG_20030620_095840.4-E17-31",
+    "start" : 43,
+    "end" : 44
+  },
+  "id" : "CNN_ENG_20030620_095840.4-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "dog chapman was in the same truck you saw. at one point , the mexican police busted both andrew luster and dwayne dog chapman , because they do n't like bounty hunters in mexico. chapman remains behind bars as we speak in mexico. andrew luster , though arrived yesterday at los angeles international airport on a commercial flight from mexico. as soon as he arrived -- thoom being walked by the fbi to a van belonging to the ventura county sheriff 's folks. he was taken to a prison in kearn county , california , about 100 miles from los angeles , a place mostly known for its grapes. make of that what you may. heidi ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "dog", "chapman", "was", "in", "the", "same", "truck", "you", "saw.", "at", "one", "point", ",", "the", "mexican", "police", "busted", "both", "andrew", "luster", "and", "dwayne", "dog", "chapman", ",", "because", "they", "do", "n't", "like", "bounty", "hunters", "in", "mexico.", "chapman", "remains", "behind", "bars", "as", "we", "speak", "in", "mexico.", "andrew", "luster", ",", "though", "arrived", "yesterday", "at", "los", "angeles", "international", "airport", "on", "a", "commercial", "flight", "from", "mexico.", "as", "soon", "as", "he", "arrived", "--", "thoom", "being", "walked", "by", "the", "fbi", "to", "a", "van", "belonging", "to", "the", "ventura", "county", "sheriff", "'s", "folks.", "he", "was", "taken", "to", "a", "prison", "in", "kearn", "county", ",", "california", ",", "about", "100", "miles", "from", "los", "angeles", ",", "a", "place", "mostly", "known", "for", "its", "grapes.", "make", "of", "that", "what", "you", "may.", "heidi", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a van belonging to the ventura county sheriff's folks",
+  "sentence_length" : 117,
+  "mentionArg2" : {
+    "extent" : "a van belonging to the ventura county sheriff's folks",
+    "argMentionid" : "CNN_ENG_20030620_095840.4-E2-5",
+    "start" : 73,
+    "end" : 82
+  },
+  "relationID" : "CNN_ENG_20030620_095840.4-R4",
+  "mentionArg1" : {
+    "extent" : "the ventura county sheriff's folks",
+    "argMentionid" : "CNN_ENG_20030620_095840.4-E5-15",
+    "start" : 77,
+    "end" : 82
+  },
+  "id" : "CNN_ENG_20030620_095840.4-R4-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "dog chapman was in the same truck you saw. at one point , the mexican police busted both andrew luster and dwayne dog chapman , because they do n't like bounty hunters in mexico. chapman remains behind bars as we speak in mexico. andrew luster , though arrived yesterday at los angeles international airport on a commercial flight from mexico. as soon as he arrived -- thoom being walked by the fbi to a van belonging to the ventura county sheriff 's folks. he was taken to a prison in kearn county , california , about 100 miles from los angeles , a place mostly known for its grapes. make of that what you may. heidi ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "dog", "chapman", "was", "in", "the", "same", "truck", "you", "saw.", "at", "one", "point", ",", "the", "mexican", "police", "busted", "both", "andrew", "luster", "and", "dwayne", "dog", "chapman", ",", "because", "they", "do", "n't", "like", "bounty", "hunters", "in", "mexico.", "chapman", "remains", "behind", "bars", "as", "we", "speak", "in", "mexico.", "andrew", "luster", ",", "though", "arrived", "yesterday", "at", "los", "angeles", "international", "airport", "on", "a", "commercial", "flight", "from", "mexico.", "as", "soon", "as", "he", "arrived", "--", "thoom", "being", "walked", "by", "the", "fbi", "to", "a", "van", "belonging", "to", "the", "ventura", "county", "sheriff", "'s", "folks.", "he", "was", "taken", "to", "a", "prison", "in", "kearn", "county", ",", "california", ",", "about", "100", "miles", "from", "los", "angeles", ",", "a", "place", "mostly", "known", "for", "its", "grapes.", "make", "of", "that", "what", "you", "may.", "heidi", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "he was taken to a prison in kearn county, california, about 100 miles from los angeles, a place mostly known for its grapes",
+  "sentence_length" : 117,
+  "mentionArg2" : {
+    "extent" : "a prison in kearn county, california, about 100 miles from los angeles, a place mostly known for its grapes",
+    "argMentionid" : "CNN_ENG_20030620_095840.4-E6-9",
+    "start" : 87,
+    "end" : 108
+  },
+  "relationID" : "CNN_ENG_20030620_095840.4-R5",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "CNN_ENG_20030620_095840.4-E17-8",
+    "start" : 83,
+    "end" : 83
+  },
+  "id" : "CNN_ENG_20030620_095840.4-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "dog chapman was in the same truck you saw. at one point , the mexican police busted both andrew luster and dwayne dog chapman , because they do n't like bounty hunters in mexico. chapman remains behind bars as we speak in mexico. andrew luster , though arrived yesterday at los angeles international airport on a commercial flight from mexico. as soon as he arrived -- thoom being walked by the fbi to a van belonging to the ventura county sheriff 's folks. he was taken to a prison in kearn county , california , about 100 miles from los angeles , a place mostly known for its grapes. make of that what you may. heidi ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "dog", "chapman", "was", "in", "the", "same", "truck", "you", "saw.", "at", "one", "point", ",", "the", "mexican", "police", "busted", "both", "andrew", "luster", "and", "dwayne", "dog", "chapman", ",", "because", "they", "do", "n't", "like", "bounty", "hunters", "in", "mexico.", "chapman", "remains", "behind", "bars", "as", "we", "speak", "in", "mexico.", "andrew", "luster", ",", "though", "arrived", "yesterday", "at", "los", "angeles", "international", "airport", "on", "a", "commercial", "flight", "from", "mexico.", "as", "soon", "as", "he", "arrived", "--", "thoom", "being", "walked", "by", "the", "fbi", "to", "a", "van", "belonging", "to", "the", "ventura", "county", "sheriff", "'s", "folks.", "he", "was", "taken", "to", "a", "prison", "in", "kearn", "county", ",", "california", ",", "about", "100", "miles", "from", "los", "angeles", ",", "a", "place", "mostly", "known", "for", "its", "grapes.", "make", "of", "that", "what", "you", "may.", "heidi", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the ventura county sheriff",
+  "sentence_length" : 117,
+  "mentionArg2" : {
+    "extent" : "ventura county",
+    "argMentionid" : "CNN_ENG_20030620_095840.4-E4-7",
+    "start" : 78,
+    "end" : 79
+  },
+  "relationID" : "CNN_ENG_20030620_095840.4-R6",
+  "mentionArg1" : {
+    "extent" : "the ventura county sheriff",
+    "argMentionid" : "CNN_ENG_20030620_095840.4-E3-6",
+    "start" : 77,
+    "end" : 80
+  },
+  "id" : "CNN_ENG_20030620_095840.4-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "dog chapman was in the same truck you saw. at one point , the mexican police busted both andrew luster and dwayne dog chapman , because they do n't like bounty hunters in mexico. chapman remains behind bars as we speak in mexico. andrew luster , though arrived yesterday at los angeles international airport on a commercial flight from mexico. as soon as he arrived -- thoom being walked by the fbi to a van belonging to the ventura county sheriff 's folks. he was taken to a prison in kearn county , california , about 100 miles from los angeles , a place mostly known for its grapes. make of that what you may. heidi ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "dog", "chapman", "was", "in", "the", "same", "truck", "you", "saw.", "at", "one", "point", ",", "the", "mexican", "police", "busted", "both", "andrew", "luster", "and", "dwayne", "dog", "chapman", ",", "because", "they", "do", "n't", "like", "bounty", "hunters", "in", "mexico.", "chapman", "remains", "behind", "bars", "as", "we", "speak", "in", "mexico.", "andrew", "luster", ",", "though", "arrived", "yesterday", "at", "los", "angeles", "international", "airport", "on", "a", "commercial", "flight", "from", "mexico.", "as", "soon", "as", "he", "arrived", "--", "thoom", "being", "walked", "by", "the", "fbi", "to", "a", "van", "belonging", "to", "the", "ventura", "county", "sheriff", "'s", "folks.", "he", "was", "taken", "to", "a", "prison", "in", "kearn", "county", ",", "california", ",", "about", "100", "miles", "from", "los", "angeles", ",", "a", "place", "mostly", "known", "for", "its", "grapes.", "make", "of", "that", "what", "you", "may.", "heidi", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "kearn county, california",
+  "sentence_length" : 117,
+  "mentionArg2" : {
+    "extent" : "california",
+    "argMentionid" : "CNN_ENG_20030620_095840.4-E8-11",
+    "start" : 93,
+    "end" : 93
+  },
+  "relationID" : "CNN_ENG_20030620_095840.4-R7",
+  "mentionArg1" : {
+    "extent" : "kearn county, california",
+    "argMentionid" : "CNN_ENG_20030620_095840.4-E7-10",
+    "start" : 90,
+    "end" : 93
+  },
+  "id" : "CNN_ENG_20030620_095840.4-R7-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "dog chapman was in the same truck you saw. at one point , the mexican police busted both andrew luster and dwayne dog chapman , because they do n't like bounty hunters in mexico. chapman remains behind bars as we speak in mexico. andrew luster , though arrived yesterday at los angeles international airport on a commercial flight from mexico. as soon as he arrived -- thoom being walked by the fbi to a van belonging to the ventura county sheriff 's folks. he was taken to a prison in kearn county , california , about 100 miles from los angeles , a place mostly known for its grapes. make of that what you may. heidi ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "dog", "chapman", "was", "in", "the", "same", "truck", "you", "saw.", "at", "one", "point", ",", "the", "mexican", "police", "busted", "both", "andrew", "luster", "and", "dwayne", "dog", "chapman", ",", "because", "they", "do", "n't", "like", "bounty", "hunters", "in", "mexico.", "chapman", "remains", "behind", "bars", "as", "we", "speak", "in", "mexico.", "andrew", "luster", ",", "though", "arrived", "yesterday", "at", "los", "angeles", "international", "airport", "on", "a", "commercial", "flight", "from", "mexico.", "as", "soon", "as", "he", "arrived", "--", "thoom", "being", "walked", "by", "the", "fbi", "to", "a", "van", "belonging", "to", "the", "ventura", "county", "sheriff", "'s", "folks.", "he", "was", "taken", "to", "a", "prison", "in", "kearn", "county", ",", "california", ",", "about", "100", "miles", "from", "los", "angeles", ",", "a", "place", "mostly", "known", "for", "its", "grapes.", "make", "of", "that", "what", "you", "may.", "heidi", "?" ]
+} ]

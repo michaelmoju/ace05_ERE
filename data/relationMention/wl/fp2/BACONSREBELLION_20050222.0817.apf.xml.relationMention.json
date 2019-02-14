@@ -1,0 +1,287 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "Del. Adam Ebbin (D, Alexandria",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "D",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E25-58",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "BACONSREBELLION_20050222.0817-R1",
+  "mentionArg1" : {
+    "extent" : "Del. Adam Ebbin (D, Alexandria",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E4-1",
+    "start" : 3,
+    "end" : 9
+  },
+  "id" : "BACONSREBELLION_20050222.0817-R1-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Will Vehrs 2005-02-22T08:17:00 Del. Adam Ebbin ( D , Alexandria ) is the first openly gay member to serve in the House of Delegates .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Will", "Vehrs", "2005-02-22T08:17:00", "Del.", "Adam", "Ebbin", "(", "D", ",", "Alexandria", ")", "is", "the", "first", "openly", "gay", "member", "to", "serve", "in", "the", "House", "of", "Delegates", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Del. Adam Ebbin (D, Alexandria) is the first openly gay member to serve in the House of Delegates",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the House of Delegates",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E28-61",
+    "start" : 20,
+    "end" : 23
+  },
+  "relationID" : "BACONSREBELLION_20050222.0817-R2",
+  "mentionArg1" : {
+    "extent" : "the first openly gay member to serve in the House of Delegates",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E4-60",
+    "start" : 12,
+    "end" : 23
+  },
+  "id" : "BACONSREBELLION_20050222.0817-R2-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Will Vehrs 2005-02-22T08:17:00 Del. Adam Ebbin ( D , Alexandria ) is the first openly gay member to serve in the House of Delegates .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Will", "Vehrs", "2005-02-22T08:17:00", "Del.", "Adam", "Ebbin", "(", "D", ",", "Alexandria", ")", "is", "the", "first", "openly", "gay", "member", "to", "serve", "in", "the", "House", "of", "Delegates", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the only openly gay member of the Legislature",
+  "sentence_length" : 63,
+  "mentionArg2" : {
+    "extent" : "the Legislature",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E34-72",
+    "start" : 34,
+    "end" : 35
+  },
+  "relationID" : "BACONSREBELLION_20050222.0817-R3",
+  "mentionArg1" : {
+    "extent" : "the only openly gay member of the Legislature",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E4-71",
+    "start" : 28,
+    "end" : 35
+  },
+  "id" : "BACONSREBELLION_20050222.0817-R3-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "What I found interesting was the contrast in reactions to Ebbin from two colleagues : \" I suppose that one of the concerns was that since he is the only openly gay member of the Legislature , is whether or not that would be the only issue that he would ... talk about , \" said Del. Ward Armstrong , D-Henry County .",
+  "sentence_index" : 2,
+  "Tokens" : [ "What", "I", "found", "interesting", "was", "the", "contrast", "in", "reactions", "to", "Ebbin", "from", "two", "colleagues", ":", "\"", "I", "suppose", "that", "one", "of", "the", "concerns", "was", "that", "since", "he", "is", "the", "only", "openly", "gay", "member", "of", "the", "Legislature", ",", "is", "whether", "or", "not", "that", "would", "be", "the", "only", "issue", "that", "he", "would", "...", "talk", "about", ",", "\"", "said", "Del.", "Ward", "Armstrong", ",", "D-Henry", "County", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Del. Ward Armstrong, D-Henry County",
+  "sentence_length" : 63,
+  "mentionArg2" : {
+    "extent" : "D",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E25-3",
+    "start" : 60,
+    "end" : 60
+  },
+  "relationID" : "BACONSREBELLION_20050222.0817-R4",
+  "mentionArg1" : {
+    "extent" : "Del. Ward Armstrong, D-Henry County",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E1-74",
+    "start" : 56,
+    "end" : 61
+  },
+  "id" : "BACONSREBELLION_20050222.0817-R4-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "What I found interesting was the contrast in reactions to Ebbin from two colleagues : \" I suppose that one of the concerns was that since he is the only openly gay member of the Legislature , is whether or not that would be the only issue that he would ... talk about , \" said Del. Ward Armstrong , D-Henry County .",
+  "sentence_index" : 2,
+  "Tokens" : [ "What", "I", "found", "interesting", "was", "the", "contrast", "in", "reactions", "to", "Ebbin", "from", "two", "colleagues", ":", "\"", "I", "suppose", "that", "one", "of", "the", "concerns", "was", "that", "since", "he", "is", "the", "only", "openly", "gay", "member", "of", "the", "Legislature", ",", "is", "whether", "or", "not", "that", "would", "be", "the", "only", "issue", "that", "he", "would", "...", "talk", "about", ",", "\"", "said", "Del.", "Ward", "Armstrong", ",", "D-Henry", "County", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Del. Ward Armstrong, D-Henry County",
+  "sentence_length" : 63,
+  "mentionArg2" : {
+    "extent" : "Henry County",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E3-4",
+    "start" : 60,
+    "end" : 61
+  },
+  "relationID" : "BACONSREBELLION_20050222.0817-R5",
+  "mentionArg1" : {
+    "extent" : "Del. Ward Armstrong, D-Henry County",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E1-74",
+    "start" : 56,
+    "end" : 61
+  },
+  "id" : "BACONSREBELLION_20050222.0817-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "What I found interesting was the contrast in reactions to Ebbin from two colleagues : \" I suppose that one of the concerns was that since he is the only openly gay member of the Legislature , is whether or not that would be the only issue that he would ... talk about , \" said Del. Ward Armstrong , D-Henry County .",
+  "sentence_index" : 2,
+  "Tokens" : [ "What", "I", "found", "interesting", "was", "the", "contrast", "in", "reactions", "to", "Ebbin", "from", "two", "colleagues", ":", "\"", "I", "suppose", "that", "one", "of", "the", "concerns", "was", "that", "since", "he", "is", "the", "only", "openly", "gay", "member", "of", "the", "Legislature", ",", "is", "whether", "or", "not", "that", "would", "be", "the", "only", "issue", "that", "he", "would", "...", "talk", "about", ",", "\"", "said", "Del.", "Ward", "Armstrong", ",", "D-Henry", "County", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Del. Richard Black, R-Loudoun, who has compiled a track record as one of the most socially conservative members of the state legislature and was the sponsor of the gay adoption bill",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "Loudoun",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E8-10",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "BACONSREBELLION_20050222.0817-R6",
+  "mentionArg1" : {
+    "extent" : "Del. Richard Black, R-Loudoun, who has compiled a track record as one of the most socially conservative members of the state legislature and was the sponsor of the gay adoption bill",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E5-7",
+    "start" : 0,
+    "end" : 32
+  },
+  "id" : "BACONSREBELLION_20050222.0817-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Del. Richard Black , R-Loudoun , who has compiled a track record as one of the most socially conservative members of the state legislature and was the sponsor of the gay adoption bill , said he 's not trying to stamp out gay rights but is simply trying to preserve tradition .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Del.", "Richard", "Black", ",", "R-Loudoun", ",", "who", "has", "compiled", "a", "track", "record", "as", "one", "of", "the", "most", "socially", "conservative", "members", "of", "the", "state", "legislature", "and", "was", "the", "sponsor", "of", "the", "gay", "adoption", "bill", ",", "said", "he", "'s", "not", "trying", "to", "stamp", "out", "gay", "rights", "but", "is", "simply", "trying", "to", "preserve", "tradition", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Loudoun Republican",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "Loudoun",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E8-21",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "BACONSREBELLION_20050222.0817-R6",
+  "mentionArg1" : {
+    "extent" : "the Loudoun Republican",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E5-20",
+    "start" : 13,
+    "end" : 15
+  },
+  "id" : "BACONSREBELLION_20050222.0817-R6-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "As for his personal feelings on Ebbin , after a lengthy pause , the Loudoun Republican offered : \" He 's always prompt and , you know , on time to meetings . \"",
+  "sentence_index" : 6,
+  "Tokens" : [ "As", "for", "his", "personal", "feelings", "on", "Ebbin", ",", "after", "a", "lengthy", "pause", ",", "the", "Loudoun", "Republican", "offered", ":", "\"", "He", "'s", "always", "prompt", "and", ",", "you", "know", ",", "on", "time", "to", "meetings", ".", "\"" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Del. Richard Black, R-Loudoun, who has compiled a track record as one of the most socially conservative members of the state legislature and was the sponsor of the gay adoption bill",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "R",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E7-9",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "BACONSREBELLION_20050222.0817-R7",
+  "mentionArg1" : {
+    "extent" : "Del. Richard Black, R-Loudoun, who has compiled a track record as one of the most socially conservative members of the state legislature and was the sponsor of the gay adoption bill",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E5-7",
+    "start" : 0,
+    "end" : 32
+  },
+  "id" : "BACONSREBELLION_20050222.0817-R7-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Del. Richard Black , R-Loudoun , who has compiled a track record as one of the most socially conservative members of the state legislature and was the sponsor of the gay adoption bill , said he 's not trying to stamp out gay rights but is simply trying to preserve tradition .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Del.", "Richard", "Black", ",", "R-Loudoun", ",", "who", "has", "compiled", "a", "track", "record", "as", "one", "of", "the", "most", "socially", "conservative", "members", "of", "the", "state", "legislature", "and", "was", "the", "sponsor", "of", "the", "gay", "adoption", "bill", ",", "said", "he", "'s", "not", "trying", "to", "stamp", "out", "gay", "rights", "but", "is", "simply", "trying", "to", "preserve", "tradition", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the most socially conservative members of the state legislature",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "the state legislature",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E34-14",
+    "start" : 21,
+    "end" : 23
+  },
+  "relationID" : "BACONSREBELLION_20050222.0817-R8",
+  "mentionArg1" : {
+    "extent" : "the most socially conservative members of the state legislature",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E10-13",
+    "start" : 15,
+    "end" : 23
+  },
+  "id" : "BACONSREBELLION_20050222.0817-R8-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Del. Richard Black , R-Loudoun , who has compiled a track record as one of the most socially conservative members of the state legislature and was the sponsor of the gay adoption bill , said he 's not trying to stamp out gay rights but is simply trying to preserve tradition .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Del.", "Richard", "Black", ",", "R-Loudoun", ",", "who", "has", "compiled", "a", "track", "record", "as", "one", "of", "the", "most", "socially", "conservative", "members", "of", "the", "state", "legislature", "and", "was", "the", "sponsor", "of", "the", "gay", "adoption", "bill", ",", "said", "he", "'s", "not", "trying", "to", "stamp", "out", "gay", "rights", "but", "is", "simply", "trying", "to", "preserve", "tradition", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the state legislature",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "state",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E11-15",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "BACONSREBELLION_20050222.0817-R9",
+  "mentionArg1" : {
+    "extent" : "the state legislature",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E34-14",
+    "start" : 21,
+    "end" : 23
+  },
+  "id" : "BACONSREBELLION_20050222.0817-R9-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Del. Richard Black , R-Loudoun , who has compiled a track record as one of the most socially conservative members of the state legislature and was the sponsor of the gay adoption bill , said he 's not trying to stamp out gay rights but is simply trying to preserve tradition .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Del.", "Richard", "Black", ",", "R-Loudoun", ",", "who", "has", "compiled", "a", "track", "record", "as", "one", "of", "the", "most", "socially", "conservative", "members", "of", "the", "state", "legislature", "and", "was", "the", "sponsor", "of", "the", "gay", "adoption", "bill", ",", "said", "he", "'s", "not", "trying", "to", "stamp", "out", "gay", "rights", "but", "is", "simply", "trying", "to", "preserve", "tradition", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Johnnie's teacher",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Johnnie's teacher",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E20-40",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "BACONSREBELLION_20050222.0817-R11",
+  "mentionArg1" : {
+    "extent" : "Johnnie",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E21-41",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "BACONSREBELLION_20050222.0817-R11-1",
+  "relationSubType" : "Business",
+  "Sentence" : "The latter sounds like weasel words -- \" Well , \" Johnnie 's teacher said , \" he 's not too bright , and his table manners are atroctious , but he 's very versatile . \"",
+  "sentence_index" : 13,
+  "Tokens" : [ "The", "latter", "sounds", "like", "weasel", "words", "--", "\"", "Well", ",", "\"", "Johnnie", "'s", "teacher", "said", ",", "\"", "he", "'s", "not", "too", "bright", ",", "and", "his", "table", "manners", "are", "atroctious", ",", "but", "he", "'s", "very", "versatile", ".", "\"" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "What I found interesting was the contrast in reactions to Ebbin from two colleagues: \"I suppose that one of the concerns was that since he is the only openly gay member of the Legislature, is whether or not that would be the only issue that he would ... talk about,\" said Del. Ward Armstrong, D-Henry County",
+  "sentence_length" : 63,
+  "mentionArg2" : {
+    "extent" : "two colleagues",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E32-67",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "BACONSREBELLION_20050222.0817-R12",
+  "mentionArg1" : {
+    "extent" : "Ebbin",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E4-66",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "BACONSREBELLION_20050222.0817-R12-1",
+  "relationSubType" : "Business",
+  "Sentence" : "What I found interesting was the contrast in reactions to Ebbin from two colleagues : \" I suppose that one of the concerns was that since he is the only openly gay member of the Legislature , is whether or not that would be the only issue that he would ... talk about , \" said Del. Ward Armstrong , D-Henry County .",
+  "sentence_index" : 2,
+  "Tokens" : [ "What", "I", "found", "interesting", "was", "the", "contrast", "in", "reactions", "to", "Ebbin", "from", "two", "colleagues", ":", "\"", "I", "suppose", "that", "one", "of", "the", "concerns", "was", "that", "since", "he", "is", "the", "only", "openly", "gay", "member", "of", "the", "Legislature", ",", "is", "whether", "or", "not", "that", "would", "be", "the", "only", "issue", "that", "he", "would", "...", "talk", "about", ",", "\"", "said", "Del.", "Ward", "Armstrong", ",", "D-Henry", "County", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "I think it's possible to support some of Black's positions but still be very disappointed by his cold assessment of a colleague",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "a colleague",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E4-30",
+    "start" : 22,
+    "end" : 23
+  },
+  "relationID" : "BACONSREBELLION_20050222.0817-R13",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "BACONSREBELLION_20050222.0817-E5-29",
+    "start" : 18,
+    "end" : 18
+  },
+  "id" : "BACONSREBELLION_20050222.0817-R13-1",
+  "relationSubType" : "Business",
+  "Sentence" : "I think it 's possible to support some of Black 's positions but still be very disappointed by his cold assessment of a colleague .",
+  "sentence_index" : 8,
+  "Tokens" : [ "I", "think", "it", "'s", "possible", "to", "support", "some", "of", "Black", "'s", "positions", "but", "still", "be", "very", "disappointed", "by", "his", "cold", "assessment", "of", "a", "colleague", "." ]
+} ]

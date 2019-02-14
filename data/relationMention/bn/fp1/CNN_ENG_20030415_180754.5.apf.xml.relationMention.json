@@ -1,0 +1,111 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "coalition forces",
+  "sentence_length" : 63,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_ENG_20030415_180754.5-E6-10",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "CNN_ENG_20030415_180754.5-R1",
+  "mentionArg1" : {
+    "extent" : "coalition forces",
+    "argMentionid" : "CNN_ENG_20030415_180754.5-E5-1",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "CNN_ENG_20030415_180754.5-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "good evening. coalition forces in baghdad have arrested the palestinian terrorist who led the hijacking of the italian cruise ship the achille lauro in 1985. during that hijacking the terrorists shot and killed a disabled american , leon klinghoffer , as he sat in his wheelchair. they threw his body overboard. national security correspondent david ensor joins us live from washington. david ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "good", "evening.", "coalition", "forces", "in", "baghdad", "have", "arrested", "the", "palestinian", "terrorist", "who", "led", "the", "hijacking", "of", "the", "italian", "cruise", "ship", "the", "achille", "lauro", "in", "1985.", "during", "that", "hijacking", "the", "terrorists", "shot", "and", "killed", "a", "disabled", "american", ",", "leon", "klinghoffer", ",", "as", "he", "sat", "in", "his", "wheelchair.", "they", "threw", "his", "body", "overboard.", "national", "security", "correspondent", "david", "ensor", "joins", "us", "live", "from", "washington.", "david", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "coalition forces in baghdad",
+  "sentence_length" : 63,
+  "mentionArg2" : {
+    "extent" : "baghdad",
+    "argMentionid" : "CNN_ENG_20030415_180754.5-E7-11",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_ENG_20030415_180754.5-R2",
+  "mentionArg1" : {
+    "extent" : "coalition forces",
+    "argMentionid" : "CNN_ENG_20030415_180754.5-E5-1",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "CNN_ENG_20030415_180754.5-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "good evening. coalition forces in baghdad have arrested the palestinian terrorist who led the hijacking of the italian cruise ship the achille lauro in 1985. during that hijacking the terrorists shot and killed a disabled american , leon klinghoffer , as he sat in his wheelchair. they threw his body overboard. national security correspondent david ensor joins us live from washington. david ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "good", "evening.", "coalition", "forces", "in", "baghdad", "have", "arrested", "the", "palestinian", "terrorist", "who", "led", "the", "hijacking", "of", "the", "italian", "cruise", "ship", "the", "achille", "lauro", "in", "1985.", "during", "that", "hijacking", "the", "terrorists", "shot", "and", "killed", "a", "disabled", "american", ",", "leon", "klinghoffer", ",", "as", "he", "sat", "in", "his", "wheelchair.", "they", "threw", "his", "body", "overboard.", "national", "security", "correspondent", "david", "ensor", "joins", "us", "live", "from", "washington.", "david", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the palestinian terrorist",
+  "sentence_length" : 63,
+  "mentionArg2" : {
+    "extent" : "palestinian",
+    "argMentionid" : "CNN_ENG_20030415_180754.5-E9-14",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNN_ENG_20030415_180754.5-R3",
+  "mentionArg1" : {
+    "extent" : "the palestinian terrorist",
+    "argMentionid" : "CNN_ENG_20030415_180754.5-E8-12",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "CNN_ENG_20030415_180754.5-R3-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "good evening. coalition forces in baghdad have arrested the palestinian terrorist who led the hijacking of the italian cruise ship the achille lauro in 1985. during that hijacking the terrorists shot and killed a disabled american , leon klinghoffer , as he sat in his wheelchair. they threw his body overboard. national security correspondent david ensor joins us live from washington. david ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "good", "evening.", "coalition", "forces", "in", "baghdad", "have", "arrested", "the", "palestinian", "terrorist", "who", "led", "the", "hijacking", "of", "the", "italian", "cruise", "ship", "the", "achille", "lauro", "in", "1985.", "during", "that", "hijacking", "the", "terrorists", "shot", "and", "killed", "a", "disabled", "american", ",", "leon", "klinghoffer", ",", "as", "he", "sat", "in", "his", "wheelchair.", "they", "threw", "his", "body", "overboard.", "national", "security", "correspondent", "david", "ensor", "joins", "us", "live", "from", "washington.", "david", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "his wheelchair",
+  "sentence_length" : 63,
+  "mentionArg2" : {
+    "extent" : "his wheelchair",
+    "argMentionid" : "CNN_ENG_20030415_180754.5-E16-25",
+    "start" : 44,
+    "end" : 45
+  },
+  "relationID" : "CNN_ENG_20030415_180754.5-R4",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_ENG_20030415_180754.5-E14-24",
+    "start" : 44,
+    "end" : 44
+  },
+  "id" : "CNN_ENG_20030415_180754.5-R4-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "good evening. coalition forces in baghdad have arrested the palestinian terrorist who led the hijacking of the italian cruise ship the achille lauro in 1985. during that hijacking the terrorists shot and killed a disabled american , leon klinghoffer , as he sat in his wheelchair. they threw his body overboard. national security correspondent david ensor joins us live from washington. david ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "good", "evening.", "coalition", "forces", "in", "baghdad", "have", "arrested", "the", "palestinian", "terrorist", "who", "led", "the", "hijacking", "of", "the", "italian", "cruise", "ship", "the", "achille", "lauro", "in", "1985.", "during", "that", "hijacking", "the", "terrorists", "shot", "and", "killed", "a", "disabled", "american", ",", "leon", "klinghoffer", ",", "as", "he", "sat", "in", "his", "wheelchair.", "they", "threw", "his", "body", "overboard.", "national", "security", "correspondent", "david", "ensor", "joins", "us", "live", "from", "washington.", "david", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "national security correspondent david ensor joins us live from washington",
+  "sentence_length" : 63,
+  "mentionArg2" : {
+    "extent" : "washington",
+    "argMentionid" : "CNN_ENG_20030415_180754.5-E4-8",
+    "start" : 60,
+    "end" : 60
+  },
+  "relationID" : "CNN_ENG_20030415_180754.5-R5",
+  "mentionArg1" : {
+    "extent" : "national security correspondent david ensor",
+    "argMentionid" : "CNN_ENG_20030415_180754.5-E1-5",
+    "start" : 51,
+    "end" : 55
+  },
+  "id" : "CNN_ENG_20030415_180754.5-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "good evening. coalition forces in baghdad have arrested the palestinian terrorist who led the hijacking of the italian cruise ship the achille lauro in 1985. during that hijacking the terrorists shot and killed a disabled american , leon klinghoffer , as he sat in his wheelchair. they threw his body overboard. national security correspondent david ensor joins us live from washington. david ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "good", "evening.", "coalition", "forces", "in", "baghdad", "have", "arrested", "the", "palestinian", "terrorist", "who", "led", "the", "hijacking", "of", "the", "italian", "cruise", "ship", "the", "achille", "lauro", "in", "1985.", "during", "that", "hijacking", "the", "terrorists", "shot", "and", "killed", "a", "disabled", "american", ",", "leon", "klinghoffer", ",", "as", "he", "sat", "in", "his", "wheelchair.", "they", "threw", "his", "body", "overboard.", "national", "security", "correspondent", "david", "ensor", "joins", "us", "live", "from", "washington.", "david", "?" ]
+} ]

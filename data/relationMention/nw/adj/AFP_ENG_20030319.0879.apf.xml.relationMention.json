@@ -1,0 +1,683 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "his USA Interactive group",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "his USA Interactive group",
+    "argMentionid" : "AFP_ENG_20030319.0879-E1-114",
+    "start" : 27,
+    "end" : 30
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R1",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "AFP_ENG_20030319.0879-E4-97",
+    "start" : 27,
+    "end" : 27
+  },
+  "id" : "AFP_ENG_20030319.0879-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "In a statement , Diller -- who took on the \" provisional \" role at the top of Vivendi 's US entertainment operations in December -- said his USA Interactive group will nonetheless remain a shareholder of Vivendi Universal Entertainment .",
+  "sentence_index" : 1,
+  "Tokens" : [ "In", "a", "statement", ",", "Diller", "--", "who", "took", "on", "the", "\"", "provisional", "\"", "role", "at", "the", "top", "of", "Vivendi", "'s", "US", "entertainment", "operations", "in", "December", "--", "said", "his", "USA", "Interactive", "group", "will", "nonetheless", "remain", "a", "shareholder", "of", "Vivendi", "Universal", "Entertainment", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Press speculation had already suggested that Vivendi might decide to keep its Universal Music division, while either divesting or inviting third parties to take a minority stake in the remaining Entertainment assets",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "Entertainment",
+    "argMentionid" : "AFP_ENG_20030319.0879-E25-56",
+    "start" : 31,
+    "end" : 31
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R2",
+  "mentionArg1" : {
+    "extent" : "third parties",
+    "argMentionid" : "AFP_ENG_20030319.0879-E24-55",
+    "start" : 21,
+    "end" : 22
+  },
+  "id" : "AFP_ENG_20030319.0879-R2-1",
+  "relationSubType" : "Investor-Shareholder",
+  "Sentence" : "Press speculation had already suggested that Vivendi might decide to keep its Universal Music division , while either divesting or inviting third parties to take a minority stake in the remaining Entertainment assets .",
+  "sentence_index" : 12,
+  "Tokens" : [ "Press", "speculation", "had", "already", "suggested", "that", "Vivendi", "might", "decide", "to", "keep", "its", "Universal", "Music", "division", ",", "while", "either", "divesting", "or", "inviting", "third", "parties", "to", "take", "a", "minority", "stake", "in", "the", "remaining", "Entertainment", "assets", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "chief of Vivendi Universal Entertainment, the entertainment unit of French giant Vivendi Universal whose future appears up for grabs",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Vivendi Universal Entertainment",
+    "argMentionid" : "AFP_ENG_20030319.0879-E25-104",
+    "start" : 18,
+    "end" : 20
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R3",
+  "mentionArg1" : {
+    "extent" : "chief of Vivendi Universal Entertainment, the entertainment unit of French giant Vivendi Universal whose future appears up for grabs",
+    "argMentionid" : "AFP_ENG_20030319.0879-E4-102",
+    "start" : 16,
+    "end" : 35
+  },
+  "id" : "AFP_ENG_20030319.0879-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "NEW YORK , March 19 ( AFP ) Media tycoon Barry Diller on Wednesday quit as chief of Vivendi Universal Entertainment , the entertainment unit of French giant Vivendi Universal whose future appears up for grabs .",
+  "sentence_index" : 0,
+  "Tokens" : [ "NEW", "YORK", ",", "March", "19", "(", "AFP", ")", "Media", "tycoon", "Barry", "Diller", "on", "Wednesday", "quit", "as", "chief", "of", "Vivendi", "Universal", "Entertainment", ",", "the", "entertainment", "unit", "of", "French", "giant", "Vivendi", "Universal", "whose", "future", "appears", "up", "for", "grabs", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "CEO of Vivendi Universal Entertainment",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Vivendi Universal Entertainment",
+    "argMentionid" : "AFP_ENG_20030319.0879-E25-34",
+    "start" : 32,
+    "end" : 34
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R3",
+  "mentionArg1" : {
+    "extent" : "CEO of Vivendi Universal Entertainment",
+    "argMentionid" : "AFP_ENG_20030319.0879-E4-33",
+    "start" : 30,
+    "end" : 34
+  },
+  "id" : "AFP_ENG_20030319.0879-R3-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Vivendi , in a statement , said that Diller had , \" in full agreement with Vivendi Universal , \" announced that he was \" ending his temporary assignment as CEO of Vivendi Universal Entertainment . \"",
+  "sentence_index" : 7,
+  "Tokens" : [ "Vivendi", ",", "in", "a", "statement", ",", "said", "that", "Diller", "had", ",", "\"", "in", "full", "agreement", "with", "Vivendi", "Universal", ",", "\"", "announced", "that", "he", "was", "\"", "ending", "his", "temporary", "assignment", "as", "CEO", "of", "Vivendi", "Universal", "Entertainment", ".", "\"" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the entertainment unit of French giant Vivendi Universal whose future appears up for grabs",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "French giant Vivendi Universal whose future appears up for grabs",
+    "argMentionid" : "AFP_ENG_20030319.0879-E13-106",
+    "start" : 26,
+    "end" : 35
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R4",
+  "mentionArg1" : {
+    "extent" : "the entertainment unit of French giant Vivendi Universal whose future appears up for grabs",
+    "argMentionid" : "AFP_ENG_20030319.0879-E25-105",
+    "start" : 22,
+    "end" : 35
+  },
+  "id" : "AFP_ENG_20030319.0879-R4-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "NEW YORK , March 19 ( AFP ) Media tycoon Barry Diller on Wednesday quit as chief of Vivendi Universal Entertainment , the entertainment unit of French giant Vivendi Universal whose future appears up for grabs .",
+  "sentence_index" : 0,
+  "Tokens" : [ "NEW", "YORK", ",", "March", "19", "(", "AFP", ")", "Media", "tycoon", "Barry", "Diller", "on", "Wednesday", "quit", "as", "chief", "of", "Vivendi", "Universal", "Entertainment", ",", "the", "entertainment", "unit", "of", "French", "giant", "Vivendi", "Universal", "whose", "future", "appears", "up", "for", "grabs", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "French giant",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "French",
+    "argMentionid" : "AFP_ENG_20030319.0879-E3-109",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R5",
+  "mentionArg1" : {
+    "extent" : "French giant",
+    "argMentionid" : "AFP_ENG_20030319.0879-E13-108",
+    "start" : 26,
+    "end" : 27
+  },
+  "id" : "AFP_ENG_20030319.0879-R5-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "NEW YORK , March 19 ( AFP ) Media tycoon Barry Diller on Wednesday quit as chief of Vivendi Universal Entertainment , the entertainment unit of French giant Vivendi Universal whose future appears up for grabs .",
+  "sentence_index" : 0,
+  "Tokens" : [ "NEW", "YORK", ",", "March", "19", "(", "AFP", ")", "Media", "tycoon", "Barry", "Diller", "on", "Wednesday", "quit", "as", "chief", "of", "Vivendi", "Universal", "Entertainment", ",", "the", "entertainment", "unit", "of", "French", "giant", "Vivendi", "Universal", "whose", "future", "appears", "up", "for", "grabs", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the French media company",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "French",
+    "argMentionid" : "AFP_ENG_20030319.0879-E3-12",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R5",
+  "mentionArg1" : {
+    "extent" : "the French media company",
+    "argMentionid" : "AFP_ENG_20030319.0879-E13-11",
+    "start" : 15,
+    "end" : 18
+  },
+  "id" : "AFP_ENG_20030319.0879-R5-2",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "As part of the 11-billion-dollar sale of USA Interactive 's film and television operations to the French media company in December 2001 , USA Interactive received 2.5 billion dollars in preferred shares in Vivendi Universal Entertainment .",
+  "sentence_index" : 4,
+  "Tokens" : [ "As", "part", "of", "the", "11-billion-dollar", "sale", "of", "USA", "Interactive", "'s", "film", "and", "television", "operations", "to", "the", "French", "media", "company", "in", "December", "2001", ",", "USA", "Interactive", "received", "2.5", "billion", "dollars", "in", "preferred", "shares", "in", "Vivendi", "Universal", "Entertainment", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the troubled French media giant",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "French",
+    "argMentionid" : "AFP_ENG_20030319.0879-E3-19",
+    "start" : 35,
+    "end" : 35
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R5",
+  "mentionArg1" : {
+    "extent" : "the troubled French media giant",
+    "argMentionid" : "AFP_ENG_20030319.0879-E13-18",
+    "start" : 33,
+    "end" : 37
+  },
+  "id" : "AFP_ENG_20030319.0879-R5-3",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Diller , 60 , personally received a 1.5 percent stake in the business and had been touted as a likely candidate to run Vivendi Universal 's entertainment unit in the United States if the troubled French media giant were broken up .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Diller", ",", "60", ",", "personally", "received", "a", "1.5", "percent", "stake", "in", "the", "business", "and", "had", "been", "touted", "as", "a", "likely", "candidate", "to", "run", "Vivendi", "Universal", "'s", "entertainment", "unit", "in", "the", "United", "States", "if", "the", "troubled", "French", "media", "giant", "were", "broken", "up", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the French media group",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "French",
+    "argMentionid" : "AFP_ENG_20030319.0879-E3-22",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R5",
+  "mentionArg1" : {
+    "extent" : "the French media group",
+    "argMentionid" : "AFP_ENG_20030319.0879-E13-21",
+    "start" : 3,
+    "end" : 6
+  },
+  "id" : "AFP_ENG_20030319.0879-R5-4",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "In Paris , the French media group said parent company chairman Jean-Rene Fourtou will replace Diller as chairman and chief executive of US unit .",
+  "sentence_index" : 6,
+  "Tokens" : [ "In", "Paris", ",", "the", "French", "media", "group", "said", "parent", "company", "chairman", "Jean-Rene", "Fourtou", "will", "replace", "Diller", "as", "chairman", "and", "chief", "executive", "of", "US", "unit", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Vivendi's US entertainment operations",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "AFP_ENG_20030319.0879-E11-113",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R6",
+  "mentionArg1" : {
+    "extent" : "Vivendi's US entertainment operations",
+    "argMentionid" : "AFP_ENG_20030319.0879-E5-87",
+    "start" : 18,
+    "end" : 22
+  },
+  "id" : "AFP_ENG_20030319.0879-R6-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "In a statement , Diller -- who took on the \" provisional \" role at the top of Vivendi 's US entertainment operations in December -- said his USA Interactive group will nonetheless remain a shareholder of Vivendi Universal Entertainment .",
+  "sentence_index" : 1,
+  "Tokens" : [ "In", "a", "statement", ",", "Diller", "--", "who", "took", "on", "the", "\"", "provisional", "\"", "role", "at", "the", "top", "of", "Vivendi", "'s", "US", "entertainment", "operations", "in", "December", "--", "said", "his", "USA", "Interactive", "group", "will", "nonetheless", "remain", "a", "shareholder", "of", "Vivendi", "Universal", "Entertainment", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Vivendi Universal's entertainment unit in the United States",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "the United States",
+    "argMentionid" : "AFP_ENG_20030319.0879-E11-99",
+    "start" : 29,
+    "end" : 31
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R6",
+  "mentionArg1" : {
+    "extent" : "Vivendi Universal's entertainment unit in the United States",
+    "argMentionid" : "AFP_ENG_20030319.0879-E5-16",
+    "start" : 23,
+    "end" : 31
+  },
+  "id" : "AFP_ENG_20030319.0879-R6-2",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Diller , 60 , personally received a 1.5 percent stake in the business and had been touted as a likely candidate to run Vivendi Universal 's entertainment unit in the United States if the troubled French media giant were broken up .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Diller", ",", "60", ",", "personally", "received", "a", "1.5", "percent", "stake", "in", "the", "business", "and", "had", "been", "touted", "as", "a", "likely", "candidate", "to", "run", "Vivendi", "Universal", "'s", "entertainment", "unit", "in", "the", "United", "States", "if", "the", "troubled", "French", "media", "giant", "were", "broken", "up", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a shareholder of Vivendi Universal Entertainment",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "Vivendi Universal Entertainment",
+    "argMentionid" : "AFP_ENG_20030319.0879-E25-2",
+    "start" : 37,
+    "end" : 39
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R7",
+  "mentionArg1" : {
+    "extent" : "a shareholder of Vivendi Universal Entertainment",
+    "argMentionid" : "AFP_ENG_20030319.0879-E1-82",
+    "start" : 34,
+    "end" : 39
+  },
+  "id" : "AFP_ENG_20030319.0879-R7-1",
+  "relationSubType" : "Investor-Shareholder",
+  "Sentence" : "In a statement , Diller -- who took on the \" provisional \" role at the top of Vivendi 's US entertainment operations in December -- said his USA Interactive group will nonetheless remain a shareholder of Vivendi Universal Entertainment .",
+  "sentence_index" : 1,
+  "Tokens" : [ "In", "a", "statement", ",", "Diller", "--", "who", "took", "on", "the", "\"", "provisional", "\"", "role", "at", "the", "top", "of", "Vivendi", "'s", "US", "entertainment", "operations", "in", "December", "--", "said", "his", "USA", "Interactive", "group", "will", "nonetheless", "remain", "a", "shareholder", "of", "Vivendi", "Universal", "Entertainment", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "As part of the 11-billion-dollar sale of USA Interactive's film and television operations to the French media company in December 2001, USA Interactive received 2.5 billion dollars in preferred shares in Vivendi Universal Entertainment",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Vivendi Universal Entertainment",
+    "argMentionid" : "AFP_ENG_20030319.0879-E25-7",
+    "start" : 33,
+    "end" : 35
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R7",
+  "mentionArg1" : {
+    "extent" : "USA Interactive",
+    "argMentionid" : "AFP_ENG_20030319.0879-E1-9",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "AFP_ENG_20030319.0879-R7-2",
+  "relationSubType" : "Investor-Shareholder",
+  "Sentence" : "As part of the 11-billion-dollar sale of USA Interactive 's film and television operations to the French media company in December 2001 , USA Interactive received 2.5 billion dollars in preferred shares in Vivendi Universal Entertainment .",
+  "sentence_index" : 4,
+  "Tokens" : [ "As", "part", "of", "the", "11-billion-dollar", "sale", "of", "USA", "Interactive", "'s", "film", "and", "television", "operations", "to", "the", "French", "media", "company", "in", "December", "2001", ",", "USA", "Interactive", "received", "2.5", "billion", "dollars", "in", "preferred", "shares", "in", "Vivendi", "Universal", "Entertainment", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "USA Interactive's film and television operations",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "USA Interactive",
+    "argMentionid" : "AFP_ENG_20030319.0879-E1-9",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R8",
+  "mentionArg1" : {
+    "extent" : "USA Interactive's film and television operations",
+    "argMentionid" : "AFP_ENG_20030319.0879-E2-10",
+    "start" : 7,
+    "end" : 13
+  },
+  "id" : "AFP_ENG_20030319.0879-R8-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "As part of the 11-billion-dollar sale of USA Interactive 's film and television operations to the French media company in December 2001 , USA Interactive received 2.5 billion dollars in preferred shares in Vivendi Universal Entertainment .",
+  "sentence_index" : 4,
+  "Tokens" : [ "As", "part", "of", "the", "11-billion-dollar", "sale", "of", "USA", "Interactive", "'s", "film", "and", "television", "operations", "to", "the", "French", "media", "company", "in", "December", "2001", ",", "USA", "Interactive", "received", "2.5", "billion", "dollars", "in", "preferred", "shares", "in", "Vivendi", "Universal", "Entertainment", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Diller, 60, personally received a 1.5 percent stake in the business and had been touted as a likely candidate to run Vivendi Universal's entertainment unit in the United States if the troubled French media giant were broken up",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "the business",
+    "argMentionid" : "AFP_ENG_20030319.0879-E25-14",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R11",
+  "mentionArg1" : {
+    "extent" : "Diller, 60",
+    "argMentionid" : "AFP_ENG_20030319.0879-E4-13",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "AFP_ENG_20030319.0879-R11-1",
+  "relationSubType" : "Investor-Shareholder",
+  "Sentence" : "Diller , 60 , personally received a 1.5 percent stake in the business and had been touted as a likely candidate to run Vivendi Universal 's entertainment unit in the United States if the troubled French media giant were broken up .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Diller", ",", "60", ",", "personally", "received", "a", "1.5", "percent", "stake", "in", "the", "business", "and", "had", "been", "touted", "as", "a", "likely", "candidate", "to", "run", "Vivendi", "Universal", "'s", "entertainment", "unit", "in", "the", "United", "States", "if", "the", "troubled", "French", "media", "giant", "were", "broken", "up", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Vivendi Universal's entertainment unit in the United States",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Vivendi Universal",
+    "argMentionid" : "AFP_ENG_20030319.0879-E13-17",
+    "start" : 23,
+    "end" : 24
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R12",
+  "mentionArg1" : {
+    "extent" : "Vivendi Universal's entertainment unit in the United States",
+    "argMentionid" : "AFP_ENG_20030319.0879-E5-16",
+    "start" : 23,
+    "end" : 31
+  },
+  "id" : "AFP_ENG_20030319.0879-R12-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Diller , 60 , personally received a 1.5 percent stake in the business and had been touted as a likely candidate to run Vivendi Universal 's entertainment unit in the United States if the troubled French media giant were broken up .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Diller", ",", "60", ",", "personally", "received", "a", "1.5", "percent", "stake", "in", "the", "business", "and", "had", "been", "touted", "as", "a", "likely", "candidate", "to", "run", "Vivendi", "Universal", "'s", "entertainment", "unit", "in", "the", "United", "States", "if", "the", "troubled", "French", "media", "giant", "were", "broken", "up", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Vivendi's US entertainment operations",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "Vivendi",
+    "argMentionid" : "AFP_ENG_20030319.0879-E13-112",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R12",
+  "mentionArg1" : {
+    "extent" : "Vivendi's US entertainment operations",
+    "argMentionid" : "AFP_ENG_20030319.0879-E5-87",
+    "start" : 18,
+    "end" : 22
+  },
+  "id" : "AFP_ENG_20030319.0879-R12-2",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "In a statement , Diller -- who took on the \" provisional \" role at the top of Vivendi 's US entertainment operations in December -- said his USA Interactive group will nonetheless remain a shareholder of Vivendi Universal Entertainment .",
+  "sentence_index" : 1,
+  "Tokens" : [ "In", "a", "statement", ",", "Diller", "--", "who", "took", "on", "the", "\"", "provisional", "\"", "role", "at", "the", "top", "of", "Vivendi", "'s", "US", "entertainment", "operations", "in", "December", "--", "said", "his", "USA", "Interactive", "group", "will", "nonetheless", "remain", "a", "shareholder", "of", "Vivendi", "Universal", "Entertainment", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "parent company chairman",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "parent company",
+    "argMentionid" : "AFP_ENG_20030319.0879-E44-81",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R16",
+  "mentionArg1" : {
+    "extent" : "parent company chairman",
+    "argMentionid" : "AFP_ENG_20030319.0879-E9-24",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "AFP_ENG_20030319.0879-R16-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "In Paris , the French media group said parent company chairman Jean-Rene Fourtou will replace Diller as chairman and chief executive of US unit .",
+  "sentence_index" : 6,
+  "Tokens" : [ "In", "Paris", ",", "the", "French", "media", "group", "said", "parent", "company", "chairman", "Jean-Rene", "Fourtou", "will", "replace", "Diller", "as", "chairman", "and", "chief", "executive", "of", "US", "unit", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "US unit",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "AFP_ENG_20030319.0879-E11-27",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R17",
+  "mentionArg1" : {
+    "extent" : "US unit",
+    "argMentionid" : "AFP_ENG_20030319.0879-E1-26",
+    "start" : 22,
+    "end" : 23
+  },
+  "id" : "AFP_ENG_20030319.0879-R17-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "In Paris , the French media group said parent company chairman Jean-Rene Fourtou will replace Diller as chairman and chief executive of US unit .",
+  "sentence_index" : 6,
+  "Tokens" : [ "In", "Paris", ",", "the", "French", "media", "group", "said", "parent", "company", "chairman", "Jean-Rene", "Fourtou", "will", "replace", "Diller", "as", "chairman", "and", "chief", "executive", "of", "US", "unit", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the world's second-largest media group after AOL Time Warner of the United States",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "the world",
+    "argMentionid" : "AFP_ENG_20030319.0879-E47-83",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R19",
+  "mentionArg1" : {
+    "extent" : "the world's second-largest media group after AOL Time Warner of the United States",
+    "argMentionid" : "AFP_ENG_20030319.0879-E13-37",
+    "start" : 3,
+    "end" : 16
+  },
+  "id" : "AFP_ENG_20030319.0879-R19-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Vivendi Universal , the world 's second-largest media group after AOL Time Warner of the United States , has been digging out from under a mountain of debt since the removal of expansionist boss Jean-Marie Messier last July , largely through asset sales .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Vivendi", "Universal", ",", "the", "world", "'s", "second-largest", "media", "group", "after", "AOL", "Time", "Warner", "of", "the", "United", "States", ",", "has", "been", "digging", "out", "from", "under", "a", "mountain", "of", "debt", "since", "the", "removal", "of", "expansionist", "boss", "Jean-Marie", "Messier", "last", "July", ",", "largely", "through", "asset", "sales", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "AOL Time Warner of the United States",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "the United States",
+    "argMentionid" : "AFP_ENG_20030319.0879-E11-100",
+    "start" : 14,
+    "end" : 16
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R20",
+  "mentionArg1" : {
+    "extent" : "AOL Time Warner of the United States",
+    "argMentionid" : "AFP_ENG_20030319.0879-E14-38",
+    "start" : 10,
+    "end" : 16
+  },
+  "id" : "AFP_ENG_20030319.0879-R20-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Vivendi Universal , the world 's second-largest media group after AOL Time Warner of the United States , has been digging out from under a mountain of debt since the removal of expansionist boss Jean-Marie Messier last July , largely through asset sales .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Vivendi", "Universal", ",", "the", "world", "'s", "second-largest", "media", "group", "after", "AOL", "Time", "Warner", "of", "the", "United", "States", ",", "has", "been", "digging", "out", "from", "under", "a", "mountain", "of", "debt", "since", "the", "removal", "of", "expansionist", "boss", "Jean-Marie", "Messier", "last", "July", ",", "largely", "through", "asset", "sales", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "its US film, television and theme park operations",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "its",
+    "argMentionid" : "AFP_ENG_20030319.0879-E13-46",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R21",
+  "mentionArg1" : {
+    "extent" : "its US film, television and theme park operations",
+    "argMentionid" : "AFP_ENG_20030319.0879-E21-49",
+    "start" : 15,
+    "end" : 23
+  },
+  "id" : "AFP_ENG_20030319.0879-R21-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Speculation has been rife that troubled Vivendi has been weighing a spinoff or sale of its US film , television and theme park operations as part of its restructuring .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Speculation", "has", "been", "rife", "that", "troubled", "Vivendi", "has", "been", "weighing", "a", "spinoff", "or", "sale", "of", "its", "US", "film", ",", "television", "and", "theme", "park", "operations", "as", "part", "of", "its", "restructuring", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "its US film, television and theme park operations",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "AFP_ENG_20030319.0879-E11-47",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R22",
+  "mentionArg1" : {
+    "extent" : "its US film, television and theme park operations",
+    "argMentionid" : "AFP_ENG_20030319.0879-E21-49",
+    "start" : 15,
+    "end" : 23
+  },
+  "id" : "AFP_ENG_20030319.0879-R22-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Speculation has been rife that troubled Vivendi has been weighing a spinoff or sale of its US film , television and theme park operations as part of its restructuring .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Speculation", "has", "been", "rife", "that", "troubled", "Vivendi", "has", "been", "weighing", "a", "spinoff", "or", "sale", "of", "its", "US", "film", ",", "television", "and", "theme", "park", "operations", "as", "part", "of", "its", "restructuring", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "its Universal Music division",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "its",
+    "argMentionid" : "AFP_ENG_20030319.0879-E13-52",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R23",
+  "mentionArg1" : {
+    "extent" : "its Universal Music division",
+    "argMentionid" : "AFP_ENG_20030319.0879-E22-53",
+    "start" : 11,
+    "end" : 14
+  },
+  "id" : "AFP_ENG_20030319.0879-R23-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Press speculation had already suggested that Vivendi might decide to keep its Universal Music division , while either divesting or inviting third parties to take a minority stake in the remaining Entertainment assets .",
+  "sentence_index" : 12,
+  "Tokens" : [ "Press", "speculation", "had", "already", "suggested", "that", "Vivendi", "might", "decide", "to", "keep", "its", "Universal", "Music", "division", ",", "while", "either", "divesting", "or", "inviting", "third", "parties", "to", "take", "a", "minority", "stake", "in", "the", "remaining", "Entertainment", "assets", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Agence France Presse financial news unit AFX",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "Agence France Presse",
+    "argMentionid" : "AFP_ENG_20030319.0879-E46-88",
+    "start" : 6,
+    "end" : 8
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R24",
+  "mentionArg1" : {
+    "extent" : "Agence France Presse financial news unit AFX",
+    "argMentionid" : "AFP_ENG_20030319.0879-E27-58",
+    "start" : 6,
+    "end" : 12
+  },
+  "id" : "AFP_ENG_20030319.0879-R24-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Earlier this month , sources told Agence France Presse financial news unit AFX that Viacom is studying a bid for Vivendi 's US entertainment assets placing it as a serious rival squarely in the running against oil billionaire Marvin Davis who has bid 20 billion dollars for the operations .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Earlier", "this", "month", ",", "sources", "told", "Agence", "France", "Presse", "financial", "news", "unit", "AFX", "that", "Viacom", "is", "studying", "a", "bid", "for", "Vivendi", "'s", "US", "entertainment", "assets", "placing", "it", "as", "a", "serious", "rival", "squarely", "in", "the", "running", "against", "oil", "billionaire", "Marvin", "Davis", "who", "has", "bid", "20", "billion", "dollars", "for", "the", "operations", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "In a statement, Diller -- who took on the \"provisional\" role at the top of Vivendi's US entertainment operations in December -- said his USA Interactive group will nonetheless remain a shareholder of Vivendi Universal Entertainment",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "Vivendi's US entertainment operations",
+    "argMentionid" : "AFP_ENG_20030319.0879-E5-87",
+    "start" : 18,
+    "end" : 22
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R26",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "AFP_ENG_20030319.0879-E4-111",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "AFP_ENG_20030319.0879-R26-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "In a statement , Diller -- who took on the \" provisional \" role at the top of Vivendi 's US entertainment operations in December -- said his USA Interactive group will nonetheless remain a shareholder of Vivendi Universal Entertainment .",
+  "sentence_index" : 1,
+  "Tokens" : [ "In", "a", "statement", ",", "Diller", "--", "who", "took", "on", "the", "\"", "provisional", "\"", "role", "at", "the", "top", "of", "Vivendi", "'s", "US", "entertainment", "operations", "in", "December", "--", "said", "his", "USA", "Interactive", "group", "will", "nonetheless", "remain", "a", "shareholder", "of", "Vivendi", "Universal", "Entertainment", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a likely candidate to run Vivendi Universal's entertainment unit in the United States if the troubled French media giant were broken up",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Vivendi Universal's entertainment unit in the United States",
+    "argMentionid" : "AFP_ENG_20030319.0879-E5-16",
+    "start" : 23,
+    "end" : 31
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R26",
+  "mentionArg1" : {
+    "extent" : "a likely candidate to run Vivendi Universal's entertainment unit in the United States if the troubled French media giant were broken up",
+    "argMentionid" : "AFP_ENG_20030319.0879-E4-15",
+    "start" : 18,
+    "end" : 40
+  },
+  "id" : "AFP_ENG_20030319.0879-R26-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Diller , 60 , personally received a 1.5 percent stake in the business and had been touted as a likely candidate to run Vivendi Universal 's entertainment unit in the United States if the troubled French media giant were broken up .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Diller", ",", "60", ",", "personally", "received", "a", "1.5", "percent", "stake", "in", "the", "business", "and", "had", "been", "touted", "as", "a", "likely", "candidate", "to", "run", "Vivendi", "Universal", "'s", "entertainment", "unit", "in", "the", "United", "States", "if", "the", "troubled", "French", "media", "giant", "were", "broken", "up", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "In Paris, the French media group said parent company chairman Jean-Rene Fourtou will replace Diller as chairman and chief executive of US unit",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "US unit",
+    "argMentionid" : "AFP_ENG_20030319.0879-E1-26",
+    "start" : 22,
+    "end" : 23
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R28",
+  "mentionArg1" : {
+    "extent" : "chairman and chief executive of US unit",
+    "argMentionid" : "AFP_ENG_20030319.0879-E9-85",
+    "start" : 17,
+    "end" : 23
+  },
+  "id" : "AFP_ENG_20030319.0879-R28-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "In Paris , the French media group said parent company chairman Jean-Rene Fourtou will replace Diller as chairman and chief executive of US unit .",
+  "sentence_index" : 6,
+  "Tokens" : [ "In", "Paris", ",", "the", "French", "media", "group", "said", "parent", "company", "chairman", "Jean-Rene", "Fourtou", "will", "replace", "Diller", "as", "chairman", "and", "chief", "executive", "of", "US", "unit", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "In Paris, the French media group said parent company chairman Jean-Rene Fourtou will replace Diller as chairman and chief executive of US unit",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "US unit",
+    "argMentionid" : "AFP_ENG_20030319.0879-E1-26",
+    "start" : 22,
+    "end" : 23
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R28",
+  "mentionArg1" : {
+    "extent" : "chairman and chief executive of US unit",
+    "argMentionid" : "AFP_ENG_20030319.0879-E9-86",
+    "start" : 17,
+    "end" : 23
+  },
+  "id" : "AFP_ENG_20030319.0879-R28-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "In Paris , the French media group said parent company chairman Jean-Rene Fourtou will replace Diller as chairman and chief executive of US unit .",
+  "sentence_index" : 6,
+  "Tokens" : [ "In", "Paris", ",", "the", "French", "media", "group", "said", "parent", "company", "chairman", "Jean-Rene", "Fourtou", "will", "replace", "Diller", "as", "chairman", "and", "chief", "executive", "of", "US", "unit", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Vivendi Universal, the world's second-largest media group after AOL Time Warner of the United States, has been digging out from under a mountain of debt since the removal of expansionist boss Jean-Marie Messier last July, largely through asset sales",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "Vivendi Universal",
+    "argMentionid" : "AFP_ENG_20030319.0879-E13-36",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R30",
+  "mentionArg1" : {
+    "extent" : "expansionist boss",
+    "argMentionid" : "AFP_ENG_20030319.0879-E15-40",
+    "start" : 32,
+    "end" : 33
+  },
+  "id" : "AFP_ENG_20030319.0879-R30-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Vivendi Universal , the world 's second-largest media group after AOL Time Warner of the United States , has been digging out from under a mountain of debt since the removal of expansionist boss Jean-Marie Messier last July , largely through asset sales .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Vivendi", "Universal", ",", "the", "world", "'s", "second-largest", "media", "group", "after", "AOL", "Time", "Warner", "of", "the", "United", "States", ",", "has", "been", "digging", "out", "from", "under", "a", "mountain", "of", "debt", "since", "the", "removal", "of", "expansionist", "boss", "Jean-Marie", "Messier", "last", "July", ",", "largely", "through", "asset", "sales", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Faced with debt of 35 billion euros (37 billion dollars) in June last year -- including 19 billion from the media and telecoms division alone -- the sprawling conglomerate has set a target of reducing its debt by 16 billion euros by end-2004",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "the sprawling conglomerate",
+    "argMentionid" : "AFP_ENG_20030319.0879-E13-43",
+    "start" : 28,
+    "end" : 30
+  },
+  "relationID" : "AFP_ENG_20030319.0879-R31",
+  "mentionArg1" : {
+    "extent" : "the media and telecoms division",
+    "argMentionid" : "AFP_ENG_20030319.0879-E17-42",
+    "start" : 21,
+    "end" : 25
+  },
+  "id" : "AFP_ENG_20030319.0879-R31-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Faced with debt of 35 billion euros ( 37 billion dollars ) in June last year -- including 19 billion from the media and telecoms division alone -- the sprawling conglomerate has set a target of reducing its debt by 16 billion euros by end-2004 .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Faced", "with", "debt", "of", "35", "billion", "euros", "(", "37", "billion", "dollars", ")", "in", "June", "last", "year", "--", "including", "19", "billion", "from", "the", "media", "and", "telecoms", "division", "alone", "--", "the", "sprawling", "conglomerate", "has", "set", "a", "target", "of", "reducing", "its", "debt", "by", "16", "billion", "euros", "by", "end-2004", "." ]
+} ]

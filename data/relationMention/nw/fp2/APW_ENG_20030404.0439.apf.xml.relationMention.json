@@ -1,0 +1,67 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "World Bank officials",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "World Bank",
+    "argMentionid" : "APW_ENG_20030404.0439-E2-16",
+    "start" : 33,
+    "end" : 34
+  },
+  "relationID" : "APW_ENG_20030404.0439-R1",
+  "mentionArg1" : {
+    "extent" : "World Bank officials",
+    "argMentionid" : "APW_ENG_20030404.0439-E11-15",
+    "start" : 33,
+    "end" : 35
+  },
+  "id" : "APW_ENG_20030404.0439-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "MOSCOW ( AP ) Russia has accepted a US $ 150 million World Bank loan to combat the spread of AIDS and tuberculosis , ending a negotiating process that lasted four years , World Bank officials said Friday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "MOSCOW", "(", "AP", ")", "Russia", "has", "accepted", "a", "US", "$", "150", "million", "World", "Bank", "loan", "to", "combat", "the", "spread", "of", "AIDS", "and", "tuberculosis", ",", "ending", "a", "negotiating", "process", "that", "lasted", "four", "years", ",", "World", "Bank", "officials", "said", "Friday", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a World Bank health specialist",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "World Bank",
+    "argMentionid" : "APW_ENG_20030404.0439-E2-4",
+    "start" : 33,
+    "end" : 34
+  },
+  "relationID" : "APW_ENG_20030404.0439-R2",
+  "mentionArg1" : {
+    "extent" : "a World Bank health specialist",
+    "argMentionid" : "APW_ENG_20030404.0439-E1-3",
+    "start" : 32,
+    "end" : 36
+  },
+  "id" : "APW_ENG_20030404.0439-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "`` Russia has one of the fastest growing AIDS epidemics in the world '' and has a `` fearsome '' problem with tuberculosis , particularly drug-resistant strains , said Olesoji Adeyi , a World Bank health specialist .",
+  "sentence_index" : 4,
+  "Tokens" : [ "``", "Russia", "has", "one", "of", "the", "fastest", "growing", "AIDS", "epidemics", "in", "the", "world", "''", "and", "has", "a", "``", "fearsome", "''", "problem", "with", "tuberculosis", ",", "particularly", "drug-resistant", "strains", ",", "said", "Olesoji", "Adeyi", ",", "a", "World", "Bank", "health", "specialist", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Russia's overcrowded prisons",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Russia's overcrowded prisons",
+    "argMentionid" : "APW_ENG_20030404.0439-E6-11",
+    "start" : 14,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030404.0439-R3",
+  "mentionArg1" : {
+    "extent" : "Russia's",
+    "argMentionid" : "APW_ENG_20030404.0439-E8-12",
+    "start" : 14,
+    "end" : 15
+  },
+  "id" : "APW_ENG_20030404.0439-R3-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Tuberculosis , meanwhile , has also emerged as a serious problem , particularly in Russia 's overcrowded prisons .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Tuberculosis", ",", "meanwhile", ",", "has", "also", "emerged", "as", "a", "serious", "problem", ",", "particularly", "in", "Russia", "'s", "overcrowded", "prisons", "." ]
+} ]

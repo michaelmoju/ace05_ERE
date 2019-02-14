@@ -1,0 +1,133 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "10 Wall Street brokerages",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Wall Street",
+    "argMentionid" : "AFP_ENG_20030519.0049-E14-31",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "AFP_ENG_20030519.0049-R1",
+  "mentionArg1" : {
+    "extent" : "10 Wall Street brokerages",
+    "argMentionid" : "AFP_ENG_20030519.0049-E1-1",
+    "start" : 12,
+    "end" : 15
+  },
+  "id" : "AFP_ENG_20030519.0049-R1-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Last month , the SEC slapped fines totaling 1.4 billion dollars on 10 Wall Street brokerages to settle charges of conflicts of interest between analysts and investors .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Last", "month", ",", "the", "SEC", "slapped", "fines", "totaling", "1.4", "billion", "dollars", "on", "10", "Wall", "Street", "brokerages", "to", "settle", "charges", "of", "conflicts", "of", "interest", "between", "analysts", "and", "investors", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "former WorldCom CEO",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "WorldCom",
+    "argMentionid" : "AFP_ENG_20030519.0049-E7-13",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "AFP_ENG_20030519.0049-R2",
+  "mentionArg1" : {
+    "extent" : "former WorldCom CEO",
+    "argMentionid" : "AFP_ENG_20030519.0049-E5-12",
+    "start" : 2,
+    "end" : 4
+  },
+  "id" : "AFP_ENG_20030519.0049-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Separately , former WorldCom CEO Bernard Ebbers failed on April 29 to make a first repayment of 25 million dollars , plus interest , on a 400-million-dollar loan from MCI , the Journal said , citing SEC documents .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Separately", ",", "former", "WorldCom", "CEO", "Bernard", "Ebbers", "failed", "on", "April", "29", "to", "make", "a", "first", "repayment", "of", "25", "million", "dollars", ",", "plus", "interest", ",", "on", "a", "400-million-dollar", "loan", "from", "MCI", ",", "the", "Journal", "said", ",", "citing", "SEC", "documents", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "his Georgia-based yacht building business",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "Georgia",
+    "argMentionid" : "AFP_ENG_20030519.0049-E9-22",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "AFP_ENG_20030519.0049-R3",
+  "mentionArg1" : {
+    "extent" : "his Georgia-based yacht building business",
+    "argMentionid" : "AFP_ENG_20030519.0049-E11-24",
+    "start" : 5,
+    "end" : 9
+  },
+  "id" : "AFP_ENG_20030519.0049-R3-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "The company has already sold his Georgia-based yacht building business for 15 million dollars , and is close to selling his ranch in British Colombia , which is expected to bring 60 to 70 million dollars , the Journal said .",
+  "sentence_index" : 8,
+  "Tokens" : [ "The", "company", "has", "already", "sold", "his", "Georgia-based", "yacht", "building", "business", "for", "15", "million", "dollars", ",", "and", "is", "close", "to", "selling", "his", "ranch", "in", "British", "Colombia", ",", "which", "is", "expected", "to", "bring", "60", "to", "70", "million", "dollars", ",", "the", "Journal", "said", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "his Georgia-based yacht building business",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "his Georgia-based yacht building business",
+    "argMentionid" : "AFP_ENG_20030519.0049-E11-24",
+    "start" : 5,
+    "end" : 9
+  },
+  "relationID" : "AFP_ENG_20030519.0049-R4",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "AFP_ENG_20030519.0049-E5-21",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "AFP_ENG_20030519.0049-R4-1",
+  "relationSubType" : "Ownership",
+  "Sentence" : "The company has already sold his Georgia-based yacht building business for 15 million dollars , and is close to selling his ranch in British Colombia , which is expected to bring 60 to 70 million dollars , the Journal said .",
+  "sentence_index" : 8,
+  "Tokens" : [ "The", "company", "has", "already", "sold", "his", "Georgia-based", "yacht", "building", "business", "for", "15", "million", "dollars", ",", "and", "is", "close", "to", "selling", "his", "ranch", "in", "British", "Colombia", ",", "which", "is", "expected", "to", "bring", "60", "to", "70", "million", "dollars", ",", "the", "Journal", "said", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "his ranch in British Colombia, which is expected to bring 60 to 70 million dollars",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "his ranch in British Colombia, which is expected to bring 60 to 70 million dollars",
+    "argMentionid" : "AFP_ENG_20030519.0049-E12-26",
+    "start" : 20,
+    "end" : 35
+  },
+  "relationID" : "AFP_ENG_20030519.0049-R5",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "AFP_ENG_20030519.0049-E5-25",
+    "start" : 20,
+    "end" : 20
+  },
+  "id" : "AFP_ENG_20030519.0049-R5-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The company has already sold his Georgia-based yacht building business for 15 million dollars , and is close to selling his ranch in British Colombia , which is expected to bring 60 to 70 million dollars , the Journal said .",
+  "sentence_index" : 8,
+  "Tokens" : [ "The", "company", "has", "already", "sold", "his", "Georgia-based", "yacht", "building", "business", "for", "15", "million", "dollars", ",", "and", "is", "close", "to", "selling", "his", "ranch", "in", "British", "Colombia", ",", "which", "is", "expected", "to", "bring", "60", "to", "70", "million", "dollars", ",", "the", "Journal", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "his ranch in British Colombia, which is expected to bring 60 to 70 million dollars",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "British Colombia",
+    "argMentionid" : "AFP_ENG_20030519.0049-E13-27",
+    "start" : 23,
+    "end" : 24
+  },
+  "relationID" : "AFP_ENG_20030519.0049-R6",
+  "mentionArg1" : {
+    "extent" : "his ranch in British Colombia, which is expected to bring 60 to 70 million dollars",
+    "argMentionid" : "AFP_ENG_20030519.0049-E12-26",
+    "start" : 20,
+    "end" : 35
+  },
+  "id" : "AFP_ENG_20030519.0049-R6-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The company has already sold his Georgia-based yacht building business for 15 million dollars , and is close to selling his ranch in British Colombia , which is expected to bring 60 to 70 million dollars , the Journal said .",
+  "sentence_index" : 8,
+  "Tokens" : [ "The", "company", "has", "already", "sold", "his", "Georgia-based", "yacht", "building", "business", "for", "15", "million", "dollars", ",", "and", "is", "close", "to", "selling", "his", "ranch", "in", "British", "Colombia", ",", "which", "is", "expected", "to", "bring", "60", "to", "70", "million", "dollars", ",", "the", "Journal", "said", "." ]
+} ]

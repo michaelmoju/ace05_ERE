@@ -1,0 +1,1277 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Baghdad bank",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "APW_ENG_20030417.0555-E23-237",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030417.0555-R1",
+  "mentionArg1" : {
+    "extent" : "Baghdad bank",
+    "argMentionid" : "APW_ENG_20030417.0555-E52-209",
+    "start" : 4,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030417.0555-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "U.S. troops thwarted a Baghdad bank robbery over the protests of Iraqis eager to share in the loot .",
+  "sentence_index" : 1,
+  "Tokens" : [ "U.S.", "troops", "thwarted", "a", "Baghdad", "bank", "robbery", "over", "the", "protests", "of", "Iraqis", "eager", "to", "share", "in", "the", "loot", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the city's police academy",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the city's police academy",
+    "argMentionid" : "APW_ENG_20030417.0555-E69-116",
+    "start" : 4,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030417.0555-R2",
+  "mentionArg1" : {
+    "extent" : "the city's police",
+    "argMentionid" : "APW_ENG_20030417.0555-E118-190",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030417.0555-R2-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Baghdad residents gathered outside the city 's police academy when word spread that some of the cars looted in recent days had been recovered .",
+  "sentence_index" : 27,
+  "Tokens" : [ "Baghdad", "residents", "gathered", "outside", "the", "city", "'s", "police", "academy", "when", "word", "spread", "that", "some", "of", "the", "cars", "looted", "in", "recent", "days", "had", "been", "recovered", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "BAGHDAD, Iraq",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "APW_ENG_20030417.0555-E61-69",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "APW_ENG_20030417.0555-R3",
+  "mentionArg1" : {
+    "extent" : "BAGHDAD, Iraq",
+    "argMentionid" : "APW_ENG_20030417.0555-E23-1",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030417.0555-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "BAGHDAD , Iraq ( AP ) American commandos captured a half brother of Saddam Hussein on Thursday , the latest success in a campaign to round up insiders from the former regime .",
+  "sentence_index" : 0,
+  "Tokens" : [ "BAGHDAD", ",", "Iraq", "(", "AP", ")", "American", "commandos", "captured", "a", "half", "brother", "of", "Saddam", "Hussein", "on", "Thursday", ",", "the", "latest", "success", "in", "a", "campaign", "to", "round", "up", "insiders", "from", "the", "former", "regime", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "American commandos",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "APW_ENG_20030417.0555-E1-233",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030417.0555-R4",
+  "mentionArg1" : {
+    "extent" : "American commandos",
+    "argMentionid" : "APW_ENG_20030417.0555-E117-187",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030417.0555-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "BAGHDAD , Iraq ( AP ) American commandos captured a half brother of Saddam Hussein on Thursday , the latest success in a campaign to round up insiders from the former regime .",
+  "sentence_index" : 0,
+  "Tokens" : [ "BAGHDAD", ",", "Iraq", "(", "AP", ")", "American", "commandos", "captured", "a", "half", "brother", "of", "Saddam", "Hussein", "on", "Thursday", ",", "the", "latest", "success", "in", "a", "campaign", "to", "round", "up", "insiders", "from", "the", "former", "regime", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "a half brother of Saddam Hussein",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Saddam Hussein",
+    "argMentionid" : "APW_ENG_20030417.0555-E141-232",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030417.0555-R5",
+  "mentionArg1" : {
+    "extent" : "a half brother of Saddam Hussein",
+    "argMentionid" : "APW_ENG_20030417.0555-E36-193",
+    "start" : 9,
+    "end" : 14
+  },
+  "id" : "APW_ENG_20030417.0555-R5-1",
+  "relationSubType" : "Family",
+  "Sentence" : "BAGHDAD , Iraq ( AP ) American commandos captured a half brother of Saddam Hussein on Thursday , the latest success in a campaign to round up insiders from the former regime .",
+  "sentence_index" : 0,
+  "Tokens" : [ "BAGHDAD", ",", "Iraq", "(", "AP", ")", "American", "commandos", "captured", "a", "half", "brother", "of", "Saddam", "Hussein", "on", "Thursday", ",", "the", "latest", "success", "in", "a", "campaign", "to", "round", "up", "insiders", "from", "the", "former", "regime", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his half brother",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "his half brother",
+    "argMentionid" : "APW_ENG_20030417.0555-E141-57",
+    "start" : 32,
+    "end" : 34
+  },
+  "relationID" : "APW_ENG_20030417.0555-R5",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "APW_ENG_20030417.0555-E36-56",
+    "start" : 32,
+    "end" : 32
+  },
+  "id" : "APW_ENG_20030417.0555-R5-2",
+  "relationSubType" : "Family",
+  "Sentence" : "A U.S. intelligence official , speaking on condition of anonymity , said Barzan Ibrahim had been a presidential adviser to Saddam 's regime since 1998 , but had a shaky relationship with his half brother and was not part of the regime 's inner circle .",
+  "sentence_index" : 12,
+  "Tokens" : [ "A", "U.S.", "intelligence", "official", ",", "speaking", "on", "condition", "of", "anonymity", ",", "said", "Barzan", "Ibrahim", "had", "been", "a", "presidential", "adviser", "to", "Saddam", "'s", "regime", "since", "1998", ",", "but", "had", "a", "shaky", "relationship", "with", "his", "half", "brother", "and", "was", "not", "part", "of", "the", "regime", "'s", "inner", "circle", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "insiders from the former regime",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "the former regime",
+    "argMentionid" : "APW_ENG_20030417.0555-E101-235",
+    "start" : 29,
+    "end" : 31
+  },
+  "relationID" : "APW_ENG_20030417.0555-R6",
+  "mentionArg1" : {
+    "extent" : "insiders from the former regime",
+    "argMentionid" : "APW_ENG_20030417.0555-E147-234",
+    "start" : 27,
+    "end" : 31
+  },
+  "id" : "APW_ENG_20030417.0555-R6-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "BAGHDAD , Iraq ( AP ) American commandos captured a half brother of Saddam Hussein on Thursday , the latest success in a campaign to round up insiders from the former regime .",
+  "sentence_index" : 0,
+  "Tokens" : [ "BAGHDAD", ",", "Iraq", "(", "AP", ")", "American", "commandos", "captured", "a", "half", "brother", "of", "Saddam", "Hussein", "on", "Thursday", ",", "the", "latest", "success", "in", "a", "campaign", "to", "round", "up", "insiders", "from", "the", "former", "regime", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. troops",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030417.0555-E1-236",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030417.0555-R7",
+  "mentionArg1" : {
+    "extent" : "U.S. troops",
+    "argMentionid" : "APW_ENG_20030417.0555-E51-228",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030417.0555-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "U.S. troops thwarted a Baghdad bank robbery over the protests of Iraqis eager to share in the loot .",
+  "sentence_index" : 1,
+  "Tokens" : [ "U.S.", "troops", "thwarted", "a", "Baghdad", "bank", "robbery", "over", "the", "protests", "of", "Iraqis", "eager", "to", "share", "in", "the", "loot", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. forces",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030417.0555-E1-2",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030417.0555-R8",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "APW_ENG_20030417.0555-E140-223",
+    "start" : 1,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030417.0555-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "As U.S. forces struggled to restore order in Iraq , FBI Director Robert Mueller announced that agents had been detailed to help recover antiquities looted from museums in Baghdad and elsewhere .",
+  "sentence_index" : 2,
+  "Tokens" : [ "As", "U.S.", "forces", "struggled", "to", "restore", "order", "in", "Iraq", ",", "FBI", "Director", "Robert", "Mueller", "announced", "that", "agents", "had", "been", "detailed", "to", "help", "recover", "antiquities", "looted", "from", "museums", "in", "Baghdad", "and", "elsewhere", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "museums in Baghdad and elsewhere",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "APW_ENG_20030417.0555-E23-8",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "APW_ENG_20030417.0555-R9",
+  "mentionArg1" : {
+    "extent" : "museums in Baghdad and elsewhere",
+    "argMentionid" : "APW_ENG_20030417.0555-E4-7",
+    "start" : 26,
+    "end" : 30
+  },
+  "id" : "APW_ENG_20030417.0555-R9-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "As U.S. forces struggled to restore order in Iraq , FBI Director Robert Mueller announced that agents had been detailed to help recover antiquities looted from museums in Baghdad and elsewhere .",
+  "sentence_index" : 2,
+  "Tokens" : [ "As", "U.S.", "forces", "struggled", "to", "restore", "order", "in", "Iraq", ",", "FBI", "Director", "Robert", "Mueller", "announced", "that", "agents", "had", "been", "detailed", "to", "help", "recover", "antiquities", "looted", "from", "museums", "in", "Baghdad", "and", "elsewhere", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "The U.S. military",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030417.0555-E1-23",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030417.0555-R10",
+  "mentionArg1" : {
+    "extent" : "The U.S. military",
+    "argMentionid" : "APW_ENG_20030417.0555-E16-22",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030417.0555-R10-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The U.S. military 's search for chemical and biological weapons is unlikely to succeed until Iraqis lead American forces to them , Defense Secretary Donald H. Rumsfeld said Thursday .",
+  "sentence_index" : 6,
+  "Tokens" : [ "The", "U.S.", "military", "'s", "search", "for", "chemical", "and", "biological", "weapons", "is", "unlikely", "to", "succeed", "until", "Iraqis", "lead", "American", "forces", "to", "them", ",", "Defense", "Secretary", "Donald", "H.", "Rumsfeld", "said", "Thursday", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "American forces",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "APW_ENG_20030417.0555-E1-26",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030417.0555-R11",
+  "mentionArg1" : {
+    "extent" : "American forces",
+    "argMentionid" : "APW_ENG_20030417.0555-E132-213",
+    "start" : 17,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030417.0555-R11-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The U.S. military 's search for chemical and biological weapons is unlikely to succeed until Iraqis lead American forces to them , Defense Secretary Donald H. Rumsfeld said Thursday .",
+  "sentence_index" : 6,
+  "Tokens" : [ "The", "U.S.", "military", "'s", "search", "for", "chemical", "and", "biological", "weapons", "is", "unlikely", "to", "succeed", "until", "Iraqis", "lead", "American", "forces", "to", "them", ",", "Defense", "Secretary", "Donald", "H.", "Rumsfeld", "said", "Thursday", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Pentagon employees",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Pentagon",
+    "argMentionid" : "APW_ENG_20030417.0555-E25-34",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030417.0555-R12",
+  "mentionArg1" : {
+    "extent" : "Pentagon employees",
+    "argMentionid" : "APW_ENG_20030417.0555-E24-33",
+    "start" : 19,
+    "end" : 20
+  },
+  "id" : "APW_ENG_20030417.0555-R12-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "`` I do n't think we 'll discover anything , myself , '' Rumsfeld said at a meeting with Pentagon employees .",
+  "sentence_index" : 7,
+  "Tokens" : [ "``", "I", "do", "n't", "think", "we", "'ll", "discover", "anything", ",", "myself", ",", "''", "Rumsfeld", "said", "at", "a", "meeting", "with", "Pentagon", "employees", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. troops",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030417.0555-E1-40",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030417.0555-R13",
+  "mentionArg1" : {
+    "extent" : "U.S. troops",
+    "argMentionid" : "APW_ENG_20030417.0555-E27-39",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030417.0555-R13-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "U.S. troops have found suspicious chemicals and facilities at a number of sites but tests on the materials have proved negative or inconclusive .",
+  "sentence_index" : 9,
+  "Tokens" : [ "U.S.", "troops", "have", "found", "suspicious", "chemicals", "and", "facilities", "at", "a", "number", "of", "sites", "but", "tests", "on", "the", "materials", "have", "proved", "negative", "or", "inconclusive", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "an adviser to Saddam ``with extensive knowledge of the regime's inner workings",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Saddam",
+    "argMentionid" : "APW_ENG_20030417.0555-E141-48",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "APW_ENG_20030417.0555-R14",
+  "mentionArg1" : {
+    "extent" : "an adviser to Saddam ``with extensive knowledge of the regime's inner workings",
+    "argMentionid" : "APW_ENG_20030417.0555-E36-208",
+    "start" : 17,
+    "end" : 30
+  },
+  "id" : "APW_ENG_20030417.0555-R14-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Brig. Gen. Vincent Brooks announced the capture of Barzan Ibrahim Hasan al-Tikriti , telling reporters he was an adviser to Saddam `` with extensive knowledge of the regime 's inner workings . ''",
+  "sentence_index" : 11,
+  "Tokens" : [ "Brig.", "Gen.", "Vincent", "Brooks", "announced", "the", "capture", "of", "Barzan", "Ibrahim", "Hasan", "al-Tikriti", ",", "telling", "reporters", "he", "was", "an", "adviser", "to", "Saddam", "``", "with", "extensive", "knowledge", "of", "the", "regime", "'s", "inner", "workings", ".", "''" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "A U.S. intelligence official",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030417.0555-E1-50",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030417.0555-R15",
+  "mentionArg1" : {
+    "extent" : "A U.S. intelligence official",
+    "argMentionid" : "APW_ENG_20030417.0555-E34-49",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "APW_ENG_20030417.0555-R15-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "A U.S. intelligence official , speaking on condition of anonymity , said Barzan Ibrahim had been a presidential adviser to Saddam 's regime since 1998 , but had a shaky relationship with his half brother and was not part of the regime 's inner circle .",
+  "sentence_index" : 12,
+  "Tokens" : [ "A", "U.S.", "intelligence", "official", ",", "speaking", "on", "condition", "of", "anonymity", ",", "said", "Barzan", "Ibrahim", "had", "been", "a", "presidential", "adviser", "to", "Saddam", "'s", "regime", "since", "1998", ",", "but", "had", "a", "shaky", "relationship", "with", "his", "half", "brother", "and", "was", "not", "part", "of", "the", "regime", "'s", "inner", "circle", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a presidential adviser to Saddam's regime since 1998",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "Saddam's regime",
+    "argMentionid" : "APW_ENG_20030417.0555-E101-54",
+    "start" : 20,
+    "end" : 22
+  },
+  "relationID" : "APW_ENG_20030417.0555-R16",
+  "mentionArg1" : {
+    "extent" : "a presidential adviser to Saddam's regime since 1998",
+    "argMentionid" : "APW_ENG_20030417.0555-E36-53",
+    "start" : 16,
+    "end" : 24
+  },
+  "id" : "APW_ENG_20030417.0555-R16-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "A U.S. intelligence official , speaking on condition of anonymity , said Barzan Ibrahim had been a presidential adviser to Saddam 's regime since 1998 , but had a shaky relationship with his half brother and was not part of the regime 's inner circle .",
+  "sentence_index" : 12,
+  "Tokens" : [ "A", "U.S.", "intelligence", "official", ",", "speaking", "on", "condition", "of", "anonymity", ",", "said", "Barzan", "Ibrahim", "had", "been", "a", "presidential", "adviser", "to", "Saddam", "'s", "regime", "since", "1998", ",", "but", "had", "a", "shaky", "relationship", "with", "his", "half", "brother", "and", "was", "not", "part", "of", "the", "regime", "'s", "inner", "circle", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a representative to the United Nations in Geneva from 1989 to 1998",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "the United Nations",
+    "argMentionid" : "APW_ENG_20030417.0555-E39-64",
+    "start" : 5,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030417.0555-R18",
+  "mentionArg1" : {
+    "extent" : "a representative to the United Nations in Geneva from 1989 to 1998",
+    "argMentionid" : "APW_ENG_20030417.0555-E36-63",
+    "start" : 2,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030417.0555-R18-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "He was a representative to the United Nations in Geneva from 1989 to 1998 .",
+  "sentence_index" : 13,
+  "Tokens" : [ "He", "was", "a", "representative", "to", "the", "United", "Nations", "in", "Geneva", "from", "1989", "to", "1998", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Earlier, from 1979 to 1983, he headed Iraq's Mukhabarat, or intelligence service, a period when the organization arranged executions of regime opponents in Iraq and overseas, the official said",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "Iraq's Mukhabarat",
+    "argMentionid" : "APW_ENG_20030417.0555-E41-67",
+    "start" : 9,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030417.0555-R19",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "APW_ENG_20030417.0555-E36-66",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030417.0555-R19-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Earlier , from 1979 to 1983 , he headed Iraq 's Mukhabarat , or intelligence service , a period when the organization arranged executions of regime opponents in Iraq and overseas , the official said .",
+  "sentence_index" : 14,
+  "Tokens" : [ "Earlier", ",", "from", "1979", "to", "1983", ",", "he", "headed", "Iraq", "'s", "Mukhabarat", ",", "or", "intelligence", "service", ",", "a", "period", "when", "the", "organization", "arranged", "executions", "of", "regime", "opponents", "in", "Iraq", "and", "overseas", ",", "the", "official", "said", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iraq's Mukhabarat",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "APW_ENG_20030417.0555-E61-70",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030417.0555-R20",
+  "mentionArg1" : {
+    "extent" : "Iraq's Mukhabarat",
+    "argMentionid" : "APW_ENG_20030417.0555-E41-67",
+    "start" : 9,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030417.0555-R20-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Earlier , from 1979 to 1983 , he headed Iraq 's Mukhabarat , or intelligence service , a period when the organization arranged executions of regime opponents in Iraq and overseas , the official said .",
+  "sentence_index" : 14,
+  "Tokens" : [ "Earlier", ",", "from", "1979", "to", "1983", ",", "he", "headed", "Iraq", "'s", "Mukhabarat", ",", "or", "intelligence", "service", ",", "a", "period", "when", "the", "organization", "arranged", "executions", "of", "regime", "opponents", "in", "Iraq", "and", "overseas", ",", "the", "official", "said", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Saddam's three half brothers",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Saddam",
+    "argMentionid" : "APW_ENG_20030417.0555-E141-85",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "APW_ENG_20030417.0555-R21",
+  "mentionArg1" : {
+    "extent" : "Saddam's three half brothers",
+    "argMentionid" : "APW_ENG_20030417.0555-E46-84",
+    "start" : 2,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030417.0555-R21-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Another of Saddam 's three half brothers , Watban Ibrahim Hasan al-Tikriti , was captured earlier by U.S. forces .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Another", "of", "Saddam", "'s", "three", "half", "brothers", ",", "Watban", "Ibrahim", "Hasan", "al-Tikriti", ",", "was", "captured", "earlier", "by", "U.S.", "forces", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "American forces",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "APW_ENG_20030417.0555-E1-90",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030417.0555-R22",
+  "mentionArg1" : {
+    "extent" : "American forces",
+    "argMentionid" : "APW_ENG_20030417.0555-E135-216",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030417.0555-R22-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "American forces have been criticized for failing to stop looting in several Baghdad cities , and there have been complaints , as well , that humanitarian relief has been slow in arriving .",
+  "sentence_index" : 19,
+  "Tokens" : [ "American", "forces", "have", "been", "criticized", "for", "failing", "to", "stop", "looting", "in", "several", "Baghdad", "cities", ",", "and", "there", "have", "been", "complaints", ",", "as", "well", ",", "that", "humanitarian", "relief", "has", "been", "slow", "in", "arriving", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "several Baghdad cities",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "APW_ENG_20030417.0555-E23-114",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030417.0555-R23",
+  "mentionArg1" : {
+    "extent" : "several Baghdad cities",
+    "argMentionid" : "APW_ENG_20030417.0555-E50-91",
+    "start" : 11,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030417.0555-R23-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "American forces have been criticized for failing to stop looting in several Baghdad cities , and there have been complaints , as well , that humanitarian relief has been slow in arriving .",
+  "sentence_index" : 19,
+  "Tokens" : [ "American", "forces", "have", "been", "criticized", "for", "failing", "to", "stop", "looting", "in", "several", "Baghdad", "cities", ",", "and", "there", "have", "been", "complaints", ",", "as", "well", ",", "that", "humanitarian", "relief", "has", "been", "slow", "in", "arriving", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a branch of the al-Rashid Bank",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "a branch of the al-Rashid Bank",
+    "argMentionid" : "APW_ENG_20030417.0555-E52-94",
+    "start" : 17,
+    "end" : 22
+  },
+  "relationID" : "APW_ENG_20030417.0555-R24",
+  "mentionArg1" : {
+    "extent" : "the al-Rashid Bank",
+    "argMentionid" : "APW_ENG_20030417.0555-E53-95",
+    "start" : 20,
+    "end" : 22
+  },
+  "id" : "APW_ENG_20030417.0555-R24-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "But Marines foiled a brazen act of lawlessness during the day when they interrupted a robbery-in-progress at a branch of the al-Rashid Bank and took away US $ 4 million for safekeeping .",
+  "sentence_index" : 20,
+  "Tokens" : [ "But", "Marines", "foiled", "a", "brazen", "act", "of", "lawlessness", "during", "the", "day", "when", "they", "interrupted", "a", "robbery-in-progress", "at", "a", "branch", "of", "the", "al-Rashid", "Bank", "and", "took", "away", "US", "$", "4", "million", "for", "safekeeping", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Baghdad residents",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "APW_ENG_20030417.0555-E23-113",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030417.0555-R25",
+  "mentionArg1" : {
+    "extent" : "Baghdad residents",
+    "argMentionid" : "APW_ENG_20030417.0555-E66-112",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030417.0555-R25-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Baghdad residents gathered outside the city 's police academy when word spread that some of the cars looted in recent days had been recovered .",
+  "sentence_index" : 27,
+  "Tokens" : [ "Baghdad", "residents", "gathered", "outside", "the", "city", "'s", "police", "academy", "when", "word", "spread", "that", "some", "of", "the", "cars", "looted", "in", "recent", "days", "had", "been", "recovered", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the city's police",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the city",
+    "argMentionid" : "APW_ENG_20030417.0555-E23-115",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030417.0555-R26",
+  "mentionArg1" : {
+    "extent" : "the city's police",
+    "argMentionid" : "APW_ENG_20030417.0555-E118-190",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030417.0555-R26-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Baghdad residents gathered outside the city 's police academy when word spread that some of the cars looted in recent days had been recovered .",
+  "sentence_index" : 27,
+  "Tokens" : [ "Baghdad", "residents", "gathered", "outside", "the", "city", "'s", "police", "academy", "when", "word", "spread", "that", "some", "of", "the", "cars", "looted", "in", "recent", "days", "had", "been", "recovered", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "only about 500 homes in Baghdad, a city of roughly 5 million",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "APW_ENG_20030417.0555-E23-125",
+    "start" : 34,
+    "end" : 34
+  },
+  "relationID" : "APW_ENG_20030417.0555-R27",
+  "mentionArg1" : {
+    "extent" : "only about 500 homes in Baghdad, a city of roughly 5 million",
+    "argMentionid" : "APW_ENG_20030417.0555-E75-123",
+    "start" : 29,
+    "end" : 41
+  },
+  "id" : "APW_ENG_20030417.0555-R27-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Still , more than a week after the regime collapsed , Marine Staff Sgt. Jose Guillen said power has been restored _ by use of diesel plants _ to only about 500 homes in Baghdad , a city of roughly 5 million .",
+  "sentence_index" : 28,
+  "Tokens" : [ "Still", ",", "more", "than", "a", "week", "after", "the", "regime", "collapsed", ",", "Marine", "Staff", "Sgt.", "Jose", "Guillen", "said", "power", "has", "been", "restored", "_", "by", "use", "of", "diesel", "plants", "_", "to", "only", "about", "500", "homes", "in", "Baghdad", ",", "a", "city", "of", "roughly", "5", "million", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. forces",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030417.0555-E1-128",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "APW_ENG_20030417.0555-R28",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "APW_ENG_20030417.0555-E136-217",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "APW_ENG_20030417.0555-R28-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "He said U.S. forces expect to get one of the city 's power grids on line by Friday .",
+  "sentence_index" : 29,
+  "Tokens" : [ "He", "said", "U.S.", "forces", "expect", "to", "get", "one", "of", "the", "city", "'s", "power", "grids", "on", "line", "by", "Friday", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. troops",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030417.0555-E1-191",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030417.0555-R29",
+  "mentionArg1" : {
+    "extent" : "U.S. troops",
+    "argMentionid" : "APW_ENG_20030417.0555-E80-134",
+    "start" : 9,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030417.0555-R29-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Americans sought to bring calm to Mosul , where U.S. troops killed 17 people in clashes earlier in the week .",
+  "sentence_index" : 31,
+  "Tokens" : [ "Americans", "sought", "to", "bring", "calm", "to", "Mosul", ",", "where", "U.S.", "troops", "killed", "17", "people", "in", "clashes", "earlier", "in", "the", "week", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "reporters at the U.S. Central Command headquarters",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "the U.S. Central Command headquarters",
+    "argMentionid" : "APW_ENG_20030417.0555-E82-137",
+    "start" : 5,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030417.0555-R30",
+  "mentionArg1" : {
+    "extent" : "reporters at the U.S. Central Command headquarters",
+    "argMentionid" : "APW_ENG_20030417.0555-E123-230",
+    "start" : 3,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030417.0555-R30-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Brooks , briefing reporters at the U.S. Central Command headquarters , also disclosed that Marines had broken up violent clashes on Wednesday in Tikrit , Saddam 's hometown .",
+  "sentence_index" : 32,
+  "Tokens" : [ "Brooks", ",", "briefing", "reporters", "at", "the", "U.S.", "Central", "Command", "headquarters", ",", "also", "disclosed", "that", "Marines", "had", "broken", "up", "violent", "clashes", "on", "Wednesday", "in", "Tikrit", ",", "Saddam", "'s", "hometown", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Saddam's hometown",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Saddam's hometown",
+    "argMentionid" : "APW_ENG_20030417.0555-E84-141",
+    "start" : 25,
+    "end" : 27
+  },
+  "relationID" : "APW_ENG_20030417.0555-R31",
+  "mentionArg1" : {
+    "extent" : "Saddam",
+    "argMentionid" : "APW_ENG_20030417.0555-E141-142",
+    "start" : 25,
+    "end" : 25
+  },
+  "id" : "APW_ENG_20030417.0555-R31-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Brooks , briefing reporters at the U.S. Central Command headquarters , also disclosed that Marines had broken up violent clashes on Wednesday in Tikrit , Saddam 's hometown .",
+  "sentence_index" : 32,
+  "Tokens" : [ "Brooks", ",", "briefing", "reporters", "at", "the", "U.S.", "Central", "Command", "headquarters", ",", "also", "disclosed", "that", "Marines", "had", "broken", "up", "violent", "clashes", "on", "Wednesday", "in", "Tikrit", ",", "Saddam", "'s", "hometown", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Arabs in the northern part of the country",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the northern part of the country",
+    "argMentionid" : "APW_ENG_20030417.0555-E94-157",
+    "start" : 18,
+    "end" : 23
+  },
+  "relationID" : "APW_ENG_20030417.0555-R32",
+  "mentionArg1" : {
+    "extent" : "Arabs in the northern part of the country",
+    "argMentionid" : "APW_ENG_20030417.0555-E93-156",
+    "start" : 16,
+    "end" : 23
+  },
+  "id" : "APW_ENG_20030417.0555-R32-1",
+  "relationSubType" : "Located",
+  "Sentence" : "And Kurds are eager to claim what they say Saddam took from them and gave to Arabs in the northern part of the country .",
+  "sentence_index" : 36,
+  "Tokens" : [ "And", "Kurds", "are", "eager", "to", "claim", "what", "they", "say", "Saddam", "took", "from", "them", "and", "gave", "to", "Arabs", "in", "the", "northern", "part", "of", "the", "country", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a University of Chicago professor",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "University of Chicago",
+    "argMentionid" : "APW_ENG_20030417.0555-E137-218",
+    "start" : 21,
+    "end" : 23
+  },
+  "relationID" : "APW_ENG_20030417.0555-R33",
+  "mentionArg1" : {
+    "extent" : "a University of Chicago professor",
+    "argMentionid" : "APW_ENG_20030417.0555-E106-171",
+    "start" : 20,
+    "end" : 24
+  },
+  "id" : "APW_ENG_20030417.0555-R33-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "`` It looks as if part of the looting was a deliberate planned action , '' said McGuire Gibson , a University of Chicago professor and president of the American Association for Research in Baghdad .",
+  "sentence_index" : 40,
+  "Tokens" : [ "``", "It", "looks", "as", "if", "part", "of", "the", "looting", "was", "a", "deliberate", "planned", "action", ",", "''", "said", "McGuire", "Gibson", ",", "a", "University", "of", "Chicago", "professor", "and", "president", "of", "the", "American", "Association", "for", "Research", "in", "Baghdad", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "president of the American Association for Research in Baghdad",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "the American Association for Research in Baghdad",
+    "argMentionid" : "APW_ENG_20030417.0555-E121-194",
+    "start" : 28,
+    "end" : 34
+  },
+  "relationID" : "APW_ENG_20030417.0555-R34",
+  "mentionArg1" : {
+    "extent" : "president of the American Association for Research in Baghdad",
+    "argMentionid" : "APW_ENG_20030417.0555-E106-172",
+    "start" : 26,
+    "end" : 34
+  },
+  "id" : "APW_ENG_20030417.0555-R34-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "`` It looks as if part of the looting was a deliberate planned action , '' said McGuire Gibson , a University of Chicago professor and president of the American Association for Research in Baghdad .",
+  "sentence_index" : 40,
+  "Tokens" : [ "``", "It", "looks", "as", "if", "part", "of", "the", "looting", "was", "a", "deliberate", "planned", "action", ",", "''", "said", "McGuire", "Gibson", ",", "a", "University", "of", "Chicago", "professor", "and", "president", "of", "the", "American", "Association", "for", "Research", "in", "Baghdad", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the area around the Tigris and Euphrates rivers",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "the area around the Tigris and Euphrates rivers",
+    "argMentionid" : "APW_ENG_20030417.0555-E113-185",
+    "start" : 21,
+    "end" : 28
+  },
+  "relationID" : "APW_ENG_20030417.0555-R35",
+  "mentionArg1" : {
+    "extent" : "the Tigris and Euphrates rivers",
+    "argMentionid" : "APW_ENG_20030417.0555-E115-186",
+    "start" : 24,
+    "end" : 28
+  },
+  "id" : "APW_ENG_20030417.0555-R35-1",
+  "relationSubType" : "Near",
+  "Sentence" : "The Baghdad museum housed irreplaceable Babylonian , Sumerian and Assyrian collections that chronicled ancient life in the cradle of civilization , the area around the Tigris and Euphrates rivers .",
+  "sentence_index" : 43,
+  "Tokens" : [ "The", "Baghdad", "museum", "housed", "irreplaceable", "Babylonian", ",", "Sumerian", "and", "Assyrian", "collections", "that", "chronicled", "ancient", "life", "in", "the", "cradle", "of", "civilization", ",", "the", "area", "around", "the", "Tigris", "and", "Euphrates", "rivers", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "FBI Director",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "FBI",
+    "argMentionid" : "APW_ENG_20030417.0555-E3-5",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030417.0555-R36",
+  "mentionArg1" : {
+    "extent" : "FBI Director",
+    "argMentionid" : "APW_ENG_20030417.0555-E2-188",
+    "start" : 10,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030417.0555-R36-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "As U.S. forces struggled to restore order in Iraq , FBI Director Robert Mueller announced that agents had been detailed to help recover antiquities looted from museums in Baghdad and elsewhere .",
+  "sentence_index" : 2,
+  "Tokens" : [ "As", "U.S.", "forces", "struggled", "to", "restore", "order", "in", "Iraq", ",", "FBI", "Director", "Robert", "Mueller", "announced", "that", "agents", "had", "been", "detailed", "to", "help", "recover", "antiquities", "looted", "from", "museums", "in", "Baghdad", "and", "elsewhere", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "museums in Baghdad and elsewhere",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "elsewhere",
+    "argMentionid" : "APW_ENG_20030417.0555-E5-9",
+    "start" : 30,
+    "end" : 30
+  },
+  "relationID" : "APW_ENG_20030417.0555-R37",
+  "mentionArg1" : {
+    "extent" : "museums in Baghdad and elsewhere",
+    "argMentionid" : "APW_ENG_20030417.0555-E4-7",
+    "start" : 26,
+    "end" : 30
+  },
+  "id" : "APW_ENG_20030417.0555-R37-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "As U.S. forces struggled to restore order in Iraq , FBI Director Robert Mueller announced that agents had been detailed to help recover antiquities looted from museums in Baghdad and elsewhere .",
+  "sentence_index" : 2,
+  "Tokens" : [ "As", "U.S.", "forces", "struggled", "to", "restore", "order", "in", "Iraq", ",", "FBI", "Director", "Robert", "Mueller", "announced", "that", "agents", "had", "been", "detailed", "to", "help", "recover", "antiquities", "looted", "from", "museums", "in", "Baghdad", "and", "elsewhere", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Saddam's regime",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "Saddam's regime",
+    "argMentionid" : "APW_ENG_20030417.0555-E101-54",
+    "start" : 20,
+    "end" : 22
+  },
+  "relationID" : "APW_ENG_20030417.0555-R38",
+  "mentionArg1" : {
+    "extent" : "Saddam",
+    "argMentionid" : "APW_ENG_20030417.0555-E141-55",
+    "start" : 20,
+    "end" : 20
+  },
+  "id" : "APW_ENG_20030417.0555-R38-1",
+  "relationSubType" : "Founder",
+  "Sentence" : "A U.S. intelligence official , speaking on condition of anonymity , said Barzan Ibrahim had been a presidential adviser to Saddam 's regime since 1998 , but had a shaky relationship with his half brother and was not part of the regime 's inner circle .",
+  "sentence_index" : 12,
+  "Tokens" : [ "A", "U.S.", "intelligence", "official", ",", "speaking", "on", "condition", "of", "anonymity", ",", "said", "Barzan", "Ibrahim", "had", "been", "a", "presidential", "adviser", "to", "Saddam", "'s", "regime", "since", "1998", ",", "but", "had", "a", "shaky", "relationship", "with", "his", "half", "brother", "and", "was", "not", "part", "of", "the", "regime", "'s", "inner", "circle", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the regime's inner circle",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "the regime",
+    "argMentionid" : "APW_ENG_20030417.0555-E101-58",
+    "start" : 40,
+    "end" : 41
+  },
+  "relationID" : "APW_ENG_20030417.0555-R39",
+  "mentionArg1" : {
+    "extent" : "the regime's inner circle",
+    "argMentionid" : "APW_ENG_20030417.0555-E147-225",
+    "start" : 40,
+    "end" : 44
+  },
+  "id" : "APW_ENG_20030417.0555-R39-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "A U.S. intelligence official , speaking on condition of anonymity , said Barzan Ibrahim had been a presidential adviser to Saddam 's regime since 1998 , but had a shaky relationship with his half brother and was not part of the regime 's inner circle .",
+  "sentence_index" : 12,
+  "Tokens" : [ "A", "U.S.", "intelligence", "official", ",", "speaking", "on", "condition", "of", "anonymity", ",", "said", "Barzan", "Ibrahim", "had", "been", "a", "presidential", "adviser", "to", "Saddam", "'s", "regime", "since", "1998", ",", "but", "had", "a", "shaky", "relationship", "with", "his", "half", "brother", "and", "was", "not", "part", "of", "the", "regime", "'s", "inner", "circle", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the United Nations in Geneva",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "Geneva",
+    "argMentionid" : "APW_ENG_20030417.0555-E40-65",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030417.0555-R40",
+  "mentionArg1" : {
+    "extent" : "the United Nations",
+    "argMentionid" : "APW_ENG_20030417.0555-E39-64",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030417.0555-R40-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "He was a representative to the United Nations in Geneva from 1989 to 1998 .",
+  "sentence_index" : 13,
+  "Tokens" : [ "He", "was", "a", "representative", "to", "the", "United", "Nations", "in", "Geneva", "from", "1989", "to", "1998", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "regime opponents in Iraq and overseas",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "APW_ENG_20030417.0555-E61-74",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "APW_ENG_20030417.0555-R41",
+  "mentionArg1" : {
+    "extent" : "regime opponents in Iraq and overseas",
+    "argMentionid" : "APW_ENG_20030417.0555-E42-72",
+    "start" : 25,
+    "end" : 30
+  },
+  "id" : "APW_ENG_20030417.0555-R41-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Earlier , from 1979 to 1983 , he headed Iraq 's Mukhabarat , or intelligence service , a period when the organization arranged executions of regime opponents in Iraq and overseas , the official said .",
+  "sentence_index" : 14,
+  "Tokens" : [ "Earlier", ",", "from", "1979", "to", "1983", ",", "he", "headed", "Iraq", "'s", "Mukhabarat", ",", "or", "intelligence", "service", ",", "a", "period", "when", "the", "organization", "arranged", "executions", "of", "regime", "opponents", "in", "Iraq", "and", "overseas", ",", "the", "official", "said", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Brooks provided scant details of the operation that netted Barzan Ibrahim, saying he was taken inside Baghdad and that U.S. special forces were aided by Marines",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "APW_ENG_20030417.0555-E23-79",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030417.0555-R42",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "APW_ENG_20030417.0555-E36-78",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030417.0555-R42-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Brooks provided scant details of the operation that netted Barzan Ibrahim , saying he was taken inside Baghdad and that U.S. special forces were aided by Marines .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Brooks", "provided", "scant", "details", "of", "the", "operation", "that", "netted", "Barzan", "Ibrahim", ",", "saying", "he", "was", "taken", "inside", "Baghdad", "and", "that", "U.S.", "special", "forces", "were", "aided", "by", "Marines", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. special forces",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030417.0555-E1-206",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "APW_ENG_20030417.0555-R43",
+  "mentionArg1" : {
+    "extent" : "U.S. special forces",
+    "argMentionid" : "APW_ENG_20030417.0555-E43-80",
+    "start" : 20,
+    "end" : 22
+  },
+  "id" : "APW_ENG_20030417.0555-R43-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Brooks provided scant details of the operation that netted Barzan Ibrahim , saying he was taken inside Baghdad and that U.S. special forces were aided by Marines .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Brooks", "provided", "scant", "details", "of", "the", "operation", "that", "netted", "Barzan", "Ibrahim", ",", "saying", "he", "was", "taken", "inside", "Baghdad", "and", "that", "U.S.", "special", "forces", "were", "aided", "by", "Marines", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. forces",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030417.0555-E1-200",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030417.0555-R44",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "APW_ENG_20030417.0555-E152-87",
+    "start" : 17,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030417.0555-R44-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Another of Saddam 's three half brothers , Watban Ibrahim Hasan al-Tikriti , was captured earlier by U.S. forces .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Another", "of", "Saddam", "'s", "three", "half", "brothers", ",", "Watban", "Ibrahim", "Hasan", "al-Tikriti", ",", "was", "captured", "earlier", "by", "U.S.", "forces", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Thieves had blown a hole in the vault and dropped children in to bring out fistfuls of cash",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "the vault",
+    "argMentionid" : "APW_ENG_20030417.0555-E124-197",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030417.0555-R45",
+  "mentionArg1" : {
+    "extent" : "children",
+    "argMentionid" : "APW_ENG_20030417.0555-E55-97",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030417.0555-R45-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Thieves had blown a hole in the vault and dropped children in to bring out fistfuls of cash .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Thieves", "had", "blown", "a", "hole", "in", "the", "vault", "and", "dropped", "children", "in", "to", "bring", "out", "fistfuls", "of", "cash", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Gen. Tommy Franks, the commander of Operation Iraqi Freedom, told reporters during a visit to Kuwait that ``the looting goes down every day and I think you will continue to see it go down because the Iraqis are now stepping up and controlling the problems for themselves",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "Kuwait",
+    "argMentionid" : "APW_ENG_20030417.0555-E64-109",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030417.0555-R46",
+  "mentionArg1" : {
+    "extent" : "Gen. Tommy Franks",
+    "argMentionid" : "APW_ENG_20030417.0555-E59-105",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030417.0555-R46-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Gen. Tommy Franks , the commander of Operation Iraqi Freedom , told reporters during a visit to Kuwait that `` the looting goes down every day and I think you will continue to see it go down because the Iraqis are now stepping up and controlling the problems for themselves . ''",
+  "sentence_index" : 25,
+  "Tokens" : [ "Gen.", "Tommy", "Franks", ",", "the", "commander", "of", "Operation", "Iraqi", "Freedom", ",", "told", "reporters", "during", "a", "visit", "to", "Kuwait", "that", "``", "the", "looting", "goes", "down", "every", "day", "and", "I", "think", "you", "will", "continue", "to", "see", "it", "go", "down", "because", "the", "Iraqis", "are", "now", "stepping", "up", "and", "controlling", "the", "problems", "for", "themselves", ".", "''" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Marine Staff Sgt",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "Marine",
+    "argMentionid" : "APW_ENG_20030417.0555-E143-227",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030417.0555-R47",
+  "mentionArg1" : {
+    "extent" : "Marine Staff Sgt",
+    "argMentionid" : "APW_ENG_20030417.0555-E72-121",
+    "start" : 11,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030417.0555-R47-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Still , more than a week after the regime collapsed , Marine Staff Sgt. Jose Guillen said power has been restored _ by use of diesel plants _ to only about 500 homes in Baghdad , a city of roughly 5 million .",
+  "sentence_index" : 28,
+  "Tokens" : [ "Still", ",", "more", "than", "a", "week", "after", "the", "regime", "collapsed", ",", "Marine", "Staff", "Sgt.", "Jose", "Guillen", "said", "power", "has", "been", "restored", "_", "by", "use", "of", "diesel", "plants", "_", "to", "only", "about", "500", "homes", "in", "Baghdad", ",", "a", "city", "of", "roughly", "5", "million", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "other parts of the country",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "the country",
+    "argMentionid" : "APW_ENG_20030417.0555-E61-130",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030417.0555-R48",
+  "mentionArg1" : {
+    "extent" : "other parts of the country",
+    "argMentionid" : "APW_ENG_20030417.0555-E126-199",
+    "start" : 3,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030417.0555-R48-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Unrest continued in other parts of the country .",
+  "sentence_index" : 30,
+  "Tokens" : [ "Unrest", "continued", "in", "other", "parts", "of", "the", "country", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Americans sought to bring calm to Mosul, where U.S. troops killed 17 people in clashes earlier in the week",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "where",
+    "argMentionid" : "APW_ENG_20030417.0555-E79-133",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030417.0555-R49",
+  "mentionArg1" : {
+    "extent" : "U.S. troops",
+    "argMentionid" : "APW_ENG_20030417.0555-E80-134",
+    "start" : 9,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030417.0555-R49-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Americans sought to bring calm to Mosul , where U.S. troops killed 17 people in clashes earlier in the week .",
+  "sentence_index" : 31,
+  "Tokens" : [ "Americans", "sought", "to", "bring", "calm", "to", "Mosul", ",", "where", "U.S.", "troops", "killed", "17", "people", "in", "clashes", "earlier", "in", "the", "week", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Brooks, briefing reporters at the U.S. Central Command headquarters, also disclosed that Marines had broken up violent clashes on Wednesday in Tikrit, Saddam's hometown",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Tikrit",
+    "argMentionid" : "APW_ENG_20030417.0555-E84-140",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "APW_ENG_20030417.0555-R50",
+  "mentionArg1" : {
+    "extent" : "Marines",
+    "argMentionid" : "APW_ENG_20030417.0555-E83-139",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "APW_ENG_20030417.0555-R50-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Brooks , briefing reporters at the U.S. Central Command headquarters , also disclosed that Marines had broken up violent clashes on Wednesday in Tikrit , Saddam 's hometown .",
+  "sentence_index" : 32,
+  "Tokens" : [ "Brooks", ",", "briefing", "reporters", "at", "the", "U.S.", "Central", "Command", "headquarters", ",", "also", "disclosed", "that", "Marines", "had", "broken", "up", "violent", "clashes", "on", "Wednesday", "in", "Tikrit", ",", "Saddam", "'s", "hometown", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the U.S. Central Command headquarters",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "the U.S. Central Command headquarters",
+    "argMentionid" : "APW_ENG_20030417.0555-E82-137",
+    "start" : 5,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030417.0555-R51",
+  "mentionArg1" : {
+    "extent" : "U.S. Central Command",
+    "argMentionid" : "APW_ENG_20030417.0555-E138-220",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030417.0555-R51-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Brooks , briefing reporters at the U.S. Central Command headquarters , also disclosed that Marines had broken up violent clashes on Wednesday in Tikrit , Saddam 's hometown .",
+  "sentence_index" : 32,
+  "Tokens" : [ "Brooks", ",", "briefing", "reporters", "at", "the", "U.S.", "Central", "Command", "headquarters", ",", "also", "disclosed", "that", "Marines", "had", "broken", "up", "violent", "clashes", "on", "Wednesday", "in", "Tikrit", ",", "Saddam", "'s", "hometown", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "club-wielding members of the former ruler's clan and a rival group",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "the former ruler's clan",
+    "argMentionid" : "APW_ENG_20030417.0555-E87-144",
+    "start" : 8,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030417.0555-R52",
+  "mentionArg1" : {
+    "extent" : "club-wielding members of the former ruler's clan",
+    "argMentionid" : "APW_ENG_20030417.0555-E86-143",
+    "start" : 5,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030417.0555-R52-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The fighting broke out between club-wielding members of the former ruler 's clan and a rival group , he said .",
+  "sentence_index" : 33,
+  "Tokens" : [ "The", "fighting", "broke", "out", "between", "club-wielding", "members", "of", "the", "former", "ruler", "'s", "clan", "and", "a", "rival", "group", ",", "he", "said", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "club-wielding members of the former ruler's clan and a rival group",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "club",
+    "argMentionid" : "APW_ENG_20030417.0555-E139-222",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030417.0555-R53",
+  "mentionArg1" : {
+    "extent" : "club-wielding members of the former ruler's clan",
+    "argMentionid" : "APW_ENG_20030417.0555-E86-143",
+    "start" : 5,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030417.0555-R53-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The fighting broke out between club-wielding members of the former ruler 's clan and a rival group , he said .",
+  "sentence_index" : 33,
+  "Tokens" : [ "The", "fighting", "broke", "out", "between", "club-wielding", "members", "of", "the", "former", "ruler", "'s", "clan", "and", "a", "rival", "group", ",", "he", "said", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the former ruler's clan",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "the former ruler's clan",
+    "argMentionid" : "APW_ENG_20030417.0555-E87-144",
+    "start" : 8,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030417.0555-R54",
+  "mentionArg1" : {
+    "extent" : "the former ruler",
+    "argMentionid" : "APW_ENG_20030417.0555-E141-145",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030417.0555-R54-1",
+  "relationSubType" : "Family",
+  "Sentence" : "The fighting broke out between club-wielding members of the former ruler 's clan and a rival group , he said .",
+  "sentence_index" : 33,
+  "Tokens" : [ "The", "fighting", "broke", "out", "between", "club-wielding", "members", "of", "the", "former", "ruler", "'s", "clan", "and", "a", "rival", "group", ",", "he", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the northern part of the country",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the country",
+    "argMentionid" : "APW_ENG_20030417.0555-E61-158",
+    "start" : 22,
+    "end" : 23
+  },
+  "relationID" : "APW_ENG_20030417.0555-R55",
+  "mentionArg1" : {
+    "extent" : "the northern part of the country",
+    "argMentionid" : "APW_ENG_20030417.0555-E94-157",
+    "start" : 18,
+    "end" : 23
+  },
+  "id" : "APW_ENG_20030417.0555-R55-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "And Kurds are eager to claim what they say Saddam took from them and gave to Arabs in the northern part of the country .",
+  "sentence_index" : 36,
+  "Tokens" : [ "And", "Kurds", "are", "eager", "to", "claim", "what", "they", "say", "Saddam", "took", "from", "them", "and", "gave", "to", "Arabs", "in", "the", "northern", "part", "of", "the", "country", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "International experts, appalled at the looting of Iraqi historical artifacts, met in Paris under U.N. auspices and called for a temporary embargo on Iraqi cultural objects",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Paris",
+    "argMentionid" : "APW_ENG_20030417.0555-E97-161",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030417.0555-R56",
+  "mentionArg1" : {
+    "extent" : "International experts, appalled at the looting of Iraqi historical artifacts",
+    "argMentionid" : "APW_ENG_20030417.0555-E95-159",
+    "start" : 0,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030417.0555-R56-1",
+  "relationSubType" : "Located",
+  "Sentence" : "International experts , appalled at the looting of Iraqi historical artifacts , met in Paris under U.N. auspices and called for a temporary embargo on Iraqi cultural objects .",
+  "sentence_index" : 37,
+  "Tokens" : [ "International", "experts", ",", "appalled", "at", "the", "looting", "of", "Iraqi", "historical", "artifacts", ",", "met", "in", "Paris", "under", "U.N.", "auspices", "and", "called", "for", "a", "temporary", "embargo", "on", "Iraqi", "cultural", "objects", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "museum vaults",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "museum",
+    "argMentionid" : "APW_ENG_20030417.0555-E103-166",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "APW_ENG_20030417.0555-R57",
+  "mentionArg1" : {
+    "extent" : "museum vaults",
+    "argMentionid" : "APW_ENG_20030417.0555-E120-192",
+    "start" : 23,
+    "end" : 24
+  },
+  "id" : "APW_ENG_20030417.0555-R57-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Some of the participants at the meeting said it appeared the looting was organized , and some of those involved had keys to museum vaults and were able to remove items from safes .",
+  "sentence_index" : 38,
+  "Tokens" : [ "Some", "of", "the", "participants", "at", "the", "meeting", "said", "it", "appeared", "the", "looting", "was", "organized", ",", "and", "some", "of", "those", "involved", "had", "keys", "to", "museum", "vaults", "and", "were", "able", "to", "remove", "items", "from", "safes", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a good police team",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "police",
+    "argMentionid" : "APW_ENG_20030417.0555-E118-214",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030417.0555-R58",
+  "mentionArg1" : {
+    "extent" : "a good police team",
+    "argMentionid" : "APW_ENG_20030417.0555-E109-178",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030417.0555-R58-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "He added that if a good police team was put together , `` I think it could be cracked in no time . ''",
+  "sentence_index" : 42,
+  "Tokens" : [ "He", "added", "that", "if", "a", "good", "police", "team", "was", "put", "together", ",", "``", "I", "think", "it", "could", "be", "cracked", "in", "no", "time", ".", "''" ]
+} ]

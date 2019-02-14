@@ -1,0 +1,661 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "France's de La Sabliere",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "France",
+    "argMentionid" : "APW_ENG_20030422.0469-E27-165",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030422.0469-R1",
+  "mentionArg1" : {
+    "extent" : "France's de La Sabliere",
+    "argMentionid" : "APW_ENG_20030422.0469-E1-50",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030422.0469-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "France 's de La Sabliere said he also proposed that the council phase out the oil-for-food program , which allowed Iraq to sell unlimited quantities of oil provided the money went for humanitarian goods and compensation to victims of the first Gulf War .",
+  "sentence_index" : 12,
+  "Tokens" : [ "France", "'s", "de", "La", "Sabliere", "said", "he", "also", "proposed", "that", "the", "council", "phase", "out", "the", "oil-for-food", "program", ",", "which", "allowed", "Iraq", "to", "sell", "unlimited", "quantities", "of", "oil", "provided", "the", "money", "went", "for", "humanitarian", "goods", "and", "compensation", "to", "victims", "of", "the", "first", "Gulf", "War", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "France's de La Sabliere",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "France",
+    "argMentionid" : "APW_ENG_20030422.0469-E27-167",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030422.0469-R1",
+  "mentionArg1" : {
+    "extent" : "France's de La Sabliere",
+    "argMentionid" : "APW_ENG_20030422.0469-E1-99",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030422.0469-R1-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "France 's de La Sabliere said he also proposed that the council `` find practical and pragmatic arrangements '' to coordinate and combine the work of the American teams and the work of U.N. inspectors `` so that the Iraqi disarmament could be internationally verified . ''",
+  "sentence_index" : 21,
+  "Tokens" : [ "France", "'s", "de", "La", "Sabliere", "said", "he", "also", "proposed", "that", "the", "council", "``", "find", "practical", "and", "pragmatic", "arrangements", "''", "to", "coordinate", "and", "combine", "the", "work", "of", "the", "American", "teams", "and", "the", "work", "of", "U.N.", "inspectors", "``", "so", "that", "the", "Iraqi", "disarmament", "could", "be", "internationally", "verified", ".", "''" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "France's U.N. ambassador",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "France",
+    "argMentionid" : "APW_ENG_20030422.0469-E27-158",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030422.0469-R1",
+  "mentionArg1" : {
+    "extent" : "France's U.N. ambassador",
+    "argMentionid" : "APW_ENG_20030422.0469-E1-184",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "APW_ENG_20030422.0469-R1-3",
+  "relationSubType" : "Employment",
+  "Sentence" : "France 's U.N. ambassador , Jean-Marc de La Sabliere , made the proposal at a Security Council meeting where members heard a briefing by chief U.N. weapons inspector Hans Blix and for the first time exchanged views on potentially divisive postwar issues .",
+  "sentence_index" : 2,
+  "Tokens" : [ "France", "'s", "U.N.", "ambassador", ",", "Jean-Marc", "de", "La", "Sabliere", ",", "made", "the", "proposal", "at", "a", "Security", "Council", "meeting", "where", "members", "heard", "a", "briefing", "by", "chief", "U.N.", "weapons", "inspector", "Hans", "Blix", "and", "for", "the", "first", "time", "exchanged", "views", "on", "potentially", "divisive", "postwar", "issues", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Iraq's nuclear, chemical and biological weapons",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Iraq's nuclear, chemical and biological weapons",
+    "argMentionid" : "APW_ENG_20030422.0469-E14-148",
+    "start" : 13,
+    "end" : 20
+  },
+  "relationID" : "APW_ENG_20030422.0469-R2",
+  "mentionArg1" : {
+    "extent" : "Iraq",
+    "argMentionid" : "APW_ENG_20030422.0469-E28-123",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030422.0469-R2-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Under council resolutions , sanctions cannot be lifted until U.N. inspectors certify that Iraq 's nuclear , chemical and biological weapons have been destroyed along with the long-range missiles to deliver them .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Under", "council", "resolutions", ",", "sanctions", "cannot", "be", "lifted", "until", "U.N.", "inspectors", "certify", "that", "Iraq", "'s", "nuclear", ",", "chemical", "and", "biological", "weapons", "have", "been", "destroyed", "along", "with", "the", "long-range", "missiles", "to", "deliver", "them", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "head of the U.N. oil-for-food program, which had been providing food for 60 percent of Iraq's 24 million people",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "U.N",
+    "argMentionid" : "APW_ENG_20030422.0469-E2-45",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "APW_ENG_20030422.0469-R3",
+  "mentionArg1" : {
+    "extent" : "head of the U.N. oil-for-food program",
+    "argMentionid" : "APW_ENG_20030422.0469-E30-44",
+    "start" : 17,
+    "end" : 22
+  },
+  "id" : "APW_ENG_20030422.0469-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "At another closed-door council meeting later Tuesday , the council was to hear from Benon Sevan , head of the U.N. oil-for-food program , which had been providing food for 60 percent of Iraq 's 24 million people .",
+  "sentence_index" : 11,
+  "Tokens" : [ "At", "another", "closed-door", "council", "meeting", "later", "Tuesday", ",", "the", "council", "was", "to", "hear", "from", "Benon", "Sevan", ",", "head", "of", "the", "U.N.", "oil-for-food", "program", ",", "which", "had", "been", "providing", "food", "for", "60", "percent", "of", "Iraq", "'s", "24", "million", "people", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The Bush administration, which accused Blix of hindering its drive for international support for the war, has already sent its own teams to Iraq to search for illegal weapons",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "APW_ENG_20030422.0469-E28-105",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "APW_ENG_20030422.0469-R4",
+  "mentionArg1" : {
+    "extent" : "its own teams",
+    "argMentionid" : "APW_ENG_20030422.0469-E44-81",
+    "start" : 21,
+    "end" : 23
+  },
+  "id" : "APW_ENG_20030422.0469-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The Bush administration , which accused Blix of hindering its drive for international support for the war , has already sent its own teams to Iraq to search for illegal weapons .",
+  "sentence_index" : 18,
+  "Tokens" : [ "The", "Bush", "administration", ",", "which", "accused", "Blix", "of", "hindering", "its", "drive", "for", "international", "support", "for", "the", "war", ",", "has", "already", "sent", "its", "own", "teams", "to", "Iraq", "to", "search", "for", "illegal", "weapons", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "He told reporters at the United Nations on Tuesday that the contract about ``yellow cake'' uranium ``was more than shaky, it was a fake",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "the United Nations",
+    "argMentionid" : "APW_ENG_20030422.0469-E82-174",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030422.0469-R5",
+  "mentionArg1" : {
+    "extent" : "reporters",
+    "argMentionid" : "APW_ENG_20030422.0469-E64-133",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030422.0469-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "He told reporters at the United Nations on Tuesday that the contract about `` yellow cake '' uranium `` was more than shaky , it was a fake . ''",
+  "sentence_index" : 27,
+  "Tokens" : [ "He", "told", "reporters", "at", "the", "United", "Nations", "on", "Tuesday", "that", "the", "contract", "about", "``", "yellow", "cake", "''", "uranium", "``", "was", "more", "than", "shaky", ",", "it", "was", "a", "fake", ".", "''" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iraq's 24 million people",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "APW_ENG_20030422.0469-E28-126",
+    "start" : 33,
+    "end" : 33
+  },
+  "relationID" : "APW_ENG_20030422.0469-R6",
+  "mentionArg1" : {
+    "extent" : "Iraq's 24 million people",
+    "argMentionid" : "APW_ENG_20030422.0469-E87-2",
+    "start" : 33,
+    "end" : 37
+  },
+  "id" : "APW_ENG_20030422.0469-R6-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "At another closed-door council meeting later Tuesday , the council was to hear from Benon Sevan , head of the U.N. oil-for-food program , which had been providing food for 60 percent of Iraq 's 24 million people .",
+  "sentence_index" : 11,
+  "Tokens" : [ "At", "another", "closed-door", "council", "meeting", "later", "Tuesday", ",", "the", "council", "was", "to", "hear", "from", "Benon", "Sevan", ",", "head", "of", "the", "U.N.", "oil-for-food", "program", ",", "which", "had", "been", "providing", "food", "for", "60", "percent", "of", "Iraq", "'s", "24", "million", "people", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. President",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030422.0469-E48-182",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "APW_ENG_20030422.0469-R7",
+  "mentionArg1" : {
+    "extent" : "U.S. President",
+    "argMentionid" : "APW_ENG_20030422.0469-E43-181",
+    "start" : 22,
+    "end" : 23
+  },
+  "id" : "APW_ENG_20030422.0469-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The surprise move by France , which led opposition to the U.S. war against Iraq , followed last week 's call by U.S. President George W. Bush for sanctions to be lifted quickly , so Iraq can trade freely and its oil revenue can be used to finance reconstruction .",
+  "sentence_index" : 1,
+  "Tokens" : [ "The", "surprise", "move", "by", "France", ",", "which", "led", "opposition", "to", "the", "U.S.", "war", "against", "Iraq", ",", "followed", "last", "week", "'s", "call", "by", "U.S.", "President", "George", "W.", "Bush", "for", "sanctions", "to", "be", "lifted", "quickly", ",", "so", "Iraq", "can", "trade", "freely", "and", "its", "oil", "revenue", "can", "be", "used", "to", "finance", "reconstruction", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "chief U.N. weapons inspector",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "U.N",
+    "argMentionid" : "APW_ENG_20030422.0469-E2-9",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "APW_ENG_20030422.0469-R8",
+  "mentionArg1" : {
+    "extent" : "chief U.N. weapons inspector",
+    "argMentionid" : "APW_ENG_20030422.0469-E4-7",
+    "start" : 24,
+    "end" : 27
+  },
+  "id" : "APW_ENG_20030422.0469-R8-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "France 's U.N. ambassador , Jean-Marc de La Sabliere , made the proposal at a Security Council meeting where members heard a briefing by chief U.N. weapons inspector Hans Blix and for the first time exchanged views on potentially divisive postwar issues .",
+  "sentence_index" : 2,
+  "Tokens" : [ "France", "'s", "U.N.", "ambassador", ",", "Jean-Marc", "de", "La", "Sabliere", ",", "made", "the", "proposal", "at", "a", "Security", "Council", "meeting", "where", "members", "heard", "a", "briefing", "by", "chief", "U.N.", "weapons", "inspector", "Hans", "Blix", "and", "for", "the", "first", "time", "exchanged", "views", "on", "potentially", "divisive", "postwar", "issues", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Russian Ambassador",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Russian",
+    "argMentionid" : "APW_ENG_20030422.0469-E18-29",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030422.0469-R9",
+  "mentionArg1" : {
+    "extent" : "Russian Ambassador",
+    "argMentionid" : "APW_ENG_20030422.0469-E21-28",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030422.0469-R9-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Russian Ambassador Sergey Lavrov had said his country is `` not at all opposed to the lifting of sanctions . ''",
+  "sentence_index" : 8,
+  "Tokens" : [ "Russian", "Ambassador", "Sergey", "Lavrov", "had", "said", "his", "country", "is", "``", "not", "at", "all", "opposed", "to", "the", "lifting", "of", "sanctions", ".", "''" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.N. inspectors",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "U.N",
+    "argMentionid" : "APW_ENG_20030422.0469-E2-16",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030422.0469-R10",
+  "mentionArg1" : {
+    "extent" : "U.N. inspectors",
+    "argMentionid" : "APW_ENG_20030422.0469-E12-15",
+    "start" : 9,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030422.0469-R10-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Under council resolutions , sanctions cannot be lifted until U.N. inspectors certify that Iraq 's nuclear , chemical and biological weapons have been destroyed along with the long-range missiles to deliver them .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Under", "council", "resolutions", ",", "sanctions", "cannot", "be", "lifted", "until", "U.N.", "inspectors", "certify", "that", "Iraq", "'s", "nuclear", ",", "chemical", "and", "biological", "weapons", "have", "been", "destroyed", "along", "with", "the", "long-range", "missiles", "to", "deliver", "them", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.N. inspectors",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "U.N",
+    "argMentionid" : "APW_ENG_20030422.0469-E2-33",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030422.0469-R10",
+  "mentionArg1" : {
+    "extent" : "U.N. inspectors",
+    "argMentionid" : "APW_ENG_20030422.0469-E12-163",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030422.0469-R10-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "But he said Russia wants U.N. inspectors to certify that Iraq has been disarmed of all weapons of mass destruction , as required under U.N. resolutions .",
+  "sentence_index" : 9,
+  "Tokens" : [ "But", "he", "said", "Russia", "wants", "U.N.", "inspectors", "to", "certify", "that", "Iraq", "has", "been", "disarmed", "of", "all", "weapons", "of", "mass", "destruction", ",", "as", "required", "under", "U.N.", "resolutions", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.N. inspectors",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "U.N",
+    "argMentionid" : "APW_ENG_20030422.0469-E2-63",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030422.0469-R10",
+  "mentionArg1" : {
+    "extent" : "U.N. inspectors",
+    "argMentionid" : "APW_ENG_20030422.0469-E12-166",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030422.0469-R10-3",
+  "relationSubType" : "Employment",
+  "Sentence" : "Blix stressed that council resolutions call for U.N. inspectors to have access to all sites and people in Iraq .",
+  "sentence_index" : 16,
+  "Tokens" : [ "Blix", "stressed", "that", "council", "resolutions", "call", "for", "U.N.", "inspectors", "to", "have", "access", "to", "all", "sites", "and", "people", "in", "Iraq", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.N. inspectors",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "U.N",
+    "argMentionid" : "APW_ENG_20030422.0469-E2-91",
+    "start" : 31,
+    "end" : 31
+  },
+  "relationID" : "APW_ENG_20030422.0469-R10",
+  "mentionArg1" : {
+    "extent" : "U.N. inspectors",
+    "argMentionid" : "APW_ENG_20030422.0469-E12-169",
+    "start" : 31,
+    "end" : 32
+  },
+  "id" : "APW_ENG_20030422.0469-R10-4",
+  "relationSubType" : "Employment",
+  "Sentence" : "`` At the moment , the coalition has assumed the responsibilities for disarming Iraq , '' U.S. Ambassador John Negroponte , said Tuesday when asked whether U.S. teams would work with U.N. inspectors .",
+  "sentence_index" : 19,
+  "Tokens" : [ "``", "At", "the", "moment", ",", "the", "coalition", "has", "assumed", "the", "responsibilities", "for", "disarming", "Iraq", ",", "''", "U.S.", "Ambassador", "John", "Negroponte", ",", "said", "Tuesday", "when", "asked", "whether", "U.S.", "teams", "would", "work", "with", "U.N.", "inspectors", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.N. inspectors",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "U.N",
+    "argMentionid" : "APW_ENG_20030422.0469-E2-107",
+    "start" : 33,
+    "end" : 33
+  },
+  "relationID" : "APW_ENG_20030422.0469-R10",
+  "mentionArg1" : {
+    "extent" : "U.N. inspectors",
+    "argMentionid" : "APW_ENG_20030422.0469-E12-168",
+    "start" : 33,
+    "end" : 34
+  },
+  "id" : "APW_ENG_20030422.0469-R10-5",
+  "relationSubType" : "Employment",
+  "Sentence" : "France 's de La Sabliere said he also proposed that the council `` find practical and pragmatic arrangements '' to coordinate and combine the work of the American teams and the work of U.N. inspectors `` so that the Iraqi disarmament could be internationally verified . ''",
+  "sentence_index" : 21,
+  "Tokens" : [ "France", "'s", "de", "La", "Sabliere", "said", "he", "also", "proposed", "that", "the", "council", "``", "find", "practical", "and", "pragmatic", "arrangements", "''", "to", "coordinate", "and", "combine", "the", "work", "of", "the", "American", "teams", "and", "the", "work", "of", "U.N.", "inspectors", "``", "so", "that", "the", "Iraqi", "disarmament", "could", "be", "internationally", "verified", ".", "''" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.N. inspectors",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "U.N",
+    "argMentionid" : "APW_ENG_20030422.0469-E2-136",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030422.0469-R10",
+  "mentionArg1" : {
+    "extent" : "U.N. inspectors",
+    "argMentionid" : "APW_ENG_20030422.0469-E12-170",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030422.0469-R10-6",
+  "relationSubType" : "Employment",
+  "Sentence" : "U.N. inspectors went back to Iraq for the first time in four years in late November and discovered no weapons of mass destruction during 3 { months of searching .",
+  "sentence_index" : 28,
+  "Tokens" : [ "U.N.", "inspectors", "went", "back", "to", "Iraq", "for", "the", "first", "time", "in", "four", "years", "in", "late", "November", "and", "discovered", "no", "weapons", "of", "mass", "destruction", "during", "3", "{", "months", "of", "searching", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "all sites and people in Iraq",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "APW_ENG_20030422.0469-E28-109",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030422.0469-R11",
+  "mentionArg1" : {
+    "extent" : "all sites and people in Iraq",
+    "argMentionid" : "APW_ENG_20030422.0469-E87-113",
+    "start" : 13,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030422.0469-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Blix stressed that council resolutions call for U.N. inspectors to have access to all sites and people in Iraq .",
+  "sentence_index" : 16,
+  "Tokens" : [ "Blix", "stressed", "that", "council", "resolutions", "call", "for", "U.N.", "inspectors", "to", "have", "access", "to", "all", "sites", "and", "people", "in", "Iraq", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. and U.N. inspectors",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "U.N",
+    "argMentionid" : "APW_ENG_20030422.0469-E2-115",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030422.0469-R13",
+  "mentionArg1" : {
+    "extent" : "U.S. and U.N. inspectors",
+    "argMentionid" : "APW_ENG_20030422.0469-E56-112",
+    "start" : 3,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030422.0469-R13-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "He also envisioned U.S. and U.N. inspectors working together .",
+  "sentence_index" : 23,
+  "Tokens" : [ "He", "also", "envisioned", "U.S.", "and", "U.N.", "inspectors", "working", "together", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "all sites and people in Iraq",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "APW_ENG_20030422.0469-E28-109",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030422.0469-R14",
+  "mentionArg1" : {
+    "extent" : "all sites and people in Iraq",
+    "argMentionid" : "APW_ENG_20030422.0469-E39-64",
+    "start" : 13,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030422.0469-R14-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Blix stressed that council resolutions call for U.N. inspectors to have access to all sites and people in Iraq .",
+  "sentence_index" : 16,
+  "Tokens" : [ "Blix", "stressed", "that", "council", "resolutions", "call", "for", "U.N.", "inspectors", "to", "have", "access", "to", "all", "sites", "and", "people", "in", "Iraq", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iraq civilians",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "APW_ENG_20030422.0469-E28-142",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030422.0469-R15",
+  "mentionArg1" : {
+    "extent" : "Iraq civilians",
+    "argMentionid" : "APW_ENG_20030422.0469-E84-176",
+    "start" : 14,
+    "end" : 15
+  },
+  "id" : "APW_ENG_20030422.0469-R15-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "UNITED NATIONS ( AP ) France on Tuesday proposed immediately suspending U.N. sanctions targeting Iraq civilians , an important step toward the U.S. goal of ending trade embargoes that have crippled the country 's economy .",
+  "sentence_index" : 0,
+  "Tokens" : [ "UNITED", "NATIONS", "(", "AP", ")", "France", "on", "Tuesday", "proposed", "immediately", "suspending", "U.N.", "sanctions", "targeting", "Iraq", "civilians", ",", "an", "important", "step", "toward", "the", "U.S.", "goal", "of", "ending", "trade", "embargoes", "that", "have", "crippled", "the", "country", "'s", "economy", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "its own teams",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "its",
+    "argMentionid" : "APW_ENG_20030422.0469-E42-80",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "APW_ENG_20030422.0469-R20",
+  "mentionArg1" : {
+    "extent" : "its own teams",
+    "argMentionid" : "APW_ENG_20030422.0469-E44-81",
+    "start" : 21,
+    "end" : 23
+  },
+  "id" : "APW_ENG_20030422.0469-R20-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "The Bush administration , which accused Blix of hindering its drive for international support for the war , has already sent its own teams to Iraq to search for illegal weapons .",
+  "sentence_index" : 18,
+  "Tokens" : [ "The", "Bush", "administration", ",", "which", "accused", "Blix", "of", "hindering", "its", "drive", "for", "international", "support", "for", "the", "war", ",", "has", "already", "sent", "its", "own", "teams", "to", "Iraq", "to", "search", "for", "illegal", "weapons", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. Ambassador",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030422.0469-E48-86",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "APW_ENG_20030422.0469-R21",
+  "mentionArg1" : {
+    "extent" : "U.S. Ambassador",
+    "argMentionid" : "APW_ENG_20030422.0469-E46-85",
+    "start" : 16,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030422.0469-R21-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "`` At the moment , the coalition has assumed the responsibilities for disarming Iraq , '' U.S. Ambassador John Negroponte , said Tuesday when asked whether U.S. teams would work with U.N. inspectors .",
+  "sentence_index" : 19,
+  "Tokens" : [ "``", "At", "the", "moment", ",", "the", "coalition", "has", "assumed", "the", "responsibilities", "for", "disarming", "Iraq", ",", "''", "U.S.", "Ambassador", "John", "Negroponte", ",", "said", "Tuesday", "when", "asked", "whether", "U.S.", "teams", "would", "work", "with", "U.N.", "inspectors", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. and U.N. inspectors",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030422.0469-E48-114",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030422.0469-R23",
+  "mentionArg1" : {
+    "extent" : "U.S. and U.N. inspectors",
+    "argMentionid" : "APW_ENG_20030422.0469-E56-112",
+    "start" : 3,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030422.0469-R23-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "He also envisioned U.S. and U.N. inspectors working together .",
+  "sentence_index" : 23,
+  "Tokens" : [ "He", "also", "envisioned", "U.S.", "and", "U.N.", "inspectors", "working", "together", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. teams",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030422.0469-E48-89",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "APW_ENG_20030422.0469-R24",
+  "mentionArg1" : {
+    "extent" : "U.S. teams",
+    "argMentionid" : "APW_ENG_20030422.0469-E44-3",
+    "start" : 26,
+    "end" : 27
+  },
+  "id" : "APW_ENG_20030422.0469-R24-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "`` At the moment , the coalition has assumed the responsibilities for disarming Iraq , '' U.S. Ambassador John Negroponte , said Tuesday when asked whether U.S. teams would work with U.N. inspectors .",
+  "sentence_index" : 19,
+  "Tokens" : [ "``", "At", "the", "moment", ",", "the", "coalition", "has", "assumed", "the", "responsibilities", "for", "disarming", "Iraq", ",", "''", "U.S.", "Ambassador", "John", "Negroponte", ",", "said", "Tuesday", "when", "asked", "whether", "U.S.", "teams", "would", "work", "with", "U.N.", "inspectors", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the American teams",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "APW_ENG_20030422.0469-E48-104",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "APW_ENG_20030422.0469-R24",
+  "mentionArg1" : {
+    "extent" : "the American teams",
+    "argMentionid" : "APW_ENG_20030422.0469-E44-103",
+    "start" : 26,
+    "end" : 28
+  },
+  "id" : "APW_ENG_20030422.0469-R24-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "France 's de La Sabliere said he also proposed that the council `` find practical and pragmatic arrangements '' to coordinate and combine the work of the American teams and the work of U.N. inspectors `` so that the Iraqi disarmament could be internationally verified . ''",
+  "sentence_index" : 21,
+  "Tokens" : [ "France", "'s", "de", "La", "Sabliere", "said", "he", "also", "proposed", "that", "the", "council", "``", "find", "practical", "and", "pragmatic", "arrangements", "''", "to", "coordinate", "and", "combine", "the", "work", "of", "the", "American", "teams", "and", "the", "work", "of", "U.N.", "inspectors", "``", "so", "that", "the", "Iraqi", "disarmament", "could", "be", "internationally", "verified", ".", "''" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a legitimate Iraqi government",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030422.0469-E28-135",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030422.0469-R27",
+  "mentionArg1" : {
+    "extent" : "a legitimate Iraqi government",
+    "argMentionid" : "APW_ENG_20030422.0469-E59-116",
+    "start" : 8,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030422.0469-R27-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "`` And then sanctions could be lifted when a legitimate Iraqi government is in place , '' he said .",
+  "sentence_index" : 24,
+  "Tokens" : [ "``", "And", "then", "sanctions", "could", "be", "lifted", "when", "a", "legitimate", "Iraqi", "government", "is", "in", "place", ",", "''", "he", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the West African nation of Niger",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "West African",
+    "argMentionid" : "APW_ENG_20030422.0469-E81-173",
+    "start" : 27,
+    "end" : 28
+  },
+  "relationID" : "APW_ENG_20030422.0469-R28",
+  "mentionArg1" : {
+    "extent" : "Niger",
+    "argMentionid" : "APW_ENG_20030422.0469-E63-131",
+    "start" : 31,
+    "end" : 31
+  },
+  "id" : "APW_ENG_20030422.0469-R28-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Blix said it was `` very , very disturbing '' that U.S. intelligence failed to identify as fakes documents suggesting Iraq tried to buy uranium from the West African nation of Niger .",
+  "sentence_index" : 26,
+  "Tokens" : [ "Blix", "said", "it", "was", "``", "very", ",", "very", "disturbing", "''", "that", "U.S.", "intelligence", "failed", "to", "identify", "as", "fakes", "documents", "suggesting", "Iraq", "tried", "to", "buy", "uranium", "from", "the", "West", "African", "nation", "of", "Niger", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "all U.N. international staff, including the inspectors",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "U.N",
+    "argMentionid" : "APW_ENG_20030422.0469-E2-141",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030422.0469-R29",
+  "mentionArg1" : {
+    "extent" : "all U.N. international staff, including the inspectors",
+    "argMentionid" : "APW_ENG_20030422.0469-E71-140",
+    "start" : 4,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030422.0469-R29-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Secretary-General Kofi Annan ordered all U.N. international staff , including the inspectors , to leave Iraq just before the war began on March 20 .",
+  "sentence_index" : 29,
+  "Tokens" : [ "Secretary-General", "Kofi", "Annan", "ordered", "all", "U.N.", "international", "staff", ",", "including", "the", "inspectors", ",", "to", "leave", "Iraq", "just", "before", "the", "war", "began", "on", "March", "20", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Annan also said Tuesday in Austria that Iraqis should be in charge of their own future and natural resources",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Austria",
+    "argMentionid" : "APW_ENG_20030422.0469-E75-147",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030422.0469-R30",
+  "mentionArg1" : {
+    "extent" : "Annan",
+    "argMentionid" : "APW_ENG_20030422.0469-E69-146",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "APW_ENG_20030422.0469-R30-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Annan also said Tuesday in Austria that Iraqis should be in charge of their own future and natural resources .",
+  "sentence_index" : 31,
+  "Tokens" : [ "Annan", "also", "said", "Tuesday", "in", "Austria", "that", "Iraqis", "should", "be", "in", "charge", "of", "their", "own", "future", "and", "natural", "resources", "." ]
+} ]

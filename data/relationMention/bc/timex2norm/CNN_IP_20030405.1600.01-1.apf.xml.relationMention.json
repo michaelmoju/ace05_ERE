@@ -1,0 +1,595 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. forces",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E41-53",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R1",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E50-62",
+    "start" : 21,
+    "end" : 22
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "At its daily briefing , U.S. Central Command says Operation Iraqi Freedom is far from finished in Baghdad , even though U.S. forces are inside the Iraqi capital .",
+  "sentence_index" : 2,
+  "Tokens" : [ "At", "its", "daily", "briefing", ",", "U.S.", "Central", "Command", "says", "Operation", "Iraqi", "Freedom", "is", "far", "from", "finished", "in", "Baghdad", ",", "even", "though", "U.S.", "forces", "are", "inside", "the", "Iraqi", "capital", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Walter Rodgers reports according to Army sources, Iraqi officials are fleeing Baghdad in droves, using civilian convoys top avoid being targeted by coalition air strikes",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "civilian convoys",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E6-8",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R2",
+  "mentionArg1" : {
+    "extent" : "Iraqi officials",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E4-5",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R2-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Walter Rodgers reports according to Army sources , Iraqi officials are fleeing Baghdad in droves , using civilian convoys top avoid being targeted by coalition air strikes .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Walter", "Rodgers", "reports", "according", "to", "Army", "sources", ",", "Iraqi", "officials", "are", "fleeing", "Baghdad", "in", "droves", ",", "using", "civilian", "convoys", "top", "avoid", "being", "targeted", "by", "coalition", "air", "strikes", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iraqi officials",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E34-35",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R3",
+  "mentionArg1" : {
+    "extent" : "Iraqi officials",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E4-5",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Walter Rodgers reports according to Army sources , Iraqi officials are fleeing Baghdad in droves , using civilian convoys top avoid being targeted by coalition air strikes .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Walter", "Rodgers", "reports", "according", "to", "Army", "sources", ",", "Iraqi", "officials", "are", "fleeing", "Baghdad", "in", "droves", ",", "using", "civilian", "convoys", "top", "avoid", "being", "targeted", "by", "coalition", "air", "strikes", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "CNN CORRESPONDENT",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E40-46",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R4",
+  "mentionArg1" : {
+    "extent" : "CNN CORRESPONDENT",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E23-55",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "( BEGIN VIDEOTAPE ) MILES O'BRIEN , CNN CORRESPONDENT ( voice-over ) Seven-eleven a . m .",
+  "sentence_index" : 0,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "MILES", "O'BRIEN", ",", "CNN", "CORRESPONDENT", "(", "voice-over", ")", "Seven-eleven", "a", ".", "m", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "U.S. Central Command",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E41-52",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R5",
+  "mentionArg1" : {
+    "extent" : "U.S. Central Command",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E39-49",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R5-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "At its daily briefing , U.S. Central Command says Operation Iraqi Freedom is far from finished in Baghdad , even though U.S. forces are inside the Iraqi capital .",
+  "sentence_index" : 2,
+  "Tokens" : [ "At", "its", "daily", "briefing", ",", "U.S.", "Central", "Command", "says", "Operation", "Iraqi", "Freedom", "is", "far", "from", "finished", "in", "Baghdad", ",", "even", "though", "U.S.", "forces", "are", "inside", "the", "Iraqi", "capital", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "At its daily briefing, U.S. Central Command says Operation Iraqi Freedom is far from finished in Baghdad, even though U.S. forces are inside the Iraqi capital",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "the Iraqi capital",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E49-63",
+    "start" : 25,
+    "end" : 27
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R6",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E50-62",
+    "start" : 21,
+    "end" : 22
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "At its daily briefing , U.S. Central Command says Operation Iraqi Freedom is far from finished in Baghdad , even though U.S. forces are inside the Iraqi capital .",
+  "sentence_index" : 2,
+  "Tokens" : [ "At", "its", "daily", "briefing", ",", "U.S.", "Central", "Command", "says", "Operation", "Iraqi", "Freedom", "is", "far", "from", "finished", "in", "Baghdad", ",", "even", "though", "U.S.", "forces", "are", "inside", "the", "Iraqi", "capital", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Iraqi capital",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E34-64",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R7",
+  "mentionArg1" : {
+    "extent" : "the Iraqi capital",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E49-63",
+    "start" : 25,
+    "end" : 27
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R7-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "At its daily briefing , U.S. Central Command says Operation Iraqi Freedom is far from finished in Baghdad , even though U.S. forces are inside the Iraqi capital .",
+  "sentence_index" : 2,
+  "Tokens" : [ "At", "its", "daily", "briefing", ",", "U.S.", "Central", "Command", "says", "Operation", "Iraqi", "Freedom", "is", "far", "from", "finished", "in", "Baghdad", ",", "even", "though", "U.S.", "forces", "are", "inside", "the", "Iraqi", "capital", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iraq's information minister",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E34-50",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R8",
+  "mentionArg1" : {
+    "extent" : "Iraq's information minister",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E52-65",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Iraq 's information minister reads a message he says is from Saddam Hussein urging Iraqis to step up attacks against coalition forces .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Iraq", "'s", "information", "minister", "reads", "a", "message", "he", "says", "is", "from", "Saddam", "Hussein", "urging", "Iraqis", "to", "step", "up", "attacks", "against", "coalition", "forces", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "coalition forces",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E7-10",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R9",
+  "mentionArg1" : {
+    "extent" : "coalition forces",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E1-2",
+    "start" : 20,
+    "end" : 21
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R9-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Iraq 's information minister reads a message he says is from Saddam Hussein urging Iraqis to step up attacks against coalition forces .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Iraq", "'s", "information", "minister", "reads", "a", "message", "he", "says", "is", "from", "Saddam", "Hussein", "urging", "Iraqis", "to", "step", "up", "attacks", "against", "coalition", "forces", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Army sources",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Army",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E25-33",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R10",
+  "mentionArg1" : {
+    "extent" : "Army sources",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E3-4",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R10-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Walter Rodgers reports according to Army sources , Iraqi officials are fleeing Baghdad in droves , using civilian convoys top avoid being targeted by coalition air strikes .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Walter", "Rodgers", "reports", "according", "to", "Army", "sources", ",", "Iraqi", "officials", "are", "fleeing", "Baghdad", "in", "droves", ",", "using", "civilian", "convoys", "top", "avoid", "being", "targeted", "by", "coalition", "air", "strikes", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Walter Rodgers reports according to Army sources, Iraqi officials are fleeing Baghdad in droves, using civilian convoys top avoid being targeted by coalition air strikes",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E49-6",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R11",
+  "mentionArg1" : {
+    "extent" : "Iraqi officials",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E4-5",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Walter Rodgers reports according to Army sources , Iraqi officials are fleeing Baghdad in droves , using civilian convoys top avoid being targeted by coalition air strikes .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Walter", "Rodgers", "reports", "according", "to", "Army", "sources", ",", "Iraqi", "officials", "are", "fleeing", "Baghdad", "in", "droves", ",", "using", "civilian", "convoys", "top", "avoid", "being", "targeted", "by", "coalition", "air", "strikes", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "CNN Pentagon correspondent",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E40-58",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R12",
+  "mentionArg1" : {
+    "extent" : "CNN Pentagon correspondent",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E9-12",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R12-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "CNN Pentagon correspondent Barbara Starr reports coalition troops entering Baghdad were met with fierce fighting , and there were casualties on both sides .",
+  "sentence_index" : 8,
+  "Tokens" : [ "CNN", "Pentagon", "correspondent", "Barbara", "Starr", "reports", "coalition", "troops", "entering", "Baghdad", "were", "met", "with", "fierce", "fighting", ",", "and", "there", "were", "casualties", "on", "both", "sides", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "coalition troops entering Baghdad",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E49-15",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R13",
+  "mentionArg1" : {
+    "extent" : "coalition troops entering Baghdad",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E12-14",
+    "start" : 6,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R13-1",
+  "relationSubType" : "Located",
+  "Sentence" : "CNN Pentagon correspondent Barbara Starr reports coalition troops entering Baghdad were met with fierce fighting , and there were casualties on both sides .",
+  "sentence_index" : 8,
+  "Tokens" : [ "CNN", "Pentagon", "correspondent", "Barbara", "Starr", "reports", "coalition", "troops", "entering", "Baghdad", "were", "met", "with", "fierce", "fighting", ",", "and", "there", "were", "casualties", "on", "both", "sides", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "CNN's Martin Savidge, embedded with the 1st Battalion, 7th Marines",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E40-60",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R14",
+  "mentionArg1" : {
+    "extent" : "CNN's Martin Savidge, embedded with the 1st Battalion, 7th Marines",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E15-17",
+    "start" : 0,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R14-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "CNN 's Martin Savidge , embedded with the 1st Battalion , 7th Marines , reports the unit has reached the extreme southeast suburbs of Baghdad , adding to forces the U.S. says now encircle the city .",
+  "sentence_index" : 10,
+  "Tokens" : [ "CNN", "'s", "Martin", "Savidge", ",", "embedded", "with", "the", "1st", "Battalion", ",", "7th", "Marines", ",", "reports", "the", "unit", "has", "reached", "the", "extreme", "southeast", "suburbs", "of", "Baghdad", ",", "adding", "to", "forces", "the", "U.S.", "says", "now", "encircle", "the", "city", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "coalition troops entering Baghdad",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E7-13",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R15",
+  "mentionArg1" : {
+    "extent" : "coalition troops entering Baghdad",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E12-14",
+    "start" : 6,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R15-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "CNN Pentagon correspondent Barbara Starr reports coalition troops entering Baghdad were met with fierce fighting , and there were casualties on both sides .",
+  "sentence_index" : 8,
+  "Tokens" : [ "CNN", "Pentagon", "correspondent", "Barbara", "Starr", "reports", "coalition", "troops", "entering", "Baghdad", "were", "met", "with", "fierce", "fighting", ",", "and", "there", "were", "casualties", "on", "both", "sides", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the extreme southeast suburbs of Baghdad",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E49-22",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R16",
+  "mentionArg1" : {
+    "extent" : "the extreme southeast suburbs of Baghdad",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E18-21",
+    "start" : 19,
+    "end" : 24
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R16-1",
+  "relationSubType" : "Near",
+  "Sentence" : "CNN 's Martin Savidge , embedded with the 1st Battalion , 7th Marines , reports the unit has reached the extreme southeast suburbs of Baghdad , adding to forces the U.S. says now encircle the city .",
+  "sentence_index" : 10,
+  "Tokens" : [ "CNN", "'s", "Martin", "Savidge", ",", "embedded", "with", "the", "1st", "Battalion", ",", "7th", "Marines", ",", "reports", "the", "unit", "has", "reached", "the", "extreme", "southeast", "suburbs", "of", "Baghdad", ",", "adding", "to", "forces", "the", "U.S.", "says", "now", "encircle", "the", "city", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "CNN's Martin Savidge, embedded with the 1st Battalion, 7th Marines, reports the unit has reached the extreme southeast suburbs of Baghdad, adding to forces the U.S. says now encircle the city",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "the extreme southeast suburbs of Baghdad",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E18-21",
+    "start" : 19,
+    "end" : 24
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R17",
+  "mentionArg1" : {
+    "extent" : "the unit",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E16-20",
+    "start" : 15,
+    "end" : 16
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R17-1",
+  "relationSubType" : "Located",
+  "Sentence" : "CNN 's Martin Savidge , embedded with the 1st Battalion , 7th Marines , reports the unit has reached the extreme southeast suburbs of Baghdad , adding to forces the U.S. says now encircle the city .",
+  "sentence_index" : 10,
+  "Tokens" : [ "CNN", "'s", "Martin", "Savidge", ",", "embedded", "with", "the", "1st", "Battalion", ",", "7th", "Marines", ",", "reports", "the", "unit", "has", "reached", "the", "extreme", "southeast", "suburbs", "of", "Baghdad", ",", "adding", "to", "forces", "the", "U.S.", "says", "now", "encircle", "the", "city", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "CNN's Martin Savidge, embedded with the 1st Battalion, 7th Marines, reports the unit has reached the extreme southeast suburbs of Baghdad, adding to forces the U.S. says now encircle the city",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "the city",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E49-24",
+    "start" : 34,
+    "end" : 35
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R18",
+  "mentionArg1" : {
+    "extent" : "forces",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E19-23",
+    "start" : 28,
+    "end" : 28
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R18-1",
+  "relationSubType" : "Near",
+  "Sentence" : "CNN 's Martin Savidge , embedded with the 1st Battalion , 7th Marines , reports the unit has reached the extreme southeast suburbs of Baghdad , adding to forces the U.S. says now encircle the city .",
+  "sentence_index" : 10,
+  "Tokens" : [ "CNN", "'s", "Martin", "Savidge", ",", "embedded", "with", "the", "1st", "Battalion", ",", "7th", "Marines", ",", "reports", "the", "unit", "has", "reached", "the", "extreme", "southeast", "suburbs", "of", "Baghdad", ",", "adding", "to", "forces", "the", "U.S.", "says", "now", "encircle", "the", "city", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "At the Pentagon, Barbara Starr reports officials say today begins a new strategy in the skies over Baghdad",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "the Pentagon",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E11-25",
+    "start" : 1,
+    "end" : 2
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R19",
+  "mentionArg1" : {
+    "extent" : "Barbara Starr",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E9-26",
+    "start" : 4,
+    "end" : 5
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R19-1",
+  "relationSubType" : "Located",
+  "Sentence" : "At the Pentagon , Barbara Starr reports officials say today begins a new strategy in the skies over Baghdad .",
+  "sentence_index" : 12,
+  "Tokens" : [ "At", "the", "Pentagon", ",", "Barbara", "Starr", "reports", "officials", "say", "today", "begins", "a", "new", "strategy", "in", "the", "skies", "over", "Baghdad", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "The coalition air force",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E7-31",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R20",
+  "mentionArg1" : {
+    "extent" : "The coalition air force",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E22-30",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R20-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The coalition air force will begin providing urban combat air support over the city .",
+  "sentence_index" : 13,
+  "Tokens" : [ "The", "coalition", "air", "force", "will", "begin", "providing", "urban", "combat", "air", "support", "over", "the", "city", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "CNN's Wolf Blitzer",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E40-57",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R21",
+  "mentionArg1" : {
+    "extent" : "CNN's Wolf Blitzer",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E26-34",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R21-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "CNN 's Wolf Blitzer reports according to an eyewitness , a bomb has hit central Baghdad only a few hundred meters from the Palestine Hotel .",
+  "sentence_index" : 16,
+  "Tokens" : [ "CNN", "'s", "Wolf", "Blitzer", "reports", "according", "to", "an", "eyewitness", ",", "a", "bomb", "has", "hit", "central", "Baghdad", "only", "a", "few", "hundred", "meters", "from", "the", "Palestine", "Hotel", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The Palestine Hotel is where much of the international press corps is based",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "where much of the international press corps is based",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E30-41",
+    "start" : 4,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R22",
+  "mentionArg1" : {
+    "extent" : "much of the international press corps",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E32-42",
+    "start" : 5,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R22-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The Palestine Hotel is where much of the international press corps is based .",
+  "sentence_index" : 17,
+  "Tokens" : [ "The", "Palestine", "Hotel", "is", "where", "much", "of", "the", "international", "press", "corps", "is", "based", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the international press corps",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "international press",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E35-44",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R23",
+  "mentionArg1" : {
+    "extent" : "the international press corps",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E33-43",
+    "start" : 7,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R23-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "The Palestine Hotel is where much of the international press corps is based .",
+  "sentence_index" : 17,
+  "Tokens" : [ "The", "Palestine", "Hotel", "is", "where", "much", "of", "the", "international", "press", "corps", "is", "based", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "civilian convoys",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "civilian convoys",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E6-8",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R24",
+  "mentionArg1" : {
+    "extent" : "civilian",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E5-7",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R24-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Walter Rodgers reports according to Army sources , Iraqi officials are fleeing Baghdad in droves , using civilian convoys top avoid being targeted by coalition air strikes .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Walter", "Rodgers", "reports", "according", "to", "Army", "sources", ",", "Iraqi", "officials", "are", "fleeing", "Baghdad", "in", "droves", ",", "using", "civilian", "convoys", "top", "avoid", "being", "targeted", "by", "coalition", "air", "strikes", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "CNN's Wolf Blitzer reports according to an eyewitness, a bomb has hit central Baghdad only a few hundred meters from the Palestine Hotel",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "central Baghdad",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E29-38",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R25",
+  "mentionArg1" : {
+    "extent" : "an eyewitness",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E27-36",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R25-1",
+  "relationSubType" : "Located",
+  "Sentence" : "CNN 's Wolf Blitzer reports according to an eyewitness , a bomb has hit central Baghdad only a few hundred meters from the Palestine Hotel .",
+  "sentence_index" : 16,
+  "Tokens" : [ "CNN", "'s", "Wolf", "Blitzer", "reports", "according", "to", "an", "eyewitness", ",", "a", "bomb", "has", "hit", "central", "Baghdad", "only", "a", "few", "hundred", "meters", "from", "the", "Palestine", "Hotel", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "CNN's Wolf Blitzer reports according to an eyewitness, a bomb has hit central Baghdad only a few hundred meters from the Palestine Hotel",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "central Baghdad",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E29-38",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R26",
+  "mentionArg1" : {
+    "extent" : "the Palestine Hotel",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E30-39",
+    "start" : 22,
+    "end" : 24
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R26-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "CNN 's Wolf Blitzer reports according to an eyewitness , a bomb has hit central Baghdad only a few hundred meters from the Palestine Hotel .",
+  "sentence_index" : 16,
+  "Tokens" : [ "CNN", "'s", "Wolf", "Blitzer", "reports", "according", "to", "an", "eyewitness", ",", "a", "bomb", "has", "hit", "central", "Baghdad", "only", "a", "few", "hundred", "meters", "from", "the", "Palestine", "Hotel", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the 1st Battalion, 7th Marines",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "7th Marines",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E17-19",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030405.1600.01-1-R27",
+  "mentionArg1" : {
+    "extent" : "the 1st Battalion, 7th Marines",
+    "argMentionid" : "CNN_IP_20030405.1600.01-1-E16-18",
+    "start" : 7,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030405.1600.01-1-R27-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "CNN 's Martin Savidge , embedded with the 1st Battalion , 7th Marines , reports the unit has reached the extreme southeast suburbs of Baghdad , adding to forces the U.S. says now encircle the city .",
+  "sentence_index" : 10,
+  "Tokens" : [ "CNN", "'s", "Martin", "Savidge", ",", "embedded", "with", "the", "1st", "Battalion", ",", "7th", "Marines", ",", "reports", "the", "unit", "has", "reached", "the", "extreme", "southeast", "suburbs", "of", "Baghdad", ",", "adding", "to", "forces", "the", "U.S.", "says", "now", "encircle", "the", "city", "." ]
+} ]

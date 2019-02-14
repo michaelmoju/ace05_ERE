@@ -1,0 +1,45 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "the 19-year-old white house intern who slept with jfk",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "white house",
+    "argMentionid" : "CNN_ENG_20030515_193533.6-E5-18",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "CNN_ENG_20030515_193533.6-R1",
+  "mentionArg1" : {
+    "extent" : "the 19-year-old white house intern who slept with jfk",
+    "argMentionid" : "CNN_ENG_20030515_193533.6-E6-23",
+    "start" : 12,
+    "end" : 20
+  },
+  "id" : "CNN_ENG_20030515_193533.6-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "in today 's daily news , a 60-year-old woman acknowledges she was the 19-year-old white house intern who slept with jfk. she told the papers , \" i am the mimi . \"",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "today", "'s", "daily", "news", ",", "a", "60-year-old", "woman", "acknowledges", "she", "was", "the", "19-year-old", "white", "house", "intern", "who", "slept", "with", "jfk.", "she", "told", "the", "papers", ",", "\"", "i", "am", "the", "mimi", ".", "\"" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the 19-year-old white house intern who slept with jfk",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "jfk",
+    "argMentionid" : "CNN_ENG_20030515_193533.6-E9-25",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "CNN_ENG_20030515_193533.6-R2",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "CNN_ENG_20030515_193533.6-E6-24",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "CNN_ENG_20030515_193533.6-R2-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "in today 's daily news , a 60-year-old woman acknowledges she was the 19-year-old white house intern who slept with jfk. she told the papers , \" i am the mimi . \"",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "today", "'s", "daily", "news", ",", "a", "60-year-old", "woman", "acknowledges", "she", "was", "the", "19-year-old", "white", "house", "intern", "who", "slept", "with", "jfk.", "she", "told", "the", "papers", ",", "\"", "i", "am", "the", "mimi", ".", "\"" ]
+} ]

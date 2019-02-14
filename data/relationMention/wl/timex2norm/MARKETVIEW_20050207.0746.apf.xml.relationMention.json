@@ -1,0 +1,89 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Apparently Yuganskneftegaz, which was sold to an independent buyer who turned out to be an apparatus of the state (yes, the same state that 1) forced Yukos to do the auction, and 2) ran the auction, not that 3) this is suspicious or anything), and which was then being bought with foreign assistance, is not being bought with foreign assistance",
+  "sentence_length" : 74,
+  "mentionArg2" : {
+    "extent" : "an independent buyer who turned out to be an apparatus of the state",
+    "argMentionid" : "MARKETVIEW_20050207.0746-E1-9",
+    "start" : 9,
+    "end" : 21
+  },
+  "relationID" : "MARKETVIEW_20050207.0746-R1",
+  "mentionArg1" : {
+    "extent" : "which",
+    "argMentionid" : "MARKETVIEW_20050207.0746-E3-8",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "MARKETVIEW_20050207.0746-R1-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Byrne 2005-02-07T07:46:00 Apparently Yuganskneftegaz , which was sold to an independent buyer who turned out to be an apparatus of the state ( yes , the same state that 1 ) forced Yukos to do the auction , and 2 ) ran the auction , not that 3 ) this is suspicious or anything ) , and which was then being bought with foreign assistance , is not being bought with foreign assistance .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Byrne", "2005-02-07T07:46:00", "Apparently", "Yuganskneftegaz", ",", "which", "was", "sold", "to", "an", "independent", "buyer", "who", "turned", "out", "to", "be", "an", "apparatus", "of", "the", "state", "(", "yes", ",", "the", "same", "state", "that", "1", ")", "forced", "Yukos", "to", "do", "the", "auction", ",", "and", "2", ")", "ran", "the", "auction", ",", "not", "that", "3", ")", "this", "is", "suspicious", "or", "anything", ")", ",", "and", "which", "was", "then", "being", "bought", "with", "foreign", "assistance", ",", "is", "not", "being", "bought", "with", "foreign", "assistance", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "someone in the Russian judiciary who could help them out",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "the Russian judiciary",
+    "argMentionid" : "MARKETVIEW_20050207.0746-E11-19",
+    "start" : 27,
+    "end" : 29
+  },
+  "relationID" : "MARKETVIEW_20050207.0746-R2",
+  "mentionArg1" : {
+    "extent" : "someone in the Russian judiciary who could help them out",
+    "argMentionid" : "MARKETVIEW_20050207.0746-E10-18",
+    "start" : 25,
+    "end" : 34
+  },
+  "id" : "MARKETVIEW_20050207.0746-R2-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Anyway , it looks like they 're denying Chinese involvement to avoid a lawsuit , which is funny -- you 'd think they might know someone in the Russian judiciary who could help them out .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Anyway", ",", "it", "looks", "like", "they", "'re", "denying", "Chinese", "involvement", "to", "avoid", "a", "lawsuit", ",", "which", "is", "funny", "--", "you", "'d", "think", "they", "might", "know", "someone", "in", "the", "Russian", "judiciary", "who", "could", "help", "them", "out", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "an apparatus of the state",
+  "sentence_length" : 74,
+  "mentionArg2" : {
+    "extent" : "the state",
+    "argMentionid" : "MARKETVIEW_20050207.0746-E2-11",
+    "start" : 20,
+    "end" : 21
+  },
+  "relationID" : "MARKETVIEW_20050207.0746-R3",
+  "mentionArg1" : {
+    "extent" : "an apparatus of the state",
+    "argMentionid" : "MARKETVIEW_20050207.0746-E1-1",
+    "start" : 17,
+    "end" : 21
+  },
+  "id" : "MARKETVIEW_20050207.0746-R3-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Byrne 2005-02-07T07:46:00 Apparently Yuganskneftegaz , which was sold to an independent buyer who turned out to be an apparatus of the state ( yes , the same state that 1 ) forced Yukos to do the auction , and 2 ) ran the auction , not that 3 ) this is suspicious or anything ) , and which was then being bought with foreign assistance , is not being bought with foreign assistance .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Byrne", "2005-02-07T07:46:00", "Apparently", "Yuganskneftegaz", ",", "which", "was", "sold", "to", "an", "independent", "buyer", "who", "turned", "out", "to", "be", "an", "apparatus", "of", "the", "state", "(", "yes", ",", "the", "same", "state", "that", "1", ")", "forced", "Yukos", "to", "do", "the", "auction", ",", "and", "2", ")", "ran", "the", "auction", ",", "not", "that", "3", ")", "this", "is", "suspicious", "or", "anything", ")", ",", "and", "which", "was", "then", "being", "bought", "with", "foreign", "assistance", ",", "is", "not", "being", "bought", "with", "foreign", "assistance", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Russian judiciary",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "Russian",
+    "argMentionid" : "MARKETVIEW_20050207.0746-E2-5",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "MARKETVIEW_20050207.0746-R4",
+  "mentionArg1" : {
+    "extent" : "the Russian judiciary",
+    "argMentionid" : "MARKETVIEW_20050207.0746-E11-19",
+    "start" : 27,
+    "end" : 29
+  },
+  "id" : "MARKETVIEW_20050207.0746-R4-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Anyway , it looks like they 're denying Chinese involvement to avoid a lawsuit , which is funny -- you 'd think they might know someone in the Russian judiciary who could help them out .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Anyway", ",", "it", "looks", "like", "they", "'re", "denying", "Chinese", "involvement", "to", "avoid", "a", "lawsuit", ",", "which", "is", "funny", "--", "you", "'d", "think", "they", "might", "know", "someone", "in", "the", "Russian", "judiciary", "who", "could", "help", "them", "out", "." ]
+} ]

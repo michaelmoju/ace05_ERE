@@ -1,0 +1,683 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Austin, Tx",
+  "sentence_length" : 62,
+  "mentionArg2" : {
+    "extent" : "Tx",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E31-167",
+    "start" : 32,
+    "end" : 32
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R1",
+  "mentionArg1" : {
+    "extent" : "Austin, Tx",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E30-166",
+    "start" : 30,
+    "end" : 32
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Comments on suggested travel plans through New England Ringo Langly 27 Jan 2005 22:21:56 - 0800 Comments on suggested travel plans through New England Hi all , I live in Austin , Tx , and being one who 's only been as far as Nashville , Tn two friends and I are planning a trip to New England for a week .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Comments", "on", "suggested", "travel", "plans", "through", "New", "England", "Ringo", "Langly", "27", "Jan", "2005", "22:21:56", "-", "0800", "Comments", "on", "suggested", "travel", "plans", "through", "New", "England", "Hi", "all", ",", "I", "live", "in", "Austin", ",", "Tx", ",", "and", "being", "one", "who", "'s", "only", "been", "as", "far", "as", "Nashville", ",", "Tn", "two", "friends", "and", "I", "are", "planning", "a", "trip", "to", "New", "England", "for", "a", "week", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Austin, Tx",
+  "sentence_length" : 229,
+  "mentionArg2" : {
+    "extent" : "Tx",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E31-2",
+    "start" : 29,
+    "end" : 29
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R1",
+  "mentionArg1" : {
+    "extent" : "Austin, Tx",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E30-1",
+    "start" : 27,
+    "end" : 29
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R1-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "We 're planning on going July 4th week -- what better time to be in Boston I figure : ) Saturday , July 2nd - Fly from Austin , Tx to Boston and stay with friends living in Boston Sunday , July 3rd - Hang around Boston and stay with friends Monday , July 4th - Hang around Boston and stay with friends Tuesday , July 5th - Leave early and drive to Niagara Falls , NY - 467 miles - Stay in Niagara Falls Wednesday , July 6th - Leave from Niagara Falls and drive to Toronto , On - 85 miles - Drive back to Niagara Falls that evening - 85 miles - Stay in Niagara Falls Thursday , July 7th - Leave Niagara Falls and drive to Red Bank , NY - 435 miles - Stay in Red Bank for the night - We want to hit-up Jay and Silent Bob 's Silent Stash Friday , July 8th - Drive back to Boston passing through New York -- do whatever -- 262 Miles from Red Banks to Boston but add whatever miles from New York - Stay the night with friends in Boston Saturday , July 9th - Fly back to Austin I figure staying in Red Bank , NJ , which is n't far from NYC , is cheaper then staying in the city .",
+  "sentence_index" : 2,
+  "Tokens" : [ "We", "'re", "planning", "on", "going", "July", "4th", "week", "--", "what", "better", "time", "to", "be", "in", "Boston", "I", "figure", ":", ")", "Saturday", ",", "July", "2nd", "-", "Fly", "from", "Austin", ",", "Tx", "to", "Boston", "and", "stay", "with", "friends", "living", "in", "Boston", "Sunday", ",", "July", "3rd", "-", "Hang", "around", "Boston", "and", "stay", "with", "friends", "Monday", ",", "July", "4th", "-", "Hang", "around", "Boston", "and", "stay", "with", "friends", "Tuesday", ",", "July", "5th", "-", "Leave", "early", "and", "drive", "to", "Niagara", "Falls", ",", "NY", "-", "467", "miles", "-", "Stay", "in", "Niagara", "Falls", "Wednesday", ",", "July", "6th", "-", "Leave", "from", "Niagara", "Falls", "and", "drive", "to", "Toronto", ",", "On", "-", "85", "miles", "-", "Drive", "back", "to", "Niagara", "Falls", "that", "evening", "-", "85", "miles", "-", "Stay", "in", "Niagara", "Falls", "Thursday", ",", "July", "7th", "-", "Leave", "Niagara", "Falls", "and", "drive", "to", "Red", "Bank", ",", "NY", "-", "435", "miles", "-", "Stay", "in", "Red", "Bank", "for", "the", "night", "-", "We", "want", "to", "hit-up", "Jay", "and", "Silent", "Bob", "'s", "Silent", "Stash", "Friday", ",", "July", "8th", "-", "Drive", "back", "to", "Boston", "passing", "through", "New", "York", "--", "do", "whatever", "--", "262", "Miles", "from", "Red", "Banks", "to", "Boston", "but", "add", "whatever", "miles", "from", "New", "York", "-", "Stay", "the", "night", "with", "friends", "in", "Boston", "Saturday", ",", "July", "9th", "-", "Fly", "back", "to", "Austin", "I", "figure", "staying", "in", "Red", "Bank", ",", "NJ", ",", "which", "is", "n't", "far", "from", "NYC", ",", "is", "cheaper", "then", "staying", "in", "the", "city", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "I live in Austin, Tx, and being one who's only been as far as Nashville, Tn two friends and I are planning a trip to New England for a week",
+  "sentence_length" : 62,
+  "mentionArg2" : {
+    "extent" : "Austin, Tx",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E30-166",
+    "start" : 30,
+    "end" : 32
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R2",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E28-154",
+    "start" : 27,
+    "end" : 27
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R2-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Comments on suggested travel plans through New England Ringo Langly 27 Jan 2005 22:21:56 - 0800 Comments on suggested travel plans through New England Hi all , I live in Austin , Tx , and being one who 's only been as far as Nashville , Tn two friends and I are planning a trip to New England for a week .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Comments", "on", "suggested", "travel", "plans", "through", "New", "England", "Ringo", "Langly", "27", "Jan", "2005", "22:21:56", "-", "0800", "Comments", "on", "suggested", "travel", "plans", "through", "New", "England", "Hi", "all", ",", "I", "live", "in", "Austin", ",", "Tx", ",", "and", "being", "one", "who", "'s", "only", "been", "as", "far", "as", "Nashville", ",", "Tn", "two", "friends", "and", "I", "are", "planning", "a", "trip", "to", "New", "England", "for", "a", "week", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "one who's only been as far as Nashville, Tn",
+  "sentence_length" : 62,
+  "mentionArg2" : {
+    "extent" : "Nashville, Tn",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E32-170",
+    "start" : 44,
+    "end" : 46
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R3",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E28-169",
+    "start" : 37,
+    "end" : 37
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Comments on suggested travel plans through New England Ringo Langly 27 Jan 2005 22:21:56 - 0800 Comments on suggested travel plans through New England Hi all , I live in Austin , Tx , and being one who 's only been as far as Nashville , Tn two friends and I are planning a trip to New England for a week .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Comments", "on", "suggested", "travel", "plans", "through", "New", "England", "Ringo", "Langly", "27", "Jan", "2005", "22:21:56", "-", "0800", "Comments", "on", "suggested", "travel", "plans", "through", "New", "England", "Hi", "all", ",", "I", "live", "in", "Austin", ",", "Tx", ",", "and", "being", "one", "who", "'s", "only", "been", "as", "far", "as", "Nashville", ",", "Tn", "two", "friends", "and", "I", "are", "planning", "a", "trip", "to", "New", "England", "for", "a", "week", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Nashville, Tn",
+  "sentence_length" : 62,
+  "mentionArg2" : {
+    "extent" : "Tn",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E33-171",
+    "start" : 46,
+    "end" : 46
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R4",
+  "mentionArg1" : {
+    "extent" : "Nashville, Tn",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E32-170",
+    "start" : 44,
+    "end" : 46
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Comments on suggested travel plans through New England Ringo Langly 27 Jan 2005 22:21:56 - 0800 Comments on suggested travel plans through New England Hi all , I live in Austin , Tx , and being one who 's only been as far as Nashville , Tn two friends and I are planning a trip to New England for a week .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Comments", "on", "suggested", "travel", "plans", "through", "New", "England", "Ringo", "Langly", "27", "Jan", "2005", "22:21:56", "-", "0800", "Comments", "on", "suggested", "travel", "plans", "through", "New", "England", "Hi", "all", ",", "I", "live", "in", "Austin", ",", "Tx", ",", "and", "being", "one", "who", "'s", "only", "been", "as", "far", "as", "Nashville", ",", "Tn", "two", "friends", "and", "I", "are", "planning", "a", "trip", "to", "New", "England", "for", "a", "week", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "friends living in Boston",
+  "sentence_length" : 229,
+  "mentionArg2" : {
+    "extent" : "Boston",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E38-5",
+    "start" : 38,
+    "end" : 38
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R6",
+  "mentionArg1" : {
+    "extent" : "friends living in Boston",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E1-4",
+    "start" : 35,
+    "end" : 38
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R6-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "We 're planning on going July 4th week -- what better time to be in Boston I figure : ) Saturday , July 2nd - Fly from Austin , Tx to Boston and stay with friends living in Boston Sunday , July 3rd - Hang around Boston and stay with friends Monday , July 4th - Hang around Boston and stay with friends Tuesday , July 5th - Leave early and drive to Niagara Falls , NY - 467 miles - Stay in Niagara Falls Wednesday , July 6th - Leave from Niagara Falls and drive to Toronto , On - 85 miles - Drive back to Niagara Falls that evening - 85 miles - Stay in Niagara Falls Thursday , July 7th - Leave Niagara Falls and drive to Red Bank , NY - 435 miles - Stay in Red Bank for the night - We want to hit-up Jay and Silent Bob 's Silent Stash Friday , July 8th - Drive back to Boston passing through New York -- do whatever -- 262 Miles from Red Banks to Boston but add whatever miles from New York - Stay the night with friends in Boston Saturday , July 9th - Fly back to Austin I figure staying in Red Bank , NJ , which is n't far from NYC , is cheaper then staying in the city .",
+  "sentence_index" : 2,
+  "Tokens" : [ "We", "'re", "planning", "on", "going", "July", "4th", "week", "--", "what", "better", "time", "to", "be", "in", "Boston", "I", "figure", ":", ")", "Saturday", ",", "July", "2nd", "-", "Fly", "from", "Austin", ",", "Tx", "to", "Boston", "and", "stay", "with", "friends", "living", "in", "Boston", "Sunday", ",", "July", "3rd", "-", "Hang", "around", "Boston", "and", "stay", "with", "friends", "Monday", ",", "July", "4th", "-", "Hang", "around", "Boston", "and", "stay", "with", "friends", "Tuesday", ",", "July", "5th", "-", "Leave", "early", "and", "drive", "to", "Niagara", "Falls", ",", "NY", "-", "467", "miles", "-", "Stay", "in", "Niagara", "Falls", "Wednesday", ",", "July", "6th", "-", "Leave", "from", "Niagara", "Falls", "and", "drive", "to", "Toronto", ",", "On", "-", "85", "miles", "-", "Drive", "back", "to", "Niagara", "Falls", "that", "evening", "-", "85", "miles", "-", "Stay", "in", "Niagara", "Falls", "Thursday", ",", "July", "7th", "-", "Leave", "Niagara", "Falls", "and", "drive", "to", "Red", "Bank", ",", "NY", "-", "435", "miles", "-", "Stay", "in", "Red", "Bank", "for", "the", "night", "-", "We", "want", "to", "hit-up", "Jay", "and", "Silent", "Bob", "'s", "Silent", "Stash", "Friday", ",", "July", "8th", "-", "Drive", "back", "to", "Boston", "passing", "through", "New", "York", "--", "do", "whatever", "--", "262", "Miles", "from", "Red", "Banks", "to", "Boston", "but", "add", "whatever", "miles", "from", "New", "York", "-", "Stay", "the", "night", "with", "friends", "in", "Boston", "Saturday", ",", "July", "9th", "-", "Fly", "back", "to", "Austin", "I", "figure", "staying", "in", "Red", "Bank", ",", "NJ", ",", "which", "is", "n't", "far", "from", "NYC", ",", "is", "cheaper", "then", "staying", "in", "the", "city", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Stay the night with friends in Boston",
+  "sentence_length" : 229,
+  "mentionArg2" : {
+    "extent" : "Boston",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E38-30",
+    "start" : 195,
+    "end" : 195
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R6",
+  "mentionArg1" : {
+    "extent" : "friends",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E1-29",
+    "start" : 193,
+    "end" : 193
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R6-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "We 're planning on going July 4th week -- what better time to be in Boston I figure : ) Saturday , July 2nd - Fly from Austin , Tx to Boston and stay with friends living in Boston Sunday , July 3rd - Hang around Boston and stay with friends Monday , July 4th - Hang around Boston and stay with friends Tuesday , July 5th - Leave early and drive to Niagara Falls , NY - 467 miles - Stay in Niagara Falls Wednesday , July 6th - Leave from Niagara Falls and drive to Toronto , On - 85 miles - Drive back to Niagara Falls that evening - 85 miles - Stay in Niagara Falls Thursday , July 7th - Leave Niagara Falls and drive to Red Bank , NY - 435 miles - Stay in Red Bank for the night - We want to hit-up Jay and Silent Bob 's Silent Stash Friday , July 8th - Drive back to Boston passing through New York -- do whatever -- 262 Miles from Red Banks to Boston but add whatever miles from New York - Stay the night with friends in Boston Saturday , July 9th - Fly back to Austin I figure staying in Red Bank , NJ , which is n't far from NYC , is cheaper then staying in the city .",
+  "sentence_index" : 2,
+  "Tokens" : [ "We", "'re", "planning", "on", "going", "July", "4th", "week", "--", "what", "better", "time", "to", "be", "in", "Boston", "I", "figure", ":", ")", "Saturday", ",", "July", "2nd", "-", "Fly", "from", "Austin", ",", "Tx", "to", "Boston", "and", "stay", "with", "friends", "living", "in", "Boston", "Sunday", ",", "July", "3rd", "-", "Hang", "around", "Boston", "and", "stay", "with", "friends", "Monday", ",", "July", "4th", "-", "Hang", "around", "Boston", "and", "stay", "with", "friends", "Tuesday", ",", "July", "5th", "-", "Leave", "early", "and", "drive", "to", "Niagara", "Falls", ",", "NY", "-", "467", "miles", "-", "Stay", "in", "Niagara", "Falls", "Wednesday", ",", "July", "6th", "-", "Leave", "from", "Niagara", "Falls", "and", "drive", "to", "Toronto", ",", "On", "-", "85", "miles", "-", "Drive", "back", "to", "Niagara", "Falls", "that", "evening", "-", "85", "miles", "-", "Stay", "in", "Niagara", "Falls", "Thursday", ",", "July", "7th", "-", "Leave", "Niagara", "Falls", "and", "drive", "to", "Red", "Bank", ",", "NY", "-", "435", "miles", "-", "Stay", "in", "Red", "Bank", "for", "the", "night", "-", "We", "want", "to", "hit-up", "Jay", "and", "Silent", "Bob", "'s", "Silent", "Stash", "Friday", ",", "July", "8th", "-", "Drive", "back", "to", "Boston", "passing", "through", "New", "York", "--", "do", "whatever", "--", "262", "Miles", "from", "Red", "Banks", "to", "Boston", "but", "add", "whatever", "miles", "from", "New", "York", "-", "Stay", "the", "night", "with", "friends", "in", "Boston", "Saturday", ",", "July", "9th", "-", "Fly", "back", "to", "Austin", "I", "figure", "staying", "in", "Red", "Bank", ",", "NJ", ",", "which", "is", "n't", "far", "from", "NYC", ",", "is", "cheaper", "then", "staying", "in", "the", "city", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "friends living up there we hope to spend a few days with visiting",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E38-116",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R6",
+  "mentionArg1" : {
+    "extent" : "friends living up there we hope to spend a few days with visiting",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E1-115",
+    "start" : 14,
+    "end" : 26
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R6-3",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "I know the bulk of our trip is in Boston , but we have friends living up there we hope to spend a few days with visiting .",
+  "sentence_index" : 26,
+  "Tokens" : [ "I", "know", "the", "bulk", "of", "our", "trip", "is", "in", "Boston", ",", "but", "we", "have", "friends", "living", "up", "there", "we", "hope", "to", "spend", "a", "few", "days", "with", "visiting", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "two friends and I",
+  "sentence_length" : 62,
+  "mentionArg2" : {
+    "extent" : "I",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E28-173",
+    "start" : 50,
+    "end" : 50
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R7",
+  "mentionArg1" : {
+    "extent" : "two friends",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E34-172",
+    "start" : 47,
+    "end" : 48
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R7-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "Comments on suggested travel plans through New England Ringo Langly 27 Jan 2005 22:21:56 - 0800 Comments on suggested travel plans through New England Hi all , I live in Austin , Tx , and being one who 's only been as far as Nashville , Tn two friends and I are planning a trip to New England for a week .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Comments", "on", "suggested", "travel", "plans", "through", "New", "England", "Ringo", "Langly", "27", "Jan", "2005", "22:21:56", "-", "0800", "Comments", "on", "suggested", "travel", "plans", "through", "New", "England", "Hi", "all", ",", "I", "live", "in", "Austin", ",", "Tx", ",", "and", "being", "one", "who", "'s", "only", "been", "as", "far", "as", "Nashville", ",", "Tn", "two", "friends", "and", "I", "are", "planning", "a", "trip", "to", "New", "England", "for", "a", "week", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Niagara Falls, NY",
+  "sentence_length" : 229,
+  "mentionArg2" : {
+    "extent" : "NY",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E3-11",
+    "start" : 76,
+    "end" : 76
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R8",
+  "mentionArg1" : {
+    "extent" : "Niagara Falls, NY",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E2-10",
+    "start" : 73,
+    "end" : 76
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R8-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "We 're planning on going July 4th week -- what better time to be in Boston I figure : ) Saturday , July 2nd - Fly from Austin , Tx to Boston and stay with friends living in Boston Sunday , July 3rd - Hang around Boston and stay with friends Monday , July 4th - Hang around Boston and stay with friends Tuesday , July 5th - Leave early and drive to Niagara Falls , NY - 467 miles - Stay in Niagara Falls Wednesday , July 6th - Leave from Niagara Falls and drive to Toronto , On - 85 miles - Drive back to Niagara Falls that evening - 85 miles - Stay in Niagara Falls Thursday , July 7th - Leave Niagara Falls and drive to Red Bank , NY - 435 miles - Stay in Red Bank for the night - We want to hit-up Jay and Silent Bob 's Silent Stash Friday , July 8th - Drive back to Boston passing through New York -- do whatever -- 262 Miles from Red Banks to Boston but add whatever miles from New York - Stay the night with friends in Boston Saturday , July 9th - Fly back to Austin I figure staying in Red Bank , NJ , which is n't far from NYC , is cheaper then staying in the city .",
+  "sentence_index" : 2,
+  "Tokens" : [ "We", "'re", "planning", "on", "going", "July", "4th", "week", "--", "what", "better", "time", "to", "be", "in", "Boston", "I", "figure", ":", ")", "Saturday", ",", "July", "2nd", "-", "Fly", "from", "Austin", ",", "Tx", "to", "Boston", "and", "stay", "with", "friends", "living", "in", "Boston", "Sunday", ",", "July", "3rd", "-", "Hang", "around", "Boston", "and", "stay", "with", "friends", "Monday", ",", "July", "4th", "-", "Hang", "around", "Boston", "and", "stay", "with", "friends", "Tuesday", ",", "July", "5th", "-", "Leave", "early", "and", "drive", "to", "Niagara", "Falls", ",", "NY", "-", "467", "miles", "-", "Stay", "in", "Niagara", "Falls", "Wednesday", ",", "July", "6th", "-", "Leave", "from", "Niagara", "Falls", "and", "drive", "to", "Toronto", ",", "On", "-", "85", "miles", "-", "Drive", "back", "to", "Niagara", "Falls", "that", "evening", "-", "85", "miles", "-", "Stay", "in", "Niagara", "Falls", "Thursday", ",", "July", "7th", "-", "Leave", "Niagara", "Falls", "and", "drive", "to", "Red", "Bank", ",", "NY", "-", "435", "miles", "-", "Stay", "in", "Red", "Bank", "for", "the", "night", "-", "We", "want", "to", "hit-up", "Jay", "and", "Silent", "Bob", "'s", "Silent", "Stash", "Friday", ",", "July", "8th", "-", "Drive", "back", "to", "Boston", "passing", "through", "New", "York", "--", "do", "whatever", "--", "262", "Miles", "from", "Red", "Banks", "to", "Boston", "but", "add", "whatever", "miles", "from", "New", "York", "-", "Stay", "the", "night", "with", "friends", "in", "Boston", "Saturday", ",", "July", "9th", "-", "Fly", "back", "to", "Austin", "I", "figure", "staying", "in", "Red", "Bank", ",", "NJ", ",", "which", "is", "n't", "far", "from", "NYC", ",", "is", "cheaper", "then", "staying", "in", "the", "city", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Toronto, On",
+  "sentence_length" : 229,
+  "mentionArg2" : {
+    "extent" : "On",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E5-15",
+    "start" : 99,
+    "end" : 99
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R9",
+  "mentionArg1" : {
+    "extent" : "Toronto, On",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E4-14",
+    "start" : 97,
+    "end" : 99
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R9-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "We 're planning on going July 4th week -- what better time to be in Boston I figure : ) Saturday , July 2nd - Fly from Austin , Tx to Boston and stay with friends living in Boston Sunday , July 3rd - Hang around Boston and stay with friends Monday , July 4th - Hang around Boston and stay with friends Tuesday , July 5th - Leave early and drive to Niagara Falls , NY - 467 miles - Stay in Niagara Falls Wednesday , July 6th - Leave from Niagara Falls and drive to Toronto , On - 85 miles - Drive back to Niagara Falls that evening - 85 miles - Stay in Niagara Falls Thursday , July 7th - Leave Niagara Falls and drive to Red Bank , NY - 435 miles - Stay in Red Bank for the night - We want to hit-up Jay and Silent Bob 's Silent Stash Friday , July 8th - Drive back to Boston passing through New York -- do whatever -- 262 Miles from Red Banks to Boston but add whatever miles from New York - Stay the night with friends in Boston Saturday , July 9th - Fly back to Austin I figure staying in Red Bank , NJ , which is n't far from NYC , is cheaper then staying in the city .",
+  "sentence_index" : 2,
+  "Tokens" : [ "We", "'re", "planning", "on", "going", "July", "4th", "week", "--", "what", "better", "time", "to", "be", "in", "Boston", "I", "figure", ":", ")", "Saturday", ",", "July", "2nd", "-", "Fly", "from", "Austin", ",", "Tx", "to", "Boston", "and", "stay", "with", "friends", "living", "in", "Boston", "Sunday", ",", "July", "3rd", "-", "Hang", "around", "Boston", "and", "stay", "with", "friends", "Monday", ",", "July", "4th", "-", "Hang", "around", "Boston", "and", "stay", "with", "friends", "Tuesday", ",", "July", "5th", "-", "Leave", "early", "and", "drive", "to", "Niagara", "Falls", ",", "NY", "-", "467", "miles", "-", "Stay", "in", "Niagara", "Falls", "Wednesday", ",", "July", "6th", "-", "Leave", "from", "Niagara", "Falls", "and", "drive", "to", "Toronto", ",", "On", "-", "85", "miles", "-", "Drive", "back", "to", "Niagara", "Falls", "that", "evening", "-", "85", "miles", "-", "Stay", "in", "Niagara", "Falls", "Thursday", ",", "July", "7th", "-", "Leave", "Niagara", "Falls", "and", "drive", "to", "Red", "Bank", ",", "NY", "-", "435", "miles", "-", "Stay", "in", "Red", "Bank", "for", "the", "night", "-", "We", "want", "to", "hit-up", "Jay", "and", "Silent", "Bob", "'s", "Silent", "Stash", "Friday", ",", "July", "8th", "-", "Drive", "back", "to", "Boston", "passing", "through", "New", "York", "--", "do", "whatever", "--", "262", "Miles", "from", "Red", "Banks", "to", "Boston", "but", "add", "whatever", "miles", "from", "New", "York", "-", "Stay", "the", "night", "with", "friends", "in", "Boston", "Saturday", ",", "July", "9th", "-", "Fly", "back", "to", "Austin", "I", "figure", "staying", "in", "Red", "Bank", ",", "NJ", ",", "which", "is", "n't", "far", "from", "NYC", ",", "is", "cheaper", "then", "staying", "in", "the", "city", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Red Bank, NY",
+  "sentence_length" : 229,
+  "mentionArg2" : {
+    "extent" : "NY",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E3-20",
+    "start" : 133,
+    "end" : 133
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R10",
+  "mentionArg1" : {
+    "extent" : "Red Bank, NY",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E6-19",
+    "start" : 130,
+    "end" : 133
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R10-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "We 're planning on going July 4th week -- what better time to be in Boston I figure : ) Saturday , July 2nd - Fly from Austin , Tx to Boston and stay with friends living in Boston Sunday , July 3rd - Hang around Boston and stay with friends Monday , July 4th - Hang around Boston and stay with friends Tuesday , July 5th - Leave early and drive to Niagara Falls , NY - 467 miles - Stay in Niagara Falls Wednesday , July 6th - Leave from Niagara Falls and drive to Toronto , On - 85 miles - Drive back to Niagara Falls that evening - 85 miles - Stay in Niagara Falls Thursday , July 7th - Leave Niagara Falls and drive to Red Bank , NY - 435 miles - Stay in Red Bank for the night - We want to hit-up Jay and Silent Bob 's Silent Stash Friday , July 8th - Drive back to Boston passing through New York -- do whatever -- 262 Miles from Red Banks to Boston but add whatever miles from New York - Stay the night with friends in Boston Saturday , July 9th - Fly back to Austin I figure staying in Red Bank , NJ , which is n't far from NYC , is cheaper then staying in the city .",
+  "sentence_index" : 2,
+  "Tokens" : [ "We", "'re", "planning", "on", "going", "July", "4th", "week", "--", "what", "better", "time", "to", "be", "in", "Boston", "I", "figure", ":", ")", "Saturday", ",", "July", "2nd", "-", "Fly", "from", "Austin", ",", "Tx", "to", "Boston", "and", "stay", "with", "friends", "living", "in", "Boston", "Sunday", ",", "July", "3rd", "-", "Hang", "around", "Boston", "and", "stay", "with", "friends", "Monday", ",", "July", "4th", "-", "Hang", "around", "Boston", "and", "stay", "with", "friends", "Tuesday", ",", "July", "5th", "-", "Leave", "early", "and", "drive", "to", "Niagara", "Falls", ",", "NY", "-", "467", "miles", "-", "Stay", "in", "Niagara", "Falls", "Wednesday", ",", "July", "6th", "-", "Leave", "from", "Niagara", "Falls", "and", "drive", "to", "Toronto", ",", "On", "-", "85", "miles", "-", "Drive", "back", "to", "Niagara", "Falls", "that", "evening", "-", "85", "miles", "-", "Stay", "in", "Niagara", "Falls", "Thursday", ",", "July", "7th", "-", "Leave", "Niagara", "Falls", "and", "drive", "to", "Red", "Bank", ",", "NY", "-", "435", "miles", "-", "Stay", "in", "Red", "Bank", "for", "the", "night", "-", "We", "want", "to", "hit-up", "Jay", "and", "Silent", "Bob", "'s", "Silent", "Stash", "Friday", ",", "July", "8th", "-", "Drive", "back", "to", "Boston", "passing", "through", "New", "York", "--", "do", "whatever", "--", "262", "Miles", "from", "Red", "Banks", "to", "Boston", "but", "add", "whatever", "miles", "from", "New", "York", "-", "Stay", "the", "night", "with", "friends", "in", "Boston", "Saturday", ",", "July", "9th", "-", "Fly", "back", "to", "Austin", "I", "figure", "staying", "in", "Red", "Bank", ",", "NJ", ",", "which", "is", "n't", "far", "from", "NYC", ",", "is", "cheaper", "then", "staying", "in", "the", "city", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "We want to hit-up Jay and Silent Bob's Silent Stash",
+  "sentence_length" : 229,
+  "mentionArg2" : {
+    "extent" : "Jay and Silent Bob's Silent Stash",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E7-23",
+    "start" : 150,
+    "end" : 156
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R11",
+  "mentionArg1" : {
+    "extent" : "We",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E36-22",
+    "start" : 146,
+    "end" : 146
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "We 're planning on going July 4th week -- what better time to be in Boston I figure : ) Saturday , July 2nd - Fly from Austin , Tx to Boston and stay with friends living in Boston Sunday , July 3rd - Hang around Boston and stay with friends Monday , July 4th - Hang around Boston and stay with friends Tuesday , July 5th - Leave early and drive to Niagara Falls , NY - 467 miles - Stay in Niagara Falls Wednesday , July 6th - Leave from Niagara Falls and drive to Toronto , On - 85 miles - Drive back to Niagara Falls that evening - 85 miles - Stay in Niagara Falls Thursday , July 7th - Leave Niagara Falls and drive to Red Bank , NY - 435 miles - Stay in Red Bank for the night - We want to hit-up Jay and Silent Bob 's Silent Stash Friday , July 8th - Drive back to Boston passing through New York -- do whatever -- 262 Miles from Red Banks to Boston but add whatever miles from New York - Stay the night with friends in Boston Saturday , July 9th - Fly back to Austin I figure staying in Red Bank , NJ , which is n't far from NYC , is cheaper then staying in the city .",
+  "sentence_index" : 2,
+  "Tokens" : [ "We", "'re", "planning", "on", "going", "July", "4th", "week", "--", "what", "better", "time", "to", "be", "in", "Boston", "I", "figure", ":", ")", "Saturday", ",", "July", "2nd", "-", "Fly", "from", "Austin", ",", "Tx", "to", "Boston", "and", "stay", "with", "friends", "living", "in", "Boston", "Sunday", ",", "July", "3rd", "-", "Hang", "around", "Boston", "and", "stay", "with", "friends", "Monday", ",", "July", "4th", "-", "Hang", "around", "Boston", "and", "stay", "with", "friends", "Tuesday", ",", "July", "5th", "-", "Leave", "early", "and", "drive", "to", "Niagara", "Falls", ",", "NY", "-", "467", "miles", "-", "Stay", "in", "Niagara", "Falls", "Wednesday", ",", "July", "6th", "-", "Leave", "from", "Niagara", "Falls", "and", "drive", "to", "Toronto", ",", "On", "-", "85", "miles", "-", "Drive", "back", "to", "Niagara", "Falls", "that", "evening", "-", "85", "miles", "-", "Stay", "in", "Niagara", "Falls", "Thursday", ",", "July", "7th", "-", "Leave", "Niagara", "Falls", "and", "drive", "to", "Red", "Bank", ",", "NY", "-", "435", "miles", "-", "Stay", "in", "Red", "Bank", "for", "the", "night", "-", "We", "want", "to", "hit-up", "Jay", "and", "Silent", "Bob", "'s", "Silent", "Stash", "Friday", ",", "July", "8th", "-", "Drive", "back", "to", "Boston", "passing", "through", "New", "York", "--", "do", "whatever", "--", "262", "Miles", "from", "Red", "Banks", "to", "Boston", "but", "add", "whatever", "miles", "from", "New", "York", "-", "Stay", "the", "night", "with", "friends", "in", "Boston", "Saturday", ",", "July", "9th", "-", "Fly", "back", "to", "Austin", "I", "figure", "staying", "in", "Red", "Bank", ",", "NJ", ",", "which", "is", "n't", "far", "from", "NYC", ",", "is", "cheaper", "then", "staying", "in", "the", "city", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Red Bank, NJ",
+  "sentence_length" : 229,
+  "mentionArg2" : {
+    "extent" : "NJ",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E8-34",
+    "start" : 212,
+    "end" : 212
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R13",
+  "mentionArg1" : {
+    "extent" : "Red Bank, NJ",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E6-33",
+    "start" : 209,
+    "end" : 212
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R13-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "We 're planning on going July 4th week -- what better time to be in Boston I figure : ) Saturday , July 2nd - Fly from Austin , Tx to Boston and stay with friends living in Boston Sunday , July 3rd - Hang around Boston and stay with friends Monday , July 4th - Hang around Boston and stay with friends Tuesday , July 5th - Leave early and drive to Niagara Falls , NY - 467 miles - Stay in Niagara Falls Wednesday , July 6th - Leave from Niagara Falls and drive to Toronto , On - 85 miles - Drive back to Niagara Falls that evening - 85 miles - Stay in Niagara Falls Thursday , July 7th - Leave Niagara Falls and drive to Red Bank , NY - 435 miles - Stay in Red Bank for the night - We want to hit-up Jay and Silent Bob 's Silent Stash Friday , July 8th - Drive back to Boston passing through New York -- do whatever -- 262 Miles from Red Banks to Boston but add whatever miles from New York - Stay the night with friends in Boston Saturday , July 9th - Fly back to Austin I figure staying in Red Bank , NJ , which is n't far from NYC , is cheaper then staying in the city .",
+  "sentence_index" : 2,
+  "Tokens" : [ "We", "'re", "planning", "on", "going", "July", "4th", "week", "--", "what", "better", "time", "to", "be", "in", "Boston", "I", "figure", ":", ")", "Saturday", ",", "July", "2nd", "-", "Fly", "from", "Austin", ",", "Tx", "to", "Boston", "and", "stay", "with", "friends", "living", "in", "Boston", "Sunday", ",", "July", "3rd", "-", "Hang", "around", "Boston", "and", "stay", "with", "friends", "Monday", ",", "July", "4th", "-", "Hang", "around", "Boston", "and", "stay", "with", "friends", "Tuesday", ",", "July", "5th", "-", "Leave", "early", "and", "drive", "to", "Niagara", "Falls", ",", "NY", "-", "467", "miles", "-", "Stay", "in", "Niagara", "Falls", "Wednesday", ",", "July", "6th", "-", "Leave", "from", "Niagara", "Falls", "and", "drive", "to", "Toronto", ",", "On", "-", "85", "miles", "-", "Drive", "back", "to", "Niagara", "Falls", "that", "evening", "-", "85", "miles", "-", "Stay", "in", "Niagara", "Falls", "Thursday", ",", "July", "7th", "-", "Leave", "Niagara", "Falls", "and", "drive", "to", "Red", "Bank", ",", "NY", "-", "435", "miles", "-", "Stay", "in", "Red", "Bank", "for", "the", "night", "-", "We", "want", "to", "hit-up", "Jay", "and", "Silent", "Bob", "'s", "Silent", "Stash", "Friday", ",", "July", "8th", "-", "Drive", "back", "to", "Boston", "passing", "through", "New", "York", "--", "do", "whatever", "--", "262", "Miles", "from", "Red", "Banks", "to", "Boston", "but", "add", "whatever", "miles", "from", "New", "York", "-", "Stay", "the", "night", "with", "friends", "in", "Boston", "Saturday", ",", "July", "9th", "-", "Fly", "back", "to", "Austin", "I", "figure", "staying", "in", "Red", "Bank", ",", "NJ", ",", "which", "is", "n't", "far", "from", "NYC", ",", "is", "cheaper", "then", "staying", "in", "the", "city", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I figure staying in Red Bank, NJ, which isn't far from NYC, is cheaper then staying in the city",
+  "sentence_length" : 229,
+  "mentionArg2" : {
+    "extent" : "NYC",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E9-35",
+    "start" : 219,
+    "end" : 219
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R14",
+  "mentionArg1" : {
+    "extent" : "Red Bank, NJ",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E6-33",
+    "start" : 209,
+    "end" : 212
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R14-1",
+  "relationSubType" : "Near",
+  "Sentence" : "We 're planning on going July 4th week -- what better time to be in Boston I figure : ) Saturday , July 2nd - Fly from Austin , Tx to Boston and stay with friends living in Boston Sunday , July 3rd - Hang around Boston and stay with friends Monday , July 4th - Hang around Boston and stay with friends Tuesday , July 5th - Leave early and drive to Niagara Falls , NY - 467 miles - Stay in Niagara Falls Wednesday , July 6th - Leave from Niagara Falls and drive to Toronto , On - 85 miles - Drive back to Niagara Falls that evening - 85 miles - Stay in Niagara Falls Thursday , July 7th - Leave Niagara Falls and drive to Red Bank , NY - 435 miles - Stay in Red Bank for the night - We want to hit-up Jay and Silent Bob 's Silent Stash Friday , July 8th - Drive back to Boston passing through New York -- do whatever -- 262 Miles from Red Banks to Boston but add whatever miles from New York - Stay the night with friends in Boston Saturday , July 9th - Fly back to Austin I figure staying in Red Bank , NJ , which is n't far from NYC , is cheaper then staying in the city .",
+  "sentence_index" : 2,
+  "Tokens" : [ "We", "'re", "planning", "on", "going", "July", "4th", "week", "--", "what", "better", "time", "to", "be", "in", "Boston", "I", "figure", ":", ")", "Saturday", ",", "July", "2nd", "-", "Fly", "from", "Austin", ",", "Tx", "to", "Boston", "and", "stay", "with", "friends", "living", "in", "Boston", "Sunday", ",", "July", "3rd", "-", "Hang", "around", "Boston", "and", "stay", "with", "friends", "Monday", ",", "July", "4th", "-", "Hang", "around", "Boston", "and", "stay", "with", "friends", "Tuesday", ",", "July", "5th", "-", "Leave", "early", "and", "drive", "to", "Niagara", "Falls", ",", "NY", "-", "467", "miles", "-", "Stay", "in", "Niagara", "Falls", "Wednesday", ",", "July", "6th", "-", "Leave", "from", "Niagara", "Falls", "and", "drive", "to", "Toronto", ",", "On", "-", "85", "miles", "-", "Drive", "back", "to", "Niagara", "Falls", "that", "evening", "-", "85", "miles", "-", "Stay", "in", "Niagara", "Falls", "Thursday", ",", "July", "7th", "-", "Leave", "Niagara", "Falls", "and", "drive", "to", "Red", "Bank", ",", "NY", "-", "435", "miles", "-", "Stay", "in", "Red", "Bank", "for", "the", "night", "-", "We", "want", "to", "hit-up", "Jay", "and", "Silent", "Bob", "'s", "Silent", "Stash", "Friday", ",", "July", "8th", "-", "Drive", "back", "to", "Boston", "passing", "through", "New", "York", "--", "do", "whatever", "--", "262", "Miles", "from", "Red", "Banks", "to", "Boston", "but", "add", "whatever", "miles", "from", "New", "York", "-", "Stay", "the", "night", "with", "friends", "in", "Boston", "Saturday", ",", "July", "9th", "-", "Fly", "back", "to", "Austin", "I", "figure", "staying", "in", "Red", "Bank", ",", "NJ", ",", "which", "is", "n't", "far", "from", "NYC", ",", "is", "cheaper", "then", "staying", "in", "the", "city", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "I know there's WAY too much to do, but I have another friend who works at the MET I'll try to hook-up with",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "another friend who works at the MET I'll try to hook-up with",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E10-42",
+    "start" : 13,
+    "end" : 25
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R15",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E28-41",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R15-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "I know there 's WAY too much to do , but I have another friend who works at the MET I 'll try to hook-up with .",
+  "sentence_index" : 4,
+  "Tokens" : [ "I", "know", "there", "'s", "WAY", "too", "much", "to", "do", ",", "but", "I", "have", "another", "friend", "who", "works", "at", "the", "MET", "I", "'ll", "try", "to", "hook-up", "with", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "another friend who works at the MET I'll try to hook-up with",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "the MET",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E11-44",
+    "start" : 18,
+    "end" : 19
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R16",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E10-43",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R16-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I know there 's WAY too much to do , but I have another friend who works at the MET I 'll try to hook-up with .",
+  "sentence_index" : 4,
+  "Tokens" : [ "I", "know", "there", "'s", "WAY", "too", "much", "to", "do", ",", "but", "I", "have", "another", "friend", "who", "works", "at", "the", "MET", "I", "'ll", "try", "to", "hook-up", "with", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "We'll plan our few hours in NYC wisely",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "NYC",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E9-48",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R17",
+  "mentionArg1" : {
+    "extent" : "We",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E36-46",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R17-1",
+  "relationSubType" : "Located",
+  "Sentence" : "We 'll plan our few hours in NYC wisely .",
+  "sentence_index" : 5,
+  "Tokens" : [ "We", "'ll", "plan", "our", "few", "hours", "in", "NYC", "wisely", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Also we're hanging in Boston for so many nights to visit with the friends there and hit the sights in that area",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Boston",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E38-51",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R18",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E36-49",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R18-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Also we 're hanging in Boston for so many nights to visit with the friends there and hit the sights in that area .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Also", "we", "'re", "hanging", "in", "Boston", "for", "so", "many", "nights", "to", "visit", "with", "the", "friends", "there", "and", "hit", "the", "sights", "in", "that", "area", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Also we're hanging in Boston for so many nights to visit with the friends there and hit the sights in that area",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E38-53",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R19",
+  "mentionArg1" : {
+    "extent" : "the friends",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E1-52",
+    "start" : 13,
+    "end" : 14
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R19-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Also we 're hanging in Boston for so many nights to visit with the friends there and hit the sights in that area .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Also", "we", "'re", "hanging", "in", "Boston", "for", "so", "many", "nights", "to", "visit", "with", "the", "friends", "there", "and", "hit", "the", "sights", "in", "that", "area", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "You can find hotels in your price range, especially with three sharing a room",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "a room",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E18-83",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R20",
+  "mentionArg1" : {
+    "extent" : "three",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E36-82",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R20-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "You can find hotels in your price range , especially with three sharing a room .",
+  "sentence_index" : 16,
+  "Tokens" : [ "You", "can", "find", "hotels", "in", "your", "price", "range", ",", "especially", "with", "three", "sharing", "a", "room", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "You might want to drop off the car somewhere near Red Bank, or as soon as you arrive in New York, if the drop off charges aren't too much",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "the car",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E12-85",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R21",
+  "mentionArg1" : {
+    "extent" : "You",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E28-84",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R21-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "You might want to drop off the car somewhere near Red Bank , or as soon as you arrive in New York , if the drop off charges are n't too much .",
+  "sentence_index" : 17,
+  "Tokens" : [ "You", "might", "want", "to", "drop", "off", "the", "car", "somewhere", "near", "Red", "Bank", ",", "or", "as", "soon", "as", "you", "arrive", "in", "New", "York", ",", "if", "the", "drop", "off", "charges", "are", "n't", "too", "much", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "somewhere near Red Bank",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Red Bank",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E6-87",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R22",
+  "mentionArg1" : {
+    "extent" : "somewhere near Red Bank",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E19-86",
+    "start" : 8,
+    "end" : 11
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R22-1",
+  "relationSubType" : "Near",
+  "Sentence" : "You might want to drop off the car somewhere near Red Bank , or as soon as you arrive in New York , if the drop off charges are n't too much .",
+  "sentence_index" : 17,
+  "Tokens" : [ "You", "might", "want", "to", "drop", "off", "the", "car", "somewhere", "near", "Red", "Bank", ",", "or", "as", "soon", "as", "you", "arrive", "in", "New", "York", ",", "if", "the", "drop", "off", "charges", "are", "n't", "too", "much", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "You might want to drop off the car somewhere near Red Bank, or as soon as you arrive in New York, if the drop off charges aren't too much",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "somewhere near Red Bank",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E19-86",
+    "start" : 8,
+    "end" : 11
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R23",
+  "mentionArg1" : {
+    "extent" : "You",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E28-84",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R23-1",
+  "relationSubType" : "Located",
+  "Sentence" : "You might want to drop off the car somewhere near Red Bank , or as soon as you arrive in New York , if the drop off charges are n't too much .",
+  "sentence_index" : 17,
+  "Tokens" : [ "You", "might", "want", "to", "drop", "off", "the", "car", "somewhere", "near", "Red", "Bank", ",", "or", "as", "soon", "as", "you", "arrive", "in", "New", "York", ",", "if", "the", "drop", "off", "charges", "are", "n't", "too", "much", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "You might want to drop off the car somewhere near Red Bank, or as soon as you arrive in New York, if the drop off charges aren't too much",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "New York",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E3-89",
+    "start" : 20,
+    "end" : 21
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R24",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E28-88",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R24-1",
+  "relationSubType" : "Located",
+  "Sentence" : "You might want to drop off the car somewhere near Red Bank , or as soon as you arrive in New York , if the drop off charges are n't too much .",
+  "sentence_index" : 17,
+  "Tokens" : [ "You", "might", "want", "to", "drop", "off", "the", "car", "somewhere", "near", "Red", "Bank", ",", "or", "as", "soon", "as", "you", "arrive", "in", "New", "York", ",", "if", "the", "drop", "off", "charges", "are", "n't", "too", "much", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Then you could spend part of one day in New York (and a good part of the next day, assuming you dropped Toronto",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "New York",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E3-91",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R24",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E28-90",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R24-2",
+  "relationSubType" : "Located",
+  "Sentence" : "Then you could spend part of one day in New York ( and a good part of the next day , assuming you dropped Toronto ) .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Then", "you", "could", "spend", "part", "of", "one", "day", "in", "New", "York", "(", "and", "a", "good", "part", "of", "the", "next", "day", ",", "assuming", "you", "dropped", "Toronto", ")", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Then you could take the train or bus back to Boston",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "Boston",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E38-96",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R26",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E28-93",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R26-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Then you could take the train or bus back to Boston .",
+  "sentence_index" : 19,
+  "Tokens" : [ "Then", "you", "could", "take", "the", "train", "or", "bus", "back", "to", "Boston", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "I know the bulk of our trip is in Boston, but we have friends living up there we hope to spend a few days with visiting",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "friends living up there we hope to spend a few days with visiting",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E1-115",
+    "start" : 14,
+    "end" : 26
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R27",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E36-114",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R27-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "I know the bulk of our trip is in Boston , but we have friends living up there we hope to spend a few days with visiting .",
+  "sentence_index" : 26,
+  "Tokens" : [ "I", "know", "the", "bulk", "of", "our", "trip", "is", "in", "Boston", ",", "but", "we", "have", "friends", "living", "up", "there", "we", "hope", "to", "spend", "a", "few", "days", "with", "visiting", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "We're getting a mid-sized vehicle, so if the car gets 20 mpg that's 75 gallons used",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "a mid-sized vehicle",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E12-141",
+    "start" : 3,
+    "end" : 5
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R29",
+  "mentionArg1" : {
+    "extent" : "We",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E36-140",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R29-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "We 're getting a mid-sized vehicle , so if the car gets 20 mpg that 's 75 gallons used .",
+  "sentence_index" : 32,
+  "Tokens" : [ "We", "'re", "getting", "a", "mid-sized", "vehicle", ",", "so", "if", "the", "car", "gets", "20", "mpg", "that", "'s", "75", "gallons", "used", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "various towns we visit",
+  "sentence_length" : 77,
+  "mentionArg2" : {
+    "extent" : "various towns we visit",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E24-138",
+    "start" : 72,
+    "end" : 75
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R30",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E36-139",
+    "start" : 74,
+    "end" : 74
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R30-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Here 's how I figured the price I 'm factoring in -- Boston to Niagara Falls - 467 Miles Niagara Falls to Toronto - 85 Miles and 85 Miles back Niagara Falls to Red Bank , NJ - 435 Miles Red Bank , NJ to Boston ( plus spending some time in NYC ) - 262 Total is 1334 , but I 'm figuring 1500 with some extra for around NYC and various towns we visit .",
+  "sentence_index" : 31,
+  "Tokens" : [ "Here", "'s", "how", "I", "figured", "the", "price", "I", "'m", "factoring", "in", "--", "Boston", "to", "Niagara", "Falls", "-", "467", "Miles", "Niagara", "Falls", "to", "Toronto", "-", "85", "Miles", "and", "85", "Miles", "back", "Niagara", "Falls", "to", "Red", "Bank", ",", "NJ", "-", "435", "Miles", "Red", "Bank", ",", "NJ", "to", "Boston", "(", "plus", "spending", "some", "time", "in", "NYC", ")", "-", "262", "Total", "is", "1334", ",", "but", "I", "'m", "figuring", "1500", "with", "some", "extra", "for", "around", "NYC", "and", "various", "towns", "we", "visit", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "I am from Texas where we drive everywhere, and I've never even set foot on a train -- so forgive me if this is a weird question",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Texas where we drive everywhere",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E31-148",
+    "start" : 3,
+    "end" : 7
+  },
+  "relationID" : "rec.travel.usa-canada_20050128.0121-R31",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "rec.travel.usa-canada_20050128.0121-E28-147",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "rec.travel.usa-canada_20050128.0121-R31-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "I am from Texas where we drive everywhere , and I 've never even set foot on a train -- so forgive me if this is a weird question : ) Thanks again for all the insight and help .",
+  "sentence_index" : 37,
+  "Tokens" : [ "I", "am", "from", "Texas", "where", "we", "drive", "everywhere", ",", "and", "I", "'ve", "never", "even", "set", "foot", "on", "a", "train", "--", "so", "forgive", "me", "if", "this", "is", "a", "weird", "question", ":", ")", "Thanks", "again", "for", "all", "the", "insight", "and", "help", "." ]
+} ]

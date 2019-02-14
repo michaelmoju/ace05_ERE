@@ -1,0 +1,177 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "an airport in key west, florida",
+  "sentence_length" : 83,
+  "mentionArg2" : {
+    "extent" : "key west, florida",
+    "argMentionid" : "CNN_ENG_20030401_233449.5-E2-2",
+    "start" : 3,
+    "end" : 6
+  },
+  "relationID" : "CNN_ENG_20030401_233449.5-R1",
+  "mentionArg1" : {
+    "extent" : "an airport in key west, florida",
+    "argMentionid" : "CNN_ENG_20030401_233449.5-E1-1",
+    "start" : 0,
+    "end" : 6
+  },
+  "id" : "CNN_ENG_20030401_233449.5-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "an airport in key west , florida , today became the setting of what appeared to be a desperate attempt to enter the u . s. by a cuban national. the man was arrested there after authorities say he hijacked a cuban plane using what was reported to be grenades , ordering the pilots to fly to florida. the hijacker got off the plane wearing a jacket that said , america across the back. and a small child clinging to his leg .",
+  "sentence_index" : 0,
+  "Tokens" : [ "an", "airport", "in", "key", "west", ",", "florida", ",", "today", "became", "the", "setting", "of", "what", "appeared", "to", "be", "a", "desperate", "attempt", "to", "enter", "the", "u", ".", "s.", "by", "a", "cuban", "national.", "the", "man", "was", "arrested", "there", "after", "authorities", "say", "he", "hijacked", "a", "cuban", "plane", "using", "what", "was", "reported", "to", "be", "grenades", ",", "ordering", "the", "pilots", "to", "fly", "to", "florida.", "the", "hijacker", "got", "off", "the", "plane", "wearing", "a", "jacket", "that", "said", ",", "america", "across", "the", "back.", "and", "a", "small", "child", "clinging", "to", "his", "leg", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "key west, florida",
+  "sentence_length" : 83,
+  "mentionArg2" : {
+    "extent" : "florida",
+    "argMentionid" : "CNN_ENG_20030401_233449.5-E3-3",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_ENG_20030401_233449.5-R2",
+  "mentionArg1" : {
+    "extent" : "key west, florida",
+    "argMentionid" : "CNN_ENG_20030401_233449.5-E2-2",
+    "start" : 3,
+    "end" : 6
+  },
+  "id" : "CNN_ENG_20030401_233449.5-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "an airport in key west , florida , today became the setting of what appeared to be a desperate attempt to enter the u . s. by a cuban national. the man was arrested there after authorities say he hijacked a cuban plane using what was reported to be grenades , ordering the pilots to fly to florida. the hijacker got off the plane wearing a jacket that said , america across the back. and a small child clinging to his leg .",
+  "sentence_index" : 0,
+  "Tokens" : [ "an", "airport", "in", "key", "west", ",", "florida", ",", "today", "became", "the", "setting", "of", "what", "appeared", "to", "be", "a", "desperate", "attempt", "to", "enter", "the", "u", ".", "s.", "by", "a", "cuban", "national.", "the", "man", "was", "arrested", "there", "after", "authorities", "say", "he", "hijacked", "a", "cuban", "plane", "using", "what", "was", "reported", "to", "be", "grenades", ",", "ordering", "the", "pilots", "to", "fly", "to", "florida.", "the", "hijacker", "got", "off", "the", "plane", "wearing", "a", "jacket", "that", "said", ",", "america", "across", "the", "back.", "and", "a", "small", "child", "clinging", "to", "his", "leg", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "an airport in key west, florida, today became the setting of what appeared to be a desperate attempt to enter the u.s. by a cuban national",
+  "sentence_length" : 83,
+  "mentionArg2" : {
+    "extent" : "an airport in key west, florida",
+    "argMentionid" : "CNN_ENG_20030401_233449.5-E1-1",
+    "start" : 0,
+    "end" : 6
+  },
+  "relationID" : "CNN_ENG_20030401_233449.5-R3",
+  "mentionArg1" : {
+    "extent" : "a cuban national",
+    "argMentionid" : "CNN_ENG_20030401_233449.5-E5-5",
+    "start" : 27,
+    "end" : 29
+  },
+  "id" : "CNN_ENG_20030401_233449.5-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "an airport in key west , florida , today became the setting of what appeared to be a desperate attempt to enter the u . s. by a cuban national. the man was arrested there after authorities say he hijacked a cuban plane using what was reported to be grenades , ordering the pilots to fly to florida. the hijacker got off the plane wearing a jacket that said , america across the back. and a small child clinging to his leg .",
+  "sentence_index" : 0,
+  "Tokens" : [ "an", "airport", "in", "key", "west", ",", "florida", ",", "today", "became", "the", "setting", "of", "what", "appeared", "to", "be", "a", "desperate", "attempt", "to", "enter", "the", "u", ".", "s.", "by", "a", "cuban", "national.", "the", "man", "was", "arrested", "there", "after", "authorities", "say", "he", "hijacked", "a", "cuban", "plane", "using", "what", "was", "reported", "to", "be", "grenades", ",", "ordering", "the", "pilots", "to", "fly", "to", "florida.", "the", "hijacker", "got", "off", "the", "plane", "wearing", "a", "jacket", "that", "said", ",", "america", "across", "the", "back.", "and", "a", "small", "child", "clinging", "to", "his", "leg", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "an airport in key west, florida, today became the setting of what appeared to be a desperate attempt to enter the u.s. by a cuban national",
+  "sentence_length" : 83,
+  "mentionArg2" : {
+    "extent" : "the u.s",
+    "argMentionid" : "CNN_ENG_20030401_233449.5-E4-4",
+    "start" : 22,
+    "end" : 25
+  },
+  "relationID" : "CNN_ENG_20030401_233449.5-R4",
+  "mentionArg1" : {
+    "extent" : "a cuban national",
+    "argMentionid" : "CNN_ENG_20030401_233449.5-E5-5",
+    "start" : 27,
+    "end" : 29
+  },
+  "id" : "CNN_ENG_20030401_233449.5-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "an airport in key west , florida , today became the setting of what appeared to be a desperate attempt to enter the u . s. by a cuban national. the man was arrested there after authorities say he hijacked a cuban plane using what was reported to be grenades , ordering the pilots to fly to florida. the hijacker got off the plane wearing a jacket that said , america across the back. and a small child clinging to his leg .",
+  "sentence_index" : 0,
+  "Tokens" : [ "an", "airport", "in", "key", "west", ",", "florida", ",", "today", "became", "the", "setting", "of", "what", "appeared", "to", "be", "a", "desperate", "attempt", "to", "enter", "the", "u", ".", "s.", "by", "a", "cuban", "national.", "the", "man", "was", "arrested", "there", "after", "authorities", "say", "he", "hijacked", "a", "cuban", "plane", "using", "what", "was", "reported", "to", "be", "grenades", ",", "ordering", "the", "pilots", "to", "fly", "to", "florida.", "the", "hijacker", "got", "off", "the", "plane", "wearing", "a", "jacket", "that", "said", ",", "america", "across", "the", "back.", "and", "a", "small", "child", "clinging", "to", "his", "leg", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the man was arrested there after authorities say he hijacked a cuban plane using what was reported to be grenades, ordering the pilots to fly to florida",
+  "sentence_length" : 83,
+  "mentionArg2" : {
+    "extent" : "a cuban plane",
+    "argMentionid" : "CNN_ENG_20030401_233449.5-E7-9",
+    "start" : 40,
+    "end" : 42
+  },
+  "relationID" : "CNN_ENG_20030401_233449.5-R5",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "CNN_ENG_20030401_233449.5-E5-8",
+    "start" : 38,
+    "end" : 38
+  },
+  "id" : "CNN_ENG_20030401_233449.5-R5-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "an airport in key west , florida , today became the setting of what appeared to be a desperate attempt to enter the u . s. by a cuban national. the man was arrested there after authorities say he hijacked a cuban plane using what was reported to be grenades , ordering the pilots to fly to florida. the hijacker got off the plane wearing a jacket that said , america across the back. and a small child clinging to his leg .",
+  "sentence_index" : 0,
+  "Tokens" : [ "an", "airport", "in", "key", "west", ",", "florida", ",", "today", "became", "the", "setting", "of", "what", "appeared", "to", "be", "a", "desperate", "attempt", "to", "enter", "the", "u", ".", "s.", "by", "a", "cuban", "national.", "the", "man", "was", "arrested", "there", "after", "authorities", "say", "he", "hijacked", "a", "cuban", "plane", "using", "what", "was", "reported", "to", "be", "grenades", ",", "ordering", "the", "pilots", "to", "fly", "to", "florida.", "the", "hijacker", "got", "off", "the", "plane", "wearing", "a", "jacket", "that", "said", ",", "america", "across", "the", "back.", "and", "a", "small", "child", "clinging", "to", "his", "leg", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the man was arrested there after authorities say he hijacked a cuban plane using what was reported to be grenades, ordering the pilots to fly to florida",
+  "sentence_length" : 83,
+  "mentionArg2" : {
+    "extent" : "grenades",
+    "argMentionid" : "CNN_ENG_20030401_233449.5-E9-11",
+    "start" : 49,
+    "end" : 49
+  },
+  "relationID" : "CNN_ENG_20030401_233449.5-R6",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "CNN_ENG_20030401_233449.5-E5-8",
+    "start" : 38,
+    "end" : 38
+  },
+  "id" : "CNN_ENG_20030401_233449.5-R6-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "an airport in key west , florida , today became the setting of what appeared to be a desperate attempt to enter the u . s. by a cuban national. the man was arrested there after authorities say he hijacked a cuban plane using what was reported to be grenades , ordering the pilots to fly to florida. the hijacker got off the plane wearing a jacket that said , america across the back. and a small child clinging to his leg .",
+  "sentence_index" : 0,
+  "Tokens" : [ "an", "airport", "in", "key", "west", ",", "florida", ",", "today", "became", "the", "setting", "of", "what", "appeared", "to", "be", "a", "desperate", "attempt", "to", "enter", "the", "u", ".", "s.", "by", "a", "cuban", "national.", "the", "man", "was", "arrested", "there", "after", "authorities", "say", "he", "hijacked", "a", "cuban", "plane", "using", "what", "was", "reported", "to", "be", "grenades", ",", "ordering", "the", "pilots", "to", "fly", "to", "florida.", "the", "hijacker", "got", "off", "the", "plane", "wearing", "a", "jacket", "that", "said", ",", "america", "across", "the", "back.", "and", "a", "small", "child", "clinging", "to", "his", "leg", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a cuban plane",
+  "sentence_length" : 83,
+  "mentionArg2" : {
+    "extent" : "a cuban plane",
+    "argMentionid" : "CNN_ENG_20030401_233449.5-E7-9",
+    "start" : 40,
+    "end" : 42
+  },
+  "relationID" : "CNN_ENG_20030401_233449.5-R7",
+  "mentionArg1" : {
+    "extent" : "cuban",
+    "argMentionid" : "CNN_ENG_20030401_233449.5-E6-10",
+    "start" : 41,
+    "end" : 41
+  },
+  "id" : "CNN_ENG_20030401_233449.5-R7-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "an airport in key west , florida , today became the setting of what appeared to be a desperate attempt to enter the u . s. by a cuban national. the man was arrested there after authorities say he hijacked a cuban plane using what was reported to be grenades , ordering the pilots to fly to florida. the hijacker got off the plane wearing a jacket that said , america across the back. and a small child clinging to his leg .",
+  "sentence_index" : 0,
+  "Tokens" : [ "an", "airport", "in", "key", "west", ",", "florida", ",", "today", "became", "the", "setting", "of", "what", "appeared", "to", "be", "a", "desperate", "attempt", "to", "enter", "the", "u", ".", "s.", "by", "a", "cuban", "national.", "the", "man", "was", "arrested", "there", "after", "authorities", "say", "he", "hijacked", "a", "cuban", "plane", "using", "what", "was", "reported", "to", "be", "grenades", ",", "ordering", "the", "pilots", "to", "fly", "to", "florida.", "the", "hijacker", "got", "off", "the", "plane", "wearing", "a", "jacket", "that", "said", ",", "america", "across", "the", "back.", "and", "a", "small", "child", "clinging", "to", "his", "leg", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the man was arrested there after authorities say he hijacked a cuban plane using what was reported to be grenades, ordering the pilots to fly to florida",
+  "sentence_length" : 83,
+  "mentionArg2" : {
+    "extent" : "a cuban plane",
+    "argMentionid" : "CNN_ENG_20030401_233449.5-E7-9",
+    "start" : 40,
+    "end" : 42
+  },
+  "relationID" : "CNN_ENG_20030401_233449.5-R8",
+  "mentionArg1" : {
+    "extent" : "the pilots",
+    "argMentionid" : "CNN_ENG_20030401_233449.5-E10-12",
+    "start" : 52,
+    "end" : 53
+  },
+  "id" : "CNN_ENG_20030401_233449.5-R8-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "an airport in key west , florida , today became the setting of what appeared to be a desperate attempt to enter the u . s. by a cuban national. the man was arrested there after authorities say he hijacked a cuban plane using what was reported to be grenades , ordering the pilots to fly to florida. the hijacker got off the plane wearing a jacket that said , america across the back. and a small child clinging to his leg .",
+  "sentence_index" : 0,
+  "Tokens" : [ "an", "airport", "in", "key", "west", ",", "florida", ",", "today", "became", "the", "setting", "of", "what", "appeared", "to", "be", "a", "desperate", "attempt", "to", "enter", "the", "u", ".", "s.", "by", "a", "cuban", "national.", "the", "man", "was", "arrested", "there", "after", "authorities", "say", "he", "hijacked", "a", "cuban", "plane", "using", "what", "was", "reported", "to", "be", "grenades", ",", "ordering", "the", "pilots", "to", "fly", "to", "florida.", "the", "hijacker", "got", "off", "the", "plane", "wearing", "a", "jacket", "that", "said", ",", "america", "across", "the", "back.", "and", "a", "small", "child", "clinging", "to", "his", "leg", "." ]
+} ]

@@ -1,0 +1,177 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "I used to wonder if Meg Tilly was part chinese because of her eyes, so now I wonder more",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "chinese",
+    "argMentionid" : "alt.gossip.celebrities_20041118.2331-E3-68",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "alt.gossip.celebrities_20041118.2331-R1",
+  "mentionArg1" : {
+    "extent" : "Meg Tilly",
+    "argMentionid" : "alt.gossip.celebrities_20041118.2331-E4-67",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "alt.gossip.celebrities_20041118.2331-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "I used to wonder if Meg Tilly was part chinese because of her eyes , so now I wonder more .",
+  "sentence_index" : 6,
+  "Tokens" : [ "I", "used", "to", "wonder", "if", "Meg", "Tilly", "was", "part", "chinese", "because", "of", "her", "eyes", ",", "so", "now", "I", "wonder", "more", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her sister",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "her sister",
+    "argMentionid" : "alt.gossip.celebrities_20041118.2331-E38-80",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "alt.gossip.celebrities_20041118.2331-R2",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "alt.gossip.celebrities_20041118.2331-E4-78",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "alt.gossip.celebrities_20041118.2331-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Well , for the longest time this was a topic she and her sister Jennifer seemed to avoid , but a few months back , Jennifer announced to the world that their father is Chinese .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Well", ",", "for", "the", "longest", "time", "this", "was", "a", "topic", "she", "and", "her", "sister", "Jennifer", "seemed", "to", "avoid", ",", "but", "a", "few", "months", "back", ",", "Jennifer", "announced", "to", "the", "world", "that", "their", "father", "is", "Chinese", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their father",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "their father",
+    "argMentionid" : "alt.gossip.celebrities_20041118.2331-E1-85",
+    "start" : 31,
+    "end" : 32
+  },
+  "relationID" : "alt.gossip.celebrities_20041118.2331-R3",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "alt.gossip.celebrities_20041118.2331-E21-84",
+    "start" : 31,
+    "end" : 31
+  },
+  "id" : "alt.gossip.celebrities_20041118.2331-R3-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Well , for the longest time this was a topic she and her sister Jennifer seemed to avoid , but a few months back , Jennifer announced to the world that their father is Chinese .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Well", ",", "for", "the", "longest", "time", "this", "was", "a", "topic", "she", "and", "her", "sister", "Jennifer", "seemed", "to", "avoid", ",", "but", "a", "few", "months", "back", ",", "Jennifer", "announced", "to", "the", "world", "that", "their", "father", "is", "Chinese", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Well, for the longest time this was a topic she and her sister Jennifer seemed to avoid, but a few months back, Jennifer announced to the world that their father is Chinese",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "Chinese",
+    "argMentionid" : "alt.gossip.celebrities_20041118.2331-E3-3",
+    "start" : 34,
+    "end" : 34
+  },
+  "relationID" : "alt.gossip.celebrities_20041118.2331-R4",
+  "mentionArg1" : {
+    "extent" : "their father",
+    "argMentionid" : "alt.gossip.celebrities_20041118.2331-E1-85",
+    "start" : 31,
+    "end" : 32
+  },
+  "id" : "alt.gossip.celebrities_20041118.2331-R4-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Well , for the longest time this was a topic she and her sister Jennifer seemed to avoid , but a few months back , Jennifer announced to the world that their father is Chinese .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Well", ",", "for", "the", "longest", "time", "this", "was", "a", "topic", "she", "and", "her", "sister", "Jennifer", "seemed", "to", "avoid", ",", "but", "a", "few", "months", "back", ",", "Jennifer", "announced", "to", "the", "world", "that", "their", "father", "is", "Chinese", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "they ARE part asian",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "asian",
+    "argMentionid" : "alt.gossip.celebrities_20041118.2331-E10-19",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "alt.gossip.celebrities_20041118.2331-R5",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "alt.gossip.celebrities_20041118.2331-E21-18",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "alt.gossip.celebrities_20041118.2331-R5-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "they ARE part asian. what 's the big deal ???",
+  "sentence_index" : 27,
+  "Tokens" : [ "they", "ARE", "part", "asian.", "what", "'s", "the", "big", "deal", "???" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "There's a third sister too, not in show biz, the youngest of the 3 I think, forget her name",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "the 3",
+    "argMentionid" : "alt.gossip.celebrities_20041118.2331-E28-49",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "alt.gossip.celebrities_20041118.2331-R6",
+  "mentionArg1" : {
+    "extent" : "the youngest of the 3",
+    "argMentionid" : "alt.gossip.celebrities_20041118.2331-E26-48",
+    "start" : 12,
+    "end" : 16
+  },
+  "id" : "alt.gossip.celebrities_20041118.2331-R6-1",
+  "relationSubType" : "Family",
+  "Sentence" : "There 's a third sister too , not in show biz , the youngest of the 3 I think , forget her name .",
+  "sentence_index" : 47,
+  "Tokens" : [ "There", "'s", "a", "third", "sister", "too", ",", "not", "in", "show", "biz", ",", "the", "youngest", "of", "the", "3", "I", "think", ",", "forget", "her", "name", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the one who has a child by Colin Firth",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "a child",
+    "argMentionid" : "alt.gossip.celebrities_20041118.2331-E34-61",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "alt.gossip.celebrities_20041118.2331-R7",
+  "mentionArg1" : {
+    "extent" : "the one who has a child by Colin Firth",
+    "argMentionid" : "alt.gossip.celebrities_20041118.2331-E4-59",
+    "start" : 3,
+    "end" : 11
+  },
+  "id" : "alt.gossip.celebrities_20041118.2331-R7-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Meg is also the one who has a child by Colin Firth .",
+  "sentence_index" : 57,
+  "Tokens" : [ "Meg", "is", "also", "the", "one", "who", "has", "a", "child", "by", "Colin", "Firth", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the one who has a child by Colin Firth",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "Colin Firth",
+    "argMentionid" : "alt.gossip.celebrities_20041118.2331-E35-62",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "alt.gossip.celebrities_20041118.2331-R8",
+  "mentionArg1" : {
+    "extent" : "the one who has a child by Colin Firth",
+    "argMentionid" : "alt.gossip.celebrities_20041118.2331-E4-59",
+    "start" : 3,
+    "end" : 11
+  },
+  "id" : "alt.gossip.celebrities_20041118.2331-R8-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Meg is also the one who has a child by Colin Firth .",
+  "sentence_index" : 57,
+  "Tokens" : [ "Meg", "is", "also", "the", "one", "who", "has", "a", "child", "by", "Colin", "Firth", "." ]
+} ]

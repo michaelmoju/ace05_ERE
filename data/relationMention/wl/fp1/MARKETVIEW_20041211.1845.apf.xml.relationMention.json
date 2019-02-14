@@ -1,0 +1,45 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "There aren't any pure-play buys on this theory, but someone who believes it might overweight their portfolio in cable companies -- if they purchased any media stocks at all",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "cable companies",
+    "argMentionid" : "MARKETVIEW_20041211.1845-E46-90",
+    "start" : 20,
+    "end" : 21
+  },
+  "relationID" : "MARKETVIEW_20041211.1845-R1",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "MARKETVIEW_20041211.1845-E45-89",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "MARKETVIEW_20041211.1845-R1-1",
+  "relationSubType" : "Investor-Shareholder",
+  "Sentence" : "There are n't any pure-play buys on this theory , but someone who believes it might overweight their portfolio in cable companies -- if they purchased any media stocks at all .",
+  "sentence_index" : 4,
+  "Tokens" : [ "There", "are", "n't", "any", "pure-play", "buys", "on", "this", "theory", ",", "but", "someone", "who", "believes", "it", "might", "overweight", "their", "portfolio", "in", "cable", "companies", "--", "if", "they", "purchased", "any", "media", "stocks", "at", "all", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I have shares of Movie Gallery, I've suggested it to friends, and I'd be quite thrilled if the stock went up",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "Movie Gallery",
+    "argMentionid" : "MARKETVIEW_20041211.1845-E21-64",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "MARKETVIEW_20041211.1845-R2",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "MARKETVIEW_20041211.1845-E34-63",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "MARKETVIEW_20041211.1845-R2-1",
+  "relationSubType" : "Investor-Shareholder",
+  "Sentence" : "Full Disclosure : For once , I 'm actually writing about something I own : I have shares of Movie Gallery , I 've suggested it to friends , and I 'd be quite thrilled if the stock went up .",
+  "sentence_index" : 23,
+  "Tokens" : [ "Full", "Disclosure", ":", "For", "once", ",", "I", "'m", "actually", "writing", "about", "something", "I", "own", ":", "I", "have", "shares", "of", "Movie", "Gallery", ",", "I", "'ve", "suggested", "it", "to", "friends", ",", "and", "I", "'d", "be", "quite", "thrilled", "if", "the", "stock", "went", "up", "." ]
+} ]

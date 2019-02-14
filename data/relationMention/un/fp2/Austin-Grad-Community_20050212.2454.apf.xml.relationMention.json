@@ -1,0 +1,331 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "a new staff member for Landmark Education in Houston",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "Landmark Education in Houston",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E2-64",
+    "start" : 45,
+    "end" : 48
+  },
+  "relationID" : "Austin-Grad-Community_20050212.2454-R2",
+  "mentionArg1" : {
+    "extent" : "a new staff member for Landmark Education in Houston",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E28-63",
+    "start" : 40,
+    "end" : 48
+  },
+  "id" : "Austin-Grad-Community_20050212.2454-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Please welcome a new staff member Austin Grad Community Sat , 12 Feb 2005 11:54:05 - 0600 Please welcome a new staff member The following is from Mike Black : Friends : Please take some time next week to welcome a new staff member for Landmark Education in Houston !",
+  "sentence_index" : 0,
+  "Tokens" : [ "Please", "welcome", "a", "new", "staff", "member", "Austin", "Grad", "Community", "Sat", ",", "12", "Feb", "2005", "11:54:05", "-", "0600", "Please", "welcome", "a", "new", "staff", "member", "The", "following", "is", "from", "Mike", "Black", ":", "Friends", ":", "Please", "take", "some", "time", "next", "week", "to", "welcome", "a", "new", "staff", "member", "for", "Landmark", "Education", "in", "Houston", "!" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the team leader for Landmark Education programs in Tucson",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "Landmark Education",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E2-3",
+    "start" : 23,
+    "end" : 24
+  },
+  "relationID" : "Austin-Grad-Community_20050212.2454-R2",
+  "mentionArg1" : {
+    "extent" : "the team leader for Landmark Education programs in Tucson",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E28-71",
+    "start" : 19,
+    "end" : 27
+  },
+  "id" : "Austin-Grad-Community_20050212.2454-R2-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Her name is Janine Beck , she is from Tucson , AZ , and she most recently has been the team leader for Landmark Education programs in Tucson ( the title is Source Person ) .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Her", "name", "is", "Janine", "Beck", ",", "she", "is", "from", "Tucson", ",", "AZ", ",", "and", "she", "most", "recently", "has", "been", "the", "team", "leader", "for", "Landmark", "Education", "programs", "in", "Tucson", "(", "the", "title", "is", "Source", "Person", ")", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Landmark Education in Houston",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "Houston",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E1-65",
+    "start" : 48,
+    "end" : 48
+  },
+  "relationID" : "Austin-Grad-Community_20050212.2454-R3",
+  "mentionArg1" : {
+    "extent" : "Landmark Education in Houston",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E2-64",
+    "start" : 45,
+    "end" : 48
+  },
+  "id" : "Austin-Grad-Community_20050212.2454-R3-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Please welcome a new staff member Austin Grad Community Sat , 12 Feb 2005 11:54:05 - 0600 Please welcome a new staff member The following is from Mike Black : Friends : Please take some time next week to welcome a new staff member for Landmark Education in Houston !",
+  "sentence_index" : 0,
+  "Tokens" : [ "Please", "welcome", "a", "new", "staff", "member", "Austin", "Grad", "Community", "Sat", ",", "12", "Feb", "2005", "11:54:05", "-", "0600", "Please", "welcome", "a", "new", "staff", "member", "The", "following", "is", "from", "Mike", "Black", ":", "Friends", ":", "Please", "take", "some", "time", "next", "week", "to", "welcome", "a", "new", "staff", "member", "for", "Landmark", "Education", "in", "Houston", "!" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "a new staff member for Landmark Education in Houston",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "staff",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E9-16",
+    "start" : 42,
+    "end" : 42
+  },
+  "relationID" : "Austin-Grad-Community_20050212.2454-R4",
+  "mentionArg1" : {
+    "extent" : "a new staff member for Landmark Education in Houston",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E28-63",
+    "start" : 40,
+    "end" : 48
+  },
+  "id" : "Austin-Grad-Community_20050212.2454-R4-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Please welcome a new staff member Austin Grad Community Sat , 12 Feb 2005 11:54:05 - 0600 Please welcome a new staff member The following is from Mike Black : Friends : Please take some time next week to welcome a new staff member for Landmark Education in Houston !",
+  "sentence_index" : 0,
+  "Tokens" : [ "Please", "welcome", "a", "new", "staff", "member", "Austin", "Grad", "Community", "Sat", ",", "12", "Feb", "2005", "11:54:05", "-", "0600", "Please", "welcome", "a", "new", "staff", "member", "The", "following", "is", "from", "Mike", "Black", ":", "Friends", ":", "Please", "take", "some", "time", "next", "week", "to", "welcome", "a", "new", "staff", "member", "for", "Landmark", "Education", "in", "Houston", "!" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Her name is Janine Beck, she is from Tucson, AZ, and she most recently has been the team leader for Landmark Education programs in Tucson (the title is Source Person",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "Tucson, AZ",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E31-68",
+    "start" : 9,
+    "end" : 11
+  },
+  "relationID" : "Austin-Grad-Community_20050212.2454-R5",
+  "mentionArg1" : {
+    "extent" : "she",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E28-67",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "Austin-Grad-Community_20050212.2454-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Her name is Janine Beck , she is from Tucson , AZ , and she most recently has been the team leader for Landmark Education programs in Tucson ( the title is Source Person ) .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Her", "name", "is", "Janine", "Beck", ",", "she", "is", "from", "Tucson", ",", "AZ", ",", "and", "she", "most", "recently", "has", "been", "the", "team", "leader", "for", "Landmark", "Education", "programs", "in", "Tucson", "(", "the", "title", "is", "Source", "Person", ")", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Landmark Education programs in Tucson",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "Tucson",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E31-72",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "Austin-Grad-Community_20050212.2454-R7",
+  "mentionArg1" : {
+    "extent" : "Landmark Education",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E2-3",
+    "start" : 23,
+    "end" : 24
+  },
+  "id" : "Austin-Grad-Community_20050212.2454-R7-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Her name is Janine Beck , she is from Tucson , AZ , and she most recently has been the team leader for Landmark Education programs in Tucson ( the title is Source Person ) .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Her", "name", "is", "Janine", "Beck", ",", "she", "is", "from", "Tucson", ",", "AZ", ",", "and", "she", "most", "recently", "has", "been", "the", "team", "leader", "for", "Landmark", "Education", "programs", "in", "Tucson", "(", "the", "title", "is", "Source", "Person", ")", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Registration Manager for the Houston Center",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "the Houston Center",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E23-75",
+    "start" : 7,
+    "end" : 9
+  },
+  "relationID" : "Austin-Grad-Community_20050212.2454-R8",
+  "mentionArg1" : {
+    "extent" : "the Registration Manager",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E28-74",
+    "start" : 3,
+    "end" : 5
+  },
+  "id" : "Austin-Grad-Community_20050212.2454-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "She will be the Registration Manager for the Houston Center , accountable for causing registrations into the Landmark Forum .",
+  "sentence_index" : 2,
+  "Tokens" : [ "She", "will", "be", "the", "Registration", "Manager", "for", "the", "Houston", "Center", ",", "accountable", "for", "causing", "registrations", "into", "the", "Landmark", "Forum", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "It will have to be snail mail), give her a call at the center, or send her a fax and welcome her to our Center",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "our Center",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E23-50",
+    "start" : 26,
+    "end" : 27
+  },
+  "relationID" : "Austin-Grad-Community_20050212.2454-R8",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E28-49",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "Austin-Grad-Community_20050212.2454-R8-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "It will have to be snail mail ) , give her a call at the center , or send her a fax and welcome her to our Center .",
+  "sentence_index" : 16,
+  "Tokens" : [ "It", "will", "have", "to", "be", "snail", "mail", ")", ",", "give", "her", "a", "call", "at", "the", "center", ",", "or", "send", "her", "a", "fax", "and", "welcome", "her", "to", "our", "Center", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Houston Center",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Houston",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E1-76",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "Austin-Grad-Community_20050212.2454-R9",
+  "mentionArg1" : {
+    "extent" : "the Houston Center",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E23-75",
+    "start" : 7,
+    "end" : 9
+  },
+  "id" : "Austin-Grad-Community_20050212.2454-R9-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "She will be the Registration Manager for the Houston Center , accountable for causing registrations into the Landmark Forum .",
+  "sentence_index" : 2,
+  "Tokens" : [ "She", "will", "be", "the", "Registration", "Manager", "for", "the", "Houston", "Center", ",", "accountable", "for", "causing", "registrations", "into", "the", "Landmark", "Forum", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "She will be the Registration Manager for the Houston Center, accountable for causing registrations into the Landmark Forum",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Landmark",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E2-2",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "Austin-Grad-Community_20050212.2454-R10",
+  "mentionArg1" : {
+    "extent" : "the Houston Center",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E23-75",
+    "start" : 7,
+    "end" : 9
+  },
+  "id" : "Austin-Grad-Community_20050212.2454-R10-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "She will be the Registration Manager for the Houston Center , accountable for causing registrations into the Landmark Forum .",
+  "sentence_index" : 2,
+  "Tokens" : [ "She", "will", "be", "the", "Registration", "Manager", "for", "the", "Houston", "Center", ",", "accountable", "for", "causing", "registrations", "into", "the", "Landmark", "Forum", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the people in this part of the world",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "this part of the world",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E5-11",
+    "start" : 35,
+    "end" : 39
+  },
+  "relationID" : "Austin-Grad-Community_20050212.2454-R11",
+  "mentionArg1" : {
+    "extent" : "the people in this part of the world",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E4-10",
+    "start" : 32,
+    "end" : 39
+  },
+  "id" : "Austin-Grad-Community_20050212.2454-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I know this is a huge commitment for her , and I am excited about the difference she will make in my life , my family , and in the lives of the people in this part of the world .",
+  "sentence_index" : 3,
+  "Tokens" : [ "I", "know", "this", "is", "a", "huge", "commitment", "for", "her", ",", "and", "I", "am", "excited", "about", "the", "difference", "she", "will", "make", "in", "my", "life", ",", "my", "family", ",", "and", "in", "the", "lives", "of", "the", "people", "in", "this", "part", "of", "the", "world", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "this part of the world",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "the world",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E6-12",
+    "start" : 38,
+    "end" : 39
+  },
+  "relationID" : "Austin-Grad-Community_20050212.2454-R12",
+  "mentionArg1" : {
+    "extent" : "this part of the world",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E5-11",
+    "start" : 35,
+    "end" : 39
+  },
+  "id" : "Austin-Grad-Community_20050212.2454-R12-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "I know this is a huge commitment for her , and I am excited about the difference she will make in my life , my family , and in the lives of the people in this part of the world .",
+  "sentence_index" : 3,
+  "Tokens" : [ "I", "know", "this", "is", "a", "huge", "commitment", "for", "her", ",", "and", "I", "am", "excited", "about", "the", "difference", "she", "will", "make", "in", "my", "life", ",", "my", "family", ",", "and", "in", "the", "lives", "of", "the", "people", "in", "this", "part", "of", "the", "world", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "It will have to be snail mail), give her a call at the center, or send her a fax and welcome her to our Center",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "the center",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E22-47",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "Austin-Grad-Community_20050212.2454-R13",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E28-46",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "Austin-Grad-Community_20050212.2454-R13-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "It will have to be snail mail ) , give her a call at the center , or send her a fax and welcome her to our Center .",
+  "sentence_index" : 16,
+  "Tokens" : [ "It", "will", "have", "to", "be", "snail", "mail", ")", ",", "give", "her", "a", "call", "at", "the", "center", ",", "or", "send", "her", "a", "fax", "and", "welcome", "her", "to", "our", "Center", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Knowing the graduates here appreciate her will make a huge difference for her",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E22-53",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "Austin-Grad-Community_20050212.2454-R15",
+  "mentionArg1" : {
+    "extent" : "the graduates here",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E24-52",
+    "start" : 1,
+    "end" : 3
+  },
+  "id" : "Austin-Grad-Community_20050212.2454-R15-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Knowing the graduates here appreciate her will make a huge difference for her .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Knowing", "the", "graduates", "here", "appreciate", "her", "will", "make", "a", "huge", "difference", "for", "her", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Houston Center",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "Houston",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E1-57",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "Austin-Grad-Community_20050212.2454-R16",
+  "mentionArg1" : {
+    "extent" : "the Houston Center",
+    "argMentionid" : "Austin-Grad-Community_20050212.2454-E22-56",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "Austin-Grad-Community_20050212.2454-R16-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The phone number for the Houston Center is 713-865-9600 , toll free 800-745-1997 .",
+  "sentence_index" : 18,
+  "Tokens" : [ "The", "phone", "number", "for", "the", "Houston", "Center", "is", "713-865-9600", ",", "toll", "free", "800-745-1997", "." ]
+} ]

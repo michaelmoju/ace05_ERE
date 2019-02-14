@@ -1,0 +1,815 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "Ironically down in North Carolina today was also the day funeral services were held for 17-year-old Jesica Santillan, the brave young woman who got the wrong heart and lungs in a botched transplant operation last month",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "North Carolina",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E130-273",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R1",
+  "mentionArg1" : {
+    "extent" : "17-year-old Jesica Santillan",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E131-275",
+    "start" : 15,
+    "end" : 17
+  },
+  "id" : "CNN_CF_20030304.1900.01-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Ironically down in North Carolina today was also the day funeral services were held for 17-year-old Jesica Santillan , the brave young woman who got the wrong heart and lungs in a botched transplant operation last month .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Ironically", "down", "in", "North", "Carolina", "today", "was", "also", "the", "day", "funeral", "services", "were", "held", "for", "17-year-old", "Jesica", "Santillan", ",", "the", "brave", "young", "woman", "who", "got", "the", "wrong", "heart", "and", "lungs", "in", "a", "botched", "transplant", "operation", "last", "month", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "17-year-old teenager in North Carolina",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "North Carolina",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E130-82",
+    "start" : 50,
+    "end" : 51
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R1",
+  "mentionArg1" : {
+    "extent" : "17-year-old teenager in North Carolina",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E131-81",
+    "start" : 47,
+    "end" : 51
+  },
+  "id" : "CNN_CF_20030304.1900.01-R1-2",
+  "relationSubType" : "Located",
+  "Sentence" : "Are we going to allow severely injured people who have found a lung taken out that 's the wrong lung or a double mastectomy that was n't indicated that was inflicted on a woman in the Midwest , or that organ transplant that was incompatible on that 17-year-old teenager in North Carolina .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Are", "we", "going", "to", "allow", "severely", "injured", "people", "who", "have", "found", "a", "lung", "taken", "out", "that", "'s", "the", "wrong", "lung", "or", "a", "double", "mastectomy", "that", "was", "n't", "indicated", "that", "was", "inflicted", "on", "a", "woman", "in", "the", "Midwest", ",", "or", "that", "organ", "transplant", "that", "was", "incompatible", "on", "that", "17-year-old", "teenager", "in", "North", "Carolina", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her family",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "her family",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E133-278",
+    "start" : 1,
+    "end" : 2
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R2",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E131-279",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "CNN_CF_20030304.1900.01-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Is her family 's pain and suffering only worth $250,000 ?",
+  "sentence_index" : 3,
+  "Tokens" : [ "Is", "her", "family", "'s", "pain", "and", "suffering", "only", "worth", "$250,000", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "consumer advocate",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "consumer advocate",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E134-281",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R3",
+  "mentionArg1" : {
+    "extent" : "consumer",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E16-282",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "CNN_CF_20030304.1900.01-R3-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Here to debate medical malpractice reform are consumer advocate Ralph Nader and Dr. Donald Palmisano , the president-elect of the American Medical Association .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Here", "to", "debate", "medical", "malpractice", "reform", "are", "consumer", "advocate", "Ralph", "Nader", "and", "Dr.", "Donald", "Palmisano", ",", "the", "president-elect", "of", "the", "American", "Medical", "Association", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "CONSUMER ADVOCATE",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "CONSUMER ADVOCATE",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E134-26",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R3",
+  "mentionArg1" : {
+    "extent" : "CONSUMER",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E16-27",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "CNN_CF_20030304.1900.01-R3-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "RALPH NADER , CONSUMER ADVOCATE Another one of your leading questions .",
+  "sentence_index" : 10,
+  "Tokens" : [ "RALPH", "NADER", ",", "CONSUMER", "ADVOCATE", "Another", "one", "of", "your", "leading", "questions", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the president-elect of the American Medical Association",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "the American Medical Association",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E138-284",
+    "start" : 19,
+    "end" : 22
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R4",
+  "mentionArg1" : {
+    "extent" : "the president-elect of the American Medical Association",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E1-3",
+    "start" : 16,
+    "end" : 22
+  },
+  "id" : "CNN_CF_20030304.1900.01-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Here to debate medical malpractice reform are consumer advocate Ralph Nader and Dr. Donald Palmisano , the president-elect of the American Medical Association .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Here", "to", "debate", "medical", "malpractice", "reform", "are", "consumer", "advocate", "Ralph", "Nader", "and", "Dr.", "Donald", "Palmisano", ",", "the", "president-elect", "of", "the", "American", "Medical", "Association", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "PRESIDENT-ELECT, AMA",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "AMA",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E138-116",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R4",
+  "mentionArg1" : {
+    "extent" : "PRESIDENT-ELECT",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E1-115",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "CNN_CF_20030304.1900.01-R4-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "DR. DONALD PALMISANO , PRESIDENT-ELECT , AMA Thank you .",
+  "sentence_index" : 27,
+  "Tokens" : [ "DR.", "DONALD", "PALMISANO", ",", "PRESIDENT-ELECT", ",", "AMA", "Thank", "you", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Ralph Nader, there are states in crisis that keep adding to the list by the AMA where doctors are going out of business because they can't afford the medical malpractice rates",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "states",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E3-6",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R5",
+  "mentionArg1" : {
+    "extent" : "doctors",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E4-9",
+    "start" : 22,
+    "end" : 22
+  },
+  "id" : "CNN_CF_20030304.1900.01-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "( CROSSTALK ) NOVAK Ralph Nader , there are states in crisis that keep adding to the list by the AMA where doctors are going out of business because they ca n't afford the medical malpractice rates .",
+  "sentence_index" : 5,
+  "Tokens" : [ "(", "CROSSTALK", ")", "NOVAK", "Ralph", "Nader", ",", "there", "are", "states", "in", "crisis", "that", "keep", "adding", "to", "the", "list", "by", "the", "AMA", "where", "doctors", "are", "going", "out", "of", "business", "because", "they", "ca", "n't", "afford", "the", "medical", "malpractice", "rates", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "doctors in this country",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "this country",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E15-42",
+    "start" : 18,
+    "end" : 19
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R6",
+  "mentionArg1" : {
+    "extent" : "doctors in this country",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E26-41",
+    "start" : 16,
+    "end" : 19
+  },
+  "id" : "CNN_CF_20030304.1900.01-R6-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "But if you take the entire amount of premiums , Bob , that 's paid by doctors in this country to malpractice insurers and divide it evenly , they 'd be paying less than $9,000 each .",
+  "sentence_index" : 15,
+  "Tokens" : [ "But", "if", "you", "take", "the", "entire", "amount", "of", "premiums", ",", "Bob", ",", "that", "'s", "paid", "by", "doctors", "in", "this", "country", "to", "malpractice", "insurers", "and", "divide", "it", "evenly", ",", "they", "'d", "be", "paying", "less", "than", "$9,000", "each", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "That's one-third of what they pay a receptionist",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "a receptionist",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E28-47",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R7",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E26-46",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "CNN_CF_20030304.1900.01-R7-1",
+  "relationSubType" : "Business",
+  "Sentence" : "That 's one-third of what they pay a receptionist .",
+  "sentence_index" : 16,
+  "Tokens" : [ "That", "'s", "one-third", "of", "what", "they", "pay", "a", "receptionist", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "members of Congress",
+  "sentence_length" : 80,
+  "mentionArg2" : {
+    "extent" : "Congress",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E39-73",
+    "start" : 76,
+    "end" : 76
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R8",
+  "mentionArg1" : {
+    "extent" : "members of Congress",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E38-72",
+    "start" : 74,
+    "end" : 76
+  },
+  "id" : "CNN_CF_20030304.1900.01-R8-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Can you say that the lawyers , the trial lawyers who appoint millions and millions of dollars into Democratic coffers in order to keep this , do you believe that this is healthy ... NADER Well , as much as they 've poured into those coffers , it 's much less than what the doctors , the malpractice insurers , the hospital chains and the HMOs and the nursing home chains have poured into members of Congress ' coffers .",
+  "sentence_index" : 19,
+  "Tokens" : [ "Can", "you", "say", "that", "the", "lawyers", ",", "the", "trial", "lawyers", "who", "appoint", "millions", "and", "millions", "of", "dollars", "into", "Democratic", "coffers", "in", "order", "to", "keep", "this", ",", "do", "you", "believe", "that", "this", "is", "healthy", "...", "NADER", "Well", ",", "as", "much", "as", "they", "'ve", "poured", "into", "those", "coffers", ",", "it", "'s", "much", "less", "than", "what", "the", "doctors", ",", "the", "malpractice", "insurers", ",", "the", "hospital", "chains", "and", "the", "HMOs", "and", "the", "nursing", "home", "chains", "have", "poured", "into", "members", "of", "Congress", "'", "coffers", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a woman in the Midwest",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "the Midwest",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E42-80",
+    "start" : 35,
+    "end" : 36
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R9",
+  "mentionArg1" : {
+    "extent" : "a woman in the Midwest",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E41-79",
+    "start" : 32,
+    "end" : 36
+  },
+  "id" : "CNN_CF_20030304.1900.01-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Are we going to allow severely injured people who have found a lung taken out that 's the wrong lung or a double mastectomy that was n't indicated that was inflicted on a woman in the Midwest , or that organ transplant that was incompatible on that 17-year-old teenager in North Carolina .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Are", "we", "going", "to", "allow", "severely", "injured", "people", "who", "have", "found", "a", "lung", "taken", "out", "that", "'s", "the", "wrong", "lung", "or", "a", "double", "mastectomy", "that", "was", "n't", "indicated", "that", "was", "inflicted", "on", "a", "woman", "in", "the", "Midwest", ",", "or", "that", "organ", "transplant", "that", "was", "incompatible", "on", "that", "17-year-old", "teenager", "in", "North", "Carolina", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Are we going to say to these and so many others, you can't have your full day in court",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "in court",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E46-87",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R10",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E45-86",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "CNN_CF_20030304.1900.01-R10-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Are we going to say to these and so many others , you ca n't have your full day in court ?",
+  "sentence_index" : 22,
+  "Tokens" : [ "Are", "we", "going", "to", "say", "to", "these", "and", "so", "many", "others", ",", "you", "ca", "n't", "have", "your", "full", "day", "in", "court", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the judges and juries in the United States",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "juries",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E48-90",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R11",
+  "mentionArg1" : {
+    "extent" : "the judges",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E47-89",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "CNN_CF_20030304.1900.01-R11-1",
+  "relationSubType" : "Business",
+  "Sentence" : "The Congress is going to handcuff the judges and juries in the United States at the state court level ?",
+  "sentence_index" : 23,
+  "Tokens" : [ "The", "Congress", "is", "going", "to", "handcuff", "the", "judges", "and", "juries", "in", "the", "United", "States", "at", "the", "state", "court", "level", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the judges and juries in the United States",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "the United States",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E15-91",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R12",
+  "mentionArg1" : {
+    "extent" : "the judges",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E47-89",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "CNN_CF_20030304.1900.01-R12-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The Congress is going to handcuff the judges and juries in the United States at the state court level ?",
+  "sentence_index" : 23,
+  "Tokens" : [ "The", "Congress", "is", "going", "to", "handcuff", "the", "judges", "and", "juries", "in", "the", "United", "States", "at", "the", "state", "court", "level", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the judges and juries in the United States",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "the United States",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E15-91",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R13",
+  "mentionArg1" : {
+    "extent" : "juries",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E48-90",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "CNN_CF_20030304.1900.01-R13-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The Congress is going to handcuff the judges and juries in the United States at the state court level ?",
+  "sentence_index" : 23,
+  "Tokens" : [ "The", "Congress", "is", "going", "to", "handcuff", "the", "judges", "and", "juries", "in", "the", "United", "States", "at", "the", "state", "court", "level", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the jurors in their home state",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "their home state",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E53-98",
+    "start" : 21,
+    "end" : 23
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R14",
+  "mentionArg1" : {
+    "extent" : "the jurors in their home state",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E52-97",
+    "start" : 18,
+    "end" : 23
+  },
+  "id" : "CNN_CF_20030304.1900.01-R14-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I have n't yet met one senator or representative who 's for this bill who has demonstrated that the jurors in their home state and the judges in their home state are incompetent , unwilling or unable to perform justice in these medical malpractice cases .",
+  "sentence_index" : 24,
+  "Tokens" : [ "I", "have", "n't", "yet", "met", "one", "senator", "or", "representative", "who", "'s", "for", "this", "bill", "who", "has", "demonstrated", "that", "the", "jurors", "in", "their", "home", "state", "and", "the", "judges", "in", "their", "home", "state", "are", "incompetent", ",", "unwilling", "or", "unable", "to", "perform", "justice", "in", "these", "medical", "malpractice", "cases", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "their home state",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "their home state",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E53-98",
+    "start" : 21,
+    "end" : 23
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R15",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E51-99",
+    "start" : 21,
+    "end" : 21
+  },
+  "id" : "CNN_CF_20030304.1900.01-R15-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "I have n't yet met one senator or representative who 's for this bill who has demonstrated that the jurors in their home state and the judges in their home state are incompetent , unwilling or unable to perform justice in these medical malpractice cases .",
+  "sentence_index" : 24,
+  "Tokens" : [ "I", "have", "n't", "yet", "met", "one", "senator", "or", "representative", "who", "'s", "for", "this", "bill", "who", "has", "demonstrated", "that", "the", "jurors", "in", "their", "home", "state", "and", "the", "judges", "in", "their", "home", "state", "are", "incompetent", ",", "unwilling", "or", "unable", "to", "perform", "justice", "in", "these", "medical", "malpractice", "cases", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "their home state",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "their home state",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E53-101",
+    "start" : 28,
+    "end" : 30
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R15",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E51-102",
+    "start" : 28,
+    "end" : 28
+  },
+  "id" : "CNN_CF_20030304.1900.01-R15-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "I have n't yet met one senator or representative who 's for this bill who has demonstrated that the jurors in their home state and the judges in their home state are incompetent , unwilling or unable to perform justice in these medical malpractice cases .",
+  "sentence_index" : 24,
+  "Tokens" : [ "I", "have", "n't", "yet", "met", "one", "senator", "or", "representative", "who", "'s", "for", "this", "bill", "who", "has", "demonstrated", "that", "the", "jurors", "in", "their", "home", "state", "and", "the", "judges", "in", "their", "home", "state", "are", "incompetent", ",", "unwilling", "or", "unable", "to", "perform", "justice", "in", "these", "medical", "malpractice", "cases", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the judges in their home state",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "their home state",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E53-101",
+    "start" : 28,
+    "end" : 30
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R16",
+  "mentionArg1" : {
+    "extent" : "the judges in their home state",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E54-100",
+    "start" : 25,
+    "end" : 30
+  },
+  "id" : "CNN_CF_20030304.1900.01-R16-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I have n't yet met one senator or representative who 's for this bill who has demonstrated that the jurors in their home state and the judges in their home state are incompetent , unwilling or unable to perform justice in these medical malpractice cases .",
+  "sentence_index" : 24,
+  "Tokens" : [ "I", "have", "n't", "yet", "met", "one", "senator", "or", "representative", "who", "'s", "for", "this", "bill", "who", "has", "demonstrated", "that", "the", "jurors", "in", "their", "home", "state", "and", "the", "judges", "in", "their", "home", "state", "are", "incompetent", ",", "unwilling", "or", "unable", "to", "perform", "justice", "in", "these", "medical", "malpractice", "cases", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the father of a little girl, 13-month-old girl, who he said today died because of medical malpractice",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "a little girl",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E65-127",
+    "start" : 5,
+    "end" : 7
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R18",
+  "mentionArg1" : {
+    "extent" : "the father of a little girl, 13-month-old girl, who he said today died because of medical malpractice",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E62-125",
+    "start" : 2,
+    "end" : 20
+  },
+  "id" : "CNN_CF_20030304.1900.01-R18-1",
+  "relationSubType" : "Family",
+  "Sentence" : "He 's the father of a little girl , 13-month-old girl , who he said today died because of medical malpractice .",
+  "sentence_index" : 31,
+  "Tokens" : [ "He", "'s", "the", "father", "of", "a", "little", "girl", ",", "13-month-old", "girl", ",", "who", "he", "said", "today", "died", "because", "of", "medical", "malpractice", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "FATHER OF MALPRACTICE VICTIM",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "MALPRACTICE VICTIM",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E65-142",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R18",
+  "mentionArg1" : {
+    "extent" : "FATHER OF MALPRACTICE VICTIM",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E62-141",
+    "start" : 8,
+    "end" : 11
+  },
+  "id" : "CNN_CF_20030304.1900.01-R18-2",
+  "relationSubType" : "Family",
+  "Sentence" : "( BEGIN VIDEO CLIP ) JOHN MCCORMICK , FATHER OF MALPRACTICE VICTIM Mr. President , from father to father , my family 's pain and suffering are not frivolous .",
+  "sentence_index" : 36,
+  "Tokens" : [ "(", "BEGIN", "VIDEO", "CLIP", ")", "JOHN", "MCCORMICK", ",", "FATHER", "OF", "MALPRACTICE", "VICTIM", "Mr.", "President", ",", "from", "father", "to", "father", ",", "my", "family", "'s", "pain", "and", "suffering", "are", "not", "frivolous", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his dead baby",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "his dead baby",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E65-156",
+    "start" : 14,
+    "end" : 16
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R18",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E62-155",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "CNN_CF_20030304.1900.01-R18-3",
+  "relationSubType" : "Family",
+  "Sentence" : "Does that look like a Lottery winner to you , holding a picture of his dead baby ?",
+  "sentence_index" : 40,
+  "Tokens" : [ "Does", "that", "look", "like", "a", "Lottery", "winner", "to", "you", ",", "holding", "a", "picture", "of", "his", "dead", "baby", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my family",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "my family",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E72-147",
+    "start" : 20,
+    "end" : 21
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R19",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E62-148",
+    "start" : 20,
+    "end" : 20
+  },
+  "id" : "CNN_CF_20030304.1900.01-R19-1",
+  "relationSubType" : "Family",
+  "Sentence" : "( BEGIN VIDEO CLIP ) JOHN MCCORMICK , FATHER OF MALPRACTICE VICTIM Mr. President , from father to father , my family 's pain and suffering are not frivolous .",
+  "sentence_index" : 36,
+  "Tokens" : [ "(", "BEGIN", "VIDEO", "CLIP", ")", "JOHN", "MCCORMICK", ",", "FATHER", "OF", "MALPRACTICE", "VICTIM", "Mr.", "President", ",", "from", "father", "to", "father", ",", "my", "family", "'s", "pain", "and", "suffering", "are", "not", "frivolous", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our president",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E15-152",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R20",
+  "mentionArg1" : {
+    "extent" : "our president",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E59-151",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "CNN_CF_20030304.1900.01-R20-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Is n't our president wrong to be -- did he win the Lottery ?",
+  "sentence_index" : 38,
+  "Tokens" : [ "Is", "n't", "our", "president", "wrong", "to", "be", "--", "did", "he", "win", "the", "Lottery", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "And what we're finding now is that the emergency rooms are closing, trauma centers are closing, pregnant women can't find a doctor to deliver the baby, a boy knocked unconscious has to be transported to another state",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "another state",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E85-178",
+    "start" : 40,
+    "end" : 41
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R21",
+  "mentionArg1" : {
+    "extent" : "a boy knocked unconscious",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E84-177",
+    "start" : 31,
+    "end" : 34
+  },
+  "id" : "CNN_CF_20030304.1900.01-R21-1",
+  "relationSubType" : "Located",
+  "Sentence" : "And what we 're finding now is that the emergency rooms are closing , trauma centers are closing , pregnant women ca n't find a doctor to deliver the baby , a boy knocked unconscious has to be transported to another state .",
+  "sentence_index" : 46,
+  "Tokens" : [ "And", "what", "we", "'re", "finding", "now", "is", "that", "the", "emergency", "rooms", "are", "closing", ",", "trauma", "centers", "are", "closing", ",", "pregnant", "women", "ca", "n't", "find", "a", "doctor", "to", "deliver", "the", "baby", ",", "a", "boy", "knocked", "unconscious", "has", "to", "be", "transported", "to", "another", "state", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her husband",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "her husband",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E87-180",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R22",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E86-184",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "CNN_CF_20030304.1900.01-R22-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Another witness today told of what happened to her husband because there were no longer neurosurgeons available in the community .",
+  "sentence_index" : 47,
+  "Tokens" : [ "Another", "witness", "today", "told", "of", "what", "happened", "to", "her", "husband", "because", "there", "were", "no", "longer", "neurosurgeons", "available", "in", "the", "community", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "neurosurgeons available in the community",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "the community",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E89-182",
+    "start" : 18,
+    "end" : 19
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R23",
+  "mentionArg1" : {
+    "extent" : "neurosurgeons",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E88-181",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "CNN_CF_20030304.1900.01-R23-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Another witness today told of what happened to her husband because there were no longer neurosurgeons available in the community .",
+  "sentence_index" : 47,
+  "Tokens" : [ "Another", "witness", "today", "told", "of", "what", "happened", "to", "her", "husband", "because", "there", "were", "no", "longer", "neurosurgeons", "available", "in", "the", "community", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "patients to have access to physicians",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "physicians",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E97-206",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R24",
+  "mentionArg1" : {
+    "extent" : "patients",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E96-205",
+    "start" : 22,
+    "end" : 22
+  },
+  "id" : "CNN_CF_20030304.1900.01-R24-1",
+  "relationSubType" : "Business",
+  "Sentence" : "What we need is a system that 's fair to everyone , a system that keeps the physicians in practice and allows patients to have access to physicians in their hour of need .",
+  "sentence_index" : 54,
+  "Tokens" : [ "What", "we", "need", "is", "a", "system", "that", "'s", "fair", "to", "everyone", ",", "a", "system", "that", "keeps", "the", "physicians", "in", "practice", "and", "allows", "patients", "to", "have", "access", "to", "physicians", "in", "their", "hour", "of", "need", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "obstetricians in California",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "California",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E98-211",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R25",
+  "mentionArg1" : {
+    "extent" : "obstetricians in California",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E99-210",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "CNN_CF_20030304.1900.01-R25-1",
+  "relationSubType" : "Located",
+  "Sentence" : "It brought stability to California and obstetricians in California will pay 55 , 57 , $60,000 in Los Angeles and in South Florida in Miami , they 'll pay $210,000 ... ( CROSSTALK ) NADER Because in California they have regulated the insurance company premium levels .",
+  "sentence_index" : 56,
+  "Tokens" : [ "It", "brought", "stability", "to", "California", "and", "obstetricians", "in", "California", "will", "pay", "55", ",", "57", ",", "$60,000", "in", "Los", "Angeles", "and", "in", "South", "Florida", "in", "Miami", ",", "they", "'ll", "pay", "$210,000", "...", "(", "CROSSTALK", ")", "NADER", "Because", "in", "California", "they", "have", "regulated", "the", "insurance", "company", "premium", "levels", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "South Florida in Miami",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "South Florida",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E101-213",
+    "start" : 21,
+    "end" : 22
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R26",
+  "mentionArg1" : {
+    "extent" : "Miami",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E102-214",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "CNN_CF_20030304.1900.01-R26-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "It brought stability to California and obstetricians in California will pay 55 , 57 , $60,000 in Los Angeles and in South Florida in Miami , they 'll pay $210,000 ... ( CROSSTALK ) NADER Because in California they have regulated the insurance company premium levels .",
+  "sentence_index" : 56,
+  "Tokens" : [ "It", "brought", "stability", "to", "California", "and", "obstetricians", "in", "California", "will", "pay", "55", ",", "57", ",", "$60,000", "in", "Los", "Angeles", "and", "in", "South", "Florida", "in", "Miami", ",", "they", "'ll", "pay", "$210,000", "...", "(", "CROSSTALK", ")", "NADER", "Because", "in", "California", "they", "have", "regulated", "the", "insurance", "company", "premium", "levels", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "South Florida in Miami, they'll",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "Miami",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E102-214",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R27",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E103-215",
+    "start" : 26,
+    "end" : 26
+  },
+  "id" : "CNN_CF_20030304.1900.01-R27-1",
+  "relationSubType" : "Located",
+  "Sentence" : "It brought stability to California and obstetricians in California will pay 55 , 57 , $60,000 in Los Angeles and in South Florida in Miami , they 'll pay $210,000 ... ( CROSSTALK ) NADER Because in California they have regulated the insurance company premium levels .",
+  "sentence_index" : 56,
+  "Tokens" : [ "It", "brought", "stability", "to", "California", "and", "obstetricians", "in", "California", "will", "pay", "55", ",", "57", ",", "$60,000", "in", "Los", "Angeles", "and", "in", "South", "Florida", "in", "Miami", ",", "they", "'ll", "pay", "$210,000", "...", "(", "CROSSTALK", ")", "NADER", "Because", "in", "California", "they", "have", "regulated", "the", "insurance", "company", "premium", "levels", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "And in some states, for example, there are doctors that are -- you know, there are 45 payouts in ten years and they're not disciplined by the state medical board",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "some states",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E105-224",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R28",
+  "mentionArg1" : {
+    "extent" : "doctors",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E106-225",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "CNN_CF_20030304.1900.01-R28-1",
+  "relationSubType" : "Located",
+  "Sentence" : "And in some states , for example , there are doctors that are -- you know , there are 45 payouts in ten years and they 're not disciplined by the state medical board .",
+  "sentence_index" : 58,
+  "Tokens" : [ "And", "in", "some", "states", ",", "for", "example", ",", "there", "are", "doctors", "that", "are", "--", "you", "know", ",", "there", "are", "45", "payouts", "in", "ten", "years", "and", "they", "'re", "not", "disciplined", "by", "the", "state", "medical", "board", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the state medical board",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "state",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E108-229",
+    "start" : 31,
+    "end" : 31
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R29",
+  "mentionArg1" : {
+    "extent" : "the state medical board",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E107-228",
+    "start" : 30,
+    "end" : 33
+  },
+  "id" : "CNN_CF_20030304.1900.01-R29-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "And in some states , for example , there are doctors that are -- you know , there are 45 payouts in ten years and they 're not disciplined by the state medical board .",
+  "sentence_index" : 58,
+  "Tokens" : [ "And", "in", "some", "states", ",", "for", "example", ",", "there", "are", "doctors", "that", "are", "--", "you", "know", ",", "there", "are", "45", "payouts", "in", "ten", "years", "and", "they", "'re", "not", "disciplined", "by", "the", "state", "medical", "board", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "And in some states, for example, there are doctors that are -- you know, there are 45 payouts in ten years and they're not disciplined by the state medical board",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "the state medical board",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E107-228",
+    "start" : 30,
+    "end" : 33
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R30",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E106-227",
+    "start" : 25,
+    "end" : 25
+  },
+  "id" : "CNN_CF_20030304.1900.01-R30-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "And in some states , for example , there are doctors that are -- you know , there are 45 payouts in ten years and they 're not disciplined by the state medical board .",
+  "sentence_index" : 58,
+  "Tokens" : [ "And", "in", "some", "states", ",", "for", "example", ",", "there", "are", "doctors", "that", "are", "--", "you", "know", ",", "there", "are", "45", "payouts", "in", "ten", "years", "and", "they", "'re", "not", "disciplined", "by", "the", "state", "medical", "board", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Right now in South Florida, in South Florida, the latest poll shows that every neurosurgeon has been sued",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "South Florida",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E101-254",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R31",
+  "mentionArg1" : {
+    "extent" : "every neurosurgeon",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E119-256",
+    "start" : 15,
+    "end" : 16
+  },
+  "id" : "CNN_CF_20030304.1900.01-R31-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Right now in South Florida , in South Florida , the latest poll shows that every neurosurgeon has been sued .",
+  "sentence_index" : 67,
+  "Tokens" : [ "Right", "now", "in", "South", "Florida", ",", "in", "South", "Florida", ",", "the", "latest", "poll", "shows", "that", "every", "neurosurgeon", "has", "been", "sued", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "The average number of suits against a neurosurgeon is five in South Florida",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "South Florida",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E101-258",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "CNN_CF_20030304.1900.01-R37",
+  "mentionArg1" : {
+    "extent" : "a neurosurgeon",
+    "argMentionid" : "CNN_CF_20030304.1900.01-E120-257",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "CNN_CF_20030304.1900.01-R37-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The average number of suits against a neurosurgeon is five in South Florida .",
+  "sentence_index" : 68,
+  "Tokens" : [ "The", "average", "number", "of", "suits", "against", "a", "neurosurgeon", "is", "five", "in", "South", "Florida", "." ]
+} ]

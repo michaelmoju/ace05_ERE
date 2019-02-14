@@ -1,0 +1,67 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "Paul Avalar (ph) from Tempe, Arizona",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "Tempe, Arizona",
+    "argMentionid" : "CNN_CF_20030303.1900.06-2-E14-37",
+    "start" : 8,
+    "end" : 10
+  },
+  "relationID" : "CNN_CF_20030303.1900.06-2-R1",
+  "mentionArg1" : {
+    "extent" : "Paul Avalar (ph) from Tempe, Arizona",
+    "argMentionid" : "CNN_CF_20030303.1900.06-2-E12-36",
+    "start" : 2,
+    "end" : 10
+  },
+  "id" : "CNN_CF_20030303.1900.06-2-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I 'm Paul Avalar ( ph ) from Tempe , Arizona .",
+  "sentence_index" : 2,
+  "Tokens" : [ "I", "'m", "Paul", "Avalar", "(", "ph", ")", "from", "Tempe", ",", "Arizona", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Tempe, Arizona",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "Arizona",
+    "argMentionid" : "CNN_CF_20030303.1900.06-2-E15-38",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "CNN_CF_20030303.1900.06-2-R2",
+  "mentionArg1" : {
+    "extent" : "Tempe, Arizona",
+    "argMentionid" : "CNN_CF_20030303.1900.06-2-E14-37",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "CNN_CF_20030303.1900.06-2-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "I 'm Paul Avalar ( ph ) from Tempe , Arizona .",
+  "sentence_index" : 2,
+  "Tokens" : [ "I", "'m", "Paul", "Avalar", "(", "ph", ")", "from", "Tempe", ",", "Arizona", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "We go to war in Iraq, 200,000 people start protesting in Pakistan, they put too much pressure on the government",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Pakistan",
+    "argMentionid" : "CNN_CF_20030303.1900.06-2-E2-10",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "CNN_CF_20030303.1900.06-2-R3",
+  "mentionArg1" : {
+    "extent" : "200,000 people",
+    "argMentionid" : "CNN_CF_20030303.1900.06-2-E1-9",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "CNN_CF_20030303.1900.06-2-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "We go to war in Iraq , 200,000 people start protesting in Pakistan , they put too much pressure on the government .",
+  "sentence_index" : 12,
+  "Tokens" : [ "We", "go", "to", "war", "in", "Iraq", ",", "200,000", "people", "start", "protesting", "in", "Pakistan", ",", "they", "put", "too", "much", "pressure", "on", "the", "government", "." ]
+} ]

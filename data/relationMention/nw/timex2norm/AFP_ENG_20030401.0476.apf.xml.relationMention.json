@@ -1,0 +1,265 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "the current head of the country's energy regulator",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "the country's energy regulator",
+    "argMentionid" : "AFP_ENG_20030401.0476-E25-39",
+    "start" : 21,
+    "end" : 25
+  },
+  "relationID" : "AFP_ENG_20030401.0476-R1",
+  "mentionArg1" : {
+    "extent" : "the current head of the country's energy regulator",
+    "argMentionid" : "AFP_ENG_20030401.0476-E5-37",
+    "start" : 17,
+    "end" : 25
+  },
+  "id" : "AFP_ENG_20030401.0476-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "LONDON , April 1 ( AFP ) British Chancellor of the Exchequer Gordon Brown on Tuesday named the current head of the country 's energy regulator as the new chairman of finance watchdog the Financial Services Authority ( FSA ) .",
+  "sentence_index" : 0,
+  "Tokens" : [ "LONDON", ",", "April", "1", "(", "AFP", ")", "British", "Chancellor", "of", "the", "Exchequer", "Gordon", "Brown", "on", "Tuesday", "named", "the", "current", "head", "of", "the", "country", "'s", "energy", "regulator", "as", "the", "new", "chairman", "of", "finance", "watchdog", "the", "Financial", "Services", "Authority", "(", "FSA", ")", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "McCarthy currently heads the Office of Gas and Electricity Markets, or Ofgem, which regulates Britain's privatised energy industry",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "the Office of Gas and Electricity Markets",
+    "argMentionid" : "AFP_ENG_20030401.0476-E25-15",
+    "start" : 3,
+    "end" : 9
+  },
+  "relationID" : "AFP_ENG_20030401.0476-R1",
+  "mentionArg1" : {
+    "extent" : "McCarthy",
+    "argMentionid" : "AFP_ENG_20030401.0476-E5-14",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "AFP_ENG_20030401.0476-R1-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "McCarthy currently heads the Office of Gas and Electricity Markets , or Ofgem , which regulates Britain 's privatised energy industry .",
+  "sentence_index" : 4,
+  "Tokens" : [ "McCarthy", "currently", "heads", "the", "Office", "of", "Gas", "and", "Electricity", "Markets", ",", "or", "Ofgem", ",", "which", "regulates", "Britain", "'s", "privatised", "energy", "industry", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the new chairman of finance watchdog the Financial Services Authority (FSA",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "the Financial Services Authority",
+    "argMentionid" : "AFP_ENG_20030401.0476-E15-41",
+    "start" : 33,
+    "end" : 36
+  },
+  "relationID" : "AFP_ENG_20030401.0476-R3",
+  "mentionArg1" : {
+    "extent" : "the new chairman of finance watchdog the Financial Services Authority (FSA",
+    "argMentionid" : "AFP_ENG_20030401.0476-E5-40",
+    "start" : 27,
+    "end" : 38
+  },
+  "id" : "AFP_ENG_20030401.0476-R3-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "LONDON , April 1 ( AFP ) British Chancellor of the Exchequer Gordon Brown on Tuesday named the current head of the country 's energy regulator as the new chairman of finance watchdog the Financial Services Authority ( FSA ) .",
+  "sentence_index" : 0,
+  "Tokens" : [ "LONDON", ",", "April", "1", "(", "AFP", ")", "British", "Chancellor", "of", "the", "Exchequer", "Gordon", "Brown", "on", "Tuesday", "named", "the", "current", "head", "of", "the", "country", "'s", "energy", "regulator", "as", "the", "new", "chairman", "of", "finance", "watchdog", "the", "Financial", "Services", "Authority", "(", "FSA", ")", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "one of the best-known parts of the University of London",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "the University of London",
+    "argMentionid" : "AFP_ENG_20030401.0476-E4-6",
+    "start" : 19,
+    "end" : 22
+  },
+  "relationID" : "AFP_ENG_20030401.0476-R4",
+  "mentionArg1" : {
+    "extent" : "one of the best-known parts of the University of London",
+    "argMentionid" : "AFP_ENG_20030401.0476-E2-5",
+    "start" : 13,
+    "end" : 22
+  },
+  "id" : "AFP_ENG_20030401.0476-R4-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Davies is leaving to become chairman of the London School of Economics , one of the best-known parts of the University of London .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Davies", "is", "leaving", "to", "become", "chairman", "of", "the", "London", "School", "of", "Economics", ",", "one", "of", "the", "best-known", "parts", "of", "the", "University", "of", "London", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "chairman of a highly successful regulator",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "a highly successful regulator",
+    "argMentionid" : "AFP_ENG_20030401.0476-E25-13",
+    "start" : 33,
+    "end" : 36
+  },
+  "relationID" : "AFP_ENG_20030401.0476-R5",
+  "mentionArg1" : {
+    "extent" : "chairman of a highly successful regulator",
+    "argMentionid" : "AFP_ENG_20030401.0476-E5-11",
+    "start" : 31,
+    "end" : 36
+  },
+  "id" : "AFP_ENG_20030401.0476-R5-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Brown said McCarthy would bring to the FSA \" an unrivalled combination of experience of the public sector , experience as a senior practitioner in the financial services industry , and chairman of a highly successful regulator . \"",
+  "sentence_index" : 3,
+  "Tokens" : [ "Brown", "said", "McCarthy", "would", "bring", "to", "the", "FSA", "\"", "an", "unrivalled", "combination", "of", "experience", "of", "the", "public", "sector", ",", "experience", "as", "a", "senior", "practitioner", "in", "the", "financial", "services", "industry", ",", "and", "chairman", "of", "a", "highly", "successful", "regulator", ".", "\"" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "As well as previously holding senior positions at Barclays Bank, BZW and Kleinwort Benson, McCarthy was formerly a top civil servant at the Department of Trade and Industry",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Barclays Bank",
+    "argMentionid" : "AFP_ENG_20030401.0476-E8-18",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "AFP_ENG_20030401.0476-R6",
+  "mentionArg1" : {
+    "extent" : "McCarthy",
+    "argMentionid" : "AFP_ENG_20030401.0476-E5-21",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "AFP_ENG_20030401.0476-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "As well as previously holding senior positions at Barclays Bank , BZW and Kleinwort Benson , McCarthy was formerly a top civil servant at the Department of Trade and Industry .",
+  "sentence_index" : 5,
+  "Tokens" : [ "As", "well", "as", "previously", "holding", "senior", "positions", "at", "Barclays", "Bank", ",", "BZW", "and", "Kleinwort", "Benson", ",", "McCarthy", "was", "formerly", "a", "top", "civil", "servant", "at", "the", "Department", "of", "Trade", "and", "Industry", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "As well as previously holding senior positions at Barclays Bank, BZW and Kleinwort Benson, McCarthy was formerly a top civil servant at the Department of Trade and Industry",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "BZW",
+    "argMentionid" : "AFP_ENG_20030401.0476-E9-19",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "AFP_ENG_20030401.0476-R7",
+  "mentionArg1" : {
+    "extent" : "McCarthy",
+    "argMentionid" : "AFP_ENG_20030401.0476-E5-21",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "AFP_ENG_20030401.0476-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "As well as previously holding senior positions at Barclays Bank , BZW and Kleinwort Benson , McCarthy was formerly a top civil servant at the Department of Trade and Industry .",
+  "sentence_index" : 5,
+  "Tokens" : [ "As", "well", "as", "previously", "holding", "senior", "positions", "at", "Barclays", "Bank", ",", "BZW", "and", "Kleinwort", "Benson", ",", "McCarthy", "was", "formerly", "a", "top", "civil", "servant", "at", "the", "Department", "of", "Trade", "and", "Industry", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "As well as previously holding senior positions at Barclays Bank, BZW and Kleinwort Benson, McCarthy was formerly a top civil servant at the Department of Trade and Industry",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Kleinwort Benson",
+    "argMentionid" : "AFP_ENG_20030401.0476-E10-20",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "AFP_ENG_20030401.0476-R8",
+  "mentionArg1" : {
+    "extent" : "McCarthy",
+    "argMentionid" : "AFP_ENG_20030401.0476-E5-21",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "AFP_ENG_20030401.0476-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "As well as previously holding senior positions at Barclays Bank , BZW and Kleinwort Benson , McCarthy was formerly a top civil servant at the Department of Trade and Industry .",
+  "sentence_index" : 5,
+  "Tokens" : [ "As", "well", "as", "previously", "holding", "senior", "positions", "at", "Barclays", "Bank", ",", "BZW", "and", "Kleinwort", "Benson", ",", "McCarthy", "was", "formerly", "a", "top", "civil", "servant", "at", "the", "Department", "of", "Trade", "and", "Industry", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a top civil servant at the Department of Trade and Industry",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "the Department of Trade and Industry",
+    "argMentionid" : "AFP_ENG_20030401.0476-E12-23",
+    "start" : 24,
+    "end" : 29
+  },
+  "relationID" : "AFP_ENG_20030401.0476-R9",
+  "mentionArg1" : {
+    "extent" : "a top civil servant at the Department of Trade and Industry",
+    "argMentionid" : "AFP_ENG_20030401.0476-E5-22",
+    "start" : 19,
+    "end" : 29
+  },
+  "id" : "AFP_ENG_20030401.0476-R9-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "As well as previously holding senior positions at Barclays Bank , BZW and Kleinwort Benson , McCarthy was formerly a top civil servant at the Department of Trade and Industry .",
+  "sentence_index" : 5,
+  "Tokens" : [ "As", "well", "as", "previously", "holding", "senior", "positions", "at", "Barclays", "Bank", ",", "BZW", "and", "Kleinwort", "Benson", ",", "McCarthy", "was", "formerly", "a", "top", "civil", "servant", "at", "the", "Department", "of", "Trade", "and", "Industry", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Britain's sole regulatory body for financial services",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Britain",
+    "argMentionid" : "AFP_ENG_20030401.0476-E21-26",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "AFP_ENG_20030401.0476-R10",
+  "mentionArg1" : {
+    "extent" : "Britain's sole regulatory body for financial services",
+    "argMentionid" : "AFP_ENG_20030401.0476-E15-28",
+    "start" : 8,
+    "end" : 15
+  },
+  "id" : "AFP_ENG_20030401.0476-R10-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Under Davies 's watch , the FSA became Britain 's sole regulatory body for financial services in November 2001 , taking on the various functions of nine separate agencies .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Under", "Davies", "'s", "watch", ",", "the", "FSA", "became", "Britain", "'s", "sole", "regulatory", "body", "for", "financial", "services", "in", "November", "2001", ",", "taking", "on", "the", "various", "functions", "of", "nine", "separate", "agencies", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "chairman of the London School of Economics, one of the best-known parts of the University of London",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "the London School of Economics",
+    "argMentionid" : "AFP_ENG_20030401.0476-E2-4",
+    "start" : 7,
+    "end" : 11
+  },
+  "relationID" : "AFP_ENG_20030401.0476-R11",
+  "mentionArg1" : {
+    "extent" : "chairman of the London School of Economics, one of the best-known parts of the University of London",
+    "argMentionid" : "AFP_ENG_20030401.0476-E1-31",
+    "start" : 5,
+    "end" : 22
+  },
+  "id" : "AFP_ENG_20030401.0476-R11-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Davies is leaving to become chairman of the London School of Economics , one of the best-known parts of the University of London .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Davies", "is", "leaving", "to", "become", "chairman", "of", "the", "London", "School", "of", "Economics", ",", "one", "of", "the", "best-known", "parts", "of", "the", "University", "of", "London", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "British Chancellor of the Exchequer",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "the Exchequer",
+    "argMentionid" : "AFP_ENG_20030401.0476-E16-29",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "AFP_ENG_20030401.0476-R12",
+  "mentionArg1" : {
+    "extent" : "British Chancellor of the Exchequer",
+    "argMentionid" : "AFP_ENG_20030401.0476-E20-36",
+    "start" : 7,
+    "end" : 11
+  },
+  "id" : "AFP_ENG_20030401.0476-R12-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "LONDON , April 1 ( AFP ) British Chancellor of the Exchequer Gordon Brown on Tuesday named the current head of the country 's energy regulator as the new chairman of finance watchdog the Financial Services Authority ( FSA ) .",
+  "sentence_index" : 0,
+  "Tokens" : [ "LONDON", ",", "April", "1", "(", "AFP", ")", "British", "Chancellor", "of", "the", "Exchequer", "Gordon", "Brown", "on", "Tuesday", "named", "the", "current", "head", "of", "the", "country", "'s", "energy", "regulator", "as", "the", "new", "chairman", "of", "finance", "watchdog", "the", "Financial", "Services", "Authority", "(", "FSA", ")", "." ]
+} ]

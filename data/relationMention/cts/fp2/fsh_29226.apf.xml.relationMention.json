@@ -1,0 +1,177 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "his wife",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "his wife",
+    "argMentionid" : "fsh_29226-E32-194",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "fsh_29226-R1",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29226-E13-192",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "fsh_29226-R1-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Peterson Trial Scott Peterson has been found guilty of murdering his wife Laci and their unborn son , and he now faces the death penalty .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Peterson", "Trial", "Scott", "Peterson", "has", "been", "found", "guilty", "of", "murdering", "his", "wife", "Laci", "and", "their", "unborn", "son", ",", "and", "he", "now", "faces", "the", "death", "penalty", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his wife",
+  "sentence_length" : 67,
+  "mentionArg2" : {
+    "extent" : "his wife",
+    "argMentionid" : "fsh_29226-E32-69",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "fsh_29226-R1",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29226-E13-68",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "fsh_29226-R1-2",
+  "relationSubType" : "Family",
+  "Sentence" : "I think he 's wrong , what he did , everything , he cheated on his wife , that 's so wrong , but -- that does n't make him a murderer , he 's just a cheater , he 's just a -- you know , like one hundred ten percent you know eighteen karat -- asshole , like i- Mar- Mark Geragos called him .",
+  "sentence_index" : 25,
+  "Tokens" : [ "I", "think", "he", "'s", "wrong", ",", "what", "he", "did", ",", "everything", ",", "he", "cheated", "on", "his", "wife", ",", "that", "'s", "so", "wrong", ",", "but", "--", "that", "does", "n't", "make", "him", "a", "murderer", ",", "he", "'s", "just", "a", "cheater", ",", "he", "'s", "just", "a", "--", "you", "know", ",", "like", "one", "hundred", "ten", "percent", "you", "know", "eighteen", "karat", "--", "asshole", ",", "like", "i-", "Mar-", "Mark", "Geragos", "called", "him", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their unborn son",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "their unborn son",
+    "argMentionid" : "fsh_29226-E35-197",
+    "start" : 14,
+    "end" : 16
+  },
+  "relationID" : "fsh_29226-R2",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "fsh_29226-E34-196",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "fsh_29226-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Peterson Trial Scott Peterson has been found guilty of murdering his wife Laci and their unborn son , and he now faces the death penalty .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Peterson", "Trial", "Scott", "Peterson", "has", "been", "found", "guilty", "of", "murdering", "his", "wife", "Laci", "and", "their", "unborn", "son", ",", "and", "he", "now", "faces", "the", "death", "penalty", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Christina from Connecticut",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "Connecticut",
+    "argMentionid" : "fsh_29226-E2-5",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "fsh_29226-R3",
+  "mentionArg1" : {
+    "extent" : "Christina from Connecticut",
+    "argMentionid" : "fsh_29226-E1-4",
+    "start" : 3,
+    "end" : 5
+  },
+  "id" : "fsh_29226-R3-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Christina I 'm Christina from Connecticut .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Christina", "I", "'m", "Christina", "from", "Connecticut", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Greg from Columbus, Ohio",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "Columbus",
+    "argMentionid" : "fsh_29226-E4-9",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "fsh_29226-R4",
+  "mentionArg1" : {
+    "extent" : "Greg from Columbus, Ohio",
+    "argMentionid" : "fsh_29226-E3-8",
+    "start" : 3,
+    "end" : 7
+  },
+  "id" : "fsh_29226-R4-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Greg I 'm Greg from Columbus , Ohio .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Greg", "I", "'m", "Greg", "from", "Columbus", ",", "Ohio", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Columbus, Ohio",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "Ohio",
+    "argMentionid" : "fsh_29226-E5-10",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "fsh_29226-R5",
+  "mentionArg1" : {
+    "extent" : "Columbus",
+    "argMentionid" : "fsh_29226-E4-9",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "fsh_29226-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Greg I 'm Greg from Columbus , Ohio .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Greg", "I", "'m", "Greg", "from", "Columbus", ",", "Ohio", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "And you know and I think the media made him guilty, and I think -- it's like you know, I mean you saw what happened outside the courtroom, I don't know if you did or not, see how they were cheering on",
+  "sentence_length" : 49,
+  "mentionArg2" : {
+    "extent" : "the courtroom",
+    "argMentionid" : "fsh_29226-E11-50",
+    "start" : 29,
+    "end" : 30
+  },
+  "relationID" : "fsh_29226-R6",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "fsh_29226-E12-55",
+    "start" : 44,
+    "end" : 44
+  },
+  "id" : "fsh_29226-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "And you know and I think the media made him guilty , and I think -- it 's like you know , I mean you saw what happened outside the courtroom , I do n't know if you did or not , see how they were cheering on .",
+  "sentence_index" : 21,
+  "Tokens" : [ "And", "you", "know", "and", "I", "think", "the", "media", "made", "him", "guilty", ",", "and", "I", "think", "--", "it", "'s", "like", "you", "know", ",", "I", "mean", "you", "saw", "what", "happened", "outside", "the", "courtroom", ",", "I", "do", "n't", "know", "if", "you", "did", "or", "not", ",", "see", "how", "they", "were", "cheering", "on", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "your wife",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "your wife",
+    "argMentionid" : "fsh_29226-E17-104",
+    "start" : 27,
+    "end" : 28
+  },
+  "relationID" : "fsh_29226-R7",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29226-E8-103",
+    "start" : 27,
+    "end" : 27
+  },
+  "id" : "fsh_29226-R7-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Greg But uh no i- the -- uh the I think well first of all , you know I agree with you , I think cheating on your wife 's pretty low .",
+  "sentence_index" : 30,
+  "Tokens" : [ "Greg", "But", "uh", "no", "i-", "the", "--", "uh", "the", "I", "think", "well", "first", "of", "all", ",", "you", "know", "I", "agree", "with", "you", ",", "I", "think", "cheating", "on", "your", "wife", "'s", "pretty", "low", "." ]
+} ]

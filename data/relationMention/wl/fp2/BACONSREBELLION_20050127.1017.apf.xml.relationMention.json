@@ -1,0 +1,309 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "Del. Chap Peterson, D-Fairfax",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "Fairfax",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E63-114",
+    "start" : 30,
+    "end" : 30
+  },
+  "relationID" : "BACONSREBELLION_20050127.1017-R1",
+  "mentionArg1" : {
+    "extent" : "Del. Chap Peterson, D-Fairfax",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E22-111",
+    "start" : 26,
+    "end" : 30
+  },
+  "id" : "BACONSREBELLION_20050127.1017-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Will Vehrs 2005-01-27T10:17:00 The Augusta Free Press ( motto : \" Our only agenda is the truth \" ) has a Chris Graham story on a Del. Chap Peterson , D-Fairfax , bill that would require payback by companies lured to Virginia by incentives if they do not stay for five years .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Will", "Vehrs", "2005-01-27T10:17:00", "The", "Augusta", "Free", "Press", "(", "motto", ":", "\"", "Our", "only", "agenda", "is", "the", "truth", "\"", ")", "has", "a", "Chris", "Graham", "story", "on", "a", "Del.", "Chap", "Peterson", ",", "D-Fairfax", ",", "bill", "that", "would", "require", "payback", "by", "companies", "lured", "to", "Virginia", "by", "incentives", "if", "they", "do", "not", "stay", "for", "five", "years", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "former Congresswoman and State Sen. Leslie Byrne",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "State",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E5-7",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "BACONSREBELLION_20050127.1017-R2",
+  "mentionArg1" : {
+    "extent" : "former Congresswoman and State Sen. Leslie Byrne",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E3-5",
+    "start" : 15,
+    "end" : 21
+  },
+  "id" : "BACONSREBELLION_20050127.1017-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Graham 's article has the interesting hook of quoting one of Peterson 's rivals , former Congresswoman and State Sen. Leslie Byrne , as approving of the measure because it 's \" something that I 've been talking about for some time now . \"",
+  "sentence_index" : 3,
+  "Tokens" : [ "Graham", "'s", "article", "has", "the", "interesting", "hook", "of", "quoting", "one", "of", "Peterson", "'s", "rivals", ",", "former", "Congresswoman", "and", "State", "Sen.", "Leslie", "Byrne", ",", "as", "approving", "of", "the", "measure", "because", "it", "'s", "\"", "something", "that", "I", "'ve", "been", "talking", "about", "for", "some", "time", "now", ".", "\"" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the organization's leadership",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "the organization",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E7-12",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "BACONSREBELLION_20050127.1017-R3",
+  "mentionArg1" : {
+    "extent" : "the organization's leadership",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E8-11",
+    "start" : 15,
+    "end" : 18
+  },
+  "id" : "BACONSREBELLION_20050127.1017-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The Virginia Economic Developers Association has not taken a stance on the bill , but the organization 's leadership is expected to meet tomorrow to discuss it .",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "Virginia", "Economic", "Developers", "Association", "has", "not", "taken", "a", "stance", "on", "the", "bill", ",", "but", "the", "organization", "'s", "leadership", "is", "expected", "to", "meet", "tomorrow", "to", "discuss", "it", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Residents throughout the commonwealth of Virginia and the rest of the nation",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the commonwealth of Virginia",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E5-38",
+    "start" : 2,
+    "end" : 5
+  },
+  "relationID" : "BACONSREBELLION_20050127.1017-R4",
+  "mentionArg1" : {
+    "extent" : "Residents throughout the commonwealth of Virginia and the rest of the nation",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E17-37",
+    "start" : 0,
+    "end" : 11
+  },
+  "id" : "BACONSREBELLION_20050127.1017-R4-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Residents throughout the commonwealth of Virginia and the rest of the nation are economically vulnerable due to free trade agreements and the global economy .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Residents", "throughout", "the", "commonwealth", "of", "Virginia", "and", "the", "rest", "of", "the", "nation", "are", "economically", "vulnerable", "due", "to", "free", "trade", "agreements", "and", "the", "global", "economy", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Residents throughout the commonwealth of Virginia and the rest of the nation",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the nation",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E19-40",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "BACONSREBELLION_20050127.1017-R5",
+  "mentionArg1" : {
+    "extent" : "Residents throughout the commonwealth of Virginia and the rest of the nation",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E17-37",
+    "start" : 0,
+    "end" : 11
+  },
+  "id" : "BACONSREBELLION_20050127.1017-R5-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Residents throughout the commonwealth of Virginia and the rest of the nation are economically vulnerable due to free trade agreements and the global economy .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Residents", "throughout", "the", "commonwealth", "of", "Virginia", "and", "the", "rest", "of", "the", "nation", "are", "economically", "vulnerable", "due", "to", "free", "trade", "agreements", "and", "the", "global", "economy", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Residents throughout the commonwealth of Virginia and the rest of the nation",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the nation",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E19-40",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "BACONSREBELLION_20050127.1017-R6",
+  "mentionArg1" : {
+    "extent" : "the commonwealth of Virginia",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E5-38",
+    "start" : 2,
+    "end" : 5
+  },
+  "id" : "BACONSREBELLION_20050127.1017-R6-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Residents throughout the commonwealth of Virginia and the rest of the nation are economically vulnerable due to free trade agreements and the global economy .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Residents", "throughout", "the", "commonwealth", "of", "Virginia", "and", "the", "rest", "of", "the", "nation", "are", "economically", "vulnerable", "due", "to", "free", "trade", "agreements", "and", "the", "global", "economy", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Lt. Governor candidate's Chap Peterson and Leslie Byrne",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Leslie Byrne",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E3-47",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "BACONSREBELLION_20050127.1017-R7",
+  "mentionArg1" : {
+    "extent" : "Lt. Governor candidate's Chap Peterson",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E22-43",
+    "start" : 0,
+    "end" : 5
+  },
+  "id" : "BACONSREBELLION_20050127.1017-R7-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "Lt. Governor candidate 's Chap Peterson and Leslie Byrne are both good politicians , but need to start thinking outside the box with legislation that will attract and benefit economic growth for the business world and create sustainable workplaces for Virginians .",
+  "sentence_index" : 20,
+  "Tokens" : [ "Lt.", "Governor", "candidate", "'s", "Chap", "Peterson", "and", "Leslie", "Byrne", "are", "both", "good", "politicians", ",", "but", "need", "to", "start", "thinking", "outside", "the", "box", "with", "legislation", "that", "will", "attract", "and", "benefit", "economic", "growth", "for", "the", "business", "world", "and", "create", "sustainable", "workplaces", "for", "Virginians", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Lt. Governor candidate's Chap Peterson and Leslie Byrne",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Leslie Byrne",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E3-78",
+    "start" : 20,
+    "end" : 21
+  },
+  "relationID" : "BACONSREBELLION_20050127.1017-R7",
+  "mentionArg1" : {
+    "extent" : "Lt. Governor candidate's Chap Peterson",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E22-75",
+    "start" : 13,
+    "end" : 18
+  },
+  "id" : "BACONSREBELLION_20050127.1017-R7-2",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "Phil Rodokanakis ???? - ?? - ?? T19:33:00 Steve Sisson said : \" Lt. Governor candidate 's Chap Peterson and Leslie Byrne are both good politicians ... \"",
+  "sentence_index" : 30,
+  "Tokens" : [ "Phil", "Rodokanakis", "????", "-", "??", "-", "??", "T19:33:00", "Steve", "Sisson", "said", ":", "\"", "Lt.", "Governor", "candidate", "'s", "Chap", "Peterson", "and", "Leslie", "Byrne", "are", "both", "good", "politicians", "...", "\"" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the VA business community",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "the VA",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E5-70",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "BACONSREBELLION_20050127.1017-R8",
+  "mentionArg1" : {
+    "extent" : "the VA business community",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E27-54",
+    "start" : 8,
+    "end" : 11
+  },
+  "id" : "BACONSREBELLION_20050127.1017-R8-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Will , I agree with your analysis , the VA business community along with a majority of GA members will probably deep-six this 5-year mandatory requirement for compensation due to relocation .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Will", ",", "I", "agree", "with", "your", "analysis", ",", "the", "VA", "business", "community", "along", "with", "a", "majority", "of", "GA", "members", "will", "probably", "deep-six", "this", "5-year", "mandatory", "requirement", "for", "compensation", "due", "to", "relocation", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Virginia businesses",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Virginia",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E5-110",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "BACONSREBELLION_20050127.1017-R8",
+  "mentionArg1" : {
+    "extent" : "Virginia businesses",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E27-4",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "BACONSREBELLION_20050127.1017-R8-2",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "But most importantly , how many Virginia businesses will choose to relocate -- or outsource when employee are the corporate stockowners ?",
+  "sentence_index" : 27,
+  "Tokens" : [ "But", "most", "importantly", ",", "how", "many", "Virginia", "businesses", "will", "choose", "to", "relocate", "--", "or", "outsource", "when", "employee", "are", "the", "corporate", "stockowners", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a majority of GA members",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "GA",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E32-59",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "BACONSREBELLION_20050127.1017-R9",
+  "mentionArg1" : {
+    "extent" : "GA members",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E31-56",
+    "start" : 17,
+    "end" : 18
+  },
+  "id" : "BACONSREBELLION_20050127.1017-R9-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Will , I agree with your analysis , the VA business community along with a majority of GA members will probably deep-six this 5-year mandatory requirement for compensation due to relocation .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Will", ",", "I", "agree", "with", "your", "analysis", ",", "the", "VA", "business", "community", "along", "with", "a", "majority", "of", "GA", "members", "will", "probably", "deep-six", "this", "5-year", "mandatory", "requirement", "for", "compensation", "due", "to", "relocation", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "business owners",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "business",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E27-61",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "BACONSREBELLION_20050127.1017-R10",
+  "mentionArg1" : {
+    "extent" : "business owners",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E33-60",
+    "start" : 19,
+    "end" : 20
+  },
+  "id" : "BACONSREBELLION_20050127.1017-R10-1",
+  "relationSubType" : "Ownership",
+  "Sentence" : "If not bordering on the political ridorkulous ( ridiculously dorky ) , it 's just plain ludicrous to believe business owners would agree to a capital investment with strings attached to the businesses health and longevity .",
+  "sentence_index" : 22,
+  "Tokens" : [ "If", "not", "bordering", "on", "the", "political", "ridorkulous", "(", "ridiculously", "dorky", ")", ",", "it", "'s", "just", "plain", "ludicrous", "to", "believe", "business", "owners", "would", "agree", "to", "a", "capital", "investment", "with", "strings", "attached", "to", "the", "businesses", "health", "and", "longevity", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "VA employee",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "VA",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E5-67",
+    "start" : 36,
+    "end" : 36
+  },
+  "relationID" : "BACONSREBELLION_20050127.1017-R11",
+  "mentionArg1" : {
+    "extent" : "VA employee",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E25-66",
+    "start" : 36,
+    "end" : 37
+  },
+  "id" : "BACONSREBELLION_20050127.1017-R11-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The ESOP is itself a corporate finance vehicle that provides monetary incentives with lending institutes , state and federal tax benefits , new capital investment , and most of all , the stock ownership plan increases VA employee capital wealth .",
+  "sentence_index" : 25,
+  "Tokens" : [ "The", "ESOP", "is", "itself", "a", "corporate", "finance", "vehicle", "that", "provides", "monetary", "incentives", "with", "lending", "institutes", ",", "state", "and", "federal", "tax", "benefits", ",", "new", "capital", "investment", ",", "and", "most", "of", "all", ",", "the", "stock", "ownership", "plan", "increases", "VA", "employee", "capital", "wealth", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Virginia's employees",
+  "sentence_length" : 49,
+  "mentionArg2" : {
+    "extent" : "Virginia",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E5-72",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "BACONSREBELLION_20050127.1017-R13",
+  "mentionArg1" : {
+    "extent" : "Virginia's employees",
+    "argMentionid" : "BACONSREBELLION_20050127.1017-E25-71",
+    "start" : 18,
+    "end" : 20
+  },
+  "id" : "BACONSREBELLION_20050127.1017-R13-1",
+  "relationSubType" : "Located",
+  "Sentence" : "And lets say the business has no other choice but to remove to the third world ... When Virginia 's employees are fully vested in company stock , they will also reap from the profits of lower wages in the global marketplace just like the corporate big boys .",
+  "sentence_index" : 28,
+  "Tokens" : [ "And", "lets", "say", "the", "business", "has", "no", "other", "choice", "but", "to", "remove", "to", "the", "third", "world", "...", "When", "Virginia", "'s", "employees", "are", "fully", "vested", "in", "company", "stock", ",", "they", "will", "also", "reap", "from", "the", "profits", "of", "lower", "wages", "in", "the", "global", "marketplace", "just", "like", "the", "corporate", "big", "boys", "." ]
+} ]

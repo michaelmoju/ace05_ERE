@@ -1,0 +1,133 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "a michigan teen who disappeared with a convicted killer and went on a three-week oddysey",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "michigan",
+    "argMentionid" : "CNN_ENG_20030411_193701.3-E3-2",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "CNN_ENG_20030411_193701.3-R1",
+  "mentionArg1" : {
+    "extent" : "a michigan teen who disappeared with a convicted killer and went on a three-week oddysey",
+    "argMentionid" : "CNN_ENG_20030411_193701.3-E2-1",
+    "start" : 0,
+    "end" : 14
+  },
+  "id" : "CNN_ENG_20030411_193701.3-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "a michigan teen who disappeared with a convicted killer and went on a three-week oddysey is in trouble with the law tonight. prosecutors charge lindsey ryan with stealing firearms from her parents ' home. police caught up with the two in california .",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "michigan", "teen", "who", "disappeared", "with", "a", "convicted", "killer", "and", "went", "on", "a", "three-week", "oddysey", "is", "in", "trouble", "with", "the", "law", "tonight.", "prosecutors", "charge", "lindsey", "ryan", "with", "stealing", "firearms", "from", "her", "parents", "'", "home.", "police", "caught", "up", "with", "the", "two", "in", "california", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "prosecutors charge lindsey ryan with stealing firearms from her parents' home",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "firearms",
+    "argMentionid" : "CNN_ENG_20030411_193701.3-E6-7",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "CNN_ENG_20030411_193701.3-R2",
+  "mentionArg1" : {
+    "extent" : "lindsey ryan",
+    "argMentionid" : "CNN_ENG_20030411_193701.3-E2-6",
+    "start" : 24,
+    "end" : 25
+  },
+  "id" : "CNN_ENG_20030411_193701.3-R2-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "a michigan teen who disappeared with a convicted killer and went on a three-week oddysey is in trouble with the law tonight. prosecutors charge lindsey ryan with stealing firearms from her parents ' home. police caught up with the two in california .",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "michigan", "teen", "who", "disappeared", "with", "a", "convicted", "killer", "and", "went", "on", "a", "three-week", "oddysey", "is", "in", "trouble", "with", "the", "law", "tonight.", "prosecutors", "charge", "lindsey", "ryan", "with", "stealing", "firearms", "from", "her", "parents", "'", "home.", "police", "caught", "up", "with", "the", "two", "in", "california", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her parents' home",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "her parents",
+    "argMentionid" : "CNN_ENG_20030411_193701.3-E8-9",
+    "start" : 30,
+    "end" : 31
+  },
+  "relationID" : "CNN_ENG_20030411_193701.3-R3",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_ENG_20030411_193701.3-E2-10",
+    "start" : 30,
+    "end" : 30
+  },
+  "id" : "CNN_ENG_20030411_193701.3-R3-1",
+  "relationSubType" : "Family",
+  "Sentence" : "a michigan teen who disappeared with a convicted killer and went on a three-week oddysey is in trouble with the law tonight. prosecutors charge lindsey ryan with stealing firearms from her parents ' home. police caught up with the two in california .",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "michigan", "teen", "who", "disappeared", "with", "a", "convicted", "killer", "and", "went", "on", "a", "three-week", "oddysey", "is", "in", "trouble", "with", "the", "law", "tonight.", "prosecutors", "charge", "lindsey", "ryan", "with", "stealing", "firearms", "from", "her", "parents", "'", "home.", "police", "caught", "up", "with", "the", "two", "in", "california", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "her parents' home",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "her parents' home",
+    "argMentionid" : "CNN_ENG_20030411_193701.3-E7-8",
+    "start" : 30,
+    "end" : 33
+  },
+  "relationID" : "CNN_ENG_20030411_193701.3-R4",
+  "mentionArg1" : {
+    "extent" : "her parents",
+    "argMentionid" : "CNN_ENG_20030411_193701.3-E8-9",
+    "start" : 30,
+    "end" : 31
+  },
+  "id" : "CNN_ENG_20030411_193701.3-R4-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "a michigan teen who disappeared with a convicted killer and went on a three-week oddysey is in trouble with the law tonight. prosecutors charge lindsey ryan with stealing firearms from her parents ' home. police caught up with the two in california .",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "michigan", "teen", "who", "disappeared", "with", "a", "convicted", "killer", "and", "went", "on", "a", "three-week", "oddysey", "is", "in", "trouble", "with", "the", "law", "tonight.", "prosecutors", "charge", "lindsey", "ryan", "with", "stealing", "firearms", "from", "her", "parents", "'", "home.", "police", "caught", "up", "with", "the", "two", "in", "california", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "police caught up with the two in california",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "california",
+    "argMentionid" : "CNN_ENG_20030411_193701.3-E11-13",
+    "start" : 41,
+    "end" : 41
+  },
+  "relationID" : "CNN_ENG_20030411_193701.3-R5",
+  "mentionArg1" : {
+    "extent" : "police",
+    "argMentionid" : "CNN_ENG_20030411_193701.3-E9-11",
+    "start" : 34,
+    "end" : 34
+  },
+  "id" : "CNN_ENG_20030411_193701.3-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "a michigan teen who disappeared with a convicted killer and went on a three-week oddysey is in trouble with the law tonight. prosecutors charge lindsey ryan with stealing firearms from her parents ' home. police caught up with the two in california .",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "michigan", "teen", "who", "disappeared", "with", "a", "convicted", "killer", "and", "went", "on", "a", "three-week", "oddysey", "is", "in", "trouble", "with", "the", "law", "tonight.", "prosecutors", "charge", "lindsey", "ryan", "with", "stealing", "firearms", "from", "her", "parents", "'", "home.", "police", "caught", "up", "with", "the", "two", "in", "california", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "police caught up with the two in california",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "california",
+    "argMentionid" : "CNN_ENG_20030411_193701.3-E11-13",
+    "start" : 41,
+    "end" : 41
+  },
+  "relationID" : "CNN_ENG_20030411_193701.3-R6",
+  "mentionArg1" : {
+    "extent" : "the two",
+    "argMentionid" : "CNN_ENG_20030411_193701.3-E10-12",
+    "start" : 38,
+    "end" : 39
+  },
+  "id" : "CNN_ENG_20030411_193701.3-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "a michigan teen who disappeared with a convicted killer and went on a three-week oddysey is in trouble with the law tonight. prosecutors charge lindsey ryan with stealing firearms from her parents ' home. police caught up with the two in california .",
+  "sentence_index" : 0,
+  "Tokens" : [ "a", "michigan", "teen", "who", "disappeared", "with", "a", "convicted", "killer", "and", "went", "on", "a", "three-week", "oddysey", "is", "in", "trouble", "with", "the", "law", "tonight.", "prosecutors", "charge", "lindsey", "ryan", "with", "stealing", "firearms", "from", "her", "parents", "'", "home.", "police", "caught", "up", "with", "the", "two", "in", "california", "." ]
+} ]

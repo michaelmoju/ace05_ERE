@@ -1,0 +1,375 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "PLO leader",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "PLO",
+    "argMentionid" : "fsh_29586-E36-208",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "fsh_29586-R1",
+  "mentionArg1" : {
+    "extent" : "PLO leader",
+    "argMentionid" : "fsh_29586-E3-211",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "fsh_29586-R1-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Death of Arafat ( 2 ) PLO leader PLO leader Yasser Arafat died in a Paris hospital last week , after a lot of controversy surrounding his illness and death .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Death", "of", "Arafat", "(", "2", ")", "PLO", "leader", "PLO", "leader", "Yasser", "Arafat", "died", "in", "a", "Paris", "hospital", "last", "week", ",", "after", "a", "lot", "of", "controversy", "surrounding", "his", "illness", "and", "death", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "PLO leader",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "PLO",
+    "argMentionid" : "fsh_29586-E36-289",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "fsh_29586-R1",
+  "mentionArg1" : {
+    "extent" : "PLO leader",
+    "argMentionid" : "fsh_29586-E3-288",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "fsh_29586-R1-2",
+  "relationSubType" : "Membership",
+  "Sentence" : "Death of Arafat ( 2 ) PLO leader PLO leader Yasser Arafat died in a Paris hospital last week , after a lot of controversy surrounding his illness and death .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Death", "of", "Arafat", "(", "2", ")", "PLO", "leader", "PLO", "leader", "Yasser", "Arafat", "died", "in", "a", "Paris", "hospital", "last", "week", ",", "after", "a", "lot", "of", "controversy", "surrounding", "his", "illness", "and", "death", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "PLO leader Yasser Arafat died in a Paris hospital last week, after a lot of controversy surrounding his illness and death",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Paris",
+    "argMentionid" : "fsh_29586-E50-291",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "fsh_29586-R3",
+  "mentionArg1" : {
+    "extent" : "PLO leader Yasser Arafat",
+    "argMentionid" : "fsh_29586-E3-1",
+    "start" : 8,
+    "end" : 11
+  },
+  "id" : "fsh_29586-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Death of Arafat ( 2 ) PLO leader PLO leader Yasser Arafat died in a Paris hospital last week , after a lot of controversy surrounding his illness and death .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Death", "of", "Arafat", "(", "2", ")", "PLO", "leader", "PLO", "leader", "Yasser", "Arafat", "died", "in", "a", "Paris", "hospital", "last", "week", ",", "after", "a", "lot", "of", "controversy", "surrounding", "his", "illness", "and", "death", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a Paris hospital",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Paris",
+    "argMentionid" : "fsh_29586-E50-291",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "fsh_29586-R4",
+  "mentionArg1" : {
+    "extent" : "a Paris hospital",
+    "argMentionid" : "fsh_29586-E49-290",
+    "start" : 14,
+    "end" : 16
+  },
+  "id" : "fsh_29586-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Death of Arafat ( 2 ) PLO leader PLO leader Yasser Arafat died in a Paris hospital last week , after a lot of controversy surrounding his illness and death .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Death", "of", "Arafat", "(", "2", ")", "PLO", "leader", "PLO", "leader", "Yasser", "Arafat", "died", "in", "a", "Paris", "hospital", "last", "week", ",", "after", "a", "lot", "of", "controversy", "surrounding", "his", "illness", "and", "death", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Well, uh, you know,  Colin Powell is a -- pretty moderate guy and would've been nice to see him there or maybe -- the, uh,  Deputy -- Secret of State",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "fsh_29586-E26-226",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "fsh_29586-R5",
+  "mentionArg1" : {
+    "extent" : "him",
+    "argMentionid" : "fsh_29586-E30-175",
+    "start" : 22,
+    "end" : 22
+  },
+  "id" : "fsh_29586-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Well , uh , you know , Colin Powell is a -- pretty moderate guy and would 've been nice to see him there or maybe -- the , uh , Deputy -- Secret of State .",
+  "sentence_index" : 76,
+  "Tokens" : [ "Well", ",", "uh", ",", "you", "know", ",", "Colin", "Powell", "is", "a", "--", "pretty", "moderate", "guy", "and", "would", "'ve", "been", "nice", "to", "see", "him", "there", "or", "maybe", "--", "the", ",", "uh", ",", "Deputy", "--", "Secret", "of", "State", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the, uh,  Deputy -- Secret of State",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "State",
+    "argMentionid" : "fsh_29586-E33-177",
+    "start" : 35,
+    "end" : 35
+  },
+  "relationID" : "fsh_29586-R6",
+  "mentionArg1" : {
+    "extent" : "the, uh,  Deputy -- Secret of State",
+    "argMentionid" : "fsh_29586-E32-176",
+    "start" : 27,
+    "end" : 35
+  },
+  "id" : "fsh_29586-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Well , uh , you know , Colin Powell is a -- pretty moderate guy and would 've been nice to see him there or maybe -- the , uh , Deputy -- Secret of State .",
+  "sentence_index" : 76,
+  "Tokens" : [ "Well", ",", "uh", ",", "you", "know", ",", "Colin", "Powell", "is", "a", "--", "pretty", "moderate", "guy", "and", "would", "'ve", "been", "nice", "to", "see", "him", "there", "or", "maybe", "--", "the", ",", "uh", ",", "Deputy", "--", "Secret", "of", "State", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Palestinian territory",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "fsh_29586-E19-213",
+    "start" : 30,
+    "end" : 30
+  },
+  "relationID" : "fsh_29586-R7",
+  "mentionArg1" : {
+    "extent" : "Palestinian territory",
+    "argMentionid" : "fsh_29586-E34-187",
+    "start" : 30,
+    "end" : 31
+  },
+  "id" : "fsh_29586-R7-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Paul But , uh , at at least for the ceremony in Egypt I think , uh , I can understand that no one would want to go into -- Palestinian territory .",
+  "sentence_index" : 83,
+  "Tokens" : [ "Paul", "But", ",", "uh", ",", "at", "at", "least", "for", "the", "ceremony", "in", "Egypt", "I", "think", ",", "uh", ",", "I", "can", "understand", "that", "no", "one", "would", "want", "to", "go", "into", "--", "Palestinian", "territory", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a senior US official",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "fsh_29586-E4-5",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "fsh_29586-R8",
+  "mentionArg1" : {
+    "extent" : "a senior US official",
+    "argMentionid" : "fsh_29586-E2-3",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "fsh_29586-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Should President Bush or a senior US official have attended Arafat 's funeral ?",
+  "sentence_index" : 4,
+  "Tokens" : [ "Should", "President", "Bush", "or", "a", "senior", "US", "official", "have", "attended", "Arafat", "'s", "funeral", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I'm in Delaware",
+  "sentence_length" : 5,
+  "mentionArg2" : {
+    "extent" : "Delaware",
+    "argMentionid" : "fsh_29586-E7-13",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "fsh_29586-R9",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29586-E27-12",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29586-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I 'm in Delaware .",
+  "sentence_index" : 7,
+  "Tokens" : [ "I", "'m", "in", "Delaware", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I'm in California",
+  "sentence_length" : 5,
+  "mentionArg2" : {
+    "extent" : "California",
+    "argMentionid" : "fsh_29586-E8-16",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "fsh_29586-R10",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29586-E39-15",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29586-R10-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I 'm in California .",
+  "sentence_index" : 9,
+  "Tokens" : [ "I", "'m", "in", "California", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our administration",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "fsh_29586-E4-58",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "fsh_29586-R11",
+  "mentionArg1" : {
+    "extent" : "our administration",
+    "argMentionid" : "fsh_29586-E10-57",
+    "start" : 24,
+    "end" : 25
+  },
+  "id" : "fsh_29586-R11-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "I I do n't know if it 'll move forward any better -- but , uh , this , uh , I 've heard our administration thinks it will .",
+  "sentence_index" : 31,
+  "Tokens" : [ "I", "I", "do", "n't", "know", "if", "it", "'ll", "move", "forward", "any", "better", "--", "but", ",", "uh", ",", "this", ",", "uh", ",", "I", "'ve", "heard", "our", "administration", "thinks", "it", "will", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the, uh, more, uh, drastic elements of the ~PLO",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "the ~PLO",
+    "argMentionid" : "fsh_29586-E36-65",
+    "start" : 39,
+    "end" : 41
+  },
+  "relationID" : "fsh_29586-R12",
+  "mentionArg1" : {
+    "extent" : "the, uh, more, uh, drastic elements of the ~PLO",
+    "argMentionid" : "fsh_29586-E11-64",
+    "start" : 28,
+    "end" : 41
+  },
+  "id" : "fsh_29586-R12-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "I think he was a block to the peace -- but I think it 's not only his doing , it 's also the -- you know , the , uh , more , uh , drastic elements of the ~ PLO that , uh , that , uh , would n't allow him to pursue peace Paul Right .",
+  "sentence_index" : 32,
+  "Tokens" : [ "I", "think", "he", "was", "a", "block", "to", "the", "peace", "--", "but", "I", "think", "it", "'s", "not", "only", "his", "doing", ",", "it", "'s", "also", "the", "--", "you", "know", ",", "the", ",", "uh", ",", "more", ",", "uh", ",", "drastic", "elements", "of", "the", "~", "PLO", "that", ",", "uh", ",", "that", ",", "uh", ",", "would", "n't", "allow", "him", "to", "pursue", "peace", "Paul", "Right", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our president",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "fsh_29586-E4-117",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "fsh_29586-R13",
+  "mentionArg1" : {
+    "extent" : "our president",
+    "argMentionid" : "fsh_29586-E1-116",
+    "start" : 14,
+    "end" : 15
+  },
+  "id" : "fsh_29586-R13-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Mike One of the other questions it asked us was , did we think our president and our , uh , you know , officials should 've attended his funeral .",
+  "sentence_index" : 48,
+  "Tokens" : [ "Mike", "One", "of", "the", "other", "questions", "it", "asked", "us", "was", ",", "did", "we", "think", "our", "president", "and", "our", ",", "uh", ",", "you", "know", ",", "officials", "should", "'ve", "attended", "his", "funeral", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our president",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "fsh_29586-E4-172",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "fsh_29586-R13",
+  "mentionArg1" : {
+    "extent" : "our president",
+    "argMentionid" : "fsh_29586-E1-171",
+    "start" : 22,
+    "end" : 23
+  },
+  "id" : "fsh_29586-R13-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Mike And , I mean not that it would 've even been noticed -- in that regard had he -- had had our president or someone higher gone , but the fact that they didn't , that 's what 's really going to be noticed , you know what I mean ?",
+  "sentence_index" : 74,
+  "Tokens" : [ "Mike", "And", ",", "I", "mean", "not", "that", "it", "would", "'ve", "even", "been", "noticed", "--", "in", "that", "regard", "had", "he", "--", "had", "had", "our", "president", "or", "someone", "higher", "gone", ",", "but", "the", "fact", "that", "they", "didn't", ",", "that", "'s", "what", "'s", "really", "going", "to", "be", "noticed", ",", "you", "know", "what", "I", "mean", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our, uh, you know, officials",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "fsh_29586-E4-119",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "fsh_29586-R14",
+  "mentionArg1" : {
+    "extent" : "our, uh, you know, officials",
+    "argMentionid" : "fsh_29586-E21-118",
+    "start" : 17,
+    "end" : 24
+  },
+  "id" : "fsh_29586-R14-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Mike One of the other questions it asked us was , did we think our president and our , uh , you know , officials should 've attended his funeral .",
+  "sentence_index" : 48,
+  "Tokens" : [ "Mike", "One", "of", "the", "other", "questions", "it", "asked", "us", "was", ",", "did", "we", "think", "our", "president", "and", "our", ",", "uh", ",", "you", "know", ",", "officials", "should", "'ve", "attended", "his", "funeral", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our officials",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "fsh_29586-E4-137",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "fsh_29586-R14",
+  "mentionArg1" : {
+    "extent" : "our officials",
+    "argMentionid" : "fsh_29586-E21-138",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "fsh_29586-R14-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Mike That we did or d- that we did not send our officials .",
+  "sentence_index" : 54,
+  "Tokens" : [ "Mike", "That", "we", "did", "or", "d-", "that", "we", "did", "not", "send", "our", "officials", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "some very -- low level state department person",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "state department",
+    "argMentionid" : "fsh_29586-E23-129",
+    "start" : 21,
+    "end" : 22
+  },
+  "relationID" : "fsh_29586-R15",
+  "mentionArg1" : {
+    "extent" : "some very -- low level state department person",
+    "argMentionid" : "fsh_29586-E22-128",
+    "start" : 16,
+    "end" : 23
+  },
+  "id" : "fsh_29586-R15-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Well , I I do n't remember who they sent , but they did send over some very -- low level state department person Mike Oh , I see .",
+  "sentence_index" : 51,
+  "Tokens" : [ "Well", ",", "I", "I", "do", "n't", "remember", "who", "they", "sent", ",", "but", "they", "did", "send", "over", "some", "very", "--", "low", "level", "state", "department", "person", "Mike", "Oh", ",", "I", "see", "." ]
+} ]

@@ -1,0 +1,155 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "chief minister of the central Indian state of Madhya Pradesh",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "the central Indian state of Madhya Pradesh",
+    "argMentionid" : "AFP_ENG_20030607.0030-E27-48",
+    "start" : 12,
+    "end" : 18
+  },
+  "relationID" : "AFP_ENG_20030607.0030-R1",
+  "mentionArg1" : {
+    "extent" : "chief minister of the central Indian state of Madhya Pradesh",
+    "argMentionid" : "AFP_ENG_20030607.0030-E11-24",
+    "start" : 9,
+    "end" : 18
+  },
+  "id" : "AFP_ENG_20030607.0030-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The Times of India newspaper quoted Digvijay Singh , chief minister of the central Indian state of Madhya Pradesh , as saying that Prime Minister Atal Behari Vajpayee and President Abdul Kalam had offended the Hindu rain God Varuna by remaining bachelors .",
+  "sentence_index" : 1,
+  "Tokens" : [ "The", "Times", "of", "India", "newspaper", "quoted", "Digvijay", "Singh", ",", "chief", "minister", "of", "the", "central", "Indian", "state", "of", "Madhya", "Pradesh", ",", "as", "saying", "that", "Prime", "Minister", "Atal", "Behari", "Vajpayee", "and", "President", "Abdul", "Kalam", "had", "offended", "the", "Hindu", "rain", "God", "Varuna", "by", "remaining", "bachelors", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the central Indian state of Madhya Pradesh",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "central Indian",
+    "argMentionid" : "AFP_ENG_20030607.0030-E28-49",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "AFP_ENG_20030607.0030-R2",
+  "mentionArg1" : {
+    "extent" : "the central Indian state of Madhya Pradesh",
+    "argMentionid" : "AFP_ENG_20030607.0030-E27-48",
+    "start" : 12,
+    "end" : 18
+  },
+  "id" : "AFP_ENG_20030607.0030-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The Times of India newspaper quoted Digvijay Singh , chief minister of the central Indian state of Madhya Pradesh , as saying that Prime Minister Atal Behari Vajpayee and President Abdul Kalam had offended the Hindu rain God Varuna by remaining bachelors .",
+  "sentence_index" : 1,
+  "Tokens" : [ "The", "Times", "of", "India", "newspaper", "quoted", "Digvijay", "Singh", ",", "chief", "minister", "of", "the", "central", "Indian", "state", "of", "Madhya", "Pradesh", ",", "as", "saying", "that", "Prime", "Minister", "Atal", "Behari", "Vajpayee", "and", "President", "Abdul", "Kalam", "had", "offended", "the", "Hindu", "rain", "God", "Varuna", "by", "remaining", "bachelors", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The general secretary of Vajpayee's ruling Bharatiya Janata Party",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Vajpayee's ruling Bharatiya Janata Party",
+    "argMentionid" : "AFP_ENG_20030607.0030-E14-28",
+    "start" : 4,
+    "end" : 9
+  },
+  "relationID" : "AFP_ENG_20030607.0030-R3",
+  "mentionArg1" : {
+    "extent" : "The general secretary of Vajpayee's ruling Bharatiya Janata Party",
+    "argMentionid" : "AFP_ENG_20030607.0030-E12-25",
+    "start" : 0,
+    "end" : 9
+  },
+  "id" : "AFP_ENG_20030607.0030-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The general secretary of Vajpayee 's ruling Bharatiya Janata Party , Pramod Mahajan , retorted that Singh 's statement was \" beneath contempt . \"",
+  "sentence_index" : 5,
+  "Tokens" : [ "The", "general", "secretary", "of", "Vajpayee", "'s", "ruling", "Bharatiya", "Janata", "Party", ",", "Pramod", "Mahajan", ",", "retorted", "that", "Singh", "'s", "statement", "was", "\"", "beneath", "contempt", ".", "\"" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Vajpayee's ruling Bharatiya Janata Party",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Vajpayee's ruling Bharatiya Janata Party",
+    "argMentionid" : "AFP_ENG_20030607.0030-E14-28",
+    "start" : 4,
+    "end" : 9
+  },
+  "relationID" : "AFP_ENG_20030607.0030-R4",
+  "mentionArg1" : {
+    "extent" : "Vajpayee",
+    "argMentionid" : "AFP_ENG_20030607.0030-E7-29",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "AFP_ENG_20030607.0030-R4-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "The general secretary of Vajpayee 's ruling Bharatiya Janata Party , Pramod Mahajan , retorted that Singh 's statement was \" beneath contempt . \"",
+  "sentence_index" : 5,
+  "Tokens" : [ "The", "general", "secretary", "of", "Vajpayee", "'s", "ruling", "Bharatiya", "Janata", "Party", ",", "Pramod", "Mahajan", ",", "retorted", "that", "Singh", "'s", "statement", "was", "\"", "beneath", "contempt", ".", "\"" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "The country's western desert state of Rajasthan",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "The country",
+    "argMentionid" : "AFP_ENG_20030607.0030-E21-33",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "AFP_ENG_20030607.0030-R5",
+  "mentionArg1" : {
+    "extent" : "The country's western desert state of Rajasthan",
+    "argMentionid" : "AFP_ENG_20030607.0030-E16-34",
+    "start" : 0,
+    "end" : 7
+  },
+  "id" : "AFP_ENG_20030607.0030-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The country 's western desert state of Rajasthan is also bracing for its fifth straight year of drought .",
+  "sentence_index" : 7,
+  "Tokens" : [ "The", "country", "'s", "western", "desert", "state", "of", "Rajasthan", "is", "also", "bracing", "for", "its", "fifth", "straight", "year", "of", "drought", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "A provincial chief from India's main opposition Congress party",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "India's main opposition Congress party",
+    "argMentionid" : "AFP_ENG_20030607.0030-E20-39",
+    "start" : 12,
+    "end" : 17
+  },
+  "relationID" : "AFP_ENG_20030607.0030-R6",
+  "mentionArg1" : {
+    "extent" : "A provincial chief from India's main opposition Congress party",
+    "argMentionid" : "AFP_ENG_20030607.0030-E11-38",
+    "start" : 8,
+    "end" : 17
+  },
+  "id" : "AFP_ENG_20030607.0030-R6-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "NEW DELHI , June 7 ( AFP ) A provincial chief from India 's main opposition Congress party has told an election rally that India is suffering nature 's \" curse \" because both the president and prime minister are bachelors , a report said Saturday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "NEW", "DELHI", ",", "June", "7", "(", "AFP", ")", "A", "provincial", "chief", "from", "India", "'s", "main", "opposition", "Congress", "party", "has", "told", "an", "election", "rally", "that", "India", "is", "suffering", "nature", "'s", "\"", "curse", "\"", "because", "both", "the", "president", "and", "prime", "minister", "are", "bachelors", ",", "a", "report", "said", "Saturday", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "India's main opposition Congress party",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "India",
+    "argMentionid" : "AFP_ENG_20030607.0030-E21-40",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "AFP_ENG_20030607.0030-R7",
+  "mentionArg1" : {
+    "extent" : "India's main opposition Congress party",
+    "argMentionid" : "AFP_ENG_20030607.0030-E20-39",
+    "start" : 12,
+    "end" : 17
+  },
+  "id" : "AFP_ENG_20030607.0030-R7-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "NEW DELHI , June 7 ( AFP ) A provincial chief from India 's main opposition Congress party has told an election rally that India is suffering nature 's \" curse \" because both the president and prime minister are bachelors , a report said Saturday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "NEW", "DELHI", ",", "June", "7", "(", "AFP", ")", "A", "provincial", "chief", "from", "India", "'s", "main", "opposition", "Congress", "party", "has", "told", "an", "election", "rally", "that", "India", "is", "suffering", "nature", "'s", "\"", "curse", "\"", "because", "both", "the", "president", "and", "prime", "minister", "are", "bachelors", ",", "a", "report", "said", "Saturday", "." ]
+} ]

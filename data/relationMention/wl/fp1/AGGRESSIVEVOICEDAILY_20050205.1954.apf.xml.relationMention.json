@@ -1,0 +1,243 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "We've all lived next to some pretty undesirable people at one point or another, but I can't imagine anyone being worse than this",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "some pretty undesirable people",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050205.1954-E18-28",
+    "start" : 8,
+    "end" : 11
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050205.1954-R1",
+  "mentionArg1" : {
+    "extent" : "We",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050205.1954-E17-27",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050205.1954-R1-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "Scott 2005-02-05T19:54:00 We 've all lived next to some pretty undesirable people at one point or another , but I ca n't imagine anyone being worse than this .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Scott", "2005-02-05T19:54:00", "We", "'ve", "all", "lived", "next", "to", "some", "pretty", "undesirable", "people", "at", "one", "point", "or", "another", ",", "but", "I", "ca", "n't", "imagine", "anyone", "being", "worse", "than", "this", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "A Colorado judge",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Colorado",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050205.1954-E12-32",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050205.1954-R2",
+  "mentionArg1" : {
+    "extent" : "A Colorado judge",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050205.1954-E5-31",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050205.1954-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "A Colorado judge ordered two teen-age girls to pay about $900 for the distress a neighbor said they caused by giving her home-made cookies adorned with paper hearts .",
+  "sentence_index" : 1,
+  "Tokens" : [ "A", "Colorado", "judge", "ordered", "two", "teen-age", "girls", "to", "pay", "about", "$900", "for", "the", "distress", "a", "neighbor", "said", "they", "caused", "by", "giving", "her", "home-made", "cookies", "adorned", "with", "paper", "hearts", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "her house",
+  "sentence_length" : 56,
+  "mentionArg2" : {
+    "extent" : "her house",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050205.1954-E27-41",
+    "start" : 31,
+    "end" : 32
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050205.1954-R3",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050205.1954-E24-42",
+    "start" : 31,
+    "end" : 31
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050205.1954-R3-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The pair were ordered to pay $871.70 plus $39 in court costs after neighbor Wanita Renea Young , 49 , filed a lawsuit complaining that the unsolicited cookies , left at her house after the girls knocked on her door , had triggered an anxiety attack that sent her to the hospital the next day .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "pair", "were", "ordered", "to", "pay", "$871.70", "plus", "$39", "in", "court", "costs", "after", "neighbor", "Wanita", "Renea", "Young", ",", "49", ",", "filed", "a", "lawsuit", "complaining", "that", "the", "unsolicited", "cookies", ",", "left", "at", "her", "house", "after", "the", "girls", "knocked", "on", "her", "door", ",", "had", "triggered", "an", "anxiety", "attack", "that", "sent", "her", "to", "the", "hospital", "the", "next", "day", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The pair were ordered to pay $871.70 plus $39 in court costs after neighbor Wanita Renea Young, 49, filed a lawsuit complaining that the unsolicited cookies, left at her house after the girls knocked on her door, had triggered an anxiety attack that sent her to the hospital the next day",
+  "sentence_length" : 56,
+  "mentionArg2" : {
+    "extent" : "the hospital",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050205.1954-E1-5",
+    "start" : 50,
+    "end" : 51
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050205.1954-R4",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050205.1954-E24-4",
+    "start" : 48,
+    "end" : 48
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050205.1954-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The pair were ordered to pay $871.70 plus $39 in court costs after neighbor Wanita Renea Young , 49 , filed a lawsuit complaining that the unsolicited cookies , left at her house after the girls knocked on her door , had triggered an anxiety attack that sent her to the hospital the next day .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "pair", "were", "ordered", "to", "pay", "$871.70", "plus", "$39", "in", "court", "costs", "after", "neighbor", "Wanita", "Renea", "Young", ",", "49", ",", "filed", "a", "lawsuit", "complaining", "that", "the", "unsolicited", "cookies", ",", "left", "at", "her", "house", "after", "the", "girls", "knocked", "on", "her", "door", ",", "had", "triggered", "an", "anxiety", "attack", "that", "sent", "her", "to", "the", "hospital", "the", "next", "day", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a court clerk",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "court",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050205.1954-E6-14",
+    "start" : 34,
+    "end" : 34
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050205.1954-R5",
+  "mentionArg1" : {
+    "extent" : "a court clerk",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050205.1954-E8-13",
+    "start" : 33,
+    "end" : 35
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050205.1954-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Taylor Ostergaard , then 17 , and Lindsey Jo Zellitte , 18 , paid the judgment on Thursday after a small claims court ruling by La Plata County Court Judge Doug Walker , a court clerk said on Friday .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Taylor", "Ostergaard", ",", "then", "17", ",", "and", "Lindsey", "Jo", "Zellitte", ",", "18", ",", "paid", "the", "judgment", "on", "Thursday", "after", "a", "small", "claims", "court", "ruling", "by", "La", "Plata", "County", "Court", "Judge", "Doug", "Walker", ",", "a", "court", "clerk", "said", "on", "Friday", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "La Plata County Court Judge",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "La Plata County Court",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050205.1954-E6-11",
+    "start" : 25,
+    "end" : 28
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050205.1954-R6",
+  "mentionArg1" : {
+    "extent" : "La Plata County Court Judge",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050205.1954-E5-10",
+    "start" : 25,
+    "end" : 29
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050205.1954-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Taylor Ostergaard , then 17 , and Lindsey Jo Zellitte , 18 , paid the judgment on Thursday after a small claims court ruling by La Plata County Court Judge Doug Walker , a court clerk said on Friday .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Taylor", "Ostergaard", ",", "then", "17", ",", "and", "Lindsey", "Jo", "Zellitte", ",", "18", ",", "paid", "the", "judgment", "on", "Thursday", "after", "a", "small", "claims", "court", "ruling", "by", "La", "Plata", "County", "Court", "Judge", "Doug", "Walker", ",", "a", "court", "clerk", "said", "on", "Friday", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "La Plata County Court",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "La Plata County",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050205.1954-E7-12",
+    "start" : 25,
+    "end" : 27
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050205.1954-R7",
+  "mentionArg1" : {
+    "extent" : "La Plata County Court",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050205.1954-E6-11",
+    "start" : 25,
+    "end" : 28
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050205.1954-R7-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Taylor Ostergaard , then 17 , and Lindsey Jo Zellitte , 18 , paid the judgment on Thursday after a small claims court ruling by La Plata County Court Judge Doug Walker , a court clerk said on Friday .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Taylor", "Ostergaard", ",", "then", "17", ",", "and", "Lindsey", "Jo", "Zellitte", ",", "18", ",", "paid", "the", "judgment", "on", "Thursday", "after", "a", "small", "claims", "court", "ruling", "by", "La", "Plata", "County", "Court", "Judge", "Doug", "Walker", ",", "a", "court", "clerk", "said", "on", "Friday", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their rural Colorado neighbors",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "their rural Colorado neighbors",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050205.1954-E11-17",
+    "start" : 10,
+    "end" : 13
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050205.1954-R8",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050205.1954-E23-19",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050205.1954-R8-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "The girls baked cookies as a surprise for several of their rural Colorado neighbors on July 31 and dropped off small batches on their porches , accompanied by red or pink paper hearts and the message : \" Have a great night . \"",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "girls", "baked", "cookies", "as", "a", "surprise", "for", "several", "of", "their", "rural", "Colorado", "neighbors", "on", "July", "31", "and", "dropped", "off", "small", "batches", "on", "their", "porches", ",", "accompanied", "by", "red", "or", "pink", "paper", "hearts", "and", "the", "message", ":", "\"", "Have", "a", "great", "night", ".", "\"" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "their rural Colorado neighbors",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "Colorado",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050205.1954-E12-18",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050205.1954-R9",
+  "mentionArg1" : {
+    "extent" : "their rural Colorado neighbors",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050205.1954-E11-17",
+    "start" : 10,
+    "end" : 13
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050205.1954-R9-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The girls baked cookies as a surprise for several of their rural Colorado neighbors on July 31 and dropped off small batches on their porches , accompanied by red or pink paper hearts and the message : \" Have a great night . \"",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "girls", "baked", "cookies", "as", "a", "surprise", "for", "several", "of", "their", "rural", "Colorado", "neighbors", "on", "July", "31", "and", "dropped", "off", "small", "batches", "on", "their", "porches", ",", "accompanied", "by", "red", "or", "pink", "paper", "hearts", "and", "the", "message", ":", "\"", "Have", "a", "great", "night", ".", "\"" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "their porches",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "their porches",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050205.1954-E13-20",
+    "start" : 23,
+    "end" : 24
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050205.1954-R10",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050205.1954-E10-21",
+    "start" : 23,
+    "end" : 23
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050205.1954-R10-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The girls baked cookies as a surprise for several of their rural Colorado neighbors on July 31 and dropped off small batches on their porches , accompanied by red or pink paper hearts and the message : \" Have a great night . \"",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "girls", "baked", "cookies", "as", "a", "surprise", "for", "several", "of", "their", "rural", "Colorado", "neighbors", "on", "July", "31", "and", "dropped", "off", "small", "batches", "on", "their", "porches", ",", "accompanied", "by", "red", "or", "pink", "paper", "hearts", "and", "the", "message", ":", "\"", "Have", "a", "great", "night", ".", "\"" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The Denver Post newspaper reported on Friday that the girls had decided to stay home and bake the cookies rather than go to a dance where there might be cursing and drinking",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "home",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050205.1954-E16-25",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "AGGRESSIVEVOICEDAILY_20050205.1954-R11",
+  "mentionArg1" : {
+    "extent" : "the girls",
+    "argMentionid" : "AGGRESSIVEVOICEDAILY_20050205.1954-E23-24",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "AGGRESSIVEVOICEDAILY_20050205.1954-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The Denver Post newspaper reported on Friday that the girls had decided to stay home and bake the cookies rather than go to a dance where there might be cursing and drinking .",
+  "sentence_index" : 5,
+  "Tokens" : [ "The", "Denver", "Post", "newspaper", "reported", "on", "Friday", "that", "the", "girls", "had", "decided", "to", "stay", "home", "and", "bake", "the", "cookies", "rather", "than", "go", "to", "a", "dance", "where", "there", "might", "be", "cursing", "and", "drinking", "." ]
+} ]

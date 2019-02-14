@@ -1,0 +1,45 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "its head of security",
+  "sentence_length" : 59,
+  "mentionArg2" : {
+    "extent" : "its",
+    "argMentionid" : "CNNHL_ENG_20030416_193742.26-E1-3",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNNHL_ENG_20030416_193742.26-R1",
+  "mentionArg1" : {
+    "extent" : "its head of security",
+    "argMentionid" : "CNNHL_ENG_20030416_193742.26-E2-2",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "CNNHL_ENG_20030416_193742.26-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "major league baseball sent its head of security to chicago to review the second incident of an on-field fan attack in the last seven months. the league is reviewing security at all ballparks to crack down on spectator violence. the kansas city royals considered not playing tonight before the team was assured that security measures have been tightened .",
+  "sentence_index" : 0,
+  "Tokens" : [ "major", "league", "baseball", "sent", "its", "head", "of", "security", "to", "chicago", "to", "review", "the", "second", "incident", "of", "an", "on-field", "fan", "attack", "in", "the", "last", "seven", "months.", "the", "league", "is", "reviewing", "security", "at", "all", "ballparks", "to", "crack", "down", "on", "spectator", "violence.", "the", "kansas", "city", "royals", "considered", "not", "playing", "tonight", "before", "the", "team", "was", "assured", "that", "security", "measures", "have", "been", "tightened", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "its head of security to chicago",
+  "sentence_length" : 59,
+  "mentionArg2" : {
+    "extent" : "chicago",
+    "argMentionid" : "CNNHL_ENG_20030416_193742.26-E3-4",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNNHL_ENG_20030416_193742.26-R2",
+  "mentionArg1" : {
+    "extent" : "its head of security",
+    "argMentionid" : "CNNHL_ENG_20030416_193742.26-E2-2",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "CNNHL_ENG_20030416_193742.26-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "major league baseball sent its head of security to chicago to review the second incident of an on-field fan attack in the last seven months. the league is reviewing security at all ballparks to crack down on spectator violence. the kansas city royals considered not playing tonight before the team was assured that security measures have been tightened .",
+  "sentence_index" : 0,
+  "Tokens" : [ "major", "league", "baseball", "sent", "its", "head", "of", "security", "to", "chicago", "to", "review", "the", "second", "incident", "of", "an", "on-field", "fan", "attack", "in", "the", "last", "seven", "months.", "the", "league", "is", "reviewing", "security", "at", "all", "ballparks", "to", "crack", "down", "on", "spectator", "violence.", "the", "kansas", "city", "royals", "considered", "not", "playing", "tonight", "before", "the", "team", "was", "assured", "that", "security", "measures", "have", "been", "tightened", "." ]
+} ]

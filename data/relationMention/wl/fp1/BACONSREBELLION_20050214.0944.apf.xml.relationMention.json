@@ -1,0 +1,45 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "a southwest Virginia grandmother",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "southwest Virginia",
+    "argMentionid" : "BACONSREBELLION_20050214.0944-E8-16",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "BACONSREBELLION_20050214.0944-R1",
+  "mentionArg1" : {
+    "extent" : "a southwest Virginia grandmother",
+    "argMentionid" : "BACONSREBELLION_20050214.0944-E7-15",
+    "start" : 8,
+    "end" : 11
+  },
+  "id" : "BACONSREBELLION_20050214.0944-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Tugle was on trial for raping and killing a southwest Virginia grandmother .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Tugle", "was", "on", "trial", "for", "raping", "and", "killing", "a", "southwest", "Virginia", "grandmother", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "southwest Virginia",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "southwest Virginia",
+    "argMentionid" : "BACONSREBELLION_20050214.0944-E8-16",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "BACONSREBELLION_20050214.0944-R2",
+  "mentionArg1" : {
+    "extent" : "southwest",
+    "argMentionid" : "BACONSREBELLION_20050214.0944-E9-17",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "BACONSREBELLION_20050214.0944-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Tugle was on trial for raping and killing a southwest Virginia grandmother .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Tugle", "was", "on", "trial", "for", "raping", "and", "killing", "a", "southwest", "Virginia", "grandmother", "." ]
+} ]

@@ -1,0 +1,155 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "founder of the US pharmaceutical company ImClone Systems",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "the US pharmaceutical company ImClone Systems",
+    "argMentionid" : "XIN_ENG_20030610.0299-E3-24",
+    "start" : 12,
+    "end" : 17
+  },
+  "relationID" : "XIN_ENG_20030610.0299-R1",
+  "mentionArg1" : {
+    "extent" : "founder of the US pharmaceutical company ImClone Systems",
+    "argMentionid" : "XIN_ENG_20030610.0299-E10-23",
+    "start" : 10,
+    "end" : 17
+  },
+  "id" : "XIN_ENG_20030610.0299-R1-1",
+  "relationSubType" : "Founder",
+  "Sentence" : "WASHINGTON , June 10 ( Xinhua ) Sam Waksal , founder of the US pharmaceutical company ImClone Systems was sentenced to 87 months in prison Tuesday for insider trading .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WASHINGTON", ",", "June", "10", "(", "Xinhua", ")", "Sam", "Waksal", ",", "founder", "of", "the", "US", "pharmaceutical", "company", "ImClone", "Systems", "was", "sentenced", "to", "87", "months", "in", "prison", "Tuesday", "for", "insider", "trading", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "his company",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "his company",
+    "argMentionid" : "XIN_ENG_20030610.0299-E3-33",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "XIN_ENG_20030610.0299-R1",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "XIN_ENG_20030610.0299-E10-34",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "XIN_ENG_20030610.0299-R1-2",
+  "relationSubType" : "Founder",
+  "Sentence" : "Before the sentence , there had been speculations among analysts on whether Waksal would get leniency because his company has been working on researches of cancer drugs , a good endeavor in the eyes of many people .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Before", "the", "sentence", ",", "there", "had", "been", "speculations", "among", "analysts", "on", "whether", "Waksal", "would", "get", "leniency", "because", "his", "company", "has", "been", "working", "on", "researches", "of", "cancer", "drugs", ",", "a", "good", "endeavor", "in", "the", "eyes", "of", "many", "people", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "his company",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "his company",
+    "argMentionid" : "XIN_ENG_20030610.0299-E3-12",
+    "start" : 31,
+    "end" : 32
+  },
+  "relationID" : "XIN_ENG_20030610.0299-R1",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "XIN_ENG_20030610.0299-E10-11",
+    "start" : 31,
+    "end" : 31
+  },
+  "id" : "XIN_ENG_20030610.0299-R1-3",
+  "relationSubType" : "Founder",
+  "Sentence" : "Amid the financial storms last year and the ensuing cracking down on corporate malfeasance , Waksal pleaded guilty in October to charges involving his efforts to sell a huge block of his company ' s stock in late 2001 .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Amid", "the", "financial", "storms", "last", "year", "and", "the", "ensuing", "cracking", "down", "on", "corporate", "malfeasance", ",", "Waksal", "pleaded", "guilty", "in", "October", "to", "charges", "involving", "his", "efforts", "to", "sell", "a", "huge", "block", "of", "his", "company", "'", "s", "stock", "in", "late", "2001", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the US pharmaceutical company",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "XIN_ENG_20030610.0299-E6-26",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "XIN_ENG_20030610.0299-R2",
+  "mentionArg1" : {
+    "extent" : "the US pharmaceutical company",
+    "argMentionid" : "XIN_ENG_20030610.0299-E3-25",
+    "start" : 12,
+    "end" : 15
+  },
+  "id" : "XIN_ENG_20030610.0299-R2-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "WASHINGTON , June 10 ( Xinhua ) Sam Waksal , founder of the US pharmaceutical company ImClone Systems was sentenced to 87 months in prison Tuesday for insider trading .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WASHINGTON", ",", "June", "10", "(", "Xinhua", ")", "Sam", "Waksal", ",", "founder", "of", "the", "US", "pharmaceutical", "company", "ImClone", "Systems", "was", "sentenced", "to", "87", "months", "in", "prison", "Tuesday", "for", "insider", "trading", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Manhattan courthouse in New York",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "New York",
+    "argMentionid" : "XIN_ENG_20030610.0299-E17-30",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "XIN_ENG_20030610.0299-R3",
+  "mentionArg1" : {
+    "extent" : "the Manhattan courthouse in New York",
+    "argMentionid" : "XIN_ENG_20030610.0299-E16-29",
+    "start" : 11,
+    "end" : 16
+  },
+  "id" : "XIN_ENG_20030610.0299-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "This order came after about two hours ' legal proceedings at the Manhattan courthouse in New York , according to a TV report .",
+  "sentence_index" : 2,
+  "Tokens" : [ "This", "order", "came", "after", "about", "two", "hours", "'", "legal", "proceedings", "at", "the", "Manhattan", "courthouse", "in", "New", "York", ",", "according", "to", "a", "TV", "report", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the courthouse in New York",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "New York",
+    "argMentionid" : "XIN_ENG_20030610.0299-E17-6",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "XIN_ENG_20030610.0299-R3",
+  "mentionArg1" : {
+    "extent" : "the courthouse in New York",
+    "argMentionid" : "XIN_ENG_20030610.0299-E16-5",
+    "start" : 6,
+    "end" : 10
+  },
+  "id" : "XIN_ENG_20030610.0299-R3-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "But the order just released from the courthouse in New York has obviously separated Waksal 's good efforts in making new drugs from his legal problems .",
+  "sentence_index" : 5,
+  "Tokens" : [ "But", "the", "order", "just", "released", "from", "the", "courthouse", "in", "New", "York", "has", "obviously", "separated", "Waksal", "'s", "good", "efforts", "in", "making", "new", "drugs", "from", "his", "legal", "problems", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a US media and domestic design diva",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "XIN_ENG_20030610.0299-E6-18",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "XIN_ENG_20030610.0299-R7",
+  "mentionArg1" : {
+    "extent" : "a US media and domestic design diva",
+    "argMentionid" : "XIN_ENG_20030610.0299-E5-17",
+    "start" : 13,
+    "end" : 19
+  },
+  "id" : "XIN_ENG_20030610.0299-R7-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "This incident then triggered legal investigations , which also included the case of a US media and domestic design diva , Martha Stewart .",
+  "sentence_index" : 8,
+  "Tokens" : [ "This", "incident", "then", "triggered", "legal", "investigations", ",", "which", "also", "included", "the", "case", "of", "a", "US", "media", "and", "domestic", "design", "diva", ",", "Martha", "Stewart", "." ]
+} ]

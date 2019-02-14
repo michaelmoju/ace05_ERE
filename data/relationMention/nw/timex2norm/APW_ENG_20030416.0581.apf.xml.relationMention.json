@@ -1,0 +1,309 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "The lawyer for a Russian military journalist convicted of treason",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "a Russian military journalist convicted of treason",
+    "argMentionid" : "APW_ENG_20030416.0581-E25-48",
+    "start" : 7,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030416.0581-R1",
+  "mentionArg1" : {
+    "extent" : "The lawyer for a Russian military journalist convicted of treason",
+    "argMentionid" : "APW_ENG_20030416.0581-E20-42",
+    "start" : 4,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030416.0581-R1-1",
+  "relationSubType" : "Business",
+  "Sentence" : "MOSCOW ( AP ) The lawyer for a Russian military journalist convicted of treason filed an appeal Wednesday in an effort to overturn the guilty verdict against his client , who was released on parole earlier this year , news agencies reported .",
+  "sentence_index" : 0,
+  "Tokens" : [ "MOSCOW", "(", "AP", ")", "The", "lawyer", "for", "a", "Russian", "military", "journalist", "convicted", "of", "treason", "filed", "an", "appeal", "Wednesday", "in", "an", "effort", "to", "overturn", "the", "guilty", "verdict", "against", "his", "client", ",", "who", "was", "released", "on", "parole", "earlier", "this", "year", ",", "news", "agencies", "reported", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his client, who was released on parole earlier this year",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "his client, who was released on parole earlier this year",
+    "argMentionid" : "APW_ENG_20030416.0581-E25-50",
+    "start" : 27,
+    "end" : 37
+  },
+  "relationID" : "APW_ENG_20030416.0581-R1",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "APW_ENG_20030416.0581-E20-49",
+    "start" : 27,
+    "end" : 27
+  },
+  "id" : "APW_ENG_20030416.0581-R1-2",
+  "relationSubType" : "Business",
+  "Sentence" : "MOSCOW ( AP ) The lawyer for a Russian military journalist convicted of treason filed an appeal Wednesday in an effort to overturn the guilty verdict against his client , who was released on parole earlier this year , news agencies reported .",
+  "sentence_index" : 0,
+  "Tokens" : [ "MOSCOW", "(", "AP", ")", "The", "lawyer", "for", "a", "Russian", "military", "journalist", "convicted", "of", "treason", "filed", "an", "appeal", "Wednesday", "in", "an", "effort", "to", "overturn", "the", "guilty", "verdict", "against", "his", "client", ",", "who", "was", "released", "on", "parole", "earlier", "this", "year", ",", "news", "agencies", "reported", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Grigory Pasko's lawyer",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Grigory Pasko",
+    "argMentionid" : "APW_ENG_20030416.0581-E25-55",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030416.0581-R1",
+  "mentionArg1" : {
+    "extent" : "Grigory Pasko's lawyer",
+    "argMentionid" : "APW_ENG_20030416.0581-E20-57",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "APW_ENG_20030416.0581-R1-3",
+  "relationSubType" : "Business",
+  "Sentence" : "Grigory Pasko 's lawyer Genri Reznik filed the appeal with Russian Supreme Court , the Interfax and ITAR-Tass news agencies reported .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Grigory", "Pasko", "'s", "lawyer", "Genri", "Reznik", "filed", "the", "appeal", "with", "Russian", "Supreme", "Court", ",", "the", "Interfax", "and", "ITAR-Tass", "news", "agencies", "reported", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Russian military",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "Russian",
+    "argMentionid" : "APW_ENG_20030416.0581-E9-46",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030416.0581-R2",
+  "mentionArg1" : {
+    "extent" : "military",
+    "argMentionid" : "APW_ENG_20030416.0581-E4-47",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030416.0581-R2-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "MOSCOW ( AP ) The lawyer for a Russian military journalist convicted of treason filed an appeal Wednesday in an effort to overturn the guilty verdict against his client , who was released on parole earlier this year , news agencies reported .",
+  "sentence_index" : 0,
+  "Tokens" : [ "MOSCOW", "(", "AP", ")", "The", "lawyer", "for", "a", "Russian", "military", "journalist", "convicted", "of", "treason", "filed", "an", "appeal", "Wednesday", "in", "an", "effort", "to", "overturn", "the", "guilty", "verdict", "against", "his", "client", ",", "who", "was", "released", "on", "parole", "earlier", "this", "year", ",", "news", "agencies", "reported", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "A military court",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "military",
+    "argMentionid" : "APW_ENG_20030416.0581-E4-9",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030416.0581-R3",
+  "mentionArg1" : {
+    "extent" : "A military court",
+    "argMentionid" : "APW_ENG_20030416.0581-E6-10",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030416.0581-R3-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "A military court said he intended to pass the notes to Japanese media with which he had worked .",
+  "sentence_index" : 4,
+  "Tokens" : [ "A", "military", "court", "said", "he", "intended", "to", "pass", "the", "notes", "to", "Japanese", "media", "with", "which", "he", "had", "worked", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Japanese media with which he had worked",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Japanese",
+    "argMentionid" : "APW_ENG_20030416.0581-E7-12",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030416.0581-R4",
+  "mentionArg1" : {
+    "extent" : "Japanese media with which he had worked",
+    "argMentionid" : "APW_ENG_20030416.0581-E8-13",
+    "start" : 11,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030416.0581-R4-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "A military court said he intended to pass the notes to Japanese media with which he had worked .",
+  "sentence_index" : 4,
+  "Tokens" : [ "A", "military", "court", "said", "he", "intended", "to", "pass", "the", "notes", "to", "Japanese", "media", "with", "which", "he", "had", "worked", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Russian navy",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Russian",
+    "argMentionid" : "APW_ENG_20030416.0581-E9-21",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030416.0581-R5",
+  "mentionArg1" : {
+    "extent" : "the Russian navy",
+    "argMentionid" : "APW_ENG_20030416.0581-E10-22",
+    "start" : 17,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030416.0581-R5-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "He has maintained his innocence , saying the military was punishing him for exposing environmental abuses by the Russian navy , including the dumping of radioactive waste into the sea .",
+  "sentence_index" : 6,
+  "Tokens" : [ "He", "has", "maintained", "his", "innocence", ",", "saying", "the", "military", "was", "punishing", "him", "for", "exposing", "environmental", "abuses", "by", "the", "Russian", "navy", ",", "including", "the", "dumping", "of", "radioactive", "waste", "into", "the", "sea", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the court's military board",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "military",
+    "argMentionid" : "APW_ENG_20030416.0581-E4-31",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030416.0581-R6",
+  "mentionArg1" : {
+    "extent" : "the court's military board",
+    "argMentionid" : "APW_ENG_20030416.0581-E13-32",
+    "start" : 3,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030416.0581-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The lawyer said the court 's military board had refused to launch proceedings on the appeal .",
+  "sentence_index" : 8,
+  "Tokens" : [ "The", "lawyer", "said", "the", "court", "'s", "military", "board", "had", "refused", "to", "launch", "proceedings", "on", "the", "appeal", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the court's military board",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "the court",
+    "argMentionid" : "APW_ENG_20030416.0581-E14-30",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030416.0581-R7",
+  "mentionArg1" : {
+    "extent" : "the court's military board",
+    "argMentionid" : "APW_ENG_20030416.0581-E13-32",
+    "start" : 3,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030416.0581-R7-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "The lawyer said the court 's military board had refused to launch proceedings on the appeal .",
+  "sentence_index" : 8,
+  "Tokens" : [ "The", "lawyer", "said", "the", "court", "'s", "military", "board", "had", "refused", "to", "launch", "proceedings", "on", "the", "appeal", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Supreme Court Chairman",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Supreme Court",
+    "argMentionid" : "APW_ENG_20030416.0581-E14-35",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030416.0581-R8",
+  "mentionArg1" : {
+    "extent" : "Supreme Court Chairman",
+    "argMentionid" : "APW_ENG_20030416.0581-E15-36",
+    "start" : 9,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030416.0581-R8-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Reznik said he addressed the new appeal directly to Supreme Court Chairman Vyacheslav Lebedev and asked that it not be considered by military judges `` because the military justice system has adopted a biased attitude against Pasko , '' Interfax reported .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Reznik", "said", "he", "addressed", "the", "new", "appeal", "directly", "to", "Supreme", "Court", "Chairman", "Vyacheslav", "Lebedev", "and", "asked", "that", "it", "not", "be", "considered", "by", "military", "judges", "``", "because", "the", "military", "justice", "system", "has", "adopted", "a", "biased", "attitude", "against", "Pasko", ",", "''", "Interfax", "reported", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "military judges",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "military",
+    "argMentionid" : "APW_ENG_20030416.0581-E4-38",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "APW_ENG_20030416.0581-R9",
+  "mentionArg1" : {
+    "extent" : "military judges",
+    "argMentionid" : "APW_ENG_20030416.0581-E18-39",
+    "start" : 22,
+    "end" : 23
+  },
+  "id" : "APW_ENG_20030416.0581-R9-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Reznik said he addressed the new appeal directly to Supreme Court Chairman Vyacheslav Lebedev and asked that it not be considered by military judges `` because the military justice system has adopted a biased attitude against Pasko , '' Interfax reported .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Reznik", "said", "he", "addressed", "the", "new", "appeal", "directly", "to", "Supreme", "Court", "Chairman", "Vyacheslav", "Lebedev", "and", "asked", "that", "it", "not", "be", "considered", "by", "military", "judges", "``", "because", "the", "military", "justice", "system", "has", "adopted", "a", "biased", "attitude", "against", "Pasko", ",", "''", "Interfax", "reported", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a Russian military journalist convicted of treason",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "Russian",
+    "argMentionid" : "APW_ENG_20030416.0581-E9-46",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030416.0581-R10",
+  "mentionArg1" : {
+    "extent" : "a Russian military journalist convicted of treason",
+    "argMentionid" : "APW_ENG_20030416.0581-E25-48",
+    "start" : 7,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030416.0581-R10-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "MOSCOW ( AP ) The lawyer for a Russian military journalist convicted of treason filed an appeal Wednesday in an effort to overturn the guilty verdict against his client , who was released on parole earlier this year , news agencies reported .",
+  "sentence_index" : 0,
+  "Tokens" : [ "MOSCOW", "(", "AP", ")", "The", "lawyer", "for", "a", "Russian", "military", "journalist", "convicted", "of", "treason", "filed", "an", "appeal", "Wednesday", "in", "an", "effort", "to", "overturn", "the", "guilty", "verdict", "against", "his", "client", ",", "who", "was", "released", "on", "parole", "earlier", "this", "year", ",", "news", "agencies", "reported", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "top military commanders",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "military",
+    "argMentionid" : "APW_ENG_20030416.0581-E4-8",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030416.0581-R11",
+  "mentionArg1" : {
+    "extent" : "top military commanders",
+    "argMentionid" : "APW_ENG_20030416.0581-E3-7",
+    "start" : 17,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030416.0581-R11-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Pasko was sentenced to four years in prison in December 2001 for illegally attending a meeting of top military commanders and taking notes there .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Pasko", "was", "sentenced", "to", "four", "years", "in", "prison", "in", "December", "2001", "for", "illegally", "attending", "a", "meeting", "of", "top", "military", "commanders", "and", "taking", "notes", "there", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the presidium of the Supreme Court",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the Supreme Court",
+    "argMentionid" : "APW_ENG_20030416.0581-E14-27",
+    "start" : 17,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030416.0581-R12",
+  "mentionArg1" : {
+    "extent" : "the presidium of the Supreme Court",
+    "argMentionid" : "APW_ENG_20030416.0581-E21-44",
+    "start" : 14,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030416.0581-R12-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Reznik said an initial appeal he lodged the day Pasko was freed never reached the presidium of the Supreme Court , according to Interfax .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Reznik", "said", "an", "initial", "appeal", "he", "lodged", "the", "day", "Pasko", "was", "freed", "never", "reached", "the", "presidium", "of", "the", "Supreme", "Court", ",", "according", "to", "Interfax", "." ]
+} ]

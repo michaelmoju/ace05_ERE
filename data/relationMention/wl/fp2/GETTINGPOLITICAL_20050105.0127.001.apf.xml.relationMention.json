@@ -1,0 +1,419 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "authoritarian leader of a district organization of the main opposition party",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "a district organization of the main opposition party",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E35-77",
+    "start" : 6,
+    "end" : 13
+  },
+  "relationID" : "GETTINGPOLITICAL_20050105.0127.001-R1",
+  "mentionArg1" : {
+    "extent" : "authoritarian leader of a district organization of the main opposition party",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E1-76",
+    "start" : 3,
+    "end" : 13
+  },
+  "id" : "GETTINGPOLITICAL_20050105.0127.001-R1-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Nicolae Mischie , authoritarian leader of a district organization of the main opposition party , has been jailed .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Nicolae", "Mischie", ",", "authoritarian", "leader", "of", "a", "district", "organization", "of", "the", "main", "opposition", "party", ",", "has", "been", "jailed", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a district organization of the main opposition party",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "the main opposition party",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E36-78",
+    "start" : 10,
+    "end" : 13
+  },
+  "relationID" : "GETTINGPOLITICAL_20050105.0127.001-R2",
+  "mentionArg1" : {
+    "extent" : "a district organization of the main opposition party",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E35-77",
+    "start" : 6,
+    "end" : 13
+  },
+  "id" : "GETTINGPOLITICAL_20050105.0127.001-R2-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Nicolae Mischie , authoritarian leader of a district organization of the main opposition party , has been jailed .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Nicolae", "Mischie", ",", "authoritarian", "leader", "of", "a", "district", "organization", "of", "the", "main", "opposition", "party", ",", "has", "been", "jailed", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Romania voted in the last December, ousting the so-called socialist party PSD (Social-Democratic Party",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "Romania",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E23-79",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "GETTINGPOLITICAL_20050105.0127.001-R3",
+  "mentionArg1" : {
+    "extent" : "the so-called socialist party PSD (Social-Democratic Party",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E38-80",
+    "start" : 8,
+    "end" : 15
+  },
+  "id" : "GETTINGPOLITICAL_20050105.0127.001-R3-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Romania voted in the last December , ousting the so-called socialist party PSD ( Social-Democratic Party ) .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Romania", "voted", "in", "the", "last", "December", ",", "ousting", "the", "so-called", "socialist", "party", "PSD", "(", "Social-Democratic", "Party", ")", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "His paper was on a political personality of the 19th century and Mischie bought the house where his paper's subject lived",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "the house where his paper's subject lived",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E3-8",
+    "start" : 14,
+    "end" : 21
+  },
+  "relationID" : "GETTINGPOLITICAL_20050105.0127.001-R4",
+  "mentionArg1" : {
+    "extent" : "Mischie",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E1-7",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "GETTINGPOLITICAL_20050105.0127.001-R4-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "His paper was on a political personality of the 19th century and Mischie bought the house where his paper 's subject lived .",
+  "sentence_index" : 5,
+  "Tokens" : [ "His", "paper", "was", "on", "a", "political", "personality", "of", "the", "19th", "century", "and", "Mischie", "bought", "the", "house", "where", "his", "paper", "'s", "subject", "lived", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the house where his paper's subject lived",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "the house where his paper's subject lived",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E3-8",
+    "start" : 14,
+    "end" : 21
+  },
+  "relationID" : "GETTINGPOLITICAL_20050105.0127.001-R5",
+  "mentionArg1" : {
+    "extent" : "his paper's subject",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E2-11",
+    "start" : 17,
+    "end" : 20
+  },
+  "id" : "GETTINGPOLITICAL_20050105.0127.001-R5-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "His paper was on a political personality of the 19th century and Mischie bought the house where his paper 's subject lived .",
+  "sentence_index" : 5,
+  "Tokens" : [ "His", "paper", "was", "on", "a", "political", "personality", "of", "the", "19th", "century", "and", "Mischie", "bought", "the", "house", "where", "his", "paper", "'s", "subject", "lived", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Maybe he tried to invest in his paper, maybe he believed sincerely in his admiration for the poor innocent dead guy and his ability of earning PhDs, but using a big car and living in a big house are signs for the masses that the man is an invaluable and irreplaceable leader",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "a big car",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E4-18",
+    "start" : 31,
+    "end" : 33
+  },
+  "relationID" : "GETTINGPOLITICAL_20050105.0127.001-R6",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E1-12",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "GETTINGPOLITICAL_20050105.0127.001-R6-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Maybe he tried to invest in his paper , maybe he believed sincerely in his admiration for the poor innocent dead guy and his ability of earning PhDs , but using a big car and living in a big house are signs for the masses that the man is an invaluable and irreplaceable leader .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Maybe", "he", "tried", "to", "invest", "in", "his", "paper", ",", "maybe", "he", "believed", "sincerely", "in", "his", "admiration", "for", "the", "poor", "innocent", "dead", "guy", "and", "his", "ability", "of", "earning", "PhDs", ",", "but", "using", "a", "big", "car", "and", "living", "in", "a", "big", "house", "are", "signs", "for", "the", "masses", "that", "the", "man", "is", "an", "invaluable", "and", "irreplaceable", "leader", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Maybe he tried to invest in his paper, maybe he believed sincerely in his admiration for the poor innocent dead guy and his ability of earning PhDs, but using a big car and living in a big house are signs for the masses that the man is an invaluable and irreplaceable leader",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "a big house",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E32-74",
+    "start" : 37,
+    "end" : 39
+  },
+  "relationID" : "GETTINGPOLITICAL_20050105.0127.001-R7",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E1-12",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "GETTINGPOLITICAL_20050105.0127.001-R7-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Maybe he tried to invest in his paper , maybe he believed sincerely in his admiration for the poor innocent dead guy and his ability of earning PhDs , but using a big car and living in a big house are signs for the masses that the man is an invaluable and irreplaceable leader .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Maybe", "he", "tried", "to", "invest", "in", "his", "paper", ",", "maybe", "he", "believed", "sincerely", "in", "his", "admiration", "for", "the", "poor", "innocent", "dead", "guy", "and", "his", "ability", "of", "earning", "PhDs", ",", "but", "using", "a", "big", "car", "and", "living", "in", "a", "big", "house", "are", "signs", "for", "the", "masses", "that", "the", "man", "is", "an", "invaluable", "and", "irreplaceable", "leader", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a University professor",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "University",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E8-24",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "GETTINGPOLITICAL_20050105.0127.001-R8",
+  "mentionArg1" : {
+    "extent" : "a University professor",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E1-23",
+    "start" : 7,
+    "end" : 9
+  },
+  "id" : "GETTINGPOLITICAL_20050105.0127.001-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Another misleading sign was his position as a University professor - he was teaching mostly at private universities , which are still ways to buy diplomas here in Romania .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Another", "misleading", "sign", "was", "his", "position", "as", "a", "University", "professor", "-", "he", "was", "teaching", "mostly", "at", "private", "universities", ",", "which", "are", "still", "ways", "to", "buy", "diplomas", "here", "in", "Romania", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Another misleading sign was his position as a University professor - he was teaching mostly at private universities, which are still ways to buy diplomas here in Romania",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "private universities",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E9-26",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "GETTINGPOLITICAL_20050105.0127.001-R9",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E1-22",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "GETTINGPOLITICAL_20050105.0127.001-R9-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Another misleading sign was his position as a University professor - he was teaching mostly at private universities , which are still ways to buy diplomas here in Romania .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Another", "misleading", "sign", "was", "his", "position", "as", "a", "University", "professor", "-", "he", "was", "teaching", "mostly", "at", "private", "universities", ",", "which", "are", "still", "ways", "to", "buy", "diplomas", "here", "in", "Romania", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Another misleading sign was his position as a University professor - he was teaching mostly at private universities, which are still ways to buy diplomas here in Romania",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Romania",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E23-28",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "GETTINGPOLITICAL_20050105.0127.001-R10",
+  "mentionArg1" : {
+    "extent" : "private universities",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E9-26",
+    "start" : 16,
+    "end" : 17
+  },
+  "id" : "GETTINGPOLITICAL_20050105.0127.001-R10-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Another misleading sign was his position as a University professor - he was teaching mostly at private universities , which are still ways to buy diplomas here in Romania .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Another", "misleading", "sign", "was", "his", "position", "as", "a", "University", "professor", "-", "he", "was", "teaching", "mostly", "at", "private", "universities", ",", "which", "are", "still", "ways", "to", "buy", "diplomas", "here", "in", "Romania", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "PSD is building a strategy for the 4 years to come and they are going to elect a leader",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "PSD",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E38-35",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "GETTINGPOLITICAL_20050105.0127.001-R11",
+  "mentionArg1" : {
+    "extent" : "a leader",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E15-37",
+    "start" : 17,
+    "end" : 18
+  },
+  "id" : "GETTINGPOLITICAL_20050105.0127.001-R11-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "PSD is building a strategy for the 4 years to come and they are going to elect a leader .",
+  "sentence_index" : 9,
+  "Tokens" : [ "PSD", "is", "building", "a", "strategy", "for", "the", "4", "years", "to", "come", "and", "they", "are", "going", "to", "elect", "a", "leader", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "judges of the U.S. Supreme Court",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "the U.S. Supreme Court",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E18-40",
+    "start" : 13,
+    "end" : 16
+  },
+  "relationID" : "GETTINGPOLITICAL_20050105.0127.001-R12",
+  "mentionArg1" : {
+    "extent" : "judges of the U.S. Supreme Court",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E17-39",
+    "start" : 11,
+    "end" : 16
+  },
+  "id" : "GETTINGPOLITICAL_20050105.0127.001-R12-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "It is known that communist leaders die in office ( as judges of the U.S. Supreme Court ) and Ion Iliescu wo n't be different .",
+  "sentence_index" : 10,
+  "Tokens" : [ "It", "is", "known", "that", "communist", "leaders", "die", "in", "office", "(", "as", "judges", "of", "the", "U.S.", "Supreme", "Court", ")", "and", "Ion", "Iliescu", "wo", "n't", "be", "different", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the U.S. Supreme Court",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E20-41",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "GETTINGPOLITICAL_20050105.0127.001-R13",
+  "mentionArg1" : {
+    "extent" : "the U.S. Supreme Court",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E18-40",
+    "start" : 13,
+    "end" : 16
+  },
+  "id" : "GETTINGPOLITICAL_20050105.0127.001-R13-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "It is known that communist leaders die in office ( as judges of the U.S. Supreme Court ) and Ion Iliescu wo n't be different .",
+  "sentence_index" : 10,
+  "Tokens" : [ "It", "is", "known", "that", "communist", "leaders", "die", "in", "office", "(", "as", "judges", "of", "the", "U.S.", "Supreme", "Court", ")", "and", "Ion", "Iliescu", "wo", "n't", "be", "different", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Romanian media",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Romanian",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E23-47",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "GETTINGPOLITICAL_20050105.0127.001-R14",
+  "mentionArg1" : {
+    "extent" : "Romanian media",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E22-46",
+    "start" : 22,
+    "end" : 23
+  },
+  "id" : "GETTINGPOLITICAL_20050105.0127.001-R14-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "All the leaders that expressed different points of view will be excluded from the party , that 's the untold truth that Romanian media seem to hide or not conceive yet .",
+  "sentence_index" : 11,
+  "Tokens" : [ "All", "the", "leaders", "that", "expressed", "different", "points", "of", "view", "will", "be", "excluded", "from", "the", "party", ",", "that", "'s", "the", "untold", "truth", "that", "Romanian", "media", "seem", "to", "hide", "or", "not", "conceive", "yet", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "his area",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "area",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E24-52",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "GETTINGPOLITICAL_20050105.0127.001-R15",
+  "mentionArg1" : {
+    "extent" : "his area",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E1-51",
+    "start" : 19,
+    "end" : 20
+  },
+  "id" : "GETTINGPOLITICAL_20050105.0127.001-R15-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Mischie was right to criticize the national leaders , because PSD got a good share in the elections in his area .",
+  "sentence_index" : 12,
+  "Tokens" : [ "Mischie", "was", "right", "to", "criticize", "the", "national", "leaders", ",", "because", "PSD", "got", "a", "good", "share", "in", "the", "elections", "in", "his", "area", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "But Mischie was wrong, because he did that while in vacation in Switzerland, where you can't go if you earn 20K $ a year",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Switzerland",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E25-55",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "GETTINGPOLITICAL_20050105.0127.001-R16",
+  "mentionArg1" : {
+    "extent" : "Mischie",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E1-53",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "GETTINGPOLITICAL_20050105.0127.001-R16-1",
+  "relationSubType" : "Located",
+  "Sentence" : "But Mischie was wrong , because he did that while in vacation in Switzerland , where you ca n't go if you earn 20K $ a year .",
+  "sentence_index" : 13,
+  "Tokens" : [ "But", "Mischie", "was", "wrong", ",", "because", "he", "did", "that", "while", "in", "vacation", "in", "Switzerland", ",", "where", "you", "ca", "n't", "go", "if", "you", "earn", "20K", "$", "a", "year", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Iliescu and Nastase, ex-president and ex-prime minister",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Nastase",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E28-64",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "GETTINGPOLITICAL_20050105.0127.001-R17",
+  "mentionArg1" : {
+    "extent" : "Iliescu",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E12-61",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "GETTINGPOLITICAL_20050105.0127.001-R17-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Iliescu and Nastase , ex-president and ex-prime minister , are now left only with the leadership of the party and holding this illusory authority .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Iliescu", "and", "Nastase", ",", "ex-president", "and", "ex-prime", "minister", ",", "are", "now", "left", "only", "with", "the", "leadership", "of", "the", "party", "and", "holding", "this", "illusory", "authority", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iliescu and Nastase, ex-president and ex-prime minister, are now left only with the leadership of the party and holding this illusory authority",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the party",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E38-67",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "GETTINGPOLITICAL_20050105.0127.001-R18",
+  "mentionArg1" : {
+    "extent" : "Iliescu",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E12-61",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "GETTINGPOLITICAL_20050105.0127.001-R18-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Iliescu and Nastase , ex-president and ex-prime minister , are now left only with the leadership of the party and holding this illusory authority .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Iliescu", "and", "Nastase", ",", "ex-president", "and", "ex-prime", "minister", ",", "are", "now", "left", "only", "with", "the", "leadership", "of", "the", "party", "and", "holding", "this", "illusory", "authority", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iliescu and Nastase, ex-president and ex-prime minister, are now left only with the leadership of the party and holding this illusory authority",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the party",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E38-67",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "GETTINGPOLITICAL_20050105.0127.001-R19",
+  "mentionArg1" : {
+    "extent" : "Nastase",
+    "argMentionid" : "GETTINGPOLITICAL_20050105.0127.001-E28-64",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "GETTINGPOLITICAL_20050105.0127.001-R19-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Iliescu and Nastase , ex-president and ex-prime minister , are now left only with the leadership of the party and holding this illusory authority .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Iliescu", "and", "Nastase", ",", "ex-president", "and", "ex-prime", "minister", ",", "are", "now", "left", "only", "with", "the", "leadership", "of", "the", "party", "and", "holding", "this", "illusory", "authority", "." ]
+} ]

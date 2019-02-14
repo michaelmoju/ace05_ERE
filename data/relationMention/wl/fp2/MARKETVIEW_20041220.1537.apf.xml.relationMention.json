@@ -1,0 +1,23 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "Investors have prudently valued the remaining business -- the extremely well-known Everlast brand, the possible new reality TV show, and most of the company's assets -- at a negative $16.5 million",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "the remaining business",
+    "argMentionid" : "MARKETVIEW_20041220.1537-E1-16",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "MARKETVIEW_20041220.1537-R1",
+  "mentionArg1" : {
+    "extent" : "Investors",
+    "argMentionid" : "MARKETVIEW_20041220.1537-E7-11",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "MARKETVIEW_20041220.1537-R1-1",
+  "relationSubType" : "Investor-Shareholder",
+  "Sentence" : "Investors have prudently valued the remaining business -- the extremely well-known Everlast brand , the possible new reality TV show , and most of the company 's assets -- at a negative $16.5 million .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Investors", "have", "prudently", "valued", "the", "remaining", "business", "--", "the", "extremely", "well-known", "Everlast", "brand", ",", "the", "possible", "new", "reality", "TV", "show", ",", "and", "most", "of", "the", "company", "'s", "assets", "--", "at", "a", "negative", "$16.5", "million", "." ]
+} ]

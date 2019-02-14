@@ -1,0 +1,243 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "A serial killer in Wichita, Kansas who killed at least 8 people in the '70s and '80s",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Wichita, Kansas",
+    "argMentionid" : "rec.arts.mystery_20050219.1126-E3-8",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "rec.arts.mystery_20050219.1126-R1",
+  "mentionArg1" : {
+    "extent" : "A serial killer in Wichita, Kansas who killed at least 8 people in the '70s and '80s",
+    "argMentionid" : "rec.arts.mystery_20050219.1126-E17-6",
+    "start" : 0,
+    "end" : 19
+  },
+  "id" : "rec.arts.mystery_20050219.1126-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "A serial killer in Wichita , Kansas who killed at least 8 people in the ' 70s and ' 80s .",
+  "sentence_index" : 14,
+  "Tokens" : [ "A", "serial", "killer", "in", "Wichita", ",", "Kansas", "who", "killed", "at", "least", "8", "people", "in", "the", "'", "70s", "and", "'", "80s", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "A serial killer in Wichita, Kansas who killed at least 8 people in the '70s and '80s",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Wichita, Kansas",
+    "argMentionid" : "rec.arts.mystery_20050219.1126-E3-8",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "rec.arts.mystery_20050219.1126-R2",
+  "mentionArg1" : {
+    "extent" : "at least 8 people",
+    "argMentionid" : "rec.arts.mystery_20050219.1126-E5-10",
+    "start" : 9,
+    "end" : 12
+  },
+  "id" : "rec.arts.mystery_20050219.1126-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "A serial killer in Wichita , Kansas who killed at least 8 people in the ' 70s and ' 80s .",
+  "sentence_index" : 14,
+  "Tokens" : [ "A", "serial", "killer", "in", "Wichita", ",", "Kansas", "who", "killed", "at", "least", "8", "people", "in", "the", "'", "70s", "and", "'", "80s", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Wichita police department",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "Wichita",
+    "argMentionid" : "rec.arts.mystery_20050219.1126-E3-25",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "rec.arts.mystery_20050219.1126-R3",
+  "mentionArg1" : {
+    "extent" : "the Wichita police department",
+    "argMentionid" : "rec.arts.mystery_20050219.1126-E11-24",
+    "start" : 5,
+    "end" : 8
+  },
+  "id" : "rec.arts.mystery_20050219.1126-R3-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The informal speculation is that the Wichita police department was not up to the task .",
+  "sentence_index" : 23,
+  "Tokens" : [ "The", "informal", "speculation", "is", "that", "the", "Wichita", "police", "department", "was", "not", "up", "to", "the", "task", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "One of the BTK killer's victims lived on the same street as the killer",
+  "sentence_length" : 57,
+  "mentionArg2" : {
+    "extent" : "the same street as the killer",
+    "argMentionid" : "rec.arts.mystery_20050219.1126-E14-29",
+    "start" : 13,
+    "end" : 18
+  },
+  "relationID" : "rec.arts.mystery_20050219.1126-R4",
+  "mentionArg1" : {
+    "extent" : "One of the BTK killer's victims",
+    "argMentionid" : "rec.arts.mystery_20050219.1126-E13-26",
+    "start" : 4,
+    "end" : 10
+  },
+  "id" : "rec.arts.mystery_20050219.1126-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Consider this : - One of the BTK killer 's victims lived on the same street as the killer - The BTK killer once called up a police dispatcher and told her of the crime he just committed , and still they could not catch him - the BTK killer was a known nitpicker and nuissance .",
+  "sentence_index" : 24,
+  "Tokens" : [ "Consider", "this", ":", "-", "One", "of", "the", "BTK", "killer", "'s", "victims", "lived", "on", "the", "same", "street", "as", "the", "killer", "-", "The", "BTK", "killer", "once", "called", "up", "a", "police", "dispatcher", "and", "told", "her", "of", "the", "crime", "he", "just", "committed", ",", "and", "still", "they", "could", "not", "catch", "him", "-", "the", "BTK", "killer", "was", "a", "known", "nitpicker", "and", "nuissance", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "One of the BTK killer's victims lived on the same street as the killer",
+  "sentence_length" : 57,
+  "mentionArg2" : {
+    "extent" : "the same street as the killer",
+    "argMentionid" : "rec.arts.mystery_20050219.1126-E14-29",
+    "start" : 13,
+    "end" : 18
+  },
+  "relationID" : "rec.arts.mystery_20050219.1126-R5",
+  "mentionArg1" : {
+    "extent" : "the killer",
+    "argMentionid" : "rec.arts.mystery_20050219.1126-E17-30",
+    "start" : 17,
+    "end" : 18
+  },
+  "id" : "rec.arts.mystery_20050219.1126-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Consider this : - One of the BTK killer 's victims lived on the same street as the killer - The BTK killer once called up a police dispatcher and told her of the crime he just committed , and still they could not catch him - the BTK killer was a known nitpicker and nuissance .",
+  "sentence_index" : 24,
+  "Tokens" : [ "Consider", "this", ":", "-", "One", "of", "the", "BTK", "killer", "'s", "victims", "lived", "on", "the", "same", "street", "as", "the", "killer", "-", "The", "BTK", "killer", "once", "called", "up", "a", "police", "dispatcher", "and", "told", "her", "of", "the", "crime", "he", "just", "committed", ",", "and", "still", "they", "could", "not", "catch", "him", "-", "the", "BTK", "killer", "was", "a", "known", "nitpicker", "and", "nuissance", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a police dispatcher",
+  "sentence_length" : 57,
+  "mentionArg2" : {
+    "extent" : "police",
+    "argMentionid" : "rec.arts.mystery_20050219.1126-E6-37",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "rec.arts.mystery_20050219.1126-R6",
+  "mentionArg1" : {
+    "extent" : "a police dispatcher",
+    "argMentionid" : "rec.arts.mystery_20050219.1126-E15-32",
+    "start" : 26,
+    "end" : 28
+  },
+  "id" : "rec.arts.mystery_20050219.1126-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Consider this : - One of the BTK killer 's victims lived on the same street as the killer - The BTK killer once called up a police dispatcher and told her of the crime he just committed , and still they could not catch him - the BTK killer was a known nitpicker and nuissance .",
+  "sentence_index" : 24,
+  "Tokens" : [ "Consider", "this", ":", "-", "One", "of", "the", "BTK", "killer", "'s", "victims", "lived", "on", "the", "same", "street", "as", "the", "killer", "-", "The", "BTK", "killer", "once", "called", "up", "a", "police", "dispatcher", "and", "told", "her", "of", "the", "crime", "he", "just", "committed", ",", "and", "still", "they", "could", "not", "catch", "him", "-", "the", "BTK", "killer", "was", "a", "known", "nitpicker", "and", "nuissance", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his daughter",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "his daughter",
+    "argMentionid" : "rec.arts.mystery_20050219.1126-E20-44",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "rec.arts.mystery_20050219.1126-R7",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "rec.arts.mystery_20050219.1126-E17-45",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "rec.arts.mystery_20050219.1126-R7-1",
+  "relationSubType" : "Family",
+  "Sentence" : "- the BTK killer was only found out when his daughter recognized certain traits and turned in her DNA , which was a close match to the DNA on file for her father .",
+  "sentence_index" : 26,
+  "Tokens" : [ "-", "the", "BTK", "killer", "was", "only", "found", "out", "when", "his", "daughter", "recognized", "certain", "traits", "and", "turned", "in", "her", "DNA", ",", "which", "was", "a", "close", "match", "to", "the", "DNA", "on", "file", "for", "her", "father", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her father",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "her",
+    "argMentionid" : "rec.arts.mystery_20050219.1126-E20-48",
+    "start" : 31,
+    "end" : 31
+  },
+  "relationID" : "rec.arts.mystery_20050219.1126-R7",
+  "mentionArg1" : {
+    "extent" : "her father",
+    "argMentionid" : "rec.arts.mystery_20050219.1126-E17-47",
+    "start" : 31,
+    "end" : 32
+  },
+  "id" : "rec.arts.mystery_20050219.1126-R7-2",
+  "relationSubType" : "Family",
+  "Sentence" : "- the BTK killer was only found out when his daughter recognized certain traits and turned in her DNA , which was a close match to the DNA on file for her father .",
+  "sentence_index" : 26,
+  "Tokens" : [ "-", "the", "BTK", "killer", "was", "only", "found", "out", "when", "his", "daughter", "recognized", "certain", "traits", "and", "turned", "in", "her", "DNA", ",", "which", "was", "a", "close", "match", "to", "the", "DNA", "on", "file", "for", "her", "father", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I was once reading how a criminal was being tracked in Washington, DC, and how he escaped a police dragnet several times, once by taking a taxi",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Washington, DC",
+    "argMentionid" : "rec.arts.mystery_20050219.1126-E24-54",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "rec.arts.mystery_20050219.1126-R8",
+  "mentionArg1" : {
+    "extent" : "a criminal",
+    "argMentionid" : "rec.arts.mystery_20050219.1126-E23-53",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "rec.arts.mystery_20050219.1126-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I was once reading how a criminal was being tracked in Washington , DC , and how he escaped a police dragnet several times , once by taking a taxi .",
+  "sentence_index" : 28,
+  "Tokens" : [ "I", "was", "once", "reading", "how", "a", "criminal", "was", "being", "tracked", "in", "Washington", ",", "DC", ",", "and", "how", "he", "escaped", "a", "police", "dragnet", "several", "times", ",", "once", "by", "taking", "a", "taxi", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "I was once reading how a criminal was being tracked in Washington, DC, and how he escaped a police dragnet several times, once by taking a taxi",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "a taxi",
+    "argMentionid" : "rec.arts.mystery_20050219.1126-E26-57",
+    "start" : 28,
+    "end" : 29
+  },
+  "relationID" : "rec.arts.mystery_20050219.1126-R9",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "rec.arts.mystery_20050219.1126-E23-55",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "rec.arts.mystery_20050219.1126-R9-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "I was once reading how a criminal was being tracked in Washington , DC , and how he escaped a police dragnet several times , once by taking a taxi .",
+  "sentence_index" : 28,
+  "Tokens" : [ "I", "was", "once", "reading", "how", "a", "criminal", "was", "being", "tracked", "in", "Washington", ",", "DC", ",", "and", "how", "he", "escaped", "a", "police", "dragnet", "several", "times", ",", "once", "by", "taking", "a", "taxi", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "The rich hire private security for a reason--public security is often inadequate",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "private security",
+    "argMentionid" : "rec.arts.mystery_20050219.1126-E30-62",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "rec.arts.mystery_20050219.1126-R10",
+  "mentionArg1" : {
+    "extent" : "The rich",
+    "argMentionid" : "rec.arts.mystery_20050219.1126-E29-61",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "rec.arts.mystery_20050219.1126-R10-1",
+  "relationSubType" : "Business",
+  "Sentence" : "The rich hire private security for a reason--public security is often inadequate .",
+  "sentence_index" : 30,
+  "Tokens" : [ "The", "rich", "hire", "private", "security", "for", "a", "reason--public", "security", "is", "often", "inadequate", "." ]
+} ]

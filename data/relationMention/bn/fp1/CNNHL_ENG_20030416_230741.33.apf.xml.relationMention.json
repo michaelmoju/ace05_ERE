@@ -1,0 +1,67 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "saddam hussein's son",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "saddam hussein's son",
+    "argMentionid" : "CNNHL_ENG_20030416_230741.33-E1-6",
+    "start" : 8,
+    "end" : 10
+  },
+  "relationID" : "CNNHL_ENG_20030416_230741.33-R1",
+  "mentionArg1" : {
+    "extent" : "saddam hussein",
+    "argMentionid" : "CNNHL_ENG_20030416_230741.33-E4-5",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "CNNHL_ENG_20030416_230741.33-R1-1",
+  "relationSubType" : "Family",
+  "Sentence" : "call him the man with the golden guns. saddam hussein's son uday was apparently the owner of 74 golden guns. the ak-47 ' s in the stash were gold-plated. there also were silver and nickel-plated weapons. one that was a gift from saddam had an engraving from the former iraqi leader .",
+  "sentence_index" : 0,
+  "Tokens" : [ "call", "him", "the", "man", "with", "the", "golden", "guns.", "saddam", "hussein's", "son", "uday", "was", "apparently", "the", "owner", "of", "74", "golden", "guns.", "the", "ak-47", "'", "s", "in", "the", "stash", "were", "gold-plated.", "there", "also", "were", "silver", "and", "nickel-plated", "weapons.", "one", "that", "was", "a", "gift", "from", "saddam", "had", "an", "engraving", "from", "the", "former", "iraqi", "leader", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the owner of 74 golden guns",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "74 golden guns",
+    "argMentionid" : "CNNHL_ENG_20030416_230741.33-E6-8",
+    "start" : 17,
+    "end" : 19
+  },
+  "relationID" : "CNNHL_ENG_20030416_230741.33-R2",
+  "mentionArg1" : {
+    "extent" : "the owner of 74 golden guns",
+    "argMentionid" : "CNNHL_ENG_20030416_230741.33-E1-7",
+    "start" : 14,
+    "end" : 19
+  },
+  "id" : "CNNHL_ENG_20030416_230741.33-R2-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "call him the man with the golden guns. saddam hussein's son uday was apparently the owner of 74 golden guns. the ak-47 ' s in the stash were gold-plated. there also were silver and nickel-plated weapons. one that was a gift from saddam had an engraving from the former iraqi leader .",
+  "sentence_index" : 0,
+  "Tokens" : [ "call", "him", "the", "man", "with", "the", "golden", "guns.", "saddam", "hussein's", "son", "uday", "was", "apparently", "the", "owner", "of", "74", "golden", "guns.", "the", "ak-47", "'", "s", "in", "the", "stash", "were", "gold-plated.", "there", "also", "were", "silver", "and", "nickel-plated", "weapons.", "one", "that", "was", "a", "gift", "from", "saddam", "had", "an", "engraving", "from", "the", "former", "iraqi", "leader", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the man with the golden guns",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "the golden guns",
+    "argMentionid" : "CNNHL_ENG_20030416_230741.33-E3-3",
+    "start" : 5,
+    "end" : 7
+  },
+  "relationID" : "CNNHL_ENG_20030416_230741.33-R3",
+  "mentionArg1" : {
+    "extent" : "the man with the golden guns",
+    "argMentionid" : "CNNHL_ENG_20030416_230741.33-E1-2",
+    "start" : 2,
+    "end" : 7
+  },
+  "id" : "CNNHL_ENG_20030416_230741.33-R3-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "call him the man with the golden guns. saddam hussein's son uday was apparently the owner of 74 golden guns. the ak-47 ' s in the stash were gold-plated. there also were silver and nickel-plated weapons. one that was a gift from saddam had an engraving from the former iraqi leader .",
+  "sentence_index" : 0,
+  "Tokens" : [ "call", "him", "the", "man", "with", "the", "golden", "guns.", "saddam", "hussein's", "son", "uday", "was", "apparently", "the", "owner", "of", "74", "golden", "guns.", "the", "ak-47", "'", "s", "in", "the", "stash", "were", "gold-plated.", "there", "also", "were", "silver", "and", "nickel-plated", "weapons.", "one", "that", "was", "a", "gift", "from", "saddam", "had", "an", "engraving", "from", "the", "former", "iraqi", "leader", "." ]
+} ]

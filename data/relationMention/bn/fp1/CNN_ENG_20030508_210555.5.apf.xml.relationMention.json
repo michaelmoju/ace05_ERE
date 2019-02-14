@@ -1,0 +1,177 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "a connecticut woman with a history of psychiatric problems",
+  "sentence_length" : 92,
+  "mentionArg2" : {
+    "extent" : "connecticut",
+    "argMentionid" : "CNN_ENG_20030508_210555.5-E11-44",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "CNN_ENG_20030508_210555.5-R1",
+  "mentionArg1" : {
+    "extent" : "a connecticut woman with a history of psychiatric problems",
+    "argMentionid" : "CNN_ENG_20030508_210555.5-E18-43",
+    "start" : 18,
+    "end" : 26
+  },
+  "id" : "CNN_ENG_20030508_210555.5-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "reporter : it was the lead story across connecticut in early april , police say jennifer o'conner , a connecticut woman with a history of psychiatric problems confessed to shooting her daughter 7 , while the 7 - year-old girl lay sleeping. o'conner told police she could no longer cope with her daughter daughter 's learning , disability prps sara dade three days later. thomas , owner a local gun and motorcycle shop , said he felt gutted when he saw the news reports of o'conner 's vest on murder charges .",
+  "sentence_index" : 2,
+  "Tokens" : [ "reporter", ":", "it", "was", "the", "lead", "story", "across", "connecticut", "in", "early", "april", ",", "police", "say", "jennifer", "o'conner", ",", "a", "connecticut", "woman", "with", "a", "history", "of", "psychiatric", "problems", "confessed", "to", "shooting", "her", "daughter", "7", ",", "while", "the", "7", "-", "year-old", "girl", "lay", "sleeping.", "o'conner", "told", "police", "she", "could", "no", "longer", "cope", "with", "her", "daughter", "daughter", "'s", "learning", ",", "disability", "prps", "sara", "dade", "three", "days", "later.", "thomas", ",", "owner", "a", "local", "gun", "and", "motorcycle", "shop", ",", "said", "he", "felt", "gutted", "when", "he", "saw", "the", "news", "reports", "of", "o'conner", "'s", "vest", "on", "murder", "charges", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her daughter",
+  "sentence_length" : 92,
+  "mentionArg2" : {
+    "extent" : "her daughter",
+    "argMentionid" : "CNN_ENG_20030508_210555.5-E21-45",
+    "start" : 30,
+    "end" : 31
+  },
+  "relationID" : "CNN_ENG_20030508_210555.5-R2",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_ENG_20030508_210555.5-E18-46",
+    "start" : 30,
+    "end" : 30
+  },
+  "id" : "CNN_ENG_20030508_210555.5-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : it was the lead story across connecticut in early april , police say jennifer o'conner , a connecticut woman with a history of psychiatric problems confessed to shooting her daughter 7 , while the 7 - year-old girl lay sleeping. o'conner told police she could no longer cope with her daughter daughter 's learning , disability prps sara dade three days later. thomas , owner a local gun and motorcycle shop , said he felt gutted when he saw the news reports of o'conner 's vest on murder charges .",
+  "sentence_index" : 2,
+  "Tokens" : [ "reporter", ":", "it", "was", "the", "lead", "story", "across", "connecticut", "in", "early", "april", ",", "police", "say", "jennifer", "o'conner", ",", "a", "connecticut", "woman", "with", "a", "history", "of", "psychiatric", "problems", "confessed", "to", "shooting", "her", "daughter", "7", ",", "while", "the", "7", "-", "year-old", "girl", "lay", "sleeping.", "o'conner", "told", "police", "she", "could", "no", "longer", "cope", "with", "her", "daughter", "daughter", "'s", "learning", ",", "disability", "prps", "sara", "dade", "three", "days", "later.", "thomas", ",", "owner", "a", "local", "gun", "and", "motorcycle", "shop", ",", "said", "he", "felt", "gutted", "when", "he", "saw", "the", "news", "reports", "of", "o'conner", "'s", "vest", "on", "murder", "charges", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her daughter daughter",
+  "sentence_length" : 92,
+  "mentionArg2" : {
+    "extent" : "her daughter daughter",
+    "argMentionid" : "CNN_ENG_20030508_210555.5-E21-2",
+    "start" : 51,
+    "end" : 53
+  },
+  "relationID" : "CNN_ENG_20030508_210555.5-R2",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_ENG_20030508_210555.5-E18-51",
+    "start" : 51,
+    "end" : 51
+  },
+  "id" : "CNN_ENG_20030508_210555.5-R2-2",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : it was the lead story across connecticut in early april , police say jennifer o'conner , a connecticut woman with a history of psychiatric problems confessed to shooting her daughter 7 , while the 7 - year-old girl lay sleeping. o'conner told police she could no longer cope with her daughter daughter 's learning , disability prps sara dade three days later. thomas , owner a local gun and motorcycle shop , said he felt gutted when he saw the news reports of o'conner 's vest on murder charges .",
+  "sentence_index" : 2,
+  "Tokens" : [ "reporter", ":", "it", "was", "the", "lead", "story", "across", "connecticut", "in", "early", "april", ",", "police", "say", "jennifer", "o'conner", ",", "a", "connecticut", "woman", "with", "a", "history", "of", "psychiatric", "problems", "confessed", "to", "shooting", "her", "daughter", "7", ",", "while", "the", "7", "-", "year-old", "girl", "lay", "sleeping.", "o'conner", "told", "police", "she", "could", "no", "longer", "cope", "with", "her", "daughter", "daughter", "'s", "learning", ",", "disability", "prps", "sara", "dade", "three", "days", "later.", "thomas", ",", "owner", "a", "local", "gun", "and", "motorcycle", "shop", ",", "said", "he", "felt", "gutted", "when", "he", "saw", "the", "news", "reports", "of", "o'conner", "'s", "vest", "on", "murder", "charges", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "owner a local gun and motorcycle shop",
+  "sentence_length" : 92,
+  "mentionArg2" : {
+    "extent" : "a local gun and motorcycle shop",
+    "argMentionid" : "CNN_ENG_20030508_210555.5-E3-6",
+    "start" : 67,
+    "end" : 72
+  },
+  "relationID" : "CNN_ENG_20030508_210555.5-R4",
+  "mentionArg1" : {
+    "extent" : "owner a local gun and motorcycle shop",
+    "argMentionid" : "CNN_ENG_20030508_210555.5-E2-5",
+    "start" : 66,
+    "end" : 72
+  },
+  "id" : "CNN_ENG_20030508_210555.5-R4-1",
+  "relationSubType" : "Ownership",
+  "Sentence" : "reporter : it was the lead story across connecticut in early april , police say jennifer o'conner , a connecticut woman with a history of psychiatric problems confessed to shooting her daughter 7 , while the 7 - year-old girl lay sleeping. o'conner told police she could no longer cope with her daughter daughter 's learning , disability prps sara dade three days later. thomas , owner a local gun and motorcycle shop , said he felt gutted when he saw the news reports of o'conner 's vest on murder charges .",
+  "sentence_index" : 2,
+  "Tokens" : [ "reporter", ":", "it", "was", "the", "lead", "story", "across", "connecticut", "in", "early", "april", ",", "police", "say", "jennifer", "o'conner", ",", "a", "connecticut", "woman", "with", "a", "history", "of", "psychiatric", "problems", "confessed", "to", "shooting", "her", "daughter", "7", ",", "while", "the", "7", "-", "year-old", "girl", "lay", "sleeping.", "o'conner", "told", "police", "she", "could", "no", "longer", "cope", "with", "her", "daughter", "daughter", "'s", "learning", ",", "disability", "prps", "sara", "dade", "three", "days", "later.", "thomas", ",", "owner", "a", "local", "gun", "and", "motorcycle", "shop", ",", "said", "he", "felt", "gutted", "when", "he", "saw", "the", "news", "reports", "of", "o'conner", "'s", "vest", "on", "murder", "charges", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the police officers",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "police",
+    "argMentionid" : "CNN_ENG_20030508_210555.5-E6-12",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_ENG_20030508_210555.5-R5",
+  "mentionArg1" : {
+    "extent" : "the police officers",
+    "argMentionid" : "CNN_ENG_20030508_210555.5-E5-8",
+    "start" : 3,
+    "end" : 5
+  },
+  "id" : "CNN_ENG_20030508_210555.5-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "as soon as the police officers pulled the gun out and held it up , i knew it was my rifle .",
+  "sentence_index" : 3,
+  "Tokens" : [ "as", "soon", "as", "the", "police", "officers", "pulled", "the", "gun", "out", "and", "held", "it", "up", ",", "i", "knew", "it", "was", "my", "rifle", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "my rifle",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "my rifle",
+    "argMentionid" : "CNN_ENG_20030508_210555.5-E7-15",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "CNN_ENG_20030508_210555.5-R6",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "CNN_ENG_20030508_210555.5-E2-17",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "CNN_ENG_20030508_210555.5-R6-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "as soon as the police officers pulled the gun out and held it up , i knew it was my rifle .",
+  "sentence_index" : 3,
+  "Tokens" : [ "as", "soon", "as", "the", "police", "officers", "pulled", "the", "gun", "out", "and", "held", "it", "up", ",", "i", "knew", "it", "was", "my", "rifle", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "had sold oconer the rifle a few months before",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "the rifle",
+    "argMentionid" : "CNN_ENG_20030508_210555.5-E7-19",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "CNN_ENG_20030508_210555.5-R7",
+  "mentionArg1" : {
+    "extent" : "oconer",
+    "argMentionid" : "CNN_ENG_20030508_210555.5-E18-18",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "CNN_ENG_20030508_210555.5-R7-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "reporter : had sold oconer the rifle a few months before .",
+  "sentence_index" : 4,
+  "Tokens" : [ "reporter", ":", "had", "sold", "oconer", "the", "rifle", "a", "few", "months", "before", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the state authoritys",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "state",
+    "argMentionid" : "CNN_ENG_20030508_210555.5-E11-29",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "CNN_ENG_20030508_210555.5-R8",
+  "mentionArg1" : {
+    "extent" : "the state authoritys",
+    "argMentionid" : "CNN_ENG_20030508_210555.5-E10-28",
+    "start" : 13,
+    "end" : 15
+  },
+  "id" : "CNN_ENG_20030508_210555.5-R8-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "reporter : followed the letter of law. he sent oconeor 's information to the state authoritys for a background check. once she was cleared , he made o'conner wait for a minimum. two weeks. he",
+  "sentence_index" : 6,
+  "Tokens" : [ "reporter", ":", "followed", "the", "letter", "of", "law.", "he", "sent", "oconeor", "'s", "information", "to", "the", "state", "authoritys", "for", "a", "background", "check.", "once", "she", "was", "cleared", ",", "he", "made", "o'conner", "wait", "for", "a", "minimum.", "two", "weeks.", "he" ]
+} ]

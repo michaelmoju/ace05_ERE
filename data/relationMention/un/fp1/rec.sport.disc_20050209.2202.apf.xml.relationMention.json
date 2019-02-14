@@ -1,0 +1,683 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "various athletic departments at schools",
+  "sentence_length" : 57,
+  "mentionArg2" : {
+    "extent" : "schools",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E73-165",
+    "start" : 48,
+    "end" : 48
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R4",
+  "mentionArg1" : {
+    "extent" : "various athletic departments at schools",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E68-143",
+    "start" : 44,
+    "end" : 48
+  },
+  "id" : "rec.sport.disc_20050209.2202-R4-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Club Sports policies at schools ; specifically travel restrictions d-c ... @ northwestern . edu 9 Feb 2005 19:02:57 - 0800 Club Sports policies at schools ; specifically travel restrictions Hello everyone - I am attempting to learn more information about the policies of various athletic departments at schools , specifically with regards to ultimate teams .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Club", "Sports", "policies", "at", "schools", ";", "specifically", "travel", "restrictions", "d-c", "...", "@", "northwestern", ".", "edu", "9", "Feb", "2005", "19:02:57", "-", "0800", "Club", "Sports", "policies", "at", "schools", ";", "specifically", "travel", "restrictions", "Hello", "everyone", "-", "I", "am", "attempting", "to", "learn", "more", "information", "about", "the", "policies", "of", "various", "athletic", "departments", "at", "schools", ",", "specifically", "with", "regards", "to", "ultimate", "teams", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "At Northwestern, the Men's Ultimate team falls under the Club Sports department which falls into a dark, barely lit corner of the Athletic Department",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "the Athletic Department",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E79-171",
+    "start" : 24,
+    "end" : 26
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R5",
+  "mentionArg1" : {
+    "extent" : "which",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E78-144",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "rec.sport.disc_20050209.2202-R5-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "At Northwestern , the Men 's Ultimate team falls under the Club Sports department which falls into a dark , barely lit corner of the Athletic Department .",
+  "sentence_index" : 1,
+  "Tokens" : [ "At", "Northwestern", ",", "the", "Men", "'s", "Ultimate", "team", "falls", "under", "the", "Club", "Sports", "department", "which", "falls", "into", "a", "dark", ",", "barely", "lit", "corner", "of", "the", "Athletic", "Department", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "At Northwestern, the Men's Ultimate team falls under the Club Sports department which falls into a dark, barely lit corner of the Athletic Department",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Northwestern",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E1-167",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R6",
+  "mentionArg1" : {
+    "extent" : "the Athletic Department",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E79-171",
+    "start" : 24,
+    "end" : 26
+  },
+  "id" : "rec.sport.disc_20050209.2202-R6-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "At Northwestern , the Men 's Ultimate team falls under the Club Sports department which falls into a dark , barely lit corner of the Athletic Department .",
+  "sentence_index" : 1,
+  "Tokens" : [ "At", "Northwestern", ",", "the", "Men", "'s", "Ultimate", "team", "falls", "under", "the", "Club", "Sports", "department", "which", "falls", "into", "a", "dark", ",", "barely", "lit", "corner", "of", "the", "Athletic", "Department", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "At Northwestern, the Men's Ultimate team falls under the Club Sports department which falls into a dark, barely lit corner of the Athletic Department",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "the Club Sports department",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E78-170",
+    "start" : 10,
+    "end" : 13
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R7",
+  "mentionArg1" : {
+    "extent" : "the Men's Ultimate team",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E10-168",
+    "start" : 3,
+    "end" : 7
+  },
+  "id" : "rec.sport.disc_20050209.2202-R7-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "At Northwestern , the Men 's Ultimate team falls under the Club Sports department which falls into a dark , barely lit corner of the Athletic Department .",
+  "sentence_index" : 1,
+  "Tokens" : [ "At", "Northwestern", ",", "the", "Men", "'s", "Ultimate", "team", "falls", "under", "the", "Club", "Sports", "department", "which", "falls", "into", "a", "dark", ",", "barely", "lit", "corner", "of", "the", "Athletic", "Department", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "school vans",
+  "sentence_length" : 57,
+  "mentionArg2" : {
+    "extent" : "school vans",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E2-2",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R8",
+  "mentionArg1" : {
+    "extent" : "school",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E1-178",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "rec.sport.disc_20050209.2202-R8-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "At Northwestern , we are allowed to either rent school vans for no charge or take our own vehicles to tournaments within 300 miles of Evanston , IL. Also , we are allowed to fly , take a bus , or take Amtrak to any tournament we want , no matter how far away it is .",
+  "sentence_index" : 4,
+  "Tokens" : [ "At", "Northwestern", ",", "we", "are", "allowed", "to", "either", "rent", "school", "vans", "for", "no", "charge", "or", "take", "our", "own", "vehicles", "to", "tournaments", "within", "300", "miles", "of", "Evanston", ",", "IL.", "Also", ",", "we", "are", "allowed", "to", "fly", ",", "take", "a", "bus", ",", "or", "take", "Amtrak", "to", "any", "tournament", "we", "want", ",", "no", "matter", "how", "far", "away", "it", "is", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "our own vehicles",
+  "sentence_length" : 57,
+  "mentionArg2" : {
+    "extent" : "our own vehicles",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E3-3",
+    "start" : 16,
+    "end" : 18
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R9",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E10-5",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "rec.sport.disc_20050209.2202-R9-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "At Northwestern , we are allowed to either rent school vans for no charge or take our own vehicles to tournaments within 300 miles of Evanston , IL. Also , we are allowed to fly , take a bus , or take Amtrak to any tournament we want , no matter how far away it is .",
+  "sentence_index" : 4,
+  "Tokens" : [ "At", "Northwestern", ",", "we", "are", "allowed", "to", "either", "rent", "school", "vans", "for", "no", "charge", "or", "take", "our", "own", "vehicles", "to", "tournaments", "within", "300", "miles", "of", "Evanston", ",", "IL.", "Also", ",", "we", "are", "allowed", "to", "fly", ",", "take", "a", "bus", ",", "or", "take", "Amtrak", "to", "any", "tournament", "we", "want", ",", "no", "matter", "how", "far", "away", "it", "is", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Evanston, IL",
+  "sentence_length" : 57,
+  "mentionArg2" : {
+    "extent" : "IL",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E5-7",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R10",
+  "mentionArg1" : {
+    "extent" : "Evanston, IL",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E4-6",
+    "start" : 25,
+    "end" : 27
+  },
+  "id" : "rec.sport.disc_20050209.2202-R10-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "At Northwestern , we are allowed to either rent school vans for no charge or take our own vehicles to tournaments within 300 miles of Evanston , IL. Also , we are allowed to fly , take a bus , or take Amtrak to any tournament we want , no matter how far away it is .",
+  "sentence_index" : 4,
+  "Tokens" : [ "At", "Northwestern", ",", "we", "are", "allowed", "to", "either", "rent", "school", "vans", "for", "no", "charge", "or", "take", "our", "own", "vehicles", "to", "tournaments", "within", "300", "miles", "of", "Evanston", ",", "IL.", "Also", ",", "we", "are", "allowed", "to", "fly", ",", "take", "a", "bus", ",", "or", "take", "Amtrak", "to", "any", "tournament", "we", "want", ",", "no", "matter", "how", "far", "away", "it", "is", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Also, we are allowed to fly, take a bus, or take Amtrak to any tournament we want, no matter how far away it is",
+  "sentence_length" : 57,
+  "mentionArg2" : {
+    "extent" : "a bus",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E6-9",
+    "start" : 37,
+    "end" : 38
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R11",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E10-8",
+    "start" : 30,
+    "end" : 30
+  },
+  "id" : "rec.sport.disc_20050209.2202-R11-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "At Northwestern , we are allowed to either rent school vans for no charge or take our own vehicles to tournaments within 300 miles of Evanston , IL. Also , we are allowed to fly , take a bus , or take Amtrak to any tournament we want , no matter how far away it is .",
+  "sentence_index" : 4,
+  "Tokens" : [ "At", "Northwestern", ",", "we", "are", "allowed", "to", "either", "rent", "school", "vans", "for", "no", "charge", "or", "take", "our", "own", "vehicles", "to", "tournaments", "within", "300", "miles", "of", "Evanston", ",", "IL.", "Also", ",", "we", "are", "allowed", "to", "fly", ",", "take", "a", "bus", ",", "or", "take", "Amtrak", "to", "any", "tournament", "we", "want", ",", "no", "matter", "how", "far", "away", "it", "is", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Also, we are allowed to fly, take a bus, or take Amtrak to any tournament we want, no matter how far away it is",
+  "sentence_length" : 57,
+  "mentionArg2" : {
+    "extent" : "Amtrak",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E7-10",
+    "start" : 42,
+    "end" : 42
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R12",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E10-8",
+    "start" : 30,
+    "end" : 30
+  },
+  "id" : "rec.sport.disc_20050209.2202-R12-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "At Northwestern , we are allowed to either rent school vans for no charge or take our own vehicles to tournaments within 300 miles of Evanston , IL. Also , we are allowed to fly , take a bus , or take Amtrak to any tournament we want , no matter how far away it is .",
+  "sentence_index" : 4,
+  "Tokens" : [ "At", "Northwestern", ",", "we", "are", "allowed", "to", "either", "rent", "school", "vans", "for", "no", "charge", "or", "take", "our", "own", "vehicles", "to", "tournaments", "within", "300", "miles", "of", "Evanston", ",", "IL.", "Also", ",", "we", "are", "allowed", "to", "fly", ",", "take", "a", "bus", ",", "or", "take", "Amtrak", "to", "any", "tournament", "we", "want", ",", "no", "matter", "how", "far", "away", "it", "is", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "you other college players",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "college",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E61-135",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R13",
+  "mentionArg1" : {
+    "extent" : "you other college players",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E13-24",
+    "start" : 3,
+    "end" : 6
+  },
+  "id" : "rec.sport.disc_20050209.2202-R13-1",
+  "relationSubType" : "Student-Alum",
+  "Sentence" : "Do any of you other college players face similar restrictions in your travel ?",
+  "sentence_index" : 8,
+  "Tokens" : [ "Do", "any", "of", "you", "other", "college", "players", "face", "similar", "restrictions", "in", "your", "travel", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "your schools",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "your schools",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E14-27",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R14",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E13-33",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "rec.sport.disc_20050209.2202-R14-1",
+  "relationSubType" : "Student-Alum",
+  "Sentence" : "What are your schools ' policies ?",
+  "sentence_index" : 9,
+  "Tokens" : [ "What", "are", "your", "schools", "'", "policies", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "players at public and private schools",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "public and private schools",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E16-30",
+    "start" : 10,
+    "end" : 13
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R15",
+  "mentionArg1" : {
+    "extent" : "players at public and private schools",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E15-29",
+    "start" : 8,
+    "end" : 13
+  },
+  "id" : "rec.sport.disc_20050209.2202-R15-1",
+  "relationSubType" : "Student-Alum",
+  "Sentence" : "I am interested in both the responses of players at public and private schools .",
+  "sentence_index" : 10,
+  "Tokens" : [ "I", "am", "interested", "in", "both", "the", "responses", "of", "players", "at", "public", "and", "private", "schools", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Cesa Northwestern",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Northwestern",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E1-36",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R16",
+  "mentionArg1" : {
+    "extent" : "Cesa",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E18-35",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "rec.sport.disc_20050209.2202-R16-1",
+  "relationSubType" : "Student-Alum",
+  "Sentence" : "Cesa Northwestern d-c ... @ northwestern . edu SeanMcC ... @ gmail . com 9 Feb 2005 19:20:39 - 0800 Re : Club Sports policies at schools ; specifically travel restrictions Man ... you guys have it so sweet .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Cesa", "Northwestern", "d-c", "...", "@", "northwestern", ".", "edu", "SeanMcC", "...", "@", "gmail", ".", "com", "9", "Feb", "2005", "19:20:39", "-", "0800", "Re", ":", "Club", "Sports", "policies", "at", "schools", ";", "specifically", "travel", "restrictions", "Man", "...", "you", "guys", "have", "it", "so", "sweet", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "our flights/rental cars",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "our flights/rental cars",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E28-56",
+    "start" : 3,
+    "end" : 7
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R17",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E10-55",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "rec.sport.disc_20050209.2202-R17-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "We pay for our flights / rental cars out of pocket .",
+  "sentence_index" : 22,
+  "Tokens" : [ "We", "pay", "for", "our", "flights", "/", "rental", "cars", "out", "of", "pocket", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "your school",
+  "sentence_length" : 5,
+  "mentionArg2" : {
+    "extent" : "your school",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E23-60",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R18",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E25-59",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "rec.sport.disc_20050209.2202-R18-1",
+  "relationSubType" : "Student-Alum",
+  "Sentence" : "What is your school's ?",
+  "sentence_index" : 24,
+  "Tokens" : [ "What", "is", "your", "school's", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "At Northwestern, we are allowed to either rent school vans for no charge or take our own vehicles to tournaments within 300 miles of Evanston, IL",
+  "sentence_length" : 57,
+  "mentionArg2" : {
+    "extent" : "Northwestern",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E1-177",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R19",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E10-176",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "rec.sport.disc_20050209.2202-R19-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "At Northwestern , we are allowed to either rent school vans for no charge or take our own vehicles to tournaments within 300 miles of Evanston , IL. Also , we are allowed to fly , take a bus , or take Amtrak to any tournament we want , no matter how far away it is .",
+  "sentence_index" : 4,
+  "Tokens" : [ "At", "Northwestern", ",", "we", "are", "allowed", "to", "either", "rent", "school", "vans", "for", "no", "charge", "or", "take", "our", "own", "vehicles", "to", "tournaments", "within", "300", "miles", "of", "Evanston", ",", "IL.", "Also", ",", "we", "are", "allowed", "to", "fly", ",", "take", "a", "bus", ",", "or", "take", "Amtrak", "to", "any", "tournament", "we", "want", ",", "no", "matter", "how", "far", "away", "it", "is", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "At SUNY Albany in NY, about as state school as you can get, we get about 500 less than what you're talking about at Pitt",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "SUNY Albany",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E30-62",
+    "start" : 25,
+    "end" : 26
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R20",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E35-67",
+    "start" : 39,
+    "end" : 39
+  },
+  "id" : "rec.sport.disc_20050209.2202-R20-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Cesa cots ... @ yahoo . com 9 Feb 2005 19:52:48 - 0800 Re : Club Sports policies at schools ; specifically travel restrictions At SUNY Albany in NY , about as state school as you can get , we get about 500 less than what you 're talking about at Pitt .",
+  "sentence_index" : 26,
+  "Tokens" : [ "Cesa", "cots", "...", "@", "yahoo", ".", "com", "9", "Feb", "2005", "19:52:48", "-", "0800", "Re", ":", "Club", "Sports", "policies", "at", "schools", ";", "specifically", "travel", "restrictions", "At", "SUNY", "Albany", "in", "NY", ",", "about", "as", "state", "school", "as", "you", "can", "get", ",", "we", "get", "about", "500", "less", "than", "what", "you", "'re", "talking", "about", "at", "Pitt", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Our school",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "Our school",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E30-72",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R20",
+  "mentionArg1" : {
+    "extent" : "Our",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E35-71",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "rec.sport.disc_20050209.2202-R20-2",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Our school does n't really care what we do at tournaments or how far away we are .",
+  "sentence_index" : 27,
+  "Tokens" : [ "Our", "school", "does", "n't", "really", "care", "what", "we", "do", "at", "tournaments", "or", "how", "far", "away", "we", "are", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Our school",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Our school",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E30-116",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R20",
+  "mentionArg1" : {
+    "extent" : "Our",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E35-111",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "rec.sport.disc_20050209.2202-R20-3",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Our school did n't like us for a long time , but we behaved ourselves , and very respectfully approached various people , working our way up the ladder , about changing some policies .",
+  "sentence_index" : 37,
+  "Tokens" : [ "Our", "school", "did", "n't", "like", "us", "for", "a", "long", "time", ",", "but", "we", "behaved", "ourselves", ",", "and", "very", "respectfully", "approached", "various", "people", ",", "working", "our", "way", "up", "the", "ladder", ",", "about", "changing", "some", "policies", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "our own cars",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "our own cars",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E36-78",
+    "start" : 2,
+    "end" : 4
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R21",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E35-77",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "rec.sport.disc_20050209.2202-R21-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "We take our own cars to every tournament , even ones down in Maryland .",
+  "sentence_index" : 28,
+  "Tokens" : [ "We", "take", "our", "own", "cars", "to", "every", "tournament", ",", "even", "ones", "down", "in", "Maryland", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "our student association",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E30-145",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R22",
+  "mentionArg1" : {
+    "extent" : "our student association",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E38-82",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "rec.sport.disc_20050209.2202-R22-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The money we get from our student association has to pay for jerseys , is supposed to help us with tournaments , etc. Every tournament our team goes to , we each pay 10-20 bucks out of pocket .",
+  "sentence_index" : 29,
+  "Tokens" : [ "The", "money", "we", "get", "from", "our", "student", "association", "has", "to", "pay", "for", "jerseys", ",", "is", "supposed", "to", "help", "us", "with", "tournaments", ",", "etc.", "Every", "tournament", "our", "team", "goes", "to", ",", "we", "each", "pay", "10-20", "bucks", "out", "of", "pocket", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "If you are an ultimate frisbee team and sleeping in hotels... consider yourself as spoiled as an ultimate team gets in my opinion",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "hotels",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E42-89",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R24",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E40-87",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "rec.sport.disc_20050209.2202-R24-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "If you are an ultimate frisbee team and sleeping in hotels ... consider yourself as spoiled as an ultimate team gets in my opinion .",
+  "sentence_index" : 30,
+  "Tokens" : [ "If", "you", "are", "an", "ultimate", "frisbee", "team", "and", "sleeping", "in", "hotels", "...", "consider", "yourself", "as", "spoiled", "as", "an", "ultimate", "team", "gets", "in", "my", "opinion", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our team",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "our team",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E35-84",
+    "start" : 25,
+    "end" : 26
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R25",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E67-146",
+    "start" : 25,
+    "end" : 25
+  },
+  "id" : "rec.sport.disc_20050209.2202-R25-1",
+  "relationSubType" : "Sports-Affiliation",
+  "Sentence" : "The money we get from our student association has to pay for jerseys , is supposed to help us with tournaments , etc. Every tournament our team goes to , we each pay 10-20 bucks out of pocket .",
+  "sentence_index" : 29,
+  "Tokens" : [ "The", "money", "we", "get", "from", "our", "student", "association", "has", "to", "pay", "for", "jerseys", ",", "is", "supposed", "to", "help", "us", "with", "tournaments", ",", "etc.", "Every", "tournament", "our", "team", "goes", "to", ",", "we", "each", "pay", "10-20", "bucks", "out", "of", "pocket", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our team",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "our team",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E35-102",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R25",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E67-147",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "rec.sport.disc_20050209.2202-R25-2",
+  "relationSubType" : "Sports-Affiliation",
+  "Sentence" : "Regionals 2 years ago , our team and about 7 others could n't afford housing at Princeton so we camped way way out back on the fields and hung out all night .",
+  "sentence_index" : 35,
+  "Tokens" : [ "Regionals", "2", "years", "ago", ",", "our", "team", "and", "about", "7", "others", "could", "n't", "afford", "housing", "at", "Princeton", "so", "we", "camped", "way", "way", "out", "back", "on", "the", "fields", "and", "hung", "out", "all", "night", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Regionals 2 years ago, our team and about 7 others couldn't afford housing at Princeton so we camped way way out back on the fields and hung out all night",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "the fields",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E52-107",
+    "start" : 25,
+    "end" : 26
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R26",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E51-106",
+    "start" : 18,
+    "end" : 18
+  },
+  "id" : "rec.sport.disc_20050209.2202-R26-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Regionals 2 years ago , our team and about 7 others could n't afford housing at Princeton so we camped way way out back on the fields and hung out all night .",
+  "sentence_index" : 35,
+  "Tokens" : [ "Regionals", "2", "years", "ago", ",", "our", "team", "and", "about", "7", "others", "could", "n't", "afford", "housing", "at", "Princeton", "so", "we", "camped", "way", "way", "out", "back", "on", "the", "fields", "and", "hung", "out", "all", "night", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "you northwestern guys",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "northwestern",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E1-163",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R28",
+  "mentionArg1" : {
+    "extent" : "you northwestern guys",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E70-149",
+    "start" : 1,
+    "end" : 3
+  },
+  "id" : "rec.sport.disc_20050209.2202-R28-1",
+  "relationSubType" : "Student-Alum",
+  "Sentence" : "For you northwestern guys , you really need to get in touch with someone at your school that will listen .",
+  "sentence_index" : 36,
+  "Tokens" : [ "For", "you", "northwestern", "guys", ",", "you", "really", "need", "to", "get", "in", "touch", "with", "someone", "at", "your", "school", "that", "will", "listen", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "your school",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "your school",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E1-108",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R28",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E70-152",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "rec.sport.disc_20050209.2202-R28-2",
+  "relationSubType" : "Student-Alum",
+  "Sentence" : "For you northwestern guys , you really need to get in touch with someone at your school that will listen .",
+  "sentence_index" : 36,
+  "Tokens" : [ "For", "you", "northwestern", "guys", ",", "you", "really", "need", "to", "get", "in", "touch", "with", "someone", "at", "your", "school", "that", "will", "listen", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "someone at your school that will listen",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "your school",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E1-108",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R29",
+  "mentionArg1" : {
+    "extent" : "someone at your school that will listen",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E53-109",
+    "start" : 13,
+    "end" : 19
+  },
+  "id" : "rec.sport.disc_20050209.2202-R29-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "For you northwestern guys , you really need to get in touch with someone at your school that will listen .",
+  "sentence_index" : 36,
+  "Tokens" : [ "For", "you", "northwestern", "guys", ",", "you", "really", "need", "to", "get", "in", "touch", "with", "someone", "at", "your", "school", "that", "will", "listen", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "your own cars",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "your own cars",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E3-119",
+    "start" : 8,
+    "end" : 10
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R30",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E70-156",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "rec.sport.disc_20050209.2202-R30-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Explain to them that if you are driving your own cars , you should be able to go wherever you want , and even throw in there if for any reason you bring shame to the university , you will go right back to the old policy no questions asked .",
+  "sentence_index" : 39,
+  "Tokens" : [ "Explain", "to", "them", "that", "if", "you", "are", "driving", "your", "own", "cars", ",", "you", "should", "be", "able", "to", "go", "wherever", "you", "want", ",", "and", "even", "throw", "in", "there", "if", "for", "any", "reason", "you", "bring", "shame", "to", "the", "university", ",", "you", "will", "go", "right", "back", "to", "the", "old", "policy", "no", "questions", "asked", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "A lot of school officials",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "school",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E61-134",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R31",
+  "mentionArg1" : {
+    "extent" : "A lot of school officials",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E63-136",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "rec.sport.disc_20050209.2202-R31-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "A lot of school officials do n't understand how structured ultimate actually is .",
+  "sentence_index" : 44,
+  "Tokens" : [ "A", "lot", "of", "school", "officials", "do", "n't", "understand", "how", "structured", "ultimate", "actually", "is", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "SUNY Albany in NY",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "NY",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E31-63",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "rec.sport.disc_20050209.2202-R32",
+  "mentionArg1" : {
+    "extent" : "SUNY Albany",
+    "argMentionid" : "rec.sport.disc_20050209.2202-E30-62",
+    "start" : 25,
+    "end" : 26
+  },
+  "id" : "rec.sport.disc_20050209.2202-R32-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Cesa cots ... @ yahoo . com 9 Feb 2005 19:52:48 - 0800 Re : Club Sports policies at schools ; specifically travel restrictions At SUNY Albany in NY , about as state school as you can get , we get about 500 less than what you 're talking about at Pitt .",
+  "sentence_index" : 26,
+  "Tokens" : [ "Cesa", "cots", "...", "@", "yahoo", ".", "com", "9", "Feb", "2005", "19:52:48", "-", "0800", "Re", ":", "Club", "Sports", "policies", "at", "schools", ";", "specifically", "travel", "restrictions", "At", "SUNY", "Albany", "in", "NY", ",", "about", "as", "state", "school", "as", "you", "can", "get", ",", "we", "get", "about", "500", "less", "than", "what", "you", "'re", "talking", "about", "at", "Pitt", "." ]
+} ]

@@ -1,0 +1,133 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "our rusty dornin",
+  "sentence_length" : 61,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_ENG_20030516_090022.7-E17-45",
+    "start" : 45,
+    "end" : 45
+  },
+  "relationID" : "CNN_ENG_20030516_090022.7-R1",
+  "mentionArg1" : {
+    "extent" : "our rusty dornin",
+    "argMentionid" : "CNN_ENG_20030516_090022.7-E20-46",
+    "start" : 45,
+    "end" : 47
+  },
+  "id" : "CNN_ENG_20030516_090022.7-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "we are back. it 's been a few days since we had any new developments in the laci peterson case. it appears we do have something to talk about this morning. perhaps a search for some new evidence under way. let 's check in with our rusty dornin , out in modesto , california , with the latest on that .",
+  "sentence_index" : 0,
+  "Tokens" : [ "we", "are", "back.", "it", "'s", "been", "a", "few", "days", "since", "we", "had", "any", "new", "developments", "in", "the", "laci", "peterson", "case.", "it", "appears", "we", "do", "have", "something", "to", "talk", "about", "this", "morning.", "perhaps", "a", "search", "for", "some", "new", "evidence", "under", "way.", "let", "'s", "check", "in", "with", "our", "rusty", "dornin", ",", "out", "in", "modesto", ",", "california", ",", "with", "the", "latest", "on", "that", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "modesto, california",
+  "sentence_length" : 61,
+  "mentionArg2" : {
+    "extent" : "california",
+    "argMentionid" : "CNN_ENG_20030516_090022.7-E22-48",
+    "start" : 53,
+    "end" : 53
+  },
+  "relationID" : "CNN_ENG_20030516_090022.7-R2",
+  "mentionArg1" : {
+    "extent" : "modesto",
+    "argMentionid" : "CNN_ENG_20030516_090022.7-E21-47",
+    "start" : 51,
+    "end" : 51
+  },
+  "id" : "CNN_ENG_20030516_090022.7-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "we are back. it 's been a few days since we had any new developments in the laci peterson case. it appears we do have something to talk about this morning. perhaps a search for some new evidence under way. let 's check in with our rusty dornin , out in modesto , california , with the latest on that .",
+  "sentence_index" : 0,
+  "Tokens" : [ "we", "are", "back.", "it", "'s", "been", "a", "few", "days", "since", "we", "had", "any", "new", "developments", "in", "the", "laci", "peterson", "case.", "it", "appears", "we", "do", "have", "something", "to", "talk", "about", "this", "morning.", "perhaps", "a", "search", "for", "some", "new", "evidence", "under", "way.", "let", "'s", "check", "in", "with", "our", "rusty", "dornin", ",", "out", "in", "modesto", ",", "california", ",", "with", "the", "latest", "on", "that", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "numerous agency r agencies boats with sonar technology",
+  "sentence_length" : 234,
+  "mentionArg2" : {
+    "extent" : "numerous agency r agencies boats with sonar technology",
+    "argMentionid" : "CNN_ENG_20030516_090022.7-E26-54",
+    "start" : 34,
+    "end" : 41
+  },
+  "relationID" : "CNN_ENG_20030516_090022.7-R3",
+  "mentionArg1" : {
+    "extent" : "agency",
+    "argMentionid" : "CNN_ENG_20030516_090022.7-E8-43",
+    "start" : 35,
+    "end" : 35
+  },
+  "id" : "CNN_ENG_20030516_090022.7-R3-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "reporter : we knew it was a matter of time before police got back into the water in san francisco bay looking for more evidence in the laci peterson case. that happened this morning. numerous agency r agencies boats with sonar technology and divers into san francisco bay. they came from the richmond marina as well as the urbuinano island , the coast guard station. it 's being used as a staging area. they are going to be launching a search for what may be left in the bay here now. as you know about a month ago laci peterson 's body washed up right here. an area called point isabelle. right across the channel here is an area known as brooks island. they believe -- police say that is where scott peterson told them that he did go fishing the day that laci peterson did disappear. now , a source close to the investigation has told me that what they are really looking for are concrete anchors or weights which may have parts of laci peterson 's body or clothing or something attached to it. that they did discover a concrete weight in scott peterson 's wearhouse. if it matched , that would be something that could link scott peterson -- it would be like a smoking gun in this case. inevitably they are looking for something linked to laci peterson , whether",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "we", "knew", "it", "was", "a", "matter", "of", "time", "before", "police", "got", "back", "into", "the", "water", "in", "san", "francisco", "bay", "looking", "for", "more", "evidence", "in", "the", "laci", "peterson", "case.", "that", "happened", "this", "morning.", "numerous", "agency", "r", "agencies", "boats", "with", "sonar", "technology", "and", "divers", "into", "san", "francisco", "bay.", "they", "came", "from", "the", "richmond", "marina", "as", "well", "as", "the", "urbuinano", "island", ",", "the", "coast", "guard", "station.", "it", "'s", "being", "used", "as", "a", "staging", "area.", "they", "are", "going", "to", "be", "launching", "a", "search", "for", "what", "may", "be", "left", "in", "the", "bay", "here", "now.", "as", "you", "know", "about", "a", "month", "ago", "laci", "peterson", "'s", "body", "washed", "up", "right", "here.", "an", "area", "called", "point", "isabelle.", "right", "across", "the", "channel", "here", "is", "an", "area", "known", "as", "brooks", "island.", "they", "believe", "--", "police", "say", "that", "is", "where", "scott", "peterson", "told", "them", "that", "he", "did", "go", "fishing", "the", "day", "that", "laci", "peterson", "did", "disappear.", "now", ",", "a", "source", "close", "to", "the", "investigation", "has", "told", "me", "that", "what", "they", "are", "really", "looking", "for", "are", "concrete", "anchors", "or", "weights", "which", "may", "have", "parts", "of", "laci", "peterson", "'s", "body", "or", "clothing", "or", "something", "attached", "to", "it.", "that", "they", "did", "discover", "a", "concrete", "weight", "in", "scott", "peterson", "'s", "wearhouse.", "if", "it", "matched", ",", "that", "would", "be", "something", "that", "could", "link", "scott", "peterson", "--", "it", "would", "be", "like", "a", "smoking", "gun", "in", "this", "case.", "inevitably", "they", "are", "looking", "for", "something", "linked", "to", "laci", "peterson", ",", "whether" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the richmond marina",
+  "sentence_length" : 234,
+  "mentionArg2" : {
+    "extent" : "richmond",
+    "argMentionid" : "CNN_ENG_20030516_090022.7-E2-5",
+    "start" : 52,
+    "end" : 52
+  },
+  "relationID" : "CNN_ENG_20030516_090022.7-R4",
+  "mentionArg1" : {
+    "extent" : "the richmond marina",
+    "argMentionid" : "CNN_ENG_20030516_090022.7-E1-4",
+    "start" : 51,
+    "end" : 53
+  },
+  "id" : "CNN_ENG_20030516_090022.7-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "reporter : we knew it was a matter of time before police got back into the water in san francisco bay looking for more evidence in the laci peterson case. that happened this morning. numerous agency r agencies boats with sonar technology and divers into san francisco bay. they came from the richmond marina as well as the urbuinano island , the coast guard station. it 's being used as a staging area. they are going to be launching a search for what may be left in the bay here now. as you know about a month ago laci peterson 's body washed up right here. an area called point isabelle. right across the channel here is an area known as brooks island. they believe -- police say that is where scott peterson told them that he did go fishing the day that laci peterson did disappear. now , a source close to the investigation has told me that what they are really looking for are concrete anchors or weights which may have parts of laci peterson 's body or clothing or something attached to it. that they did discover a concrete weight in scott peterson 's wearhouse. if it matched , that would be something that could link scott peterson -- it would be like a smoking gun in this case. inevitably they are looking for something linked to laci peterson , whether",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "we", "knew", "it", "was", "a", "matter", "of", "time", "before", "police", "got", "back", "into", "the", "water", "in", "san", "francisco", "bay", "looking", "for", "more", "evidence", "in", "the", "laci", "peterson", "case.", "that", "happened", "this", "morning.", "numerous", "agency", "r", "agencies", "boats", "with", "sonar", "technology", "and", "divers", "into", "san", "francisco", "bay.", "they", "came", "from", "the", "richmond", "marina", "as", "well", "as", "the", "urbuinano", "island", ",", "the", "coast", "guard", "station.", "it", "'s", "being", "used", "as", "a", "staging", "area.", "they", "are", "going", "to", "be", "launching", "a", "search", "for", "what", "may", "be", "left", "in", "the", "bay", "here", "now.", "as", "you", "know", "about", "a", "month", "ago", "laci", "peterson", "'s", "body", "washed", "up", "right", "here.", "an", "area", "called", "point", "isabelle.", "right", "across", "the", "channel", "here", "is", "an", "area", "known", "as", "brooks", "island.", "they", "believe", "--", "police", "say", "that", "is", "where", "scott", "peterson", "told", "them", "that", "he", "did", "go", "fishing", "the", "day", "that", "laci", "peterson", "did", "disappear.", "now", ",", "a", "source", "close", "to", "the", "investigation", "has", "told", "me", "that", "what", "they", "are", "really", "looking", "for", "are", "concrete", "anchors", "or", "weights", "which", "may", "have", "parts", "of", "laci", "peterson", "'s", "body", "or", "clothing", "or", "something", "attached", "to", "it.", "that", "they", "did", "discover", "a", "concrete", "weight", "in", "scott", "peterson", "'s", "wearhouse.", "if", "it", "matched", ",", "that", "would", "be", "something", "that", "could", "link", "scott", "peterson", "--", "it", "would", "be", "like", "a", "smoking", "gun", "in", "this", "case.", "inevitably", "they", "are", "looking", "for", "something", "linked", "to", "laci", "peterson", ",", "whether" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the coast guard station",
+  "sentence_length" : 234,
+  "mentionArg2" : {
+    "extent" : "the coast guard station",
+    "argMentionid" : "CNN_ENG_20030516_090022.7-E4-7",
+    "start" : 61,
+    "end" : 64
+  },
+  "relationID" : "CNN_ENG_20030516_090022.7-R5",
+  "mentionArg1" : {
+    "extent" : "coast guard",
+    "argMentionid" : "CNN_ENG_20030516_090022.7-E5-8",
+    "start" : 62,
+    "end" : 63
+  },
+  "id" : "CNN_ENG_20030516_090022.7-R5-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "reporter : we knew it was a matter of time before police got back into the water in san francisco bay looking for more evidence in the laci peterson case. that happened this morning. numerous agency r agencies boats with sonar technology and divers into san francisco bay. they came from the richmond marina as well as the urbuinano island , the coast guard station. it 's being used as a staging area. they are going to be launching a search for what may be left in the bay here now. as you know about a month ago laci peterson 's body washed up right here. an area called point isabelle. right across the channel here is an area known as brooks island. they believe -- police say that is where scott peterson told them that he did go fishing the day that laci peterson did disappear. now , a source close to the investigation has told me that what they are really looking for are concrete anchors or weights which may have parts of laci peterson 's body or clothing or something attached to it. that they did discover a concrete weight in scott peterson 's wearhouse. if it matched , that would be something that could link scott peterson -- it would be like a smoking gun in this case. inevitably they are looking for something linked to laci peterson , whether",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "we", "knew", "it", "was", "a", "matter", "of", "time", "before", "police", "got", "back", "into", "the", "water", "in", "san", "francisco", "bay", "looking", "for", "more", "evidence", "in", "the", "laci", "peterson", "case.", "that", "happened", "this", "morning.", "numerous", "agency", "r", "agencies", "boats", "with", "sonar", "technology", "and", "divers", "into", "san", "francisco", "bay.", "they", "came", "from", "the", "richmond", "marina", "as", "well", "as", "the", "urbuinano", "island", ",", "the", "coast", "guard", "station.", "it", "'s", "being", "used", "as", "a", "staging", "area.", "they", "are", "going", "to", "be", "launching", "a", "search", "for", "what", "may", "be", "left", "in", "the", "bay", "here", "now.", "as", "you", "know", "about", "a", "month", "ago", "laci", "peterson", "'s", "body", "washed", "up", "right", "here.", "an", "area", "called", "point", "isabelle.", "right", "across", "the", "channel", "here", "is", "an", "area", "known", "as", "brooks", "island.", "they", "believe", "--", "police", "say", "that", "is", "where", "scott", "peterson", "told", "them", "that", "he", "did", "go", "fishing", "the", "day", "that", "laci", "peterson", "did", "disappear.", "now", ",", "a", "source", "close", "to", "the", "investigation", "has", "told", "me", "that", "what", "they", "are", "really", "looking", "for", "are", "concrete", "anchors", "or", "weights", "which", "may", "have", "parts", "of", "laci", "peterson", "'s", "body", "or", "clothing", "or", "something", "attached", "to", "it.", "that", "they", "did", "discover", "a", "concrete", "weight", "in", "scott", "peterson", "'s", "wearhouse.", "if", "it", "matched", ",", "that", "would", "be", "something", "that", "could", "link", "scott", "peterson", "--", "it", "would", "be", "like", "a", "smoking", "gun", "in", "this", "case.", "inevitably", "they", "are", "looking", "for", "something", "linked", "to", "laci", "peterson", ",", "whether" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "scott peterson's wearhouse",
+  "sentence_length" : 234,
+  "mentionArg2" : {
+    "extent" : "scott peterson's wearhouse",
+    "argMentionid" : "CNN_ENG_20030516_090022.7-E15-35",
+    "start" : 194,
+    "end" : 197
+  },
+  "relationID" : "CNN_ENG_20030516_090022.7-R6",
+  "mentionArg1" : {
+    "extent" : "scott peterson's",
+    "argMentionid" : "CNN_ENG_20030516_090022.7-E13-36",
+    "start" : 194,
+    "end" : 196
+  },
+  "id" : "CNN_ENG_20030516_090022.7-R6-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "reporter : we knew it was a matter of time before police got back into the water in san francisco bay looking for more evidence in the laci peterson case. that happened this morning. numerous agency r agencies boats with sonar technology and divers into san francisco bay. they came from the richmond marina as well as the urbuinano island , the coast guard station. it 's being used as a staging area. they are going to be launching a search for what may be left in the bay here now. as you know about a month ago laci peterson 's body washed up right here. an area called point isabelle. right across the channel here is an area known as brooks island. they believe -- police say that is where scott peterson told them that he did go fishing the day that laci peterson did disappear. now , a source close to the investigation has told me that what they are really looking for are concrete anchors or weights which may have parts of laci peterson 's body or clothing or something attached to it. that they did discover a concrete weight in scott peterson 's wearhouse. if it matched , that would be something that could link scott peterson -- it would be like a smoking gun in this case. inevitably they are looking for something linked to laci peterson , whether",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "we", "knew", "it", "was", "a", "matter", "of", "time", "before", "police", "got", "back", "into", "the", "water", "in", "san", "francisco", "bay", "looking", "for", "more", "evidence", "in", "the", "laci", "peterson", "case.", "that", "happened", "this", "morning.", "numerous", "agency", "r", "agencies", "boats", "with", "sonar", "technology", "and", "divers", "into", "san", "francisco", "bay.", "they", "came", "from", "the", "richmond", "marina", "as", "well", "as", "the", "urbuinano", "island", ",", "the", "coast", "guard", "station.", "it", "'s", "being", "used", "as", "a", "staging", "area.", "they", "are", "going", "to", "be", "launching", "a", "search", "for", "what", "may", "be", "left", "in", "the", "bay", "here", "now.", "as", "you", "know", "about", "a", "month", "ago", "laci", "peterson", "'s", "body", "washed", "up", "right", "here.", "an", "area", "called", "point", "isabelle.", "right", "across", "the", "channel", "here", "is", "an", "area", "known", "as", "brooks", "island.", "they", "believe", "--", "police", "say", "that", "is", "where", "scott", "peterson", "told", "them", "that", "he", "did", "go", "fishing", "the", "day", "that", "laci", "peterson", "did", "disappear.", "now", ",", "a", "source", "close", "to", "the", "investigation", "has", "told", "me", "that", "what", "they", "are", "really", "looking", "for", "are", "concrete", "anchors", "or", "weights", "which", "may", "have", "parts", "of", "laci", "peterson", "'s", "body", "or", "clothing", "or", "something", "attached", "to", "it.", "that", "they", "did", "discover", "a", "concrete", "weight", "in", "scott", "peterson", "'s", "wearhouse.", "if", "it", "matched", ",", "that", "would", "be", "something", "that", "could", "link", "scott", "peterson", "--", "it", "would", "be", "like", "a", "smoking", "gun", "in", "this", "case.", "inevitably", "they", "are", "looking", "for", "something", "linked", "to", "laci", "peterson", ",", "whether" ]
+} ]

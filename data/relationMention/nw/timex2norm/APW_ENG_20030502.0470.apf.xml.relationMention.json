@@ -1,0 +1,705 @@
+[ {
+  "relationType" : "ART",
+  "extent" : "An accident on a diesel-powered Chinese submarine has killed all 70 officers and sailors aboard, the official Xinhua News Agency reported Friday",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "a diesel-powered Chinese submarine",
+    "argMentionid" : "APW_ENG_20030502.0470-E2-43",
+    "start" : 7,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030502.0470-R1",
+  "mentionArg1" : {
+    "extent" : "all 70 officers and sailors aboard",
+    "argMentionid" : "APW_ENG_20030502.0470-E73-143",
+    "start" : 13,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030502.0470-R1-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "BEIJING ( AP ) An accident on a diesel-powered Chinese submarine has killed all 70 officers and sailors aboard , the official Xinhua News Agency reported Friday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "BEIJING", "(", "AP", ")", "An", "accident", "on", "a", "diesel-powered", "Chinese", "submarine", "has", "killed", "all", "70", "officers", "and", "sailors", "aboard", ",", "the", "official", "Xinhua", "News", "Agency", "reported", "Friday", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "An accident on a diesel-powered Chinese submarine has killed all 70 officers and sailors aboard, the official Xinhua News Agency reported Friday",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "a diesel-powered Chinese submarine",
+    "argMentionid" : "APW_ENG_20030502.0470-E2-43",
+    "start" : 7,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030502.0470-R2",
+  "mentionArg1" : {
+    "extent" : "all 70 officers and sailors aboard",
+    "argMentionid" : "APW_ENG_20030502.0470-E74-144",
+    "start" : 13,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030502.0470-R2-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "BEIJING ( AP ) An accident on a diesel-powered Chinese submarine has killed all 70 officers and sailors aboard , the official Xinhua News Agency reported Friday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "BEIJING", "(", "AP", ")", "An", "accident", "on", "a", "diesel-powered", "Chinese", "submarine", "has", "killed", "all", "70", "officers", "and", "sailors", "aboard", ",", "the", "official", "Xinhua", "News", "Agency", "reported", "Friday", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "The submarine was on an exercise when the accident occurred, and ``because of a mechanical malfunction, the 70 crew members on board died,'' the Xinhua report said",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "The submarine",
+    "argMentionid" : "APW_ENG_20030502.0470-E2-153",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030502.0470-R3",
+  "mentionArg1" : {
+    "extent" : "the 70 crew members on board",
+    "argMentionid" : "APW_ENG_20030502.0470-E67-154",
+    "start" : 19,
+    "end" : 24
+  },
+  "id" : "APW_ENG_20030502.0470-R3-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The submarine was on an exercise when the accident occurred , and `` because of a mechanical malfunction , the 70 crew members on board died , '' the Xinhua report said .",
+  "sentence_index" : 3,
+  "Tokens" : [ "The", "submarine", "was", "on", "an", "exercise", "when", "the", "accident", "occurred", ",", "and", "``", "because", "of", "a", "mechanical", "malfunction", ",", "the", "70", "crew", "members", "on", "board", "died", ",", "''", "the", "Xinhua", "report", "said", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a diesel-powered Chinese submarine",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "a diesel-powered Chinese submarine",
+    "argMentionid" : "APW_ENG_20030502.0470-E2-43",
+    "start" : 7,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030502.0470-R4",
+  "mentionArg1" : {
+    "extent" : "Chinese",
+    "argMentionid" : "APW_ENG_20030502.0470-E11-119",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030502.0470-R4-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "BEIJING ( AP ) An accident on a diesel-powered Chinese submarine has killed all 70 officers and sailors aboard , the official Xinhua News Agency reported Friday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "BEIJING", "(", "AP", ")", "An", "accident", "on", "a", "diesel-powered", "Chinese", "submarine", "has", "killed", "all", "70", "officers", "and", "sailors", "aboard", ",", "the", "official", "Xinhua", "News", "Agency", "reported", "Friday", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Chinese waters east of the Neichangshan islands",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Chinese",
+    "argMentionid" : "APW_ENG_20030502.0470-E11-147",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030502.0470-R5",
+  "mentionArg1" : {
+    "extent" : "Chinese waters east of the Neichangshan islands",
+    "argMentionid" : "APW_ENG_20030502.0470-E76-146",
+    "start" : 7,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030502.0470-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The accident occurred `` recently '' in Chinese waters east of the Neichangshan islands , the brief Chinese-language report said .",
+  "sentence_index" : 1,
+  "Tokens" : [ "The", "accident", "occurred", "``", "recently", "''", "in", "Chinese", "waters", "east", "of", "the", "Neichangshan", "islands", ",", "the", "brief", "Chinese-language", "report", "said", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Chinese waters east of the Neichangshan islands",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "the Neichangshan islands",
+    "argMentionid" : "APW_ENG_20030502.0470-E78-148",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030502.0470-R6",
+  "mentionArg1" : {
+    "extent" : "Chinese waters east of the Neichangshan islands",
+    "argMentionid" : "APW_ENG_20030502.0470-E76-146",
+    "start" : 7,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030502.0470-R6-1",
+  "relationSubType" : "Near",
+  "Sentence" : "The accident occurred `` recently '' in Chinese waters east of the Neichangshan islands , the brief Chinese-language report said .",
+  "sentence_index" : 1,
+  "Tokens" : [ "The", "accident", "occurred", "``", "recently", "''", "in", "Chinese", "waters", "east", "of", "the", "Neichangshan", "islands", ",", "the", "brief", "Chinese-language", "report", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "The islands are in the Yellow Sea, between the northeastern province of Liaoning and North Korea",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "the Yellow Sea",
+    "argMentionid" : "APW_ENG_20030502.0470-E79-150",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030502.0470-R7",
+  "mentionArg1" : {
+    "extent" : "The islands",
+    "argMentionid" : "APW_ENG_20030502.0470-E78-149",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030502.0470-R7-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The islands are in the Yellow Sea , between the northeastern province of Liaoning and North Korea .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "islands", "are", "in", "the", "Yellow", "Sea", ",", "between", "the", "northeastern", "province", "of", "Liaoning", "and", "North", "Korea", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The islands are in the Yellow Sea, between the northeastern province of Liaoning and North Korea",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "the northeastern province of Liaoning",
+    "argMentionid" : "APW_ENG_20030502.0470-E80-151",
+    "start" : 9,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030502.0470-R8",
+  "mentionArg1" : {
+    "extent" : "the Yellow Sea",
+    "argMentionid" : "APW_ENG_20030502.0470-E79-150",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030502.0470-R8-1",
+  "relationSubType" : "Near",
+  "Sentence" : "The islands are in the Yellow Sea , between the northeastern province of Liaoning and North Korea .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "islands", "are", "in", "the", "Yellow", "Sea", ",", "between", "the", "northeastern", "province", "of", "Liaoning", "and", "North", "Korea", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The islands are in the Yellow Sea, between the northeastern province of Liaoning and North Korea",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "North Korea",
+    "argMentionid" : "APW_ENG_20030502.0470-E81-152",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "APW_ENG_20030502.0470-R9",
+  "mentionArg1" : {
+    "extent" : "the Yellow Sea",
+    "argMentionid" : "APW_ENG_20030502.0470-E79-150",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030502.0470-R9-1",
+  "relationSubType" : "Near",
+  "Sentence" : "The islands are in the Yellow Sea , between the northeastern province of Liaoning and North Korea .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "islands", "are", "in", "the", "Yellow", "Sea", ",", "between", "the", "northeastern", "province", "of", "Liaoning", "and", "North", "Korea", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the U.N. National War College in Washington",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "U.N",
+    "argMentionid" : "APW_ENG_20030502.0470-E28-121",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "APW_ENG_20030502.0470-R10",
+  "mentionArg1" : {
+    "extent" : "the U.N. National War College in Washington",
+    "argMentionid" : "APW_ENG_20030502.0470-E8-16",
+    "start" : 20,
+    "end" : 26
+  },
+  "id" : "APW_ENG_20030502.0470-R10-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "It was the first time China has announced a fatal submarine mishap , said Bernard Cole , a professor at the U.N. National War College in Washington and a specialist on the Chinese navy .",
+  "sentence_index" : 8,
+  "Tokens" : [ "It", "was", "the", "first", "time", "China", "has", "announced", "a", "fatal", "submarine", "mishap", ",", "said", "Bernard", "Cole", ",", "a", "professor", "at", "the", "U.N.", "National", "War", "College", "in", "Washington", "and", "a", "specialist", "on", "the", "Chinese", "navy", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a professor at the U.N. National War College in Washington",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "the U.N. National War College in Washington",
+    "argMentionid" : "APW_ENG_20030502.0470-E8-16",
+    "start" : 20,
+    "end" : 26
+  },
+  "relationID" : "APW_ENG_20030502.0470-R11",
+  "mentionArg1" : {
+    "extent" : "a professor at the U.N. National War College in Washington",
+    "argMentionid" : "APW_ENG_20030502.0470-E3-14",
+    "start" : 17,
+    "end" : 26
+  },
+  "id" : "APW_ENG_20030502.0470-R11-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "It was the first time China has announced a fatal submarine mishap , said Bernard Cole , a professor at the U.N. National War College in Washington and a specialist on the Chinese navy .",
+  "sentence_index" : 8,
+  "Tokens" : [ "It", "was", "the", "first", "time", "China", "has", "announced", "a", "fatal", "submarine", "mishap", ",", "said", "Bernard", "Cole", ",", "a", "professor", "at", "the", "U.N.", "National", "War", "College", "in", "Washington", "and", "a", "specialist", "on", "the", "Chinese", "navy", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the U.N. National War College in Washington",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Washington",
+    "argMentionid" : "APW_ENG_20030502.0470-E9-17",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "APW_ENG_20030502.0470-R12",
+  "mentionArg1" : {
+    "extent" : "the U.N. National War College in Washington",
+    "argMentionid" : "APW_ENG_20030502.0470-E8-16",
+    "start" : 20,
+    "end" : 26
+  },
+  "id" : "APW_ENG_20030502.0470-R12-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "It was the first time China has announced a fatal submarine mishap , said Bernard Cole , a professor at the U.N. National War College in Washington and a specialist on the Chinese navy .",
+  "sentence_index" : 8,
+  "Tokens" : [ "It", "was", "the", "first", "time", "China", "has", "announced", "a", "fatal", "submarine", "mishap", ",", "said", "Bernard", "Cole", ",", "a", "professor", "at", "the", "U.N.", "National", "War", "College", "in", "Washington", "and", "a", "specialist", "on", "the", "Chinese", "navy", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Chinese navy",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Chinese",
+    "argMentionid" : "APW_ENG_20030502.0470-E11-19",
+    "start" : 32,
+    "end" : 32
+  },
+  "relationID" : "APW_ENG_20030502.0470-R13",
+  "mentionArg1" : {
+    "extent" : "the Chinese navy",
+    "argMentionid" : "APW_ENG_20030502.0470-E10-18",
+    "start" : 31,
+    "end" : 33
+  },
+  "id" : "APW_ENG_20030502.0470-R13-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "It was the first time China has announced a fatal submarine mishap , said Bernard Cole , a professor at the U.N. National War College in Washington and a specialist on the Chinese navy .",
+  "sentence_index" : 8,
+  "Tokens" : [ "It", "was", "the", "first", "time", "China", "has", "announced", "a", "fatal", "submarine", "mishap", ",", "said", "Bernard", "Cole", ",", "a", "professor", "at", "the", "U.N.", "National", "War", "College", "in", "Washington", "and", "a", "specialist", "on", "the", "Chinese", "navy", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Chinese navy",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Chinese",
+    "argMentionid" : "APW_ENG_20030502.0470-E11-35",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030502.0470-R13",
+  "mentionArg1" : {
+    "extent" : "the Chinese navy",
+    "argMentionid" : "APW_ENG_20030502.0470-E10-34",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030502.0470-R13-2",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Michael McGinty , an expert on the Chinese navy from the Royal United Services Institute for Defense Studies in London , said that the mishap likely happened while the submarine was on the surface .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Michael", "McGinty", ",", "an", "expert", "on", "the", "Chinese", "navy", "from", "the", "Royal", "United", "Services", "Institute", "for", "Defense", "Studies", "in", "London", ",", "said", "that", "the", "mishap", "likely", "happened", "while", "the", "submarine", "was", "on", "the", "surface", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Chinese navy",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "Chinese",
+    "argMentionid" : "APW_ENG_20030502.0470-E11-98",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030502.0470-R13",
+  "mentionArg1" : {
+    "extent" : "the Chinese navy",
+    "argMentionid" : "APW_ENG_20030502.0470-E10-97",
+    "start" : 10,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030502.0470-R13-3",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "`` The submarine force is the most potent part of the Chinese navy , '' said Cole .",
+  "sentence_index" : 29,
+  "Tokens" : [ "``", "The", "submarine", "force", "is", "the", "most", "potent", "part", "of", "the", "Chinese", "navy", ",", "''", "said", "Cole", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "China's military, which has a tradition of secrecy",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "China",
+    "argMentionid" : "APW_ENG_20030502.0470-E11-24",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030502.0470-R14",
+  "mentionArg1" : {
+    "extent" : "China's military, which has a tradition of secrecy",
+    "argMentionid" : "APW_ENG_20030502.0470-E12-23",
+    "start" : 0,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030502.0470-R14-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "China 's military , which has a tradition of secrecy , did not comment about the accident Friday night .",
+  "sentence_index" : 10,
+  "Tokens" : [ "China", "'s", "military", ",", "which", "has", "a", "tradition", "of", "secrecy", ",", "did", "not", "comment", "about", "the", "accident", "Friday", "night", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "China's military",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "China",
+    "argMentionid" : "APW_ENG_20030502.0470-E11-116",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030502.0470-R14",
+  "mentionArg1" : {
+    "extent" : "China's military",
+    "argMentionid" : "APW_ENG_20030502.0470-E12-115",
+    "start" : 15,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030502.0470-R14-2",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Xinhua said former President Jiang Zemin , who is chairman of the commission that runs China 's military , on Friday sent condolences to family members of the crew .",
+  "sentence_index" : 32,
+  "Tokens" : [ "Xinhua", "said", "former", "President", "Jiang", "Zemin", ",", "who", "is", "chairman", "of", "the", "commission", "that", "runs", "China", "'s", "military", ",", "on", "Friday", "sent", "condolences", "to", "family", "members", "of", "the", "crew", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a whole submarine crew",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "submarine",
+    "argMentionid" : "APW_ENG_20030502.0470-E5-28",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "APW_ENG_20030502.0470-R15",
+  "mentionArg1" : {
+    "extent" : "a whole submarine crew",
+    "argMentionid" : "APW_ENG_20030502.0470-E14-26",
+    "start" : 14,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030502.0470-R15-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Foreign military analysts said it would be highly unusual for an accident to kill a whole submarine crew while still allowing the vessel to be recovered .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Foreign", "military", "analysts", "said", "it", "would", "be", "highly", "unusual", "for", "an", "accident", "to", "kill", "a", "whole", "submarine", "crew", "while", "still", "allowing", "the", "vessel", "to", "be", "recovered", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "an expert on the Chinese navy from the Royal United Services Institute for Defense Studies in London",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "the Royal United Services Institute for Defense Studies in London",
+    "argMentionid" : "APW_ENG_20030502.0470-E20-36",
+    "start" : 10,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030502.0470-R17",
+  "mentionArg1" : {
+    "extent" : "an expert on the Chinese navy from the Royal United Services Institute for Defense Studies in London",
+    "argMentionid" : "APW_ENG_20030502.0470-E17-33",
+    "start" : 3,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030502.0470-R17-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Michael McGinty , an expert on the Chinese navy from the Royal United Services Institute for Defense Studies in London , said that the mishap likely happened while the submarine was on the surface .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Michael", "McGinty", ",", "an", "expert", "on", "the", "Chinese", "navy", "from", "the", "Royal", "United", "Services", "Institute", "for", "Defense", "Studies", "in", "London", ",", "said", "that", "the", "mishap", "likely", "happened", "while", "the", "submarine", "was", "on", "the", "surface", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a former British submariner",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "APW_ENG_20030502.0470-E23-47",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "APW_ENG_20030502.0470-R18",
+  "mentionArg1" : {
+    "extent" : "a former British submariner",
+    "argMentionid" : "APW_ENG_20030502.0470-E17-46",
+    "start" : 24,
+    "end" : 27
+  },
+  "id" : "APW_ENG_20030502.0470-R18-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "If the accident happened when the vessel was underwater , it was less likely that China could have recovered it , said McGinty , a former British submariner .",
+  "sentence_index" : 14,
+  "Tokens" : [ "If", "the", "accident", "happened", "when", "the", "vessel", "was", "underwater", ",", "it", "was", "less", "likely", "that", "China", "could", "have", "recovered", "it", ",", "said", "McGinty", ",", "a", "former", "British", "submariner", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "U.S. Navy",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030502.0470-E28-62",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "APW_ENG_20030502.0470-R19",
+  "mentionArg1" : {
+    "extent" : "U.S. Navy",
+    "argMentionid" : "APW_ENG_20030502.0470-E27-61",
+    "start" : 16,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030502.0470-R19-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The accident could have occurred as long ago as March , said Cole , a former U.S. Navy antisubmarine warfare officer .",
+  "sentence_index" : 18,
+  "Tokens" : [ "The", "accident", "could", "have", "occurred", "as", "long", "ago", "as", "March", ",", "said", "Cole", ",", "a", "former", "U.S.", "Navy", "antisubmarine", "warfare", "officer", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a former U.S. Navy antisubmarine warfare officer",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "U.S. Navy",
+    "argMentionid" : "APW_ENG_20030502.0470-E27-61",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030502.0470-R20",
+  "mentionArg1" : {
+    "extent" : "a former U.S. Navy antisubmarine warfare officer",
+    "argMentionid" : "APW_ENG_20030502.0470-E3-60",
+    "start" : 14,
+    "end" : 20
+  },
+  "id" : "APW_ENG_20030502.0470-R20-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "The accident could have occurred as long ago as March , said Cole , a former U.S. Navy antisubmarine warfare officer .",
+  "sentence_index" : 18,
+  "Tokens" : [ "The", "accident", "could", "have", "occurred", "as", "long", "ago", "as", "March", ",", "said", "Cole", ",", "a", "former", "U.S.", "Navy", "antisubmarine", "warfare", "officer", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "China is believed to have as many as 19 Ming-class submarines",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "as many as 19 Ming-class submarines",
+    "argMentionid" : "APW_ENG_20030502.0470-E40-86",
+    "start" : 5,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030502.0470-R21",
+  "mentionArg1" : {
+    "extent" : "China",
+    "argMentionid" : "APW_ENG_20030502.0470-E11-85",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "APW_ENG_20030502.0470-R21-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "China is believed to have as many as 19 Ming-class submarines .",
+  "sentence_index" : 25,
+  "Tokens" : [ "China", "is", "believed", "to", "have", "as", "many", "as", "19", "Ming-class", "submarines", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "China began building the Ming-class subs in the 1970s, and they are obsolete by modern standards, according to the Federation of American Scientists",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "the Ming-class subs",
+    "argMentionid" : "APW_ENG_20030502.0470-E29-76",
+    "start" : 3,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030502.0470-R22",
+  "mentionArg1" : {
+    "extent" : "China",
+    "argMentionid" : "APW_ENG_20030502.0470-E11-75",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "APW_ENG_20030502.0470-R22-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "China began building the Ming-class subs in the 1970s , and they are obsolete by modern standards , according to the Federation of American Scientists .",
+  "sentence_index" : 23,
+  "Tokens" : [ "China", "began", "building", "the", "Ming-class", "subs", "in", "the", "1970s", ",", "and", "they", "are", "obsolete", "by", "modern", "standards", ",", "according", "to", "the", "Federation", "of", "American", "Scientists", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "chairman of the commission that runs China's military",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "the commission that runs China's military",
+    "argMentionid" : "APW_ENG_20030502.0470-E51-113",
+    "start" : 11,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030502.0470-R24",
+  "mentionArg1" : {
+    "extent" : "chairman of the commission that runs China's military",
+    "argMentionid" : "APW_ENG_20030502.0470-E49-112",
+    "start" : 9,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030502.0470-R24-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Xinhua said former President Jiang Zemin , who is chairman of the commission that runs China 's military , on Friday sent condolences to family members of the crew .",
+  "sentence_index" : 32,
+  "Tokens" : [ "Xinhua", "said", "former", "President", "Jiang", "Zemin", ",", "who", "is", "chairman", "of", "the", "commission", "that", "runs", "China", "'s", "military", ",", "on", "Friday", "sent", "condolences", "to", "family", "members", "of", "the", "crew", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Royal United Services Institute for Defense Studies in London",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "London",
+    "argMentionid" : "APW_ENG_20030502.0470-E21-37",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030502.0470-R25",
+  "mentionArg1" : {
+    "extent" : "the Royal United Services Institute for Defense Studies in London",
+    "argMentionid" : "APW_ENG_20030502.0470-E20-36",
+    "start" : 10,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030502.0470-R25-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Michael McGinty , an expert on the Chinese navy from the Royal United Services Institute for Defense Studies in London , said that the mishap likely happened while the submarine was on the surface .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Michael", "McGinty", ",", "an", "expert", "on", "the", "Chinese", "navy", "from", "the", "Royal", "United", "Services", "Institute", "for", "Defense", "Studies", "in", "London", ",", "said", "that", "the", "mishap", "likely", "happened", "while", "the", "submarine", "was", "on", "the", "surface", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "family members of the crew",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "the crew",
+    "argMentionid" : "APW_ENG_20030502.0470-E67-118",
+    "start" : 27,
+    "end" : 28
+  },
+  "relationID" : "APW_ENG_20030502.0470-R27",
+  "mentionArg1" : {
+    "extent" : "family members of the crew",
+    "argMentionid" : "APW_ENG_20030502.0470-E52-117",
+    "start" : 24,
+    "end" : 28
+  },
+  "id" : "APW_ENG_20030502.0470-R27-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Xinhua said former President Jiang Zemin , who is chairman of the commission that runs China 's military , on Friday sent condolences to family members of the crew .",
+  "sentence_index" : 32,
+  "Tokens" : [ "Xinhua", "said", "former", "President", "Jiang", "Zemin", ",", "who", "is", "chairman", "of", "the", "commission", "that", "runs", "China", "'s", "military", ",", "on", "Friday", "sent", "condolences", "to", "family", "members", "of", "the", "crew", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "He said Ming-class subs usually carry a crew of 50, suggesting that the others aboard might have been technicians or staff officers",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Ming-class subs",
+    "argMentionid" : "APW_ENG_20030502.0470-E29-70",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030502.0470-R28",
+  "mentionArg1" : {
+    "extent" : "a crew of 50",
+    "argMentionid" : "APW_ENG_20030502.0470-E30-71",
+    "start" : 6,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030502.0470-R28-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "He said Ming-class subs usually carry a crew of 50 , suggesting that the others aboard might have been technicians or staff officers .",
+  "sentence_index" : 22,
+  "Tokens" : [ "He", "said", "Ming-class", "subs", "usually", "carry", "a", "crew", "of", "50", ",", "suggesting", "that", "the", "others", "aboard", "might", "have", "been", "technicians", "or", "staff", "officers", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "China's submarine fleet",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "China's submarine fleet",
+    "argMentionid" : "APW_ENG_20030502.0470-E42-87",
+    "start" : 0,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030502.0470-R29",
+  "mentionArg1" : {
+    "extent" : "China",
+    "argMentionid" : "APW_ENG_20030502.0470-E11-88",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "APW_ENG_20030502.0470-R29-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "China 's submarine fleet includes 66 boats , most of them aging diesel-electric vessels , McGinty said .",
+  "sentence_index" : 26,
+  "Tokens" : [ "China", "'s", "submarine", "fleet", "includes", "66", "boats", ",", "most", "of", "them", "aging", "diesel-electric", "vessels", ",", "McGinty", "said", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "their fleet",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "their fleet",
+    "argMentionid" : "APW_ENG_20030502.0470-E42-92",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030502.0470-R29",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "APW_ENG_20030502.0470-E11-96",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030502.0470-R29-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "But the Chinese are aggressively updating their fleet with Russian-made Kilo-class diesel-electric subs .",
+  "sentence_index" : 28,
+  "Tokens" : [ "But", "the", "Chinese", "are", "aggressively", "updating", "their", "fleet", "with", "Russian-made", "Kilo-class", "diesel-electric", "subs", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the most potent part of the Chinese navy",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "the most potent part of the Chinese navy",
+    "argMentionid" : "APW_ENG_20030502.0470-E42-123",
+    "start" : 5,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030502.0470-R30",
+  "mentionArg1" : {
+    "extent" : "the Chinese navy",
+    "argMentionid" : "APW_ENG_20030502.0470-E10-97",
+    "start" : 10,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030502.0470-R30-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "`` The submarine force is the most potent part of the Chinese navy , '' said Cole .",
+  "sentence_index" : 29,
+  "Tokens" : [ "``", "The", "submarine", "force", "is", "the", "most", "potent", "part", "of", "the", "Chinese", "navy", ",", "''", "said", "Cole", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Russian-made Kilo-class diesel-electric subs",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "Russian-made Kilo-class diesel-electric subs",
+    "argMentionid" : "APW_ENG_20030502.0470-E43-93",
+    "start" : 9,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030502.0470-R31",
+  "mentionArg1" : {
+    "extent" : "Russian",
+    "argMentionid" : "APW_ENG_20030502.0470-E44-94",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030502.0470-R31-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "But the Chinese are aggressively updating their fleet with Russian-made Kilo-class diesel-electric subs .",
+  "sentence_index" : 28,
+  "Tokens" : [ "But", "the", "Chinese", "are", "aggressively", "updating", "their", "fleet", "with", "Russian-made", "Kilo-class", "diesel-electric", "subs", "." ]
+} ]

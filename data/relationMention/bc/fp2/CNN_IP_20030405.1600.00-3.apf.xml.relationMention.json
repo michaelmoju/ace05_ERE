@@ -1,0 +1,331 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "Soldiers are here to tear down the regime and all it stands for",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E3-4",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-3-R1",
+  "mentionArg1" : {
+    "extent" : "Soldiers",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E40-67",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_IP_20030405.1600.00-3-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Soldiers are here to tear down the regime and all it stands for .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Soldiers", "are", "here", "to", "tear", "down", "the", "regime", "and", "all", "it", "stands", "for", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "his Ba'ath Party",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "his Ba'ath Party",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E8-73",
+    "start" : 12,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-3-R2",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E37-72",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030405.1600.00-3-R2-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "By the time they leave Iraq , they 're determined Saddam and his Ba'ath Party will have bitten the dust .",
+  "sentence_index" : 4,
+  "Tokens" : [ "By", "the", "time", "they", "leave", "Iraq", ",", "they", "'re", "determined", "Saddam", "and", "his", "Ba'ath", "Party", "will", "have", "bitten", "the", "dust", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iraqi hardliners",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E3-7",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-3-R3",
+  "mentionArg1" : {
+    "extent" : "Iraqi hardliners",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E2-6",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030405.1600.00-3-R3-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Checkpoints meant to filter out Iraqi hardliners .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Checkpoints", "meant", "to", "filter", "out", "Iraqi", "hardliners", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the mortars and rockets of the Fedayeen militia",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "the mortars and rockets of the Fedayeen militia",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E4-9",
+    "start" : 12,
+    "end" : 19
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-3-R4",
+  "mentionArg1" : {
+    "extent" : "the Fedayeen militia",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E6-11",
+    "start" : 17,
+    "end" : 19
+  },
+  "id" : "CNN_IP_20030405.1600.00-3-R4-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "( on camera ) : They 're well within striking distance of the mortars and rockets of the Fedayeen militia , but they 're prepared to take that risk to try and persuade the people of Basra that they wo n't desert them , that they 'll stick with this however messy it gets .",
+  "sentence_index" : 7,
+  "Tokens" : [ "(", "on", "camera", ")", ":", "They", "'re", "well", "within", "striking", "distance", "of", "the", "mortars", "and", "rockets", "of", "the", "Fedayeen", "militia", ",", "but", "they", "'re", "prepared", "to", "take", "that", "risk", "to", "try", "and", "persuade", "the", "people", "of", "Basra", "that", "they", "wo", "n't", "desert", "them", ",", "that", "they", "'ll", "stick", "with", "this", "however", "messy", "it", "gets", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the mortars and rockets of the Fedayeen militia",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "the mortars and rockets of the Fedayeen militia",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E5-10",
+    "start" : 12,
+    "end" : 19
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-3-R5",
+  "mentionArg1" : {
+    "extent" : "the Fedayeen militia",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E6-11",
+    "start" : 17,
+    "end" : 19
+  },
+  "id" : "CNN_IP_20030405.1600.00-3-R5-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "( on camera ) : They 're well within striking distance of the mortars and rockets of the Fedayeen militia , but they 're prepared to take that risk to try and persuade the people of Basra that they wo n't desert them , that they 'll stick with this however messy it gets .",
+  "sentence_index" : 7,
+  "Tokens" : [ "(", "on", "camera", ")", ":", "They", "'re", "well", "within", "striking", "distance", "of", "the", "mortars", "and", "rockets", "of", "the", "Fedayeen", "militia", ",", "but", "they", "'re", "prepared", "to", "take", "that", "risk", "to", "try", "and", "persuade", "the", "people", "of", "Basra", "that", "they", "wo", "n't", "desert", "them", ",", "that", "they", "'ll", "stick", "with", "this", "however", "messy", "it", "gets", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the homes of Ba'ath Party officials and Fedayeen militia",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "the homes of Ba'ath Party officials and Fedayeen militia",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E9-20",
+    "start" : 7,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-3-R6",
+  "mentionArg1" : {
+    "extent" : "Ba'ath Party officials",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E10-21",
+    "start" : 10,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030405.1600.00-3-R6-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "BREMNER We watched a nighttime raid on the homes of Ba'ath Party officials and Fedayeen militia .",
+  "sentence_index" : 10,
+  "Tokens" : [ "BREMNER", "We", "watched", "a", "nighttime", "raid", "on", "the", "homes", "of", "Ba'ath", "Party", "officials", "and", "Fedayeen", "militia", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the homes of Ba'ath Party officials and Fedayeen militia",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "the homes of Ba'ath Party officials and Fedayeen militia",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E9-20",
+    "start" : 7,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-3-R7",
+  "mentionArg1" : {
+    "extent" : "Fedayeen militia",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E11-22",
+    "start" : 14,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030405.1600.00-3-R7-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "BREMNER We watched a nighttime raid on the homes of Ba'ath Party officials and Fedayeen militia .",
+  "sentence_index" : 10,
+  "Tokens" : [ "BREMNER", "We", "watched", "a", "nighttime", "raid", "on", "the", "homes", "of", "Ba'ath", "Party", "officials", "and", "Fedayeen", "militia", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Ba'ath Party officials",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Ba'ath Party",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E8-19",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-3-R8",
+  "mentionArg1" : {
+    "extent" : "Ba'ath Party officials",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E10-21",
+    "start" : 10,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030405.1600.00-3-R8-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "BREMNER We watched a nighttime raid on the homes of Ba'ath Party officials and Fedayeen militia .",
+  "sentence_index" : 10,
+  "Tokens" : [ "BREMNER", "We", "watched", "a", "nighttime", "raid", "on", "the", "homes", "of", "Ba'ath", "Party", "officials", "and", "Fedayeen", "militia", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In two small communities, we witnessed more than 70 people being rounded up",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "two small communities",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E18-30",
+    "start" : 1,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-3-R9",
+  "mentionArg1" : {
+    "extent" : "more than 70 people",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E19-32",
+    "start" : 7,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030405.1600.00-3-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In two small communities , we witnessed more than 70 people being rounded up .",
+  "sentence_index" : 15,
+  "Tokens" : [ "In", "two", "small", "communities", ",", "we", "witnessed", "more", "than", "70", "people", "being", "rounded", "up", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In two small communities, we witnessed more than 70 people being rounded up",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "two small communities",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E18-30",
+    "start" : 1,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-3-R10",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E7-31",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "CNN_IP_20030405.1600.00-3-R10-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In two small communities , we witnessed more than 70 people being rounded up .",
+  "sentence_index" : 15,
+  "Tokens" : [ "In", "two", "small", "communities", ",", "we", "witnessed", "more", "than", "70", "people", "being", "rounded", "up", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "their houses",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "their houses",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E23-44",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-3-R11",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E22-43",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030405.1600.00-3-R11-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "We 've been playing warnings to people to stay in their houses , and we 've only lifted those people we 've got very good intelligence on .",
+  "sentence_index" : 21,
+  "Tokens" : [ "We", "'ve", "been", "playing", "warnings", "to", "people", "to", "stay", "in", "their", "houses", ",", "and", "we", "'ve", "only", "lifted", "those", "people", "we", "'ve", "got", "very", "good", "intelligence", "on", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Juliet Bremner in Basra",
+  "sentence_length" : 5,
+  "mentionArg2" : {
+    "extent" : "Basra",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E36-62",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-3-R12",
+  "mentionArg1" : {
+    "extent" : "Juliet Bremner",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E28-51",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030405.1600.00-3-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Juliet Bremner in Basra .",
+  "sentence_index" : 24,
+  "Tokens" : [ "Juliet", "Bremner", "in", "Basra", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "some other British troops in southern Iraq",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "southern Iraq",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E31-54",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-3-R13",
+  "mentionArg1" : {
+    "extent" : "some other British troops in southern Iraq",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E30-53",
+    "start" : 14,
+    "end" : 20
+  },
+  "id" : "CNN_IP_20030405.1600.00-3-R13-1",
+  "relationSubType" : "Located",
+  "Sentence" : "( END VIDEOTAPE ) WOODRUFF Well , there has been a terrible discovery by some other British troops in southern Iraq .",
+  "sentence_index" : 25,
+  "Tokens" : [ "(", "END", "VIDEOTAPE", ")", "WOODRUFF", "Well", ",", "there", "has", "been", "a", "terrible", "discovery", "by", "some", "other", "British", "troops", "in", "southern", "Iraq", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "some other British troops in southern Iraq",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E25-52",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-3-R14",
+  "mentionArg1" : {
+    "extent" : "some other British troops in southern Iraq",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E30-53",
+    "start" : 14,
+    "end" : 20
+  },
+  "id" : "CNN_IP_20030405.1600.00-3-R14-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "( END VIDEOTAPE ) WOODRUFF Well , there has been a terrible discovery by some other British troops in southern Iraq .",
+  "sentence_index" : 25,
+  "Tokens" : [ "(", "END", "VIDEOTAPE", ")", "WOODRUFF", "Well", ",", "there", "has", "been", "a", "terrible", "discovery", "by", "some", "other", "British", "troops", "in", "southern", "Iraq", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Iraqi regime",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E3-57",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-3-R15",
+  "mentionArg1" : {
+    "extent" : "the Iraqi regime",
+    "argMentionid" : "CNN_IP_20030405.1600.00-3-E41-58",
+    "start" : 13,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030405.1600.00-3-R15-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Up next , evidence at a makeshift morgue points to mass executions by the Iraqi regime .",
+  "sentence_index" : 26,
+  "Tokens" : [ "Up", "next", ",", "evidence", "at", "a", "makeshift", "morgue", "points", "to", "mass", "executions", "by", "the", "Iraqi", "regime", "." ]
+} ]

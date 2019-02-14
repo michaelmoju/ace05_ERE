@@ -1,0 +1,45 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "a co-chair of the Commission on the Intelligence Capabilities of the United States Regarding Weapons of Mass Destruction",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "the Commission on the Intelligence Capabilities of the United States Regarding Weapons of Mass Destruction",
+    "argMentionid" : "BACONSREBELLION_20050206.1345-E5-8",
+    "start" : 11,
+    "end" : 25
+  },
+  "relationID" : "BACONSREBELLION_20050206.1345-R1",
+  "mentionArg1" : {
+    "extent" : "a co-chair of the Commission on the Intelligence Capabilities of the United States Regarding Weapons of Mass Destruction",
+    "argMentionid" : "BACONSREBELLION_20050206.1345-E1-7",
+    "start" : 8,
+    "end" : 25
+  },
+  "id" : "BACONSREBELLION_20050206.1345-R1-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Parade magazine reminds us today that he 's a co-chair of the Commission on the Intelligence Capabilities of the United States Regarding Weapons of Mass Destruction .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Parade", "magazine", "reminds", "us", "today", "that", "he", "'s", "a", "co-chair", "of", "the", "Commission", "on", "the", "Intelligence", "Capabilities", "of", "the", "United", "States", "Regarding", "Weapons", "of", "Mass", "Destruction", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Virginia is blessed to have so many respected foreign policy and security policy public servants, past and present",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Virginia",
+    "argMentionid" : "BACONSREBELLION_20050206.1345-E7-13",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "BACONSREBELLION_20050206.1345-R2",
+  "mentionArg1" : {
+    "extent" : "so many respected foreign policy and security policy public servants",
+    "argMentionid" : "BACONSREBELLION_20050206.1345-E8-14",
+    "start" : 5,
+    "end" : 14
+  },
+  "id" : "BACONSREBELLION_20050206.1345-R2-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Virginia is blessed to have so many respected foreign policy and security policy public servants , past and present .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Virginia", "is", "blessed", "to", "have", "so", "many", "respected", "foreign", "policy", "and", "security", "policy", "public", "servants", ",", "past", "and", "present", "." ]
+} ]

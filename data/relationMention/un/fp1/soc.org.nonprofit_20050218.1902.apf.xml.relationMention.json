@@ -1,0 +1,617 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "the state where that person \"lives",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "where",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E39-67",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R1",
+  "mentionArg1" : {
+    "extent" : "that person",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E35-68",
+    "start" : 16,
+    "end" : 17
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R1-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Thus , the laws applying to the corporate person are the laws of the state where that person \" lives \" .",
+  "sentence_index" : 20,
+  "Tokens" : [ "Thus", ",", "the", "laws", "applying", "to", "the", "corporate", "person", "are", "the", "laws", "of", "the", "state", "where", "that", "person", "\"", "lives", "\"", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "your state",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "your state",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E15-140",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R5",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E104-138",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R5-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "If your organization is a charity , you need to check your state law and act very carefully if you are considering paying board members .",
+  "sentence_index" : 39,
+  "Tokens" : [ "If", "your", "organization", "is", "a", "charity", ",", "you", "need", "to", "check", "your", "state", "law", "and", "act", "very", "carefully", "if", "you", "are", "considering", "paying", "board", "members", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "your organization",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "your organization",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E105-170",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R6",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E104-169",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R6-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Nathan Garber Sat , 19 Feb 2005 11:15:48 - 0500 Re : Board Member Compensation Lynn If your organization is a charity , it is generally considered to be inappropriate , and in some jurisdictions , it is illegal to compensate board members for their service .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Nathan", "Garber", "Sat", ",", "19", "Feb", "2005", "11:15:48", "-", "0500", "Re", ":", "Board", "Member", "Compensation", "Lynn", "If", "your", "organization", "is", "a", "charity", ",", "it", "is", "generally", "considered", "to", "be", "inappropriate", ",", "and", "in", "some", "jurisdictions", ",", "it", "is", "illegal", "to", "compensate", "board", "members", "for", "their", "service", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "your organization",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "your organization",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E105-135",
+    "start" : 1,
+    "end" : 2
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R6",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E104-134",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R6-2",
+  "relationSubType" : "Membership",
+  "Sentence" : "If your organization is a charity , you need to check your state law and act very carefully if you are considering paying board members .",
+  "sentence_index" : 39,
+  "Tokens" : [ "If", "your", "organization", "is", "a", "charity", ",", "you", "need", "to", "check", "your", "state", "law", "and", "act", "very", "carefully", "if", "you", "are", "considering", "paying", "board", "members", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "your state and/or country",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "your state and/or country",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E108-178",
+    "start" : 7,
+    "end" : 12
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R7",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E104-177",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R7-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "You should check out the law in your state and / or country .",
+  "sentence_index" : 4,
+  "Tokens" : [ "You", "should", "check", "out", "the", "law", "in", "your", "state", "and", "/", "or", "country", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "your state and/or country",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "your state and/or country",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E1-179",
+    "start" : 7,
+    "end" : 12
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R8",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E104-177",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R8-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "You should check out the law in your state and / or country .",
+  "sentence_index" : 4,
+  "Tokens" : [ "You", "should", "check", "out", "the", "law", "in", "your", "state", "and", "/", "or", "country", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "We are incorporated in Maryland",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Maryland",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E15-23",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R9",
+  "mentionArg1" : {
+    "extent" : "We",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E14-22",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R9-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Nathan lnma Sat , 19 Feb 2005 11:34:54 - 0500 Re : Board Member Compensation We are incorporated in Maryland .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Nathan", "lnma", "Sat", ",", "19", "Feb", "2005", "11:34:54", "-", "0500", "Re", ":", "Board", "Member", "Compensation", "We", "are", "incorporated", "in", "Maryland", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "We are incorporated in Maryland. There are just 5 of us on the board (we are a charity 501(c)(3), although we all live in different states from coast to coast",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "different states",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E19-29",
+    "start" : 48,
+    "end" : 49
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R10",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E16-157",
+    "start" : 44,
+    "end" : 44
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R10-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Nathan lnma Sat , 19 Feb 2005 11:34:54 - 0500 Re : Board Member Compensation We are incorporated in Maryland .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Nathan", "lnma", "Sat", ",", "19", "Feb", "2005", "11:34:54", "-", "0500", "Re", ":", "Board", "Member", "Compensation", "We", "are", "incorporated", "in", "Maryland", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the state in which this board member lives",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "which",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E23-34",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R11",
+  "mentionArg1" : {
+    "extent" : "this board member",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E103-35",
+    "start" : 16,
+    "end" : 18
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R11-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Would I need to check the Maryland law or the law in the state in which this board member lives ?",
+  "sentence_index" : 12,
+  "Tokens" : [ "Would", "I", "need", "to", "check", "the", "Maryland", "law", "or", "the", "law", "in", "the", "state", "in", "which", "this", "board", "member", "lives", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the states (1) in which the organization is incorporated and (2) in which the organization operates",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "which",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E29-45",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R12",
+  "mentionArg1" : {
+    "extent" : "the organization",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E30-46",
+    "start" : 20,
+    "end" : 21
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R12-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "As far as state laws go , you must follow the laws for the states ( 1 ) in which the organization is incorporated and ( 2 ) in which the organization operates .",
+  "sentence_index" : 17,
+  "Tokens" : [ "As", "far", "as", "state", "laws", "go", ",", "you", "must", "follow", "the", "laws", "for", "the", "states", "(", "1", ")", "in", "which", "the", "organization", "is", "incorporated", "and", "(", "2", ")", "in", "which", "the", "organization", "operates", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the states (1) in which the organization is incorporated and (2) in which the organization operates",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "which",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E29-47",
+    "start" : 29,
+    "end" : 29
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R12",
+  "mentionArg1" : {
+    "extent" : "the organization",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E30-48",
+    "start" : 30,
+    "end" : 31
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R12-2",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "As far as state laws go , you must follow the laws for the states ( 1 ) in which the organization is incorporated and ( 2 ) in which the organization operates .",
+  "sentence_index" : 17,
+  "Tokens" : [ "As", "far", "as", "state", "laws", "go", ",", "you", "must", "follow", "the", "laws", "for", "the", "states", "(", "1", ")", "in", "which", "the", "organization", "is", "incorporated", "and", "(", "2", ")", "in", "which", "the", "organization", "operates", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "an organization that is incorporated in Maryland and has its headquarters in Maryland",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Maryland",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E15-51",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R14",
+  "mentionArg1" : {
+    "extent" : "that",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E31-50",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R14-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "For an organization that is incorporated in Maryland and has its headquarters in Maryland , the laws of Maryland apply without regard to the states in which the directors live .",
+  "sentence_index" : 18,
+  "Tokens" : [ "For", "an", "organization", "that", "is", "incorporated", "in", "Maryland", "and", "has", "its", "headquarters", "in", "Maryland", ",", "the", "laws", "of", "Maryland", "apply", "without", "regard", "to", "the", "states", "in", "which", "the", "directors", "live", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "its headquarters",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "its headquarters",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E32-53",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R15",
+  "mentionArg1" : {
+    "extent" : "it",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E31-52",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R15-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "For an organization that is incorporated in Maryland and has its headquarters in Maryland , the laws of Maryland apply without regard to the states in which the directors live .",
+  "sentence_index" : 18,
+  "Tokens" : [ "For", "an", "organization", "that", "is", "incorporated", "in", "Maryland", "and", "has", "its", "headquarters", "in", "Maryland", ",", "the", "laws", "of", "Maryland", "apply", "without", "regard", "to", "the", "states", "in", "which", "the", "directors", "live", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "an organization that is incorporated in Maryland and has its headquarters in Maryland",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Maryland",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E15-54",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R16",
+  "mentionArg1" : {
+    "extent" : "its headquarters",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E32-53",
+    "start" : 10,
+    "end" : 11
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R16-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "For an organization that is incorporated in Maryland and has its headquarters in Maryland , the laws of Maryland apply without regard to the states in which the directors live .",
+  "sentence_index" : 18,
+  "Tokens" : [ "For", "an", "organization", "that", "is", "incorporated", "in", "Maryland", "and", "has", "its", "headquarters", "in", "Maryland", ",", "the", "laws", "of", "Maryland", "apply", "without", "regard", "to", "the", "states", "in", "which", "the", "directors", "live", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the states in which the directors live",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "which",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E33-57",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R17",
+  "mentionArg1" : {
+    "extent" : "the directors",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E34-58",
+    "start" : 27,
+    "end" : 28
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R17-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "For an organization that is incorporated in Maryland and has its headquarters in Maryland , the laws of Maryland apply without regard to the states in which the directors live .",
+  "sentence_index" : 18,
+  "Tokens" : [ "For", "an", "organization", "that", "is", "incorporated", "in", "Maryland", "and", "has", "its", "headquarters", "in", "Maryland", ",", "the", "laws", "of", "Maryland", "apply", "without", "regard", "to", "the", "states", "in", "which", "the", "directors", "live", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the corporeal persons who govern, manage, and operate the corporation",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "the corporation",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E35-63",
+    "start" : 23,
+    "end" : 24
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R18",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E37-62",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R18-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Remember , a corporation is legally a \" person \" , distinct from the corporeal persons who govern , manage , and operate the corporation .",
+  "sentence_index" : 19,
+  "Tokens" : [ "Remember", ",", "a", "corporation", "is", "legally", "a", "\"", "person", "\"", ",", "distinct", "from", "the", "corporeal", "persons", "who", "govern", ",", "manage", ",", "and", "operate", "the", "corporation", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a non-profit in the U.S",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "the U.S",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E49-86",
+    "start" : 30,
+    "end" : 31
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R19",
+  "mentionArg1" : {
+    "extent" : "a non-profit in the U.S",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E48-85",
+    "start" : 27,
+    "end" : 31
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R19-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "lnma Mon , 21 Feb 2005 17:40:01 - 0500 Re : Board Member Compensation Is there anyone who knows of a precedent for this being done for a non-profit in the U.S. ?",
+  "sentence_index" : 26,
+  "Tokens" : [ "lnma", "Mon", ",", "21", "Feb", "2005", "17:40:01", "-", "0500", "Re", ":", "Board", "Member", "Compensation", "Is", "there", "anyone", "who", "knows", "of", "a", "precedent", "for", "this", "being", "done", "for", "a", "non-profit", "in", "the", "U.S.", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "their boards",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "their boards",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E57-94",
+    "start" : 25,
+    "end" : 26
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R20",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E56-93",
+    "start" : 25,
+    "end" : 25
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R20-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Some Head Start agencies , Community Health Centers , and similar nonprofit organizations serving low-income people have a requirement for \" consumer \" representation on their boards .",
+  "sentence_index" : 29,
+  "Tokens" : [ "Some", "Head", "Start", "agencies", ",", "Community", "Health", "Centers", ",", "and", "similar", "nonprofit", "organizations", "serving", "low-income", "people", "have", "a", "requirement", "for", "\"", "consumer", "\"", "representation", "on", "their", "boards", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Sioux Falls, SD",
+  "sentence_length" : 107,
+  "mentionArg2" : {
+    "extent" : "SD",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E100-162",
+    "start" : 29,
+    "end" : 29
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R21",
+  "mentionArg1" : {
+    "extent" : "Sioux Falls, SD",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E99-161",
+    "start" : 26,
+    "end" : 29
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R21-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "anonym ... Mon , 21 Feb 2005 23:03:58 GMT Re : Board Member Compensation Michael L. Wyland Sumption & amp ; Wyland 818 South Hawthorne Avenue Sioux Falls , SD 57104-4537 ( 605 ) 336-0244 ( 605 ) 336-0275 ( FAX ) ( 888 ) 4-SUMPTION ( toll-free ) mich ... @ sumptionandwyland . com -- free e-newsletter sign-up -- new article : \" For CEOs -- Six Characteristics of Good CEO / Board Relationships \" Nathan Garber Tue , 22 Feb 2005 07:48:14 - 0500 Re : Board Member Compensation Actually , it would not be advisable to accept Freddy 's comments at face value .",
+  "sentence_index" : 31,
+  "Tokens" : [ "anonym", "...", "Mon", ",", "21", "Feb", "2005", "23:03:58", "GMT", "Re", ":", "Board", "Member", "Compensation", "Michael", "L.", "Wyland", "Sumption", "&", "amp", ";", "Wyland", "818", "South", "Hawthorne", "Avenue", "Sioux", "Falls", ",", "SD", "57104-4537", "(", "605", ")", "336-0244", "(", "605", ")", "336-0275", "(", "FAX", ")", "(", "888", ")", "4-SUMPTION", "(", "toll-free", ")", "mich", "...", "@", "sumptionandwyland", ".", "com", "--", "free", "e-newsletter", "sign-up", "--", "new", "article", ":", "\"", "For", "CEOs", "--", "Six", "Characteristics", "of", "Good", "CEO", "/", "Board", "Relationships", "\"", "Nathan", "Garber", "Tue", ",", "22", "Feb", "2005", "07:48:14", "-", "0500", "Re", ":", "Board", "Member", "Compensation", "Actually", ",", "it", "would", "not", "be", "advisable", "to", "accept", "Freddy", "'s", "comments", "at", "face", "value", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "directors of charities",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "charities",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E66-103",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R22",
+  "mentionArg1" : {
+    "extent" : "directors of charities",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E65-102",
+    "start" : 15,
+    "end" : 17
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R22-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "It is not acceptable policy and not legal to pay an honorarium or stipend to directors of charities .",
+  "sentence_index" : 32,
+  "Tokens" : [ "It", "is", "not", "acceptable", "policy", "and", "not", "legal", "to", "pay", "an", "honorarium", "or", "stipend", "to", "directors", "of", "charities", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "directors of charities",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "charities",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E66-131",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R22",
+  "mentionArg1" : {
+    "extent" : "directors of charities",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E65-130",
+    "start" : 12,
+    "end" : 14
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R22-2",
+  "relationSubType" : "Membership",
+  "Sentence" : "Donors , funders , and the general public share the view that directors of charities should act gratuitiously .",
+  "sentence_index" : 37,
+  "Tokens" : [ "Donors", ",", "funders", ",", "and", "the", "general", "public", "share", "the", "view", "that", "directors", "of", "charities", "should", "act", "gratuitiously", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Canadian charity",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Canadian",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E41-108",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R23",
+  "mentionArg1" : {
+    "extent" : "Canadian charity",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E69-107",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R23-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "I checked with a lawyer familiar with Canadian charity law , who explained that it is not permitted to remunerate board members of charities for their service as board members .",
+  "sentence_index" : 33,
+  "Tokens" : [ "I", "checked", "with", "a", "lawyer", "familiar", "with", "Canadian", "charity", "law", ",", "who", "explained", "that", "it", "is", "not", "permitted", "to", "remunerate", "board", "members", "of", "charities", "for", "their", "service", "as", "board", "members", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "board members of charities",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "charities",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E66-112",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R24",
+  "mentionArg1" : {
+    "extent" : "board members of charities",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E71-110",
+    "start" : 20,
+    "end" : 23
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R24-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "I checked with a lawyer familiar with Canadian charity law , who explained that it is not permitted to remunerate board members of charities for their service as board members .",
+  "sentence_index" : 33,
+  "Tokens" : [ "I", "checked", "with", "a", "lawyer", "familiar", "with", "Canadian", "charity", "law", ",", "who", "explained", "that", "it", "is", "not", "permitted", "to", "remunerate", "board", "members", "of", "charities", "for", "their", "service", "as", "board", "members", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "board members of charities",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "charities",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E66-126",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R24",
+  "mentionArg1" : {
+    "extent" : "board members of charities",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E71-124",
+    "start" : 3,
+    "end" : 6
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R24-2",
+  "relationSubType" : "Membership",
+  "Sentence" : "Some states permit board members of charities to be compensated , but it is generally not done .",
+  "sentence_index" : 36,
+  "Tokens" : [ "Some", "states", "permit", "board", "members", "of", "charities", "to", "be", "compensated", ",", "but", "it", "is", "generally", "not", "done", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "directors of nonprofit organizations that are not charities",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "nonprofit organizations that are not charities",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E75-117",
+    "start" : 8,
+    "end" : 13
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R25",
+  "mentionArg1" : {
+    "extent" : "directors of nonprofit organizations that are not charities",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E74-116",
+    "start" : 6,
+    "end" : 13
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R25-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "The prohibition does not apply to directors of nonprofit organizations that are not charities .",
+  "sentence_index" : 34,
+  "Tokens" : [ "The", "prohibition", "does", "not", "apply", "to", "directors", "of", "nonprofit", "organizations", "that", "are", "not", "charities", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "someone that works and lives in Canada, and in the non-profit industry",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Canada",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E41-145",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R26",
+  "mentionArg1" : {
+    "extent" : "that",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E87-144",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R26-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Nathan Freddie Newsgroup Tue , 22 Feb 2005 20:47:33 GMT Re : Board Member Compensation Being someone that works and lives in Canada , and in the non-profit industry , it is done , and it is very legal .",
+  "sentence_index" : 40,
+  "Tokens" : [ "Nathan", "Freddie", "Newsgroup", "Tue", ",", "22", "Feb", "2005", "20:47:33", "GMT", "Re", ":", "Board", "Member", "Compensation", "Being", "someone", "that", "works", "and", "lives", "in", "Canada", ",", "and", "in", "the", "non-profit", "industry", ",", "it", "is", "done", ",", "and", "it", "is", "very", "legal", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "someone that works and lives in Canada, and in the non-profit industry",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "the non-profit industry",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E89-147",
+    "start" : 26,
+    "end" : 28
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R27",
+  "mentionArg1" : {
+    "extent" : "that",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E87-144",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R27-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Nathan Freddie Newsgroup Tue , 22 Feb 2005 20:47:33 GMT Re : Board Member Compensation Being someone that works and lives in Canada , and in the non-profit industry , it is done , and it is very legal .",
+  "sentence_index" : 40,
+  "Tokens" : [ "Nathan", "Freddie", "Newsgroup", "Tue", ",", "22", "Feb", "2005", "20:47:33", "GMT", "Re", ":", "Board", "Member", "Compensation", "Being", "someone", "that", "works", "and", "lives", "in", "Canada", ",", "and", "in", "the", "non-profit", "industry", ",", "it", "is", "done", ",", "and", "it", "is", "very", "legal", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "their elected board members",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "their",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E90-152",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "soc.org.nonprofit_20050218.1902-R28",
+  "mentionArg1" : {
+    "extent" : "their elected board members",
+    "argMentionid" : "soc.org.nonprofit_20050218.1902-E92-153",
+    "start" : 14,
+    "end" : 17
+  },
+  "id" : "soc.org.nonprofit_20050218.1902-R28-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Take a look at any of the large student unions , they all pay their elected board members an honorarium , as do many of the large foundations .",
+  "sentence_index" : 41,
+  "Tokens" : [ "Take", "a", "look", "at", "any", "of", "the", "large", "student", "unions", ",", "they", "all", "pay", "their", "elected", "board", "members", "an", "honorarium", ",", "as", "do", "many", "of", "the", "large", "foundations", "." ]
+} ]

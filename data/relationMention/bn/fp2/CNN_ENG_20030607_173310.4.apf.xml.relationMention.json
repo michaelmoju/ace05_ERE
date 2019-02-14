@@ -1,0 +1,177 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "sharon osbourne, ozzy's long time manager, wife and best friend",
+  "sentence_length" : 83,
+  "mentionArg2" : {
+    "extent" : "ozzy",
+    "argMentionid" : "CNN_ENG_20030607_173310.4-E8-96",
+    "start" : 59,
+    "end" : 59
+  },
+  "relationID" : "CNN_ENG_20030607_173310.4-R1",
+  "mentionArg1" : {
+    "extent" : "sharon osbourne",
+    "argMentionid" : "CNN_ENG_20030607_173310.4-E24-94",
+    "start" : 56,
+    "end" : 57
+  },
+  "id" : "CNN_ENG_20030607_173310.4-R1-1",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : with the success of a new television show and last year 's oz-fest tour ready to kick off , things were looking great for ozzy osbourne. he was sober. he was rich and surrounded by a family who loved him but once again , ozzy 's high would hit a low. that july , sharon osbourne , ozzy 's long time manager , wife and best friend , announced to the world that she 'd been diagnosed with colon cancer .",
+  "sentence_index" : 2,
+  "Tokens" : [ "reporter", ":", "with", "the", "success", "of", "a", "new", "television", "show", "and", "last", "year", "'s", "oz-fest", "tour", "ready", "to", "kick", "off", ",", "things", "were", "looking", "great", "for", "ozzy", "osbourne.", "he", "was", "sober.", "he", "was", "rich", "and", "surrounded", "by", "a", "family", "who", "loved", "him", "but", "once", "again", ",", "ozzy", "'s", "high", "would", "hit", "a", "low.", "that", "july", ",", "sharon", "osbourne", ",", "ozzy", "'s", "long", "time", "manager", ",", "wife", "and", "best", "friend", ",", "announced", "to", "the", "world", "that", "she", "'d", "been", "diagnosed", "with", "colon", "cancer", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his wife",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_ENG_20030607_173310.4-E8-106",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "CNN_ENG_20030607_173310.4-R1",
+  "mentionArg1" : {
+    "extent" : "his wife",
+    "argMentionid" : "CNN_ENG_20030607_173310.4-E24-105",
+    "start" : 21,
+    "end" : 22
+  },
+  "id" : "CNN_ENG_20030607_173310.4-R1-2",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : sharon would have to undergo rounds of chemotherapy all summer. ozzy took time off from oz-fest to tend to his wife. ever the rock , sharon faced cancer head on .",
+  "sentence_index" : 4,
+  "Tokens" : [ "reporter", ":", "sharon", "would", "have", "to", "undergo", "rounds", "of", "chemotherapy", "all", "summer.", "ozzy", "took", "time", "off", "from", "oz-fest", "to", "tend", "to", "his", "wife.", "ever", "the", "rock", ",", "sharon", "faced", "cancer", "head", "on", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her husband",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "her husband",
+    "argMentionid" : "CNN_ENG_20030607_173310.4-E8-8",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "CNN_ENG_20030607_173310.4-R1",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_ENG_20030607_173310.4-E24-9",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "CNN_ENG_20030607_173310.4-R1-3",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : even with sharon trying to make things as easy as possible on her husband , he was still a mess. his struggle with sobriety would be tested again .",
+  "sentence_index" : 6,
+  "Tokens" : [ "reporter", ":", "even", "with", "sharon", "trying", "to", "make", "things", "as", "easy", "as", "possible", "on", "her", "husband", ",", "he", "was", "still", "a", "mess.", "his", "struggle", "with", "sobriety", "would", "be", "tested", "again", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "ozzy and sharon",
+  "sentence_length" : 49,
+  "mentionArg2" : {
+    "extent" : "ozzy",
+    "argMentionid" : "CNN_ENG_20030607_173310.4-E8-26",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "CNN_ENG_20030607_173310.4-R1",
+  "mentionArg1" : {
+    "extent" : "sharon",
+    "argMentionid" : "CNN_ENG_20030607_173310.4-E24-27",
+    "start" : 21,
+    "end" : 21
+  },
+  "id" : "CNN_ENG_20030607_173310.4-R1-4",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : and the humor did remain the same. the show came back with a vengeance last fall chronicling ozzy and sharon dealing with cancer and the kids hoping -- coping with new-found celebrity and one of the top rated shows , ratings for the second season slid .",
+  "sentence_index" : 14,
+  "Tokens" : [ "reporter", ":", "and", "the", "humor", "did", "remain", "the", "same.", "the", "show", "came", "back", "with", "a", "vengeance", "last", "fall", "chronicling", "ozzy", "and", "sharon", "dealing", "with", "cancer", "and", "the", "kids", "hoping", "--", "coping", "with", "new-found", "celebrity", "and", "one", "of", "the", "top", "rated", "shows", ",", "ratings", "for", "the", "second", "season", "slid", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my wife",
+  "sentence_length" : 67,
+  "mentionArg2" : {
+    "extent" : "my",
+    "argMentionid" : "CNN_ENG_20030607_173310.4-E8-53",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_ENG_20030607_173310.4-R1",
+  "mentionArg1" : {
+    "extent" : "my wife",
+    "argMentionid" : "CNN_ENG_20030607_173310.4-E24-52",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "CNN_ENG_20030607_173310.4-R1-5",
+  "relationSubType" : "Family",
+  "Sentence" : "i would n't be here now if it was n't for my wife. i always loved my wife but sometimes i do n't like her and sometimes she does n't like me but we love each other. i hate these people that go , we 've been married for 56 years and never had a bad word. they must have been living in a different planet .",
+  "sentence_index" : 21,
+  "Tokens" : [ "i", "would", "n't", "be", "here", "now", "if", "it", "was", "n't", "for", "my", "wife.", "i", "always", "loved", "my", "wife", "but", "sometimes", "i", "do", "n't", "like", "her", "and", "sometimes", "she", "does", "n't", "like", "me", "but", "we", "love", "each", "other.", "i", "hate", "these", "people", "that", "go", ",", "we", "'ve", "been", "married", "for", "56", "years", "and", "never", "had", "a", "bad", "word.", "they", "must", "have", "been", "living", "in", "a", "different", "planet", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his wife",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_ENG_20030607_173310.4-E8-72",
+    "start" : 33,
+    "end" : 33
+  },
+  "relationID" : "CNN_ENG_20030607_173310.4-R1",
+  "mentionArg1" : {
+    "extent" : "his wife",
+    "argMentionid" : "CNN_ENG_20030607_173310.4-E24-73",
+    "start" : 33,
+    "end" : 34
+  },
+  "id" : "CNN_ENG_20030607_173310.4-R1-6",
+  "relationSubType" : "Family",
+  "Sentence" : "ozzy 's not going to like me saying this , but he 's a very tender , gentle man. this is a guy whose world revolves not so much around music as around his wife .",
+  "sentence_index" : 23,
+  "Tokens" : [ "ozzy", "'s", "not", "going", "to", "like", "me", "saying", "this", ",", "but", "he", "'s", "a", "very", "tender", ",", "gentle", "man.", "this", "is", "a", "guy", "whose", "world", "revolves", "not", "so", "much", "around", "music", "as", "around", "his", "wife", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his family",
+  "sentence_length" : 77,
+  "mentionArg2" : {
+    "extent" : "his family",
+    "argMentionid" : "CNN_ENG_20030607_173310.4-E9-36",
+    "start" : 35,
+    "end" : 36
+  },
+  "relationID" : "CNN_ENG_20030607_173310.4-R5",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_ENG_20030607_173310.4-E5-37",
+    "start" : 35,
+    "end" : 35
+  },
+  "id" : "CNN_ENG_20030607_173310.4-R5-1",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : this year , more ups and downs. sharon announced in april that the cancer was in remission. but just weeks after that announcement , son jack entered drug and alcohol rehabilitation in california. his family said that his party life style caught up with him. now , with a third season set to start , will ozzy 's role as a family man change the image in the annuls of heavy metal mad man ?",
+  "sentence_index" : 18,
+  "Tokens" : [ "reporter", ":", "this", "year", ",", "more", "ups", "and", "downs.", "sharon", "announced", "in", "april", "that", "the", "cancer", "was", "in", "remission.", "but", "just", "weeks", "after", "that", "announcement", ",", "son", "jack", "entered", "drug", "and", "alcohol", "rehabilitation", "in", "california.", "his", "family", "said", "that", "his", "party", "life", "style", "caught", "up", "with", "him.", "now", ",", "with", "a", "third", "season", "set", "to", "start", ",", "will", "ozzy", "'s", "role", "as", "a", "family", "man", "change", "the", "image", "in", "the", "annuls", "of", "heavy", "metal", "mad", "man", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the family's loyal following",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "the family's loyal following",
+    "argMentionid" : "CNN_ENG_20030607_173310.4-E19-82",
+    "start" : 20,
+    "end" : 24
+  },
+  "relationID" : "CNN_ENG_20030607_173310.4-R8",
+  "mentionArg1" : {
+    "extent" : "the family",
+    "argMentionid" : "CNN_ENG_20030607_173310.4-E9-83",
+    "start" : 20,
+    "end" : 21
+  },
+  "id" : "CNN_ENG_20030607_173310.4-R8-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "reporter : it 's a tale that continues to unfold. no telling how long the osbourne phenomenon may last but the family 's loyal following will always be screaming for more .",
+  "sentence_index" : 27,
+  "Tokens" : [ "reporter", ":", "it", "'s", "a", "tale", "that", "continues", "to", "unfold.", "no", "telling", "how", "long", "the", "osbourne", "phenomenon", "may", "last", "but", "the", "family", "'s", "loyal", "following", "will", "always", "be", "screaming", "for", "more", "." ]
+} ]

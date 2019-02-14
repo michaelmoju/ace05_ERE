@@ -1,0 +1,463 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "that's bad when they were there and were- and were living and they don't agree with it, you know",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "fsh_29782_2-E14-321",
+    "start" : 29,
+    "end" : 29
+  },
+  "relationID" : "fsh_29782_2-R1",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "fsh_29782_2-E13-326",
+    "start" : 27,
+    "end" : 27
+  },
+  "id" : "fsh_29782_2-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I mean , it 's -- that's- that 's pretty -- B And he- -- That 's bad when , you know- A that 's bad when they were there and were- and were living and they do n't agree with it , you know .",
+  "sentence_index" : 22,
+  "Tokens" : [ "I", "mean", ",", "it", "'s", "--", "that's-", "that", "'s", "pretty", "--", "B", "And", "he-", "--", "That", "'s", "bad", "when", ",", "you", "know-", "A", "that", "'s", "bad", "when", "they", "were", "there", "and", "were-", "and", "were", "living", "and", "they", "do", "n't", "agree", "with", "it", ",", "you", "know", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "You know, you're sending these guys over there and you want them to be at peace of mind, you know, they- you want them to be able to fight, you know",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "fsh_29782_2-E14-281",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "fsh_29782_2-R2",
+  "mentionArg1" : {
+    "extent" : "these guys",
+    "argMentionid" : "fsh_29782_2-E17-100",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "fsh_29782_2-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "You know , you 're sending these guys over there and you want them to be at peace of mind , you know , they- you want them to be able to fight , you know , A That's- -- Eh , yeah .",
+  "sentence_index" : 40,
+  "Tokens" : [ "You", "know", ",", "you", "'re", "sending", "these", "guys", "over", "there", "and", "you", "want", "them", "to", "be", "at", "peace", "of", "mind", ",", "you", "know", ",", "they-", "you", "want", "them", "to", "be", "able", "to", "fight", ",", "you", "know", ",", "A", "That's-", "--", "Eh", ",", "yeah", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "me as a person, if some- if someone came over and was helping me, me as a person whether I was in the military or not, I would be helping and I'd be going around saying, look idiots, stop bomb- you know, I jus",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "the military",
+    "argMentionid" : "fsh_29782_2-E5-190",
+    "start" : 25,
+    "end" : 26
+  },
+  "relationID" : "fsh_29782_2-R3",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29782_2-E29-189",
+    "start" : 22,
+    "end" : 22
+  },
+  "id" : "fsh_29782_2-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "B me as a person , if some- if someone came over and was helping me , me as a person whether I was in the military or not , I would be helping and I 'd be going around saying , look idiots , stop bomb- you know , I jus- A Right .",
+  "sentence_index" : 61,
+  "Tokens" : [ "B", "me", "as", "a", "person", ",", "if", "some-", "if", "someone", "came", "over", "and", "was", "helping", "me", ",", "me", "as", "a", "person", "whether", "I", "was", "in", "the", "military", "or", "not", ",", "I", "would", "be", "helping", "and", "I", "'d", "be", "going", "around", "saying", ",", "look", "idiots", ",", "stop", "bomb-", "you", "know", ",", "I", "jus-", "A", "Right", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Fallujah, Iraq",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "fsh_29782_2-E14-350",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "fsh_29782_2-R4",
+  "mentionArg1" : {
+    "extent" : "Fallujah, Iraq",
+    "argMentionid" : "fsh_29782_2-E39-269",
+    "start" : 12,
+    "end" : 14
+  },
+  "id" : "fsh_29782_2-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "War in Iraq The US is currently engaged in major fighting in Fallujah , Iraq .",
+  "sentence_index" : 1,
+  "Tokens" : [ "War", "in", "Iraq", "The", "US", "is", "currently", "engaged", "in", "major", "fighting", "in", "Fallujah", ",", "Iraq", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Do- do you know of anybody who's over there at all right now",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "fsh_29782_2-E14-363",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "fsh_29782_2-R5",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "fsh_29782_2-E48-310",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "fsh_29782_2-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Do- do you know of anybody who 's over there at all right now ?",
+  "sentence_index" : 8,
+  "Tokens" : [ "Do-", "do", "you", "know", "of", "anybody", "who", "'s", "over", "there", "at", "all", "right", "now", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "my cousin's getting ready to go over there and it just, oh, it just makes me sick",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "fsh_29782_2-E14-5",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "fsh_29782_2-R6",
+  "mentionArg1" : {
+    "extent" : "my cousin",
+    "argMentionid" : "fsh_29782_2-E1-3",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "fsh_29782_2-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "No. A I have -- my cousin's getting ready to go over there and it just , oh , it just makes me sick .",
+  "sentence_index" : 10,
+  "Tokens" : [ "No.", "A", "I", "have", "--", "my", "cousin's", "getting", "ready", "to", "go", "over", "there", "and", "it", "just", ",", "oh", ",", "it", "just", "makes", "me", "sick", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my cousin",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "my cousin",
+    "argMentionid" : "fsh_29782_2-E1-3",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "fsh_29782_2-R7",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29782_2-E46-4",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "fsh_29782_2-R7-1",
+  "relationSubType" : "Family",
+  "Sentence" : "No. A I have -- my cousin's getting ready to go over there and it just , oh , it just makes me sick .",
+  "sentence_index" : 10,
+  "Tokens" : [ "No.", "A", "I", "have", "--", "my", "cousin's", "getting", "ready", "to", "go", "over", "there", "and", "it", "just", ",", "oh", ",", "it", "just", "makes", "me", "sick", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my family",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "my family",
+    "argMentionid" : "fsh_29782_2-E4-15",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "fsh_29782_2-R8",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29782_2-E29-16",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "fsh_29782_2-R8-1",
+  "relationSubType" : "Family",
+  "Sentence" : "I -- like I said , you know , most of my family is A the whole thing .",
+  "sentence_index" : 13,
+  "Tokens" : [ "I", "--", "like", "I", "said", ",", "you", "know", ",", "most", "of", "my", "family", "is", "A", "the", "whole", "thing", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my husband",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "my husband",
+    "argMentionid" : "fsh_29782_2-E6-18",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "fsh_29782_2-R9",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29782_2-E29-19",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "fsh_29782_2-R9-1",
+  "relationSubType" : "Family",
+  "Sentence" : "B military and , uh , you know , it 's funny because my husband was in the marines and he 's all , you know , well , you know , they 're over there doing a duty .",
+  "sentence_index" : 14,
+  "Tokens" : [ "B", "military", "and", ",", "uh", ",", "you", "know", ",", "it", "'s", "funny", "because", "my", "husband", "was", "in", "the", "marines", "and", "he", "'s", "all", ",", "you", "know", ",", "well", ",", "you", "know", ",", "they", "'re", "over", "there", "doing", "a", "duty", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "military and, uh,  you know, it's funny because my husband was in the marines and he's all, you know,  well, you know, they're over there doing a duty",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "the marines",
+    "argMentionid" : "fsh_29782_2-E7-20",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "fsh_29782_2-R10",
+  "mentionArg1" : {
+    "extent" : "my husband",
+    "argMentionid" : "fsh_29782_2-E6-18",
+    "start" : 13,
+    "end" : 14
+  },
+  "id" : "fsh_29782_2-R10-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "B military and , uh , you know , it 's funny because my husband was in the marines and he 's all , you know , well , you know , they 're over there doing a duty .",
+  "sentence_index" : 14,
+  "Tokens" : [ "B", "military", "and", ",", "uh", ",", "you", "know", ",", "it", "'s", "funny", "because", "my", "husband", "was", "in", "the", "marines", "and", "he", "'s", "all", ",", "you", "know", ",", "well", ",", "you", "know", ",", "they", "'re", "over", "there", "doing", "a", "duty", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "But my dad was in the army and he was in Vietnam war and he's like, this is crazy, you know",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the army",
+    "argMentionid" : "fsh_29782_2-E9-27",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "fsh_29782_2-R11",
+  "mentionArg1" : {
+    "extent" : "my dad",
+    "argMentionid" : "fsh_29782_2-E8-25",
+    "start" : 1,
+    "end" : 2
+  },
+  "id" : "fsh_29782_2-R11-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "But my dad was in the army and he was in Vietnam war and he 's like , this is crazy , you know .",
+  "sentence_index" : 15,
+  "Tokens" : [ "But", "my", "dad", "was", "in", "the", "army", "and", "he", "was", "in", "Vietnam", "war", "and", "he", "'s", "like", ",", "this", "is", "crazy", ",", "you", "know", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "But my dad was in the army and he was in Vietnam war and he's like, this is crazy, you know",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Vietnam",
+    "argMentionid" : "fsh_29782_2-E10-30",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "fsh_29782_2-R12",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "fsh_29782_2-E8-28",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "fsh_29782_2-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "But my dad was in the army and he was in Vietnam war and he 's like , this is crazy , you know .",
+  "sentence_index" : 15,
+  "Tokens" : [ "But", "my", "dad", "was", "in", "the", "army", "and", "he", "was", "in", "Vietnam", "war", "and", "he", "'s", "like", ",", "this", "is", "crazy", ",", "you", "know", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my dad",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "my dad",
+    "argMentionid" : "fsh_29782_2-E8-25",
+    "start" : 1,
+    "end" : 2
+  },
+  "relationID" : "fsh_29782_2-R13",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29782_2-E29-26",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "fsh_29782_2-R13-1",
+  "relationSubType" : "Family",
+  "Sentence" : "But my dad was in the army and he was in Vietnam war and he 's like , this is crazy , you know .",
+  "sentence_index" : 15,
+  "Tokens" : [ "But", "my", "dad", "was", "in", "the", "army", "and", "he", "was", "in", "Vietnam", "war", "and", "he", "'s", "like", ",", "this", "is", "crazy", ",", "you", "know", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my dad",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "my dad",
+    "argMentionid" : "fsh_29782_2-E8-38",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "fsh_29782_2-R13",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29782_2-E29-39",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "fsh_29782_2-R13-2",
+  "relationSubType" : "Family",
+  "Sentence" : "B And , um , I mean , I agree with my dad and , you know , if anybody should know it 's someone that fought in a war , you know .",
+  "sentence_index" : 18,
+  "Tokens" : [ "B", "And", ",", "um", ",", "I", "mean", ",", "I", "agree", "with", "my", "dad", "and", ",", "you", "know", ",", "if", "anybody", "should", "know", "it", "'s", "someone", "that", "fought", "in", "a", "war", ",", "you", "know", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my dad",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "my dad",
+    "argMentionid" : "fsh_29782_2-E8-60",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "fsh_29782_2-R13",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29782_2-E29-61",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "fsh_29782_2-R13-3",
+  "relationSubType" : "Family",
+  "Sentence" : "Well , my dad said basically it 's for the money .",
+  "sentence_index" : 25,
+  "Tokens" : [ "Well", ",", "my", "dad", "said", "basically", "it", "'s", "for", "the", "money", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "your friends",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "your friends",
+    "argMentionid" : "fsh_29782_2-E16-64",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "fsh_29782_2-R16",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29782_2-E2-65",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "fsh_29782_2-R16-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "B And and and to me , to let people die because so your friends A Yeah .",
+  "sentence_index" : 28,
+  "Tokens" : [ "B", "And", "and", "and", "to", "me", ",", "to", "let", "people", "die", "because", "so", "your", "friends", "A", "Yeah", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "your politician friends",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "your politician friends",
+    "argMentionid" : "fsh_29782_2-E16-67",
+    "start" : 3,
+    "end" : 5
+  },
+  "relationID" : "fsh_29782_2-R17",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29782_2-E2-68",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29782_2-R17-1",
+  "relationSubType" : "Business",
+  "Sentence" : "B you know your politician friends and whoever other friends can make more money .",
+  "sentence_index" : 29,
+  "Tokens" : [ "B", "you", "know", "your", "politician", "friends", "and", "whoever", "other", "friends", "can", "make", "more", "money", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "these military guys",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "military",
+    "argMentionid" : "fsh_29782_2-E5-268",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "fsh_29782_2-R18",
+  "mentionArg1" : {
+    "extent" : "these military guys",
+    "argMentionid" : "fsh_29782_2-E17-71",
+    "start" : 9,
+    "end" : 11
+  },
+  "id" : "fsh_29782_2-R18-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Yeah , I mean , and and here are these military guys giving their lives , and working hard every day through training and stuff even if there is n't a war , A Exactly .",
+  "sentence_index" : 35,
+  "Tokens" : [ "Yeah", ",", "I", "mean", ",", "and", "and", "here", "are", "these", "military", "guys", "giving", "their", "lives", ",", "and", "working", "hard", "every", "day", "through", "training", "and", "stuff", "even", "if", "there", "is", "n't", "a", "war", ",", "A", "Exactly", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "military people",
+  "sentence_length" : 92,
+  "mentionArg2" : {
+    "extent" : "military",
+    "argMentionid" : "fsh_29782_2-E5-82",
+    "start" : 31,
+    "end" : 31
+  },
+  "relationID" : "fsh_29782_2-R18",
+  "mentionArg1" : {
+    "extent" : "military people",
+    "argMentionid" : "fsh_29782_2-E17-80",
+    "start" : 31,
+    "end" : 32
+  },
+  "id" : "fsh_29782_2-R18-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "B and you 're paying them piss -- because I do n't know if you watch the news a lot , but , uh , like , last summer they showed military people standing on lines for , like , getting food and stuff that they do n't get paid enough -- to where- A Yeah , they said that there were some -- yeah , I s- I saw a story about that where they- where they're- B Yeah , it was , like , on twenty twenty or something .",
+  "sentence_index" : 36,
+  "Tokens" : [ "B", "and", "you", "'re", "paying", "them", "piss", "--", "because", "I", "do", "n't", "know", "if", "you", "watch", "the", "news", "a", "lot", ",", "but", ",", "uh", ",", "like", ",", "last", "summer", "they", "showed", "military", "people", "standing", "on", "lines", "for", ",", "like", ",", "getting", "food", "and", "stuff", "that", "they", "do", "n't", "get", "paid", "enough", "--", "to", "where-", "A", "Yeah", ",", "they", "said", "that", "there", "were", "some", "--", "yeah", ",", "I", "s-", "I", "saw", "a", "story", "about", "that", "where", "they-", "where", "they're-", "B", "Yeah", ",", "it", "was", ",", "like", ",", "on", "twenty", "twenty", "or", "something", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their families",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "their families",
+    "argMentionid" : "fsh_29782_2-E22-112",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "fsh_29782_2-R20",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "fsh_29782_2-E17-111",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "fsh_29782_2-R20-1",
+  "relationSubType" : "Family",
+  "Sentence" : "B and to be able to save their lives and they 're worried about their families .",
+  "sentence_index" : 41,
+  "Tokens" : [ "B", "and", "to", "be", "able", "to", "save", "their", "lives", "and", "they", "'re", "worried", "about", "their", "families", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the average m- Joe Schmo over there",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "fsh_29782_2-E14-202",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "fsh_29782_2-R21",
+  "mentionArg1" : {
+    "extent" : "the average m- Joe Schmo over there",
+    "argMentionid" : "fsh_29782_2-E32-201",
+    "start" : 20,
+    "end" : 26
+  },
+  "id" : "fsh_29782_2-R21-1",
+  "relationSubType" : "Located",
+  "Sentence" : "B uh , instead of -- it- it seems like every time they do a news report there is even the average m- Joe Schmo over there is complaining , you know .",
+  "sentence_index" : 62,
+  "Tokens" : [ "B", "uh", ",", "instead", "of", "--", "it-", "it", "seems", "like", "every", "time", "they", "do", "a", "news", "report", "there", "is", "even", "the", "average", "m-", "Joe", "Schmo", "over", "there", "is", "complaining", ",", "you", "know", "." ]
+} ]

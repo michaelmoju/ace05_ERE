@@ -1,0 +1,331 @@
+[ {
+  "relationType" : "ART",
+  "extent" : "the father, who was piloting the plane, also was rescued, but died late yesterday at the hospital",
+  "sentence_length" : 98,
+  "mentionArg2" : {
+    "extent" : "the plane",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E26-52",
+    "start" : 43,
+    "end" : 44
+  },
+  "relationID" : "CNNHL_ENG_20030304_142751.10-R1",
+  "mentionArg1" : {
+    "extent" : "the father, who was piloting the plane",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E38-50",
+    "start" : 37,
+    "end" : 44
+  },
+  "id" : "CNNHL_ENG_20030304_142751.10-R1-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "the search for a small plane that disappeared sunday in massachusetts has a bittersweet ending. three young boys,ages 2 , 5 and 10 survived and are in critical condition after spending in 18 hours in the cold. the father , who was piloting the plane , also was rescued , but died late yesterday at the hospital. the boys ' mother and two other brothers were killed. officials say the pilot reported ice on the plane and planned to land in massachusetts when the plane left radar. aviators described the scene as they approached it from above .",
+  "sentence_index" : 0,
+  "Tokens" : [ "the", "search", "for", "a", "small", "plane", "that", "disappeared", "sunday", "in", "massachusetts", "has", "a", "bittersweet", "ending.", "three", "young", "boys,ages", "2", ",", "5", "and", "10", "survived", "and", "are", "in", "critical", "condition", "after", "spending", "in", "18", "hours", "in", "the", "cold.", "the", "father", ",", "who", "was", "piloting", "the", "plane", ",", "also", "was", "rescued", ",", "but", "died", "late", "yesterday", "at", "the", "hospital.", "the", "boys", "'", "mother", "and", "two", "other", "brothers", "were", "killed.", "officials", "say", "the", "pilot", "reported", "ice", "on", "the", "plane", "and", "planned", "to", "land", "in", "massachusetts", "when", "the", "plane", "left", "radar.", "aviators", "described", "the", "scene", "as", "they", "approached", "it", "from", "above", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "officials say the pilot reported ice on the plane and planned to land in massachusetts when the plane left radar",
+  "sentence_length" : 98,
+  "mentionArg2" : {
+    "extent" : "the plane",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E26-59",
+    "start" : 74,
+    "end" : 75
+  },
+  "relationID" : "CNNHL_ENG_20030304_142751.10-R1",
+  "mentionArg1" : {
+    "extent" : "the pilot",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E38-58",
+    "start" : 69,
+    "end" : 70
+  },
+  "id" : "CNNHL_ENG_20030304_142751.10-R1-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "the search for a small plane that disappeared sunday in massachusetts has a bittersweet ending. three young boys,ages 2 , 5 and 10 survived and are in critical condition after spending in 18 hours in the cold. the father , who was piloting the plane , also was rescued , but died late yesterday at the hospital. the boys ' mother and two other brothers were killed. officials say the pilot reported ice on the plane and planned to land in massachusetts when the plane left radar. aviators described the scene as they approached it from above .",
+  "sentence_index" : 0,
+  "Tokens" : [ "the", "search", "for", "a", "small", "plane", "that", "disappeared", "sunday", "in", "massachusetts", "has", "a", "bittersweet", "ending.", "three", "young", "boys,ages", "2", ",", "5", "and", "10", "survived", "and", "are", "in", "critical", "condition", "after", "spending", "in", "18", "hours", "in", "the", "cold.", "the", "father", ",", "who", "was", "piloting", "the", "plane", ",", "also", "was", "rescued", ",", "but", "died", "late", "yesterday", "at", "the", "hospital.", "the", "boys", "'", "mother", "and", "two", "other", "brothers", "were", "killed.", "officials", "say", "the", "pilot", "reported", "ice", "on", "the", "plane", "and", "planned", "to", "land", "in", "massachusetts", "when", "the", "plane", "left", "radar.", "aviators", "described", "the", "scene", "as", "they", "approached", "it", "from", "above", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the father, who was piloting the plane, also was rescued, but died late yesterday at the hospital",
+  "sentence_length" : 98,
+  "mentionArg2" : {
+    "extent" : "the hospital",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E39-53",
+    "start" : 55,
+    "end" : 56
+  },
+  "relationID" : "CNNHL_ENG_20030304_142751.10-R2",
+  "mentionArg1" : {
+    "extent" : "the father, who was piloting the plane",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E38-50",
+    "start" : 37,
+    "end" : 44
+  },
+  "id" : "CNNHL_ENG_20030304_142751.10-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "the search for a small plane that disappeared sunday in massachusetts has a bittersweet ending. three young boys,ages 2 , 5 and 10 survived and are in critical condition after spending in 18 hours in the cold. the father , who was piloting the plane , also was rescued , but died late yesterday at the hospital. the boys ' mother and two other brothers were killed. officials say the pilot reported ice on the plane and planned to land in massachusetts when the plane left radar. aviators described the scene as they approached it from above .",
+  "sentence_index" : 0,
+  "Tokens" : [ "the", "search", "for", "a", "small", "plane", "that", "disappeared", "sunday", "in", "massachusetts", "has", "a", "bittersweet", "ending.", "three", "young", "boys,ages", "2", ",", "5", "and", "10", "survived", "and", "are", "in", "critical", "condition", "after", "spending", "in", "18", "hours", "in", "the", "cold.", "the", "father", ",", "who", "was", "piloting", "the", "plane", ",", "also", "was", "rescued", ",", "but", "died", "late", "yesterday", "at", "the", "hospital.", "the", "boys", "'", "mother", "and", "two", "other", "brothers", "were", "killed.", "officials", "say", "the", "pilot", "reported", "ice", "on", "the", "plane", "and", "planned", "to", "land", "in", "massachusetts", "when", "the", "plane", "left", "radar.", "aviators", "described", "the", "scene", "as", "they", "approached", "it", "from", "above", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the boys' mother",
+  "sentence_length" : 98,
+  "mentionArg2" : {
+    "extent" : "the boys' mother",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E40-54",
+    "start" : 57,
+    "end" : 60
+  },
+  "relationID" : "CNNHL_ENG_20030304_142751.10-R3",
+  "mentionArg1" : {
+    "extent" : "the boys",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E37-55",
+    "start" : 57,
+    "end" : 58
+  },
+  "id" : "CNNHL_ENG_20030304_142751.10-R3-1",
+  "relationSubType" : "Family",
+  "Sentence" : "the search for a small plane that disappeared sunday in massachusetts has a bittersweet ending. three young boys,ages 2 , 5 and 10 survived and are in critical condition after spending in 18 hours in the cold. the father , who was piloting the plane , also was rescued , but died late yesterday at the hospital. the boys ' mother and two other brothers were killed. officials say the pilot reported ice on the plane and planned to land in massachusetts when the plane left radar. aviators described the scene as they approached it from above .",
+  "sentence_index" : 0,
+  "Tokens" : [ "the", "search", "for", "a", "small", "plane", "that", "disappeared", "sunday", "in", "massachusetts", "has", "a", "bittersweet", "ending.", "three", "young", "boys,ages", "2", ",", "5", "and", "10", "survived", "and", "are", "in", "critical", "condition", "after", "spending", "in", "18", "hours", "in", "the", "cold.", "the", "father", ",", "who", "was", "piloting", "the", "plane", ",", "also", "was", "rescued", ",", "but", "died", "late", "yesterday", "at", "the", "hospital.", "the", "boys", "'", "mother", "and", "two", "other", "brothers", "were", "killed.", "officials", "say", "the", "pilot", "reported", "ice", "on", "the", "plane", "and", "planned", "to", "land", "in", "massachusetts", "when", "the", "plane", "left", "radar.", "aviators", "described", "the", "scene", "as", "they", "approached", "it", "from", "above", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the boys' mother and two other brothers",
+  "sentence_length" : 98,
+  "mentionArg2" : {
+    "extent" : "two other brothers",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E41-56",
+    "start" : 62,
+    "end" : 64
+  },
+  "relationID" : "CNNHL_ENG_20030304_142751.10-R4",
+  "mentionArg1" : {
+    "extent" : "the boys",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E37-55",
+    "start" : 57,
+    "end" : 58
+  },
+  "id" : "CNNHL_ENG_20030304_142751.10-R4-1",
+  "relationSubType" : "Family",
+  "Sentence" : "the search for a small plane that disappeared sunday in massachusetts has a bittersweet ending. three young boys,ages 2 , 5 and 10 survived and are in critical condition after spending in 18 hours in the cold. the father , who was piloting the plane , also was rescued , but died late yesterday at the hospital. the boys ' mother and two other brothers were killed. officials say the pilot reported ice on the plane and planned to land in massachusetts when the plane left radar. aviators described the scene as they approached it from above .",
+  "sentence_index" : 0,
+  "Tokens" : [ "the", "search", "for", "a", "small", "plane", "that", "disappeared", "sunday", "in", "massachusetts", "has", "a", "bittersweet", "ending.", "three", "young", "boys,ages", "2", ",", "5", "and", "10", "survived", "and", "are", "in", "critical", "condition", "after", "spending", "in", "18", "hours", "in", "the", "cold.", "the", "father", ",", "who", "was", "piloting", "the", "plane", ",", "also", "was", "rescued", ",", "but", "died", "late", "yesterday", "at", "the", "hospital.", "the", "boys", "'", "mother", "and", "two", "other", "brothers", "were", "killed.", "officials", "say", "the", "pilot", "reported", "ice", "on", "the", "plane", "and", "planned", "to", "land", "in", "massachusetts", "when", "the", "plane", "left", "radar.", "aviators", "described", "the", "scene", "as", "they", "approached", "it", "from", "above", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the boys' mother and two other brothers",
+  "sentence_length" : 98,
+  "mentionArg2" : {
+    "extent" : "two other brothers",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E41-56",
+    "start" : 62,
+    "end" : 64
+  },
+  "relationID" : "CNNHL_ENG_20030304_142751.10-R5",
+  "mentionArg1" : {
+    "extent" : "the boys' mother",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E40-54",
+    "start" : 57,
+    "end" : 60
+  },
+  "id" : "CNNHL_ENG_20030304_142751.10-R5-1",
+  "relationSubType" : "Family",
+  "Sentence" : "the search for a small plane that disappeared sunday in massachusetts has a bittersweet ending. three young boys,ages 2 , 5 and 10 survived and are in critical condition after spending in 18 hours in the cold. the father , who was piloting the plane , also was rescued , but died late yesterday at the hospital. the boys ' mother and two other brothers were killed. officials say the pilot reported ice on the plane and planned to land in massachusetts when the plane left radar. aviators described the scene as they approached it from above .",
+  "sentence_index" : 0,
+  "Tokens" : [ "the", "search", "for", "a", "small", "plane", "that", "disappeared", "sunday", "in", "massachusetts", "has", "a", "bittersweet", "ending.", "three", "young", "boys,ages", "2", ",", "5", "and", "10", "survived", "and", "are", "in", "critical", "condition", "after", "spending", "in", "18", "hours", "in", "the", "cold.", "the", "father", ",", "who", "was", "piloting", "the", "plane", ",", "also", "was", "rescued", ",", "but", "died", "late", "yesterday", "at", "the", "hospital.", "the", "boys", "'", "mother", "and", "two", "other", "brothers", "were", "killed.", "officials", "say", "the", "pilot", "reported", "ice", "on", "the", "plane", "and", "planned", "to", "land", "in", "massachusetts", "when", "the", "plane", "left", "radar.", "aviators", "described", "the", "scene", "as", "they", "approached", "it", "from", "above", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "but when we moved in closer and started to scan the area, then i saw the 2-year-old waving from next to the airplane",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "the airplane",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E26-11",
+    "start" : 34,
+    "end" : 35
+  },
+  "relationID" : "CNNHL_ENG_20030304_142751.10-R7",
+  "mentionArg1" : {
+    "extent" : "the 2-year-old",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E5-10",
+    "start" : 28,
+    "end" : 29
+  },
+  "id" : "CNNHL_ENG_20030304_142751.10-R7-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "initially the wreckage was spotted , and there was no person spotted. but when we moved in closer and started to scan the area , then i saw the 2-year-old waving from next to the airplane .",
+  "sentence_index" : 2,
+  "Tokens" : [ "initially", "the", "wreckage", "was", "spotted", ",", "and", "there", "was", "no", "person", "spotted.", "but", "when", "we", "moved", "in", "closer", "and", "started", "to", "scan", "the", "area", ",", "then", "i", "saw", "the", "2-year-old", "waving", "from", "next", "to", "the", "airplane", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the family had been heading to new hampshire from lakeland, florida when their plane went down",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "lakeland, florida",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E8-14",
+    "start" : 9,
+    "end" : 11
+  },
+  "relationID" : "CNNHL_ENG_20030304_142751.10-R8",
+  "mentionArg1" : {
+    "extent" : "the family",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E6-12",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNNHL_ENG_20030304_142751.10-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "the family had been heading to new hampshire from lakeland , florida when their plane went down .",
+  "sentence_index" : 3,
+  "Tokens" : [ "the", "family", "had", "been", "heading", "to", "new", "hampshire", "from", "lakeland", ",", "florida", "when", "their", "plane", "went", "down", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "their plane",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "their plane",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E26-16",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "CNNHL_ENG_20030304_142751.10-R9",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E6-17",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "CNNHL_ENG_20030304_142751.10-R9-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "the family had been heading to new hampshire from lakeland , florida when their plane went down .",
+  "sentence_index" : 3,
+  "Tokens" : [ "the", "family", "had", "been", "heading", "to", "new", "hampshire", "from", "lakeland", ",", "florida", "when", "their", "plane", "went", "down", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "lakeland, florida",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "florida",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E9-15",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNNHL_ENG_20030304_142751.10-R10",
+  "mentionArg1" : {
+    "extent" : "lakeland, florida",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E8-14",
+    "start" : 9,
+    "end" : 11
+  },
+  "id" : "CNNHL_ENG_20030304_142751.10-R10-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "the family had been heading to new hampshire from lakeland , florida when their plane went down .",
+  "sentence_index" : 3,
+  "Tokens" : [ "the", "family", "had", "been", "heading", "to", "new", "hampshire", "from", "lakeland", ",", "florida", "when", "their", "plane", "went", "down", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "valerie morris joins us live from new york with that story",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "new york",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E15-23",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNNHL_ENG_20030304_142751.10-R11",
+  "mentionArg1" : {
+    "extent" : "valerie morris",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E13-21",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNNHL_ENG_20030304_142751.10-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "valerie morris joins us live from new york with that story. valerie ?",
+  "sentence_index" : 5,
+  "Tokens" : [ "valerie", "morris", "joins", "us", "live", "from", "new", "york", "with", "that", "story.", "valerie", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "government and non-profit workers",
+  "sentence_length" : 71,
+  "mentionArg2" : {
+    "extent" : "government",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E20-29",
+    "start" : 39,
+    "end" : 39
+  },
+  "relationID" : "CNNHL_ENG_20030304_142751.10-R12",
+  "mentionArg1" : {
+    "extent" : "government and non-profit workers",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E19-28",
+    "start" : 39,
+    "end" : 42
+  },
+  "id" : "CNNHL_ENG_20030304_142751.10-R12-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "hi , renay , sharon. the pace of job cuts is quickening. the survey by challenger gray and christmas says layoffs rose about 5 % in february. that 's the second straight monthly increase. the ax fell heavily on government and non-profit workers as many state and local governments face severe budget crunches. the u . s. economy has lost more than 2 million jobs in the past two years .",
+  "sentence_index" : 6,
+  "Tokens" : [ "hi", ",", "renay", ",", "sharon.", "the", "pace", "of", "job", "cuts", "is", "quickening.", "the", "survey", "by", "challenger", "gray", "and", "christmas", "says", "layoffs", "rose", "about", "5", "%", "in", "february.", "that", "'s", "the", "second", "straight", "monthly", "increase.", "the", "ax", "fell", "heavily", "on", "government", "and", "non-profit", "workers", "as", "many", "state", "and", "local", "governments", "face", "severe", "budget", "crunches.", "the", "u", ".", "s.", "economy", "has", "lost", "more", "than", "2", "million", "jobs", "in", "the", "past", "two", "years", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "government and non-profit workers",
+  "sentence_length" : 71,
+  "mentionArg2" : {
+    "extent" : "non-profit",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E21-30",
+    "start" : 41,
+    "end" : 41
+  },
+  "relationID" : "CNNHL_ENG_20030304_142751.10-R13",
+  "mentionArg1" : {
+    "extent" : "government and non-profit workers",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E19-28",
+    "start" : 39,
+    "end" : 42
+  },
+  "id" : "CNNHL_ENG_20030304_142751.10-R13-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "hi , renay , sharon. the pace of job cuts is quickening. the survey by challenger gray and christmas says layoffs rose about 5 % in february. that 's the second straight monthly increase. the ax fell heavily on government and non-profit workers as many state and local governments face severe budget crunches. the u . s. economy has lost more than 2 million jobs in the past two years .",
+  "sentence_index" : 6,
+  "Tokens" : [ "hi", ",", "renay", ",", "sharon.", "the", "pace", "of", "job", "cuts", "is", "quickening.", "the", "survey", "by", "challenger", "gray", "and", "christmas", "says", "layoffs", "rose", "about", "5", "%", "in", "february.", "that", "'s", "the", "second", "straight", "monthly", "increase.", "the", "ax", "fell", "heavily", "on", "government", "and", "non-profit", "workers", "as", "many", "state", "and", "local", "governments", "face", "severe", "budget", "crunches.", "the", "u", ".", "s.", "economy", "has", "lost", "more", "than", "2", "million", "jobs", "in", "the", "past", "two", "years", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "state and local governments",
+  "sentence_length" : 71,
+  "mentionArg2" : {
+    "extent" : "state",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E23-32",
+    "start" : 45,
+    "end" : 45
+  },
+  "relationID" : "CNNHL_ENG_20030304_142751.10-R14",
+  "mentionArg1" : {
+    "extent" : "state and local governments",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E22-31",
+    "start" : 45,
+    "end" : 48
+  },
+  "id" : "CNNHL_ENG_20030304_142751.10-R14-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "hi , renay , sharon. the pace of job cuts is quickening. the survey by challenger gray and christmas says layoffs rose about 5 % in february. that 's the second straight monthly increase. the ax fell heavily on government and non-profit workers as many state and local governments face severe budget crunches. the u . s. economy has lost more than 2 million jobs in the past two years .",
+  "sentence_index" : 6,
+  "Tokens" : [ "hi", ",", "renay", ",", "sharon.", "the", "pace", "of", "job", "cuts", "is", "quickening.", "the", "survey", "by", "challenger", "gray", "and", "christmas", "says", "layoffs", "rose", "about", "5", "%", "in", "february.", "that", "'s", "the", "second", "straight", "monthly", "increase.", "the", "ax", "fell", "heavily", "on", "government", "and", "non-profit", "workers", "as", "many", "state", "and", "local", "governments", "face", "severe", "budget", "crunches.", "the", "u", ".", "s.", "economy", "has", "lost", "more", "than", "2", "million", "jobs", "in", "the", "past", "two", "years", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "disappointing auto sales are denting the shares of the big three",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "auto",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E33-44",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNNHL_ENG_20030304_142751.10-R15",
+  "mentionArg1" : {
+    "extent" : "the big three",
+    "argMentionid" : "CNNHL_ENG_20030304_142751.10-E34-45",
+    "start" : 12,
+    "end" : 14
+  },
+  "id" : "CNNHL_ENG_20030304_142751.10-R15-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "turning to wall street. disappointing auto sales are denting the shares of the big three. of course there are ongoing fears about terrorism and a war with iraq. the dow has slipped 116 points. the nasdaq is @ down three",
+  "sentence_index" : 8,
+  "Tokens" : [ "turning", "to", "wall", "street.", "disappointing", "auto", "sales", "are", "denting", "the", "shares", "of", "the", "big", "three.", "of", "course", "there", "are", "ongoing", "fears", "about", "terrorism", "and", "a", "war", "with", "iraq.", "the", "dow", "has", "slipped", "116", "points.", "the", "nasdaq", "is", "@", "down", "three" ]
+} ]

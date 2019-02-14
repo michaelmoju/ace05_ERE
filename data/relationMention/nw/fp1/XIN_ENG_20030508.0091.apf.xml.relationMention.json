@@ -1,0 +1,331 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "Officials in Amman",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Amman",
+    "argMentionid" : "XIN_ENG_20030508.0091-E26-44",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "XIN_ENG_20030508.0091-R2",
+  "mentionArg1" : {
+    "extent" : "Officials in Amman",
+    "argMentionid" : "XIN_ENG_20030508.0091-E33-43",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "XIN_ENG_20030508.0091-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Officials in Amman told Times that the new decision shows the safety and security enjoyed by Jordan , a Mideast kingdom neighboring Iraq on the northeast .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Officials", "in", "Amman", "told", "Times", "that", "the", "new", "decision", "shows", "the", "safety", "and", "security", "enjoyed", "by", "Jordan", ",", "a", "Mideast", "kingdom", "neighboring", "Iraq", "on", "the", "northeast", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a Mideast kingdom neighboring Iraq on the northeast",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Mideast",
+    "argMentionid" : "XIN_ENG_20030508.0091-E35-49",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "XIN_ENG_20030508.0091-R3",
+  "mentionArg1" : {
+    "extent" : "a Mideast kingdom neighboring Iraq on the northeast",
+    "argMentionid" : "XIN_ENG_20030508.0091-E28-47",
+    "start" : 18,
+    "end" : 25
+  },
+  "id" : "XIN_ENG_20030508.0091-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Officials in Amman told Times that the new decision shows the safety and security enjoyed by Jordan , a Mideast kingdom neighboring Iraq on the northeast .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Officials", "in", "Amman", "told", "Times", "that", "the", "new", "decision", "shows", "the", "safety", "and", "security", "enjoyed", "by", "Jordan", ",", "a", "Mideast", "kingdom", "neighboring", "Iraq", "on", "the", "northeast", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a Mideast kingdom neighboring Iraq on the northeast",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "XIN_ENG_20030508.0091-E3-50",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "XIN_ENG_20030508.0091-R4",
+  "mentionArg1" : {
+    "extent" : "a Mideast kingdom neighboring Iraq on the northeast",
+    "argMentionid" : "XIN_ENG_20030508.0091-E28-47",
+    "start" : 18,
+    "end" : 25
+  },
+  "id" : "XIN_ENG_20030508.0091-R4-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Officials in Amman told Times that the new decision shows the safety and security enjoyed by Jordan , a Mideast kingdom neighboring Iraq on the northeast .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Officials", "in", "Amman", "told", "Times", "that", "the", "new", "decision", "shows", "the", "safety", "and", "security", "enjoyed", "by", "Jordan", ",", "a", "Mideast", "kingdom", "neighboring", "Iraq", "on", "the", "northeast", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "The US State Department",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "XIN_ENG_20030508.0091-E1-2",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "XIN_ENG_20030508.0091-R5",
+  "mentionArg1" : {
+    "extent" : "The US State Department",
+    "argMentionid" : "XIN_ENG_20030508.0091-E37-51",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "XIN_ENG_20030508.0091-R5-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The US State Department had issued a worldwide caution alerting US citizens to increased potential anti-American violence on March 19 , one day before its military action to disarm Iraqi President Saddam Hussein started .",
+  "sentence_index" : 3,
+  "Tokens" : [ "The", "US", "State", "Department", "had", "issued", "a", "worldwide", "caution", "alerting", "US", "citizens", "to", "increased", "potential", "anti-American", "violence", "on", "March", "19", ",", "one", "day", "before", "its", "military", "action", "to", "disarm", "Iraqi", "President", "Saddam", "Hussein", "started", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the US State Department",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "XIN_ENG_20030508.0091-E1-10",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "XIN_ENG_20030508.0091-R5",
+  "mentionArg1" : {
+    "extent" : "the US State Department",
+    "argMentionid" : "XIN_ENG_20030508.0091-E37-9",
+    "start" : 7,
+    "end" : 10
+  },
+  "id" : "XIN_ENG_20030508.0091-R5-2",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "As early as on Feb. 7 , the US State Department issued a travel warning of increased security risks in Amman , Beirut , Damascus , Jerusalem and Tel Aviv , whereas the White House authorized voluntary departure of dependents and nonessential staff working at US embassies in those countries .",
+  "sentence_index" : 4,
+  "Tokens" : [ "As", "early", "as", "on", "Feb.", "7", ",", "the", "US", "State", "Department", "issued", "a", "travel", "warning", "of", "increased", "security", "risks", "in", "Amman", ",", "Beirut", ",", "Damascus", ",", "Jerusalem", "and", "Tel", "Aviv", ",", "whereas", "the", "White", "House", "authorized", "voluntary", "departure", "of", "dependents", "and", "nonessential", "staff", "working", "at", "US", "embassies", "in", "those", "countries", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iraqi President",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "XIN_ENG_20030508.0091-E3-6",
+    "start" : 29,
+    "end" : 29
+  },
+  "relationID" : "XIN_ENG_20030508.0091-R6",
+  "mentionArg1" : {
+    "extent" : "Iraqi President",
+    "argMentionid" : "XIN_ENG_20030508.0091-E4-8",
+    "start" : 29,
+    "end" : 30
+  },
+  "id" : "XIN_ENG_20030508.0091-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The US State Department had issued a worldwide caution alerting US citizens to increased potential anti-American violence on March 19 , one day before its military action to disarm Iraqi President Saddam Hussein started .",
+  "sentence_index" : 3,
+  "Tokens" : [ "The", "US", "State", "Department", "had", "issued", "a", "worldwide", "caution", "alerting", "US", "citizens", "to", "increased", "potential", "anti-American", "violence", "on", "March", "19", ",", "one", "day", "before", "its", "military", "action", "to", "disarm", "Iraqi", "President", "Saddam", "Hussein", "started", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "nonessential staff working at US embassies in those countries",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "US embassies in those countries",
+    "argMentionid" : "XIN_ENG_20030508.0091-E15-20",
+    "start" : 45,
+    "end" : 49
+  },
+  "relationID" : "XIN_ENG_20030508.0091-R7",
+  "mentionArg1" : {
+    "extent" : "nonessential staff working at US embassies in those countries",
+    "argMentionid" : "XIN_ENG_20030508.0091-E13-18",
+    "start" : 41,
+    "end" : 49
+  },
+  "id" : "XIN_ENG_20030508.0091-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "As early as on Feb. 7 , the US State Department issued a travel warning of increased security risks in Amman , Beirut , Damascus , Jerusalem and Tel Aviv , whereas the White House authorized voluntary departure of dependents and nonessential staff working at US embassies in those countries .",
+  "sentence_index" : 4,
+  "Tokens" : [ "As", "early", "as", "on", "Feb.", "7", ",", "the", "US", "State", "Department", "issued", "a", "travel", "warning", "of", "increased", "security", "risks", "in", "Amman", ",", "Beirut", ",", "Damascus", ",", "Jerusalem", "and", "Tel", "Aviv", ",", "whereas", "the", "White", "House", "authorized", "voluntary", "departure", "of", "dependents", "and", "nonessential", "staff", "working", "at", "US", "embassies", "in", "those", "countries", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "US embassies in those countries",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "XIN_ENG_20030508.0091-E1-19",
+    "start" : 45,
+    "end" : 45
+  },
+  "relationID" : "XIN_ENG_20030508.0091-R8",
+  "mentionArg1" : {
+    "extent" : "US embassies in those countries",
+    "argMentionid" : "XIN_ENG_20030508.0091-E15-20",
+    "start" : 45,
+    "end" : 49
+  },
+  "id" : "XIN_ENG_20030508.0091-R8-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "As early as on Feb. 7 , the US State Department issued a travel warning of increased security risks in Amman , Beirut , Damascus , Jerusalem and Tel Aviv , whereas the White House authorized voluntary departure of dependents and nonessential staff working at US embassies in those countries .",
+  "sentence_index" : 4,
+  "Tokens" : [ "As", "early", "as", "on", "Feb.", "7", ",", "the", "US", "State", "Department", "issued", "a", "travel", "warning", "of", "increased", "security", "risks", "in", "Amman", ",", "Beirut", ",", "Damascus", ",", "Jerusalem", "and", "Tel", "Aviv", ",", "whereas", "the", "White", "House", "authorized", "voluntary", "departure", "of", "dependents", "and", "nonessential", "staff", "working", "at", "US", "embassies", "in", "those", "countries", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "US embassies in those countries",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "those countries",
+    "argMentionid" : "XIN_ENG_20030508.0091-E16-21",
+    "start" : 48,
+    "end" : 49
+  },
+  "relationID" : "XIN_ENG_20030508.0091-R9",
+  "mentionArg1" : {
+    "extent" : "US embassies in those countries",
+    "argMentionid" : "XIN_ENG_20030508.0091-E15-20",
+    "start" : 45,
+    "end" : 49
+  },
+  "id" : "XIN_ENG_20030508.0091-R9-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "As early as on Feb. 7 , the US State Department issued a travel warning of increased security risks in Amman , Beirut , Damascus , Jerusalem and Tel Aviv , whereas the White House authorized voluntary departure of dependents and nonessential staff working at US embassies in those countries .",
+  "sentence_index" : 4,
+  "Tokens" : [ "As", "early", "as", "on", "Feb.", "7", ",", "the", "US", "State", "Department", "issued", "a", "travel", "warning", "of", "increased", "security", "risks", "in", "Amman", ",", "Beirut", ",", "Damascus", ",", "Jerusalem", "and", "Tel", "Aviv", ",", "whereas", "the", "White", "House", "authorized", "voluntary", "departure", "of", "dependents", "and", "nonessential", "staff", "working", "at", "US", "embassies", "in", "those", "countries", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "three Iraqi diplomats alleged to plan to contaminate a water tank used to supply US troops deployed in Jordan",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "XIN_ENG_20030508.0091-E3-24",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "XIN_ENG_20030508.0091-R10",
+  "mentionArg1" : {
+    "extent" : "three Iraqi diplomats alleged to plan to contaminate a water tank used to supply US troops deployed in Jordan",
+    "argMentionid" : "XIN_ENG_20030508.0091-E17-23",
+    "start" : 8,
+    "end" : 26
+  },
+  "id" : "XIN_ENG_20030508.0091-R10-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Late in March , the Jordanian government expelled three Iraqi diplomats alleged to plan to contaminate a water tank used to supply US troops deployed in Jordan .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Late", "in", "March", ",", "the", "Jordanian", "government", "expelled", "three", "Iraqi", "diplomats", "alleged", "to", "plan", "to", "contaminate", "a", "water", "tank", "used", "to", "supply", "US", "troops", "deployed", "in", "Jordan", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "US troops deployed in Jordan",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "XIN_ENG_20030508.0091-E1-26",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "XIN_ENG_20030508.0091-R11",
+  "mentionArg1" : {
+    "extent" : "US troops deployed in Jordan",
+    "argMentionid" : "XIN_ENG_20030508.0091-E19-25",
+    "start" : 22,
+    "end" : 26
+  },
+  "id" : "XIN_ENG_20030508.0091-R11-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Late in March , the Jordanian government expelled three Iraqi diplomats alleged to plan to contaminate a water tank used to supply US troops deployed in Jordan .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Late", "in", "March", ",", "the", "Jordanian", "government", "expelled", "three", "Iraqi", "diplomats", "alleged", "to", "plan", "to", "contaminate", "a", "water", "tank", "used", "to", "supply", "US", "troops", "deployed", "in", "Jordan", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "US troops deployed in Jordan",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Jordan",
+    "argMentionid" : "XIN_ENG_20030508.0091-E28-27",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "XIN_ENG_20030508.0091-R12",
+  "mentionArg1" : {
+    "extent" : "US troops deployed in Jordan",
+    "argMentionid" : "XIN_ENG_20030508.0091-E19-25",
+    "start" : 22,
+    "end" : 26
+  },
+  "id" : "XIN_ENG_20030508.0091-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Late in March , the Jordanian government expelled three Iraqi diplomats alleged to plan to contaminate a water tank used to supply US troops deployed in Jordan .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Late", "in", "March", ",", "the", "Jordanian", "government", "expelled", "three", "Iraqi", "diplomats", "alleged", "to", "plan", "to", "contaminate", "a", "water", "tank", "used", "to", "supply", "US", "troops", "deployed", "in", "Jordan", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a luxury hotel in Amman, where hundreds of Western journalists lived",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Amman",
+    "argMentionid" : "XIN_ENG_20030508.0091-E28-30",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "XIN_ENG_20030508.0091-R13",
+  "mentionArg1" : {
+    "extent" : "a luxury hotel in Amman, where hundreds of Western journalists lived",
+    "argMentionid" : "XIN_ENG_20030508.0091-E22-29",
+    "start" : 15,
+    "end" : 26
+  },
+  "id" : "XIN_ENG_20030508.0091-R13-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "In another security case , several Iraqis were suspiciously involved in a plot to bomb a luxury hotel in Amman , where hundreds of Western journalists lived .",
+  "sentence_index" : 6,
+  "Tokens" : [ "In", "another", "security", "case", ",", "several", "Iraqis", "were", "suspiciously", "involved", "in", "a", "plot", "to", "bomb", "a", "luxury", "hotel", "in", "Amman", ",", "where", "hundreds", "of", "Western", "journalists", "lived", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In another security case, several Iraqis were suspiciously involved in a plot to bomb a luxury hotel in Amman, where hundreds of Western journalists lived",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "a luxury hotel in Amman, where hundreds of Western journalists lived",
+    "argMentionid" : "XIN_ENG_20030508.0091-E22-29",
+    "start" : 15,
+    "end" : 26
+  },
+  "relationID" : "XIN_ENG_20030508.0091-R14",
+  "mentionArg1" : {
+    "extent" : "hundreds of Western journalists",
+    "argMentionid" : "XIN_ENG_20030508.0091-E23-32",
+    "start" : 22,
+    "end" : 25
+  },
+  "id" : "XIN_ENG_20030508.0091-R14-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In another security case , several Iraqis were suspiciously involved in a plot to bomb a luxury hotel in Amman , where hundreds of Western journalists lived .",
+  "sentence_index" : 6,
+  "Tokens" : [ "In", "another", "security", "case", ",", "several", "Iraqis", "were", "suspiciously", "involved", "in", "a", "plot", "to", "bomb", "a", "luxury", "hotel", "in", "Amman", ",", "where", "hundreds", "of", "Western", "journalists", "lived", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Western journalists",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Western",
+    "argMentionid" : "XIN_ENG_20030508.0091-E25-34",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "XIN_ENG_20030508.0091-R15",
+  "mentionArg1" : {
+    "extent" : "Western journalists",
+    "argMentionid" : "XIN_ENG_20030508.0091-E24-33",
+    "start" : 24,
+    "end" : 25
+  },
+  "id" : "XIN_ENG_20030508.0091-R15-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "In another security case , several Iraqis were suspiciously involved in a plot to bomb a luxury hotel in Amman , where hundreds of Western journalists lived .",
+  "sentence_index" : 6,
+  "Tokens" : [ "In", "another", "security", "case", ",", "several", "Iraqis", "were", "suspiciously", "involved", "in", "a", "plot", "to", "bomb", "a", "luxury", "hotel", "in", "Amman", ",", "where", "hundreds", "of", "Western", "journalists", "lived", "." ]
+} ]

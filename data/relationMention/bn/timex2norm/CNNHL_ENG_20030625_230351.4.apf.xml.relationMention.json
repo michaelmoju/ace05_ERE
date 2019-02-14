@@ -1,0 +1,243 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "saddam hussein's son",
+  "sentence_length" : 121,
+  "mentionArg2" : {
+    "extent" : "saddam hussein's son",
+    "argMentionid" : "CNNHL_ENG_20030625_230351.4-E29-46",
+    "start" : 62,
+    "end" : 64
+  },
+  "relationID" : "CNNHL_ENG_20030625_230351.4-R1",
+  "mentionArg1" : {
+    "extent" : "saddam hussein",
+    "argMentionid" : "CNNHL_ENG_20030625_230351.4-E30-47",
+    "start" : 62,
+    "end" : 63
+  },
+  "id" : "CNNHL_ENG_20030625_230351.4-R1-1",
+  "relationSubType" : "Family",
+  "Sentence" : "we begin tonight with a big story out of iraq. cnn has learned that the cia has obtained critical pieces of nuclear technology in iraq. the parts are essential to developing a nuclear bomb program. they were hidden under a rosebush in the back yard of an iraqi scientist in baghdad. that iraqi scientist hid the components 12 years ago. he said saddam hussein's son , qusay , and his then son-in-law ordered him to do it. he tells cnn he was told to keep the parts hidden so they would be ready when the time came to rebuild iraq 's program. the parts are from a gas centrifuge and can be used for enriching uranium in bomb quality material .",
+  "sentence_index" : 0,
+  "Tokens" : [ "we", "begin", "tonight", "with", "a", "big", "story", "out", "of", "iraq.", "cnn", "has", "learned", "that", "the", "cia", "has", "obtained", "critical", "pieces", "of", "nuclear", "technology", "in", "iraq.", "the", "parts", "are", "essential", "to", "developing", "a", "nuclear", "bomb", "program.", "they", "were", "hidden", "under", "a", "rosebush", "in", "the", "back", "yard", "of", "an", "iraqi", "scientist", "in", "baghdad.", "that", "iraqi", "scientist", "hid", "the", "components", "12", "years", "ago.", "he", "said", "saddam", "hussein's", "son", ",", "qusay", ",", "and", "his", "then", "son-in-law", "ordered", "him", "to", "do", "it.", "he", "tells", "cnn", "he", "was", "told", "to", "keep", "the", "parts", "hidden", "so", "they", "would", "be", "ready", "when", "the", "time", "came", "to", "rebuild", "iraq", "'s", "program.", "the", "parts", "are", "from", "a", "gas", "centrifuge", "and", "can", "be", "used", "for", "enriching", "uranium", "in", "bomb", "quality", "material", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his then son-in-law",
+  "sentence_length" : 121,
+  "mentionArg2" : {
+    "extent" : "his then son-in-law",
+    "argMentionid" : "CNNHL_ENG_20030625_230351.4-E1-50",
+    "start" : 69,
+    "end" : 71
+  },
+  "relationID" : "CNNHL_ENG_20030625_230351.4-R2",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNNHL_ENG_20030625_230351.4-E30-2",
+    "start" : 69,
+    "end" : 69
+  },
+  "id" : "CNNHL_ENG_20030625_230351.4-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "we begin tonight with a big story out of iraq. cnn has learned that the cia has obtained critical pieces of nuclear technology in iraq. the parts are essential to developing a nuclear bomb program. they were hidden under a rosebush in the back yard of an iraqi scientist in baghdad. that iraqi scientist hid the components 12 years ago. he said saddam hussein's son , qusay , and his then son-in-law ordered him to do it. he tells cnn he was told to keep the parts hidden so they would be ready when the time came to rebuild iraq 's program. the parts are from a gas centrifuge and can be used for enriching uranium in bomb quality material .",
+  "sentence_index" : 0,
+  "Tokens" : [ "we", "begin", "tonight", "with", "a", "big", "story", "out", "of", "iraq.", "cnn", "has", "learned", "that", "the", "cia", "has", "obtained", "critical", "pieces", "of", "nuclear", "technology", "in", "iraq.", "the", "parts", "are", "essential", "to", "developing", "a", "nuclear", "bomb", "program.", "they", "were", "hidden", "under", "a", "rosebush", "in", "the", "back", "yard", "of", "an", "iraqi", "scientist", "in", "baghdad.", "that", "iraqi", "scientist", "hid", "the", "components", "12", "years", "ago.", "he", "said", "saddam", "hussein's", "son", ",", "qusay", ",", "and", "his", "then", "son-in-law", "ordered", "him", "to", "do", "it.", "he", "tells", "cnn", "he", "was", "told", "to", "keep", "the", "parts", "hidden", "so", "they", "would", "be", "ready", "when", "the", "time", "came", "to", "rebuild", "iraq", "'s", "program.", "the", "parts", "are", "from", "a", "gas", "centrifuge", "and", "can", "be", "used", "for", "enriching", "uranium", "in", "bomb", "quality", "material", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "intelligence sources say the correspondence came from the border between pakistan and afghanistan, where osama bin laden is believed to be hiding",
+  "sentence_length" : 111,
+  "mentionArg2" : {
+    "extent" : "where",
+    "argMentionid" : "CNNHL_ENG_20030625_230351.4-E11-33",
+    "start" : 57,
+    "end" : 57
+  },
+  "relationID" : "CNNHL_ENG_20030625_230351.4-R3",
+  "mentionArg1" : {
+    "extent" : "osama bin laden",
+    "argMentionid" : "CNNHL_ENG_20030625_230351.4-E3-22",
+    "start" : 58,
+    "end" : 60
+  },
+  "id" : "CNNHL_ENG_20030625_230351.4-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : ", 000 looks like there may be some evidence that osama bin laden is alive and still plotting. cnn learned the al qaeda leader sent personal letters to key operatives in february , ordering them to attack the united states and its allies. intelligence sources say the correspondence came from the border between pakistan and afghanistan , where osama bin laden is believed to be hiding. couriers delivered the letters to locations including africa , asia and the middle east. a month later , u . s. and pakistani force hs a lead on osama bin laden , but by the time they moved in , he had vanished again .",
+  "sentence_index" : 1,
+  "Tokens" : [ ",", "000", "looks", "like", "there", "may", "be", "some", "evidence", "that", "osama", "bin", "laden", "is", "alive", "and", "still", "plotting.", "cnn", "learned", "the", "al", "qaeda", "leader", "sent", "personal", "letters", "to", "key", "operatives", "in", "february", ",", "ordering", "them", "to", "attack", "the", "united", "states", "and", "its", "allies.", "intelligence", "sources", "say", "the", "correspondence", "came", "from", "the", "border", "between", "pakistan", "and", "afghanistan", ",", "where", "osama", "bin", "laden", "is", "believed", "to", "be", "hiding.", "couriers", "delivered", "the", "letters", "to", "locations", "including", "africa", ",", "asia", "and", "the", "middle", "east.", "a", "month", "later", ",", "u", ".", "s.", "and", "pakistani", "force", "hs", "a", "lead", "on", "osama", "bin", "laden", ",", "but", "by", "the", "time", "they", "moved", "in", ",", "he", "had", "vanished", "again", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "an iraqi scientist",
+  "sentence_length" : 121,
+  "mentionArg2" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNNHL_ENG_20030625_230351.4-E20-41",
+    "start" : 47,
+    "end" : 47
+  },
+  "relationID" : "CNNHL_ENG_20030625_230351.4-R5",
+  "mentionArg1" : {
+    "extent" : "an iraqi scientist",
+    "argMentionid" : "CNNHL_ENG_20030625_230351.4-E25-40",
+    "start" : 46,
+    "end" : 48
+  },
+  "id" : "CNNHL_ENG_20030625_230351.4-R5-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "we begin tonight with a big story out of iraq. cnn has learned that the cia has obtained critical pieces of nuclear technology in iraq. the parts are essential to developing a nuclear bomb program. they were hidden under a rosebush in the back yard of an iraqi scientist in baghdad. that iraqi scientist hid the components 12 years ago. he said saddam hussein's son , qusay , and his then son-in-law ordered him to do it. he tells cnn he was told to keep the parts hidden so they would be ready when the time came to rebuild iraq 's program. the parts are from a gas centrifuge and can be used for enriching uranium in bomb quality material .",
+  "sentence_index" : 0,
+  "Tokens" : [ "we", "begin", "tonight", "with", "a", "big", "story", "out", "of", "iraq.", "cnn", "has", "learned", "that", "the", "cia", "has", "obtained", "critical", "pieces", "of", "nuclear", "technology", "in", "iraq.", "the", "parts", "are", "essential", "to", "developing", "a", "nuclear", "bomb", "program.", "they", "were", "hidden", "under", "a", "rosebush", "in", "the", "back", "yard", "of", "an", "iraqi", "scientist", "in", "baghdad.", "that", "iraqi", "scientist", "hid", "the", "components", "12", "years", "ago.", "he", "said", "saddam", "hussein's", "son", ",", "qusay", ",", "and", "his", "then", "son-in-law", "ordered", "him", "to", "do", "it.", "he", "tells", "cnn", "he", "was", "told", "to", "keep", "the", "parts", "hidden", "so", "they", "would", "be", "ready", "when", "the", "time", "came", "to", "rebuild", "iraq", "'s", "program.", "the", "parts", "are", "from", "a", "gas", "centrifuge", "and", "can", "be", "used", "for", "enriching", "uranium", "in", "bomb", "quality", "material", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "that iraqi scientist",
+  "sentence_length" : 121,
+  "mentionArg2" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNNHL_ENG_20030625_230351.4-E20-44",
+    "start" : 52,
+    "end" : 52
+  },
+  "relationID" : "CNNHL_ENG_20030625_230351.4-R5",
+  "mentionArg1" : {
+    "extent" : "that iraqi scientist",
+    "argMentionid" : "CNNHL_ENG_20030625_230351.4-E25-43",
+    "start" : 51,
+    "end" : 53
+  },
+  "id" : "CNNHL_ENG_20030625_230351.4-R5-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "we begin tonight with a big story out of iraq. cnn has learned that the cia has obtained critical pieces of nuclear technology in iraq. the parts are essential to developing a nuclear bomb program. they were hidden under a rosebush in the back yard of an iraqi scientist in baghdad. that iraqi scientist hid the components 12 years ago. he said saddam hussein's son , qusay , and his then son-in-law ordered him to do it. he tells cnn he was told to keep the parts hidden so they would be ready when the time came to rebuild iraq 's program. the parts are from a gas centrifuge and can be used for enriching uranium in bomb quality material .",
+  "sentence_index" : 0,
+  "Tokens" : [ "we", "begin", "tonight", "with", "a", "big", "story", "out", "of", "iraq.", "cnn", "has", "learned", "that", "the", "cia", "has", "obtained", "critical", "pieces", "of", "nuclear", "technology", "in", "iraq.", "the", "parts", "are", "essential", "to", "developing", "a", "nuclear", "bomb", "program.", "they", "were", "hidden", "under", "a", "rosebush", "in", "the", "back", "yard", "of", "an", "iraqi", "scientist", "in", "baghdad.", "that", "iraqi", "scientist", "hid", "the", "components", "12", "years", "ago.", "he", "said", "saddam", "hussein's", "son", ",", "qusay", ",", "and", "his", "then", "son-in-law", "ordered", "him", "to", "do", "it.", "he", "tells", "cnn", "he", "was", "told", "to", "keep", "the", "parts", "hidden", "so", "they", "would", "be", "ready", "when", "the", "time", "came", "to", "rebuild", "iraq", "'s", "program.", "the", "parts", "are", "from", "a", "gas", "centrifuge", "and", "can", "be", "used", "for", "enriching", "uranium", "in", "bomb", "quality", "material", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the back yard of an iraqi scientist in baghdad",
+  "sentence_length" : 121,
+  "mentionArg2" : {
+    "extent" : "the back yard of an iraqi scientist in baghdad",
+    "argMentionid" : "CNNHL_ENG_20030625_230351.4-E22-36",
+    "start" : 42,
+    "end" : 50
+  },
+  "relationID" : "CNNHL_ENG_20030625_230351.4-R6",
+  "mentionArg1" : {
+    "extent" : "an iraqi scientist",
+    "argMentionid" : "CNNHL_ENG_20030625_230351.4-E25-40",
+    "start" : 46,
+    "end" : 48
+  },
+  "id" : "CNNHL_ENG_20030625_230351.4-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "we begin tonight with a big story out of iraq. cnn has learned that the cia has obtained critical pieces of nuclear technology in iraq. the parts are essential to developing a nuclear bomb program. they were hidden under a rosebush in the back yard of an iraqi scientist in baghdad. that iraqi scientist hid the components 12 years ago. he said saddam hussein's son , qusay , and his then son-in-law ordered him to do it. he tells cnn he was told to keep the parts hidden so they would be ready when the time came to rebuild iraq 's program. the parts are from a gas centrifuge and can be used for enriching uranium in bomb quality material .",
+  "sentence_index" : 0,
+  "Tokens" : [ "we", "begin", "tonight", "with", "a", "big", "story", "out", "of", "iraq.", "cnn", "has", "learned", "that", "the", "cia", "has", "obtained", "critical", "pieces", "of", "nuclear", "technology", "in", "iraq.", "the", "parts", "are", "essential", "to", "developing", "a", "nuclear", "bomb", "program.", "they", "were", "hidden", "under", "a", "rosebush", "in", "the", "back", "yard", "of", "an", "iraqi", "scientist", "in", "baghdad.", "that", "iraqi", "scientist", "hid", "the", "components", "12", "years", "ago.", "he", "said", "saddam", "hussein's", "son", ",", "qusay", ",", "and", "his", "then", "son-in-law", "ordered", "him", "to", "do", "it.", "he", "tells", "cnn", "he", "was", "told", "to", "keep", "the", "parts", "hidden", "so", "they", "would", "be", "ready", "when", "the", "time", "came", "to", "rebuild", "iraq", "'s", "program.", "the", "parts", "are", "from", "a", "gas", "centrifuge", "and", "can", "be", "used", "for", "enriching", "uranium", "in", "bomb", "quality", "material", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the al qaeda leader",
+  "sentence_length" : 111,
+  "mentionArg2" : {
+    "extent" : "al qaeda",
+    "argMentionid" : "CNNHL_ENG_20030625_230351.4-E4-12",
+    "start" : 21,
+    "end" : 22
+  },
+  "relationID" : "CNNHL_ENG_20030625_230351.4-R7",
+  "mentionArg1" : {
+    "extent" : "the al qaeda leader",
+    "argMentionid" : "CNNHL_ENG_20030625_230351.4-E3-11",
+    "start" : 20,
+    "end" : 23
+  },
+  "id" : "CNNHL_ENG_20030625_230351.4-R7-1",
+  "relationSubType" : "Founder",
+  "Sentence" : ", 000 looks like there may be some evidence that osama bin laden is alive and still plotting. cnn learned the al qaeda leader sent personal letters to key operatives in february , ordering them to attack the united states and its allies. intelligence sources say the correspondence came from the border between pakistan and afghanistan , where osama bin laden is believed to be hiding. couriers delivered the letters to locations including africa , asia and the middle east. a month later , u . s. and pakistani force hs a lead on osama bin laden , but by the time they moved in , he had vanished again .",
+  "sentence_index" : 1,
+  "Tokens" : [ ",", "000", "looks", "like", "there", "may", "be", "some", "evidence", "that", "osama", "bin", "laden", "is", "alive", "and", "still", "plotting.", "cnn", "learned", "the", "al", "qaeda", "leader", "sent", "personal", "letters", "to", "key", "operatives", "in", "february", ",", "ordering", "them", "to", "attack", "the", "united", "states", "and", "its", "allies.", "intelligence", "sources", "say", "the", "correspondence", "came", "from", "the", "border", "between", "pakistan", "and", "afghanistan", ",", "where", "osama", "bin", "laden", "is", "believed", "to", "be", "hiding.", "couriers", "delivered", "the", "letters", "to", "locations", "including", "africa", ",", "asia", "and", "the", "middle", "east.", "a", "month", "later", ",", "u", ".", "s.", "and", "pakistani", "force", "hs", "a", "lead", "on", "osama", "bin", "laden", ",", "but", "by", "the", "time", "they", "moved", "in", ",", "he", "had", "vanished", "again", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the border between pakistan and afghanistan, where osama bin laden is believed to be hiding",
+  "sentence_length" : 111,
+  "mentionArg2" : {
+    "extent" : "pakistan",
+    "argMentionid" : "CNNHL_ENG_20030625_230351.4-E10-20",
+    "start" : 53,
+    "end" : 53
+  },
+  "relationID" : "CNNHL_ENG_20030625_230351.4-R8",
+  "mentionArg1" : {
+    "extent" : "the border between pakistan and afghanistan, where osama bin laden is believed to be hiding",
+    "argMentionid" : "CNNHL_ENG_20030625_230351.4-E9-19",
+    "start" : 50,
+    "end" : 65
+  },
+  "id" : "CNNHL_ENG_20030625_230351.4-R8-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : ", 000 looks like there may be some evidence that osama bin laden is alive and still plotting. cnn learned the al qaeda leader sent personal letters to key operatives in february , ordering them to attack the united states and its allies. intelligence sources say the correspondence came from the border between pakistan and afghanistan , where osama bin laden is believed to be hiding. couriers delivered the letters to locations including africa , asia and the middle east. a month later , u . s. and pakistani force hs a lead on osama bin laden , but by the time they moved in , he had vanished again .",
+  "sentence_index" : 1,
+  "Tokens" : [ ",", "000", "looks", "like", "there", "may", "be", "some", "evidence", "that", "osama", "bin", "laden", "is", "alive", "and", "still", "plotting.", "cnn", "learned", "the", "al", "qaeda", "leader", "sent", "personal", "letters", "to", "key", "operatives", "in", "february", ",", "ordering", "them", "to", "attack", "the", "united", "states", "and", "its", "allies.", "intelligence", "sources", "say", "the", "correspondence", "came", "from", "the", "border", "between", "pakistan", "and", "afghanistan", ",", "where", "osama", "bin", "laden", "is", "believed", "to", "be", "hiding.", "couriers", "delivered", "the", "letters", "to", "locations", "including", "africa", ",", "asia", "and", "the", "middle", "east.", "a", "month", "later", ",", "u", ".", "s.", "and", "pakistani", "force", "hs", "a", "lead", "on", "osama", "bin", "laden", ",", "but", "by", "the", "time", "they", "moved", "in", ",", "he", "had", "vanished", "again", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the border between pakistan and afghanistan, where osama bin laden is believed to be hiding",
+  "sentence_length" : 111,
+  "mentionArg2" : {
+    "extent" : "afghanistan",
+    "argMentionid" : "CNNHL_ENG_20030625_230351.4-E11-21",
+    "start" : 55,
+    "end" : 55
+  },
+  "relationID" : "CNNHL_ENG_20030625_230351.4-R9",
+  "mentionArg1" : {
+    "extent" : "the border between pakistan and afghanistan, where osama bin laden is believed to be hiding",
+    "argMentionid" : "CNNHL_ENG_20030625_230351.4-E9-19",
+    "start" : 50,
+    "end" : 65
+  },
+  "id" : "CNNHL_ENG_20030625_230351.4-R9-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : ", 000 looks like there may be some evidence that osama bin laden is alive and still plotting. cnn learned the al qaeda leader sent personal letters to key operatives in february , ordering them to attack the united states and its allies. intelligence sources say the correspondence came from the border between pakistan and afghanistan , where osama bin laden is believed to be hiding. couriers delivered the letters to locations including africa , asia and the middle east. a month later , u . s. and pakistani force hs a lead on osama bin laden , but by the time they moved in , he had vanished again .",
+  "sentence_index" : 1,
+  "Tokens" : [ ",", "000", "looks", "like", "there", "may", "be", "some", "evidence", "that", "osama", "bin", "laden", "is", "alive", "and", "still", "plotting.", "cnn", "learned", "the", "al", "qaeda", "leader", "sent", "personal", "letters", "to", "key", "operatives", "in", "february", ",", "ordering", "them", "to", "attack", "the", "united", "states", "and", "its", "allies.", "intelligence", "sources", "say", "the", "correspondence", "came", "from", "the", "border", "between", "pakistan", "and", "afghanistan", ",", "where", "osama", "bin", "laden", "is", "believed", "to", "be", "hiding.", "couriers", "delivered", "the", "letters", "to", "locations", "including", "africa", ",", "asia", "and", "the", "middle", "east.", "a", "month", "later", ",", "u", ".", "s.", "and", "pakistani", "force", "hs", "a", "lead", "on", "osama", "bin", "laden", ",", "but", "by", "the", "time", "they", "moved", "in", ",", "he", "had", "vanished", "again", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "u.s. and pakistani force",
+  "sentence_length" : 111,
+  "mentionArg2" : {
+    "extent" : "u.s",
+    "argMentionid" : "CNNHL_ENG_20030625_230351.4-E6-27",
+    "start" : 84,
+    "end" : 86
+  },
+  "relationID" : "CNNHL_ENG_20030625_230351.4-R10",
+  "mentionArg1" : {
+    "extent" : "u.s. and pakistani force",
+    "argMentionid" : "CNNHL_ENG_20030625_230351.4-E18-29",
+    "start" : 84,
+    "end" : 89
+  },
+  "id" : "CNNHL_ENG_20030625_230351.4-R10-1",
+  "relationSubType" : "Employment",
+  "Sentence" : ", 000 looks like there may be some evidence that osama bin laden is alive and still plotting. cnn learned the al qaeda leader sent personal letters to key operatives in february , ordering them to attack the united states and its allies. intelligence sources say the correspondence came from the border between pakistan and afghanistan , where osama bin laden is believed to be hiding. couriers delivered the letters to locations including africa , asia and the middle east. a month later , u . s. and pakistani force hs a lead on osama bin laden , but by the time they moved in , he had vanished again .",
+  "sentence_index" : 1,
+  "Tokens" : [ ",", "000", "looks", "like", "there", "may", "be", "some", "evidence", "that", "osama", "bin", "laden", "is", "alive", "and", "still", "plotting.", "cnn", "learned", "the", "al", "qaeda", "leader", "sent", "personal", "letters", "to", "key", "operatives", "in", "february", ",", "ordering", "them", "to", "attack", "the", "united", "states", "and", "its", "allies.", "intelligence", "sources", "say", "the", "correspondence", "came", "from", "the", "border", "between", "pakistan", "and", "afghanistan", ",", "where", "osama", "bin", "laden", "is", "believed", "to", "be", "hiding.", "couriers", "delivered", "the", "letters", "to", "locations", "including", "africa", ",", "asia", "and", "the", "middle", "east.", "a", "month", "later", ",", "u", ".", "s.", "and", "pakistani", "force", "hs", "a", "lead", "on", "osama", "bin", "laden", ",", "but", "by", "the", "time", "they", "moved", "in", ",", "he", "had", "vanished", "again", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "u.s. and pakistani force",
+  "sentence_length" : 111,
+  "mentionArg2" : {
+    "extent" : "pakistani",
+    "argMentionid" : "CNNHL_ENG_20030625_230351.4-E10-28",
+    "start" : 88,
+    "end" : 88
+  },
+  "relationID" : "CNNHL_ENG_20030625_230351.4-R11",
+  "mentionArg1" : {
+    "extent" : "u.s. and pakistani force",
+    "argMentionid" : "CNNHL_ENG_20030625_230351.4-E18-29",
+    "start" : 84,
+    "end" : 89
+  },
+  "id" : "CNNHL_ENG_20030625_230351.4-R11-1",
+  "relationSubType" : "Employment",
+  "Sentence" : ", 000 looks like there may be some evidence that osama bin laden is alive and still plotting. cnn learned the al qaeda leader sent personal letters to key operatives in february , ordering them to attack the united states and its allies. intelligence sources say the correspondence came from the border between pakistan and afghanistan , where osama bin laden is believed to be hiding. couriers delivered the letters to locations including africa , asia and the middle east. a month later , u . s. and pakistani force hs a lead on osama bin laden , but by the time they moved in , he had vanished again .",
+  "sentence_index" : 1,
+  "Tokens" : [ ",", "000", "looks", "like", "there", "may", "be", "some", "evidence", "that", "osama", "bin", "laden", "is", "alive", "and", "still", "plotting.", "cnn", "learned", "the", "al", "qaeda", "leader", "sent", "personal", "letters", "to", "key", "operatives", "in", "february", ",", "ordering", "them", "to", "attack", "the", "united", "states", "and", "its", "allies.", "intelligence", "sources", "say", "the", "correspondence", "came", "from", "the", "border", "between", "pakistan", "and", "afghanistan", ",", "where", "osama", "bin", "laden", "is", "believed", "to", "be", "hiding.", "couriers", "delivered", "the", "letters", "to", "locations", "including", "africa", ",", "asia", "and", "the", "middle", "east.", "a", "month", "later", ",", "u", ".", "s.", "and", "pakistani", "force", "hs", "a", "lead", "on", "osama", "bin", "laden", ",", "but", "by", "the", "time", "they", "moved", "in", ",", "he", "had", "vanished", "again", "." ]
+} ]

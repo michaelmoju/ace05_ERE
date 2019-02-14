@@ -1,0 +1,45 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "his former deputy",
+  "sentence_length" : 117,
+  "mentionArg2" : {
+    "extent" : "his former deputy",
+    "argMentionid" : "CNN_ENG_20030612_160005.13-E28-30",
+    "start" : 24,
+    "end" : 26
+  },
+  "relationID" : "CNN_ENG_20030612_160005.13-R1",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_ENG_20030612_160005.13-E25-41",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "CNN_ENG_20030612_160005.13-R1-1",
+  "relationSubType" : "Business",
+  "Sentence" : "yeah , there 's a little tension between the house majority leader , tom delay , and his successor as house majority whip and his former deputy , lloyd blunt , kind of came to light when \" the washington post \" had a front-page story showing disagreement on the provision , delay had it taken out. they 've been disagreeing on union opposed bill on flex time. there 's just a lot of feeling that delay does n't feel blunt is doing the job as well as he did it. maybe they 're jossling for who 's going to be the next speaker. i do n't think dennis hastert plans to step down soon anyway .",
+  "sentence_index" : 2,
+  "Tokens" : [ "yeah", ",", "there", "'s", "a", "little", "tension", "between", "the", "house", "majority", "leader", ",", "tom", "delay", ",", "and", "his", "successor", "as", "house", "majority", "whip", "and", "his", "former", "deputy", ",", "lloyd", "blunt", ",", "kind", "of", "came", "to", "light", "when", "\"", "the", "washington", "post", "\"", "had", "a", "front-page", "story", "showing", "disagreement", "on", "the", "provision", ",", "delay", "had", "it", "taken", "out.", "they", "'ve", "been", "disagreeing", "on", "union", "opposed", "bill", "on", "flex", "time.", "there", "'s", "just", "a", "lot", "of", "feeling", "that", "delay", "does", "n't", "feel", "blunt", "is", "doing", "the", "job", "as", "well", "as", "he", "did", "it.", "maybe", "they", "'re", "jossling", "for", "who", "'s", "going", "to", "be", "the", "next", "speaker.", "i", "do", "n't", "think", "dennis", "hastert", "plans", "to", "step", "down", "soon", "anyway", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "some of the national democratic operatives think john edwards is going to run for president and that he ought to get out and concentrate on being reelected senator of north carolina which won't be easy",
+  "sentence_length" : 68,
+  "mentionArg2" : {
+    "extent" : "north carolina",
+    "argMentionid" : "CNN_ENG_20030612_160005.13-E15-22",
+    "start" : 29,
+    "end" : 30
+  },
+  "relationID" : "CNN_ENG_20030612_160005.13-R2",
+  "mentionArg1" : {
+    "extent" : "john edwards",
+    "argMentionid" : "CNN_ENG_20030612_160005.13-E8-18",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "CNN_ENG_20030612_160005.13-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "some of the national democratic operatives think john edwards is going to run for president and that he ought to get out and concentrate on being reelected senator of north carolina which wo n't be easy. some people think white house chief of staff would be a stronger candidate anyway. i 'm not sure if that 's true. but there 's a lot of feeling this presidental race",
+  "sentence_index" : 4,
+  "Tokens" : [ "some", "of", "the", "national", "democratic", "operatives", "think", "john", "edwards", "is", "going", "to", "run", "for", "president", "and", "that", "he", "ought", "to", "get", "out", "and", "concentrate", "on", "being", "reelected", "senator", "of", "north", "carolina", "which", "wo", "n't", "be", "easy.", "some", "people", "think", "white", "house", "chief", "of", "staff", "would", "be", "a", "stronger", "candidate", "anyway.", "i", "'m", "not", "sure", "if", "that", "'s", "true.", "but", "there", "'s", "a", "lot", "of", "feeling", "this", "presidental", "race" ]
+} ]

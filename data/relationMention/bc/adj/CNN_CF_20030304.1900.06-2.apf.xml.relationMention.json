@@ -1,0 +1,111 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "Christa Demore (ph) from Monrovia, Maryland",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "Monrovia, Maryland",
+    "argMentionid" : "CNN_CF_20030304.1900.06-2-E21-51",
+    "start" : 8,
+    "end" : 10
+  },
+  "relationID" : "CNN_CF_20030304.1900.06-2-R1",
+  "mentionArg1" : {
+    "extent" : "Christa Demore (ph) from Monrovia, Maryland",
+    "argMentionid" : "CNN_CF_20030304.1900.06-2-E17-50",
+    "start" : 2,
+    "end" : 10
+  },
+  "id" : "CNN_CF_20030304.1900.06-2-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "I 'm Christa Demore ( ph ) from Monrovia , Maryland .",
+  "sentence_index" : 2,
+  "Tokens" : [ "I", "'m", "Christa", "Demore", "(", "ph", ")", "from", "Monrovia", ",", "Maryland", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Monrovia, Maryland",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "Maryland",
+    "argMentionid" : "CNN_CF_20030304.1900.06-2-E22-52",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "CNN_CF_20030304.1900.06-2-R2",
+  "mentionArg1" : {
+    "extent" : "Monrovia, Maryland",
+    "argMentionid" : "CNN_CF_20030304.1900.06-2-E21-51",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "CNN_CF_20030304.1900.06-2-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "I 'm Christa Demore ( ph ) from Monrovia , Maryland .",
+  "sentence_index" : 2,
+  "Tokens" : [ "I", "'m", "Christa", "Demore", "(", "ph", ")", "from", "Monrovia", ",", "Maryland", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "al Qaeda's second key operative",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "al Qaeda",
+    "argMentionid" : "CNN_CF_20030304.1900.06-2-E27-58",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "CNN_CF_20030304.1900.06-2-R3",
+  "mentionArg1" : {
+    "extent" : "al Qaeda's second key operative",
+    "argMentionid" : "CNN_CF_20030304.1900.06-2-E26-57",
+    "start" : 19,
+    "end" : 24
+  },
+  "id" : "CNN_CF_20030304.1900.06-2-R3-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "And I 'm curious , how can Democrats claim that President Bush is ignoring the war on terror if al Qaeda 's second key operative was just caught ?",
+  "sentence_index" : 3,
+  "Tokens" : [ "And", "I", "'m", "curious", ",", "how", "can", "Democrats", "claim", "that", "President", "Bush", "is", "ignoring", "the", "war", "on", "terror", "if", "al", "Qaeda", "'s", "second", "key", "operative", "was", "just", "caught", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Ben Charlton (ph) from East Lansing, Michigan",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "East Lansing, Michigan",
+    "argMentionid" : "CNN_CF_20030304.1900.06-2-E6-14",
+    "start" : 8,
+    "end" : 11
+  },
+  "relationID" : "CNN_CF_20030304.1900.06-2-R4",
+  "mentionArg1" : {
+    "extent" : "Ben Charlton (ph) from East Lansing, Michigan",
+    "argMentionid" : "CNN_CF_20030304.1900.06-2-E4-13",
+    "start" : 2,
+    "end" : 11
+  },
+  "id" : "CNN_CF_20030304.1900.06-2-R4-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "I 'm Ben Charlton ( ph ) from East Lansing , Michigan .",
+  "sentence_index" : 16,
+  "Tokens" : [ "I", "'m", "Ben", "Charlton", "(", "ph", ")", "from", "East", "Lansing", ",", "Michigan", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "East Lansing, Michigan",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "Michigan",
+    "argMentionid" : "CNN_CF_20030304.1900.06-2-E7-15",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_CF_20030304.1900.06-2-R5",
+  "mentionArg1" : {
+    "extent" : "East Lansing, Michigan",
+    "argMentionid" : "CNN_CF_20030304.1900.06-2-E6-14",
+    "start" : 8,
+    "end" : 11
+  },
+  "id" : "CNN_CF_20030304.1900.06-2-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "I 'm Ben Charlton ( ph ) from East Lansing , Michigan .",
+  "sentence_index" : 16,
+  "Tokens" : [ "I", "'m", "Ben", "Charlton", "(", "ph", ")", "from", "East", "Lansing", ",", "Michigan", "." ]
+} ]

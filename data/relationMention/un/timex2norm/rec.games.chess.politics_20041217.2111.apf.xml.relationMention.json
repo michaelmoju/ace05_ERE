@@ -1,0 +1,639 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "the USCF's new \"move coordinator\"",
+  "sentence_length" : 73,
+  "mentionArg2" : {
+    "extent" : "the USCF",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E51-32",
+    "start" : 21,
+    "end" : 22
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R1",
+  "mentionArg1" : {
+    "extent" : "the USCF's new \"move coordinator\"",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E15-30",
+    "start" : 21,
+    "end" : 28
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "But this is neither here nor there , because the fact that Randy Bauer is already talking about Beatriz Marinello as the USCF 's new \" move coordinator \" , whatever that involves , and whether or not it means that she would be the de facto interim ED , means that at some level and in some form these discussions HAVE already taken place , while Marinello is serving as President .",
+  "sentence_index" : 14,
+  "Tokens" : [ "But", "this", "is", "neither", "here", "nor", "there", ",", "because", "the", "fact", "that", "Randy", "Bauer", "is", "already", "talking", "about", "Beatriz", "Marinello", "as", "the", "USCF", "'s", "new", "\"", "move", "coordinator", "\"", ",", "whatever", "that", "involves", ",", "and", "whether", "or", "not", "it", "means", "that", "she", "would", "be", "the", "de", "facto", "interim", "ED", ",", "means", "that", "at", "some", "level", "and", "in", "some", "form", "these", "discussions", "HAVE", "already", "taken", "place", ",", "while", "Marinello", "is", "serving", "as", "President", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "We pretty much know that Marinello, while on the board, has arranged to get future money from the USCF",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "the USCF",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E51-46",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R1",
+  "mentionArg1" : {
+    "extent" : "Marinello",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E15-44",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R1-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "We pretty much know that Marinello , while on the board , has arranged to get future money from the USCF .",
+  "sentence_index" : 17,
+  "Tokens" : [ "We", "pretty", "much", "know", "that", "Marinello", ",", "while", "on", "the", "board", ",", "has", "arranged", "to", "get", "future", "money", "from", "the", "USCF", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Now, Stan B. argues that Marinello's services are in fact indispensible as move coordinator, and that ethics standards are not a suicide pact, so that since we absolutely NEED her the EB has the right to go ahead and retain her",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "her",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E15-57",
+    "start" : 44,
+    "end" : 44
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R2",
+  "mentionArg1" : {
+    "extent" : "the EB",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E1-56",
+    "start" : 34,
+    "end" : 35
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R2-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Now , Stan B. argues that Marinello 's services are in fact indispensible as move coordinator , and that ethics standards are not a suicide pact , so that since we absolutely NEED her the EB has the right to go ahead and retain her .",
+  "sentence_index" : 20,
+  "Tokens" : [ "Now", ",", "Stan", "B.", "argues", "that", "Marinello", "'s", "services", "are", "in", "fact", "indispensible", "as", "move", "coordinator", ",", "and", "that", "ethics", "standards", "are", "not", "a", "suicide", "pact", ",", "so", "that", "since", "we", "absolutely", "NEED", "her", "the", "EB", "has", "the", "right", "to", "go", "ahead", "and", "retain", "her", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Marinello, while on the board",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Marinello",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E15-44",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R2",
+  "mentionArg1" : {
+    "extent" : "the board",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E1-45",
+    "start" : 9,
+    "end" : 10
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R2-2",
+  "relationSubType" : "Business",
+  "Sentence" : "We pretty much know that Marinello , while on the board , has arranged to get future money from the USCF .",
+  "sentence_index" : 17,
+  "Tokens" : [ "We", "pretty", "much", "know", "that", "Marinello", ",", "while", "on", "the", "board", ",", "has", "arranged", "to", "get", "future", "money", "from", "the", "USCF", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "It has been suggested that there is, or was at one time, some sort of delegates' motion which established a minimum period between the time someone could leave the EB and the time someone could be hired by the USCF.",
+  "sentence_length" : 66,
+  "mentionArg2" : {
+    "extent" : "the EB",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E1-166",
+    "start" : 53,
+    "end" : 54
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R3",
+  "mentionArg1" : {
+    "extent" : "someone",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E54-87",
+    "start" : 50,
+    "end" : 50
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R3-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Ethical and legal issues in hiring Marinello Petrel Sat , 18 Dec 2004 02:11:28 GMT Ethical and legal issues in hiring Marinello It has been suggested that there is , or was at one time , some sort of delegates ' motion which established a minimum period between the time someone could leave the EB and the time someone could be hired by the USCF .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Ethical", "and", "legal", "issues", "in", "hiring", "Marinello", "Petrel", "Sat", ",", "18", "Dec", "2004", "02:11:28", "GMT", "Ethical", "and", "legal", "issues", "in", "hiring", "Marinello", "It", "has", "been", "suggested", "that", "there", "is", ",", "or", "was", "at", "one", "time", ",", "some", "sort", "of", "delegates", "'", "motion", "which", "established", "a", "minimum", "period", "between", "the", "time", "someone", "could", "leave", "the", "EB", "and", "the", "time", "someone", "could", "be", "hired", "by", "the", "USCF", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Of course, it is possible that someone could leave the board -without- ever having discussed being compensated by the board in the future, and that then the remaining members could, for good reason, hire that person",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "the board",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E1-23",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R3",
+  "mentionArg1" : {
+    "extent" : "someone",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E54-22",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R3-2",
+  "relationSubType" : "Business",
+  "Sentence" : "Of course , it is possible that someone could leave the board - without- ever having discussed being compensated by the board in the future , and that then the remaining members could , for good reason , hire that person .",
+  "sentence_index" : 12,
+  "Tokens" : [ "Of", "course", ",", "it", "is", "possible", "that", "someone", "could", "leave", "the", "board", "-", "without-", "ever", "having", "discussed", "being", "compensated", "by", "the", "board", "in", "the", "future", ",", "and", "that", "then", "the", "remaining", "members", "could", ",", "for", "good", "reason", ",", "hire", "that", "person", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "It has been suggested that there is, or was at one time, some sort of delegates' motion which established a minimum period between the time someone could leave the EB and the time someone could be hired by the USCF",
+  "sentence_length" : 66,
+  "mentionArg2" : {
+    "extent" : "the USCF",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E51-173",
+    "start" : 63,
+    "end" : 64
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R4",
+  "mentionArg1" : {
+    "extent" : "someone",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E54-172",
+    "start" : 58,
+    "end" : 58
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Ethical and legal issues in hiring Marinello Petrel Sat , 18 Dec 2004 02:11:28 GMT Ethical and legal issues in hiring Marinello It has been suggested that there is , or was at one time , some sort of delegates ' motion which established a minimum period between the time someone could leave the EB and the time someone could be hired by the USCF .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Ethical", "and", "legal", "issues", "in", "hiring", "Marinello", "Petrel", "Sat", ",", "18", "Dec", "2004", "02:11:28", "GMT", "Ethical", "and", "legal", "issues", "in", "hiring", "Marinello", "It", "has", "been", "suggested", "that", "there", "is", ",", "or", "was", "at", "one", "time", ",", "some", "sort", "of", "delegates", "'", "motion", "which", "established", "a", "minimum", "period", "between", "the", "time", "someone", "could", "leave", "the", "EB", "and", "the", "time", "someone", "could", "be", "hired", "by", "the", "USCF", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "an active board member",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "board",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E1-177",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R5",
+  "mentionArg1" : {
+    "extent" : "an active board member",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E68-176",
+    "start" : 9,
+    "end" : 12
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R5-1",
+  "relationSubType" : "Business",
+  "Sentence" : "It 's irrelevant because the REAL question is whether an active board member can , while on the board , arrange to be given money by the USCF .",
+  "sentence_index" : 2,
+  "Tokens" : [ "It", "'s", "irrelevant", "because", "the", "REAL", "question", "is", "whether", "an", "active", "board", "member", "can", ",", "while", "on", "the", "board", ",", "arrange", "to", "be", "given", "money", "by", "the", "USCF", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "an active board member",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "board",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E1-181",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R5",
+  "mentionArg1" : {
+    "extent" : "an active board member",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E68-180",
+    "start" : 8,
+    "end" : 11
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R5-2",
+  "relationSubType" : "Business",
+  "Sentence" : "Of course it 's in the bylaws that an active board member cannot be given money by the USCF while on the board .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Of", "course", "it", "'s", "in", "the", "bylaws", "that", "an", "active", "board", "member", "cannot", "be", "given", "money", "by", "the", "USCF", "while", "on", "the", "board", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "an active board member",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "board",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E1-185",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R5",
+  "mentionArg1" : {
+    "extent" : "an active board member",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E68-184",
+    "start" : 18,
+    "end" : 21
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R5-3",
+  "relationSubType" : "Business",
+  "Sentence" : "It ought to be pretty obvious that it would be entirely contrary to the spirit of this for an active board member to be money after leaving the board .",
+  "sentence_index" : 4,
+  "Tokens" : [ "It", "ought", "to", "be", "pretty", "obvious", "that", "it", "would", "be", "entirely", "contrary", "to", "the", "spirit", "of", "this", "for", "an", "active", "board", "member", "to", "be", "money", "after", "leaving", "the", "board", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "A board member",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "board",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E1-11",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R5",
+  "mentionArg1" : {
+    "extent" : "A board member",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E68-10",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R5-4",
+  "relationSubType" : "Business",
+  "Sentence" : "A board member , while on the board , is supposed to be representing the interests of the USCF , not feathering his / her nest , in the present or in the future .",
+  "sentence_index" : 9,
+  "Tokens" : [ "A", "board", "member", ",", "while", "on", "the", "board", ",", "is", "supposed", "to", "be", "representing", "the", "interests", "of", "the", "USCF", ",", "not", "feathering", "his", "/", "her", "nest", ",", "in", "the", "present", "or", "in", "the", "future", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "a board member",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "board",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E1-16",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R5",
+  "mentionArg1" : {
+    "extent" : "a board member",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E68-15",
+    "start" : 1,
+    "end" : 3
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R5-5",
+  "relationSubType" : "Business",
+  "Sentence" : "If a board member makes such arrangements , it is clearly an ethics violation , clearly a violation of the bylaws , possibly endangers our tax-exempt status , and is possibly a violation of law as well .",
+  "sentence_index" : 10,
+  "Tokens" : [ "If", "a", "board", "member", "makes", "such", "arrangements", ",", "it", "is", "clearly", "an", "ethics", "violation", ",", "clearly", "a", "violation", "of", "the", "bylaws", ",", "possibly", "endangers", "our", "tax-exempt", "status", ",", "and", "is", "possibly", "a", "violation", "of", "law", "as", "well", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "It's irrelevant because the REAL question is whether an active board member can, while on the board, arrange to be given money by the USCF",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "the USCF",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E51-179",
+    "start" : 26,
+    "end" : 27
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R6",
+  "mentionArg1" : {
+    "extent" : "an active board member",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E68-176",
+    "start" : 9,
+    "end" : 12
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "It 's irrelevant because the REAL question is whether an active board member can , while on the board , arrange to be given money by the USCF .",
+  "sentence_index" : 2,
+  "Tokens" : [ "It", "'s", "irrelevant", "because", "the", "REAL", "question", "is", "whether", "an", "active", "board", "member", "can", ",", "while", "on", "the", "board", ",", "arrange", "to", "be", "given", "money", "by", "the", "USCF", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "each EB member",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "EB",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E1-188",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R9",
+  "mentionArg1" : {
+    "extent" : "each EB member",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E72-187",
+    "start" : 15,
+    "end" : 17
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R9-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Suppose , for example , there were to be a proposal to the effect that each EB member would be given $10,000 upon the expiration of his / her term .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Suppose", ",", "for", "example", ",", "there", "were", "to", "be", "a", "proposal", "to", "the", "effect", "that", "each", "EB", "member", "would", "be", "given", "$10,000", "upon", "the", "expiration", "of", "his", "/", "her", "term", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "A board member, while on the board, is supposed to be representing the interests of the USCF, not feathering his/her nest, in the present or in the future",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "the USCF",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E51-13",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R11",
+  "mentionArg1" : {
+    "extent" : "A board member",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E68-10",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R11-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "A board member , while on the board , is supposed to be representing the interests of the USCF , not feathering his / her nest , in the present or in the future .",
+  "sentence_index" : 9,
+  "Tokens" : [ "A", "board", "member", ",", "while", "on", "the", "board", ",", "is", "supposed", "to", "be", "representing", "the", "interests", "of", "the", "USCF", ",", "not", "feathering", "his", "/", "her", "nest", ",", "in", "the", "present", "or", "in", "the", "future", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Of course, it is possible that someone could leave the board -without- ever having discussed being compensated by the board in the future, and that then the remaining members could, for good reason, hire that person",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "that person",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E54-26",
+    "start" : 39,
+    "end" : 40
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R14",
+  "mentionArg1" : {
+    "extent" : "the remaining members",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E12-25",
+    "start" : 29,
+    "end" : 31
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R14-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Of course , it is possible that someone could leave the board - without- ever having discussed being compensated by the board in the future , and that then the remaining members could , for good reason , hire that person .",
+  "sentence_index" : 12,
+  "Tokens" : [ "Of", "course", ",", "it", "is", "possible", "that", "someone", "could", "leave", "the", "board", "-", "without-", "ever", "having", "discussed", "being", "compensated", "by", "the", "board", "in", "the", "future", ",", "and", "that", "then", "the", "remaining", "members", "could", ",", "for", "good", "reason", ",", "hire", "that", "person", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "normal organizations with an ED",
+  "sentence_length" : 154,
+  "mentionArg2" : {
+    "extent" : "normal organizations with an ED",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E26-64",
+    "start" : 34,
+    "end" : 38
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R17",
+  "mentionArg1" : {
+    "extent" : "an ED",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E27-65",
+    "start" : 37,
+    "end" : 38
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R17-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "This would have to include evidence that the EB had considered all the alternatives , including : - delegating the whole thing to the Interim ED , which would be the normal practice in normal organizations with an ED - asking the Interim ED to designate someone from the New Windsor staff to act as move coordinator - asking the Interim ED to hire some other consultant with experience in office relocation to manage the job ( there are such people ) - conducting some kind of actual search for candidates for the position during the last two months since the move was decided upon If they did consider alternatives , it would also have to include evidence that Marinello has much more experience at relocating offices than other people , or is willing to do the job cheaper ( although this would n't constitute being \" indispensible \" in my view ) .",
+  "sentence_index" : 23,
+  "Tokens" : [ "This", "would", "have", "to", "include", "evidence", "that", "the", "EB", "had", "considered", "all", "the", "alternatives", ",", "including", ":", "-", "delegating", "the", "whole", "thing", "to", "the", "Interim", "ED", ",", "which", "would", "be", "the", "normal", "practice", "in", "normal", "organizations", "with", "an", "ED", "-", "asking", "the", "Interim", "ED", "to", "designate", "someone", "from", "the", "New", "Windsor", "staff", "to", "act", "as", "move", "coordinator", "-", "asking", "the", "Interim", "ED", "to", "hire", "some", "other", "consultant", "with", "experience", "in", "office", "relocation", "to", "manage", "the", "job", "(", "there", "are", "such", "people", ")", "-", "conducting", "some", "kind", "of", "actual", "search", "for", "candidates", "for", "the", "position", "during", "the", "last", "two", "months", "since", "the", "move", "was", "decided", "upon", "If", "they", "did", "consider", "alternatives", ",", "it", "would", "also", "have", "to", "include", "evidence", "that", "Marinello", "has", "much", "more", "experience", "at", "relocating", "offices", "than", "other", "people", ",", "or", "is", "willing", "to", "do", "the", "job", "cheaper", "(", "although", "this", "would", "n't", "constitute", "being", "\"", "indispensible", "\"", "in", "my", "view", ")", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "someone from the New Windsor staff",
+  "sentence_length" : 154,
+  "mentionArg2" : {
+    "extent" : "the New Windsor staff",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E29-68",
+    "start" : 48,
+    "end" : 51
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R18",
+  "mentionArg1" : {
+    "extent" : "someone from the New Windsor staff",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E28-67",
+    "start" : 46,
+    "end" : 51
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R18-1",
+  "relationSubType" : "Business",
+  "Sentence" : "This would have to include evidence that the EB had considered all the alternatives , including : - delegating the whole thing to the Interim ED , which would be the normal practice in normal organizations with an ED - asking the Interim ED to designate someone from the New Windsor staff to act as move coordinator - asking the Interim ED to hire some other consultant with experience in office relocation to manage the job ( there are such people ) - conducting some kind of actual search for candidates for the position during the last two months since the move was decided upon If they did consider alternatives , it would also have to include evidence that Marinello has much more experience at relocating offices than other people , or is willing to do the job cheaper ( although this would n't constitute being \" indispensible \" in my view ) .",
+  "sentence_index" : 23,
+  "Tokens" : [ "This", "would", "have", "to", "include", "evidence", "that", "the", "EB", "had", "considered", "all", "the", "alternatives", ",", "including", ":", "-", "delegating", "the", "whole", "thing", "to", "the", "Interim", "ED", ",", "which", "would", "be", "the", "normal", "practice", "in", "normal", "organizations", "with", "an", "ED", "-", "asking", "the", "Interim", "ED", "to", "designate", "someone", "from", "the", "New", "Windsor", "staff", "to", "act", "as", "move", "coordinator", "-", "asking", "the", "Interim", "ED", "to", "hire", "some", "other", "consultant", "with", "experience", "in", "office", "relocation", "to", "manage", "the", "job", "(", "there", "are", "such", "people", ")", "-", "conducting", "some", "kind", "of", "actual", "search", "for", "candidates", "for", "the", "position", "during", "the", "last", "two", "months", "since", "the", "move", "was", "decided", "upon", "If", "they", "did", "consider", "alternatives", ",", "it", "would", "also", "have", "to", "include", "evidence", "that", "Marinello", "has", "much", "more", "experience", "at", "relocating", "offices", "than", "other", "people", ",", "or", "is", "willing", "to", "do", "the", "job", "cheaper", "(", "although", "this", "would", "n't", "constitute", "being", "\"", "indispensible", "\"", "in", "my", "view", ")", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the New Windsor staff",
+  "sentence_length" : 154,
+  "mentionArg2" : {
+    "extent" : "New Windsor",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E30-69",
+    "start" : 49,
+    "end" : 50
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R19",
+  "mentionArg1" : {
+    "extent" : "the New Windsor staff",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E29-68",
+    "start" : 48,
+    "end" : 51
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R19-1",
+  "relationSubType" : "Located",
+  "Sentence" : "This would have to include evidence that the EB had considered all the alternatives , including : - delegating the whole thing to the Interim ED , which would be the normal practice in normal organizations with an ED - asking the Interim ED to designate someone from the New Windsor staff to act as move coordinator - asking the Interim ED to hire some other consultant with experience in office relocation to manage the job ( there are such people ) - conducting some kind of actual search for candidates for the position during the last two months since the move was decided upon If they did consider alternatives , it would also have to include evidence that Marinello has much more experience at relocating offices than other people , or is willing to do the job cheaper ( although this would n't constitute being \" indispensible \" in my view ) .",
+  "sentence_index" : 23,
+  "Tokens" : [ "This", "would", "have", "to", "include", "evidence", "that", "the", "EB", "had", "considered", "all", "the", "alternatives", ",", "including", ":", "-", "delegating", "the", "whole", "thing", "to", "the", "Interim", "ED", ",", "which", "would", "be", "the", "normal", "practice", "in", "normal", "organizations", "with", "an", "ED", "-", "asking", "the", "Interim", "ED", "to", "designate", "someone", "from", "the", "New", "Windsor", "staff", "to", "act", "as", "move", "coordinator", "-", "asking", "the", "Interim", "ED", "to", "hire", "some", "other", "consultant", "with", "experience", "in", "office", "relocation", "to", "manage", "the", "job", "(", "there", "are", "such", "people", ")", "-", "conducting", "some", "kind", "of", "actual", "search", "for", "candidates", "for", "the", "position", "during", "the", "last", "two", "months", "since", "the", "move", "was", "decided", "upon", "If", "they", "did", "consider", "alternatives", ",", "it", "would", "also", "have", "to", "include", "evidence", "that", "Marinello", "has", "much", "more", "experience", "at", "relocating", "offices", "than", "other", "people", ",", "or", "is", "willing", "to", "do", "the", "job", "cheaper", "(", "although", "this", "would", "n't", "constitute", "being", "\"", "indispensible", "\"", "in", "my", "view", ")", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "asking the Interim ED to hire some other consultant with experience in office relocation to manage the job (there are such people)",
+  "sentence_length" : 154,
+  "mentionArg2" : {
+    "extent" : "some other consultant with experience in office relocation",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E32-72",
+    "start" : 64,
+    "end" : 71
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R20",
+  "mentionArg1" : {
+    "extent" : "the Interim ED",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E25-71",
+    "start" : 59,
+    "end" : 61
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R20-1",
+  "relationSubType" : "Business",
+  "Sentence" : "This would have to include evidence that the EB had considered all the alternatives , including : - delegating the whole thing to the Interim ED , which would be the normal practice in normal organizations with an ED - asking the Interim ED to designate someone from the New Windsor staff to act as move coordinator - asking the Interim ED to hire some other consultant with experience in office relocation to manage the job ( there are such people ) - conducting some kind of actual search for candidates for the position during the last two months since the move was decided upon If they did consider alternatives , it would also have to include evidence that Marinello has much more experience at relocating offices than other people , or is willing to do the job cheaper ( although this would n't constitute being \" indispensible \" in my view ) .",
+  "sentence_index" : 23,
+  "Tokens" : [ "This", "would", "have", "to", "include", "evidence", "that", "the", "EB", "had", "considered", "all", "the", "alternatives", ",", "including", ":", "-", "delegating", "the", "whole", "thing", "to", "the", "Interim", "ED", ",", "which", "would", "be", "the", "normal", "practice", "in", "normal", "organizations", "with", "an", "ED", "-", "asking", "the", "Interim", "ED", "to", "designate", "someone", "from", "the", "New", "Windsor", "staff", "to", "act", "as", "move", "coordinator", "-", "asking", "the", "Interim", "ED", "to", "hire", "some", "other", "consultant", "with", "experience", "in", "office", "relocation", "to", "manage", "the", "job", "(", "there", "are", "such", "people", ")", "-", "conducting", "some", "kind", "of", "actual", "search", "for", "candidates", "for", "the", "position", "during", "the", "last", "two", "months", "since", "the", "move", "was", "decided", "upon", "If", "they", "did", "consider", "alternatives", ",", "it", "would", "also", "have", "to", "include", "evidence", "that", "Marinello", "has", "much", "more", "experience", "at", "relocating", "offices", "than", "other", "people", ",", "or", "is", "willing", "to", "do", "the", "job", "cheaper", "(", "although", "this", "would", "n't", "constitute", "being", "\"", "indispensible", "\"", "in", "my", "view", ")", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "some other consultant with experience in office relocation",
+  "sentence_length" : 154,
+  "mentionArg2" : {
+    "extent" : "office",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E33-73",
+    "start" : 70,
+    "end" : 70
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R21",
+  "mentionArg1" : {
+    "extent" : "some other consultant with experience in office relocation",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E32-72",
+    "start" : 64,
+    "end" : 71
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R21-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "This would have to include evidence that the EB had considered all the alternatives , including : - delegating the whole thing to the Interim ED , which would be the normal practice in normal organizations with an ED - asking the Interim ED to designate someone from the New Windsor staff to act as move coordinator - asking the Interim ED to hire some other consultant with experience in office relocation to manage the job ( there are such people ) - conducting some kind of actual search for candidates for the position during the last two months since the move was decided upon If they did consider alternatives , it would also have to include evidence that Marinello has much more experience at relocating offices than other people , or is willing to do the job cheaper ( although this would n't constitute being \" indispensible \" in my view ) .",
+  "sentence_index" : 23,
+  "Tokens" : [ "This", "would", "have", "to", "include", "evidence", "that", "the", "EB", "had", "considered", "all", "the", "alternatives", ",", "including", ":", "-", "delegating", "the", "whole", "thing", "to", "the", "Interim", "ED", ",", "which", "would", "be", "the", "normal", "practice", "in", "normal", "organizations", "with", "an", "ED", "-", "asking", "the", "Interim", "ED", "to", "designate", "someone", "from", "the", "New", "Windsor", "staff", "to", "act", "as", "move", "coordinator", "-", "asking", "the", "Interim", "ED", "to", "hire", "some", "other", "consultant", "with", "experience", "in", "office", "relocation", "to", "manage", "the", "job", "(", "there", "are", "such", "people", ")", "-", "conducting", "some", "kind", "of", "actual", "search", "for", "candidates", "for", "the", "position", "during", "the", "last", "two", "months", "since", "the", "move", "was", "decided", "upon", "If", "they", "did", "consider", "alternatives", ",", "it", "would", "also", "have", "to", "include", "evidence", "that", "Marinello", "has", "much", "more", "experience", "at", "relocating", "offices", "than", "other", "people", ",", "or", "is", "willing", "to", "do", "the", "job", "cheaper", "(", "although", "this", "would", "n't", "constitute", "being", "\"", "indispensible", "\"", "in", "my", "view", ")", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "If they did consider alternatives, it would also have to include evidence that Marinello has much more experience at relocating offices than other people, or is willing to do the job cheaper (although this wouldn't constitute being \"indispensible\" in my view).",
+  "sentence_length" : 154,
+  "mentionArg2" : {
+    "extent" : "offices",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E33-78",
+    "start" : 126,
+    "end" : 126
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R22",
+  "mentionArg1" : {
+    "extent" : "Marinello",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E15-77",
+    "start" : 119,
+    "end" : 119
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R22-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "This would have to include evidence that the EB had considered all the alternatives , including : - delegating the whole thing to the Interim ED , which would be the normal practice in normal organizations with an ED - asking the Interim ED to designate someone from the New Windsor staff to act as move coordinator - asking the Interim ED to hire some other consultant with experience in office relocation to manage the job ( there are such people ) - conducting some kind of actual search for candidates for the position during the last two months since the move was decided upon If they did consider alternatives , it would also have to include evidence that Marinello has much more experience at relocating offices than other people , or is willing to do the job cheaper ( although this would n't constitute being \" indispensible \" in my view ) .",
+  "sentence_index" : 23,
+  "Tokens" : [ "This", "would", "have", "to", "include", "evidence", "that", "the", "EB", "had", "considered", "all", "the", "alternatives", ",", "including", ":", "-", "delegating", "the", "whole", "thing", "to", "the", "Interim", "ED", ",", "which", "would", "be", "the", "normal", "practice", "in", "normal", "organizations", "with", "an", "ED", "-", "asking", "the", "Interim", "ED", "to", "designate", "someone", "from", "the", "New", "Windsor", "staff", "to", "act", "as", "move", "coordinator", "-", "asking", "the", "Interim", "ED", "to", "hire", "some", "other", "consultant", "with", "experience", "in", "office", "relocation", "to", "manage", "the", "job", "(", "there", "are", "such", "people", ")", "-", "conducting", "some", "kind", "of", "actual", "search", "for", "candidates", "for", "the", "position", "during", "the", "last", "two", "months", "since", "the", "move", "was", "decided", "upon", "If", "they", "did", "consider", "alternatives", ",", "it", "would", "also", "have", "to", "include", "evidence", "that", "Marinello", "has", "much", "more", "experience", "at", "relocating", "offices", "than", "other", "people", ",", "or", "is", "willing", "to", "do", "the", "job", "cheaper", "(", "although", "this", "would", "n't", "constitute", "being", "\"", "indispensible", "\"", "in", "my", "view", ")", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "If, however, they just looked around the room and said \"who is going to manage this?\" and someone said, \"Beatriz, how about you?\", this does not constitute proof that her services are indispensible, and thus it wouldn't interfere with my belief that there has been an ethics violation and a bylaws violation.",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "the room",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E37-82",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R23",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E1-81",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R23-1",
+  "relationSubType" : "Located",
+  "Sentence" : "If , however , they just looked around the room and said \" who is going to manage this ? \"",
+  "sentence_index" : 24,
+  "Tokens" : [ "If", ",", "however", ",", "they", "just", "looked", "around", "the", "room", "and", "said", "\"", "who", "is", "going", "to", "manage", "this", "?", "\"" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "USCF EB",
+  "sentence_length" : 112,
+  "mentionArg2" : {
+    "extent" : "USCF",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E51-123",
+    "start" : 71,
+    "end" : 71
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R24",
+  "mentionArg1" : {
+    "extent" : "USCF EB",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E1-125",
+    "start" : 71,
+    "end" : 72
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R24-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "But if we are going to talk about realism , here is another realistic concern : I predict that , if , in fact , the rumors about the agenda for the Florida meeting prove true , and Marinello resigns as President and is hired as move coordinator , the immediate result of this is that Sam Sloan will file another lawsuit ( or amend his current complaint ) charging the USCF EB members with self-dealing , violation of the USCF 's own bylaws , and every other thing , report us to the IRS , and demand that all USCF moneys which might be used to paid Marinello be frozen .",
+  "sentence_index" : 33,
+  "Tokens" : [ "But", "if", "we", "are", "going", "to", "talk", "about", "realism", ",", "here", "is", "another", "realistic", "concern", ":", "I", "predict", "that", ",", "if", ",", "in", "fact", ",", "the", "rumors", "about", "the", "agenda", "for", "the", "Florida", "meeting", "prove", "true", ",", "and", "Marinello", "resigns", "as", "President", "and", "is", "hired", "as", "move", "coordinator", ",", "the", "immediate", "result", "of", "this", "is", "that", "Sam", "Sloan", "will", "file", "another", "lawsuit", "(", "or", "amend", "his", "current", "complaint", ")", "charging", "the", "USCF", "EB", "members", "with", "self-dealing", ",", "violation", "of", "the", "USCF", "'s", "own", "bylaws", ",", "and", "every", "other", "thing", ",", "report", "us", "to", "the", "IRS", ",", "and", "demand", "that", "all", "USCF", "moneys", "which", "might", "be", "used", "to", "paid", "Marinello", "be", "frozen", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the USCF EB members",
+  "sentence_length" : 112,
+  "mentionArg2" : {
+    "extent" : "USCF EB",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E1-125",
+    "start" : 71,
+    "end" : 72
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R25",
+  "mentionArg1" : {
+    "extent" : "the USCF EB members",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E52-124",
+    "start" : 70,
+    "end" : 73
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R25-1",
+  "relationSubType" : "Business",
+  "Sentence" : "But if we are going to talk about realism , here is another realistic concern : I predict that , if , in fact , the rumors about the agenda for the Florida meeting prove true , and Marinello resigns as President and is hired as move coordinator , the immediate result of this is that Sam Sloan will file another lawsuit ( or amend his current complaint ) charging the USCF EB members with self-dealing , violation of the USCF 's own bylaws , and every other thing , report us to the IRS , and demand that all USCF moneys which might be used to paid Marinello be frozen .",
+  "sentence_index" : 33,
+  "Tokens" : [ "But", "if", "we", "are", "going", "to", "talk", "about", "realism", ",", "here", "is", "another", "realistic", "concern", ":", "I", "predict", "that", ",", "if", ",", "in", "fact", ",", "the", "rumors", "about", "the", "agenda", "for", "the", "Florida", "meeting", "prove", "true", ",", "and", "Marinello", "resigns", "as", "President", "and", "is", "hired", "as", "move", "coordinator", ",", "the", "immediate", "result", "of", "this", "is", "that", "Sam", "Sloan", "will", "file", "another", "lawsuit", "(", "or", "amend", "his", "current", "complaint", ")", "charging", "the", "USCF", "EB", "members", "with", "self-dealing", ",", "violation", "of", "the", "USCF", "'s", "own", "bylaws", ",", "and", "every", "other", "thing", ",", "report", "us", "to", "the", "IRS", ",", "and", "demand", "that", "all", "USCF", "moneys", "which", "might", "be", "used", "to", "paid", "Marinello", "be", "frozen", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "New York non-profit organization",
+  "sentence_length" : 57,
+  "mentionArg2" : {
+    "extent" : "New York",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E58-137",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R26",
+  "mentionArg1" : {
+    "extent" : "New York non-profit organization",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E57-136",
+    "start" : 12,
+    "end" : 15
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R26-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "If he is willing to file a lawsuit on the basis of New York non-profit organization law , which might or might not be applicable to the USCF , why would n't he file a lawsuit on the basis of the USCF 's violation of its own bylaws , which unquestionably ARE applicable to the USCF ?",
+  "sentence_index" : 36,
+  "Tokens" : [ "If", "he", "is", "willing", "to", "file", "a", "lawsuit", "on", "the", "basis", "of", "New", "York", "non-profit", "organization", "law", ",", "which", "might", "or", "might", "not", "be", "applicable", "to", "the", "USCF", ",", "why", "would", "n't", "he", "file", "a", "lawsuit", "on", "the", "basis", "of", "the", "USCF", "'s", "violation", "of", "its", "own", "bylaws", ",", "which", "unquestionably", "ARE", "applicable", "to", "the", "USCF", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "my own employer association",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "my own employer association",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E60-146",
+    "start" : 7,
+    "end" : 10
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R27",
+  "mentionArg1" : {
+    "extent" : "my own",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E67-149",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R27-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "I wrote a few days ago quoting my own employer association 's attorney , who said that courts mostly let associations do what they want UNLESS they violate their own bylaws .",
+  "sentence_index" : 37,
+  "Tokens" : [ "I", "wrote", "a", "few", "days", "ago", "quoting", "my", "own", "employer", "association", "'s", "attorney", ",", "who", "said", "that", "courts", "mostly", "let", "associations", "do", "what", "they", "want", "UNLESS", "they", "violate", "their", "own", "bylaws", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "my own employer association",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "my own employer association",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E60-146",
+    "start" : 7,
+    "end" : 10
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R28",
+  "mentionArg1" : {
+    "extent" : "employer",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E61-150",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R28-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "I wrote a few days ago quoting my own employer association 's attorney , who said that courts mostly let associations do what they want UNLESS they violate their own bylaws .",
+  "sentence_index" : 37,
+  "Tokens" : [ "I", "wrote", "a", "few", "days", "ago", "quoting", "my", "own", "employer", "association", "'s", "attorney", ",", "who", "said", "that", "courts", "mostly", "let", "associations", "do", "what", "they", "want", "UNLESS", "they", "violate", "their", "own", "bylaws", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "my own employer association's attorney, who said that courts mostly let associations do what they want UNLESS they violate their own bylaws",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "my own employer association",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E60-146",
+    "start" : 7,
+    "end" : 10
+  },
+  "relationID" : "rec.games.chess.politics_20041217.2111-R29",
+  "mentionArg1" : {
+    "extent" : "my own employer association's attorney, who said that courts mostly let associations do what they want UNLESS they violate their own bylaws",
+    "argMentionid" : "rec.games.chess.politics_20041217.2111-E59-145",
+    "start" : 7,
+    "end" : 30
+  },
+  "id" : "rec.games.chess.politics_20041217.2111-R29-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "I wrote a few days ago quoting my own employer association 's attorney , who said that courts mostly let associations do what they want UNLESS they violate their own bylaws .",
+  "sentence_index" : 37,
+  "Tokens" : [ "I", "wrote", "a", "few", "days", "ago", "quoting", "my", "own", "employer", "association", "'s", "attorney", ",", "who", "said", "that", "courts", "mostly", "let", "associations", "do", "what", "they", "want", "UNLESS", "they", "violate", "their", "own", "bylaws", "." ]
+} ]

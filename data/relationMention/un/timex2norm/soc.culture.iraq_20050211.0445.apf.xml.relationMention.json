@@ -1,0 +1,243 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "his part",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "his part",
+    "argMentionid" : "soc.culture.iraq_20050211.0445-E48-104",
+    "start" : 27,
+    "end" : 28
+  },
+  "relationID" : "soc.culture.iraq_20050211.0445-R1",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "soc.culture.iraq_20050211.0445-E1-121",
+    "start" : 27,
+    "end" : 27
+  },
+  "id" : "soc.culture.iraq_20050211.0445-R1-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "His party , the major winner , could not field canidates until just before the election , but it was his face on all the poster and his part wipped up the heavily funded US supported government .",
+  "sentence_index" : 4,
+  "Tokens" : [ "His", "party", ",", "the", "major", "winner", ",", "could", "not", "field", "canidates", "until", "just", "before", "the", "election", ",", "but", "it", "was", "his", "face", "on", "all", "the", "poster", "and", "his", "part", "wipped", "up", "the", "heavily", "funded", "US", "supported", "government", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "His party",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "His party",
+    "argMentionid" : "soc.culture.iraq_20050211.0445-E48-117",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "soc.culture.iraq_20050211.0445-R1",
+  "mentionArg1" : {
+    "extent" : "His",
+    "argMentionid" : "soc.culture.iraq_20050211.0445-E1-114",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "soc.culture.iraq_20050211.0445-R1-2",
+  "relationSubType" : "Membership",
+  "Sentence" : "His party , the major winner , could not field canidates until just before the election , but it was his face on all the poster and his part wipped up the heavily funded US supported government .",
+  "sentence_index" : 4,
+  "Tokens" : [ "His", "party", ",", "the", "major", "winner", ",", "could", "not", "field", "canidates", "until", "just", "before", "the", "election", ",", "but", "it", "was", "his", "face", "on", "all", "the", "poster", "and", "his", "part", "wipped", "up", "the", "heavily", "funded", "US", "supported", "government", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "their counter parts in Iran",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "Iran",
+    "argMentionid" : "soc.culture.iraq_20050211.0445-E5-19",
+    "start" : 42,
+    "end" : 42
+  },
+  "relationID" : "soc.culture.iraq_20050211.0445-R2",
+  "mentionArg1" : {
+    "extent" : "their counter parts in Iran",
+    "argMentionid" : "soc.culture.iraq_20050211.0445-E8-18",
+    "start" : 38,
+    "end" : 42
+  },
+  "id" : "soc.culture.iraq_20050211.0445-R2-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The problem with Sistani running Iraq is he refuses to talk to the Ameircans , and as the real power broker what ever figure heads take the PM and other posts will speak with as little authority as their counter parts in Iran .",
+  "sentence_index" : 9,
+  "Tokens" : [ "The", "problem", "with", "Sistani", "running", "Iraq", "is", "he", "refuses", "to", "talk", "to", "the", "Ameircans", ",", "and", "as", "the", "real", "power", "broker", "what", "ever", "figure", "heads", "take", "the", "PM", "and", "other", "posts", "will", "speak", "with", "as", "little", "authority", "as", "their", "counter", "parts", "in", "Iran", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "The Sunni's have the weapons, the skill, and the support",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "the weapons",
+    "argMentionid" : "soc.culture.iraq_20050211.0445-E40-98",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "soc.culture.iraq_20050211.0445-R3",
+  "mentionArg1" : {
+    "extent" : "The Sunni's",
+    "argMentionid" : "soc.culture.iraq_20050211.0445-E55-42",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "soc.culture.iraq_20050211.0445-R3-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The Sunni 's have the weapons , the skill , and the support .",
+  "sentence_index" : 19,
+  "Tokens" : [ "The", "Sunni", "'s", "have", "the", "weapons", ",", "the", "skill", ",", "and", "the", "support", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "His party, the major winner, could not field canidates until just before the election, but it was his face on all the poster and his part wipped up the heavily funded US supported government",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "His party",
+    "argMentionid" : "soc.culture.iraq_20050211.0445-E48-117",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "soc.culture.iraq_20050211.0445-R5",
+  "mentionArg1" : {
+    "extent" : "canidates",
+    "argMentionid" : "soc.culture.iraq_20050211.0445-E50-119",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "soc.culture.iraq_20050211.0445-R5-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "His party , the major winner , could not field canidates until just before the election , but it was his face on all the poster and his part wipped up the heavily funded US supported government .",
+  "sentence_index" : 4,
+  "Tokens" : [ "His", "party", ",", "the", "major", "winner", ",", "could", "not", "field", "canidates", "until", "just", "before", "the", "election", ",", "but", "it", "was", "his", "face", "on", "all", "the", "poster", "and", "his", "part", "wipped", "up", "the", "heavily", "funded", "US", "supported", "government", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "his country",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "his country",
+    "argMentionid" : "soc.culture.iraq_20050211.0445-E33-99",
+    "start" : 47,
+    "end" : 48
+  },
+  "relationID" : "soc.culture.iraq_20050211.0445-R6",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "soc.culture.iraq_20050211.0445-E1-92",
+    "start" : 47,
+    "end" : 47
+  },
+  "id" : "soc.culture.iraq_20050211.0445-R6-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Many small businesses will have to close down ( alcohol related ) women will have to dress head to toe again , etc. There is only one ray of hope , that Sistani will prove a very strong leader and actually care about the moderate muslims in his country and protect them .",
+  "sentence_index" : 35,
+  "Tokens" : [ "Many", "small", "businesses", "will", "have", "to", "close", "down", "(", "alcohol", "related", ")", "women", "will", "have", "to", "dress", "head", "to", "toe", "again", ",", "etc.", "There", "is", "only", "one", "ray", "of", "hope", ",", "that", "Sistani", "will", "prove", "a", "very", "strong", "leader", "and", "actually", "care", "about", "the", "moderate", "muslims", "in", "his", "country", "and", "protect", "them", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Civil War leading to the victory of one group is the norm in Iraq, and was the casue of most mass graves in the 1980s and 1990s",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "soc.culture.iraq_20050211.0445-E33-38",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "soc.culture.iraq_20050211.0445-R7",
+  "mentionArg1" : {
+    "extent" : "one group",
+    "argMentionid" : "soc.culture.iraq_20050211.0445-E13-37",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "soc.culture.iraq_20050211.0445-R7-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Civil War leading to the victory of one group is the norm in Iraq , and was the casue of most mass graves in the 1980s and 1990s .",
+  "sentence_index" : 16,
+  "Tokens" : [ "Civil", "War", "leading", "to", "the", "victory", "of", "one", "group", "is", "the", "norm", "in", "Iraq", ",", "and", "was", "the", "casue", "of", "most", "mass", "graves", "in", "the", "1980s", "and", "1990s", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the South of Ameirca",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Ameirca",
+    "argMentionid" : "soc.culture.iraq_20050211.0445-E9-52",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "soc.culture.iraq_20050211.0445-R8",
+  "mentionArg1" : {
+    "extent" : "the South of Ameirca",
+    "argMentionid" : "soc.culture.iraq_20050211.0445-E18-51",
+    "start" : 8,
+    "end" : 11
+  },
+  "id" : "soc.culture.iraq_20050211.0445-R8-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Sadly Bush 's concerns are short-term politics in the South of Ameirca , and they have already decided they do n't have to pay attention to Iraq .",
+  "sentence_index" : 22,
+  "Tokens" : [ "Sadly", "Bush", "'s", "concerns", "are", "short-term", "politics", "in", "the", "South", "of", "Ameirca", ",", "and", "they", "have", "already", "decided", "they", "do", "n't", "have", "to", "pay", "attention", "to", "Iraq", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "A shia government",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "A shia government",
+    "argMentionid" : "soc.culture.iraq_20050211.0445-E33-116",
+    "start" : 0,
+    "end" : 2
+  },
+  "relationID" : "soc.culture.iraq_20050211.0445-R9",
+  "mentionArg1" : {
+    "extent" : "shia",
+    "argMentionid" : "soc.culture.iraq_20050211.0445-E2-69",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "soc.culture.iraq_20050211.0445-R9-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "A shia government will allow us an exit strategy .",
+  "sentence_index" : 29,
+  "Tokens" : [ "A", "shia", "government", "will", "allow", "us", "an", "exit", "strategy", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the average Iraqi citizen",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "soc.culture.iraq_20050211.0445-E33-85",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "soc.culture.iraq_20050211.0445-R10",
+  "mentionArg1" : {
+    "extent" : "the average Iraqi citizen",
+    "argMentionid" : "soc.culture.iraq_20050211.0445-E34-87",
+    "start" : 8,
+    "end" : 11
+  },
+  "id" : "soc.culture.iraq_20050211.0445-R10-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "In my opinion , all we have to the average Iraqi citizen is brought a new type of domination .",
+  "sentence_index" : 34,
+  "Tokens" : [ "In", "my", "opinion", ",", "all", "we", "have", "to", "the", "average", "Iraqi", "citizen", "is", "brought", "a", "new", "type", "of", "domination", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the moderate muslims in his country",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "his country",
+    "argMentionid" : "soc.culture.iraq_20050211.0445-E33-99",
+    "start" : 47,
+    "end" : 48
+  },
+  "relationID" : "soc.culture.iraq_20050211.0445-R11",
+  "mentionArg1" : {
+    "extent" : "the moderate muslims in his country",
+    "argMentionid" : "soc.culture.iraq_20050211.0445-E38-93",
+    "start" : 43,
+    "end" : 48
+  },
+  "id" : "soc.culture.iraq_20050211.0445-R11-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Many small businesses will have to close down ( alcohol related ) women will have to dress head to toe again , etc. There is only one ray of hope , that Sistani will prove a very strong leader and actually care about the moderate muslims in his country and protect them .",
+  "sentence_index" : 35,
+  "Tokens" : [ "Many", "small", "businesses", "will", "have", "to", "close", "down", "(", "alcohol", "related", ")", "women", "will", "have", "to", "dress", "head", "to", "toe", "again", ",", "etc.", "There", "is", "only", "one", "ray", "of", "hope", ",", "that", "Sistani", "will", "prove", "a", "very", "strong", "leader", "and", "actually", "care", "about", "the", "moderate", "muslims", "in", "his", "country", "and", "protect", "them", "." ]
+} ]

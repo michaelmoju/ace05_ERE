@@ -1,0 +1,89 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a company involved in multiple unrelated businesses",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "a company involved in multiple unrelated businesses",
+    "argMentionid" : "MARKETVIEW_20041212.1447-E9-22",
+    "start" : 13,
+    "end" : 19
+  },
+  "relationID" : "MARKETVIEW_20041212.1447-R1",
+  "mentionArg1" : {
+    "extent" : "multiple unrelated businesses",
+    "argMentionid" : "MARKETVIEW_20041212.1447-E14-30",
+    "start" : 17,
+    "end" : 19
+  },
+  "id" : "MARKETVIEW_20041212.1447-R1-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Byrne 2004-12-12T14:47:00 Conglomerates are a fascinating species : The standard definition is ' a company involved in multiple unrelated businesses ' but the more accurate definition would be ' a company that relies on financial pyrotechnics , balance sheet juggling , and adroit accounting to create the illusion of growth ' .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Byrne", "2004-12-12T14:47:00", "Conglomerates", "are", "a", "fascinating", "species", ":", "The", "standard", "definition", "is", "'", "a", "company", "involved", "in", "multiple", "unrelated", "businesses", "'", "but", "the", "more", "accurate", "definition", "would", "be", "'", "a", "company", "that", "relies", "on", "financial", "pyrotechnics", ",", "balance", "sheet", "juggling", ",", "and", "adroit", "accounting", "to", "create", "the", "illusion", "of", "growth", "'", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the company's leaders",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "company",
+    "argMentionid" : "MARKETVIEW_20041212.1447-E18-37",
+    "start" : 29,
+    "end" : 29
+  },
+  "relationID" : "MARKETVIEW_20041212.1447-R2",
+  "mentionArg1" : {
+    "extent" : "the company's leaders",
+    "argMentionid" : "MARKETVIEW_20041212.1447-E17-36",
+    "start" : 28,
+    "end" : 31
+  },
+  "id" : "MARKETVIEW_20041212.1447-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "I love to write about them , but I 'd hate to own one , since most of their market value comes from the market 's assumption that the company 's leaders will somehow find a way to retroactively justify their overvaluation .",
+  "sentence_index" : 1,
+  "Tokens" : [ "I", "love", "to", "write", "about", "them", ",", "but", "I", "'d", "hate", "to", "own", "one", ",", "since", "most", "of", "their", "market", "value", "comes", "from", "the", "market", "'s", "assumption", "that", "the", "company", "'s", "leaders", "will", "somehow", "find", "a", "way", "to", "retroactively", "justify", "their", "overvaluation", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "many people who own only WalMart stock",
+  "sentence_length" : 66,
+  "mentionArg2" : {
+    "extent" : "WalMart",
+    "argMentionid" : "MARKETVIEW_20041212.1447-E6-8",
+    "start" : 42,
+    "end" : 42
+  },
+  "relationID" : "MARKETVIEW_20041212.1447-R3",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "MARKETVIEW_20041212.1447-E5-7",
+    "start" : 39,
+    "end" : 39
+  },
+  "id" : "MARKETVIEW_20041212.1447-R3-1",
+  "relationSubType" : "Investor-Shareholder",
+  "Sentence" : "They have many of the symptoms of a late-stage conglomerate : A gigantic main business with slowing growth , fear that competition will substantially reduce the profitability of their main business , a shareholder base that includes many people who own only WalMart stock ( thus providing another incentive for intracompany diversification ) , and enough resources to pull it off on a grand scale .",
+  "sentence_index" : 5,
+  "Tokens" : [ "They", "have", "many", "of", "the", "symptoms", "of", "a", "late-stage", "conglomerate", ":", "A", "gigantic", "main", "business", "with", "slowing", "growth", ",", "fear", "that", "competition", "will", "substantially", "reduce", "the", "profitability", "of", "their", "main", "business", ",", "a", "shareholder", "base", "that", "includes", "many", "people", "who", "own", "only", "WalMart", "stock", "(", "thus", "providing", "another", "incentive", "for", "intracompany", "diversification", ")", ",", "and", "enough", "resources", "to", "pull", "it", "off", "on", "a", "grand", "scale", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "They're coming close to Smithfield Food's very successful 'squeal to meal' policy; if these rumors are true, the result for shareholders will be a pretty positive one",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "They",
+    "argMentionid" : "MARKETVIEW_20041212.1447-E6-18",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "MARKETVIEW_20041212.1447-R4",
+  "mentionArg1" : {
+    "extent" : "shareholders",
+    "argMentionid" : "MARKETVIEW_20041212.1447-E3-20",
+    "start" : 26,
+    "end" : 26
+  },
+  "id" : "MARKETVIEW_20041212.1447-R4-1",
+  "relationSubType" : "Investor-Shareholder",
+  "Sentence" : "They 're coming close to Smithfield Food 's very successful ' squeal to meal ' policy ; if these rumors are true , the result for shareholders will be a pretty positive one .",
+  "sentence_index" : 9,
+  "Tokens" : [ "They", "'re", "coming", "close", "to", "Smithfield", "Food", "'s", "very", "successful", "'", "squeal", "to", "meal", "'", "policy", ";", "if", "these", "rumors", "are", "true", ",", "the", "result", "for", "shareholders", "will", "be", "a", "pretty", "positive", "one", "." ]
+} ]

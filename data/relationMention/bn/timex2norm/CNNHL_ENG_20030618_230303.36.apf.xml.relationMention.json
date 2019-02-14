@@ -1,0 +1,67 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "80,000 people with a shared love of music converge on a tennessee pasture for three days of good vibes and who knows what else",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "a tennessee pasture",
+    "argMentionid" : "CNNHL_ENG_20030618_230303.36-E20-38",
+    "start" : 10,
+    "end" : 12
+  },
+  "relationID" : "CNNHL_ENG_20030618_230303.36-R1",
+  "mentionArg1" : {
+    "extent" : "80,000 people with a shared love of music",
+    "argMentionid" : "CNNHL_ENG_20030618_230303.36-E19-1",
+    "start" : 0,
+    "end" : 7
+  },
+  "id" : "CNNHL_ENG_20030618_230303.36-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "80,000 people with a shared love of music converge on a tennessee pasture for three days of good vibes and who knows what else. it 's called bonnaroo. check it out .",
+  "sentence_index" : 1,
+  "Tokens" : [ "80,000", "people", "with", "a", "shared", "love", "of", "music", "converge", "on", "a", "tennessee", "pasture", "for", "three", "days", "of", "good", "vibes", "and", "who", "knows", "what", "else.", "it", "'s", "called", "bonnaroo.", "check", "it", "out", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a tennessee pasture",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "tennessee",
+    "argMentionid" : "CNNHL_ENG_20030618_230303.36-E21-39",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNNHL_ENG_20030618_230303.36-R2",
+  "mentionArg1" : {
+    "extent" : "a tennessee pasture",
+    "argMentionid" : "CNNHL_ENG_20030618_230303.36-E20-38",
+    "start" : 10,
+    "end" : 12
+  },
+  "id" : "CNNHL_ENG_20030618_230303.36-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "80,000 people with a shared love of music converge on a tennessee pasture for three days of good vibes and who knows what else. it 's called bonnaroo. check it out .",
+  "sentence_index" : 1,
+  "Tokens" : [ "80,000", "people", "with", "a", "shared", "love", "of", "music", "converge", "on", "a", "tennessee", "pasture", "for", "three", "days", "of", "good", "vibes", "and", "who", "knows", "what", "else.", "it", "'s", "called", "bonnaroo.", "check", "it", "out", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "you know, as a music lover that i am, there's five acts all playing at the same time on five different stages that i want to see",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "five different stages",
+    "argMentionid" : "CNNHL_ENG_20030618_230303.36-E10-12",
+    "start" : 28,
+    "end" : 30
+  },
+  "relationID" : "CNNHL_ENG_20030618_230303.36-R3",
+  "mentionArg1" : {
+    "extent" : "five acts all playing at the same time on five different stages that i want to see",
+    "argMentionid" : "CNNHL_ENG_20030618_230303.36-E9-11",
+    "start" : 19,
+    "end" : 35
+  },
+  "id" : "CNNHL_ENG_20030618_230303.36-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "my only complaint is the overlapping. you know , as a music lover that i am , there 's five acts all playing at the same time on five different stages that i want to see .",
+  "sentence_index" : 7,
+  "Tokens" : [ "my", "only", "complaint", "is", "the", "overlapping.", "you", "know", ",", "as", "a", "music", "lover", "that", "i", "am", ",", "there", "'s", "five", "acts", "all", "playing", "at", "the", "same", "time", "on", "five", "different", "stages", "that", "i", "want", "to", "see", "." ]
+} ]

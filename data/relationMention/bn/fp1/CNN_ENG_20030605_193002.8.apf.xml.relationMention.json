@@ -1,0 +1,45 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "a grand rapids jury",
+  "sentence_length" : 101,
+  "mentionArg2" : {
+    "extent" : "grand rapids",
+    "argMentionid" : "CNN_ENG_20030605_193002.8-E15-58",
+    "start" : 22,
+    "end" : 23
+  },
+  "relationID" : "CNN_ENG_20030605_193002.8-R1",
+  "mentionArg1" : {
+    "extent" : "a grand rapids jury",
+    "argMentionid" : "CNN_ENG_20030605_193002.8-E14-57",
+    "start" : 21,
+    "end" : 24
+  },
+  "id" : "CNN_ENG_20030605_193002.8-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "martha stewart is n't the only corporate figurehead in the news today. the jury has handed down a $30 million , a grand rapids jury saying taco bell has to pay the true creators of the chihuahua mass cot. two men claimed their idea originated , and proved i am in the wrong business. taco ball is appealing. joins me is tom rinks with his attorney john doza. tom , you 've got to be happy with the settlement. i know they 're going to appeal , but first et tell my how you calm up with the chihuahua character ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "martha", "stewart", "is", "n't", "the", "only", "corporate", "figurehead", "in", "the", "news", "today.", "the", "jury", "has", "handed", "down", "a", "$30", "million", ",", "a", "grand", "rapids", "jury", "saying", "taco", "bell", "has", "to", "pay", "the", "true", "creators", "of", "the", "chihuahua", "mass", "cot.", "two", "men", "claimed", "their", "idea", "originated", ",", "and", "proved", "i", "am", "in", "the", "wrong", "business.", "taco", "ball", "is", "appealing.", "joins", "me", "is", "tom", "rinks", "with", "his", "attorney", "john", "doza.", "tom", ",", "you", "'ve", "got", "to", "be", "happy", "with", "the", "settlement.", "i", "know", "they", "'re", "going", "to", "appeal", ",", "but", "first", "et", "tell", "my", "how", "you", "calm", "up", "with", "the", "chihuahua", "character", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "we had been licensing to a bunch of different manufacturers, and in 1996 we were at a show in new york city where nick loada and universal studios, and taco bell walked up to us and said they were looking for a mass cot for their brand and this would be perfect",
+  "sentence_length" : 73,
+  "mentionArg2" : {
+    "extent" : "new york city",
+    "argMentionid" : "CNN_ENG_20030605_193002.8-E8-26",
+    "start" : 29,
+    "end" : 31
+  },
+  "relationID" : "CNN_ENG_20030605_193002.8-R2",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "CNN_ENG_20030605_193002.8-E17-25",
+    "start" : 23,
+    "end" : 23
+  },
+  "id" : "CNN_ENG_20030605_193002.8-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "they actually came to us at a licensing show. we had been licensing to a bunch of different manufacturers , and in 1996 we were at a show in new york city where nick loada and universal studios , and taco bell walked up to us and said they were looking for a mass cot for their brand and this would be perfect. that started a year relationship we had with them .",
+  "sentence_index" : 3,
+  "Tokens" : [ "they", "actually", "came", "to", "us", "at", "a", "licensing", "show.", "we", "had", "been", "licensing", "to", "a", "bunch", "of", "different", "manufacturers", ",", "and", "in", "1996", "we", "were", "at", "a", "show", "in", "new", "york", "city", "where", "nick", "loada", "and", "universal", "studios", ",", "and", "taco", "bell", "walked", "up", "to", "us", "and", "said", "they", "were", "looking", "for", "a", "mass", "cot", "for", "their", "brand", "and", "this", "would", "be", "perfect.", "that", "started", "a", "year", "relationship", "we", "had", "with", "them", "." ]
+} ]

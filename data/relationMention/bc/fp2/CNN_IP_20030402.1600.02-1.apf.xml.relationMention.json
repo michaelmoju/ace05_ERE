@@ -1,0 +1,815 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "coalition forces",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E15-137",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R1",
+  "mentionArg1" : {
+    "extent" : "coalition forces",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E68-78",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "WOODRUFF As coalition forces push ahead in their march toward Baghdad , they have encountered some resistance in the Shiite holy city of Karbala .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WOODRUFF", "As", "coalition", "forces", "push", "ahead", "in", "their", "march", "toward", "Baghdad", ",", "they", "have", "encountered", "some", "resistance", "in", "the", "Shiite", "holy", "city", "of", "Karbala", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "As coalition forces push ahead in their march toward Baghdad, they have encountered some resistance in the Shiite holy city of Karbala",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the Shiite holy city of Karbala",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E78-141",
+    "start" : 18,
+    "end" : 23
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R2",
+  "mentionArg1" : {
+    "extent" : "coalition forces",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E68-78",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "WOODRUFF As coalition forces push ahead in their march toward Baghdad , they have encountered some resistance in the Shiite holy city of Karbala .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WOODRUFF", "As", "coalition", "forces", "push", "ahead", "in", "their", "march", "toward", "Baghdad", ",", "they", "have", "encountered", "some", "resistance", "in", "the", "Shiite", "holy", "city", "of", "Karbala", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "American troops",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E10-145",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R3",
+  "mentionArg1" : {
+    "extent" : "American troops",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E80-144",
+    "start" : 1,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "But American troops and their superior technology have turned out to be a key factor in the fighting there .",
+  "sentence_index" : 1,
+  "Tokens" : [ "But", "American", "troops", "and", "their", "superior", "technology", "have", "turned", "out", "to", "be", "a", "key", "factor", "in", "the", "fighting", "there", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "British forces",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E28-40",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R4",
+  "mentionArg1" : {
+    "extent" : "British forces",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E83-148",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "And to the south , British forces continue their attack on targets around Basra .",
+  "sentence_index" : 2,
+  "Tokens" : [ "And", "to", "the", "south", ",", "British", "forces", "continue", "their", "attack", "on", "targets", "around", "Basra", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "British troops",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E28-39",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R4",
+  "mentionArg1" : {
+    "extent" : "British troops",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E83-38",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R4-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "British troops control the outskirts of the town , and today destroyed another building they said housed Iraqi fighters .",
+  "sentence_index" : 13,
+  "Tokens" : [ "British", "troops", "control", "the", "outskirts", "of", "the", "town", ",", "and", "today", "destroyed", "another", "building", "they", "said", "housed", "Iraqi", "fighters", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "targets around Basra",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "Basra",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E85-151",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R5",
+  "mentionArg1" : {
+    "extent" : "targets around Basra",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E84-150",
+    "start" : 11,
+    "end" : 13
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R5-1",
+  "relationSubType" : "Near",
+  "Sentence" : "And to the south , British forces continue their attack on targets around Basra .",
+  "sentence_index" : 2,
+  "Tokens" : [ "And", "to", "the", "south", ",", "British", "forces", "continue", "their", "attack", "on", "targets", "around", "Basra", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "ITN correspondent",
+  "sentence_length" : 6,
+  "mentionArg2" : {
+    "extent" : "ITN",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E3-4",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R6",
+  "mentionArg1" : {
+    "extent" : "ITN correspondent",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E1-3",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "ITN correspondent Tim Ewart reports .",
+  "sentence_index" : 3,
+  "Tokens" : [ "ITN", "correspondent", "Tim", "Ewart", "reports", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "ITN CORRESPONDENT",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "ITN",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E3-7",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R6",
+  "mentionArg1" : {
+    "extent" : "ITN CORRESPONDENT",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E1-6",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R6-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "( BEGIN VIDEOTAPE ) TIM EWART , ITN CORRESPONDENT These are soldiers of the U.S. 3rd Infantry , fighting near Karbala , southwest of Baghdad .",
+  "sentence_index" : 4,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "TIM", "EWART", ",", "ITN", "CORRESPONDENT", "These", "are", "soldiers", "of", "the", "U.S.", "3rd", "Infantry", ",", "fighting", "near", "Karbala", ",", "southwest", "of", "Baghdad", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Tim Ewart, ITV News, southern Iraq",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "ITV News",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E3-61",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R6",
+  "mentionArg1" : {
+    "extent" : "Tim Ewart",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E1-60",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R6-3",
+  "relationSubType" : "Employment",
+  "Sentence" : "Tim Ewart , ITV News , southern Iraq .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Tim", "Ewart", ",", "ITV", "News", ",", "southern", "Iraq", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the U.S. 3rd Infantry",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E10-11",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R8",
+  "mentionArg1" : {
+    "extent" : "the U.S. 3rd Infantry",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E9-10",
+    "start" : 13,
+    "end" : 16
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R8-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "( BEGIN VIDEOTAPE ) TIM EWART , ITN CORRESPONDENT These are soldiers of the U.S. 3rd Infantry , fighting near Karbala , southwest of Baghdad .",
+  "sentence_index" : 4,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "TIM", "EWART", ",", "ITN", "CORRESPONDENT", "These", "are", "soldiers", "of", "the", "U.S.", "3rd", "Infantry", ",", "fighting", "near", "Karbala", ",", "southwest", "of", "Baghdad", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "soldiers of the U.S. 3rd Infantry, fighting near Karbala, southwest of Baghdad",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "the U.S. 3rd Infantry",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E9-10",
+    "start" : 13,
+    "end" : 16
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R9",
+  "mentionArg1" : {
+    "extent" : "soldiers of the U.S. 3rd Infantry, fighting near Karbala, southwest of Baghdad",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E7-9",
+    "start" : 11,
+    "end" : 24
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R9-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "( BEGIN VIDEOTAPE ) TIM EWART , ITN CORRESPONDENT These are soldiers of the U.S. 3rd Infantry , fighting near Karbala , southwest of Baghdad .",
+  "sentence_index" : 4,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "TIM", "EWART", ",", "ITN", "CORRESPONDENT", "These", "are", "soldiers", "of", "the", "U.S.", "3rd", "Infantry", ",", "fighting", "near", "Karbala", ",", "southwest", "of", "Baghdad", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "soldiers of the U.S. 3rd Infantry, fighting near Karbala, southwest of Baghdad",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Karbala",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E78-12",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R10",
+  "mentionArg1" : {
+    "extent" : "soldiers of the U.S. 3rd Infantry, fighting near Karbala, southwest of Baghdad",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E7-9",
+    "start" : 11,
+    "end" : 24
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R10-1",
+  "relationSubType" : "Near",
+  "Sentence" : "( BEGIN VIDEOTAPE ) TIM EWART , ITN CORRESPONDENT These are soldiers of the U.S. 3rd Infantry , fighting near Karbala , southwest of Baghdad .",
+  "sentence_index" : 4,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "TIM", "EWART", ",", "ITN", "CORRESPONDENT", "These", "are", "soldiers", "of", "the", "U.S.", "3rd", "Infantry", ",", "fighting", "near", "Karbala", ",", "southwest", "of", "Baghdad", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Karbala, southwest of Baghdad",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E77-13",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R11",
+  "mentionArg1" : {
+    "extent" : "Karbala",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E78-12",
+    "start" : 20,
+    "end" : 20
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R11-1",
+  "relationSubType" : "Near",
+  "Sentence" : "( BEGIN VIDEOTAPE ) TIM EWART , ITN CORRESPONDENT These are soldiers of the U.S. 3rd Infantry , fighting near Karbala , southwest of Baghdad .",
+  "sentence_index" : 4,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "TIM", "EWART", ",", "ITN", "CORRESPONDENT", "These", "are", "soldiers", "of", "the", "U.S.", "3rd", "Infantry", ",", "fighting", "near", "Karbala", ",", "southwest", "of", "Baghdad", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "coalition aircraft",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "coalition aircraft",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E14-19",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R12",
+  "mentionArg1" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E15-20",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R12-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "But for all the resistance , coalition aircraft rule the skies and coalition technology is overwhelmingly superior .",
+  "sentence_index" : 6,
+  "Tokens" : [ "But", "for", "all", "the", "resistance", ",", "coalition", "aircraft", "rule", "the", "skies", "and", "coalition", "technology", "is", "overwhelmingly", "superior", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. commanders",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E10-24",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R13",
+  "mentionArg1" : {
+    "extent" : "U.S. commanders",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E18-23",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R13-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "U.S. commanders believe the Republican Guard is a doomed force .",
+  "sentence_index" : 7,
+  "Tokens" : [ "U.S.", "commanders", "believe", "the", "Republican", "Guard", "is", "a", "doomed", "force", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "U.S. CENTRAL COMMAND",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E10-30",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R14",
+  "mentionArg1" : {
+    "extent" : "U.S. CENTRAL COMMAND",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E23-29",
+    "start" : 3,
+    "end" : 5
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R14-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "VINCENT BROOKS , U.S. CENTRAL COMMAND We will approach Baghdad .",
+  "sentence_index" : 10,
+  "Tokens" : [ "VINCENT", "BROOKS", ",", "U.S.", "CENTRAL", "COMMAND", "We", "will", "approach", "Baghdad", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the outskirts of the town",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "the town",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E85-42",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R16",
+  "mentionArg1" : {
+    "extent" : "the outskirts of the town",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E30-41",
+    "start" : 3,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R16-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "British troops control the outskirts of the town , and today destroyed another building they said housed Iraqi fighters .",
+  "sentence_index" : 13,
+  "Tokens" : [ "British", "troops", "control", "the", "outskirts", "of", "the", "town", ",", "and", "today", "destroyed", "another", "building", "they", "said", "housed", "Iraqi", "fighters", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "another building they said housed Iraqi fighters",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "another building they said housed Iraqi fighters",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E31-43",
+    "start" : 12,
+    "end" : 18
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R17",
+  "mentionArg1" : {
+    "extent" : "Iraqi fighters",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E32-45",
+    "start" : 17,
+    "end" : 18
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R17-1",
+  "relationSubType" : "Located",
+  "Sentence" : "British troops control the outskirts of the town , and today destroyed another building they said housed Iraqi fighters .",
+  "sentence_index" : 13,
+  "Tokens" : [ "British", "troops", "control", "the", "outskirts", "of", "the", "town", ",", "and", "today", "destroyed", "another", "building", "they", "said", "housed", "Iraqi", "fighters", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Tim Ewart, ITV News, southern Iraq",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "southern Iraq",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E37-62",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R19",
+  "mentionArg1" : {
+    "extent" : "Tim Ewart",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E1-60",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R19-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Tim Ewart , ITV News , southern Iraq .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Tim", "Ewart", ",", "ITV", "News", ",", "southern", "Iraq", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the rolling hills of northern Iraq",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "northern Iraq",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E41-67",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R20",
+  "mentionArg1" : {
+    "extent" : "the rolling hills of northern Iraq",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E40-66",
+    "start" : 12,
+    "end" : 17
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R20-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "( END VIDEOTAPE ) WOODRUFF From the south to the north in the rolling hills of northern Iraq , coalition air strikes targeted Iraqi positions today in what 's been called a ferocious bombardment .",
+  "sentence_index" : 19,
+  "Tokens" : [ "(", "END", "VIDEOTAPE", ")", "WOODRUFF", "From", "the", "south", "to", "the", "north", "in", "the", "rolling", "hills", "of", "northern", "Iraq", ",", "coalition", "air", "strikes", "targeted", "Iraqi", "positions", "today", "in", "what", "'s", "been", "called", "a", "ferocious", "bombardment", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "CNN's Brent Sadler",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "CNN's",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E47-74",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R21",
+  "mentionArg1" : {
+    "extent" : "CNN's Brent Sadler",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E46-73",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R21-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "CNN 's Brent Sadler is there .",
+  "sentence_index" : 21,
+  "Tokens" : [ "CNN", "'s", "Brent", "Sadler", "is", "there", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "CNN CORRESPONDENT",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E47-79",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R21",
+  "mentionArg1" : {
+    "extent" : "CNN CORRESPONDENT",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E46-77",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R21-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "( BEGIN VIDEOTAPE ) BRENT SADLER , CNN CORRESPONDENT A back road leading to Kirkuk , the heartland of northern Iraq 's oil wealth .",
+  "sentence_index" : 22,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "BRENT", "SADLER", ",", "CNN", "CORRESPONDENT", "A", "back", "road", "leading", "to", "Kirkuk", ",", "the", "heartland", "of", "northern", "Iraq", "'s", "oil", "wealth", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Brent Sadler, CNN, near Kirkuk in northern Iraq",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E47-133",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R21",
+  "mentionArg1" : {
+    "extent" : "Brent Sadler",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E46-132",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R21-3",
+  "relationSubType" : "Employment",
+  "Sentence" : "Brent Sadler , CNN , near Kirkuk in northern Iraq .",
+  "sentence_index" : 39,
+  "Tokens" : [ "Brent", "Sadler", ",", "CNN", ",", "near", "Kirkuk", "in", "northern", "Iraq", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "CNN's Brent Sadler is there",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E45-75",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R22",
+  "mentionArg1" : {
+    "extent" : "CNN's Brent Sadler",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E46-73",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R22-1",
+  "relationSubType" : "Located",
+  "Sentence" : "CNN 's Brent Sadler is there .",
+  "sentence_index" : 21,
+  "Tokens" : [ "CNN", "'s", "Brent", "Sadler", "is", "there", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the heartland of northern Iraq's oil wealth",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "northern Iraq's oil wealth",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E51-84",
+    "start" : 19,
+    "end" : 23
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R24",
+  "mentionArg1" : {
+    "extent" : "the heartland of northern Iraq's oil wealth",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E45-83",
+    "start" : 16,
+    "end" : 23
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R24-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "( BEGIN VIDEOTAPE ) BRENT SADLER , CNN CORRESPONDENT A back road leading to Kirkuk , the heartland of northern Iraq 's oil wealth .",
+  "sentence_index" : 22,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "BRENT", "SADLER", ",", "CNN", "CORRESPONDENT", "A", "back", "road", "leading", "to", "Kirkuk", ",", "the", "heartland", "of", "northern", "Iraq", "'s", "oil", "wealth", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iraqi Kurdish forces",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E33-90",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R25",
+  "mentionArg1" : {
+    "extent" : "Iraqi Kurdish forces",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E52-88",
+    "start" : 9,
+    "end" : 11
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R25-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "A road that 's now in the hands of Iraqi Kurdish forces .",
+  "sentence_index" : 23,
+  "Tokens" : [ "A", "road", "that", "'s", "now", "in", "the", "hands", "of", "Iraqi", "Kurdish", "forces", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iraqi Kurdish forces",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "Kurdish",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E53-89",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R26",
+  "mentionArg1" : {
+    "extent" : "Iraqi Kurdish forces",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E52-88",
+    "start" : 9,
+    "end" : 11
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R26-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "A road that 's now in the hands of Iraqi Kurdish forces .",
+  "sentence_index" : 23,
+  "Tokens" : [ "A", "road", "that", "'s", "now", "in", "the", "hands", "of", "Iraqi", "Kurdish", "forces", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iraqi soldiers",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E33-96",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R27",
+  "mentionArg1" : {
+    "extent" : "Iraqi soldiers",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E58-95",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R27-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Iraqi soldiers fled these positions in a hurry , under the onslaught of coalition bombing .",
+  "sentence_index" : 26,
+  "Tokens" : [ "Iraqi", "soldiers", "fled", "these", "positions", "in", "a", "hurry", ",", "under", "the", "onslaught", "of", "coalition", "bombing", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Kurdish forces",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "Kurdish forces",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E52-99",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R28",
+  "mentionArg1" : {
+    "extent" : "Kurdish",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E53-100",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R28-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "This is the end of the road for Kurdish forces manning this remote checkpoint .",
+  "sentence_index" : 27,
+  "Tokens" : [ "This", "is", "the", "end", "of", "the", "road", "for", "Kurdish", "forces", "manning", "this", "remote", "checkpoint", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "We are now between the lines, a no man's land of abandoned Iraqi bunkers and an unnerving silence, broken by the roar of warplanes and the distant surge of air strikes",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "a no man's land of abandoned Iraqi bunkers and an unnerving silence, broken by the roar of warplanes and the distant surge of air strikes",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E55-109",
+    "start" : 7,
+    "end" : 33
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R29",
+  "mentionArg1" : {
+    "extent" : "We",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E62-104",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R29-1",
+  "relationSubType" : "Located",
+  "Sentence" : "We are now between the lines , a no man 's land of abandoned Iraqi bunkers and an unnerving silence , broken by the roar of warplanes and the distant surge of air strikes .",
+  "sentence_index" : 29,
+  "Tokens" : [ "We", "are", "now", "between", "the", "lines", ",", "a", "no", "man", "'s", "land", "of", "abandoned", "Iraqi", "bunkers", "and", "an", "unnerving", "silence", ",", "broken", "by", "the", "roar", "of", "warplanes", "and", "the", "distant", "surge", "of", "air", "strikes", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "abandoned Iraqi bunkers",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "abandoned Iraqi bunkers",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E63-105",
+    "start" : 13,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R30",
+  "mentionArg1" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E33-106",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R30-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "We are now between the lines , a no man 's land of abandoned Iraqi bunkers and an unnerving silence , broken by the roar of warplanes and the distant surge of air strikes .",
+  "sentence_index" : 29,
+  "Tokens" : [ "We", "are", "now", "between", "the", "lines", ",", "a", "no", "man", "'s", "land", "of", "abandoned", "Iraqi", "bunkers", "and", "an", "unnerving", "silence", ",", "broken", "by", "the", "roar", "of", "warplanes", "and", "the", "distant", "surge", "of", "air", "strikes", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "The oil capital of northern Iraq",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "northern Iraq",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E41-114",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R31",
+  "mentionArg1" : {
+    "extent" : "The oil capital of northern Iraq",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E45-113",
+    "start" : 0,
+    "end" : 5
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R31-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The oil capital of northern Iraq is visible behind me , just over there , a harmless flare of burning gases is easily identifiable .",
+  "sentence_index" : 31,
+  "Tokens" : [ "The", "oil", "capital", "of", "northern", "Iraq", "is", "visible", "behind", "me", ",", "just", "over", "there", ",", "a", "harmless", "flare", "of", "burning", "gases", "is", "easily", "identifiable", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iraq's armed opposition, including these Kurds",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Iraq's",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E33-119",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R32",
+  "mentionArg1" : {
+    "extent" : "Iraq's armed opposition, including these Kurds",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E69-118",
+    "start" : 0,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R32-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Iraq 's armed opposition , including these Kurds , waits on the sidelines to join the fray , if America asks .",
+  "sentence_index" : 34,
+  "Tokens" : [ "Iraq", "'s", "armed", "opposition", ",", "including", "these", "Kurds", ",", "waits", "on", "the", "sidelines", "to", "join", "the", "fray", ",", "if", "America", "asks", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Iraqi opposition",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E33-131",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R32",
+  "mentionArg1" : {
+    "extent" : "the Iraqi opposition",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E69-130",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R32-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "SADLER And , says the Iraqi opposition , in winning this war .",
+  "sentence_index" : 38,
+  "Tokens" : [ "SADLER", "And", ",", "says", "the", "Iraqi", "opposition", ",", "in", "winning", "this", "war", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "KURDISTAN REGIONAL GOV",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "KURDISTAN",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E73-125",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R33",
+  "mentionArg1" : {
+    "extent" : "KURDISTAN REGIONAL GOV",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E72-124",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R33-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "PRIME MINISTER BARHAM SALEH , KURDISTAN REGIONAL GOV .",
+  "sentence_index" : 35,
+  "Tokens" : [ "PRIME", "MINISTER", "BARHAM", "SALEH", ",", "KURDISTAN", "REGIONAL", "GOV", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Brent Sadler, CNN, near Kirkuk in northern Iraq",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "northern Iraq",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E41-135",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R36",
+  "mentionArg1" : {
+    "extent" : "Brent Sadler",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E46-132",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R36-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Brent Sadler , CNN , near Kirkuk in northern Iraq .",
+  "sentence_index" : 39,
+  "Tokens" : [ "Brent", "Sadler", ",", "CNN", ",", "near", "Kirkuk", "in", "northern", "Iraq", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Brent Sadler, CNN, near Kirkuk in northern Iraq",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "Kirkuk",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E45-134",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030402.1600.02-1-R37",
+  "mentionArg1" : {
+    "extent" : "Brent Sadler",
+    "argMentionid" : "CNN_IP_20030402.1600.02-1-E46-132",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030402.1600.02-1-R37-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Brent Sadler , CNN , near Kirkuk in northern Iraq .",
+  "sentence_index" : 39,
+  "Tokens" : [ "Brent", "Sadler", ",", "CNN", ",", "near", "Kirkuk", "in", "northern", "Iraq", "." ]
+} ]

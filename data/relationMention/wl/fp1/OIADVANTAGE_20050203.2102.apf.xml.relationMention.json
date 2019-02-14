@@ -1,0 +1,45 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "Companies that have poor employee relations tend to underperform, as do companies that pollute at a higher rate than their industry peers",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Companies that have poor employee relations",
+    "argMentionid" : "OIADVANTAGE_20050203.2102-E1-2",
+    "start" : 0,
+    "end" : 5
+  },
+  "relationID" : "OIADVANTAGE_20050203.2102-R1",
+  "mentionArg1" : {
+    "extent" : "employee",
+    "argMentionid" : "OIADVANTAGE_20050203.2102-E2-3",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "OIADVANTAGE_20050203.2102-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Companies that have poor employee relations tend to underperform , as do companies that pollute at a higher rate than their industry peers .",
+  "sentence_index" : 16,
+  "Tokens" : [ "Companies", "that", "have", "poor", "employee", "relations", "tend", "to", "underperform", ",", "as", "do", "companies", "that", "pollute", "at", "a", "higher", "rate", "than", "their", "industry", "peers", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "On the other hand, companies with numerous NLRB violations don't do worse than their peers and companies that sell your typical \"sin\" products (tobacco, firearms, gambling) can be excellent investments",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "firearms",
+    "argMentionid" : "OIADVANTAGE_20050203.2102-E23-16",
+    "start" : 30,
+    "end" : 30
+  },
+  "relationID" : "OIADVANTAGE_20050203.2102-R2",
+  "mentionArg1" : {
+    "extent" : "companies that sell your typical \"sin\" products (tobacco, firearms, gambling",
+    "argMentionid" : "OIADVANTAGE_20050203.2102-E8-12",
+    "start" : 18,
+    "end" : 32
+  },
+  "id" : "OIADVANTAGE_20050203.2102-R2-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "On the other hand , companies with numerous NLRB violations do n't do worse than their peers and companies that sell your typical \" sin \" products ( tobacco , firearms , gambling ) can be excellent investments .",
+  "sentence_index" : 17,
+  "Tokens" : [ "On", "the", "other", "hand", ",", "companies", "with", "numerous", "NLRB", "violations", "do", "n't", "do", "worse", "than", "their", "peers", "and", "companies", "that", "sell", "your", "typical", "\"", "sin", "\"", "products", "(", "tobacco", ",", "firearms", ",", "gambling", ")", "can", "be", "excellent", "investments", "." ]
+} ]

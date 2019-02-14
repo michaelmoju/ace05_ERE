@@ -1,0 +1,661 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Palestine, West Virginia",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "West Virginia",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E11-22",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R1",
+  "mentionArg1" : {
+    "extent" : "Palestine, West Virginia",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E10-21",
+    "start" : 3,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "WOODRUFF Meantime in Palestine , West Virginia , there is a lot of joy over the news of Jessica Lynch 's rescue .",
+  "sentence_index" : 8,
+  "Tokens" : [ "WOODRUFF", "Meantime", "in", "Palestine", ",", "West", "Virginia", ",", "there", "is", "a", "lot", "of", "joy", "over", "the", "news", "of", "Jessica", "Lynch", "'s", "rescue", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Jessica Lynch's father",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Jessica Lynch's father",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E12-71",
+    "start" : 3,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R2",
+  "mentionArg1" : {
+    "extent" : "Jessica Lynch",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E38-72",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "I spoke with Jessica Lynch 's father last evening and shared with him our thoughts and good wishes .",
+  "sentence_index" : 23,
+  "Tokens" : [ "I", "spoke", "with", "Jessica", "Lynch", "'s", "father", "last", "evening", "and", "shared", "with", "him", "our", "thoughts", "and", "good", "wishes", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Her father, mother and other family members",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Her father, mother and other family members",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E12-24",
+    "start" : 0,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R2",
+  "mentionArg1" : {
+    "extent" : "Her",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E38-25",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R2-2",
+  "relationSubType" : "Family",
+  "Sentence" : "Her father , mother and other family members say they never gave up hope , despite their fears of what might have happened .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Her", "father", ",", "mother", "and", "other", "family", "members", "say", "they", "never", "gave", "up", "hope", ",", "despite", "their", "fears", "of", "what", "might", "have", "happened", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "military officials",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "military",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E5-1",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R3",
+  "mentionArg1" : {
+    "extent" : "military officials",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E4-4",
+    "start" : 16,
+    "end" : 17
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "We know , though , that 11 bodies were also recovered in this operation , and military officials say they are working now to identify them .",
+  "sentence_index" : 4,
+  "Tokens" : [ "We", "know", ",", "though", ",", "that", "11", "bodies", "were", "also", "recovered", "in", "this", "operation", ",", "and", "military", "officials", "say", "they", "are", "working", "now", "to", "identify", "them", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "rescued American prisoner of war",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E25-88",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R4",
+  "mentionArg1" : {
+    "extent" : "rescued American prisoner of war",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E38-87",
+    "start" : 3,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R4-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "WOODRUFF Well , rescued American prisoner of war Jessica Lynch is expected to arrive at Ramstein air base in Germany just about an hour from now .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WOODRUFF", "Well", ",", "rescued", "American", "prisoner", "of", "war", "Jessica", "Lynch", "is", "expected", "to", "arrive", "at", "Ramstein", "air", "base", "in", "Germany", "just", "about", "an", "hour", "from", "now", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Well, rescued American prisoner of war Jessica Lynch is expected to arrive at Ramstein air base in Germany just about an hour from now",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Ramstein air base in Germany",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E41-89",
+    "start" : 15,
+    "end" : 19
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R5",
+  "mentionArg1" : {
+    "extent" : "rescued American prisoner of war Jessica Lynch",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E38-57",
+    "start" : 3,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "WOODRUFF Well , rescued American prisoner of war Jessica Lynch is expected to arrive at Ramstein air base in Germany just about an hour from now .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WOODRUFF", "Well", ",", "rescued", "American", "prisoner", "of", "war", "Jessica", "Lynch", "is", "expected", "to", "arrive", "at", "Ramstein", "air", "base", "in", "Germany", "just", "about", "an", "hour", "from", "now", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Ramstein air base in Germany",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Germany",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E42-90",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R6",
+  "mentionArg1" : {
+    "extent" : "Ramstein air base in Germany",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E41-89",
+    "start" : 15,
+    "end" : 19
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R6-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "WOODRUFF Well , rescued American prisoner of war Jessica Lynch is expected to arrive at Ramstein air base in Germany just about an hour from now .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WOODRUFF", "Well", ",", "rescued", "American", "prisoner", "of", "war", "Jessica", "Lynch", "is", "expected", "to", "arrive", "at", "Ramstein", "air", "base", "in", "Germany", "just", "about", "an", "hour", "from", "now", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. forces",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E25-95",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R7",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E45-94",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Lynch was rescued in a daring raid by U.S. forces on the Saddam hospital in Nasiriya .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Lynch", "was", "rescued", "in", "a", "daring", "raid", "by", "U.S.", "forces", "on", "the", "Saddam", "hospital", "in", "Nasiriya", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Lynch was rescued in a daring raid by U.S. forces on the Saddam hospital in Nasiriya",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "the Saddam hospital in Nasiriya",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E47-84",
+    "start" : 11,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R8",
+  "mentionArg1" : {
+    "extent" : "Lynch",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E38-93",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Lynch was rescued in a daring raid by U.S. forces on the Saddam hospital in Nasiriya .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Lynch", "was", "rescued", "in", "a", "daring", "raid", "by", "U.S.", "forces", "on", "the", "Saddam", "hospital", "in", "Nasiriya", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Lynch was rescued in a daring raid by U.S. forces on the Saddam hospital in Nasiriya",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "the Saddam hospital in Nasiriya",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E47-84",
+    "start" : 11,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R9",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E45-94",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Lynch was rescued in a daring raid by U.S. forces on the Saddam hospital in Nasiriya .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Lynch", "was", "rescued", "in", "a", "daring", "raid", "by", "U.S.", "forces", "on", "the", "Saddam", "hospital", "in", "Nasiriya", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Saddam hospital in Nasiriya",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Nasiriya",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E48-97",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R10",
+  "mentionArg1" : {
+    "extent" : "the Saddam hospital in Nasiriya",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E47-84",
+    "start" : 11,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R10-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Lynch was rescued in a daring raid by U.S. forces on the Saddam hospital in Nasiriya .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Lynch", "was", "rescued", "in", "a", "daring", "raid", "by", "U.S.", "forces", "on", "the", "Saddam", "hospital", "in", "Nasiriya", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "This nightscope video shows troops carrying the 19-year-old Army private to a Blackhawk helicopter",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "a Blackhawk helicopter",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E1-101",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R11",
+  "mentionArg1" : {
+    "extent" : "troops",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E49-98",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R11-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "This nightscope video shows troops carrying the 19-year-old Army private to a Blackhawk helicopter .",
+  "sentence_index" : 3,
+  "Tokens" : [ "This", "nightscope", "video", "shows", "troops", "carrying", "the", "19-year-old", "Army", "private", "to", "a", "Blackhawk", "helicopter", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the 19-year-old Army private",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "Army",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E9-100",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R12",
+  "mentionArg1" : {
+    "extent" : "the 19-year-old Army private",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E38-99",
+    "start" : 6,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R12-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "This nightscope video shows troops carrying the 19-year-old Army private to a Blackhawk helicopter .",
+  "sentence_index" : 3,
+  "Tokens" : [ "This", "nightscope", "video", "shows", "troops", "carrying", "the", "19-year-old", "Army", "private", "to", "a", "Blackhawk", "helicopter", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "When she's in Germany, Lynch will be treated for bullet wounds and broken bones",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Germany",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E42-9",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R13",
+  "mentionArg1" : {
+    "extent" : "she",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E38-8",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R13-1",
+  "relationSubType" : "Located",
+  "Sentence" : "When she 's in Germany , Lynch will be treated for bullet wounds and broken bones .",
+  "sentence_index" : 5,
+  "Tokens" : [ "When", "she", "'s", "in", "Germany", ",", "Lynch", "will", "be", "treated", "for", "bullet", "wounds", "and", "broken", "bones", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "more than a dozen other members of her Army maintenance unit",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "her Army maintenance unit",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E8-16",
+    "start" : 9,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R14",
+  "mentionArg1" : {
+    "extent" : "more than a dozen other members of her Army maintenance unit",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E7-15",
+    "start" : 2,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R14-1",
+  "relationSubType" : "Business",
+  "Sentence" : "She and more than a dozen other members of her Army maintenance unit were ambushed near Nasiriya more than a week ago .",
+  "sentence_index" : 7,
+  "Tokens" : [ "She", "and", "more", "than", "a", "dozen", "other", "members", "of", "her", "Army", "maintenance", "unit", "were", "ambushed", "near", "Nasiriya", "more", "than", "a", "week", "ago", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her Army maintenance unit",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "her Army maintenance unit",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E8-16",
+    "start" : 9,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R15",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E38-17",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R15-1",
+  "relationSubType" : "Business",
+  "Sentence" : "She and more than a dozen other members of her Army maintenance unit were ambushed near Nasiriya more than a week ago .",
+  "sentence_index" : 7,
+  "Tokens" : [ "She", "and", "more", "than", "a", "dozen", "other", "members", "of", "her", "Army", "maintenance", "unit", "were", "ambushed", "near", "Nasiriya", "more", "than", "a", "week", "ago", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "her Army maintenance unit",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Army",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E9-18",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R16",
+  "mentionArg1" : {
+    "extent" : "her Army maintenance unit",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E8-16",
+    "start" : 9,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R16-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "She and more than a dozen other members of her Army maintenance unit were ambushed near Nasiriya more than a week ago .",
+  "sentence_index" : 7,
+  "Tokens" : [ "She", "and", "more", "than", "a", "dozen", "other", "members", "of", "her", "Army", "maintenance", "unit", "were", "ambushed", "near", "Nasiriya", "more", "than", "a", "week", "ago", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "She and more than a dozen other members of her Army maintenance unit were ambushed near Nasiriya more than a week ago",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Nasiriya",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E48-19",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R17",
+  "mentionArg1" : {
+    "extent" : "She",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E38-14",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R17-1",
+  "relationSubType" : "Located",
+  "Sentence" : "She and more than a dozen other members of her Army maintenance unit were ambushed near Nasiriya more than a week ago .",
+  "sentence_index" : 7,
+  "Tokens" : [ "She", "and", "more", "than", "a", "dozen", "other", "members", "of", "her", "Army", "maintenance", "unit", "were", "ambushed", "near", "Nasiriya", "more", "than", "a", "week", "ago", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "She and more than a dozen other members of her Army maintenance unit were ambushed near Nasiriya more than a week ago",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Nasiriya",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E48-19",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R18",
+  "mentionArg1" : {
+    "extent" : "more than a dozen other members of her Army maintenance unit",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E7-15",
+    "start" : 2,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R18-1",
+  "relationSubType" : "Located",
+  "Sentence" : "She and more than a dozen other members of her Army maintenance unit were ambushed near Nasiriya more than a week ago .",
+  "sentence_index" : 7,
+  "Tokens" : [ "She", "and", "more", "than", "a", "dozen", "other", "members", "of", "her", "Army", "maintenance", "unit", "were", "ambushed", "near", "Nasiriya", "more", "than", "a", "week", "ago", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Her father, mother and other family members",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Her father, mother and other family members",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E13-26",
+    "start" : 0,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R20",
+  "mentionArg1" : {
+    "extent" : "Her",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E38-25",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R20-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Her father , mother and other family members say they never gave up hope , despite their fears of what might have happened .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Her", "father", ",", "mother", "and", "other", "family", "members", "say", "they", "never", "gave", "up", "hope", ",", "despite", "their", "fears", "of", "what", "might", "have", "happened", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Her father, mother and other family members",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Her father, mother and other family members",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E14-27",
+    "start" : 0,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R21",
+  "mentionArg1" : {
+    "extent" : "Her",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E38-25",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R21-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Her father , mother and other family members say they never gave up hope , despite their fears of what might have happened .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Her", "father", ",", "mother", "and", "other", "family", "members", "say", "they", "never", "gave", "up", "hope", ",", "despite", "their", "fears", "of", "what", "might", "have", "happened", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "that went into that building",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "that building",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E47-46",
+    "start" : 27,
+    "end" : 28
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R22",
+  "mentionArg1" : {
+    "extent" : "that",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E19-41",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R22-1",
+  "relationSubType" : "Located",
+  "Sentence" : "But they are doing a job , you know , I do n't know the thoughts of the soldiers , the men and women that went into that building and brought her out .",
+  "sentence_index" : 12,
+  "Tokens" : [ "But", "they", "are", "doing", "a", "job", ",", "you", "know", ",", "I", "do", "n't", "know", "the", "thoughts", "of", "the", "soldiers", ",", "the", "men", "and", "women", "that", "went", "into", "that", "building", "and", "brought", "her", "out", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "West Virginia's United States Senator",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "United States",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E25-53",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R23",
+  "mentionArg1" : {
+    "extent" : "West Virginia's United States Senator",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E23-52",
+    "start" : 6,
+    "end" : 11
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R23-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "( END VIDEO CLIP ) WOODRUFF West Virginia 's United States Senator Robert Byrd is also praising the rescue .",
+  "sentence_index" : 14,
+  "Tokens" : [ "(", "END", "VIDEO", "CLIP", ")", "WOODRUFF", "West", "Virginia", "'s", "United", "States", "Senator", "Robert", "Byrd", "is", "also", "praising", "the", "rescue", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "West Virginia's United States Senator",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "West Virginia",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E11-54",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R24",
+  "mentionArg1" : {
+    "extent" : "West Virginia's United States Senator",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E23-52",
+    "start" : 6,
+    "end" : 11
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R24-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "( END VIDEO CLIP ) WOODRUFF West Virginia 's United States Senator Robert Byrd is also praising the rescue .",
+  "sentence_index" : 14,
+  "Tokens" : [ "(", "END", "VIDEO", "CLIP", ")", "WOODRUFF", "West", "Virginia", "'s", "United", "States", "Senator", "Robert", "Byrd", "is", "also", "praising", "the", "rescue", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the brave Army rangers",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Army",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E9-58",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R25",
+  "mentionArg1" : {
+    "extent" : "the brave Army rangers",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E26-56",
+    "start" : 16,
+    "end" : 19
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R25-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "ROBERT BYRD ( D ) , WEST VIRGINIA She was rescued in a daring effort by the brave Army rangers and Navy SEALS .",
+  "sentence_index" : 16,
+  "Tokens" : [ "ROBERT", "BYRD", "(", "D", ")", ",", "WEST", "VIRGINIA", "She", "was", "rescued", "in", "a", "daring", "effort", "by", "the", "brave", "Army", "rangers", "and", "Navy", "SEALS", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Navy SEALS",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Navy",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E29-60",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R26",
+  "mentionArg1" : {
+    "extent" : "Navy SEALS",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E28-59",
+    "start" : 21,
+    "end" : 22
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R26-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "ROBERT BYRD ( D ) , WEST VIRGINIA She was rescued in a daring effort by the brave Army rangers and Navy SEALS .",
+  "sentence_index" : 16,
+  "Tokens" : [ "ROBERT", "BYRD", "(", "D", ")", ",", "WEST", "VIRGINIA", "She", "was", "rescued", "in", "a", "daring", "effort", "by", "the", "brave", "Army", "rangers", "and", "Navy", "SEALS", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Her state of West Virginia",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "Her state of West Virginia",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E11-62",
+    "start" : 0,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R27",
+  "mentionArg1" : {
+    "extent" : "Her",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E38-64",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R27-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Her state of West Virginia is relieved .",
+  "sentence_index" : 20,
+  "Tokens" : [ "Her", "state", "of", "West", "Virginia", "is", "relieved", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Her community",
+  "sentence_length" : 5,
+  "mentionArg2" : {
+    "extent" : "Her community",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E30-65",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R28",
+  "mentionArg1" : {
+    "extent" : "Her",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E38-66",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R28-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Her community is exuberant .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Her", "community", "is", "exuberant", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Her family",
+  "sentence_length" : 5,
+  "mentionArg2" : {
+    "extent" : "Her family",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E31-68",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R29",
+  "mentionArg1" : {
+    "extent" : "Her",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E38-67",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R29-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Her family is overjoyed .",
+  "sentence_index" : 22,
+  "Tokens" : [ "Her", "family", "is", "overjoyed", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our military analyst",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E43-82",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-3-R30",
+  "mentionArg1" : {
+    "extent" : "our military analyst",
+    "argMentionid" : "CNN_IP_20030402.1600.00-3-E37-81",
+    "start" : 16,
+    "end" : 18
+  },
+  "id" : "CNN_IP_20030402.1600.00-3-R30-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "We preview the potential battles ahead and the strategies in play when we check in with our military analyst .",
+  "sentence_index" : 26,
+  "Tokens" : [ "We", "preview", "the", "potential", "battles", "ahead", "and", "the", "strategies", "in", "play", "when", "we", "check", "in", "with", "our", "military", "analyst", "." ]
+} ]

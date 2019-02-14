@@ -1,0 +1,507 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "our shores",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E3-72",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNN_CF_20030303.1900.00-R2",
+  "mentionArg1" : {
+    "extent" : "our shores",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E99-71",
+    "start" : 9,
+    "end" : 10
+  },
+  "id" : "CNN_CF_20030303.1900.00-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .",
+  "sentence_index" : 12,
+  "Tokens" : [ "And", "these", "bozos", "let", "four", "armed", "Cubans", "land", "on", "our", "shores", "when", "they", "'re", "trying", "to", "make", "a", "high", "terrorist", "alert", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "American shores",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E3-196",
+    "start" : 29,
+    "end" : 29
+  },
+  "relationID" : "CNN_CF_20030303.1900.00-R2",
+  "mentionArg1" : {
+    "extent" : "American shores",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E99-195",
+    "start" : 29,
+    "end" : 30
+  },
+  "id" : "CNN_CF_20030303.1900.00-R2-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Even", "as", "the", "secretary", "of", "homeland", "security", "was", "putting", "his", "people", "on", "high", "alert", "last", "month", ",", "a", "30-foot", "Cuban", "patrol", "boat", "with", "four", "heavily", "armed", "men", "landed", "on", "American", "shores", ",", "utterly", "undetected", "by", "the", "Coast", "Guard", "Secretary", "Ridge", "now", "leads", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Our president",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "Our",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E3-75",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_CF_20030303.1900.00-R3",
+  "mentionArg1" : {
+    "extent" : "Our president",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E2-74",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_CF_20030303.1900.00-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Our president has put homeland security in the hands of failed Republican hacks .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Our", "president", "has", "put", "homeland", "security", "in", "the", "hands", "of", "failed", "Republican", "hacks", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our president",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E3-4",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_CF_20030303.1900.00-R3",
+  "mentionArg1" : {
+    "extent" : "our president",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E2-3",
+    "start" : 4,
+    "end" : 5
+  },
+  "id" : "CNN_CF_20030303.1900.00-R3-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Now , why has our president placed homeland security in the hands of Republican political hacks instead of professionals , by the way ?",
+  "sentence_index" : 3,
+  "Tokens" : [ "Now", ",", "why", "has", "our", "president", "placed", "homeland", "security", "in", "the", "hands", "of", "Republican", "political", "hacks", "instead", "of", "professionals", ",", "by", "the", "way", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "failed Republican hacks",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "Republican",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E5-78",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_CF_20030303.1900.00-R4",
+  "mentionArg1" : {
+    "extent" : "failed Republican hacks",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E4-77",
+    "start" : 10,
+    "end" : 12
+  },
+  "id" : "CNN_CF_20030303.1900.00-R4-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Our president has put homeland security in the hands of failed Republican hacks .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Our", "president", "has", "put", "homeland", "security", "in", "the", "hands", "of", "failed", "Republican", "hacks", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Republican political hacks",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Republican",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E5-7",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "CNN_CF_20030303.1900.00-R4",
+  "mentionArg1" : {
+    "extent" : "Republican political hacks",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E4-6",
+    "start" : 13,
+    "end" : 15
+  },
+  "id" : "CNN_CF_20030303.1900.00-R4-2",
+  "relationSubType" : "Membership",
+  "Sentence" : "Now , why has our president placed homeland security in the hands of Republican political hacks instead of professionals , by the way ?",
+  "sentence_index" : 3,
+  "Tokens" : [ "Now", ",", "why", "has", "our", "president", "placed", "homeland", "security", "in", "the", "hands", "of", "Republican", "political", "hacks", "instead", "of", "professionals", ",", "by", "the", "way", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his economic team",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "his economic team",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E83-166",
+    "start" : 28,
+    "end" : 30
+  },
+  "relationID" : "CNN_CF_20030303.1900.00-R5",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E2-130",
+    "start" : 28,
+    "end" : 28
+  },
+  "id" : "CNN_CF_20030303.1900.00-R5-1",
+  "relationSubType" : "Business",
+  "Sentence" : "In all , two million Americans have lost their jobs under President Bush so far , not to mention three of them being the top three leaders of his economic team .",
+  "sentence_index" : 33,
+  "Tokens" : [ "In", "all", ",", "two", "million", "Americans", "have", "lost", "their", "jobs", "under", "President", "Bush", "so", "far", ",", "not", "to", "mention", "three", "of", "them", "being", "the", "top", "three", "leaders", "of", "his", "economic", "team", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a 30-foot Cuban patrol boat with four heavily armed men",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "a 30-foot Cuban patrol boat with four heavily armed men",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E96-192",
+    "start" : 17,
+    "end" : 26
+  },
+  "relationID" : "CNN_CF_20030303.1900.00-R6",
+  "mentionArg1" : {
+    "extent" : "Cuban",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E97-193",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "CNN_CF_20030303.1900.00-R6-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Even", "as", "the", "secretary", "of", "homeland", "security", "was", "putting", "his", "people", "on", "high", "alert", "last", "month", ",", "a", "30-foot", "Cuban", "patrol", "boat", "with", "four", "heavily", "armed", "men", "landed", "on", "American", "shores", ",", "utterly", "undetected", "by", "the", "Coast", "Guard", "Secretary", "Ridge", "now", "leads", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a 30-foot Cuban patrol boat with four heavily armed men",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "a 30-foot Cuban patrol boat with four heavily armed men",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E96-192",
+    "start" : 17,
+    "end" : 26
+  },
+  "relationID" : "CNN_CF_20030303.1900.00-R7",
+  "mentionArg1" : {
+    "extent" : "four heavily armed men",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E98-194",
+    "start" : 23,
+    "end" : 26
+  },
+  "id" : "CNN_CF_20030303.1900.00-R7-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Even", "as", "the", "secretary", "of", "homeland", "security", "was", "putting", "his", "people", "on", "high", "alert", "last", "month", ",", "a", "30-foot", "Cuban", "patrol", "boat", "with", "four", "heavily", "armed", "men", "landed", "on", "American", "shores", ",", "utterly", "undetected", "by", "the", "Coast", "Guard", "Secretary", "Ridge", "now", "leads", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Secretary of Homeland Security",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Homeland Security",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E55-161",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "CNN_CF_20030303.1900.00-R10",
+  "mentionArg1" : {
+    "extent" : "Secretary of Homeland Security",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E1-15",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNN_CF_20030303.1900.00-R10-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Secretary of Homeland Security Tom Ridge is another career politician who was passed over by Mr. Bush for the vice presidency .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Secretary", "of", "Homeland", "Security", "Tom", "Ridge", "is", "another", "career", "politician", "who", "was", "passed", "over", "by", "Mr.", "Bush", "for", "the", "vice", "presidency", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the secretary of homeland security",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "homeland security",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E55-162",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "CNN_CF_20030303.1900.00-R10",
+  "mentionArg1" : {
+    "extent" : "the secretary of homeland security",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E1-188",
+    "start" : 2,
+    "end" : 6
+  },
+  "id" : "CNN_CF_20030303.1900.00-R10-2",
+  "relationSubType" : "Membership",
+  "Sentence" : "Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Even", "as", "the", "secretary", "of", "homeland", "security", "was", "putting", "his", "people", "on", "high", "alert", "last", "month", ",", "a", "30-foot", "Cuban", "patrol", "boat", "with", "four", "heavily", "armed", "men", "landed", "on", "American", "shores", ",", "utterly", "undetected", "by", "the", "Coast", "Guard", "Secretary", "Ridge", "now", "leads", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Deputy Secretary of Homeland Security",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Homeland Security",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E55-85",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "CNN_CF_20030303.1900.00-R11",
+  "mentionArg1" : {
+    "extent" : "Deputy Secretary of Homeland Security",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E15-22",
+    "start" : 1,
+    "end" : 5
+  },
+  "id" : "CNN_CF_20030303.1900.00-R11-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "And Deputy Secretary of Homeland Security Asa Hutchinson is yet another career politician and a graduate of the disgraceful Bob Jones University .",
+  "sentence_index" : 7,
+  "Tokens" : [ "And", "Deputy", "Secretary", "of", "Homeland", "Security", "Asa", "Hutchinson", "is", "yet", "another", "career", "politician", "and", "a", "graduate", "of", "the", "disgraceful", "Bob", "Jones", "University", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a graduate of the disgraceful Bob Jones University",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "the disgraceful Bob Jones University",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E20-26",
+    "start" : 17,
+    "end" : 21
+  },
+  "relationID" : "CNN_CF_20030303.1900.00-R12",
+  "mentionArg1" : {
+    "extent" : "a graduate of the disgraceful Bob Jones University",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E15-25",
+    "start" : 14,
+    "end" : 21
+  },
+  "id" : "CNN_CF_20030303.1900.00-R12-1",
+  "relationSubType" : "Student-Alum",
+  "Sentence" : "And Deputy Secretary of Homeland Security Asa Hutchinson is yet another career politician and a graduate of the disgraceful Bob Jones University .",
+  "sentence_index" : 7,
+  "Tokens" : [ "And", "Deputy", "Secretary", "of", "Homeland", "Security", "Asa", "Hutchinson", "is", "yet", "another", "career", "politician", "and", "a", "graduate", "of", "the", "disgraceful", "Bob", "Jones", "University", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Clinton administration",
+  "sentence_length" : 89,
+  "mentionArg2" : {
+    "extent" : "the Clinton administration",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E25-39",
+    "start" : 5,
+    "end" : 7
+  },
+  "relationID" : "CNN_CF_20030303.1900.00-R13",
+  "mentionArg1" : {
+    "extent" : "Clinton",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E27-40",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "CNN_CF_20030303.1900.00-R13-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Now in your administration , the Clinton administration , there were these members of the cabinet who by your definition were professional politicians -- Lloyd Bentsen , Les Aspin , William S. Cohen , Janet Reno , Bruce Babbitt , Mike Espy , Dan Glickman , Norman Mineta , Henry Cisneros , Federico Pena , Bill Richardson , Richard Riley , 12 of them , not to mention former Democratic National Chairman Ron Brown , and one of the great professional politicians of all time , Bill Daly .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Now", "in", "your", "administration", ",", "the", "Clinton", "administration", ",", "there", "were", "these", "members", "of", "the", "cabinet", "who", "by", "your", "definition", "were", "professional", "politicians", "--", "Lloyd", "Bentsen", ",", "Les", "Aspin", ",", "William", "S.", "Cohen", ",", "Janet", "Reno", ",", "Bruce", "Babbitt", ",", "Mike", "Espy", ",", "Dan", "Glickman", ",", "Norman", "Mineta", ",", "Henry", "Cisneros", ",", "Federico", "Pena", ",", "Bill", "Richardson", ",", "Richard", "Riley", ",", "12", "of", "them", ",", "not", "to", "mention", "former", "Democratic", "National", "Chairman", "Ron", "Brown", ",", "and", "one", "of", "the", "great", "professional", "politicians", "of", "all", "time", ",", "Bill", "Daly", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "And these bozos let four armed Cubans land on our shores when they're trying to make a high terrorist alert",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "our shores",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E99-71",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "CNN_CF_20030303.1900.00-R14",
+  "mentionArg1" : {
+    "extent" : "four armed Cubans",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E98-70",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "CNN_CF_20030303.1900.00-R14-1",
+  "relationSubType" : "Located",
+  "Sentence" : "And these bozos let four armed Cubans land on our shores when they 're trying to make a high terrorist alert .",
+  "sentence_index" : 12,
+  "Tokens" : [ "And", "these", "bozos", "let", "four", "armed", "Cubans", "land", "on", "our", "shores", "when", "they", "'re", "trying", "to", "make", "a", "high", "terrorist", "alert", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "So it's OK -- it's OK to have professional politicians at the Justice Department and the Pentagon",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "the Justice Department",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E53-83",
+    "start" : 14,
+    "end" : 16
+  },
+  "relationID" : "CNN_CF_20030303.1900.00-R15",
+  "mentionArg1" : {
+    "extent" : "professional politicians",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E52-82",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "CNN_CF_20030303.1900.00-R15-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "NOVAK So it 's OK -- it 's OK to have professional politicians at the Justice Department and the Pentagon ... BEGALA Janet Reno was a career prosecutor .",
+  "sentence_index" : 15,
+  "Tokens" : [ "NOVAK", "So", "it", "'s", "OK", "--", "it", "'s", "OK", "to", "have", "professional", "politicians", "at", "the", "Justice", "Department", "and", "the", "Pentagon", "...", "BEGALA", "Janet", "Reno", "was", "a", "career", "prosecutor", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "So it's OK -- it's OK to have professional politicians at the Justice Department and the Pentagon",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "the Pentagon",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E54-84",
+    "start" : 18,
+    "end" : 19
+  },
+  "relationID" : "CNN_CF_20030303.1900.00-R16",
+  "mentionArg1" : {
+    "extent" : "professional politicians",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E52-82",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "CNN_CF_20030303.1900.00-R16-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "NOVAK So it 's OK -- it 's OK to have professional politicians at the Justice Department and the Pentagon ... BEGALA Janet Reno was a career prosecutor .",
+  "sentence_index" : 15,
+  "Tokens" : [ "NOVAK", "So", "it", "'s", "OK", "--", "it", "'s", "OK", "to", "have", "professional", "politicians", "at", "the", "Justice", "Department", "and", "the", "Pentagon", "...", "BEGALA", "Janet", "Reno", "was", "a", "career", "prosecutor", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "It's OK to put Democratic career politicians at the Pentagon and the Justice Department if they're Democrats but not if they're Republicans, is that right",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "the Pentagon",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E54-92",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "CNN_CF_20030303.1900.00-R17",
+  "mentionArg1" : {
+    "extent" : "Democratic career politicians",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E57-90",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "CNN_CF_20030303.1900.00-R17-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "It 's OK to put Democratic career politicians at the Pentagon and the Justice Department if they 're Democrats but not if they 're Republicans , is that right ?",
+  "sentence_index" : 17,
+  "Tokens" : [ "It", "'s", "OK", "to", "put", "Democratic", "career", "politicians", "at", "the", "Pentagon", "and", "the", "Justice", "Department", "if", "they", "'re", "Democrats", "but", "not", "if", "they", "'re", "Republicans", ",", "is", "that", "right", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "It's OK to put Democratic career politicians at the Pentagon and the Justice Department if they're Democrats but not if they're Republicans, is that right",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "the Justice Department",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E53-93",
+    "start" : 12,
+    "end" : 14
+  },
+  "relationID" : "CNN_CF_20030303.1900.00-R18",
+  "mentionArg1" : {
+    "extent" : "Democratic career politicians",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E57-90",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "CNN_CF_20030303.1900.00-R18-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "It 's OK to put Democratic career politicians at the Pentagon and the Justice Department if they 're Democrats but not if they 're Republicans , is that right ?",
+  "sentence_index" : 17,
+  "Tokens" : [ "It", "'s", "OK", "to", "put", "Democratic", "career", "politicians", "at", "the", "Pentagon", "and", "the", "Justice", "Department", "if", "they", "'re", "Democrats", "but", "not", "if", "they", "'re", "Republicans", ",", "is", "that", "right", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Another potential Democratic presidential candidate",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Democratic",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E45-100",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_CF_20030303.1900.00-R19",
+  "mentionArg1" : {
+    "extent" : "Another potential Democratic presidential candidate",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E61-99",
+    "start" : 1,
+    "end" : 5
+  },
+  "id" : "CNN_CF_20030303.1900.00-R19-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "NOVAK Another potential Democratic presidential candidate pondered whether to run , and he made his announcement , and surprise , surprise , the answer was no .",
+  "sentence_index" : 20,
+  "Tokens" : [ "NOVAK", "Another", "potential", "Democratic", "presidential", "candidate", "pondered", "whether", "to", "run", ",", "and", "he", "made", "his", "announcement", ",", "and", "surprise", ",", "surprise", ",", "the", "answer", "was", "no", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Senator Christopher Dodd of Connecticut",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Connecticut",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E17-23",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_CF_20030303.1900.00-R20",
+  "mentionArg1" : {
+    "extent" : "Senator Christopher Dodd of Connecticut",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E61-104",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "CNN_CF_20030303.1900.00-R20-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Senator Christopher Dodd of Connecticut made the announcement today that he would not be the 10th candidate for the nomination .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Senator", "Christopher", "Dodd", "of", "Connecticut", "made", "the", "announcement", "today", "that", "he", "would", "not", "be", "the", "10th", "candidate", "for", "the", "nomination", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his aides",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E2-133",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "CNN_CF_20030303.1900.00-R21",
+  "mentionArg1" : {
+    "extent" : "his aides",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E87-168",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "CNN_CF_20030303.1900.00-R21-1",
+  "relationSubType" : "Business",
+  "Sentence" : "One of his aides tells the current issue of \" TIME , \" magazine , quote , \" even if it 's $500 billion , so what ? \"",
+  "sentence_index" : 37,
+  "Tokens" : [ "One", "of", "his", "aides", "tells", "the", "current", "issue", "of", "\"", "TIME", ",", "\"", "magazine", ",", "quote", ",", "\"", "even", "if", "it", "'s", "$500", "billion", ",", "so", "what", "?", "\"" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his people",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "his people",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E88-171",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "CNN_CF_20030303.1900.00-R22",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_CF_20030303.1900.00-E1-190",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "CNN_CF_20030303.1900.00-R22-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Even as the secretary of homeland security was putting his people on high alert last month , a 30-foot Cuban patrol boat with four heavily armed men landed on American shores , utterly undetected by the Coast Guard Secretary Ridge now leads .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Even", "as", "the", "secretary", "of", "homeland", "security", "was", "putting", "his", "people", "on", "high", "alert", "last", "month", ",", "a", "30-foot", "Cuban", "patrol", "boat", "with", "four", "heavily", "armed", "men", "landed", "on", "American", "shores", ",", "utterly", "undetected", "by", "the", "Coast", "Guard", "Secretary", "Ridge", "now", "leads", "." ]
+} ]

@@ -1,0 +1,199 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the iraqi capital",
+  "sentence_length" : 179,
+  "mentionArg2" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNN_ENG_20030430_160723.6-E20-37",
+    "start" : 49,
+    "end" : 49
+  },
+  "relationID" : "CNN_ENG_20030430_160723.6-R1",
+  "mentionArg1" : {
+    "extent" : "the iraqi capital",
+    "argMentionid" : "CNN_ENG_20030430_160723.6-E16-35",
+    "start" : 48,
+    "end" : 50
+  },
+  "id" : "CNN_ENG_20030430_160723.6-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "it 's wednesday , april 30 , 2003. hello from washington. i 'm wolf blitzer reporting. we are following several major developments right now. that was then , this is now , 20 years after meeting saddam hussein in baghdad , defense secretary donald rumsfeld is back in the iraqi capital with victorious u . s. troops. and you 're looking at a live picture from the \" uss abraham lincoln \" on its way back from war. from its flight deck president bush will make a major announcement to the american people tomorrow night on the end of major combat in iraq. right now we 're also waiting to hear from the president at the white house. we 'll bring you his comments as soon as we get them and we 'll get to all of that shortly , but first. a move by the president today designed to save children 's lives and among his guests in the rose garden , elizabeth smart. here 's cnn 's justice correspondent kelli arena. she is joining us live .",
+  "sentence_index" : 0,
+  "Tokens" : [ "it", "'s", "wednesday", ",", "april", "30", ",", "2003.", "hello", "from", "washington.", "i", "'m", "wolf", "blitzer", "reporting.", "we", "are", "following", "several", "major", "developments", "right", "now.", "that", "was", "then", ",", "this", "is", "now", ",", "20", "years", "after", "meeting", "saddam", "hussein", "in", "baghdad", ",", "defense", "secretary", "donald", "rumsfeld", "is", "back", "in", "the", "iraqi", "capital", "with", "victorious", "u", ".", "s.", "troops.", "and", "you", "'re", "looking", "at", "a", "live", "picture", "from", "the", "\"", "uss", "abraham", "lincoln", "\"", "on", "its", "way", "back", "from", "war.", "from", "its", "flight", "deck", "president", "bush", "will", "make", "a", "major", "announcement", "to", "the", "american", "people", "tomorrow", "night", "on", "the", "end", "of", "major", "combat", "in", "iraq.", "right", "now", "we", "'re", "also", "waiting", "to", "hear", "from", "the", "president", "at", "the", "white", "house.", "we", "'ll", "bring", "you", "his", "comments", "as", "soon", "as", "we", "get", "them", "and", "we", "'ll", "get", "to", "all", "of", "that", "shortly", ",", "but", "first.", "a", "move", "by", "the", "president", "today", "designed", "to", "save", "children", "'s", "lives", "and", "among", "his", "guests", "in", "the", "rose", "garden", ",", "elizabeth", "smart.", "here", "'s", "cnn", "'s", "justice", "correspondent", "kelli", "arena.", "she", "is", "joining", "us", "live", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "victorious u.s. troops",
+  "sentence_length" : 179,
+  "mentionArg2" : {
+    "extent" : "u.s",
+    "argMentionid" : "CNN_ENG_20030430_160723.6-E4-39",
+    "start" : 53,
+    "end" : 55
+  },
+  "relationID" : "CNN_ENG_20030430_160723.6-R2",
+  "mentionArg1" : {
+    "extent" : "victorious u.s. troops",
+    "argMentionid" : "CNN_ENG_20030430_160723.6-E22-38",
+    "start" : 52,
+    "end" : 56
+  },
+  "id" : "CNN_ENG_20030430_160723.6-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "it 's wednesday , april 30 , 2003. hello from washington. i 'm wolf blitzer reporting. we are following several major developments right now. that was then , this is now , 20 years after meeting saddam hussein in baghdad , defense secretary donald rumsfeld is back in the iraqi capital with victorious u . s. troops. and you 're looking at a live picture from the \" uss abraham lincoln \" on its way back from war. from its flight deck president bush will make a major announcement to the american people tomorrow night on the end of major combat in iraq. right now we 're also waiting to hear from the president at the white house. we 'll bring you his comments as soon as we get them and we 'll get to all of that shortly , but first. a move by the president today designed to save children 's lives and among his guests in the rose garden , elizabeth smart. here 's cnn 's justice correspondent kelli arena. she is joining us live .",
+  "sentence_index" : 0,
+  "Tokens" : [ "it", "'s", "wednesday", ",", "april", "30", ",", "2003.", "hello", "from", "washington.", "i", "'m", "wolf", "blitzer", "reporting.", "we", "are", "following", "several", "major", "developments", "right", "now.", "that", "was", "then", ",", "this", "is", "now", ",", "20", "years", "after", "meeting", "saddam", "hussein", "in", "baghdad", ",", "defense", "secretary", "donald", "rumsfeld", "is", "back", "in", "the", "iraqi", "capital", "with", "victorious", "u", ".", "s.", "troops.", "and", "you", "'re", "looking", "at", "a", "live", "picture", "from", "the", "\"", "uss", "abraham", "lincoln", "\"", "on", "its", "way", "back", "from", "war.", "from", "its", "flight", "deck", "president", "bush", "will", "make", "a", "major", "announcement", "to", "the", "american", "people", "tomorrow", "night", "on", "the", "end", "of", "major", "combat", "in", "iraq.", "right", "now", "we", "'re", "also", "waiting", "to", "hear", "from", "the", "president", "at", "the", "white", "house.", "we", "'ll", "bring", "you", "his", "comments", "as", "soon", "as", "we", "get", "them", "and", "we", "'ll", "get", "to", "all", "of", "that", "shortly", ",", "but", "first.", "a", "move", "by", "the", "president", "today", "designed", "to", "save", "children", "'s", "lives", "and", "among", "his", "guests", "in", "the", "rose", "garden", ",", "elizabeth", "smart.", "here", "'s", "cnn", "'s", "justice", "correspondent", "kelli", "arena.", "she", "is", "joining", "us", "live", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "that was then, this is now, 20 years after meeting saddam hussein in baghdad, defense secretary donald rumsfeld is back in the iraqi capital with victorious u.s. troops",
+  "sentence_length" : 179,
+  "mentionArg2" : {
+    "extent" : "baghdad",
+    "argMentionid" : "CNN_ENG_20030430_160723.6-E16-32",
+    "start" : 39,
+    "end" : 39
+  },
+  "relationID" : "CNN_ENG_20030430_160723.6-R3",
+  "mentionArg1" : {
+    "extent" : "defense secretary donald rumsfeld",
+    "argMentionid" : "CNN_ENG_20030430_160723.6-E17-33",
+    "start" : 41,
+    "end" : 44
+  },
+  "id" : "CNN_ENG_20030430_160723.6-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "it 's wednesday , april 30 , 2003. hello from washington. i 'm wolf blitzer reporting. we are following several major developments right now. that was then , this is now , 20 years after meeting saddam hussein in baghdad , defense secretary donald rumsfeld is back in the iraqi capital with victorious u . s. troops. and you 're looking at a live picture from the \" uss abraham lincoln \" on its way back from war. from its flight deck president bush will make a major announcement to the american people tomorrow night on the end of major combat in iraq. right now we 're also waiting to hear from the president at the white house. we 'll bring you his comments as soon as we get them and we 'll get to all of that shortly , but first. a move by the president today designed to save children 's lives and among his guests in the rose garden , elizabeth smart. here 's cnn 's justice correspondent kelli arena. she is joining us live .",
+  "sentence_index" : 0,
+  "Tokens" : [ "it", "'s", "wednesday", ",", "april", "30", ",", "2003.", "hello", "from", "washington.", "i", "'m", "wolf", "blitzer", "reporting.", "we", "are", "following", "several", "major", "developments", "right", "now.", "that", "was", "then", ",", "this", "is", "now", ",", "20", "years", "after", "meeting", "saddam", "hussein", "in", "baghdad", ",", "defense", "secretary", "donald", "rumsfeld", "is", "back", "in", "the", "iraqi", "capital", "with", "victorious", "u", ".", "s.", "troops.", "and", "you", "'re", "looking", "at", "a", "live", "picture", "from", "the", "\"", "uss", "abraham", "lincoln", "\"", "on", "its", "way", "back", "from", "war.", "from", "its", "flight", "deck", "president", "bush", "will", "make", "a", "major", "announcement", "to", "the", "american", "people", "tomorrow", "night", "on", "the", "end", "of", "major", "combat", "in", "iraq.", "right", "now", "we", "'re", "also", "waiting", "to", "hear", "from", "the", "president", "at", "the", "white", "house.", "we", "'ll", "bring", "you", "his", "comments", "as", "soon", "as", "we", "get", "them", "and", "we", "'ll", "get", "to", "all", "of", "that", "shortly", ",", "but", "first.", "a", "move", "by", "the", "president", "today", "designed", "to", "save", "children", "'s", "lives", "and", "among", "his", "guests", "in", "the", "rose", "garden", ",", "elizabeth", "smart.", "here", "'s", "cnn", "'s", "justice", "correspondent", "kelli", "arena.", "she", "is", "joining", "us", "live", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "that was then, this is now, 20 years after meeting saddam hussein in baghdad, defense secretary donald rumsfeld is back in the iraqi capital with victorious u.s. troops",
+  "sentence_length" : 179,
+  "mentionArg2" : {
+    "extent" : "the iraqi capital",
+    "argMentionid" : "CNN_ENG_20030430_160723.6-E16-35",
+    "start" : 48,
+    "end" : 50
+  },
+  "relationID" : "CNN_ENG_20030430_160723.6-R4",
+  "mentionArg1" : {
+    "extent" : "defense secretary donald rumsfeld",
+    "argMentionid" : "CNN_ENG_20030430_160723.6-E17-33",
+    "start" : 41,
+    "end" : 44
+  },
+  "id" : "CNN_ENG_20030430_160723.6-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "it 's wednesday , april 30 , 2003. hello from washington. i 'm wolf blitzer reporting. we are following several major developments right now. that was then , this is now , 20 years after meeting saddam hussein in baghdad , defense secretary donald rumsfeld is back in the iraqi capital with victorious u . s. troops. and you 're looking at a live picture from the \" uss abraham lincoln \" on its way back from war. from its flight deck president bush will make a major announcement to the american people tomorrow night on the end of major combat in iraq. right now we 're also waiting to hear from the president at the white house. we 'll bring you his comments as soon as we get them and we 'll get to all of that shortly , but first. a move by the president today designed to save children 's lives and among his guests in the rose garden , elizabeth smart. here 's cnn 's justice correspondent kelli arena. she is joining us live .",
+  "sentence_index" : 0,
+  "Tokens" : [ "it", "'s", "wednesday", ",", "april", "30", ",", "2003.", "hello", "from", "washington.", "i", "'m", "wolf", "blitzer", "reporting.", "we", "are", "following", "several", "major", "developments", "right", "now.", "that", "was", "then", ",", "this", "is", "now", ",", "20", "years", "after", "meeting", "saddam", "hussein", "in", "baghdad", ",", "defense", "secretary", "donald", "rumsfeld", "is", "back", "in", "the", "iraqi", "capital", "with", "victorious", "u", ".", "s.", "troops.", "and", "you", "'re", "looking", "at", "a", "live", "picture", "from", "the", "\"", "uss", "abraham", "lincoln", "\"", "on", "its", "way", "back", "from", "war.", "from", "its", "flight", "deck", "president", "bush", "will", "make", "a", "major", "announcement", "to", "the", "american", "people", "tomorrow", "night", "on", "the", "end", "of", "major", "combat", "in", "iraq.", "right", "now", "we", "'re", "also", "waiting", "to", "hear", "from", "the", "president", "at", "the", "white", "house.", "we", "'ll", "bring", "you", "his", "comments", "as", "soon", "as", "we", "get", "them", "and", "we", "'ll", "get", "to", "all", "of", "that", "shortly", ",", "but", "first.", "a", "move", "by", "the", "president", "today", "designed", "to", "save", "children", "'s", "lives", "and", "among", "his", "guests", "in", "the", "rose", "garden", ",", "elizabeth", "smart.", "here", "'s", "cnn", "'s", "justice", "correspondent", "kelli", "arena.", "she", "is", "joining", "us", "live", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "that was then, this is now, 20 years after meeting saddam hussein in baghdad, defense secretary donald rumsfeld is back in the iraqi capital with victorious u.s. troops",
+  "sentence_length" : 179,
+  "mentionArg2" : {
+    "extent" : "the iraqi capital",
+    "argMentionid" : "CNN_ENG_20030430_160723.6-E16-35",
+    "start" : 48,
+    "end" : 50
+  },
+  "relationID" : "CNN_ENG_20030430_160723.6-R5",
+  "mentionArg1" : {
+    "extent" : "victorious u.s. troops",
+    "argMentionid" : "CNN_ENG_20030430_160723.6-E22-38",
+    "start" : 52,
+    "end" : 56
+  },
+  "id" : "CNN_ENG_20030430_160723.6-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "it 's wednesday , april 30 , 2003. hello from washington. i 'm wolf blitzer reporting. we are following several major developments right now. that was then , this is now , 20 years after meeting saddam hussein in baghdad , defense secretary donald rumsfeld is back in the iraqi capital with victorious u . s. troops. and you 're looking at a live picture from the \" uss abraham lincoln \" on its way back from war. from its flight deck president bush will make a major announcement to the american people tomorrow night on the end of major combat in iraq. right now we 're also waiting to hear from the president at the white house. we 'll bring you his comments as soon as we get them and we 'll get to all of that shortly , but first. a move by the president today designed to save children 's lives and among his guests in the rose garden , elizabeth smart. here 's cnn 's justice correspondent kelli arena. she is joining us live .",
+  "sentence_index" : 0,
+  "Tokens" : [ "it", "'s", "wednesday", ",", "april", "30", ",", "2003.", "hello", "from", "washington.", "i", "'m", "wolf", "blitzer", "reporting.", "we", "are", "following", "several", "major", "developments", "right", "now.", "that", "was", "then", ",", "this", "is", "now", ",", "20", "years", "after", "meeting", "saddam", "hussein", "in", "baghdad", ",", "defense", "secretary", "donald", "rumsfeld", "is", "back", "in", "the", "iraqi", "capital", "with", "victorious", "u", ".", "s.", "troops.", "and", "you", "'re", "looking", "at", "a", "live", "picture", "from", "the", "\"", "uss", "abraham", "lincoln", "\"", "on", "its", "way", "back", "from", "war.", "from", "its", "flight", "deck", "president", "bush", "will", "make", "a", "major", "announcement", "to", "the", "american", "people", "tomorrow", "night", "on", "the", "end", "of", "major", "combat", "in", "iraq.", "right", "now", "we", "'re", "also", "waiting", "to", "hear", "from", "the", "president", "at", "the", "white", "house.", "we", "'ll", "bring", "you", "his", "comments", "as", "soon", "as", "we", "get", "them", "and", "we", "'ll", "get", "to", "all", "of", "that", "shortly", ",", "but", "first.", "a", "move", "by", "the", "president", "today", "designed", "to", "save", "children", "'s", "lives", "and", "among", "his", "guests", "in", "the", "rose", "garden", ",", "elizabeth", "smart.", "here", "'s", "cnn", "'s", "justice", "correspondent", "kelli", "arena.", "she", "is", "joining", "us", "live", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "cnn's justice correspondent",
+  "sentence_length" : 179,
+  "mentionArg2" : {
+    "extent" : "cnn",
+    "argMentionid" : "CNN_ENG_20030430_160723.6-E14-22",
+    "start" : 167,
+    "end" : 167
+  },
+  "relationID" : "CNN_ENG_20030430_160723.6-R6",
+  "mentionArg1" : {
+    "extent" : "cnn's justice correspondent",
+    "argMentionid" : "CNN_ENG_20030430_160723.6-E9-23",
+    "start" : 167,
+    "end" : 170
+  },
+  "id" : "CNN_ENG_20030430_160723.6-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "it 's wednesday , april 30 , 2003. hello from washington. i 'm wolf blitzer reporting. we are following several major developments right now. that was then , this is now , 20 years after meeting saddam hussein in baghdad , defense secretary donald rumsfeld is back in the iraqi capital with victorious u . s. troops. and you 're looking at a live picture from the \" uss abraham lincoln \" on its way back from war. from its flight deck president bush will make a major announcement to the american people tomorrow night on the end of major combat in iraq. right now we 're also waiting to hear from the president at the white house. we 'll bring you his comments as soon as we get them and we 'll get to all of that shortly , but first. a move by the president today designed to save children 's lives and among his guests in the rose garden , elizabeth smart. here 's cnn 's justice correspondent kelli arena. she is joining us live .",
+  "sentence_index" : 0,
+  "Tokens" : [ "it", "'s", "wednesday", ",", "april", "30", ",", "2003.", "hello", "from", "washington.", "i", "'m", "wolf", "blitzer", "reporting.", "we", "are", "following", "several", "major", "developments", "right", "now.", "that", "was", "then", ",", "this", "is", "now", ",", "20", "years", "after", "meeting", "saddam", "hussein", "in", "baghdad", ",", "defense", "secretary", "donald", "rumsfeld", "is", "back", "in", "the", "iraqi", "capital", "with", "victorious", "u", ".", "s.", "troops.", "and", "you", "'re", "looking", "at", "a", "live", "picture", "from", "the", "\"", "uss", "abraham", "lincoln", "\"", "on", "its", "way", "back", "from", "war.", "from", "its", "flight", "deck", "president", "bush", "will", "make", "a", "major", "announcement", "to", "the", "american", "people", "tomorrow", "night", "on", "the", "end", "of", "major", "combat", "in", "iraq.", "right", "now", "we", "'re", "also", "waiting", "to", "hear", "from", "the", "president", "at", "the", "white", "house.", "we", "'ll", "bring", "you", "his", "comments", "as", "soon", "as", "we", "get", "them", "and", "we", "'ll", "get", "to", "all", "of", "that", "shortly", ",", "but", "first.", "a", "move", "by", "the", "president", "today", "designed", "to", "save", "children", "'s", "lives", "and", "among", "his", "guests", "in", "the", "rose", "garden", ",", "elizabeth", "smart.", "here", "'s", "cnn", "'s", "justice", "correspondent", "kelli", "arena.", "she", "is", "joining", "us", "live", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "its flight deck",
+  "sentence_length" : 179,
+  "mentionArg2" : {
+    "extent" : "its",
+    "argMentionid" : "CNN_ENG_20030430_160723.6-E26-2",
+    "start" : 79,
+    "end" : 79
+  },
+  "relationID" : "CNN_ENG_20030430_160723.6-R7",
+  "mentionArg1" : {
+    "extent" : "its flight deck",
+    "argMentionid" : "CNN_ENG_20030430_160723.6-E1-3",
+    "start" : 79,
+    "end" : 81
+  },
+  "id" : "CNN_ENG_20030430_160723.6-R7-1",
+  "relationSubType" : "Artifact",
+  "Sentence" : "it 's wednesday , april 30 , 2003. hello from washington. i 'm wolf blitzer reporting. we are following several major developments right now. that was then , this is now , 20 years after meeting saddam hussein in baghdad , defense secretary donald rumsfeld is back in the iraqi capital with victorious u . s. troops. and you 're looking at a live picture from the \" uss abraham lincoln \" on its way back from war. from its flight deck president bush will make a major announcement to the american people tomorrow night on the end of major combat in iraq. right now we 're also waiting to hear from the president at the white house. we 'll bring you his comments as soon as we get them and we 'll get to all of that shortly , but first. a move by the president today designed to save children 's lives and among his guests in the rose garden , elizabeth smart. here 's cnn 's justice correspondent kelli arena. she is joining us live .",
+  "sentence_index" : 0,
+  "Tokens" : [ "it", "'s", "wednesday", ",", "april", "30", ",", "2003.", "hello", "from", "washington.", "i", "'m", "wolf", "blitzer", "reporting.", "we", "are", "following", "several", "major", "developments", "right", "now.", "that", "was", "then", ",", "this", "is", "now", ",", "20", "years", "after", "meeting", "saddam", "hussein", "in", "baghdad", ",", "defense", "secretary", "donald", "rumsfeld", "is", "back", "in", "the", "iraqi", "capital", "with", "victorious", "u", ".", "s.", "troops.", "and", "you", "'re", "looking", "at", "a", "live", "picture", "from", "the", "\"", "uss", "abraham", "lincoln", "\"", "on", "its", "way", "back", "from", "war.", "from", "its", "flight", "deck", "president", "bush", "will", "make", "a", "major", "announcement", "to", "the", "american", "people", "tomorrow", "night", "on", "the", "end", "of", "major", "combat", "in", "iraq.", "right", "now", "we", "'re", "also", "waiting", "to", "hear", "from", "the", "president", "at", "the", "white", "house.", "we", "'ll", "bring", "you", "his", "comments", "as", "soon", "as", "we", "get", "them", "and", "we", "'ll", "get", "to", "all", "of", "that", "shortly", ",", "but", "first.", "a", "move", "by", "the", "president", "today", "designed", "to", "save", "children", "'s", "lives", "and", "among", "his", "guests", "in", "the", "rose", "garden", ",", "elizabeth", "smart.", "here", "'s", "cnn", "'s", "justice", "correspondent", "kelli", "arena.", "she", "is", "joining", "us", "live", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "from its flight deck president bush will make a major announcement to the american people tomorrow night on the end of major combat in iraq",
+  "sentence_length" : 179,
+  "mentionArg2" : {
+    "extent" : "its flight deck",
+    "argMentionid" : "CNN_ENG_20030430_160723.6-E1-3",
+    "start" : 79,
+    "end" : 81
+  },
+  "relationID" : "CNN_ENG_20030430_160723.6-R8",
+  "mentionArg1" : {
+    "extent" : "president bush",
+    "argMentionid" : "CNN_ENG_20030430_160723.6-E2-4",
+    "start" : 82,
+    "end" : 83
+  },
+  "id" : "CNN_ENG_20030430_160723.6-R8-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "it 's wednesday , april 30 , 2003. hello from washington. i 'm wolf blitzer reporting. we are following several major developments right now. that was then , this is now , 20 years after meeting saddam hussein in baghdad , defense secretary donald rumsfeld is back in the iraqi capital with victorious u . s. troops. and you 're looking at a live picture from the \" uss abraham lincoln \" on its way back from war. from its flight deck president bush will make a major announcement to the american people tomorrow night on the end of major combat in iraq. right now we 're also waiting to hear from the president at the white house. we 'll bring you his comments as soon as we get them and we 'll get to all of that shortly , but first. a move by the president today designed to save children 's lives and among his guests in the rose garden , elizabeth smart. here 's cnn 's justice correspondent kelli arena. she is joining us live .",
+  "sentence_index" : 0,
+  "Tokens" : [ "it", "'s", "wednesday", ",", "april", "30", ",", "2003.", "hello", "from", "washington.", "i", "'m", "wolf", "blitzer", "reporting.", "we", "are", "following", "several", "major", "developments", "right", "now.", "that", "was", "then", ",", "this", "is", "now", ",", "20", "years", "after", "meeting", "saddam", "hussein", "in", "baghdad", ",", "defense", "secretary", "donald", "rumsfeld", "is", "back", "in", "the", "iraqi", "capital", "with", "victorious", "u", ".", "s.", "troops.", "and", "you", "'re", "looking", "at", "a", "live", "picture", "from", "the", "\"", "uss", "abraham", "lincoln", "\"", "on", "its", "way", "back", "from", "war.", "from", "its", "flight", "deck", "president", "bush", "will", "make", "a", "major", "announcement", "to", "the", "american", "people", "tomorrow", "night", "on", "the", "end", "of", "major", "combat", "in", "iraq.", "right", "now", "we", "'re", "also", "waiting", "to", "hear", "from", "the", "president", "at", "the", "white", "house.", "we", "'ll", "bring", "you", "his", "comments", "as", "soon", "as", "we", "get", "them", "and", "we", "'ll", "get", "to", "all", "of", "that", "shortly", ",", "but", "first.", "a", "move", "by", "the", "president", "today", "designed", "to", "save", "children", "'s", "lives", "and", "among", "his", "guests", "in", "the", "rose", "garden", ",", "elizabeth", "smart.", "here", "'s", "cnn", "'s", "justice", "correspondent", "kelli", "arena.", "she", "is", "joining", "us", "live", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "his guests in the rose garden",
+  "sentence_length" : 179,
+  "mentionArg2" : {
+    "extent" : "the rose garden",
+    "argMentionid" : "CNN_ENG_20030430_160723.6-E7-20",
+    "start" : 159,
+    "end" : 161
+  },
+  "relationID" : "CNN_ENG_20030430_160723.6-R9",
+  "mentionArg1" : {
+    "extent" : "his guests in the rose garden",
+    "argMentionid" : "CNN_ENG_20030430_160723.6-E19-36",
+    "start" : 156,
+    "end" : 161
+  },
+  "id" : "CNN_ENG_20030430_160723.6-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "it 's wednesday , april 30 , 2003. hello from washington. i 'm wolf blitzer reporting. we are following several major developments right now. that was then , this is now , 20 years after meeting saddam hussein in baghdad , defense secretary donald rumsfeld is back in the iraqi capital with victorious u . s. troops. and you 're looking at a live picture from the \" uss abraham lincoln \" on its way back from war. from its flight deck president bush will make a major announcement to the american people tomorrow night on the end of major combat in iraq. right now we 're also waiting to hear from the president at the white house. we 'll bring you his comments as soon as we get them and we 'll get to all of that shortly , but first. a move by the president today designed to save children 's lives and among his guests in the rose garden , elizabeth smart. here 's cnn 's justice correspondent kelli arena. she is joining us live .",
+  "sentence_index" : 0,
+  "Tokens" : [ "it", "'s", "wednesday", ",", "april", "30", ",", "2003.", "hello", "from", "washington.", "i", "'m", "wolf", "blitzer", "reporting.", "we", "are", "following", "several", "major", "developments", "right", "now.", "that", "was", "then", ",", "this", "is", "now", ",", "20", "years", "after", "meeting", "saddam", "hussein", "in", "baghdad", ",", "defense", "secretary", "donald", "rumsfeld", "is", "back", "in", "the", "iraqi", "capital", "with", "victorious", "u", ".", "s.", "troops.", "and", "you", "'re", "looking", "at", "a", "live", "picture", "from", "the", "\"", "uss", "abraham", "lincoln", "\"", "on", "its", "way", "back", "from", "war.", "from", "its", "flight", "deck", "president", "bush", "will", "make", "a", "major", "announcement", "to", "the", "american", "people", "tomorrow", "night", "on", "the", "end", "of", "major", "combat", "in", "iraq.", "right", "now", "we", "'re", "also", "waiting", "to", "hear", "from", "the", "president", "at", "the", "white", "house.", "we", "'ll", "bring", "you", "his", "comments", "as", "soon", "as", "we", "get", "them", "and", "we", "'ll", "get", "to", "all", "of", "that", "shortly", ",", "but", "first.", "a", "move", "by", "the", "president", "today", "designed", "to", "save", "children", "'s", "lives", "and", "among", "his", "guests", "in", "the", "rose", "garden", ",", "elizabeth", "smart.", "here", "'s", "cnn", "'s", "justice", "correspondent", "kelli", "arena.", "she", "is", "joining", "us", "live", "." ]
+} ]

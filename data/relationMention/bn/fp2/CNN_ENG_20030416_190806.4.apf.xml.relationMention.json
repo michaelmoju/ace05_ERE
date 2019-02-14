@@ -1,0 +1,67 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "his wife",
+  "sentence_length" : 58,
+  "mentionArg2" : {
+    "extent" : "his wife",
+    "argMentionid" : "CNN_ENG_20030416_190806.4-E1-1",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "CNN_ENG_20030416_190806.4-R1",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_ENG_20030416_190806.4-E2-2",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "CNN_ENG_20030416_190806.4-R1-1",
+  "relationSubType" : "Family",
+  "Sentence" : "for killing his wife and three children the oldest of whom was three , christian longo had been sentenced to die. prosecutors say longo stood his family because they stood before him and the life he craved. the jury deliberated for three hour before returning a death sentence. now cnn 's coverage of the new iraq continues .",
+  "sentence_index" : 0,
+  "Tokens" : [ "for", "killing", "his", "wife", "and", "three", "children", "the", "oldest", "of", "whom", "was", "three", ",", "christian", "longo", "had", "been", "sentenced", "to", "die.", "prosecutors", "say", "longo", "stood", "his", "family", "because", "they", "stood", "before", "him", "and", "the", "life", "he", "craved.", "the", "jury", "deliberated", "for", "three", "hour", "before", "returning", "a", "death", "sentence.", "now", "cnn", "'s", "coverage", "of", "the", "new", "iraq", "continues", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his wife and three children",
+  "sentence_length" : 58,
+  "mentionArg2" : {
+    "extent" : "three children",
+    "argMentionid" : "CNN_ENG_20030416_190806.4-E3-3",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "CNN_ENG_20030416_190806.4-R2",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_ENG_20030416_190806.4-E2-2",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "CNN_ENG_20030416_190806.4-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "for killing his wife and three children the oldest of whom was three , christian longo had been sentenced to die. prosecutors say longo stood his family because they stood before him and the life he craved. the jury deliberated for three hour before returning a death sentence. now cnn 's coverage of the new iraq continues .",
+  "sentence_index" : 0,
+  "Tokens" : [ "for", "killing", "his", "wife", "and", "three", "children", "the", "oldest", "of", "whom", "was", "three", ",", "christian", "longo", "had", "been", "sentenced", "to", "die.", "prosecutors", "say", "longo", "stood", "his", "family", "because", "they", "stood", "before", "him", "and", "the", "life", "he", "craved.", "the", "jury", "deliberated", "for", "three", "hour", "before", "returning", "a", "death", "sentence.", "now", "cnn", "'s", "coverage", "of", "the", "new", "iraq", "continues", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his family",
+  "sentence_length" : 58,
+  "mentionArg2" : {
+    "extent" : "his family",
+    "argMentionid" : "CNN_ENG_20030416_190806.4-E6-9",
+    "start" : 25,
+    "end" : 26
+  },
+  "relationID" : "CNN_ENG_20030416_190806.4-R3",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_ENG_20030416_190806.4-E2-10",
+    "start" : 25,
+    "end" : 25
+  },
+  "id" : "CNN_ENG_20030416_190806.4-R3-1",
+  "relationSubType" : "Family",
+  "Sentence" : "for killing his wife and three children the oldest of whom was three , christian longo had been sentenced to die. prosecutors say longo stood his family because they stood before him and the life he craved. the jury deliberated for three hour before returning a death sentence. now cnn 's coverage of the new iraq continues .",
+  "sentence_index" : 0,
+  "Tokens" : [ "for", "killing", "his", "wife", "and", "three", "children", "the", "oldest", "of", "whom", "was", "three", ",", "christian", "longo", "had", "been", "sentenced", "to", "die.", "prosecutors", "say", "longo", "stood", "his", "family", "because", "they", "stood", "before", "him", "and", "the", "life", "he", "craved.", "the", "jury", "deliberated", "for", "three", "hour", "before", "returning", "a", "death", "sentence.", "now", "cnn", "'s", "coverage", "of", "the", "new", "iraq", "continues", "." ]
+} ]

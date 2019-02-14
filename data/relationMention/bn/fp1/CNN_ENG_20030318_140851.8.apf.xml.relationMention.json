@@ -1,0 +1,67 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "cnn's patty davis at reagan national airport",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "reagan national airport",
+    "argMentionid" : "CNN_ENG_20030318_140851.8-E19-30",
+    "start" : 42,
+    "end" : 44
+  },
+  "relationID" : "CNN_ENG_20030318_140851.8-R1",
+  "mentionArg1" : {
+    "extent" : "cnn's patty davis at reagan national airport",
+    "argMentionid" : "CNN_ENG_20030318_140851.8-E17-28",
+    "start" : 37,
+    "end" : 44
+  },
+  "id" : "CNN_ENG_20030318_140851.8-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "perhaps with that in mind , the nation 's threat level back at orange , or high , to discourage and thwart potential terrorist attacks. what does this mean if you 're traveling you might ask. to cnn 's patty davis at reagan national airport. what are travelers to do and , for that matter , not to do ?",
+  "sentence_index" : 1,
+  "Tokens" : [ "perhaps", "with", "that", "in", "mind", ",", "the", "nation", "'s", "threat", "level", "back", "at", "orange", ",", "or", "high", ",", "to", "discourage", "and", "thwart", "potential", "terrorist", "attacks.", "what", "does", "this", "mean", "if", "you", "'re", "traveling", "you", "might", "ask.", "to", "cnn", "'s", "patty", "davis", "at", "reagan", "national", "airport.", "what", "are", "travelers", "to", "do", "and", ",", "for", "that", "matter", ",", "not", "to", "do", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "you may want to do is, first all, just get here",
+  "sentence_length" : 66,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_ENG_20030318_140851.8-E24-38",
+    "start" : 36,
+    "end" : 36
+  },
+  "relationID" : "CNN_ENG_20030318_140851.8-R2",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "CNN_ENG_20030318_140851.8-E14-37",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "CNN_ENG_20030318_140851.8-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "reporter : miles , what that means is tighter security at airports across the country. and that could potentially slow you down. some things you may want to do is , first all , just get here a little bit early. now , homeland security chief tom ridge described some of those new security measures on top of the ones that are already in place .",
+  "sentence_index" : 2,
+  "Tokens" : [ "reporter", ":", "miles", ",", "what", "that", "means", "is", "tighter", "security", "at", "airports", "across", "the", "country.", "and", "that", "could", "potentially", "slow", "you", "down.", "some", "things", "you", "may", "want", "to", "do", "is", ",", "first", "all", ",", "just", "get", "here", "a", "little", "bit", "early.", "now", ",", "homeland", "security", "chief", "tom", "ridge", "described", "some", "of", "those", "new", "security", "measures", "on", "top", "of", "the", "ones", "that", "are", "already", "in", "place", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "cnn's patty davis at reagan national airport",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "cnn",
+    "argMentionid" : "CNN_ENG_20030318_140851.8-E18-29",
+    "start" : 37,
+    "end" : 37
+  },
+  "relationID" : "CNN_ENG_20030318_140851.8-R3",
+  "mentionArg1" : {
+    "extent" : "cnn's patty davis at reagan national airport",
+    "argMentionid" : "CNN_ENG_20030318_140851.8-E17-28",
+    "start" : 37,
+    "end" : 44
+  },
+  "id" : "CNN_ENG_20030318_140851.8-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "perhaps with that in mind , the nation 's threat level back at orange , or high , to discourage and thwart potential terrorist attacks. what does this mean if you 're traveling you might ask. to cnn 's patty davis at reagan national airport. what are travelers to do and , for that matter , not to do ?",
+  "sentence_index" : 1,
+  "Tokens" : [ "perhaps", "with", "that", "in", "mind", ",", "the", "nation", "'s", "threat", "level", "back", "at", "orange", ",", "or", "high", ",", "to", "discourage", "and", "thwart", "potential", "terrorist", "attacks.", "what", "does", "this", "mean", "if", "you", "'re", "traveling", "you", "might", "ask.", "to", "cnn", "'s", "patty", "davis", "at", "reagan", "national", "airport.", "what", "are", "travelers", "to", "do", "and", ",", "for", "that", "matter", ",", "not", "to", "do", "?" ]
+} ]

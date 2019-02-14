@@ -1,0 +1,265 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "KHARTOUM, Sudan",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Sudan",
+    "argMentionid" : "APW_ENG_20030510.0228-E4-49",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "APW_ENG_20030510.0228-R1",
+  "mentionArg1" : {
+    "extent" : "KHARTOUM, Sudan",
+    "argMentionid" : "APW_ENG_20030510.0228-E20-1",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030510.0228-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "KHARTOUM , Sudan ( AP ) A state security court suspended a newspaper critical of the government Saturday after convicting it of publishing religiously inflammatory material , the newspaper 's lawyer said .",
+  "sentence_index" : 0,
+  "Tokens" : [ "KHARTOUM", ",", "Sudan", "(", "AP", ")", "A", "state", "security", "court", "suspended", "a", "newspaper", "critical", "of", "the", "government", "Saturday", "after", "convicting", "it", "of", "publishing", "religiously", "inflammatory", "material", ",", "the", "newspaper", "'s", "lawyer", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "A state security court",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "state",
+    "argMentionid" : "APW_ENG_20030510.0228-E4-62",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030510.0228-R2",
+  "mentionArg1" : {
+    "extent" : "A state security court",
+    "argMentionid" : "APW_ENG_20030510.0228-E25-51",
+    "start" : 6,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030510.0228-R2-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "KHARTOUM , Sudan ( AP ) A state security court suspended a newspaper critical of the government Saturday after convicting it of publishing religiously inflammatory material , the newspaper 's lawyer said .",
+  "sentence_index" : 0,
+  "Tokens" : [ "KHARTOUM", ",", "Sudan", "(", "AP", ")", "A", "state", "security", "court", "suspended", "a", "newspaper", "critical", "of", "the", "government", "Saturday", "after", "convicting", "it", "of", "publishing", "religiously", "inflammatory", "material", ",", "the", "newspaper", "'s", "lawyer", "said", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the only English language daily in Sudan",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "Sudan",
+    "argMentionid" : "APW_ENG_20030510.0228-E4-47",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "APW_ENG_20030510.0228-R3",
+  "mentionArg1" : {
+    "extent" : "the only English language daily in Sudan",
+    "argMentionid" : "APW_ENG_20030510.0228-E26-66",
+    "start" : 15,
+    "end" : 21
+  },
+  "id" : "APW_ENG_20030510.0228-R3-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "The sentence was the latest in a series of state actions against the Monitor , the only English language daily in Sudan and a leading critic of conditions in the south of the country , where a civil war has been waged for 20 years .",
+  "sentence_index" : 3,
+  "Tokens" : [ "The", "sentence", "was", "the", "latest", "in", "a", "series", "of", "state", "actions", "against", "the", "Monitor", ",", "the", "only", "English", "language", "daily", "in", "Sudan", "and", "a", "leading", "critic", "of", "conditions", "in", "the", "south", "of", "the", "country", ",", "where", "a", "civil", "war", "has", "been", "waged", "for", "20", "years", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the south of the country, where a civil war has been waged for 20 years",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "the country",
+    "argMentionid" : "APW_ENG_20030510.0228-E4-2",
+    "start" : 32,
+    "end" : 33
+  },
+  "relationID" : "APW_ENG_20030510.0228-R4",
+  "mentionArg1" : {
+    "extent" : "the south of the country, where a civil war has been waged for 20 years",
+    "argMentionid" : "APW_ENG_20030510.0228-E1-68",
+    "start" : 29,
+    "end" : 44
+  },
+  "id" : "APW_ENG_20030510.0228-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The sentence was the latest in a series of state actions against the Monitor , the only English language daily in Sudan and a leading critic of conditions in the south of the country , where a civil war has been waged for 20 years .",
+  "sentence_index" : 3,
+  "Tokens" : [ "The", "sentence", "was", "the", "latest", "in", "a", "series", "of", "state", "actions", "against", "the", "Monitor", ",", "the", "only", "English", "language", "daily", "in", "Sudan", "and", "a", "leading", "critic", "of", "conditions", "in", "the", "south", "of", "the", "country", ",", "where", "a", "civil", "war", "has", "been", "waged", "for", "20", "years", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The secretary general of the National Press Council",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "the National Press Council",
+    "argMentionid" : "APW_ENG_20030510.0228-E2-14",
+    "start" : 4,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030510.0228-R5",
+  "mentionArg1" : {
+    "extent" : "The secretary general of the National Press Council",
+    "argMentionid" : "APW_ENG_20030510.0228-E5-13",
+    "start" : 0,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030510.0228-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The secretary general of the National Press Council , Hashim el-Jazz , did not answer repeated calls to his cell phone on Saturday .",
+  "sentence_index" : 6,
+  "Tokens" : [ "The", "secretary", "general", "of", "the", "National", "Press", "Council", ",", "Hashim", "el-Jazz", ",", "did", "not", "answer", "repeated", "calls", "to", "his", "cell", "phone", "on", "Saturday", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Monitor's managing editor",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "the Monitor",
+    "argMentionid" : "APW_ENG_20030510.0228-E26-21",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030510.0228-R6",
+  "mentionArg1" : {
+    "extent" : "the Monitor's managing editor",
+    "argMentionid" : "APW_ENG_20030510.0228-E9-23",
+    "start" : 7,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030510.0228-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Earlier this week , security police detained the Monitor 's managing editor , Nhial Bol , for 24 hours .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Earlier", "this", "week", ",", "security", "police", "detained", "the", "Monitor", "'s", "managing", "editor", ",", "Nhial", "Bol", ",", "for", "24", "hours", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Sudan has an Islamic-orientated government and a substantial Christian minority",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "Sudan",
+    "argMentionid" : "APW_ENG_20030510.0228-E4-27",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030510.0228-R7",
+  "mentionArg1" : {
+    "extent" : "a substantial Christian minority",
+    "argMentionid" : "APW_ENG_20030510.0228-E11-29",
+    "start" : 6,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030510.0228-R7-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Sudan has an Islamic-orientated government and a substantial Christian minority .",
+  "sentence_index" : 12,
+  "Tokens" : [ "Sudan", "has", "an", "Islamic-orientated", "government", "and", "a", "substantial", "Christian", "minority", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "its editorial offices",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "its editorial offices",
+    "argMentionid" : "APW_ENG_20030510.0228-E14-33",
+    "start" : 12,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030510.0228-R8",
+  "mentionArg1" : {
+    "extent" : "its",
+    "argMentionid" : "APW_ENG_20030510.0228-E26-48",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030510.0228-R8-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "In a separate action against the Monitor , security officials went to its editorial offices on Thursday night and told the management that it was being closed until it paid a fine of 15 million Sudanese pounds ( about US $ 6,000 ) that was outstanding from a court conviction last year .",
+  "sentence_index" : 13,
+  "Tokens" : [ "In", "a", "separate", "action", "against", "the", "Monitor", ",", "security", "officials", "went", "to", "its", "editorial", "offices", "on", "Thursday", "night", "and", "told", "the", "management", "that", "it", "was", "being", "closed", "until", "it", "paid", "a", "fine", "of", "15", "million", "Sudanese", "pounds", "(", "about", "US", "$", "6,000", ")", "that", "was", "outstanding", "from", "a", "court", "conviction", "last", "year", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In a separate action against the Monitor, security officials went to its editorial offices on Thursday night and told the management that it was being closed until it paid a fine of 15 million Sudanese pounds (about US$6,000) that was outstanding from a court conviction last year",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "its editorial offices",
+    "argMentionid" : "APW_ENG_20030510.0228-E14-33",
+    "start" : 12,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030510.0228-R9",
+  "mentionArg1" : {
+    "extent" : "security officials",
+    "argMentionid" : "APW_ENG_20030510.0228-E13-32",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030510.0228-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In a separate action against the Monitor , security officials went to its editorial offices on Thursday night and told the management that it was being closed until it paid a fine of 15 million Sudanese pounds ( about US $ 6,000 ) that was outstanding from a court conviction last year .",
+  "sentence_index" : 13,
+  "Tokens" : [ "In", "a", "separate", "action", "against", "the", "Monitor", ",", "security", "officials", "went", "to", "its", "editorial", "offices", "on", "Thursday", "night", "and", "told", "the", "management", "that", "it", "was", "being", "closed", "until", "it", "paid", "a", "fine", "of", "15", "million", "Sudanese", "pounds", "(", "about", "US", "$", "6,000", ")", "that", "was", "outstanding", "from", "a", "court", "conviction", "last", "year", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "its offices",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "its offices",
+    "argMentionid" : "APW_ENG_20030510.0228-E17-39",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030510.0228-R10",
+  "mentionArg1" : {
+    "extent" : "its",
+    "argMentionid" : "APW_ENG_20030510.0228-E26-40",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030510.0228-R10-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The Monitor did not appear Friday and its offices were closed .",
+  "sentence_index" : 14,
+  "Tokens" : [ "The", "Monitor", "did", "not", "appear", "Friday", "and", "its", "offices", "were", "closed", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In last year's trial, the paper was convicted of defaming the government for publishing that trains running to and from southern Sudan were used to transport abducted women and children",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "southern Sudan",
+    "argMentionid" : "APW_ENG_20030510.0228-E19-44",
+    "start" : 22,
+    "end" : 23
+  },
+  "relationID" : "APW_ENG_20030510.0228-R11",
+  "mentionArg1" : {
+    "extent" : "abducted women and children",
+    "argMentionid" : "APW_ENG_20030510.0228-E21-45",
+    "start" : 28,
+    "end" : 31
+  },
+  "id" : "APW_ENG_20030510.0228-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In last year 's trial , the paper was convicted of defaming the government for publishing that trains running to and from southern Sudan were used to transport abducted women and children .",
+  "sentence_index" : 15,
+  "Tokens" : [ "In", "last", "year", "'s", "trial", ",", "the", "paper", "was", "convicted", "of", "defaming", "the", "government", "for", "publishing", "that", "trains", "running", "to", "and", "from", "southern", "Sudan", "were", "used", "to", "transport", "abducted", "women", "and", "children", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In last year's trial, the paper was convicted of defaming the government for publishing that trains running to and from southern Sudan were used to transport abducted women and children",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "southern Sudan",
+    "argMentionid" : "APW_ENG_20030510.0228-E19-44",
+    "start" : 22,
+    "end" : 23
+  },
+  "relationID" : "APW_ENG_20030510.0228-R12",
+  "mentionArg1" : {
+    "extent" : "abducted women and children",
+    "argMentionid" : "APW_ENG_20030510.0228-E22-46",
+    "start" : 28,
+    "end" : 31
+  },
+  "id" : "APW_ENG_20030510.0228-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In last year 's trial , the paper was convicted of defaming the government for publishing that trains running to and from southern Sudan were used to transport abducted women and children .",
+  "sentence_index" : 15,
+  "Tokens" : [ "In", "last", "year", "'s", "trial", ",", "the", "paper", "was", "convicted", "of", "defaming", "the", "government", "for", "publishing", "that", "trains", "running", "to", "and", "from", "southern", "Sudan", "were", "used", "to", "transport", "abducted", "women", "and", "children", "." ]
+} ]

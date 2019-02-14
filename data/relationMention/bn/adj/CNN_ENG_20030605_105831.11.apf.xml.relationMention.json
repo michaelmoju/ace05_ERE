@@ -1,0 +1,133 @@
+[ {
+  "relationType" : "ART",
+  "extent" : "three hours from now the chicago cubs take the field against the tampa bay devil rays here at wrigley field and sammy sosa will be out there with them but how long will he",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "the field",
+    "argMentionid" : "CNN_ENG_20030605_105831.11-E25-75",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "CNN_ENG_20030605_105831.11-R1",
+  "mentionArg1" : {
+    "extent" : "the chicago cubs",
+    "argMentionid" : "CNN_ENG_20030605_105831.11-E27-74",
+    "start" : 11,
+    "end" : 13
+  },
+  "id" : "CNN_ENG_20030605_105831.11-R1-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "reporter : leon , hello to you. three hours from now the chicago cubs take the field against the tampa bay devil rays here at wrigley field and sammy sosa will be out there with them but how long will he ?",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "leon", ",", "hello", "to", "you.", "three", "hours", "from", "now", "the", "chicago", "cubs", "take", "the", "field", "against", "the", "tampa", "bay", "devil", "rays", "here", "at", "wrigley", "field", "and", "sammy", "sosa", "will", "be", "out", "there", "with", "them", "but", "how", "long", "will", "he", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "gary tuchman standing by in chicago, with the latest on the sosa saga outside of wrigley field",
+  "sentence_length" : 87,
+  "mentionArg2" : {
+    "extent" : "chicago",
+    "argMentionid" : "CNN_ENG_20030605_105831.11-E23-69",
+    "start" : 73,
+    "end" : 73
+  },
+  "relationID" : "CNN_ENG_20030605_105831.11-R2",
+  "mentionArg1" : {
+    "extent" : "gary tuchman",
+    "argMentionid" : "CNN_ENG_20030605_105831.11-E22-68",
+    "start" : 68,
+    "end" : 69
+  },
+  "id" : "CNN_ENG_20030605_105831.11-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "all lumber , no filler. that 's the verdict after baseball officials x-rayed sam why sosa 's entire inventory of bat and found no evidence of cork or any other substance. that seems to support his contention that the bat got him ejected tuesday night was a fluke. still a decision on what , if any punishment he will face in the wake of that incident tuesday night. gary tuchman standing by in chicago , with the latest on the sosa saga outside of wrigley field .",
+  "sentence_index" : 0,
+  "Tokens" : [ "all", "lumber", ",", "no", "filler.", "that", "'s", "the", "verdict", "after", "baseball", "officials", "x-rayed", "sam", "why", "sosa", "'s", "entire", "inventory", "of", "bat", "and", "found", "no", "evidence", "of", "cork", "or", "any", "other", "substance.", "that", "seems", "to", "support", "his", "contention", "that", "the", "bat", "got", "him", "ejected", "tuesday", "night", "was", "a", "fluke.", "still", "a", "decision", "on", "what", ",", "if", "any", "punishment", "he", "will", "face", "in", "the", "wake", "of", "that", "incident", "tuesday", "night.", "gary", "tuchman", "standing", "by", "in", "chicago", ",", "with", "the", "latest", "on", "the", "sosa", "saga", "outside", "of", "wrigley", "field", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "gary tuchman standing by in chicago, with the latest on the sosa saga outside of wrigley field",
+  "sentence_length" : 87,
+  "mentionArg2" : {
+    "extent" : "chicago",
+    "argMentionid" : "CNN_ENG_20030605_105831.11-E23-69",
+    "start" : 73,
+    "end" : 73
+  },
+  "relationID" : "CNN_ENG_20030605_105831.11-R3",
+  "mentionArg1" : {
+    "extent" : "wrigley field",
+    "argMentionid" : "CNN_ENG_20030605_105831.11-E25-71",
+    "start" : 84,
+    "end" : 85
+  },
+  "id" : "CNN_ENG_20030605_105831.11-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "all lumber , no filler. that 's the verdict after baseball officials x-rayed sam why sosa 's entire inventory of bat and found no evidence of cork or any other substance. that seems to support his contention that the bat got him ejected tuesday night was a fluke. still a decision on what , if any punishment he will face in the wake of that incident tuesday night. gary tuchman standing by in chicago , with the latest on the sosa saga outside of wrigley field .",
+  "sentence_index" : 0,
+  "Tokens" : [ "all", "lumber", ",", "no", "filler.", "that", "'s", "the", "verdict", "after", "baseball", "officials", "x-rayed", "sam", "why", "sosa", "'s", "entire", "inventory", "of", "bat", "and", "found", "no", "evidence", "of", "cork", "or", "any", "other", "substance.", "that", "seems", "to", "support", "his", "contention", "that", "the", "bat", "got", "him", "ejected", "tuesday", "night", "was", "a", "fluke.", "still", "a", "decision", "on", "what", ",", "if", "any", "punishment", "he", "will", "face", "in", "the", "wake", "of", "that", "incident", "tuesday", "night.", "gary", "tuchman", "standing", "by", "in", "chicago", ",", "with", "the", "latest", "on", "the", "sosa", "saga", "outside", "of", "wrigley", "field", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "three hours from now the chicago cubs take the field against the tampa bay devil rays here at wrigley field and sammy sosa will be out there with them but how long will he",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_ENG_20030605_105831.11-E25-77",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "CNN_ENG_20030605_105831.11-R4",
+  "mentionArg1" : {
+    "extent" : "the tampa bay devil rays",
+    "argMentionid" : "CNN_ENG_20030605_105831.11-E28-76",
+    "start" : 18,
+    "end" : 22
+  },
+  "id" : "CNN_ENG_20030605_105831.11-R4-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "reporter : leon , hello to you. three hours from now the chicago cubs take the field against the tampa bay devil rays here at wrigley field and sammy sosa will be out there with them but how long will he ?",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "leon", ",", "hello", "to", "you.", "three", "hours", "from", "now", "the", "chicago", "cubs", "take", "the", "field", "against", "the", "tampa", "bay", "devil", "rays", "here", "at", "wrigley", "field", "and", "sammy", "sosa", "will", "be", "out", "there", "with", "them", "but", "how", "long", "will", "he", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "three hours from now the chicago cubs take the field against the tampa bay devil rays here at wrigley field and sammy sosa will be out there with them but how long will he",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "them",
+    "argMentionid" : "CNN_ENG_20030605_105831.11-E27-80",
+    "start" : 35,
+    "end" : 35
+  },
+  "relationID" : "CNN_ENG_20030605_105831.11-R5",
+  "mentionArg1" : {
+    "extent" : "sammy sosa",
+    "argMentionid" : "CNN_ENG_20030605_105831.11-E4-79",
+    "start" : 28,
+    "end" : 29
+  },
+  "id" : "CNN_ENG_20030605_105831.11-R5-1",
+  "relationSubType" : "Sports-Affiliation",
+  "Sentence" : "reporter : leon , hello to you. three hours from now the chicago cubs take the field against the tampa bay devil rays here at wrigley field and sammy sosa will be out there with them but how long will he ?",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "leon", ",", "hello", "to", "you.", "three", "hours", "from", "now", "the", "chicago", "cubs", "take", "the", "field", "against", "the", "tampa", "bay", "devil", "rays", "here", "at", "wrigley", "field", "and", "sammy", "sosa", "will", "be", "out", "there", "with", "them", "but", "how", "long", "will", "he", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "i heard a few boos but almost everyone standing. not everyone believing this man's story, which is it was a mistake but he's a hero here",
+  "sentence_length" : 188,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_ENG_20030605_105831.11-E23-11",
+    "start" : 73,
+    "end" : 73
+  },
+  "relationID" : "CNN_ENG_20030605_105831.11-R6",
+  "mentionArg1" : {
+    "extent" : "a hero here",
+    "argMentionid" : "CNN_ENG_20030605_105831.11-E4-10",
+    "start" : 71,
+    "end" : 73
+  },
+  "id" : "CNN_ENG_20030605_105831.11-R6-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "we could find out today. his punishment , suspension for using a corked bat for use -- which is illegal during a game. since the incident 33,000 fans in the stands for a night game he received a standing ovation from almost all of them. i heard a few boos but almost everyone standing. not everyone believing this man 's story , which is it was a mistake but he 's a hero here. these people want to believe his story. it happened tuesday night. in the first inning he hit a ground ball. scored a run. when he hit the ball , the bat broke. the umpires found cork in the bat. it 's illegal because when you put it in the bat it makes the meat lighter. they hollow out the bat and stick the cork in there to mask the hollow sound. then you can swing it lighter and you can swing it faster. they took 76 of his bats for analysis. they x-rayed the bats. the x-rays all came back negative. but did major league baseball have all of sammy sosa 's bats ?",
+  "sentence_index" : 2,
+  "Tokens" : [ "we", "could", "find", "out", "today.", "his", "punishment", ",", "suspension", "for", "using", "a", "corked", "bat", "for", "use", "--", "which", "is", "illegal", "during", "a", "game.", "since", "the", "incident", "33,000", "fans", "in", "the", "stands", "for", "a", "night", "game", "he", "received", "a", "standing", "ovation", "from", "almost", "all", "of", "them.", "i", "heard", "a", "few", "boos", "but", "almost", "everyone", "standing.", "not", "everyone", "believing", "this", "man", "'s", "story", ",", "which", "is", "it", "was", "a", "mistake", "but", "he", "'s", "a", "hero", "here.", "these", "people", "want", "to", "believe", "his", "story.", "it", "happened", "tuesday", "night.", "in", "the", "first", "inning", "he", "hit", "a", "ground", "ball.", "scored", "a", "run.", "when", "he", "hit", "the", "ball", ",", "the", "bat", "broke.", "the", "umpires", "found", "cork", "in", "the", "bat.", "it", "'s", "illegal", "because", "when", "you", "put", "it", "in", "the", "bat", "it", "makes", "the", "meat", "lighter.", "they", "hollow", "out", "the", "bat", "and", "stick", "the", "cork", "in", "there", "to", "mask", "the", "hollow", "sound.", "then", "you", "can", "swing", "it", "lighter", "and", "you", "can", "swing", "it", "faster.", "they", "took", "76", "of", "his", "bats", "for", "analysis.", "they", "x-rayed", "the", "bats.", "the", "x-rays", "all", "came", "back", "negative.", "but", "did", "major", "league", "baseball", "have", "all", "of", "sammy", "sosa", "'s", "bats", "?" ]
+} ]

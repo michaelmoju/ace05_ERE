@@ -1,0 +1,309 @@
+[ {
+  "relationType" : "ART",
+  "extent" : "her car",
+  "sentence_length" : 143,
+  "mentionArg2" : {
+    "extent" : "her car",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E42-56",
+    "start" : 71,
+    "end" : 72
+  },
+  "relationID" : "CNN_ENG_20030625_210122.0-R1",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E44-63",
+    "start" : 71,
+    "end" : 71
+  },
+  "id" : "CNN_ENG_20030625_210122.0-R1-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "going to use it in those patients * * his dandruff shampoo was n't tough enough for black , so i bought him maximum strength selsun blue. it 's doctor recommended and works fast. selsun blue. that have riveted the nation. first , a big hearing tomorrow in the scott peterson case. punishing prosecutors. it could all be up for grabs. then the texas woman accused of hitting a man with her car , driving home about him stuck to her windshield and leaving him there to die. and andrew luster , grandson of cosmetic legend max factor. what drove him to become a serial rapist and to jump bail in the middle of the trial. only to be captured in mexico by a bounter hunter after five months on the roun. that 's all next on \" larry king live . \"",
+  "sentence_index" : 0,
+  "Tokens" : [ "going", "to", "use", "it", "in", "those", "patients", "*", "*", "his", "dandruff", "shampoo", "was", "n't", "tough", "enough", "for", "black", ",", "so", "i", "bought", "him", "maximum", "strength", "selsun", "blue.", "it", "'s", "doctor", "recommended", "and", "works", "fast.", "selsun", "blue.", "that", "have", "riveted", "the", "nation.", "first", ",", "a", "big", "hearing", "tomorrow", "in", "the", "scott", "peterson", "case.", "punishing", "prosecutors.", "it", "could", "all", "be", "up", "for", "grabs.", "then", "the", "texas", "woman", "accused", "of", "hitting", "a", "man", "with", "her", "car", ",", "driving", "home", "about", "him", "stuck", "to", "her", "windshield", "and", "leaving", "him", "there", "to", "die.", "and", "andrew", "luster", ",", "grandson", "of", "cosmetic", "legend", "max", "factor.", "what", "drove", "him", "to", "become", "a", "serial", "rapist", "and", "to", "jump", "bail", "in", "the", "middle", "of", "the", "trial.", "only", "to", "be", "captured", "in", "mexico", "by", "a", "bounter", "hunter", "after", "five", "months", "on", "the", "roun.", "that", "'s", "all", "next", "on", "\"", "larry", "king", "live", ".", "\"" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the texas woman accused of hitting a man with her car, driving home about him stuck to her windshield and leaving him there to die",
+  "sentence_length" : 143,
+  "mentionArg2" : {
+    "extent" : "texas",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E43-60",
+    "start" : 63,
+    "end" : 63
+  },
+  "relationID" : "CNN_ENG_20030625_210122.0-R2",
+  "mentionArg1" : {
+    "extent" : "the texas woman accused of hitting a man with her car, driving home about him stuck to her windshield and leaving him there to die",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E44-61",
+    "start" : 62,
+    "end" : 87
+  },
+  "id" : "CNN_ENG_20030625_210122.0-R2-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "going to use it in those patients * * his dandruff shampoo was n't tough enough for black , so i bought him maximum strength selsun blue. it 's doctor recommended and works fast. selsun blue. that have riveted the nation. first , a big hearing tomorrow in the scott peterson case. punishing prosecutors. it could all be up for grabs. then the texas woman accused of hitting a man with her car , driving home about him stuck to her windshield and leaving him there to die. and andrew luster , grandson of cosmetic legend max factor. what drove him to become a serial rapist and to jump bail in the middle of the trial. only to be captured in mexico by a bounter hunter after five months on the roun. that 's all next on \" larry king live . \"",
+  "sentence_index" : 0,
+  "Tokens" : [ "going", "to", "use", "it", "in", "those", "patients", "*", "*", "his", "dandruff", "shampoo", "was", "n't", "tough", "enough", "for", "black", ",", "so", "i", "bought", "him", "maximum", "strength", "selsun", "blue.", "it", "'s", "doctor", "recommended", "and", "works", "fast.", "selsun", "blue.", "that", "have", "riveted", "the", "nation.", "first", ",", "a", "big", "hearing", "tomorrow", "in", "the", "scott", "peterson", "case.", "punishing", "prosecutors.", "it", "could", "all", "be", "up", "for", "grabs.", "then", "the", "texas", "woman", "accused", "of", "hitting", "a", "man", "with", "her", "car", ",", "driving", "home", "about", "him", "stuck", "to", "her", "windshield", "and", "leaving", "him", "there", "to", "die.", "and", "andrew", "luster", ",", "grandson", "of", "cosmetic", "legend", "max", "factor.", "what", "drove", "him", "to", "become", "a", "serial", "rapist", "and", "to", "jump", "bail", "in", "the", "middle", "of", "the", "trial.", "only", "to", "be", "captured", "in", "mexico", "by", "a", "bounter", "hunter", "after", "five", "months", "on", "the", "roun.", "that", "'s", "all", "next", "on", "\"", "larry", "king", "live", ".", "\"" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "what drove him to become a serial rapist and to jump bail in the middle of the trial. only to be captured in mexico by a bounter hunter after five months on the roun",
+  "sentence_length" : 143,
+  "mentionArg2" : {
+    "extent" : "mexico",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E7-11",
+    "start" : 121,
+    "end" : 121
+  },
+  "relationID" : "CNN_ENG_20030625_210122.0-R3",
+  "mentionArg1" : {
+    "extent" : "him",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E2-9",
+    "start" : 100,
+    "end" : 100
+  },
+  "id" : "CNN_ENG_20030625_210122.0-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "going to use it in those patients * * his dandruff shampoo was n't tough enough for black , so i bought him maximum strength selsun blue. it 's doctor recommended and works fast. selsun blue. that have riveted the nation. first , a big hearing tomorrow in the scott peterson case. punishing prosecutors. it could all be up for grabs. then the texas woman accused of hitting a man with her car , driving home about him stuck to her windshield and leaving him there to die. and andrew luster , grandson of cosmetic legend max factor. what drove him to become a serial rapist and to jump bail in the middle of the trial. only to be captured in mexico by a bounter hunter after five months on the roun. that 's all next on \" larry king live . \"",
+  "sentence_index" : 0,
+  "Tokens" : [ "going", "to", "use", "it", "in", "those", "patients", "*", "*", "his", "dandruff", "shampoo", "was", "n't", "tough", "enough", "for", "black", ",", "so", "i", "bought", "him", "maximum", "strength", "selsun", "blue.", "it", "'s", "doctor", "recommended", "and", "works", "fast.", "selsun", "blue.", "that", "have", "riveted", "the", "nation.", "first", ",", "a", "big", "hearing", "tomorrow", "in", "the", "scott", "peterson", "case.", "punishing", "prosecutors.", "it", "could", "all", "be", "up", "for", "grabs.", "then", "the", "texas", "woman", "accused", "of", "hitting", "a", "man", "with", "her", "car", ",", "driving", "home", "about", "him", "stuck", "to", "her", "windshield", "and", "leaving", "him", "there", "to", "die.", "and", "andrew", "luster", ",", "grandson", "of", "cosmetic", "legend", "max", "factor.", "what", "drove", "him", "to", "become", "a", "serial", "rapist", "and", "to", "jump", "bail", "in", "the", "middle", "of", "the", "trial.", "only", "to", "be", "captured", "in", "mexico", "by", "a", "bounter", "hunter", "after", "five", "months", "on", "the", "roun.", "that", "'s", "all", "next", "on", "\"", "larry", "king", "live", ".", "\"" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the texas woman accused of hitting a man with her car, driving home about him stuck to her windshield and leaving him there to die",
+  "sentence_length" : 143,
+  "mentionArg2" : {
+    "extent" : "home",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E1-2",
+    "start" : 75,
+    "end" : 75
+  },
+  "relationID" : "CNN_ENG_20030625_210122.0-R4",
+  "mentionArg1" : {
+    "extent" : "the texas woman accused of hitting a man with her car, driving home about him stuck to her windshield and leaving him there to die",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E44-61",
+    "start" : 62,
+    "end" : 87
+  },
+  "id" : "CNN_ENG_20030625_210122.0-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "going to use it in those patients * * his dandruff shampoo was n't tough enough for black , so i bought him maximum strength selsun blue. it 's doctor recommended and works fast. selsun blue. that have riveted the nation. first , a big hearing tomorrow in the scott peterson case. punishing prosecutors. it could all be up for grabs. then the texas woman accused of hitting a man with her car , driving home about him stuck to her windshield and leaving him there to die. and andrew luster , grandson of cosmetic legend max factor. what drove him to become a serial rapist and to jump bail in the middle of the trial. only to be captured in mexico by a bounter hunter after five months on the roun. that 's all next on \" larry king live . \"",
+  "sentence_index" : 0,
+  "Tokens" : [ "going", "to", "use", "it", "in", "those", "patients", "*", "*", "his", "dandruff", "shampoo", "was", "n't", "tough", "enough", "for", "black", ",", "so", "i", "bought", "him", "maximum", "strength", "selsun", "blue.", "it", "'s", "doctor", "recommended", "and", "works", "fast.", "selsun", "blue.", "that", "have", "riveted", "the", "nation.", "first", ",", "a", "big", "hearing", "tomorrow", "in", "the", "scott", "peterson", "case.", "punishing", "prosecutors.", "it", "could", "all", "be", "up", "for", "grabs.", "then", "the", "texas", "woman", "accused", "of", "hitting", "a", "man", "with", "her", "car", ",", "driving", "home", "about", "him", "stuck", "to", "her", "windshield", "and", "leaving", "him", "there", "to", "die.", "and", "andrew", "luster", ",", "grandson", "of", "cosmetic", "legend", "max", "factor.", "what", "drove", "him", "to", "become", "a", "serial", "rapist", "and", "to", "jump", "bail", "in", "the", "middle", "of", "the", "trial.", "only", "to", "be", "captured", "in", "mexico", "by", "a", "bounter", "hunter", "after", "five", "months", "on", "the", "roun.", "that", "'s", "all", "next", "on", "\"", "larry", "king", "live", ".", "\"" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "grandson of cosmetic legend max factor",
+  "sentence_length" : 143,
+  "mentionArg2" : {
+    "extent" : "cosmetic legend max factor",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E4-7",
+    "start" : 94,
+    "end" : 97
+  },
+  "relationID" : "CNN_ENG_20030625_210122.0-R5",
+  "mentionArg1" : {
+    "extent" : "grandson of cosmetic legend max factor",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E2-4",
+    "start" : 92,
+    "end" : 97
+  },
+  "id" : "CNN_ENG_20030625_210122.0-R5-1",
+  "relationSubType" : "Family",
+  "Sentence" : "going to use it in those patients * * his dandruff shampoo was n't tough enough for black , so i bought him maximum strength selsun blue. it 's doctor recommended and works fast. selsun blue. that have riveted the nation. first , a big hearing tomorrow in the scott peterson case. punishing prosecutors. it could all be up for grabs. then the texas woman accused of hitting a man with her car , driving home about him stuck to her windshield and leaving him there to die. and andrew luster , grandson of cosmetic legend max factor. what drove him to become a serial rapist and to jump bail in the middle of the trial. only to be captured in mexico by a bounter hunter after five months on the roun. that 's all next on \" larry king live . \"",
+  "sentence_index" : 0,
+  "Tokens" : [ "going", "to", "use", "it", "in", "those", "patients", "*", "*", "his", "dandruff", "shampoo", "was", "n't", "tough", "enough", "for", "black", ",", "so", "i", "bought", "him", "maximum", "strength", "selsun", "blue.", "it", "'s", "doctor", "recommended", "and", "works", "fast.", "selsun", "blue.", "that", "have", "riveted", "the", "nation.", "first", ",", "a", "big", "hearing", "tomorrow", "in", "the", "scott", "peterson", "case.", "punishing", "prosecutors.", "it", "could", "all", "be", "up", "for", "grabs.", "then", "the", "texas", "woman", "accused", "of", "hitting", "a", "man", "with", "her", "car", ",", "driving", "home", "about", "him", "stuck", "to", "her", "windshield", "and", "leaving", "him", "there", "to", "die.", "and", "andrew", "luster", ",", "grandson", "of", "cosmetic", "legend", "max", "factor.", "what", "drove", "him", "to", "become", "a", "serial", "rapist", "and", "to", "jump", "bail", "in", "the", "middle", "of", "the", "trial.", "only", "to", "be", "captured", "in", "mexico", "by", "a", "bounter", "hunter", "after", "five", "months", "on", "the", "roun.", "that", "'s", "all", "next", "on", "\"", "larry", "king", "live", ".", "\"" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "what drove him to become a serial rapist and to jump bail in the middle of the trial. only to be captured in mexico by a bounter hunter after five months on the roun",
+  "sentence_length" : 143,
+  "mentionArg2" : {
+    "extent" : "mexico",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E7-11",
+    "start" : 121,
+    "end" : 121
+  },
+  "relationID" : "CNN_ENG_20030625_210122.0-R6",
+  "mentionArg1" : {
+    "extent" : "a bounter hunter",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E6-10",
+    "start" : 123,
+    "end" : 125
+  },
+  "id" : "CNN_ENG_20030625_210122.0-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "going to use it in those patients * * his dandruff shampoo was n't tough enough for black , so i bought him maximum strength selsun blue. it 's doctor recommended and works fast. selsun blue. that have riveted the nation. first , a big hearing tomorrow in the scott peterson case. punishing prosecutors. it could all be up for grabs. then the texas woman accused of hitting a man with her car , driving home about him stuck to her windshield and leaving him there to die. and andrew luster , grandson of cosmetic legend max factor. what drove him to become a serial rapist and to jump bail in the middle of the trial. only to be captured in mexico by a bounter hunter after five months on the roun. that 's all next on \" larry king live . \"",
+  "sentence_index" : 0,
+  "Tokens" : [ "going", "to", "use", "it", "in", "those", "patients", "*", "*", "his", "dandruff", "shampoo", "was", "n't", "tough", "enough", "for", "black", ",", "so", "i", "bought", "him", "maximum", "strength", "selsun", "blue.", "it", "'s", "doctor", "recommended", "and", "works", "fast.", "selsun", "blue.", "that", "have", "riveted", "the", "nation.", "first", ",", "a", "big", "hearing", "tomorrow", "in", "the", "scott", "peterson", "case.", "punishing", "prosecutors.", "it", "could", "all", "be", "up", "for", "grabs.", "then", "the", "texas", "woman", "accused", "of", "hitting", "a", "man", "with", "her", "car", ",", "driving", "home", "about", "him", "stuck", "to", "her", "windshield", "and", "leaving", "him", "there", "to", "die.", "and", "andrew", "luster", ",", "grandson", "of", "cosmetic", "legend", "max", "factor.", "what", "drove", "him", "to", "become", "a", "serial", "rapist", "and", "to", "jump", "bail", "in", "the", "middle", "of", "the", "trial.", "only", "to", "be", "captured", "in", "mexico", "by", "a", "bounter", "hunter", "after", "five", "months", "on", "the", "roun.", "that", "'s", "all", "next", "on", "\"", "larry", "king", "live", ".", "\"" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "and the guests are here in los angeles, roger john diamond",
+  "sentence_length" : 152,
+  "mentionArg2" : {
+    "extent" : "here in los angeles",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E11-16",
+    "start" : 14,
+    "end" : 17
+  },
+  "relationID" : "CNN_ENG_20030625_210122.0-R7",
+  "mentionArg1" : {
+    "extent" : "the guests",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E10-15",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "CNN_ENG_20030625_210122.0-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "we begin first with the extraordinary case of andrew luster. and the guests are here in los angeles , roger john diamond. he is andrew luster 's attorney. in chicago , the well known bill curtis. the special report will air tonight at 10:00 eastern , a twisted mind , the andrew luster story on a & amp ; e produced by cbs news productions for a & amp ; e and bill curtis is the producer and director. in new york is nancy grace. a former prosecutor. in atlanta chris picksly , defense attorney. and in new york , dr. michael wellner who published the research study on drug facilitated rapists. he 's a professor of psychiatry at nyu , chairman of the forensic panel and fellow of the depravity scale that considers sensational crimes for sentencing. he was arrested in june after he he -- jumped trial on bail .",
+  "sentence_index" : 1,
+  "Tokens" : [ "we", "begin", "first", "with", "the", "extraordinary", "case", "of", "andrew", "luster.", "and", "the", "guests", "are", "here", "in", "los", "angeles", ",", "roger", "john", "diamond.", "he", "is", "andrew", "luster", "'s", "attorney.", "in", "chicago", ",", "the", "well", "known", "bill", "curtis.", "the", "special", "report", "will", "air", "tonight", "at", "10:00", "eastern", ",", "a", "twisted", "mind", ",", "the", "andrew", "luster", "story", "on", "a", "&", "amp", ";", "e", "produced", "by", "cbs", "news", "productions", "for", "a", "&", "amp", ";", "e", "and", "bill", "curtis", "is", "the", "producer", "and", "director.", "in", "new", "york", "is", "nancy", "grace.", "a", "former", "prosecutor.", "in", "atlanta", "chris", "picksly", ",", "defense", "attorney.", "and", "in", "new", "york", ",", "dr.", "michael", "wellner", "who", "published", "the", "research", "study", "on", "drug", "facilitated", "rapists.", "he", "'s", "a", "professor", "of", "psychiatry", "at", "nyu", ",", "chairman", "of", "the", "forensic", "panel", "and", "fellow", "of", "the", "depravity", "scale", "that", "considers", "sensational", "crimes", "for", "sentencing.", "he", "was", "arrested", "in", "june", "after", "he", "he", "--", "jumped", "trial", "on", "bail", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "in chicago, the well known bill curtis",
+  "sentence_length" : 152,
+  "mentionArg2" : {
+    "extent" : "chicago",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E14-22",
+    "start" : 29,
+    "end" : 29
+  },
+  "relationID" : "CNN_ENG_20030625_210122.0-R8",
+  "mentionArg1" : {
+    "extent" : "the well known bill curtis",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E15-23",
+    "start" : 31,
+    "end" : 35
+  },
+  "id" : "CNN_ENG_20030625_210122.0-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "we begin first with the extraordinary case of andrew luster. and the guests are here in los angeles , roger john diamond. he is andrew luster 's attorney. in chicago , the well known bill curtis. the special report will air tonight at 10:00 eastern , a twisted mind , the andrew luster story on a & amp ; e produced by cbs news productions for a & amp ; e and bill curtis is the producer and director. in new york is nancy grace. a former prosecutor. in atlanta chris picksly , defense attorney. and in new york , dr. michael wellner who published the research study on drug facilitated rapists. he 's a professor of psychiatry at nyu , chairman of the forensic panel and fellow of the depravity scale that considers sensational crimes for sentencing. he was arrested in june after he he -- jumped trial on bail .",
+  "sentence_index" : 1,
+  "Tokens" : [ "we", "begin", "first", "with", "the", "extraordinary", "case", "of", "andrew", "luster.", "and", "the", "guests", "are", "here", "in", "los", "angeles", ",", "roger", "john", "diamond.", "he", "is", "andrew", "luster", "'s", "attorney.", "in", "chicago", ",", "the", "well", "known", "bill", "curtis.", "the", "special", "report", "will", "air", "tonight", "at", "10:00", "eastern", ",", "a", "twisted", "mind", ",", "the", "andrew", "luster", "story", "on", "a", "&", "amp", ";", "e", "produced", "by", "cbs", "news", "productions", "for", "a", "&", "amp", ";", "e", "and", "bill", "curtis", "is", "the", "producer", "and", "director.", "in", "new", "york", "is", "nancy", "grace.", "a", "former", "prosecutor.", "in", "atlanta", "chris", "picksly", ",", "defense", "attorney.", "and", "in", "new", "york", ",", "dr.", "michael", "wellner", "who", "published", "the", "research", "study", "on", "drug", "facilitated", "rapists.", "he", "'s", "a", "professor", "of", "psychiatry", "at", "nyu", ",", "chairman", "of", "the", "forensic", "panel", "and", "fellow", "of", "the", "depravity", "scale", "that", "considers", "sensational", "crimes", "for", "sentencing.", "he", "was", "arrested", "in", "june", "after", "he", "he", "--", "jumped", "trial", "on", "bail", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "in new york is nancy grace. a former prosecutor",
+  "sentence_length" : 152,
+  "mentionArg2" : {
+    "extent" : "new york",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E25-24",
+    "start" : 80,
+    "end" : 81
+  },
+  "relationID" : "CNN_ENG_20030625_210122.0-R9",
+  "mentionArg1" : {
+    "extent" : "nancy grace",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E20-29",
+    "start" : 83,
+    "end" : 84
+  },
+  "id" : "CNN_ENG_20030625_210122.0-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "we begin first with the extraordinary case of andrew luster. and the guests are here in los angeles , roger john diamond. he is andrew luster 's attorney. in chicago , the well known bill curtis. the special report will air tonight at 10:00 eastern , a twisted mind , the andrew luster story on a & amp ; e produced by cbs news productions for a & amp ; e and bill curtis is the producer and director. in new york is nancy grace. a former prosecutor. in atlanta chris picksly , defense attorney. and in new york , dr. michael wellner who published the research study on drug facilitated rapists. he 's a professor of psychiatry at nyu , chairman of the forensic panel and fellow of the depravity scale that considers sensational crimes for sentencing. he was arrested in june after he he -- jumped trial on bail .",
+  "sentence_index" : 1,
+  "Tokens" : [ "we", "begin", "first", "with", "the", "extraordinary", "case", "of", "andrew", "luster.", "and", "the", "guests", "are", "here", "in", "los", "angeles", ",", "roger", "john", "diamond.", "he", "is", "andrew", "luster", "'s", "attorney.", "in", "chicago", ",", "the", "well", "known", "bill", "curtis.", "the", "special", "report", "will", "air", "tonight", "at", "10:00", "eastern", ",", "a", "twisted", "mind", ",", "the", "andrew", "luster", "story", "on", "a", "&", "amp", ";", "e", "produced", "by", "cbs", "news", "productions", "for", "a", "&", "amp", ";", "e", "and", "bill", "curtis", "is", "the", "producer", "and", "director.", "in", "new", "york", "is", "nancy", "grace.", "a", "former", "prosecutor.", "in", "atlanta", "chris", "picksly", ",", "defense", "attorney.", "and", "in", "new", "york", ",", "dr.", "michael", "wellner", "who", "published", "the", "research", "study", "on", "drug", "facilitated", "rapists.", "he", "'s", "a", "professor", "of", "psychiatry", "at", "nyu", ",", "chairman", "of", "the", "forensic", "panel", "and", "fellow", "of", "the", "depravity", "scale", "that", "considers", "sensational", "crimes", "for", "sentencing.", "he", "was", "arrested", "in", "june", "after", "he", "he", "--", "jumped", "trial", "on", "bail", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the special report will air tonight at 10:00 eastern, a twisted mind, the andrew luster story on a & e produced by cbs news productions for a & e and bill curtis is the producer and director",
+  "sentence_length" : 152,
+  "mentionArg2" : {
+    "extent" : "cbs news productions",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E34-50",
+    "start" : 62,
+    "end" : 64
+  },
+  "relationID" : "CNN_ENG_20030625_210122.0-R10",
+  "mentionArg1" : {
+    "extent" : "bill curtis",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E15-26",
+    "start" : 72,
+    "end" : 73
+  },
+  "id" : "CNN_ENG_20030625_210122.0-R10-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "we begin first with the extraordinary case of andrew luster. and the guests are here in los angeles , roger john diamond. he is andrew luster 's attorney. in chicago , the well known bill curtis. the special report will air tonight at 10:00 eastern , a twisted mind , the andrew luster story on a & amp ; e produced by cbs news productions for a & amp ; e and bill curtis is the producer and director. in new york is nancy grace. a former prosecutor. in atlanta chris picksly , defense attorney. and in new york , dr. michael wellner who published the research study on drug facilitated rapists. he 's a professor of psychiatry at nyu , chairman of the forensic panel and fellow of the depravity scale that considers sensational crimes for sentencing. he was arrested in june after he he -- jumped trial on bail .",
+  "sentence_index" : 1,
+  "Tokens" : [ "we", "begin", "first", "with", "the", "extraordinary", "case", "of", "andrew", "luster.", "and", "the", "guests", "are", "here", "in", "los", "angeles", ",", "roger", "john", "diamond.", "he", "is", "andrew", "luster", "'s", "attorney.", "in", "chicago", ",", "the", "well", "known", "bill", "curtis.", "the", "special", "report", "will", "air", "tonight", "at", "10:00", "eastern", ",", "a", "twisted", "mind", ",", "the", "andrew", "luster", "story", "on", "a", "&", "amp", ";", "e", "produced", "by", "cbs", "news", "productions", "for", "a", "&", "amp", ";", "e", "and", "bill", "curtis", "is", "the", "producer", "and", "director.", "in", "new", "york", "is", "nancy", "grace.", "a", "former", "prosecutor.", "in", "atlanta", "chris", "picksly", ",", "defense", "attorney.", "and", "in", "new", "york", ",", "dr.", "michael", "wellner", "who", "published", "the", "research", "study", "on", "drug", "facilitated", "rapists.", "he", "'s", "a", "professor", "of", "psychiatry", "at", "nyu", ",", "chairman", "of", "the", "forensic", "panel", "and", "fellow", "of", "the", "depravity", "scale", "that", "considers", "sensational", "crimes", "for", "sentencing.", "he", "was", "arrested", "in", "june", "after", "he", "he", "--", "jumped", "trial", "on", "bail", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "in atlanta chris picksly, defense attorney",
+  "sentence_length" : 152,
+  "mentionArg2" : {
+    "extent" : "atlanta",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E22-32",
+    "start" : 89,
+    "end" : 89
+  },
+  "relationID" : "CNN_ENG_20030625_210122.0-R11",
+  "mentionArg1" : {
+    "extent" : "chris picksly",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E23-33",
+    "start" : 90,
+    "end" : 91
+  },
+  "id" : "CNN_ENG_20030625_210122.0-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "we begin first with the extraordinary case of andrew luster. and the guests are here in los angeles , roger john diamond. he is andrew luster 's attorney. in chicago , the well known bill curtis. the special report will air tonight at 10:00 eastern , a twisted mind , the andrew luster story on a & amp ; e produced by cbs news productions for a & amp ; e and bill curtis is the producer and director. in new york is nancy grace. a former prosecutor. in atlanta chris picksly , defense attorney. and in new york , dr. michael wellner who published the research study on drug facilitated rapists. he 's a professor of psychiatry at nyu , chairman of the forensic panel and fellow of the depravity scale that considers sensational crimes for sentencing. he was arrested in june after he he -- jumped trial on bail .",
+  "sentence_index" : 1,
+  "Tokens" : [ "we", "begin", "first", "with", "the", "extraordinary", "case", "of", "andrew", "luster.", "and", "the", "guests", "are", "here", "in", "los", "angeles", ",", "roger", "john", "diamond.", "he", "is", "andrew", "luster", "'s", "attorney.", "in", "chicago", ",", "the", "well", "known", "bill", "curtis.", "the", "special", "report", "will", "air", "tonight", "at", "10:00", "eastern", ",", "a", "twisted", "mind", ",", "the", "andrew", "luster", "story", "on", "a", "&", "amp", ";", "e", "produced", "by", "cbs", "news", "productions", "for", "a", "&", "amp", ";", "e", "and", "bill", "curtis", "is", "the", "producer", "and", "director.", "in", "new", "york", "is", "nancy", "grace.", "a", "former", "prosecutor.", "in", "atlanta", "chris", "picksly", ",", "defense", "attorney.", "and", "in", "new", "york", ",", "dr.", "michael", "wellner", "who", "published", "the", "research", "study", "on", "drug", "facilitated", "rapists.", "he", "'s", "a", "professor", "of", "psychiatry", "at", "nyu", ",", "chairman", "of", "the", "forensic", "panel", "and", "fellow", "of", "the", "depravity", "scale", "that", "considers", "sensational", "crimes", "for", "sentencing.", "he", "was", "arrested", "in", "june", "after", "he", "he", "--", "jumped", "trial", "on", "bail", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "and in new york, dr. michael wellner who published the research study on drug facilitated rapists",
+  "sentence_length" : 152,
+  "mentionArg2" : {
+    "extent" : "new york",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E25-36",
+    "start" : 97,
+    "end" : 98
+  },
+  "relationID" : "CNN_ENG_20030625_210122.0-R12",
+  "mentionArg1" : {
+    "extent" : "dr. michael wellner",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E26-37",
+    "start" : 100,
+    "end" : 102
+  },
+  "id" : "CNN_ENG_20030625_210122.0-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "we begin first with the extraordinary case of andrew luster. and the guests are here in los angeles , roger john diamond. he is andrew luster 's attorney. in chicago , the well known bill curtis. the special report will air tonight at 10:00 eastern , a twisted mind , the andrew luster story on a & amp ; e produced by cbs news productions for a & amp ; e and bill curtis is the producer and director. in new york is nancy grace. a former prosecutor. in atlanta chris picksly , defense attorney. and in new york , dr. michael wellner who published the research study on drug facilitated rapists. he 's a professor of psychiatry at nyu , chairman of the forensic panel and fellow of the depravity scale that considers sensational crimes for sentencing. he was arrested in june after he he -- jumped trial on bail .",
+  "sentence_index" : 1,
+  "Tokens" : [ "we", "begin", "first", "with", "the", "extraordinary", "case", "of", "andrew", "luster.", "and", "the", "guests", "are", "here", "in", "los", "angeles", ",", "roger", "john", "diamond.", "he", "is", "andrew", "luster", "'s", "attorney.", "in", "chicago", ",", "the", "well", "known", "bill", "curtis.", "the", "special", "report", "will", "air", "tonight", "at", "10:00", "eastern", ",", "a", "twisted", "mind", ",", "the", "andrew", "luster", "story", "on", "a", "&", "amp", ";", "e", "produced", "by", "cbs", "news", "productions", "for", "a", "&", "amp", ";", "e", "and", "bill", "curtis", "is", "the", "producer", "and", "director.", "in", "new", "york", "is", "nancy", "grace.", "a", "former", "prosecutor.", "in", "atlanta", "chris", "picksly", ",", "defense", "attorney.", "and", "in", "new", "york", ",", "dr.", "michael", "wellner", "who", "published", "the", "research", "study", "on", "drug", "facilitated", "rapists.", "he", "'s", "a", "professor", "of", "psychiatry", "at", "nyu", ",", "chairman", "of", "the", "forensic", "panel", "and", "fellow", "of", "the", "depravity", "scale", "that", "considers", "sensational", "crimes", "for", "sentencing.", "he", "was", "arrested", "in", "june", "after", "he", "he", "--", "jumped", "trial", "on", "bail", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a professor of psychiatry at nyu",
+  "sentence_length" : 152,
+  "mentionArg2" : {
+    "extent" : "nyu",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E30-43",
+    "start" : 119,
+    "end" : 119
+  },
+  "relationID" : "CNN_ENG_20030625_210122.0-R13",
+  "mentionArg1" : {
+    "extent" : "a professor of psychiatry at nyu",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E26-42",
+    "start" : 114,
+    "end" : 119
+  },
+  "id" : "CNN_ENG_20030625_210122.0-R13-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "we begin first with the extraordinary case of andrew luster. and the guests are here in los angeles , roger john diamond. he is andrew luster 's attorney. in chicago , the well known bill curtis. the special report will air tonight at 10:00 eastern , a twisted mind , the andrew luster story on a & amp ; e produced by cbs news productions for a & amp ; e and bill curtis is the producer and director. in new york is nancy grace. a former prosecutor. in atlanta chris picksly , defense attorney. and in new york , dr. michael wellner who published the research study on drug facilitated rapists. he 's a professor of psychiatry at nyu , chairman of the forensic panel and fellow of the depravity scale that considers sensational crimes for sentencing. he was arrested in june after he he -- jumped trial on bail .",
+  "sentence_index" : 1,
+  "Tokens" : [ "we", "begin", "first", "with", "the", "extraordinary", "case", "of", "andrew", "luster.", "and", "the", "guests", "are", "here", "in", "los", "angeles", ",", "roger", "john", "diamond.", "he", "is", "andrew", "luster", "'s", "attorney.", "in", "chicago", ",", "the", "well", "known", "bill", "curtis.", "the", "special", "report", "will", "air", "tonight", "at", "10:00", "eastern", ",", "a", "twisted", "mind", ",", "the", "andrew", "luster", "story", "on", "a", "&", "amp", ";", "e", "produced", "by", "cbs", "news", "productions", "for", "a", "&", "amp", ";", "e", "and", "bill", "curtis", "is", "the", "producer", "and", "director.", "in", "new", "york", "is", "nancy", "grace.", "a", "former", "prosecutor.", "in", "atlanta", "chris", "picksly", ",", "defense", "attorney.", "and", "in", "new", "york", ",", "dr.", "michael", "wellner", "who", "published", "the", "research", "study", "on", "drug", "facilitated", "rapists.", "he", "'s", "a", "professor", "of", "psychiatry", "at", "nyu", ",", "chairman", "of", "the", "forensic", "panel", "and", "fellow", "of", "the", "depravity", "scale", "that", "considers", "sensational", "crimes", "for", "sentencing.", "he", "was", "arrested", "in", "june", "after", "he", "he", "--", "jumped", "trial", "on", "bail", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "chairman of the forensic panel",
+  "sentence_length" : 152,
+  "mentionArg2" : {
+    "extent" : "the forensic panel",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E33-49",
+    "start" : 123,
+    "end" : 125
+  },
+  "relationID" : "CNN_ENG_20030625_210122.0-R14",
+  "mentionArg1" : {
+    "extent" : "chairman of the forensic panel",
+    "argMentionid" : "CNN_ENG_20030625_210122.0-E26-44",
+    "start" : 121,
+    "end" : 125
+  },
+  "id" : "CNN_ENG_20030625_210122.0-R14-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "we begin first with the extraordinary case of andrew luster. and the guests are here in los angeles , roger john diamond. he is andrew luster 's attorney. in chicago , the well known bill curtis. the special report will air tonight at 10:00 eastern , a twisted mind , the andrew luster story on a & amp ; e produced by cbs news productions for a & amp ; e and bill curtis is the producer and director. in new york is nancy grace. a former prosecutor. in atlanta chris picksly , defense attorney. and in new york , dr. michael wellner who published the research study on drug facilitated rapists. he 's a professor of psychiatry at nyu , chairman of the forensic panel and fellow of the depravity scale that considers sensational crimes for sentencing. he was arrested in june after he he -- jumped trial on bail .",
+  "sentence_index" : 1,
+  "Tokens" : [ "we", "begin", "first", "with", "the", "extraordinary", "case", "of", "andrew", "luster.", "and", "the", "guests", "are", "here", "in", "los", "angeles", ",", "roger", "john", "diamond.", "he", "is", "andrew", "luster", "'s", "attorney.", "in", "chicago", ",", "the", "well", "known", "bill", "curtis.", "the", "special", "report", "will", "air", "tonight", "at", "10:00", "eastern", ",", "a", "twisted", "mind", ",", "the", "andrew", "luster", "story", "on", "a", "&", "amp", ";", "e", "produced", "by", "cbs", "news", "productions", "for", "a", "&", "amp", ";", "e", "and", "bill", "curtis", "is", "the", "producer", "and", "director.", "in", "new", "york", "is", "nancy", "grace.", "a", "former", "prosecutor.", "in", "atlanta", "chris", "picksly", ",", "defense", "attorney.", "and", "in", "new", "york", ",", "dr.", "michael", "wellner", "who", "published", "the", "research", "study", "on", "drug", "facilitated", "rapists.", "he", "'s", "a", "professor", "of", "psychiatry", "at", "nyu", ",", "chairman", "of", "the", "forensic", "panel", "and", "fellow", "of", "the", "depravity", "scale", "that", "considers", "sensational", "crimes", "for", "sentencing.", "he", "was", "arrested", "in", "june", "after", "he", "he", "--", "jumped", "trial", "on", "bail", "." ]
+} ]

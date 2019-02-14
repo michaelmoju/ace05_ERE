@@ -1,0 +1,243 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "Anyone who has spent any time in NVA over the last 40 years is familiar with the Giant grocery store chain",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "NVA",
+    "argMentionid" : "BACONSREBELLION_20050222.1348-E24-46",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "BACONSREBELLION_20050222.1348-R2",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "BACONSREBELLION_20050222.1348-E21-45",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "BACONSREBELLION_20050222.1348-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Will Vehrs 2005-02-22T13:48:00 Anyone who has spent any time in NVA over the last 40 years is familiar with the Giant grocery store chain .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Will", "Vehrs", "2005-02-22T13:48:00", "Anyone", "who", "has", "spent", "any", "time", "in", "NVA", "over", "the", "last", "40", "years", "is", "familiar", "with", "the", "Giant", "grocery", "store", "chain", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Giant grocery store chain",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the Giant grocery store chain",
+    "argMentionid" : "BACONSREBELLION_20050222.1348-E1-47",
+    "start" : 19,
+    "end" : 23
+  },
+  "relationID" : "BACONSREBELLION_20050222.1348-R3",
+  "mentionArg1" : {
+    "extent" : "grocery store",
+    "argMentionid" : "BACONSREBELLION_20050222.1348-E27-49",
+    "start" : 21,
+    "end" : 22
+  },
+  "id" : "BACONSREBELLION_20050222.1348-R3-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Will Vehrs 2005-02-22T13:48:00 Anyone who has spent any time in NVA over the last 40 years is familiar with the Giant grocery store chain .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Will", "Vehrs", "2005-02-22T13:48:00", "Anyone", "who", "has", "spent", "any", "time", "in", "NVA", "over", "the", "last", "40", "years", "is", "familiar", "with", "the", "Giant", "grocery", "store", "chain", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "its private owners a few years ago",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "its",
+    "argMentionid" : "BACONSREBELLION_20050222.1348-E1-51",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "BACONSREBELLION_20050222.1348-R4",
+  "mentionArg1" : {
+    "extent" : "its private owners",
+    "argMentionid" : "BACONSREBELLION_20050222.1348-E28-52",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "BACONSREBELLION_20050222.1348-R4-1",
+  "relationSubType" : "Ownership",
+  "Sentence" : "When the chain passed from its private owners a few years ago , problems began .",
+  "sentence_index" : 1,
+  "Tokens" : [ "When", "the", "chain", "passed", "from", "its", "private", "owners", "a", "few", "years", "ago", ",", "problems", "began", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the New England chain",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "New England",
+    "argMentionid" : "BACONSREBELLION_20050222.1348-E31-55",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "BACONSREBELLION_20050222.1348-R5",
+  "mentionArg1" : {
+    "extent" : "the New England chain",
+    "argMentionid" : "BACONSREBELLION_20050222.1348-E29-54",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "BACONSREBELLION_20050222.1348-R5-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "These problems multiplied when the New England chain Stop n ' Shop acquired Giant .",
+  "sentence_index" : 2,
+  "Tokens" : [ "These", "problems", "multiplied", "when", "the", "New", "England", "chain", "Stop", "n", "'", "Shop", "acquired", "Giant", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Maryland residents",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Maryland",
+    "argMentionid" : "BACONSREBELLION_20050222.1348-E6-10",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "BACONSREBELLION_20050222.1348-R6",
+  "mentionArg1" : {
+    "extent" : "Maryland residents",
+    "argMentionid" : "BACONSREBELLION_20050222.1348-E7-11",
+    "start" : 14,
+    "end" : 15
+  },
+  "id" : "BACONSREBELLION_20050222.1348-R6-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "One interesting note : most of the online negative comments about Giant come from Maryland residents .",
+  "sentence_index" : 6,
+  "Tokens" : [ "One", "interesting", "note", ":", "most", "of", "the", "online", "negative", "comments", "about", "Giant", "come", "from", "Maryland", "residents", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Most of the new stores competing with Giant are in Virginia",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "Virginia",
+    "argMentionid" : "BACONSREBELLION_20050222.1348-E10-15",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "BACONSREBELLION_20050222.1348-R7",
+  "mentionArg1" : {
+    "extent" : "Most of the new stores competing with Giant",
+    "argMentionid" : "BACONSREBELLION_20050222.1348-E8-12",
+    "start" : 0,
+    "end" : 7
+  },
+  "id" : "BACONSREBELLION_20050222.1348-R7-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Most of the new stores competing with Giant are in Virginia .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Most", "of", "the", "new", "stores", "competing", "with", "Giant", "are", "in", "Virginia", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "I'm new to this area (1 year) so I can't really comment on Giant",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "this area",
+    "argMentionid" : "BACONSREBELLION_20050222.1348-E24-17",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "BACONSREBELLION_20050222.1348-R8",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "BACONSREBELLION_20050222.1348-E11-16",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "BACONSREBELLION_20050222.1348-R8-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Paul ???? - ?? - ?? T09:54:00 I 'm new to this area ( 1 year ) so I ca n't really comment on Giant .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Paul", "????", "-", "??", "-", "??", "T09:54:00", "I", "'m", "new", "to", "this", "area", "(", "1", "year", ")", "so", "I", "ca", "n't", "really", "comment", "on", "Giant", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "our Ukrops",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "BACONSREBELLION_20050222.1348-E16-27",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "BACONSREBELLION_20050222.1348-R9",
+  "mentionArg1" : {
+    "extent" : "our Ukrops",
+    "argMentionid" : "BACONSREBELLION_20050222.1348-E14-31",
+    "start" : 14,
+    "end" : 15
+  },
+  "id" : "BACONSREBELLION_20050222.1348-R9-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Jim Bacon ???? - ?? - ?? T10:44:00 We Richmonders , we do love our Ukrops !",
+  "sentence_index" : 12,
+  "Tokens" : [ "Jim", "Bacon", "????", "-", "??", "-", "??", "T10:44:00", "We", "Richmonders", ",", "we", "do", "love", "our", "Ukrops", "!" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I worked there as a youngster many years back",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "BACONSREBELLION_20050222.1348-E14-33",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "BACONSREBELLION_20050222.1348-R10",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "BACONSREBELLION_20050222.1348-E11-32",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "BACONSREBELLION_20050222.1348-R10-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Paul ???? - ?? - ?? T10:54:00 I worked there as a youngster many years back .",
+  "sentence_index" : 14,
+  "Tokens" : [ "Paul", "????", "-", "??", "-", "??", "T10:54:00", "I", "worked", "there", "as", "a", "youngster", "many", "years", "back", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I remember one day they had a dozen japanese businessmen touring the place trying to figure out how they did it",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "the place",
+    "argMentionid" : "BACONSREBELLION_20050222.1348-E20-39",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "BACONSREBELLION_20050222.1348-R11",
+  "mentionArg1" : {
+    "extent" : "a dozen japanese businessmen touring the place trying to figure out how they did it",
+    "argMentionid" : "BACONSREBELLION_20050222.1348-E18-37",
+    "start" : 7,
+    "end" : 21
+  },
+  "id" : "BACONSREBELLION_20050222.1348-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "And I remember one day they had a dozen japanese businessmen touring the place trying to figure out how they did it ...",
+  "sentence_index" : 16,
+  "Tokens" : [ "And", "I", "remember", "one", "day", "they", "had", "a", "dozen", "japanese", "businessmen", "touring", "the", "place", "trying", "to", "figure", "out", "how", "they", "did", "it", "..." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a dozen japanese businessmen touring the place trying to figure out how they did it",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "japanese",
+    "argMentionid" : "BACONSREBELLION_20050222.1348-E19-38",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "BACONSREBELLION_20050222.1348-R12",
+  "mentionArg1" : {
+    "extent" : "a dozen japanese businessmen touring the place trying to figure out how they did it",
+    "argMentionid" : "BACONSREBELLION_20050222.1348-E18-37",
+    "start" : 7,
+    "end" : 21
+  },
+  "id" : "BACONSREBELLION_20050222.1348-R12-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "And I remember one day they had a dozen japanese businessmen touring the place trying to figure out how they did it ...",
+  "sentence_index" : 16,
+  "Tokens" : [ "And", "I", "remember", "one", "day", "they", "had", "a", "dozen", "japanese", "businessmen", "touring", "the", "place", "trying", "to", "figure", "out", "how", "they", "did", "it", "..." ]
+} ]

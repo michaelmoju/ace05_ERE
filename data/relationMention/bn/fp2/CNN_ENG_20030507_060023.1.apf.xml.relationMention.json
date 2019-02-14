@@ -1,0 +1,221 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "the families of the victims",
+  "sentence_length" : 122,
+  "mentionArg2" : {
+    "extent" : "the victims",
+    "argMentionid" : "CNN_ENG_20030507_060023.1-E10-11",
+    "start" : 22,
+    "end" : 23
+  },
+  "relationID" : "CNN_ENG_20030507_060023.1-R1",
+  "mentionArg1" : {
+    "extent" : "the families of the victims",
+    "argMentionid" : "CNN_ENG_20030507_060023.1-E9-10",
+    "start" : 19,
+    "end" : 23
+  },
+  "id" : "CNN_ENG_20030507_060023.1-R1-1",
+  "relationSubType" : "Family",
+  "Sentence" : "welcome to the second hour. good morning to you. a new al qaeda videotape , no doubt chilling to the families of the victims. two of the four pilots who took control of the planes on 9/11 attended a wedding party in hamburg , germany , four years ago 1999 this is. another one of the pilots , mohammed atta , also believed to be present at this meeting. throughout the morning , we 're looking at a remarkable tape right now. what 's believed to be the terror cell responsible for 9 / 11. many members on that tape working together through a cell in germany known as the hamburg cell seen in the same room at the same time .",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "to", "the", "second", "hour.", "good", "morning", "to", "you.", "a", "new", "al", "qaeda", "videotape", ",", "no", "doubt", "chilling", "to", "the", "families", "of", "the", "victims.", "two", "of", "the", "four", "pilots", "who", "took", "control", "of", "the", "planes", "on", "9/11", "attended", "a", "wedding", "party", "in", "hamburg", ",", "germany", ",", "four", "years", "ago", "1999", "this", "is.", "another", "one", "of", "the", "pilots", ",", "mohammed", "atta", ",", "also", "believed", "to", "be", "present", "at", "this", "meeting.", "throughout", "the", "morning", ",", "we", "'re", "looking", "at", "a", "remarkable", "tape", "right", "now.", "what", "'s", "believed", "to", "be", "the", "terror", "cell", "responsible", "for", "9", "/", "11.", "many", "members", "on", "that", "tape", "working", "together", "through", "a", "cell", "in", "germany", "known", "as", "the", "hamburg", "cell", "seen", "in", "the", "same", "room", "at", "the", "same", "time", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "two of the four pilots who took control of the planes on 9/11",
+  "sentence_length" : 122,
+  "mentionArg2" : {
+    "extent" : "the four pilots who took control of the planes on 9/11",
+    "argMentionid" : "CNN_ENG_20030507_060023.1-E12-13",
+    "start" : 26,
+    "end" : 36
+  },
+  "relationID" : "CNN_ENG_20030507_060023.1-R2",
+  "mentionArg1" : {
+    "extent" : "two of the four pilots who took control of the planes on 9/11",
+    "argMentionid" : "CNN_ENG_20030507_060023.1-E11-12",
+    "start" : 24,
+    "end" : 36
+  },
+  "id" : "CNN_ENG_20030507_060023.1-R2-1",
+  "relationSubType" : "Business",
+  "Sentence" : "welcome to the second hour. good morning to you. a new al qaeda videotape , no doubt chilling to the families of the victims. two of the four pilots who took control of the planes on 9/11 attended a wedding party in hamburg , germany , four years ago 1999 this is. another one of the pilots , mohammed atta , also believed to be present at this meeting. throughout the morning , we 're looking at a remarkable tape right now. what 's believed to be the terror cell responsible for 9 / 11. many members on that tape working together through a cell in germany known as the hamburg cell seen in the same room at the same time .",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "to", "the", "second", "hour.", "good", "morning", "to", "you.", "a", "new", "al", "qaeda", "videotape", ",", "no", "doubt", "chilling", "to", "the", "families", "of", "the", "victims.", "two", "of", "the", "four", "pilots", "who", "took", "control", "of", "the", "planes", "on", "9/11", "attended", "a", "wedding", "party", "in", "hamburg", ",", "germany", ",", "four", "years", "ago", "1999", "this", "is.", "another", "one", "of", "the", "pilots", ",", "mohammed", "atta", ",", "also", "believed", "to", "be", "present", "at", "this", "meeting.", "throughout", "the", "morning", ",", "we", "'re", "looking", "at", "a", "remarkable", "tape", "right", "now.", "what", "'s", "believed", "to", "be", "the", "terror", "cell", "responsible", "for", "9", "/", "11.", "many", "members", "on", "that", "tape", "working", "together", "through", "a", "cell", "in", "germany", "known", "as", "the", "hamburg", "cell", "seen", "in", "the", "same", "room", "at", "the", "same", "time", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "two of the four pilots who took control of the planes on 9/11",
+  "sentence_length" : 122,
+  "mentionArg2" : {
+    "extent" : "the planes",
+    "argMentionid" : "CNN_ENG_20030507_060023.1-E13-15",
+    "start" : 33,
+    "end" : 34
+  },
+  "relationID" : "CNN_ENG_20030507_060023.1-R3",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "CNN_ENG_20030507_060023.1-E12-14",
+    "start" : 29,
+    "end" : 29
+  },
+  "id" : "CNN_ENG_20030507_060023.1-R3-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "welcome to the second hour. good morning to you. a new al qaeda videotape , no doubt chilling to the families of the victims. two of the four pilots who took control of the planes on 9/11 attended a wedding party in hamburg , germany , four years ago 1999 this is. another one of the pilots , mohammed atta , also believed to be present at this meeting. throughout the morning , we 're looking at a remarkable tape right now. what 's believed to be the terror cell responsible for 9 / 11. many members on that tape working together through a cell in germany known as the hamburg cell seen in the same room at the same time .",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "to", "the", "second", "hour.", "good", "morning", "to", "you.", "a", "new", "al", "qaeda", "videotape", ",", "no", "doubt", "chilling", "to", "the", "families", "of", "the", "victims.", "two", "of", "the", "four", "pilots", "who", "took", "control", "of", "the", "planes", "on", "9/11", "attended", "a", "wedding", "party", "in", "hamburg", ",", "germany", ",", "four", "years", "ago", "1999", "this", "is.", "another", "one", "of", "the", "pilots", ",", "mohammed", "atta", ",", "also", "believed", "to", "be", "present", "at", "this", "meeting.", "throughout", "the", "morning", ",", "we", "'re", "looking", "at", "a", "remarkable", "tape", "right", "now.", "what", "'s", "believed", "to", "be", "the", "terror", "cell", "responsible", "for", "9", "/", "11.", "many", "members", "on", "that", "tape", "working", "together", "through", "a", "cell", "in", "germany", "known", "as", "the", "hamburg", "cell", "seen", "in", "the", "same", "room", "at", "the", "same", "time", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "two of the four pilots who took control of the planes on 9/11 attended a wedding party in hamburg, germany, four years ago 1999 this is",
+  "sentence_length" : 122,
+  "mentionArg2" : {
+    "extent" : "hamburg, germany",
+    "argMentionid" : "CNN_ENG_20030507_060023.1-E14-16",
+    "start" : 42,
+    "end" : 44
+  },
+  "relationID" : "CNN_ENG_20030507_060023.1-R4",
+  "mentionArg1" : {
+    "extent" : "two of the four pilots who took control of the planes on 9/11",
+    "argMentionid" : "CNN_ENG_20030507_060023.1-E11-12",
+    "start" : 24,
+    "end" : 36
+  },
+  "id" : "CNN_ENG_20030507_060023.1-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "welcome to the second hour. good morning to you. a new al qaeda videotape , no doubt chilling to the families of the victims. two of the four pilots who took control of the planes on 9/11 attended a wedding party in hamburg , germany , four years ago 1999 this is. another one of the pilots , mohammed atta , also believed to be present at this meeting. throughout the morning , we 're looking at a remarkable tape right now. what 's believed to be the terror cell responsible for 9 / 11. many members on that tape working together through a cell in germany known as the hamburg cell seen in the same room at the same time .",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "to", "the", "second", "hour.", "good", "morning", "to", "you.", "a", "new", "al", "qaeda", "videotape", ",", "no", "doubt", "chilling", "to", "the", "families", "of", "the", "victims.", "two", "of", "the", "four", "pilots", "who", "took", "control", "of", "the", "planes", "on", "9/11", "attended", "a", "wedding", "party", "in", "hamburg", ",", "germany", ",", "four", "years", "ago", "1999", "this", "is.", "another", "one", "of", "the", "pilots", ",", "mohammed", "atta", ",", "also", "believed", "to", "be", "present", "at", "this", "meeting.", "throughout", "the", "morning", ",", "we", "'re", "looking", "at", "a", "remarkable", "tape", "right", "now.", "what", "'s", "believed", "to", "be", "the", "terror", "cell", "responsible", "for", "9", "/", "11.", "many", "members", "on", "that", "tape", "working", "together", "through", "a", "cell", "in", "germany", "known", "as", "the", "hamburg", "cell", "seen", "in", "the", "same", "room", "at", "the", "same", "time", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "another one of the pilots",
+  "sentence_length" : 122,
+  "mentionArg2" : {
+    "extent" : "the pilots",
+    "argMentionid" : "CNN_ENG_20030507_060023.1-E12-20",
+    "start" : 55,
+    "end" : 56
+  },
+  "relationID" : "CNN_ENG_20030507_060023.1-R5",
+  "mentionArg1" : {
+    "extent" : "another one of the pilots",
+    "argMentionid" : "CNN_ENG_20030507_060023.1-E16-19",
+    "start" : 52,
+    "end" : 56
+  },
+  "id" : "CNN_ENG_20030507_060023.1-R5-1",
+  "relationSubType" : "Business",
+  "Sentence" : "welcome to the second hour. good morning to you. a new al qaeda videotape , no doubt chilling to the families of the victims. two of the four pilots who took control of the planes on 9/11 attended a wedding party in hamburg , germany , four years ago 1999 this is. another one of the pilots , mohammed atta , also believed to be present at this meeting. throughout the morning , we 're looking at a remarkable tape right now. what 's believed to be the terror cell responsible for 9 / 11. many members on that tape working together through a cell in germany known as the hamburg cell seen in the same room at the same time .",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "to", "the", "second", "hour.", "good", "morning", "to", "you.", "a", "new", "al", "qaeda", "videotape", ",", "no", "doubt", "chilling", "to", "the", "families", "of", "the", "victims.", "two", "of", "the", "four", "pilots", "who", "took", "control", "of", "the", "planes", "on", "9/11", "attended", "a", "wedding", "party", "in", "hamburg", ",", "germany", ",", "four", "years", "ago", "1999", "this", "is.", "another", "one", "of", "the", "pilots", ",", "mohammed", "atta", ",", "also", "believed", "to", "be", "present", "at", "this", "meeting.", "throughout", "the", "morning", ",", "we", "'re", "looking", "at", "a", "remarkable", "tape", "right", "now.", "what", "'s", "believed", "to", "be", "the", "terror", "cell", "responsible", "for", "9", "/", "11.", "many", "members", "on", "that", "tape", "working", "together", "through", "a", "cell", "in", "germany", "known", "as", "the", "hamburg", "cell", "seen", "in", "the", "same", "room", "at", "the", "same", "time", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "many members on that tape working together through a cell in germany known as the hamburg cell seen in the same room at the same time",
+  "sentence_length" : 122,
+  "mentionArg2" : {
+    "extent" : "the same room",
+    "argMentionid" : "CNN_ENG_20030507_060023.1-E6-8",
+    "start" : 114,
+    "end" : 116
+  },
+  "relationID" : "CNN_ENG_20030507_060023.1-R6",
+  "mentionArg1" : {
+    "extent" : "many members on that tape",
+    "argMentionid" : "CNN_ENG_20030507_060023.1-E4-4",
+    "start" : 95,
+    "end" : 99
+  },
+  "id" : "CNN_ENG_20030507_060023.1-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "welcome to the second hour. good morning to you. a new al qaeda videotape , no doubt chilling to the families of the victims. two of the four pilots who took control of the planes on 9/11 attended a wedding party in hamburg , germany , four years ago 1999 this is. another one of the pilots , mohammed atta , also believed to be present at this meeting. throughout the morning , we 're looking at a remarkable tape right now. what 's believed to be the terror cell responsible for 9 / 11. many members on that tape working together through a cell in germany known as the hamburg cell seen in the same room at the same time .",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "to", "the", "second", "hour.", "good", "morning", "to", "you.", "a", "new", "al", "qaeda", "videotape", ",", "no", "doubt", "chilling", "to", "the", "families", "of", "the", "victims.", "two", "of", "the", "four", "pilots", "who", "took", "control", "of", "the", "planes", "on", "9/11", "attended", "a", "wedding", "party", "in", "hamburg", ",", "germany", ",", "four", "years", "ago", "1999", "this", "is.", "another", "one", "of", "the", "pilots", ",", "mohammed", "atta", ",", "also", "believed", "to", "be", "present", "at", "this", "meeting.", "throughout", "the", "morning", ",", "we", "'re", "looking", "at", "a", "remarkable", "tape", "right", "now.", "what", "'s", "believed", "to", "be", "the", "terror", "cell", "responsible", "for", "9", "/", "11.", "many", "members", "on", "that", "tape", "working", "together", "through", "a", "cell", "in", "germany", "known", "as", "the", "hamburg", "cell", "seen", "in", "the", "same", "room", "at", "the", "same", "time", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "many members on that tape working together through a cell in germany known as the hamburg cell",
+  "sentence_length" : 122,
+  "mentionArg2" : {
+    "extent" : "a cell in germany known as the hamburg cell",
+    "argMentionid" : "CNN_ENG_20030507_060023.1-E2-5",
+    "start" : 103,
+    "end" : 111
+  },
+  "relationID" : "CNN_ENG_20030507_060023.1-R7",
+  "mentionArg1" : {
+    "extent" : "many members on that tape",
+    "argMentionid" : "CNN_ENG_20030507_060023.1-E4-4",
+    "start" : 95,
+    "end" : 99
+  },
+  "id" : "CNN_ENG_20030507_060023.1-R7-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "welcome to the second hour. good morning to you. a new al qaeda videotape , no doubt chilling to the families of the victims. two of the four pilots who took control of the planes on 9/11 attended a wedding party in hamburg , germany , four years ago 1999 this is. another one of the pilots , mohammed atta , also believed to be present at this meeting. throughout the morning , we 're looking at a remarkable tape right now. what 's believed to be the terror cell responsible for 9 / 11. many members on that tape working together through a cell in germany known as the hamburg cell seen in the same room at the same time .",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "to", "the", "second", "hour.", "good", "morning", "to", "you.", "a", "new", "al", "qaeda", "videotape", ",", "no", "doubt", "chilling", "to", "the", "families", "of", "the", "victims.", "two", "of", "the", "four", "pilots", "who", "took", "control", "of", "the", "planes", "on", "9/11", "attended", "a", "wedding", "party", "in", "hamburg", ",", "germany", ",", "four", "years", "ago", "1999", "this", "is.", "another", "one", "of", "the", "pilots", ",", "mohammed", "atta", ",", "also", "believed", "to", "be", "present", "at", "this", "meeting.", "throughout", "the", "morning", ",", "we", "'re", "looking", "at", "a", "remarkable", "tape", "right", "now.", "what", "'s", "believed", "to", "be", "the", "terror", "cell", "responsible", "for", "9", "/", "11.", "many", "members", "on", "that", "tape", "working", "together", "through", "a", "cell", "in", "germany", "known", "as", "the", "hamburg", "cell", "seen", "in", "the", "same", "room", "at", "the", "same", "time", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a cell in germany known as the hamburg cell",
+  "sentence_length" : 122,
+  "mentionArg2" : {
+    "extent" : "germany",
+    "argMentionid" : "CNN_ENG_20030507_060023.1-E15-6",
+    "start" : 106,
+    "end" : 106
+  },
+  "relationID" : "CNN_ENG_20030507_060023.1-R8",
+  "mentionArg1" : {
+    "extent" : "a cell in germany known as the hamburg cell",
+    "argMentionid" : "CNN_ENG_20030507_060023.1-E2-5",
+    "start" : 103,
+    "end" : 111
+  },
+  "id" : "CNN_ENG_20030507_060023.1-R8-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "welcome to the second hour. good morning to you. a new al qaeda videotape , no doubt chilling to the families of the victims. two of the four pilots who took control of the planes on 9/11 attended a wedding party in hamburg , germany , four years ago 1999 this is. another one of the pilots , mohammed atta , also believed to be present at this meeting. throughout the morning , we 're looking at a remarkable tape right now. what 's believed to be the terror cell responsible for 9 / 11. many members on that tape working together through a cell in germany known as the hamburg cell seen in the same room at the same time .",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "to", "the", "second", "hour.", "good", "morning", "to", "you.", "a", "new", "al", "qaeda", "videotape", ",", "no", "doubt", "chilling", "to", "the", "families", "of", "the", "victims.", "two", "of", "the", "four", "pilots", "who", "took", "control", "of", "the", "planes", "on", "9/11", "attended", "a", "wedding", "party", "in", "hamburg", ",", "germany", ",", "four", "years", "ago", "1999", "this", "is.", "another", "one", "of", "the", "pilots", ",", "mohammed", "atta", ",", "also", "believed", "to", "be", "present", "at", "this", "meeting.", "throughout", "the", "morning", ",", "we", "'re", "looking", "at", "a", "remarkable", "tape", "right", "now.", "what", "'s", "believed", "to", "be", "the", "terror", "cell", "responsible", "for", "9", "/", "11.", "many", "members", "on", "that", "tape", "working", "together", "through", "a", "cell", "in", "germany", "known", "as", "the", "hamburg", "cell", "seen", "in", "the", "same", "room", "at", "the", "same", "time", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "hamburg, germany",
+  "sentence_length" : 122,
+  "mentionArg2" : {
+    "extent" : "germany",
+    "argMentionid" : "CNN_ENG_20030507_060023.1-E15-17",
+    "start" : 44,
+    "end" : 44
+  },
+  "relationID" : "CNN_ENG_20030507_060023.1-R9",
+  "mentionArg1" : {
+    "extent" : "hamburg, germany",
+    "argMentionid" : "CNN_ENG_20030507_060023.1-E14-16",
+    "start" : 42,
+    "end" : 44
+  },
+  "id" : "CNN_ENG_20030507_060023.1-R9-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "welcome to the second hour. good morning to you. a new al qaeda videotape , no doubt chilling to the families of the victims. two of the four pilots who took control of the planes on 9/11 attended a wedding party in hamburg , germany , four years ago 1999 this is. another one of the pilots , mohammed atta , also believed to be present at this meeting. throughout the morning , we 're looking at a remarkable tape right now. what 's believed to be the terror cell responsible for 9 / 11. many members on that tape working together through a cell in germany known as the hamburg cell seen in the same room at the same time .",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "to", "the", "second", "hour.", "good", "morning", "to", "you.", "a", "new", "al", "qaeda", "videotape", ",", "no", "doubt", "chilling", "to", "the", "families", "of", "the", "victims.", "two", "of", "the", "four", "pilots", "who", "took", "control", "of", "the", "planes", "on", "9/11", "attended", "a", "wedding", "party", "in", "hamburg", ",", "germany", ",", "four", "years", "ago", "1999", "this", "is.", "another", "one", "of", "the", "pilots", ",", "mohammed", "atta", ",", "also", "believed", "to", "be", "present", "at", "this", "meeting.", "throughout", "the", "morning", ",", "we", "'re", "looking", "at", "a", "remarkable", "tape", "right", "now.", "what", "'s", "believed", "to", "be", "the", "terror", "cell", "responsible", "for", "9", "/", "11.", "many", "members", "on", "that", "tape", "working", "together", "through", "a", "cell", "in", "germany", "known", "as", "the", "hamburg", "cell", "seen", "in", "the", "same", "room", "at", "the", "same", "time", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "many members on that tape working together through a cell in germany known as the hamburg cell seen in the same room at the same time",
+  "sentence_length" : 122,
+  "mentionArg2" : {
+    "extent" : "germany",
+    "argMentionid" : "CNN_ENG_20030507_060023.1-E15-6",
+    "start" : 106,
+    "end" : 106
+  },
+  "relationID" : "CNN_ENG_20030507_060023.1-R10",
+  "mentionArg1" : {
+    "extent" : "the same room",
+    "argMentionid" : "CNN_ENG_20030507_060023.1-E6-8",
+    "start" : 114,
+    "end" : 116
+  },
+  "id" : "CNN_ENG_20030507_060023.1-R10-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "welcome to the second hour. good morning to you. a new al qaeda videotape , no doubt chilling to the families of the victims. two of the four pilots who took control of the planes on 9/11 attended a wedding party in hamburg , germany , four years ago 1999 this is. another one of the pilots , mohammed atta , also believed to be present at this meeting. throughout the morning , we 're looking at a remarkable tape right now. what 's believed to be the terror cell responsible for 9 / 11. many members on that tape working together through a cell in germany known as the hamburg cell seen in the same room at the same time .",
+  "sentence_index" : 0,
+  "Tokens" : [ "welcome", "to", "the", "second", "hour.", "good", "morning", "to", "you.", "a", "new", "al", "qaeda", "videotape", ",", "no", "doubt", "chilling", "to", "the", "families", "of", "the", "victims.", "two", "of", "the", "four", "pilots", "who", "took", "control", "of", "the", "planes", "on", "9/11", "attended", "a", "wedding", "party", "in", "hamburg", ",", "germany", ",", "four", "years", "ago", "1999", "this", "is.", "another", "one", "of", "the", "pilots", ",", "mohammed", "atta", ",", "also", "believed", "to", "be", "present", "at", "this", "meeting.", "throughout", "the", "morning", ",", "we", "'re", "looking", "at", "a", "remarkable", "tape", "right", "now.", "what", "'s", "believed", "to", "be", "the", "terror", "cell", "responsible", "for", "9", "/", "11.", "many", "members", "on", "that", "tape", "working", "together", "through", "a", "cell", "in", "germany", "known", "as", "the", "hamburg", "cell", "seen", "in", "the", "same", "room", "at", "the", "same", "time", "." ]
+} ]

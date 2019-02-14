@@ -1,0 +1,155 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "wolf blitzer in washington",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "washington",
+    "argMentionid" : "CNN_ENG_20030305_170125.1-E25-37",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "CNN_ENG_20030305_170125.1-R1",
+  "mentionArg1" : {
+    "extent" : "wolf blitzer",
+    "argMentionid" : "CNN_ENG_20030305_170125.1-E24-36",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "CNN_ENG_20030305_170125.1-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "it 's with wednesday , march 5 200 3. i 'm wolf blitzer in washington. is the u . s. going to war ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "it", "'s", "with", "wednesday", ",", "march", "5", "200", "3.", "i", "'m", "wolf", "blitzer", "in", "washington.", "is", "the", "u", ".", "s.", "going", "to", "war", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "america's top diplomat",
+  "sentence_length" : 200,
+  "mentionArg2" : {
+    "extent" : "america",
+    "argMentionid" : "CNN_ENG_20030305_170125.1-E26-42",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "CNN_ENG_20030305_170125.1-R2",
+  "mentionArg1" : {
+    "extent" : "america's top diplomat",
+    "argMentionid" : "CNN_ENG_20030305_170125.1-E29-41",
+    "start" : 23,
+    "end" : 26
+  },
+  "id" : "CNN_ENG_20030305_170125.1-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "if you listen to the from 's men it sounds like the battle is about to begin , maybe only days from now. america 's top diplomat laid out the case for war. secretary of state colin powell acted like a prosecutor , pointing out iraq 's failures. over at the pentagon , the military leaders say that troops are ready to fight right now even as they await word of the president 's order , but there is major opposition today , france , germany and russia plan a showdown at theupups in a bid to stop the u . s. 's war machine and their voices of dissent echoed by protestors from australia to egypt to university students right here in the united states. even the vatican voiced concerns today. later this hour i 'll speak exclusively to cardinal pio laghi , the man dismatched by pope john paul ii to persuade president bush to avoid war , but we begin with reports from the united nations , the pentagon and the white house. first to chris burns with news on the president and the secretary of state who switched from diplomacy to talk of war. chris ?",
+  "sentence_index" : 1,
+  "Tokens" : [ "if", "you", "listen", "to", "the", "from", "'s", "men", "it", "sounds", "like", "the", "battle", "is", "about", "to", "begin", ",", "maybe", "only", "days", "from", "now.", "america", "'s", "top", "diplomat", "laid", "out", "the", "case", "for", "war.", "secretary", "of", "state", "colin", "powell", "acted", "like", "a", "prosecutor", ",", "pointing", "out", "iraq", "'s", "failures.", "over", "at", "the", "pentagon", ",", "the", "military", "leaders", "say", "that", "troops", "are", "ready", "to", "fight", "right", "now", "even", "as", "they", "await", "word", "of", "the", "president", "'s", "order", ",", "but", "there", "is", "major", "opposition", "today", ",", "france", ",", "germany", "and", "russia", "plan", "a", "showdown", "at", "theupups", "in", "a", "bid", "to", "stop", "the", "u", ".", "s.", "'s", "war", "machine", "and", "their", "voices", "of", "dissent", "echoed", "by", "protestors", "from", "australia", "to", "egypt", "to", "university", "students", "right", "here", "in", "the", "united", "states.", "even", "the", "vatican", "voiced", "concerns", "today.", "later", "this", "hour", "i", "'ll", "speak", "exclusively", "to", "cardinal", "pio", "laghi", ",", "the", "man", "dismatched", "by", "pope", "john", "paul", "ii", "to", "persuade", "president", "bush", "to", "avoid", "war", ",", "but", "we", "begin", "with", "reports", "from", "the", "united", "nations", ",", "the", "pentagon", "and", "the", "white", "house.", "first", "to", "chris", "burns", "with", "news", "on", "the", "president", "and", "the", "secretary", "of", "state", "who", "switched", "from", "diplomacy", "to", "talk", "of", "war.", "chris", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the pentagon, the military leaders",
+  "sentence_length" : 200,
+  "mentionArg2" : {
+    "extent" : "the pentagon",
+    "argMentionid" : "CNN_ENG_20030305_170125.1-E34-48",
+    "start" : 50,
+    "end" : 51
+  },
+  "relationID" : "CNN_ENG_20030305_170125.1-R3",
+  "mentionArg1" : {
+    "extent" : "the military leaders",
+    "argMentionid" : "CNN_ENG_20030305_170125.1-E35-49",
+    "start" : 53,
+    "end" : 55
+  },
+  "id" : "CNN_ENG_20030305_170125.1-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "if you listen to the from 's men it sounds like the battle is about to begin , maybe only days from now. america 's top diplomat laid out the case for war. secretary of state colin powell acted like a prosecutor , pointing out iraq 's failures. over at the pentagon , the military leaders say that troops are ready to fight right now even as they await word of the president 's order , but there is major opposition today , france , germany and russia plan a showdown at theupups in a bid to stop the u . s. 's war machine and their voices of dissent echoed by protestors from australia to egypt to university students right here in the united states. even the vatican voiced concerns today. later this hour i 'll speak exclusively to cardinal pio laghi , the man dismatched by pope john paul ii to persuade president bush to avoid war , but we begin with reports from the united nations , the pentagon and the white house. first to chris burns with news on the president and the secretary of state who switched from diplomacy to talk of war. chris ?",
+  "sentence_index" : 1,
+  "Tokens" : [ "if", "you", "listen", "to", "the", "from", "'s", "men", "it", "sounds", "like", "the", "battle", "is", "about", "to", "begin", ",", "maybe", "only", "days", "from", "now.", "america", "'s", "top", "diplomat", "laid", "out", "the", "case", "for", "war.", "secretary", "of", "state", "colin", "powell", "acted", "like", "a", "prosecutor", ",", "pointing", "out", "iraq", "'s", "failures.", "over", "at", "the", "pentagon", ",", "the", "military", "leaders", "say", "that", "troops", "are", "ready", "to", "fight", "right", "now", "even", "as", "they", "await", "word", "of", "the", "president", "'s", "order", ",", "but", "there", "is", "major", "opposition", "today", ",", "france", ",", "germany", "and", "russia", "plan", "a", "showdown", "at", "theupups", "in", "a", "bid", "to", "stop", "the", "u", ".", "s.", "'s", "war", "machine", "and", "their", "voices", "of", "dissent", "echoed", "by", "protestors", "from", "australia", "to", "egypt", "to", "university", "students", "right", "here", "in", "the", "united", "states.", "even", "the", "vatican", "voiced", "concerns", "today.", "later", "this", "hour", "i", "'ll", "speak", "exclusively", "to", "cardinal", "pio", "laghi", ",", "the", "man", "dismatched", "by", "pope", "john", "paul", "ii", "to", "persuade", "president", "bush", "to", "avoid", "war", ",", "but", "we", "begin", "with", "reports", "from", "the", "united", "nations", ",", "the", "pentagon", "and", "the", "white", "house.", "first", "to", "chris", "burns", "with", "news", "on", "the", "president", "and", "the", "secretary", "of", "state", "who", "switched", "from", "diplomacy", "to", "talk", "of", "war.", "chris", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "protestors from australia to egypt",
+  "sentence_length" : 200,
+  "mentionArg2" : {
+    "extent" : "australia",
+    "argMentionid" : "CNN_ENG_20030305_170125.1-E9-13",
+    "start" : 114,
+    "end" : 114
+  },
+  "relationID" : "CNN_ENG_20030305_170125.1-R4",
+  "mentionArg1" : {
+    "extent" : "protestors from australia to egypt",
+    "argMentionid" : "CNN_ENG_20030305_170125.1-E8-12",
+    "start" : 112,
+    "end" : 116
+  },
+  "id" : "CNN_ENG_20030305_170125.1-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "if you listen to the from 's men it sounds like the battle is about to begin , maybe only days from now. america 's top diplomat laid out the case for war. secretary of state colin powell acted like a prosecutor , pointing out iraq 's failures. over at the pentagon , the military leaders say that troops are ready to fight right now even as they await word of the president 's order , but there is major opposition today , france , germany and russia plan a showdown at theupups in a bid to stop the u . s. 's war machine and their voices of dissent echoed by protestors from australia to egypt to university students right here in the united states. even the vatican voiced concerns today. later this hour i 'll speak exclusively to cardinal pio laghi , the man dismatched by pope john paul ii to persuade president bush to avoid war , but we begin with reports from the united nations , the pentagon and the white house. first to chris burns with news on the president and the secretary of state who switched from diplomacy to talk of war. chris ?",
+  "sentence_index" : 1,
+  "Tokens" : [ "if", "you", "listen", "to", "the", "from", "'s", "men", "it", "sounds", "like", "the", "battle", "is", "about", "to", "begin", ",", "maybe", "only", "days", "from", "now.", "america", "'s", "top", "diplomat", "laid", "out", "the", "case", "for", "war.", "secretary", "of", "state", "colin", "powell", "acted", "like", "a", "prosecutor", ",", "pointing", "out", "iraq", "'s", "failures.", "over", "at", "the", "pentagon", ",", "the", "military", "leaders", "say", "that", "troops", "are", "ready", "to", "fight", "right", "now", "even", "as", "they", "await", "word", "of", "the", "president", "'s", "order", ",", "but", "there", "is", "major", "opposition", "today", ",", "france", ",", "germany", "and", "russia", "plan", "a", "showdown", "at", "theupups", "in", "a", "bid", "to", "stop", "the", "u", ".", "s.", "'s", "war", "machine", "and", "their", "voices", "of", "dissent", "echoed", "by", "protestors", "from", "australia", "to", "egypt", "to", "university", "students", "right", "here", "in", "the", "united", "states.", "even", "the", "vatican", "voiced", "concerns", "today.", "later", "this", "hour", "i", "'ll", "speak", "exclusively", "to", "cardinal", "pio", "laghi", ",", "the", "man", "dismatched", "by", "pope", "john", "paul", "ii", "to", "persuade", "president", "bush", "to", "avoid", "war", ",", "but", "we", "begin", "with", "reports", "from", "the", "united", "nations", ",", "the", "pentagon", "and", "the", "white", "house.", "first", "to", "chris", "burns", "with", "news", "on", "the", "president", "and", "the", "secretary", "of", "state", "who", "switched", "from", "diplomacy", "to", "talk", "of", "war.", "chris", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "protestors from australia to egypt",
+  "sentence_length" : 200,
+  "mentionArg2" : {
+    "extent" : "egypt",
+    "argMentionid" : "CNN_ENG_20030305_170125.1-E10-15",
+    "start" : 116,
+    "end" : 116
+  },
+  "relationID" : "CNN_ENG_20030305_170125.1-R5",
+  "mentionArg1" : {
+    "extent" : "protestors from australia to egypt",
+    "argMentionid" : "CNN_ENG_20030305_170125.1-E8-12",
+    "start" : 112,
+    "end" : 116
+  },
+  "id" : "CNN_ENG_20030305_170125.1-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "if you listen to the from 's men it sounds like the battle is about to begin , maybe only days from now. america 's top diplomat laid out the case for war. secretary of state colin powell acted like a prosecutor , pointing out iraq 's failures. over at the pentagon , the military leaders say that troops are ready to fight right now even as they await word of the president 's order , but there is major opposition today , france , germany and russia plan a showdown at theupups in a bid to stop the u . s. 's war machine and their voices of dissent echoed by protestors from australia to egypt to university students right here in the united states. even the vatican voiced concerns today. later this hour i 'll speak exclusively to cardinal pio laghi , the man dismatched by pope john paul ii to persuade president bush to avoid war , but we begin with reports from the united nations , the pentagon and the white house. first to chris burns with news on the president and the secretary of state who switched from diplomacy to talk of war. chris ?",
+  "sentence_index" : 1,
+  "Tokens" : [ "if", "you", "listen", "to", "the", "from", "'s", "men", "it", "sounds", "like", "the", "battle", "is", "about", "to", "begin", ",", "maybe", "only", "days", "from", "now.", "america", "'s", "top", "diplomat", "laid", "out", "the", "case", "for", "war.", "secretary", "of", "state", "colin", "powell", "acted", "like", "a", "prosecutor", ",", "pointing", "out", "iraq", "'s", "failures.", "over", "at", "the", "pentagon", ",", "the", "military", "leaders", "say", "that", "troops", "are", "ready", "to", "fight", "right", "now", "even", "as", "they", "await", "word", "of", "the", "president", "'s", "order", ",", "but", "there", "is", "major", "opposition", "today", ",", "france", ",", "germany", "and", "russia", "plan", "a", "showdown", "at", "theupups", "in", "a", "bid", "to", "stop", "the", "u", ".", "s.", "'s", "war", "machine", "and", "their", "voices", "of", "dissent", "echoed", "by", "protestors", "from", "australia", "to", "egypt", "to", "university", "students", "right", "here", "in", "the", "united", "states.", "even", "the", "vatican", "voiced", "concerns", "today.", "later", "this", "hour", "i", "'ll", "speak", "exclusively", "to", "cardinal", "pio", "laghi", ",", "the", "man", "dismatched", "by", "pope", "john", "paul", "ii", "to", "persuade", "president", "bush", "to", "avoid", "war", ",", "but", "we", "begin", "with", "reports", "from", "the", "united", "nations", ",", "the", "pentagon", "and", "the", "white", "house.", "first", "to", "chris", "burns", "with", "news", "on", "the", "president", "and", "the", "secretary", "of", "state", "who", "switched", "from", "diplomacy", "to", "talk", "of", "war.", "chris", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "university students right here in the united states",
+  "sentence_length" : 200,
+  "mentionArg2" : {
+    "extent" : "university",
+    "argMentionid" : "CNN_ENG_20030305_170125.1-E12-17",
+    "start" : 118,
+    "end" : 118
+  },
+  "relationID" : "CNN_ENG_20030305_170125.1-R6",
+  "mentionArg1" : {
+    "extent" : "university students right here in the united states",
+    "argMentionid" : "CNN_ENG_20030305_170125.1-E11-16",
+    "start" : 118,
+    "end" : 125
+  },
+  "id" : "CNN_ENG_20030305_170125.1-R6-1",
+  "relationSubType" : "Student-Alum",
+  "Sentence" : "if you listen to the from 's men it sounds like the battle is about to begin , maybe only days from now. america 's top diplomat laid out the case for war. secretary of state colin powell acted like a prosecutor , pointing out iraq 's failures. over at the pentagon , the military leaders say that troops are ready to fight right now even as they await word of the president 's order , but there is major opposition today , france , germany and russia plan a showdown at theupups in a bid to stop the u . s. 's war machine and their voices of dissent echoed by protestors from australia to egypt to university students right here in the united states. even the vatican voiced concerns today. later this hour i 'll speak exclusively to cardinal pio laghi , the man dismatched by pope john paul ii to persuade president bush to avoid war , but we begin with reports from the united nations , the pentagon and the white house. first to chris burns with news on the president and the secretary of state who switched from diplomacy to talk of war. chris ?",
+  "sentence_index" : 1,
+  "Tokens" : [ "if", "you", "listen", "to", "the", "from", "'s", "men", "it", "sounds", "like", "the", "battle", "is", "about", "to", "begin", ",", "maybe", "only", "days", "from", "now.", "america", "'s", "top", "diplomat", "laid", "out", "the", "case", "for", "war.", "secretary", "of", "state", "colin", "powell", "acted", "like", "a", "prosecutor", ",", "pointing", "out", "iraq", "'s", "failures.", "over", "at", "the", "pentagon", ",", "the", "military", "leaders", "say", "that", "troops", "are", "ready", "to", "fight", "right", "now", "even", "as", "they", "await", "word", "of", "the", "president", "'s", "order", ",", "but", "there", "is", "major", "opposition", "today", ",", "france", ",", "germany", "and", "russia", "plan", "a", "showdown", "at", "theupups", "in", "a", "bid", "to", "stop", "the", "u", ".", "s.", "'s", "war", "machine", "and", "their", "voices", "of", "dissent", "echoed", "by", "protestors", "from", "australia", "to", "egypt", "to", "university", "students", "right", "here", "in", "the", "united", "states.", "even", "the", "vatican", "voiced", "concerns", "today.", "later", "this", "hour", "i", "'ll", "speak", "exclusively", "to", "cardinal", "pio", "laghi", ",", "the", "man", "dismatched", "by", "pope", "john", "paul", "ii", "to", "persuade", "president", "bush", "to", "avoid", "war", ",", "but", "we", "begin", "with", "reports", "from", "the", "united", "nations", ",", "the", "pentagon", "and", "the", "white", "house.", "first", "to", "chris", "burns", "with", "news", "on", "the", "president", "and", "the", "secretary", "of", "state", "who", "switched", "from", "diplomacy", "to", "talk", "of", "war.", "chris", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "university students right here in the united states",
+  "sentence_length" : 200,
+  "mentionArg2" : {
+    "extent" : "the united states",
+    "argMentionid" : "CNN_ENG_20030305_170125.1-E26-20",
+    "start" : 123,
+    "end" : 125
+  },
+  "relationID" : "CNN_ENG_20030305_170125.1-R7",
+  "mentionArg1" : {
+    "extent" : "university students right here in the united states",
+    "argMentionid" : "CNN_ENG_20030305_170125.1-E11-16",
+    "start" : 118,
+    "end" : 125
+  },
+  "id" : "CNN_ENG_20030305_170125.1-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "if you listen to the from 's men it sounds like the battle is about to begin , maybe only days from now. america 's top diplomat laid out the case for war. secretary of state colin powell acted like a prosecutor , pointing out iraq 's failures. over at the pentagon , the military leaders say that troops are ready to fight right now even as they await word of the president 's order , but there is major opposition today , france , germany and russia plan a showdown at theupups in a bid to stop the u . s. 's war machine and their voices of dissent echoed by protestors from australia to egypt to university students right here in the united states. even the vatican voiced concerns today. later this hour i 'll speak exclusively to cardinal pio laghi , the man dismatched by pope john paul ii to persuade president bush to avoid war , but we begin with reports from the united nations , the pentagon and the white house. first to chris burns with news on the president and the secretary of state who switched from diplomacy to talk of war. chris ?",
+  "sentence_index" : 1,
+  "Tokens" : [ "if", "you", "listen", "to", "the", "from", "'s", "men", "it", "sounds", "like", "the", "battle", "is", "about", "to", "begin", ",", "maybe", "only", "days", "from", "now.", "america", "'s", "top", "diplomat", "laid", "out", "the", "case", "for", "war.", "secretary", "of", "state", "colin", "powell", "acted", "like", "a", "prosecutor", ",", "pointing", "out", "iraq", "'s", "failures.", "over", "at", "the", "pentagon", ",", "the", "military", "leaders", "say", "that", "troops", "are", "ready", "to", "fight", "right", "now", "even", "as", "they", "await", "word", "of", "the", "president", "'s", "order", ",", "but", "there", "is", "major", "opposition", "today", ",", "france", ",", "germany", "and", "russia", "plan", "a", "showdown", "at", "theupups", "in", "a", "bid", "to", "stop", "the", "u", ".", "s.", "'s", "war", "machine", "and", "their", "voices", "of", "dissent", "echoed", "by", "protestors", "from", "australia", "to", "egypt", "to", "university", "students", "right", "here", "in", "the", "united", "states.", "even", "the", "vatican", "voiced", "concerns", "today.", "later", "this", "hour", "i", "'ll", "speak", "exclusively", "to", "cardinal", "pio", "laghi", ",", "the", "man", "dismatched", "by", "pope", "john", "paul", "ii", "to", "persuade", "president", "bush", "to", "avoid", "war", ",", "but", "we", "begin", "with", "reports", "from", "the", "united", "nations", ",", "the", "pentagon", "and", "the", "white", "house.", "first", "to", "chris", "burns", "with", "news", "on", "the", "president", "and", "the", "secretary", "of", "state", "who", "switched", "from", "diplomacy", "to", "talk", "of", "war.", "chris", "?" ]
+} ]

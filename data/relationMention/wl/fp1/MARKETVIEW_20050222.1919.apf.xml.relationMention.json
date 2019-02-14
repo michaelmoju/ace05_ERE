@@ -1,0 +1,67 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "The fact that so many investors are so clearly enthusiastic about Martha Stewart Living",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "Martha Stewart Living",
+    "argMentionid" : "MARKETVIEW_20050222.1919-E2-4",
+    "start" : 30,
+    "end" : 32
+  },
+  "relationID" : "MARKETVIEW_20050222.1919-R1",
+  "mentionArg1" : {
+    "extent" : "so many investors",
+    "argMentionid" : "MARKETVIEW_20050222.1919-E3-3",
+    "start" : 22,
+    "end" : 24
+  },
+  "id" : "MARKETVIEW_20050222.1919-R1-1",
+  "relationSubType" : "Investor-Shareholder",
+  "Sentence" : "Byrne 2005-02-22T19:19:00 I can think of only one good reason to be this enthusiastic about Martha Stewart Living : The fact that so many investors are so clearly enthusiastic about Martha Stewart Living .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Byrne", "2005-02-22T19:19:00", "I", "can", "think", "of", "only", "one", "good", "reason", "to", "be", "this", "enthusiastic", "about", "Martha", "Stewart", "Living", ":", "The", "fact", "that", "so", "many", "investors", "are", "so", "clearly", "enthusiastic", "about", "Martha", "Stewart", "Living", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the namesake and guiding force behind the company",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "the company",
+    "argMentionid" : "MARKETVIEW_20050222.1919-E2-6",
+    "start" : 22,
+    "end" : 23
+  },
+  "relationID" : "MARKETVIEW_20050222.1919-R2",
+  "mentionArg1" : {
+    "extent" : "the namesake and guiding force behind the company",
+    "argMentionid" : "MARKETVIEW_20050222.1919-E4-5",
+    "start" : 16,
+    "end" : 23
+  },
+  "id" : "MARKETVIEW_20050222.1919-R2-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Let 's be clear : There are few worse times to buy a stock than when the namesake and guiding force behind the company is in prison ( whether or not she really should be ) , advertising is down by nearly half , and the brand has been tarnished beyond recognition .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Let", "'s", "be", "clear", ":", "There", "are", "few", "worse", "times", "to", "buy", "a", "stock", "than", "when", "the", "namesake", "and", "guiding", "force", "behind", "the", "company", "is", "in", "prison", "(", "whether", "or", "not", "she", "really", "should", "be", ")", ",", "advertising", "is", "down", "by", "nearly", "half", ",", "and", "the", "brand", "has", "been", "tarnished", "beyond", "recognition", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "There are few worse times to buy a stock than when the namesake and guiding force behind the company is in prison (whether or not she really should be",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "prison",
+    "argMentionid" : "MARKETVIEW_20050222.1919-E5-9",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "MARKETVIEW_20050222.1919-R3",
+  "mentionArg1" : {
+    "extent" : "the namesake and guiding force behind the company",
+    "argMentionid" : "MARKETVIEW_20050222.1919-E4-5",
+    "start" : 16,
+    "end" : 23
+  },
+  "id" : "MARKETVIEW_20050222.1919-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Let 's be clear : There are few worse times to buy a stock than when the namesake and guiding force behind the company is in prison ( whether or not she really should be ) , advertising is down by nearly half , and the brand has been tarnished beyond recognition .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Let", "'s", "be", "clear", ":", "There", "are", "few", "worse", "times", "to", "buy", "a", "stock", "than", "when", "the", "namesake", "and", "guiding", "force", "behind", "the", "company", "is", "in", "prison", "(", "whether", "or", "not", "she", "really", "should", "be", ")", ",", "advertising", "is", "down", "by", "nearly", "half", ",", "and", "the", "brand", "has", "been", "tarnished", "beyond", "recognition", "." ]
+} ]

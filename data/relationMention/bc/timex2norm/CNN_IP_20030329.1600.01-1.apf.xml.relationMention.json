@@ -1,0 +1,397 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iraq and Kurdish (ph) forces",
+  "sentence_length" : 67,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E2-5",
+    "start" : 35,
+    "end" : 35
+  },
+  "relationID" : "CNN_IP_20030329.1600.01-1-R1",
+  "mentionArg1" : {
+    "extent" : "Kurdish (ph) forces",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E3-6",
+    "start" : 37,
+    "end" : 41
+  },
+  "id" : "CNN_IP_20030329.1600.01-1-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Judy , you 're seeing us through the night scope because basically for the last hour we 've been watching as this ridge behind me in Kalak which of course is the front line between Iraq and Kurdish ( ph ) forces , we 've been watching as planes , planes we can hear but cannot see , have been bombing the ridge line behind us .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Judy", ",", "you", "'re", "seeing", "us", "through", "the", "night", "scope", "because", "basically", "for", "the", "last", "hour", "we", "'ve", "been", "watching", "as", "this", "ridge", "behind", "me", "in", "Kalak", "which", "of", "course", "is", "the", "front", "line", "between", "Iraq", "and", "Kurdish", "(", "ph", ")", "forces", ",", "we", "'ve", "been", "watching", "as", "planes", ",", "planes", "we", "can", "hear", "but", "cannot", "see", ",", "have", "been", "bombing", "the", "ridge", "line", "behind", "us", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "We're going to go quickly to northern Iraq now where we find CNN correspondent Ben Wedeman",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "northern Iraq now where we find CNN correspondent Ben Wedeman",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E38-77",
+    "start" : 8,
+    "end" : 17
+  },
+  "relationID" : "CNN_IP_20030329.1600.01-1-R2",
+  "mentionArg1" : {
+    "extent" : "CNN correspondent Ben Wedeman",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E40-95",
+    "start" : 14,
+    "end" : 17
+  },
+  "id" : "CNN_IP_20030329.1600.01-1-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "WOODRUFF We 're going to go quickly to northern Iraq now where we find CNN correspondent Ben Wedeman .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WOODRUFF", "We", "'re", "going", "to", "go", "quickly", "to", "northern", "Iraq", "now", "where", "we", "find", "CNN", "correspondent", "Ben", "Wedeman", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "this ridge behind me in Kalak which of course is the front line between Iraq and Kurdish (ph) forces",
+  "sentence_length" : 67,
+  "mentionArg2" : {
+    "extent" : "Kalak which of course is the front line between Iraq and Kurdish (ph) forces",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E27-65",
+    "start" : 26,
+    "end" : 41
+  },
+  "relationID" : "CNN_IP_20030329.1600.01-1-R3",
+  "mentionArg1" : {
+    "extent" : "this ridge behind me in Kalak which of course is the front line between Iraq and Kurdish (ph) forces",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E1-2",
+    "start" : 21,
+    "end" : 41
+  },
+  "id" : "CNN_IP_20030329.1600.01-1-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Judy , you 're seeing us through the night scope because basically for the last hour we 've been watching as this ridge behind me in Kalak which of course is the front line between Iraq and Kurdish ( ph ) forces , we 've been watching as planes , planes we can hear but cannot see , have been bombing the ridge line behind us .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Judy", ",", "you", "'re", "seeing", "us", "through", "the", "night", "scope", "because", "basically", "for", "the", "last", "hour", "we", "'ve", "been", "watching", "as", "this", "ridge", "behind", "me", "in", "Kalak", "which", "of", "course", "is", "the", "front", "line", "between", "Iraq", "and", "Kurdish", "(", "ph", ")", "forces", ",", "we", "'ve", "been", "watching", "as", "planes", ",", "planes", "we", "can", "hear", "but", "cannot", "see", ",", "have", "been", "bombing", "the", "ridge", "line", "behind", "us", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the ridge line behind us",
+  "sentence_length" : 67,
+  "mentionArg2" : {
+    "extent" : "the ridge line behind us",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E1-13",
+    "start" : 61,
+    "end" : 65
+  },
+  "relationID" : "CNN_IP_20030329.1600.01-1-R4",
+  "mentionArg1" : {
+    "extent" : "us",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E44-14",
+    "start" : 65,
+    "end" : 65
+  },
+  "id" : "CNN_IP_20030329.1600.01-1-R4-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Judy , you 're seeing us through the night scope because basically for the last hour we 've been watching as this ridge behind me in Kalak which of course is the front line between Iraq and Kurdish ( ph ) forces , we 've been watching as planes , planes we can hear but cannot see , have been bombing the ridge line behind us .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Judy", ",", "you", "'re", "seeing", "us", "through", "the", "night", "scope", "because", "basically", "for", "the", "last", "hour", "we", "'ve", "been", "watching", "as", "this", "ridge", "behind", "me", "in", "Kalak", "which", "of", "course", "is", "the", "front", "line", "between", "Iraq", "and", "Kurdish", "(", "ph", ")", "forces", ",", "we", "'ve", "been", "watching", "as", "planes", ",", "planes", "we", "can", "hear", "but", "cannot", "see", ",", "have", "been", "bombing", "the", "ridge", "line", "behind", "us", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Not just Iraqi positions behind us, in addition to that in the direction of Mosul as well which is a major northern Iraqi city about 28 miles to the west of me",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "a major northern Iraqi city about 28 miles to the west of me",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E10-23",
+    "start" : 20,
+    "end" : 32
+  },
+  "relationID" : "CNN_IP_20030329.1600.01-1-R5",
+  "mentionArg1" : {
+    "extent" : "me",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E40-25",
+    "start" : 32,
+    "end" : 32
+  },
+  "id" : "CNN_IP_20030329.1600.01-1-R5-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Not just Iraqi positions behind us , in addition to that in the direction of Mosul as well which is a major northern Iraqi city about 28 miles to the west of me .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Not", "just", "Iraqi", "positions", "behind", "us", ",", "in", "addition", "to", "that", "in", "the", "direction", "of", "Mosul", "as", "well", "which", "is", "a", "major", "northern", "Iraqi", "city", "about", "28", "miles", "to", "the", "west", "of", "me", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the coalition forces",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E14-32",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "CNN_IP_20030329.1600.01-1-R6",
+  "mentionArg1" : {
+    "extent" : "the coalition forces",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E13-31",
+    "start" : 18,
+    "end" : 20
+  },
+  "id" : "CNN_IP_20030329.1600.01-1-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Judy ... WOODRUFF Ben , what is your best understanding of what it is on the ground that the coalition forces are going after there ?",
+  "sentence_index" : 9,
+  "Tokens" : [ "Judy", "...", "WOODRUFF", "Ben", ",", "what", "is", "your", "best", "understanding", "of", "what", "it", "is", "on", "the", "ground", "that", "the", "coalition", "forces", "are", "going", "after", "there", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Iraqi army",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E2-36",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030329.1600.01-1-R7",
+  "mentionArg1" : {
+    "extent" : "Iraqi army",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E37-89",
+    "start" : 13,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030329.1600.01-1-R7-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "WEDEMAN Well , basically on the ridge itself it is the most forward Iraqi army positions and we 've been watching them very closely for the last month prior to the war to the outbreak of the war and basically these are the positions that control this entire valley .",
+  "sentence_index" : 10,
+  "Tokens" : [ "WEDEMAN", "Well", ",", "basically", "on", "the", "ridge", "itself", "it", "is", "the", "most", "forward", "Iraqi", "army", "positions", "and", "we", "'ve", "been", "watching", "them", "very", "closely", "for", "the", "last", "month", "prior", "to", "the", "war", "to", "the", "outbreak", "of", "the", "war", "and", "basically", "these", "are", "the", "positions", "that", "control", "this", "entire", "valley", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Well, basically on the ridge itself it is the most forward Iraqi army positions and we've been watching them very closely for the last month prior to the war to the outbreak of the war and basically these are the positions that control this entire valley",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "this entire valley",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E19-38",
+    "start" : 46,
+    "end" : 48
+  },
+  "relationID" : "CNN_IP_20030329.1600.01-1-R8",
+  "mentionArg1" : {
+    "extent" : "the ridge itself",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E1-34",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030329.1600.01-1-R8-1",
+  "relationSubType" : "Near",
+  "Sentence" : "WEDEMAN Well , basically on the ridge itself it is the most forward Iraqi army positions and we 've been watching them very closely for the last month prior to the war to the outbreak of the war and basically these are the positions that control this entire valley .",
+  "sentence_index" : 10,
+  "Tokens" : [ "WEDEMAN", "Well", ",", "basically", "on", "the", "ridge", "itself", "it", "is", "the", "most", "forward", "Iraqi", "army", "positions", "and", "we", "'ve", "been", "watching", "them", "very", "closely", "for", "the", "last", "month", "prior", "to", "the", "war", "to", "the", "outbreak", "of", "the", "war", "and", "basically", "these", "are", "the", "positions", "that", "control", "this", "entire", "valley", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Up there they have heavy machine guns",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "heavy machine guns",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E20-40",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030329.1600.01-1-R9",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E18-87",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030329.1600.01-1-R9-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Up there they have heavy machine guns .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Up", "there", "they", "have", "heavy", "machine", "guns", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "They have mortars",
+  "sentence_length" : 4,
+  "mentionArg2" : {
+    "extent" : "mortars",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E21-41",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "CNN_IP_20030329.1600.01-1-R10",
+  "mentionArg1" : {
+    "extent" : "They",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E18-88",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_IP_20030329.1600.01-1-R10-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "They have mortars .",
+  "sentence_index" : 12,
+  "Tokens" : [ "They", "have", "mortars", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "They have anti-tank guns, hundreds of men along this very long ridge that basically runs from the north to the south",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "anti-tank guns",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E22-42",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030329.1600.01-1-R11",
+  "mentionArg1" : {
+    "extent" : "They",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E18-90",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_IP_20030329.1600.01-1-R11-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "They have anti-tank guns , hundreds of men along this very long ridge that basically runs from the north to the south .",
+  "sentence_index" : 13,
+  "Tokens" : [ "They", "have", "anti-tank", "guns", ",", "hundreds", "of", "men", "along", "this", "very", "long", "ridge", "that", "basically", "runs", "from", "the", "north", "to", "the", "south", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "hundreds of men along this very long ridge that basically runs from the north to the south",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "this very long ridge that basically runs from the north to the south",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E1-44",
+    "start" : 9,
+    "end" : 21
+  },
+  "relationID" : "CNN_IP_20030329.1600.01-1-R12",
+  "mentionArg1" : {
+    "extent" : "hundreds of men along this very long ridge that basically runs from the north to the south",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E23-43",
+    "start" : 5,
+    "end" : 21
+  },
+  "id" : "CNN_IP_20030329.1600.01-1-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "They have anti-tank guns , hundreds of men along this very long ridge that basically runs from the north to the south .",
+  "sentence_index" : 13,
+  "Tokens" : [ "They", "have", "anti-tank", "guns", ",", "hundreds", "of", "men", "along", "this", "very", "long", "ridge", "that", "basically", "runs", "from", "the", "north", "to", "the", "south", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the people here in this area",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "this area",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E27-51",
+    "start" : 34,
+    "end" : 35
+  },
+  "relationID" : "CNN_IP_20030329.1600.01-1-R13",
+  "mentionArg1" : {
+    "extent" : "the people here in this area",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E26-50",
+    "start" : 30,
+    "end" : 35
+  },
+  "id" : "CNN_IP_20030329.1600.01-1-R13-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In addition to that , we know that further back behind those lines in the direction of Mosul there is heavy artillery and tanks as well , this according to the people here in this area , the local Kurds who have been going across the lines for many years basically engaged in smuggling .",
+  "sentence_index" : 14,
+  "Tokens" : [ "In", "addition", "to", "that", ",", "we", "know", "that", "further", "back", "behind", "those", "lines", "in", "the", "direction", "of", "Mosul", "there", "is", "heavy", "artillery", "and", "tanks", "as", "well", ",", "this", "according", "to", "the", "people", "here", "in", "this", "area", ",", "the", "local", "Kurds", "who", "have", "been", "going", "across", "the", "lines", "for", "many", "years", "basically", "engaged", "in", "smuggling", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Ben Wedeman describing coalition hits in the area where he is, the town of Kalak in northern Iraq",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "where",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E27-62",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030329.1600.01-1-R14",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E40-63",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030329.1600.01-1-R14-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Judy ... WEDEMAN Ben Wedeman describing coalition hits in the area where he is , the town of Kalak in northern Iraq .",
+  "sentence_index" : 16,
+  "Tokens" : [ "Judy", "...", "WEDEMAN", "Ben", "Wedeman", "describing", "coalition", "hits", "in", "the", "area", "where", "he", "is", ",", "the", "town", "of", "Kalak", "in", "northern", "Iraq", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the town of Kalak in northern Iraq",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "northern Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E38-68",
+    "start" : 20,
+    "end" : 21
+  },
+  "relationID" : "CNN_IP_20030329.1600.01-1-R15",
+  "mentionArg1" : {
+    "extent" : "the town of Kalak in northern Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E27-66",
+    "start" : 15,
+    "end" : 21
+  },
+  "id" : "CNN_IP_20030329.1600.01-1-R15-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Judy ... WEDEMAN Ben Wedeman describing coalition hits in the area where he is , the town of Kalak in northern Iraq .",
+  "sentence_index" : 16,
+  "Tokens" : [ "Judy", "...", "WEDEMAN", "Ben", "Wedeman", "describing", "coalition", "hits", "in", "the", "area", "where", "he", "is", ",", "the", "town", "of", "Kalak", "in", "northern", "Iraq", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "CNN correspondent",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E42-98",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030329.1600.01-1-R16",
+  "mentionArg1" : {
+    "extent" : "CNN correspondent",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E40-96",
+    "start" : 14,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030329.1600.01-1-R16-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "WOODRUFF We 're going to go quickly to northern Iraq now where we find CNN correspondent Ben Wedeman .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WOODRUFF", "We", "'re", "going", "to", "go", "quickly", "to", "northern", "Iraq", "now", "where", "we", "find", "CNN", "correspondent", "Ben", "Wedeman", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "this ridge behind me in Kalak which of course is the front line between Iraq and Kurdish (ph) forces",
+  "sentence_length" : 67,
+  "mentionArg2" : {
+    "extent" : "this ridge behind me in Kalak which of course is the front line between Iraq and Kurdish (ph) forces",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E1-2",
+    "start" : 21,
+    "end" : 41
+  },
+  "relationID" : "CNN_IP_20030329.1600.01-1-R17",
+  "mentionArg1" : {
+    "extent" : "me",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E40-3",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "CNN_IP_20030329.1600.01-1-R17-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Judy , you 're seeing us through the night scope because basically for the last hour we 've been watching as this ridge behind me in Kalak which of course is the front line between Iraq and Kurdish ( ph ) forces , we 've been watching as planes , planes we can hear but cannot see , have been bombing the ridge line behind us .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Judy", ",", "you", "'re", "seeing", "us", "through", "the", "night", "scope", "because", "basically", "for", "the", "last", "hour", "we", "'ve", "been", "watching", "as", "this", "ridge", "behind", "me", "in", "Kalak", "which", "of", "course", "is", "the", "front", "line", "between", "Iraq", "and", "Kurdish", "(", "ph", ")", "forces", ",", "we", "'ve", "been", "watching", "as", "planes", ",", "planes", "we", "can", "hear", "but", "cannot", "see", ",", "have", "been", "bombing", "the", "ridge", "line", "behind", "us", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iraq and Kurdish (ph) forces",
+  "sentence_length" : 67,
+  "mentionArg2" : {
+    "extent" : "Kurdish (ph) forces",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E3-6",
+    "start" : 37,
+    "end" : 41
+  },
+  "relationID" : "CNN_IP_20030329.1600.01-1-R18",
+  "mentionArg1" : {
+    "extent" : "Kurdish",
+    "argMentionid" : "CNN_IP_20030329.1600.01-1-E4-7",
+    "start" : 37,
+    "end" : 37
+  },
+  "id" : "CNN_IP_20030329.1600.01-1-R18-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Judy , you 're seeing us through the night scope because basically for the last hour we 've been watching as this ridge behind me in Kalak which of course is the front line between Iraq and Kurdish ( ph ) forces , we 've been watching as planes , planes we can hear but cannot see , have been bombing the ridge line behind us .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Judy", ",", "you", "'re", "seeing", "us", "through", "the", "night", "scope", "because", "basically", "for", "the", "last", "hour", "we", "'ve", "been", "watching", "as", "this", "ridge", "behind", "me", "in", "Kalak", "which", "of", "course", "is", "the", "front", "line", "between", "Iraq", "and", "Kurdish", "(", "ph", ")", "forces", ",", "we", "'ve", "been", "watching", "as", "planes", ",", "planes", "we", "can", "hear", "but", "cannot", "see", ",", "have", "been", "bombing", "the", "ridge", "line", "behind", "us", "." ]
+} ]

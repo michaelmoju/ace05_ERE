@@ -1,0 +1,309 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "his fourth wife",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "his fourth wife",
+    "argMentionid" : "AFP_ENG_20030418.0556-E25-42",
+    "start" : 22,
+    "end" : 24
+  },
+  "relationID" : "AFP_ENG_20030418.0556-R1",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "AFP_ENG_20030418.0556-E7-43",
+    "start" : 22,
+    "end" : 22
+  },
+  "id" : "AFP_ENG_20030418.0556-R1-1",
+  "relationSubType" : "Family",
+  "Sentence" : "LOS ANGELES , April 18 ( AFP ) Best-selling novelist and \" Jurassic Park \" creator Michael Crichton has agreed to pay his fourth wife 31 million dollars as part of their divorce settlement , court documents showed Friday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "LOS", "ANGELES", ",", "April", "18", "(", "AFP", ")", "Best-selling", "novelist", "and", "\"", "Jurassic", "Park", "\"", "creator", "Michael", "Crichton", "has", "agreed", "to", "pay", "his", "fourth", "wife", "31", "million", "dollars", "as", "part", "of", "their", "divorce", "settlement", ",", "court", "documents", "showed", "Friday", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his wife of 13 years",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "his wife of 13 years",
+    "argMentionid" : "AFP_ENG_20030418.0556-E25-55",
+    "start" : 27,
+    "end" : 31
+  },
+  "relationID" : "AFP_ENG_20030418.0556-R1",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "AFP_ENG_20030418.0556-E7-56",
+    "start" : 27,
+    "end" : 27
+  },
+  "id" : "AFP_ENG_20030418.0556-R1-2",
+  "relationSubType" : "Family",
+  "Sentence" : "The writer will retain the rights to his books and films , although he has agreed to split a raft of other possessions with Anne Marie , his wife of 13 years , according to documents filed in Los Angeles Superior Court .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "writer", "will", "retain", "the", "rights", "to", "his", "books", "and", "films", ",", "although", "he", "has", "agreed", "to", "split", "a", "raft", "of", "other", "possessions", "with", "Anne", "Marie", ",", "his", "wife", "of", "13", "years", ",", "according", "to", "documents", "filed", "in", "Los", "Angeles", "Superior", "Court", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the world's wealthiest authors",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "the world",
+    "argMentionid" : "AFP_ENG_20030418.0556-E29-48",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "AFP_ENG_20030418.0556-R2",
+  "mentionArg1" : {
+    "extent" : "the world's wealthiest authors",
+    "argMentionid" : "AFP_ENG_20030418.0556-E28-47",
+    "start" : 7,
+    "end" : 11
+  },
+  "id" : "AFP_ENG_20030418.0556-R2-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Crichton , 60 , is one of the world 's wealthiest authors , and has had 12 of his novels made into major Hollywood movies .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Crichton", ",", "60", ",", "is", "one", "of", "the", "world", "'s", "wealthiest", "authors", ",", "and", "has", "had", "12", "of", "his", "novels", "made", "into", "major", "Hollywood", "movies", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Los Angeles Superior Court",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "Los Angeles",
+    "argMentionid" : "AFP_ENG_20030418.0556-E2-2",
+    "start" : 38,
+    "end" : 39
+  },
+  "relationID" : "AFP_ENG_20030418.0556-R4",
+  "mentionArg1" : {
+    "extent" : "Los Angeles Superior Court",
+    "argMentionid" : "AFP_ENG_20030418.0556-E1-57",
+    "start" : 38,
+    "end" : 41
+  },
+  "id" : "AFP_ENG_20030418.0556-R4-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The writer will retain the rights to his books and films , although he has agreed to split a raft of other possessions with Anne Marie , his wife of 13 years , according to documents filed in Los Angeles Superior Court .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "writer", "will", "retain", "the", "rights", "to", "his", "books", "and", "films", ",", "although", "he", "has", "agreed", "to", "split", "a", "raft", "of", "other", "possessions", "with", "Anne", "Marie", ",", "his", "wife", "of", "13", "years", ",", "according", "to", "documents", "filed", "in", "Los", "Angeles", "Superior", "Court", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the couple's 19-room home in New York state, which was on the  market last year for 21.5 million dollars",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "the couple's 19-room home in New York state, which was on the  market last year for 21.5 million dollars",
+    "argMentionid" : "AFP_ENG_20030418.0556-E4-5",
+    "start" : 3,
+    "end" : 23
+  },
+  "relationID" : "AFP_ENG_20030418.0556-R5",
+  "mentionArg1" : {
+    "extent" : "the couple",
+    "argMentionid" : "AFP_ENG_20030418.0556-E26-6",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "AFP_ENG_20030418.0556-R5-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Anne-Marie will get the couple 's 19-room home in New York state , which was on the market last year for 21.5 million dollars , as well as their fine art collection .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Anne-Marie", "will", "get", "the", "couple", "'s", "19-room", "home", "in", "New", "York", "state", ",", "which", "was", "on", "the", "market", "last", "year", "for", "21.5", "million", "dollars", ",", "as", "well", "as", "their", "fine", "art", "collection", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the couple's 19-room home in New York state, which was on the  market last year for 21.5 million dollars",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "New York state",
+    "argMentionid" : "AFP_ENG_20030418.0556-E5-7",
+    "start" : 9,
+    "end" : 11
+  },
+  "relationID" : "AFP_ENG_20030418.0556-R6",
+  "mentionArg1" : {
+    "extent" : "the couple's 19-room home in New York state, which was on the  market last year for 21.5 million dollars",
+    "argMentionid" : "AFP_ENG_20030418.0556-E4-5",
+    "start" : 3,
+    "end" : 23
+  },
+  "id" : "AFP_ENG_20030418.0556-R6-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Anne-Marie will get the couple 's 19-room home in New York state , which was on the market last year for 21.5 million dollars , as well as their fine art collection .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Anne-Marie", "will", "get", "the", "couple", "'s", "19-room", "home", "in", "New", "York", "state", ",", "which", "was", "on", "the", "market", "last", "year", "for", "21.5", "million", "dollars", ",", "as", "well", "as", "their", "fine", "art", "collection", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a Harvard Medical School graduate",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "Harvard Medical School",
+    "argMentionid" : "AFP_ENG_20030418.0556-E8-14",
+    "start" : 3,
+    "end" : 5
+  },
+  "relationID" : "AFP_ENG_20030418.0556-R7",
+  "mentionArg1" : {
+    "extent" : "a Harvard Medical School graduate",
+    "argMentionid" : "AFP_ENG_20030418.0556-E7-13",
+    "start" : 2,
+    "end" : 6
+  },
+  "id" : "AFP_ENG_20030418.0556-R7-1",
+  "relationSubType" : "Student-Alum",
+  "Sentence" : "Crichton , a Harvard Medical School graduate , will keep a home in Hawaii and four cars , while the couple , who also each have homes in Los Angeles , will share custody of their 15-year-old daughter , Taylor .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Crichton", ",", "a", "Harvard", "Medical", "School", "graduate", ",", "will", "keep", "a", "home", "in", "Hawaii", "and", "four", "cars", ",", "while", "the", "couple", ",", "who", "also", "each", "have", "homes", "in", "Los", "Angeles", ",", "will", "share", "custody", "of", "their", "15-year-old", "daughter", ",", "Taylor", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Harvard Medical School",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "Harvard Medical School",
+    "argMentionid" : "AFP_ENG_20030418.0556-E8-14",
+    "start" : 3,
+    "end" : 5
+  },
+  "relationID" : "AFP_ENG_20030418.0556-R8",
+  "mentionArg1" : {
+    "extent" : "Harvard",
+    "argMentionid" : "AFP_ENG_20030418.0556-E9-15",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "AFP_ENG_20030418.0556-R8-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Crichton , a Harvard Medical School graduate , will keep a home in Hawaii and four cars , while the couple , who also each have homes in Los Angeles , will share custody of their 15-year-old daughter , Taylor .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Crichton", ",", "a", "Harvard", "Medical", "School", "graduate", ",", "will", "keep", "a", "home", "in", "Hawaii", "and", "four", "cars", ",", "while", "the", "couple", ",", "who", "also", "each", "have", "homes", "in", "Los", "Angeles", ",", "will", "share", "custody", "of", "their", "15-year-old", "daughter", ",", "Taylor", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Crichton, a Harvard Medical School graduate, will keep a home in Hawaii and four cars, while the couple, who also each have homes in Los Angeles, will share custody of their 15-year-old daughter, Taylor",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "a home in Hawaii",
+    "argMentionid" : "AFP_ENG_20030418.0556-E10-16",
+    "start" : 10,
+    "end" : 13
+  },
+  "relationID" : "AFP_ENG_20030418.0556-R9",
+  "mentionArg1" : {
+    "extent" : "Crichton",
+    "argMentionid" : "AFP_ENG_20030418.0556-E7-12",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "AFP_ENG_20030418.0556-R9-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Crichton , a Harvard Medical School graduate , will keep a home in Hawaii and four cars , while the couple , who also each have homes in Los Angeles , will share custody of their 15-year-old daughter , Taylor .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Crichton", ",", "a", "Harvard", "Medical", "School", "graduate", ",", "will", "keep", "a", "home", "in", "Hawaii", "and", "four", "cars", ",", "while", "the", "couple", ",", "who", "also", "each", "have", "homes", "in", "Los", "Angeles", ",", "will", "share", "custody", "of", "their", "15-year-old", "daughter", ",", "Taylor", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Crichton, a Harvard Medical School graduate, will keep a home in Hawaii and four cars, while the couple, who also each have homes in Los Angeles, will share custody of their 15-year-old daughter, Taylor",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "four cars",
+    "argMentionid" : "AFP_ENG_20030418.0556-E12-18",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "AFP_ENG_20030418.0556-R10",
+  "mentionArg1" : {
+    "extent" : "Crichton",
+    "argMentionid" : "AFP_ENG_20030418.0556-E7-12",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "AFP_ENG_20030418.0556-R10-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Crichton , a Harvard Medical School graduate , will keep a home in Hawaii and four cars , while the couple , who also each have homes in Los Angeles , will share custody of their 15-year-old daughter , Taylor .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Crichton", ",", "a", "Harvard", "Medical", "School", "graduate", ",", "will", "keep", "a", "home", "in", "Hawaii", "and", "four", "cars", ",", "while", "the", "couple", ",", "who", "also", "each", "have", "homes", "in", "Los", "Angeles", ",", "will", "share", "custody", "of", "their", "15-year-old", "daughter", ",", "Taylor", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the couple, who also each have homes in Los Angeles",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "homes in Los Angeles",
+    "argMentionid" : "AFP_ENG_20030418.0556-E13-21",
+    "start" : 26,
+    "end" : 29
+  },
+  "relationID" : "AFP_ENG_20030418.0556-R11",
+  "mentionArg1" : {
+    "extent" : "the couple, who also each have homes in Los Angeles",
+    "argMentionid" : "AFP_ENG_20030418.0556-E26-19",
+    "start" : 19,
+    "end" : 29
+  },
+  "id" : "AFP_ENG_20030418.0556-R11-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Crichton , a Harvard Medical School graduate , will keep a home in Hawaii and four cars , while the couple , who also each have homes in Los Angeles , will share custody of their 15-year-old daughter , Taylor .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Crichton", ",", "a", "Harvard", "Medical", "School", "graduate", ",", "will", "keep", "a", "home", "in", "Hawaii", "and", "four", "cars", ",", "while", "the", "couple", ",", "who", "also", "each", "have", "homes", "in", "Los", "Angeles", ",", "will", "share", "custody", "of", "their", "15-year-old", "daughter", ",", "Taylor", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "homes in Los Angeles",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "Los Angeles",
+    "argMentionid" : "AFP_ENG_20030418.0556-E2-22",
+    "start" : 28,
+    "end" : 29
+  },
+  "relationID" : "AFP_ENG_20030418.0556-R12",
+  "mentionArg1" : {
+    "extent" : "homes in Los Angeles",
+    "argMentionid" : "AFP_ENG_20030418.0556-E13-21",
+    "start" : 26,
+    "end" : 29
+  },
+  "id" : "AFP_ENG_20030418.0556-R12-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Crichton , a Harvard Medical School graduate , will keep a home in Hawaii and four cars , while the couple , who also each have homes in Los Angeles , will share custody of their 15-year-old daughter , Taylor .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Crichton", ",", "a", "Harvard", "Medical", "School", "graduate", ",", "will", "keep", "a", "home", "in", "Hawaii", "and", "four", "cars", ",", "while", "the", "couple", ",", "who", "also", "each", "have", "homes", "in", "Los", "Angeles", ",", "will", "share", "custody", "of", "their", "15-year-old", "daughter", ",", "Taylor", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their 15-year-old daughter",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "their 15-year-old daughter",
+    "argMentionid" : "AFP_ENG_20030418.0556-E14-24",
+    "start" : 35,
+    "end" : 37
+  },
+  "relationID" : "AFP_ENG_20030418.0556-R13",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "AFP_ENG_20030418.0556-E26-26",
+    "start" : 35,
+    "end" : 35
+  },
+  "id" : "AFP_ENG_20030418.0556-R13-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Crichton , a Harvard Medical School graduate , will keep a home in Hawaii and four cars , while the couple , who also each have homes in Los Angeles , will share custody of their 15-year-old daughter , Taylor .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Crichton", ",", "a", "Harvard", "Medical", "School", "graduate", ",", "will", "keep", "a", "home", "in", "Hawaii", "and", "four", "cars", ",", "while", "the", "couple", ",", "who", "also", "each", "have", "homes", "in", "Los", "Angeles", ",", "will", "share", "custody", "of", "their", "15-year-old", "daughter", ",", "Taylor", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Chinese archaeologists",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Chinese",
+    "argMentionid" : "AFP_ENG_20030418.0556-E19-36",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "AFP_ENG_20030418.0556-R14",
+  "mentionArg1" : {
+    "extent" : "Chinese archaeologists",
+    "argMentionid" : "AFP_ENG_20030418.0556-E18-35",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "AFP_ENG_20030418.0556-R14-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "In December , Chinese archaeologists named a new species of dinosaur after the \" Jurassic Park \" author .",
+  "sentence_index" : 8,
+  "Tokens" : [ "In", "December", ",", "Chinese", "archaeologists", "named", "a", "new", "species", "of", "dinosaur", "after", "the", "\"", "Jurassic", "Park", "\"", "author", "." ]
+} ]

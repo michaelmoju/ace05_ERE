@@ -1,0 +1,177 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "Controversial PLO leader",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "PLO",
+    "argMentionid" : "fsh_29361-E42-198",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "fsh_29361-R1",
+  "mentionArg1" : {
+    "extent" : "Controversial PLO leader",
+    "argMentionid" : "fsh_29361-E6-151",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "fsh_29361-R1-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Death of Arafat ( 1 ) Controversial PLO leader Yasser Arafat died in a Paris hospital last week .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Death", "of", "Arafat", "(", "1", ")", "Controversial", "PLO", "leader", "Yasser", "Arafat", "died", "in", "a", "Paris", "hospital", "last", "week", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Controversial PLO leader Yasser Arafat died in a Paris hospital last week",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "a Paris hospital",
+    "argMentionid" : "fsh_29361-E43-208",
+    "start" : 13,
+    "end" : 15
+  },
+  "relationID" : "fsh_29361-R2",
+  "mentionArg1" : {
+    "extent" : "Controversial PLO leader Yasser Arafat",
+    "argMentionid" : "fsh_29361-E6-1",
+    "start" : 6,
+    "end" : 10
+  },
+  "id" : "fsh_29361-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Death of Arafat ( 1 ) Controversial PLO leader Yasser Arafat died in a Paris hospital last week .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Death", "of", "Arafat", "(", "1", ")", "Controversial", "PLO", "leader", "Yasser", "Arafat", "died", "in", "a", "Paris", "hospital", "last", "week", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "his people",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "his people",
+    "argMentionid" : "fsh_29361-E17-206",
+    "start" : 21,
+    "end" : 22
+  },
+  "relationID" : "fsh_29361-R3",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29361-E6-55",
+    "start" : 21,
+    "end" : 21
+  },
+  "id" : "fsh_29361-R3-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Mark Um , to hi- -- yeah , I- -- I think he did what he thought -- was right for his people .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Mark", "Um", ",", "to", "hi-", "--", "yeah", ",", "I-", "--", "I", "think", "he", "did", "what", "he", "thought", "--", "was", "right", "for", "his", "people", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "his people",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "his people",
+    "argMentionid" : "fsh_29361-E17-61",
+    "start" : 18,
+    "end" : 19
+  },
+  "relationID" : "fsh_29361-R3",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29361-E6-60",
+    "start" : 18,
+    "end" : 18
+  },
+  "id" : "fsh_29361-R3-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "I- I- -- I would say he was a good leader -- for- -- for , uh , his people .",
+  "sentence_index" : 16,
+  "Tokens" : [ "I-", "I-", "--", "I", "would", "say", "he", "was", "a", "good", "leader", "--", "for-", "--", "for", ",", "uh", ",", "his", "people", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "mm, by the way I am from Arab origin,  so I also have, uh,  uh, the same opinion -- like you",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Arab",
+    "argMentionid" : "fsh_29361-E8-72",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "fsh_29361-R4",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29361-E4-24",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "fsh_29361-R4-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Ali mm , by the way I am from Arab origin , so I also have , uh , uh , the same opinion -- like you .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Ali", "mm", ",", "by", "the", "way", "I", "am", "from", "Arab", "origin", ",", "so", "I", "also", "have", ",", "uh", ",", "uh", ",", "the", "same", "opinion", "--", "like", "you", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a Paris hospital",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Paris",
+    "argMentionid" : "fsh_29361-E37-190",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "fsh_29361-R5",
+  "mentionArg1" : {
+    "extent" : "a Paris hospital",
+    "argMentionid" : "fsh_29361-E43-208",
+    "start" : 13,
+    "end" : 15
+  },
+  "id" : "fsh_29361-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Death of Arafat ( 1 ) Controversial PLO leader Yasser Arafat died in a Paris hospital last week .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Death", "of", "Arafat", "(", "1", ")", "Controversial", "PLO", "leader", "Yasser", "Arafat", "died", "in", "a", "Paris", "hospital", "last", "week", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the prime minister of Israel",
+  "sentence_length" : 100,
+  "mentionArg2" : {
+    "extent" : "Israel",
+    "argMentionid" : "fsh_29361-E16-111",
+    "start" : 49,
+    "end" : 49
+  },
+  "relationID" : "fsh_29361-R6",
+  "mentionArg1" : {
+    "extent" : "the prime minister of Israel",
+    "argMentionid" : "fsh_29361-E22-110",
+    "start" : 45,
+    "end" : 49
+  },
+  "id" : "fsh_29361-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "For example , before , eh , during Clinton , I believe at that time -- Clinton was trying hard -- to solve this problem and I believe at that time , if you remember , um , Yasser Arafat -- and , uh , the prime minister of Israel , his name was Barak , they met together in the White House -- and -- they almost came to an agreement -- to solve this problem -- and during Clinton , eh , period -- they had , uh , this (( Oslo )) a- eh , agreement .",
+  "sentence_index" : 29,
+  "Tokens" : [ "For", "example", ",", "before", ",", "eh", ",", "during", "Clinton", ",", "I", "believe", "at", "that", "time", "--", "Clinton", "was", "trying", "hard", "--", "to", "solve", "this", "problem", "and", "I", "believe", "at", "that", "time", ",", "if", "you", "remember", ",", "um", ",", "Yasser", "Arafat", "--", "and", ",", "uh", ",", "the", "prime", "minister", "of", "Israel", ",", "his", "name", "was", "Barak", ",", "they", "met", "together", "in", "the", "White", "House", "--", "and", "--", "they", "almost", "came", "to", "an", "agreement", "--", "to", "solve", "this", "problem", "--", "and", "during", "Clinton", ",", "eh", ",", "period", "--", "they", "had", ",", "uh", ",", "this", "((", "Oslo", "))", "a-", "eh", ",", "agreement", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "For example, before, eh, during Clinton,  I believe at that time -- Clinton was trying hard -- to solve this problem and I believe at that time, if you remember,  um,  Yasser Arafat -- and, uh, the prime minister of Israel, his name was Barak,  they met together in the White House -- and -- they almost came to an agreement -- to solve this problem -- and during Clinton, eh,  period -- they had, uh, this ((Oslo)) a- eh, agreement",
+  "sentence_length" : 100,
+  "mentionArg2" : {
+    "extent" : "the White House",
+    "argMentionid" : "fsh_29361-E25-115",
+    "start" : 60,
+    "end" : 62
+  },
+  "relationID" : "fsh_29361-R7",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "fsh_29361-E24-114",
+    "start" : 56,
+    "end" : 56
+  },
+  "id" : "fsh_29361-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "For example , before , eh , during Clinton , I believe at that time -- Clinton was trying hard -- to solve this problem and I believe at that time , if you remember , um , Yasser Arafat -- and , uh , the prime minister of Israel , his name was Barak , they met together in the White House -- and -- they almost came to an agreement -- to solve this problem -- and during Clinton , eh , period -- they had , uh , this (( Oslo )) a- eh , agreement .",
+  "sentence_index" : 29,
+  "Tokens" : [ "For", "example", ",", "before", ",", "eh", ",", "during", "Clinton", ",", "I", "believe", "at", "that", "time", "--", "Clinton", "was", "trying", "hard", "--", "to", "solve", "this", "problem", "and", "I", "believe", "at", "that", "time", ",", "if", "you", "remember", ",", "um", ",", "Yasser", "Arafat", "--", "and", ",", "uh", ",", "the", "prime", "minister", "of", "Israel", ",", "his", "name", "was", "Barak", ",", "they", "met", "together", "in", "the", "White", "House", "--", "and", "--", "they", "almost", "came", "to", "an", "agreement", "--", "to", "solve", "this", "problem", "--", "and", "during", "Clinton", ",", "eh", ",", "period", "--", "they", "had", ",", "uh", ",", "this", "((", "Oslo", "))", "a-", "eh", ",", "agreement", "." ]
+} ]

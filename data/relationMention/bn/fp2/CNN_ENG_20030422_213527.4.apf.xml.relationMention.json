@@ -1,0 +1,287 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "eric seals of knight-ridder trainchl",
+  "sentence_length" : 56,
+  "mentionArg2" : {
+    "extent" : "knight-ridder trainchl",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E45-73",
+    "start" : 26,
+    "end" : 27
+  },
+  "relationID" : "CNN_ENG_20030422_213527.4-R1",
+  "mentionArg1" : {
+    "extent" : "eric seals of knight-ridder trainchl",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E12-72",
+    "start" : 23,
+    "end" : 27
+  },
+  "id" : "CNN_ENG_20030422_213527.4-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "you know that we are fans of still photographers and trying to bring their work in iraq and tonight again , we do. eric seals of knight-ridder trainchl shooting for the detroit free press. he was to his chagrin , could be the most toughest and important battle of them all , winning the peace .",
+  "sentence_index" : 1,
+  "Tokens" : [ "you", "know", "that", "we", "are", "fans", "of", "still", "photographers", "and", "trying", "to", "bring", "their", "work", "in", "iraq", "and", "tonight", "again", ",", "we", "do.", "eric", "seals", "of", "knight-ridder", "trainchl", "shooting", "for", "the", "detroit", "free", "press.", "he", "was", "to", "his", "chagrin", ",", "could", "be", "the", "most", "toughest", "and", "important", "battle", "of", "them", "all", ",", "winning", "the", "peace", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "before the war, i was in jordan",
+  "sentence_length" : 125,
+  "mentionArg2" : {
+    "extent" : "jordan",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E48-79",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNN_ENG_20030422_213527.4-R2",
+  "mentionArg1" : {
+    "extent" : "i",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E12-78",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "CNN_ENG_20030422_213527.4-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "reporter : before the war , i was in jordan. we were waiting for the iraqi refugees to show off. everyone thought would stream from iraq and from baghdad into the jordan , like did in 1991. but the iraqi did n't show up. on april 9th , about 130 journalists from around the world including myself and a couple of reporters , we were going to try to cross the border because we were all desperate to get into iraq , two days after the saddam statue fell and we all knew it was over. my name is eric salees , i am a photographer at detroit free press and currently working in baghdad and been here about a week and a half .",
+  "sentence_index" : 2,
+  "Tokens" : [ "reporter", ":", "before", "the", "war", ",", "i", "was", "in", "jordan.", "we", "were", "waiting", "for", "the", "iraqi", "refugees", "to", "show", "off.", "everyone", "thought", "would", "stream", "from", "iraq", "and", "from", "baghdad", "into", "the", "jordan", ",", "like", "did", "in", "1991.", "but", "the", "iraqi", "did", "n't", "show", "up.", "on", "april", "9th", ",", "about", "130", "journalists", "from", "around", "the", "world", "including", "myself", "and", "a", "couple", "of", "reporters", ",", "we", "were", "going", "to", "try", "to", "cross", "the", "border", "because", "we", "were", "all", "desperate", "to", "get", "into", "iraq", ",", "two", "days", "after", "the", "saddam", "statue", "fell", "and", "we", "all", "knew", "it", "was", "over.", "my", "name", "is", "eric", "salees", ",", "i", "am", "a", "photographer", "at", "detroit", "free", "press", "and", "currently", "working", "in", "baghdad", "and", "been", "here", "about", "a", "week", "and", "a", "half", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the iraqi refugees",
+  "sentence_length" : 125,
+  "mentionArg2" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E3-3",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "CNN_ENG_20030422_213527.4-R3",
+  "mentionArg1" : {
+    "extent" : "the iraqi refugees",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E2-2",
+    "start" : 14,
+    "end" : 16
+  },
+  "id" : "CNN_ENG_20030422_213527.4-R3-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "reporter : before the war , i was in jordan. we were waiting for the iraqi refugees to show off. everyone thought would stream from iraq and from baghdad into the jordan , like did in 1991. but the iraqi did n't show up. on april 9th , about 130 journalists from around the world including myself and a couple of reporters , we were going to try to cross the border because we were all desperate to get into iraq , two days after the saddam statue fell and we all knew it was over. my name is eric salees , i am a photographer at detroit free press and currently working in baghdad and been here about a week and a half .",
+  "sentence_index" : 2,
+  "Tokens" : [ "reporter", ":", "before", "the", "war", ",", "i", "was", "in", "jordan.", "we", "were", "waiting", "for", "the", "iraqi", "refugees", "to", "show", "off.", "everyone", "thought", "would", "stream", "from", "iraq", "and", "from", "baghdad", "into", "the", "jordan", ",", "like", "did", "in", "1991.", "but", "the", "iraqi", "did", "n't", "show", "up.", "on", "april", "9th", ",", "about", "130", "journalists", "from", "around", "the", "world", "including", "myself", "and", "a", "couple", "of", "reporters", ",", "we", "were", "going", "to", "try", "to", "cross", "the", "border", "because", "we", "were", "all", "desperate", "to", "get", "into", "iraq", ",", "two", "days", "after", "the", "saddam", "statue", "fell", "and", "we", "all", "knew", "it", "was", "over.", "my", "name", "is", "eric", "salees", ",", "i", "am", "a", "photographer", "at", "detroit", "free", "press", "and", "currently", "working", "in", "baghdad", "and", "been", "here", "about", "a", "week", "and", "a", "half", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "my name is eric salees, i am a photographer at detroit free press and currently working in baghdad and been here about a week and a half",
+  "sentence_length" : 125,
+  "mentionArg2" : {
+    "extent" : "detroit free press",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E46-20",
+    "start" : 107,
+    "end" : 109
+  },
+  "relationID" : "CNN_ENG_20030422_213527.4-R4",
+  "mentionArg1" : {
+    "extent" : "i",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E12-18",
+    "start" : 102,
+    "end" : 102
+  },
+  "id" : "CNN_ENG_20030422_213527.4-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "reporter : before the war , i was in jordan. we were waiting for the iraqi refugees to show off. everyone thought would stream from iraq and from baghdad into the jordan , like did in 1991. but the iraqi did n't show up. on april 9th , about 130 journalists from around the world including myself and a couple of reporters , we were going to try to cross the border because we were all desperate to get into iraq , two days after the saddam statue fell and we all knew it was over. my name is eric salees , i am a photographer at detroit free press and currently working in baghdad and been here about a week and a half .",
+  "sentence_index" : 2,
+  "Tokens" : [ "reporter", ":", "before", "the", "war", ",", "i", "was", "in", "jordan.", "we", "were", "waiting", "for", "the", "iraqi", "refugees", "to", "show", "off.", "everyone", "thought", "would", "stream", "from", "iraq", "and", "from", "baghdad", "into", "the", "jordan", ",", "like", "did", "in", "1991.", "but", "the", "iraqi", "did", "n't", "show", "up.", "on", "april", "9th", ",", "about", "130", "journalists", "from", "around", "the", "world", "including", "myself", "and", "a", "couple", "of", "reporters", ",", "we", "were", "going", "to", "try", "to", "cross", "the", "border", "because", "we", "were", "all", "desperate", "to", "get", "into", "iraq", ",", "two", "days", "after", "the", "saddam", "statue", "fell", "and", "we", "all", "knew", "it", "was", "over.", "my", "name", "is", "eric", "salees", ",", "i", "am", "a", "photographer", "at", "detroit", "free", "press", "and", "currently", "working", "in", "baghdad", "and", "been", "here", "about", "a", "week", "and", "a", "half", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "my name is eric salees, i am a photographer at detroit free press and currently working in baghdad and been here about a week and a half",
+  "sentence_length" : 125,
+  "mentionArg2" : {
+    "extent" : "baghdad",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E6-21",
+    "start" : 114,
+    "end" : 114
+  },
+  "relationID" : "CNN_ENG_20030422_213527.4-R5",
+  "mentionArg1" : {
+    "extent" : "i",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E12-18",
+    "start" : 102,
+    "end" : 102
+  },
+  "id" : "CNN_ENG_20030422_213527.4-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "reporter : before the war , i was in jordan. we were waiting for the iraqi refugees to show off. everyone thought would stream from iraq and from baghdad into the jordan , like did in 1991. but the iraqi did n't show up. on april 9th , about 130 journalists from around the world including myself and a couple of reporters , we were going to try to cross the border because we were all desperate to get into iraq , two days after the saddam statue fell and we all knew it was over. my name is eric salees , i am a photographer at detroit free press and currently working in baghdad and been here about a week and a half .",
+  "sentence_index" : 2,
+  "Tokens" : [ "reporter", ":", "before", "the", "war", ",", "i", "was", "in", "jordan.", "we", "were", "waiting", "for", "the", "iraqi", "refugees", "to", "show", "off.", "everyone", "thought", "would", "stream", "from", "iraq", "and", "from", "baghdad", "into", "the", "jordan", ",", "like", "did", "in", "1991.", "but", "the", "iraqi", "did", "n't", "show", "up.", "on", "april", "9th", ",", "about", "130", "journalists", "from", "around", "the", "world", "including", "myself", "and", "a", "couple", "of", "reporters", ",", "we", "were", "going", "to", "try", "to", "cross", "the", "border", "because", "we", "were", "all", "desperate", "to", "get", "into", "iraq", ",", "two", "days", "after", "the", "saddam", "statue", "fell", "and", "we", "all", "knew", "it", "was", "over.", "my", "name", "is", "eric", "salees", ",", "i", "am", "a", "photographer", "at", "detroit", "free", "press", "and", "currently", "working", "in", "baghdad", "and", "been", "here", "about", "a", "week", "and", "a", "half", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "156 iraqi police officers",
+  "sentence_length" : 194,
+  "mentionArg2" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E3-24",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "CNN_ENG_20030422_213527.4-R6",
+  "mentionArg1" : {
+    "extent" : "156 iraqi police officers",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E13-23",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNN_ENG_20030422_213527.4-R6-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "156 iraqi police officers were supposed to show up to this college to report for work. but instead , 2,000 showed up because they heard about it on the radio. so the whole college was swarmed with police officers wanting their jobs back. and this gentleman was kind of in charge of the whole operation and one man has his arms up yelling at him , was basically an angry officer demanding his job. we came across a checkpoint and there were about maybe five , six iraqi locals with ak-47 machine guns and checking cars. those kind of neat that the iraqis are taking pride in the fall of the regime and wanting to restore order themselves. we had heard rumors of an underground prison. and rumor had it there was a bunch of kuwaitis and one american held in this underground prison that people forgot about. so we went into this bunker hoping to find a prison and run into these prisoners and instead we ran into a room fulls of weapons from bullets to hand grenade , land mines , rocket-propelled grenades. besides weapon , there was paperwork all over the",
+  "sentence_index" : 3,
+  "Tokens" : [ "156", "iraqi", "police", "officers", "were", "supposed", "to", "show", "up", "to", "this", "college", "to", "report", "for", "work.", "but", "instead", ",", "2,000", "showed", "up", "because", "they", "heard", "about", "it", "on", "the", "radio.", "so", "the", "whole", "college", "was", "swarmed", "with", "police", "officers", "wanting", "their", "jobs", "back.", "and", "this", "gentleman", "was", "kind", "of", "in", "charge", "of", "the", "whole", "operation", "and", "one", "man", "has", "his", "arms", "up", "yelling", "at", "him", ",", "was", "basically", "an", "angry", "officer", "demanding", "his", "job.", "we", "came", "across", "a", "checkpoint", "and", "there", "were", "about", "maybe", "five", ",", "six", "iraqi", "locals", "with", "ak-47", "machine", "guns", "and", "checking", "cars.", "those", "kind", "of", "neat", "that", "the", "iraqis", "are", "taking", "pride", "in", "the", "fall", "of", "the", "regime", "and", "wanting", "to", "restore", "order", "themselves.", "we", "had", "heard", "rumors", "of", "an", "underground", "prison.", "and", "rumor", "had", "it", "there", "was", "a", "bunch", "of", "kuwaitis", "and", "one", "american", "held", "in", "this", "underground", "prison", "that", "people", "forgot", "about.", "so", "we", "went", "into", "this", "bunker", "hoping", "to", "find", "a", "prison", "and", "run", "into", "these", "prisoners", "and", "instead", "we", "ran", "into", "a", "room", "fulls", "of", "weapons", "from", "bullets", "to", "hand", "grenade", ",", "land", "mines", ",", "rocket-propelled", "grenades.", "besides", "weapon", ",", "there", "was", "paperwork", "all", "over", "the" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "156 iraqi police officers were supposed to show up to this college to report for work",
+  "sentence_length" : 194,
+  "mentionArg2" : {
+    "extent" : "this college",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E10-69",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "CNN_ENG_20030422_213527.4-R7",
+  "mentionArg1" : {
+    "extent" : "156 iraqi police officers",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E13-23",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNN_ENG_20030422_213527.4-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "156 iraqi police officers were supposed to show up to this college to report for work. but instead , 2,000 showed up because they heard about it on the radio. so the whole college was swarmed with police officers wanting their jobs back. and this gentleman was kind of in charge of the whole operation and one man has his arms up yelling at him , was basically an angry officer demanding his job. we came across a checkpoint and there were about maybe five , six iraqi locals with ak-47 machine guns and checking cars. those kind of neat that the iraqis are taking pride in the fall of the regime and wanting to restore order themselves. we had heard rumors of an underground prison. and rumor had it there was a bunch of kuwaitis and one american held in this underground prison that people forgot about. so we went into this bunker hoping to find a prison and run into these prisoners and instead we ran into a room fulls of weapons from bullets to hand grenade , land mines , rocket-propelled grenades. besides weapon , there was paperwork all over the",
+  "sentence_index" : 3,
+  "Tokens" : [ "156", "iraqi", "police", "officers", "were", "supposed", "to", "show", "up", "to", "this", "college", "to", "report", "for", "work.", "but", "instead", ",", "2,000", "showed", "up", "because", "they", "heard", "about", "it", "on", "the", "radio.", "so", "the", "whole", "college", "was", "swarmed", "with", "police", "officers", "wanting", "their", "jobs", "back.", "and", "this", "gentleman", "was", "kind", "of", "in", "charge", "of", "the", "whole", "operation", "and", "one", "man", "has", "his", "arms", "up", "yelling", "at", "him", ",", "was", "basically", "an", "angry", "officer", "demanding", "his", "job.", "we", "came", "across", "a", "checkpoint", "and", "there", "were", "about", "maybe", "five", ",", "six", "iraqi", "locals", "with", "ak-47", "machine", "guns", "and", "checking", "cars.", "those", "kind", "of", "neat", "that", "the", "iraqis", "are", "taking", "pride", "in", "the", "fall", "of", "the", "regime", "and", "wanting", "to", "restore", "order", "themselves.", "we", "had", "heard", "rumors", "of", "an", "underground", "prison.", "and", "rumor", "had", "it", "there", "was", "a", "bunch", "of", "kuwaitis", "and", "one", "american", "held", "in", "this", "underground", "prison", "that", "people", "forgot", "about.", "so", "we", "went", "into", "this", "bunker", "hoping", "to", "find", "a", "prison", "and", "run", "into", "these", "prisoners", "and", "instead", "we", "ran", "into", "a", "room", "fulls", "of", "weapons", "from", "bullets", "to", "hand", "grenade", ",", "land", "mines", ",", "rocket-propelled", "grenades.", "besides", "weapon", ",", "there", "was", "paperwork", "all", "over", "the" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "so the whole college was swarmed with police officers wanting their jobs back",
+  "sentence_length" : 194,
+  "mentionArg2" : {
+    "extent" : "the whole college",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E10-27",
+    "start" : 31,
+    "end" : 33
+  },
+  "relationID" : "CNN_ENG_20030422_213527.4-R8",
+  "mentionArg1" : {
+    "extent" : "police officers",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E16-28",
+    "start" : 37,
+    "end" : 38
+  },
+  "id" : "CNN_ENG_20030422_213527.4-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "156 iraqi police officers were supposed to show up to this college to report for work. but instead , 2,000 showed up because they heard about it on the radio. so the whole college was swarmed with police officers wanting their jobs back. and this gentleman was kind of in charge of the whole operation and one man has his arms up yelling at him , was basically an angry officer demanding his job. we came across a checkpoint and there were about maybe five , six iraqi locals with ak-47 machine guns and checking cars. those kind of neat that the iraqis are taking pride in the fall of the regime and wanting to restore order themselves. we had heard rumors of an underground prison. and rumor had it there was a bunch of kuwaitis and one american held in this underground prison that people forgot about. so we went into this bunker hoping to find a prison and run into these prisoners and instead we ran into a room fulls of weapons from bullets to hand grenade , land mines , rocket-propelled grenades. besides weapon , there was paperwork all over the",
+  "sentence_index" : 3,
+  "Tokens" : [ "156", "iraqi", "police", "officers", "were", "supposed", "to", "show", "up", "to", "this", "college", "to", "report", "for", "work.", "but", "instead", ",", "2,000", "showed", "up", "because", "they", "heard", "about", "it", "on", "the", "radio.", "so", "the", "whole", "college", "was", "swarmed", "with", "police", "officers", "wanting", "their", "jobs", "back.", "and", "this", "gentleman", "was", "kind", "of", "in", "charge", "of", "the", "whole", "operation", "and", "one", "man", "has", "his", "arms", "up", "yelling", "at", "him", ",", "was", "basically", "an", "angry", "officer", "demanding", "his", "job.", "we", "came", "across", "a", "checkpoint", "and", "there", "were", "about", "maybe", "five", ",", "six", "iraqi", "locals", "with", "ak-47", "machine", "guns", "and", "checking", "cars.", "those", "kind", "of", "neat", "that", "the", "iraqis", "are", "taking", "pride", "in", "the", "fall", "of", "the", "regime", "and", "wanting", "to", "restore", "order", "themselves.", "we", "had", "heard", "rumors", "of", "an", "underground", "prison.", "and", "rumor", "had", "it", "there", "was", "a", "bunch", "of", "kuwaitis", "and", "one", "american", "held", "in", "this", "underground", "prison", "that", "people", "forgot", "about.", "so", "we", "went", "into", "this", "bunker", "hoping", "to", "find", "a", "prison", "and", "run", "into", "these", "prisoners", "and", "instead", "we", "ran", "into", "a", "room", "fulls", "of", "weapons", "from", "bullets", "to", "hand", "grenade", ",", "land", "mines", ",", "rocket-propelled", "grenades.", "besides", "weapon", ",", "there", "was", "paperwork", "all", "over", "the" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "about maybe five, six iraqi locals",
+  "sentence_length" : 194,
+  "mentionArg2" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E3-38",
+    "start" : 87,
+    "end" : 87
+  },
+  "relationID" : "CNN_ENG_20030422_213527.4-R9",
+  "mentionArg1" : {
+    "extent" : "about maybe five, six iraqi locals",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E21-37",
+    "start" : 82,
+    "end" : 88
+  },
+  "id" : "CNN_ENG_20030422_213527.4-R9-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "156 iraqi police officers were supposed to show up to this college to report for work. but instead , 2,000 showed up because they heard about it on the radio. so the whole college was swarmed with police officers wanting their jobs back. and this gentleman was kind of in charge of the whole operation and one man has his arms up yelling at him , was basically an angry officer demanding his job. we came across a checkpoint and there were about maybe five , six iraqi locals with ak-47 machine guns and checking cars. those kind of neat that the iraqis are taking pride in the fall of the regime and wanting to restore order themselves. we had heard rumors of an underground prison. and rumor had it there was a bunch of kuwaitis and one american held in this underground prison that people forgot about. so we went into this bunker hoping to find a prison and run into these prisoners and instead we ran into a room fulls of weapons from bullets to hand grenade , land mines , rocket-propelled grenades. besides weapon , there was paperwork all over the",
+  "sentence_index" : 3,
+  "Tokens" : [ "156", "iraqi", "police", "officers", "were", "supposed", "to", "show", "up", "to", "this", "college", "to", "report", "for", "work.", "but", "instead", ",", "2,000", "showed", "up", "because", "they", "heard", "about", "it", "on", "the", "radio.", "so", "the", "whole", "college", "was", "swarmed", "with", "police", "officers", "wanting", "their", "jobs", "back.", "and", "this", "gentleman", "was", "kind", "of", "in", "charge", "of", "the", "whole", "operation", "and", "one", "man", "has", "his", "arms", "up", "yelling", "at", "him", ",", "was", "basically", "an", "angry", "officer", "demanding", "his", "job.", "we", "came", "across", "a", "checkpoint", "and", "there", "were", "about", "maybe", "five", ",", "six", "iraqi", "locals", "with", "ak-47", "machine", "guns", "and", "checking", "cars.", "those", "kind", "of", "neat", "that", "the", "iraqis", "are", "taking", "pride", "in", "the", "fall", "of", "the", "regime", "and", "wanting", "to", "restore", "order", "themselves.", "we", "had", "heard", "rumors", "of", "an", "underground", "prison.", "and", "rumor", "had", "it", "there", "was", "a", "bunch", "of", "kuwaitis", "and", "one", "american", "held", "in", "this", "underground", "prison", "that", "people", "forgot", "about.", "so", "we", "went", "into", "this", "bunker", "hoping", "to", "find", "a", "prison", "and", "run", "into", "these", "prisoners", "and", "instead", "we", "ran", "into", "a", "room", "fulls", "of", "weapons", "from", "bullets", "to", "hand", "grenade", ",", "land", "mines", ",", "rocket-propelled", "grenades.", "besides", "weapon", ",", "there", "was", "paperwork", "all", "over", "the" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "about maybe five, six iraqi locals with ak-47 machine guns",
+  "sentence_length" : 194,
+  "mentionArg2" : {
+    "extent" : "ak-47 machine guns",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E23-39",
+    "start" : 90,
+    "end" : 92
+  },
+  "relationID" : "CNN_ENG_20030422_213527.4-R10",
+  "mentionArg1" : {
+    "extent" : "about maybe five, six iraqi locals",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E21-37",
+    "start" : 82,
+    "end" : 88
+  },
+  "id" : "CNN_ENG_20030422_213527.4-R10-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "156 iraqi police officers were supposed to show up to this college to report for work. but instead , 2,000 showed up because they heard about it on the radio. so the whole college was swarmed with police officers wanting their jobs back. and this gentleman was kind of in charge of the whole operation and one man has his arms up yelling at him , was basically an angry officer demanding his job. we came across a checkpoint and there were about maybe five , six iraqi locals with ak-47 machine guns and checking cars. those kind of neat that the iraqis are taking pride in the fall of the regime and wanting to restore order themselves. we had heard rumors of an underground prison. and rumor had it there was a bunch of kuwaitis and one american held in this underground prison that people forgot about. so we went into this bunker hoping to find a prison and run into these prisoners and instead we ran into a room fulls of weapons from bullets to hand grenade , land mines , rocket-propelled grenades. besides weapon , there was paperwork all over the",
+  "sentence_index" : 3,
+  "Tokens" : [ "156", "iraqi", "police", "officers", "were", "supposed", "to", "show", "up", "to", "this", "college", "to", "report", "for", "work.", "but", "instead", ",", "2,000", "showed", "up", "because", "they", "heard", "about", "it", "on", "the", "radio.", "so", "the", "whole", "college", "was", "swarmed", "with", "police", "officers", "wanting", "their", "jobs", "back.", "and", "this", "gentleman", "was", "kind", "of", "in", "charge", "of", "the", "whole", "operation", "and", "one", "man", "has", "his", "arms", "up", "yelling", "at", "him", ",", "was", "basically", "an", "angry", "officer", "demanding", "his", "job.", "we", "came", "across", "a", "checkpoint", "and", "there", "were", "about", "maybe", "five", ",", "six", "iraqi", "locals", "with", "ak-47", "machine", "guns", "and", "checking", "cars.", "those", "kind", "of", "neat", "that", "the", "iraqis", "are", "taking", "pride", "in", "the", "fall", "of", "the", "regime", "and", "wanting", "to", "restore", "order", "themselves.", "we", "had", "heard", "rumors", "of", "an", "underground", "prison.", "and", "rumor", "had", "it", "there", "was", "a", "bunch", "of", "kuwaitis", "and", "one", "american", "held", "in", "this", "underground", "prison", "that", "people", "forgot", "about.", "so", "we", "went", "into", "this", "bunker", "hoping", "to", "find", "a", "prison", "and", "run", "into", "these", "prisoners", "and", "instead", "we", "ran", "into", "a", "room", "fulls", "of", "weapons", "from", "bullets", "to", "hand", "grenade", ",", "land", "mines", ",", "rocket-propelled", "grenades.", "besides", "weapon", ",", "there", "was", "paperwork", "all", "over", "the" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "and rumor had it there was a bunch of kuwaitis and one american held in this underground prison that people forgot about",
+  "sentence_length" : 194,
+  "mentionArg2" : {
+    "extent" : "this underground prison",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E28-48",
+    "start" : 141,
+    "end" : 143
+  },
+  "relationID" : "CNN_ENG_20030422_213527.4-R11",
+  "mentionArg1" : {
+    "extent" : "one american",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E30-47",
+    "start" : 137,
+    "end" : 138
+  },
+  "id" : "CNN_ENG_20030422_213527.4-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "156 iraqi police officers were supposed to show up to this college to report for work. but instead , 2,000 showed up because they heard about it on the radio. so the whole college was swarmed with police officers wanting their jobs back. and this gentleman was kind of in charge of the whole operation and one man has his arms up yelling at him , was basically an angry officer demanding his job. we came across a checkpoint and there were about maybe five , six iraqi locals with ak-47 machine guns and checking cars. those kind of neat that the iraqis are taking pride in the fall of the regime and wanting to restore order themselves. we had heard rumors of an underground prison. and rumor had it there was a bunch of kuwaitis and one american held in this underground prison that people forgot about. so we went into this bunker hoping to find a prison and run into these prisoners and instead we ran into a room fulls of weapons from bullets to hand grenade , land mines , rocket-propelled grenades. besides weapon , there was paperwork all over the",
+  "sentence_index" : 3,
+  "Tokens" : [ "156", "iraqi", "police", "officers", "were", "supposed", "to", "show", "up", "to", "this", "college", "to", "report", "for", "work.", "but", "instead", ",", "2,000", "showed", "up", "because", "they", "heard", "about", "it", "on", "the", "radio.", "so", "the", "whole", "college", "was", "swarmed", "with", "police", "officers", "wanting", "their", "jobs", "back.", "and", "this", "gentleman", "was", "kind", "of", "in", "charge", "of", "the", "whole", "operation", "and", "one", "man", "has", "his", "arms", "up", "yelling", "at", "him", ",", "was", "basically", "an", "angry", "officer", "demanding", "his", "job.", "we", "came", "across", "a", "checkpoint", "and", "there", "were", "about", "maybe", "five", ",", "six", "iraqi", "locals", "with", "ak-47", "machine", "guns", "and", "checking", "cars.", "those", "kind", "of", "neat", "that", "the", "iraqis", "are", "taking", "pride", "in", "the", "fall", "of", "the", "regime", "and", "wanting", "to", "restore", "order", "themselves.", "we", "had", "heard", "rumors", "of", "an", "underground", "prison.", "and", "rumor", "had", "it", "there", "was", "a", "bunch", "of", "kuwaitis", "and", "one", "american", "held", "in", "this", "underground", "prison", "that", "people", "forgot", "about.", "so", "we", "went", "into", "this", "bunker", "hoping", "to", "find", "a", "prison", "and", "run", "into", "these", "prisoners", "and", "instead", "we", "ran", "into", "a", "room", "fulls", "of", "weapons", "from", "bullets", "to", "hand", "grenade", ",", "land", "mines", ",", "rocket-propelled", "grenades.", "besides", "weapon", ",", "there", "was", "paperwork", "all", "over", "the" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a bunch of kuwaitis and one american held in this underground prison that people forgot about",
+  "sentence_length" : 194,
+  "mentionArg2" : {
+    "extent" : "this underground prison",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E28-48",
+    "start" : 141,
+    "end" : 143
+  },
+  "relationID" : "CNN_ENG_20030422_213527.4-R12",
+  "mentionArg1" : {
+    "extent" : "a bunch of kuwaitis",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E29-46",
+    "start" : 132,
+    "end" : 135
+  },
+  "id" : "CNN_ENG_20030422_213527.4-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "156 iraqi police officers were supposed to show up to this college to report for work. but instead , 2,000 showed up because they heard about it on the radio. so the whole college was swarmed with police officers wanting their jobs back. and this gentleman was kind of in charge of the whole operation and one man has his arms up yelling at him , was basically an angry officer demanding his job. we came across a checkpoint and there were about maybe five , six iraqi locals with ak-47 machine guns and checking cars. those kind of neat that the iraqis are taking pride in the fall of the regime and wanting to restore order themselves. we had heard rumors of an underground prison. and rumor had it there was a bunch of kuwaitis and one american held in this underground prison that people forgot about. so we went into this bunker hoping to find a prison and run into these prisoners and instead we ran into a room fulls of weapons from bullets to hand grenade , land mines , rocket-propelled grenades. besides weapon , there was paperwork all over the",
+  "sentence_index" : 3,
+  "Tokens" : [ "156", "iraqi", "police", "officers", "were", "supposed", "to", "show", "up", "to", "this", "college", "to", "report", "for", "work.", "but", "instead", ",", "2,000", "showed", "up", "because", "they", "heard", "about", "it", "on", "the", "radio.", "so", "the", "whole", "college", "was", "swarmed", "with", "police", "officers", "wanting", "their", "jobs", "back.", "and", "this", "gentleman", "was", "kind", "of", "in", "charge", "of", "the", "whole", "operation", "and", "one", "man", "has", "his", "arms", "up", "yelling", "at", "him", ",", "was", "basically", "an", "angry", "officer", "demanding", "his", "job.", "we", "came", "across", "a", "checkpoint", "and", "there", "were", "about", "maybe", "five", ",", "six", "iraqi", "locals", "with", "ak-47", "machine", "guns", "and", "checking", "cars.", "those", "kind", "of", "neat", "that", "the", "iraqis", "are", "taking", "pride", "in", "the", "fall", "of", "the", "regime", "and", "wanting", "to", "restore", "order", "themselves.", "we", "had", "heard", "rumors", "of", "an", "underground", "prison.", "and", "rumor", "had", "it", "there", "was", "a", "bunch", "of", "kuwaitis", "and", "one", "american", "held", "in", "this", "underground", "prison", "that", "people", "forgot", "about.", "so", "we", "went", "into", "this", "bunker", "hoping", "to", "find", "a", "prison", "and", "run", "into", "these", "prisoners", "and", "instead", "we", "ran", "into", "a", "room", "fulls", "of", "weapons", "from", "bullets", "to", "hand", "grenade", ",", "land", "mines", ",", "rocket-propelled", "grenades.", "besides", "weapon", ",", "there", "was", "paperwork", "all", "over", "the" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "so we went into this bunker hoping to find a prison and run into these prisoners and instead we ran into a room fulls of weapons from bullets to hand grenade, land mines, rocket-propelled grenades",
+  "sentence_length" : 194,
+  "mentionArg2" : {
+    "extent" : "this bunker",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E32-51",
+    "start" : 152,
+    "end" : 153
+  },
+  "relationID" : "CNN_ENG_20030422_213527.4-R13",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "CNN_ENG_20030422_213527.4-E20-50",
+    "start" : 149,
+    "end" : 149
+  },
+  "id" : "CNN_ENG_20030422_213527.4-R13-1",
+  "relationSubType" : "Located",
+  "Sentence" : "156 iraqi police officers were supposed to show up to this college to report for work. but instead , 2,000 showed up because they heard about it on the radio. so the whole college was swarmed with police officers wanting their jobs back. and this gentleman was kind of in charge of the whole operation and one man has his arms up yelling at him , was basically an angry officer demanding his job. we came across a checkpoint and there were about maybe five , six iraqi locals with ak-47 machine guns and checking cars. those kind of neat that the iraqis are taking pride in the fall of the regime and wanting to restore order themselves. we had heard rumors of an underground prison. and rumor had it there was a bunch of kuwaitis and one american held in this underground prison that people forgot about. so we went into this bunker hoping to find a prison and run into these prisoners and instead we ran into a room fulls of weapons from bullets to hand grenade , land mines , rocket-propelled grenades. besides weapon , there was paperwork all over the",
+  "sentence_index" : 3,
+  "Tokens" : [ "156", "iraqi", "police", "officers", "were", "supposed", "to", "show", "up", "to", "this", "college", "to", "report", "for", "work.", "but", "instead", ",", "2,000", "showed", "up", "because", "they", "heard", "about", "it", "on", "the", "radio.", "so", "the", "whole", "college", "was", "swarmed", "with", "police", "officers", "wanting", "their", "jobs", "back.", "and", "this", "gentleman", "was", "kind", "of", "in", "charge", "of", "the", "whole", "operation", "and", "one", "man", "has", "his", "arms", "up", "yelling", "at", "him", ",", "was", "basically", "an", "angry", "officer", "demanding", "his", "job.", "we", "came", "across", "a", "checkpoint", "and", "there", "were", "about", "maybe", "five", ",", "six", "iraqi", "locals", "with", "ak-47", "machine", "guns", "and", "checking", "cars.", "those", "kind", "of", "neat", "that", "the", "iraqis", "are", "taking", "pride", "in", "the", "fall", "of", "the", "regime", "and", "wanting", "to", "restore", "order", "themselves.", "we", "had", "heard", "rumors", "of", "an", "underground", "prison.", "and", "rumor", "had", "it", "there", "was", "a", "bunch", "of", "kuwaitis", "and", "one", "american", "held", "in", "this", "underground", "prison", "that", "people", "forgot", "about.", "so", "we", "went", "into", "this", "bunker", "hoping", "to", "find", "a", "prison", "and", "run", "into", "these", "prisoners", "and", "instead", "we", "ran", "into", "a", "room", "fulls", "of", "weapons", "from", "bullets", "to", "hand", "grenade", ",", "land", "mines", ",", "rocket-propelled", "grenades.", "besides", "weapon", ",", "there", "was", "paperwork", "all", "over", "the" ]
+} ]

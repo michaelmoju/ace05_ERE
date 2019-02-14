@@ -1,0 +1,67 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "vanity fair fashion director",
+  "sentence_length" : 132,
+  "mentionArg2" : {
+    "extent" : "vanity fair",
+    "argMentionid" : "CNN_ENG_20030618_193127.17-E10-34",
+    "start" : 110,
+    "end" : 111
+  },
+  "relationID" : "CNN_ENG_20030618_193127.17-R1",
+  "mentionArg1" : {
+    "extent" : "vanity fair fashion director",
+    "argMentionid" : "CNN_ENG_20030618_193127.17-E17-33",
+    "start" : 110,
+    "end" : 113
+  },
+  "id" : "CNN_ENG_20030618_193127.17-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "it has little to do with their artistic vision. one star told vanity fair their favorite author is whoever wrote the bible. these kids are at that magical age when new multibillion declare spending power is put in service of intense peer pressure leading to brand loyalties that can last a lifetime. the flip side between stars , though , is once the fans grow up their star power may dim. do n't believe in just ask one of the coreys. these tweens are everywhere. they 're right on the cover of vanity fair. tweens are all over it. that 's the issue right there. so we have with us vanity fair fashion director elizabeth olsen. i was shocked when i saw them covers the tweens. why are they so important ?",
+  "sentence_index" : 1,
+  "Tokens" : [ "it", "has", "little", "to", "do", "with", "their", "artistic", "vision.", "one", "star", "told", "vanity", "fair", "their", "favorite", "author", "is", "whoever", "wrote", "the", "bible.", "these", "kids", "are", "at", "that", "magical", "age", "when", "new", "multibillion", "declare", "spending", "power", "is", "put", "in", "service", "of", "intense", "peer", "pressure", "leading", "to", "brand", "loyalties", "that", "can", "last", "a", "lifetime.", "the", "flip", "side", "between", "stars", ",", "though", ",", "is", "once", "the", "fans", "grow", "up", "their", "star", "power", "may", "dim.", "do", "n't", "believe", "in", "just", "ask", "one", "of", "the", "coreys.", "these", "tweens", "are", "everywhere.", "they", "'re", "right", "on", "the", "cover", "of", "vanity", "fair.", "tweens", "are", "all", "over", "it.", "that", "'s", "the", "issue", "right", "there.", "so", "we", "have", "with", "us", "vanity", "fair", "fashion", "director", "elizabeth", "olsen.", "i", "was", "shocked", "when", "i", "saw", "them", "covers", "the", "tweens.", "why", "are", "they", "so", "important", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "their company",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "their company",
+    "argMentionid" : "CNN_ENG_20030618_193127.17-E33-82",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNN_ENG_20030618_193127.17-R2",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_ENG_20030618_193127.17-E30-83",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "CNN_ENG_20030618_193127.17-R2-1",
+  "relationSubType" : "Ownership",
+  "Sentence" : "had she only known. i think their company is called dual star , like a gross of a billion dollars last year .",
+  "sentence_index" : 15,
+  "Tokens" : [ "had", "she", "only", "known.", "i", "think", "their", "company", "is", "called", "dual", "star", ",", "like", "a", "gross", "of", "a", "billion", "dollars", "last", "year", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their parents",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "their parents",
+    "argMentionid" : "CNN_ENG_20030618_193127.17-E42-111",
+    "start" : 28,
+    "end" : 29
+  },
+  "relationID" : "CNN_ENG_20030618_193127.17-R3",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_ENG_20030618_193127.17-E23-112",
+    "start" : 28,
+    "end" : 28
+  },
+  "id" : "CNN_ENG_20030618_193127.17-R3-1",
+  "relationSubType" : "Family",
+  "Sentence" : "one ca n't predict that all have it , but some have it. it depends on who 's managing it , what career choices they make , what their parents help them to do .",
+  "sentence_index" : 23,
+  "Tokens" : [ "one", "ca", "n't", "predict", "that", "all", "have", "it", ",", "but", "some", "have", "it.", "it", "depends", "on", "who", "'s", "managing", "it", ",", "what", "career", "choices", "they", "make", ",", "what", "their", "parents", "help", "them", "to", "do", "." ]
+} ]

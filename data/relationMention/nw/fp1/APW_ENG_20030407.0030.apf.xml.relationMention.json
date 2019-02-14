@@ -1,0 +1,2267 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "American troops",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "APW_ENG_20030407.0030-E2-215",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030407.0030-R1",
+  "mentionArg1" : {
+    "extent" : "American troops",
+    "argMentionid" : "APW_ENG_20030407.0030-E132-143",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030407.0030-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "NEAR BAGHDAD ( AP ) American troops stormed a presidential palace and other key buildings in Baghdad as U.S. tanks rumbled into the heart of the battered Iraqi capital on Monday amid the thunder of gunfire and explosions .",
+  "sentence_index" : 0,
+  "Tokens" : [ "NEAR", "BAGHDAD", "(", "AP", ")", "American", "troops", "stormed", "a", "presidential", "palace", "and", "other", "key", "buildings", "in", "Baghdad", "as", "U.S.", "tanks", "rumbled", "into", "the", "heart", "of", "the", "battered", "Iraqi", "capital", "on", "Monday", "amid", "the", "thunder", "of", "gunfire", "and", "explosions", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a presidential palace and other key buildings in Baghdad",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "APW_ENG_20030407.0030-E8-253",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "APW_ENG_20030407.0030-R2",
+  "mentionArg1" : {
+    "extent" : "a presidential palace and other key buildings in Baghdad",
+    "argMentionid" : "APW_ENG_20030407.0030-E21-250",
+    "start" : 8,
+    "end" : 16
+  },
+  "id" : "APW_ENG_20030407.0030-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "NEAR BAGHDAD ( AP ) American troops stormed a presidential palace and other key buildings in Baghdad as U.S. tanks rumbled into the heart of the battered Iraqi capital on Monday amid the thunder of gunfire and explosions .",
+  "sentence_index" : 0,
+  "Tokens" : [ "NEAR", "BAGHDAD", "(", "AP", ")", "American", "troops", "stormed", "a", "presidential", "palace", "and", "other", "key", "buildings", "in", "Baghdad", "as", "U.S.", "tanks", "rumbled", "into", "the", "heart", "of", "the", "battered", "Iraqi", "capital", "on", "Monday", "amid", "the", "thunder", "of", "gunfire", "and", "explosions", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a presidential palace and other key buildings in Baghdad",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "a presidential palace and other key buildings in Baghdad",
+    "argMentionid" : "APW_ENG_20030407.0030-E21-250",
+    "start" : 8,
+    "end" : 16
+  },
+  "relationID" : "APW_ENG_20030407.0030-R3",
+  "mentionArg1" : {
+    "extent" : "a presidential palace and other key buildings in Baghdad",
+    "argMentionid" : "APW_ENG_20030407.0030-E186-251",
+    "start" : 8,
+    "end" : 16
+  },
+  "id" : "APW_ENG_20030407.0030-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "NEAR BAGHDAD ( AP ) American troops stormed a presidential palace and other key buildings in Baghdad as U.S. tanks rumbled into the heart of the battered Iraqi capital on Monday amid the thunder of gunfire and explosions .",
+  "sentence_index" : 0,
+  "Tokens" : [ "NEAR", "BAGHDAD", "(", "AP", ")", "American", "troops", "stormed", "a", "presidential", "palace", "and", "other", "key", "buildings", "in", "Baghdad", "as", "U.S.", "tanks", "rumbled", "into", "the", "heart", "of", "the", "battered", "Iraqi", "capital", "on", "Monday", "amid", "the", "thunder", "of", "gunfire", "and", "explosions", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "U.S. tanks",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "U.S. tanks",
+    "argMentionid" : "APW_ENG_20030407.0030-E188-254",
+    "start" : 18,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030407.0030-R4",
+  "mentionArg1" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030407.0030-E2-255",
+    "start" : 18,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030407.0030-R4-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "NEAR BAGHDAD ( AP ) American troops stormed a presidential palace and other key buildings in Baghdad as U.S. tanks rumbled into the heart of the battered Iraqi capital on Monday amid the thunder of gunfire and explosions .",
+  "sentence_index" : 0,
+  "Tokens" : [ "NEAR", "BAGHDAD", "(", "AP", ")", "American", "troops", "stormed", "a", "presidential", "palace", "and", "other", "key", "buildings", "in", "Baghdad", "as", "U.S.", "tanks", "rumbled", "into", "the", "heart", "of", "the", "battered", "Iraqi", "capital", "on", "Monday", "amid", "the", "thunder", "of", "gunfire", "and", "explosions", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the heart of the battered Iraqi capital",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "the battered Iraqi capital",
+    "argMentionid" : "APW_ENG_20030407.0030-E8-259",
+    "start" : 25,
+    "end" : 28
+  },
+  "relationID" : "APW_ENG_20030407.0030-R5",
+  "mentionArg1" : {
+    "extent" : "the heart of the battered Iraqi capital",
+    "argMentionid" : "APW_ENG_20030407.0030-E191-258",
+    "start" : 22,
+    "end" : 28
+  },
+  "id" : "APW_ENG_20030407.0030-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "NEAR BAGHDAD ( AP ) American troops stormed a presidential palace and other key buildings in Baghdad as U.S. tanks rumbled into the heart of the battered Iraqi capital on Monday amid the thunder of gunfire and explosions .",
+  "sentence_index" : 0,
+  "Tokens" : [ "NEAR", "BAGHDAD", "(", "AP", ")", "American", "troops", "stormed", "a", "presidential", "palace", "and", "other", "key", "buildings", "in", "Baghdad", "as", "U.S.", "tanks", "rumbled", "into", "the", "heart", "of", "the", "battered", "Iraqi", "capital", "on", "Monday", "amid", "the", "thunder", "of", "gunfire", "and", "explosions", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the heart of Baghdad",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "APW_ENG_20030407.0030-E8-10",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030407.0030-R5",
+  "mentionArg1" : {
+    "extent" : "the heart of Baghdad",
+    "argMentionid" : "APW_ENG_20030407.0030-E191-9",
+    "start" : 6,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030407.0030-R5-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Reporters saw the tanks roll into the heart of Baghdad on the western side of the Tigris River , which divides the city .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Reporters", "saw", "the", "tanks", "roll", "into", "the", "heart", "of", "Baghdad", "on", "the", "western", "side", "of", "the", "Tigris", "River", ",", "which", "divides", "the", "city", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the battered Iraqi capital",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030407.0030-E39-260",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "APW_ENG_20030407.0030-R6",
+  "mentionArg1" : {
+    "extent" : "the battered Iraqi capital",
+    "argMentionid" : "APW_ENG_20030407.0030-E8-259",
+    "start" : 25,
+    "end" : 28
+  },
+  "id" : "APW_ENG_20030407.0030-R6-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "NEAR BAGHDAD ( AP ) American troops stormed a presidential palace and other key buildings in Baghdad as U.S. tanks rumbled into the heart of the battered Iraqi capital on Monday amid the thunder of gunfire and explosions .",
+  "sentence_index" : 0,
+  "Tokens" : [ "NEAR", "BAGHDAD", "(", "AP", ")", "American", "troops", "stormed", "a", "presidential", "palace", "and", "other", "key", "buildings", "in", "Baghdad", "as", "U.S.", "tanks", "rumbled", "into", "the", "heart", "of", "the", "battered", "Iraqi", "capital", "on", "Monday", "amid", "the", "thunder", "of", "gunfire", "and", "explosions", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Iraqi capital",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030407.0030-E39-83",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "APW_ENG_20030407.0030-R6",
+  "mentionArg1" : {
+    "extent" : "the Iraqi capital",
+    "argMentionid" : "APW_ENG_20030407.0030-E8-100",
+    "start" : 23,
+    "end" : 25
+  },
+  "id" : "APW_ENG_20030407.0030-R6-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Gen. Peter Pace , vice chairman of the U.S. Joint Chiefs of Staff , told CNN that U.S. forces drove though portions of the Iraqi capital , seizing Iraqi tanks and armored personnel carriers .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Gen.", "Peter", "Pace", ",", "vice", "chairman", "of", "the", "U.S.", "Joint", "Chiefs", "of", "Staff", ",", "told", "CNN", "that", "U.S.", "forces", "drove", "though", "portions", "of", "the", "Iraqi", "capital", ",", "seizing", "Iraqi", "tanks", "and", "armored", "personnel", "carriers", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "American troops stormed a presidential palace and other key buildings in Baghdad as U.S. tanks rumbled into the heart of the battered Iraqi capital on Monday amid the thunder of gunfire and explosions",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "a presidential palace and other key buildings in Baghdad",
+    "argMentionid" : "APW_ENG_20030407.0030-E21-250",
+    "start" : 8,
+    "end" : 16
+  },
+  "relationID" : "APW_ENG_20030407.0030-R7",
+  "mentionArg1" : {
+    "extent" : "American troops",
+    "argMentionid" : "APW_ENG_20030407.0030-E132-143",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030407.0030-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "NEAR BAGHDAD ( AP ) American troops stormed a presidential palace and other key buildings in Baghdad as U.S. tanks rumbled into the heart of the battered Iraqi capital on Monday amid the thunder of gunfire and explosions .",
+  "sentence_index" : 0,
+  "Tokens" : [ "NEAR", "BAGHDAD", "(", "AP", ")", "American", "troops", "stormed", "a", "presidential", "palace", "and", "other", "key", "buildings", "in", "Baghdad", "as", "U.S.", "tanks", "rumbled", "into", "the", "heart", "of", "the", "battered", "Iraqi", "capital", "on", "Monday", "amid", "the", "thunder", "of", "gunfire", "and", "explosions", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "American troops stormed a presidential palace and other key buildings in Baghdad as U.S. tanks rumbled into the heart of the battered Iraqi capital on Monday amid the thunder of gunfire and explosions",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "a presidential palace and other key buildings in Baghdad",
+    "argMentionid" : "APW_ENG_20030407.0030-E186-251",
+    "start" : 8,
+    "end" : 16
+  },
+  "relationID" : "APW_ENG_20030407.0030-R8",
+  "mentionArg1" : {
+    "extent" : "American troops",
+    "argMentionid" : "APW_ENG_20030407.0030-E132-143",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030407.0030-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "NEAR BAGHDAD ( AP ) American troops stormed a presidential palace and other key buildings in Baghdad as U.S. tanks rumbled into the heart of the battered Iraqi capital on Monday amid the thunder of gunfire and explosions .",
+  "sentence_index" : 0,
+  "Tokens" : [ "NEAR", "BAGHDAD", "(", "AP", ")", "American", "troops", "stormed", "a", "presidential", "palace", "and", "other", "key", "buildings", "in", "Baghdad", "as", "U.S.", "tanks", "rumbled", "into", "the", "heart", "of", "the", "battered", "Iraqi", "capital", "on", "Monday", "amid", "the", "thunder", "of", "gunfire", "and", "explosions", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Buildings occupied by U.S. troops included Saddam Hussein's newest presidential palace, the Information Ministry and the Al-Rashid Hotel",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Buildings occupied by U.S. troops",
+    "argMentionid" : "APW_ENG_20030407.0030-E195-261",
+    "start" : 0,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030407.0030-R9",
+  "mentionArg1" : {
+    "extent" : "U.S. troops",
+    "argMentionid" : "APW_ENG_20030407.0030-E1-262",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030407.0030-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Buildings occupied by U.S. troops included Saddam Hussein 's newest presidential palace , the Information Ministry and the Al-Rashid Hotel .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Buildings", "occupied", "by", "U.S.", "troops", "included", "Saddam", "Hussein", "'s", "newest", "presidential", "palace", ",", "the", "Information", "Ministry", "and", "the", "Al-Rashid", "Hotel", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. troops",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030407.0030-E2-2",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030407.0030-R10",
+  "mentionArg1" : {
+    "extent" : "U.S. troops",
+    "argMentionid" : "APW_ENG_20030407.0030-E1-262",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030407.0030-R10-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Buildings occupied by U.S. troops included Saddam Hussein 's newest presidential palace , the Information Ministry and the Al-Rashid Hotel .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Buildings", "occupied", "by", "U.S.", "troops", "included", "Saddam", "Hussein", "'s", "newest", "presidential", "palace", ",", "the", "Information", "Ministry", "and", "the", "Al-Rashid", "Hotel", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Saddam Hussein's newest presidential palace",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Saddam Hussein's newest presidential palace",
+    "argMentionid" : "APW_ENG_20030407.0030-E21-3",
+    "start" : 6,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030407.0030-R11",
+  "mentionArg1" : {
+    "extent" : "Saddam Hussein",
+    "argMentionid" : "APW_ENG_20030407.0030-E3-4",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030407.0030-R11-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Buildings occupied by U.S. troops included Saddam Hussein 's newest presidential palace , the Information Ministry and the Al-Rashid Hotel .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Buildings", "occupied", "by", "U.S.", "troops", "included", "Saddam", "Hussein", "'s", "newest", "presidential", "palace", ",", "the", "Information", "Ministry", "and", "the", "Al-Rashid", "Hotel", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the western side of the Tigris River, which divides the city",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "the Tigris River, which divides the city",
+    "argMentionid" : "APW_ENG_20030407.0030-E10-12",
+    "start" : 15,
+    "end" : 22
+  },
+  "relationID" : "APW_ENG_20030407.0030-R13",
+  "mentionArg1" : {
+    "extent" : "the western side of the Tigris River, which divides the city",
+    "argMentionid" : "APW_ENG_20030407.0030-E9-11",
+    "start" : 11,
+    "end" : 22
+  },
+  "id" : "APW_ENG_20030407.0030-R13-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Reporters saw the tanks roll into the heart of Baghdad on the western side of the Tigris River , which divides the city .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Reporters", "saw", "the", "tanks", "roll", "into", "the", "heart", "of", "Baghdad", "on", "the", "western", "side", "of", "the", "Tigris", "River", ",", "which", "divides", "the", "city", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Reporters saw the tanks roll into the heart of Baghdad on the western side of the Tigris River, which divides the city",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "the city",
+    "argMentionid" : "APW_ENG_20030407.0030-E8-14",
+    "start" : 21,
+    "end" : 22
+  },
+  "relationID" : "APW_ENG_20030407.0030-R14",
+  "mentionArg1" : {
+    "extent" : "which",
+    "argMentionid" : "APW_ENG_20030407.0030-E10-13",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030407.0030-R14-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Reporters saw the tanks roll into the heart of Baghdad on the western side of the Tigris River , which divides the city .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Reporters", "saw", "the", "tanks", "roll", "into", "the", "heart", "of", "Baghdad", "on", "the", "western", "side", "of", "the", "Tigris", "River", ",", "which", "divides", "the", "city", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. columns",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030407.0030-E2-16",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030407.0030-R15",
+  "mentionArg1" : {
+    "extent" : "U.S. columns",
+    "argMentionid" : "APW_ENG_20030407.0030-E11-15",
+    "start" : 1,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030407.0030-R15-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "As U.S. columns moved northeast along the Tigris river , Iraqis fled along its banks and some jumped in the water .",
+  "sentence_index" : 3,
+  "Tokens" : [ "As", "U.S.", "columns", "moved", "northeast", "along", "the", "Tigris", "river", ",", "Iraqis", "fled", "along", "its", "banks", "and", "some", "jumped", "in", "the", "water", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "As U.S. columns moved northeast along the Tigris river, Iraqis fled along its banks and some jumped in the water",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "the Tigris river",
+    "argMentionid" : "APW_ENG_20030407.0030-E10-17",
+    "start" : 6,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030407.0030-R16",
+  "mentionArg1" : {
+    "extent" : "U.S. columns",
+    "argMentionid" : "APW_ENG_20030407.0030-E11-15",
+    "start" : 1,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030407.0030-R16-1",
+  "relationSubType" : "Located",
+  "Sentence" : "As U.S. columns moved northeast along the Tigris river , Iraqis fled along its banks and some jumped in the water .",
+  "sentence_index" : 3,
+  "Tokens" : [ "As", "U.S.", "columns", "moved", "northeast", "along", "the", "Tigris", "river", ",", "Iraqis", "fled", "along", "its", "banks", "and", "some", "jumped", "in", "the", "water", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "As U.S. columns moved northeast along the Tigris river, Iraqis fled along its banks and some jumped in the water",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "its banks",
+    "argMentionid" : "APW_ENG_20030407.0030-E14-19",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030407.0030-R17",
+  "mentionArg1" : {
+    "extent" : "Iraqis",
+    "argMentionid" : "APW_ENG_20030407.0030-E13-18",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030407.0030-R17-1",
+  "relationSubType" : "Located",
+  "Sentence" : "As U.S. columns moved northeast along the Tigris river , Iraqis fled along its banks and some jumped in the water .",
+  "sentence_index" : 3,
+  "Tokens" : [ "As", "U.S.", "columns", "moved", "northeast", "along", "the", "Tigris", "river", ",", "Iraqis", "fled", "along", "its", "banks", "and", "some", "jumped", "in", "the", "water", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "As U.S. columns moved northeast along the Tigris river, Iraqis fled along its banks and some jumped in the water",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "the water",
+    "argMentionid" : "APW_ENG_20030407.0030-E10-22",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "APW_ENG_20030407.0030-R18",
+  "mentionArg1" : {
+    "extent" : "some",
+    "argMentionid" : "APW_ENG_20030407.0030-E15-21",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "APW_ENG_20030407.0030-R18-1",
+  "relationSubType" : "Located",
+  "Sentence" : "As U.S. columns moved northeast along the Tigris river , Iraqis fled along its banks and some jumped in the water .",
+  "sentence_index" : 3,
+  "Tokens" : [ "As", "U.S.", "columns", "moved", "northeast", "along", "the", "Tigris", "river", ",", "Iraqis", "fled", "along", "its", "banks", "and", "some", "jumped", "in", "the", "water", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "its banks",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "its",
+    "argMentionid" : "APW_ENG_20030407.0030-E10-20",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030407.0030-R19",
+  "mentionArg1" : {
+    "extent" : "its banks",
+    "argMentionid" : "APW_ENG_20030407.0030-E14-19",
+    "start" : 13,
+    "end" : 14
+  },
+  "id" : "APW_ENG_20030407.0030-R19-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "As U.S. columns moved northeast along the Tigris river , Iraqis fled along its banks and some jumped in the water .",
+  "sentence_index" : 3,
+  "Tokens" : [ "As", "U.S.", "columns", "moved", "northeast", "along", "the", "Tigris", "river", ",", "Iraqis", "fled", "along", "its", "banks", "and", "some", "jumped", "in", "the", "water", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "An ammunition depot across the river was on fire",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "the river",
+    "argMentionid" : "APW_ENG_20030407.0030-E10-24",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030407.0030-R20",
+  "mentionArg1" : {
+    "extent" : "An ammunition depot across the river",
+    "argMentionid" : "APW_ENG_20030407.0030-E16-23",
+    "start" : 0,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030407.0030-R20-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "An ammunition depot across the river was on fire .",
+  "sentence_index" : 4,
+  "Tokens" : [ "An", "ammunition", "depot", "across", "the", "river", "was", "on", "fire", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the palace compound",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "the palace compound",
+    "argMentionid" : "APW_ENG_20030407.0030-E20-28",
+    "start" : 1,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030407.0030-R21",
+  "mentionArg1" : {
+    "extent" : "palace",
+    "argMentionid" : "APW_ENG_20030407.0030-E21-29",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030407.0030-R21-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "At the palace compound , Iraqis shot small arms fire from a clock tower , which the U.S. tanks quickly destroyed .",
+  "sentence_index" : 6,
+  "Tokens" : [ "At", "the", "palace", "compound", ",", "Iraqis", "shot", "small", "arms", "fire", "from", "a", "clock", "tower", ",", "which", "the", "U.S.", "tanks", "quickly", "destroyed", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the U.S. tanks",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "the U.S. tanks",
+    "argMentionid" : "APW_ENG_20030407.0030-E17-37",
+    "start" : 16,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030407.0030-R22",
+  "mentionArg1" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030407.0030-E2-38",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030407.0030-R22-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "At the palace compound , Iraqis shot small arms fire from a clock tower , which the U.S. tanks quickly destroyed .",
+  "sentence_index" : 6,
+  "Tokens" : [ "At", "the", "palace", "compound", ",", "Iraqis", "shot", "small", "arms", "fire", "from", "a", "clock", "tower", ",", "which", "the", "U.S.", "tanks", "quickly", "destroyed", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "At the palace compound, Iraqis shot small arms fire from a clock tower, which the U.S. tanks quickly destroyed",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "the palace compound",
+    "argMentionid" : "APW_ENG_20030407.0030-E20-28",
+    "start" : 1,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030407.0030-R23",
+  "mentionArg1" : {
+    "extent" : "Iraqis",
+    "argMentionid" : "APW_ENG_20030407.0030-E22-30",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030407.0030-R23-1",
+  "relationSubType" : "Located",
+  "Sentence" : "At the palace compound , Iraqis shot small arms fire from a clock tower , which the U.S. tanks quickly destroyed .",
+  "sentence_index" : 6,
+  "Tokens" : [ "At", "the", "palace", "compound", ",", "Iraqis", "shot", "small", "arms", "fire", "from", "a", "clock", "tower", ",", "which", "the", "U.S.", "tanks", "quickly", "destroyed", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "At the palace compound, Iraqis shot small arms fire from a clock tower, which the U.S. tanks quickly destroyed",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "small arms fire",
+    "argMentionid" : "APW_ENG_20030407.0030-E24-33",
+    "start" : 7,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030407.0030-R24",
+  "mentionArg1" : {
+    "extent" : "Iraqis",
+    "argMentionid" : "APW_ENG_20030407.0030-E22-30",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030407.0030-R24-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "At the palace compound , Iraqis shot small arms fire from a clock tower , which the U.S. tanks quickly destroyed .",
+  "sentence_index" : 6,
+  "Tokens" : [ "At", "the", "palace", "compound", ",", "Iraqis", "shot", "small", "arms", "fire", "from", "a", "clock", "tower", ",", "which", "the", "U.S.", "tanks", "quickly", "destroyed", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "At the palace compound, Iraqis shot small arms fire from a clock tower, which the U.S. tanks quickly destroyed",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "a clock tower, which the U.S. tanks quickly destroyed",
+    "argMentionid" : "APW_ENG_20030407.0030-E26-35",
+    "start" : 11,
+    "end" : 20
+  },
+  "relationID" : "APW_ENG_20030407.0030-R25",
+  "mentionArg1" : {
+    "extent" : "Iraqis",
+    "argMentionid" : "APW_ENG_20030407.0030-E22-30",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030407.0030-R25-1",
+  "relationSubType" : "Located",
+  "Sentence" : "At the palace compound , Iraqis shot small arms fire from a clock tower , which the U.S. tanks quickly destroyed .",
+  "sentence_index" : 6,
+  "Tokens" : [ "At", "the", "palace", "compound", ",", "Iraqis", "shot", "small", "arms", "fire", "from", "a", "clock", "tower", ",", "which", "the", "U.S.", "tanks", "quickly", "destroyed", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Most of the compound",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "the compound",
+    "argMentionid" : "APW_ENG_20030407.0030-E20-40",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030407.0030-R26",
+  "mentionArg1" : {
+    "extent" : "Most of the compound",
+    "argMentionid" : "APW_ENG_20030407.0030-E29-39",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "APW_ENG_20030407.0030-R26-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Most of the compound was severely damaged from prior U.S. raids .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Most", "of", "the", "compound", "was", "severely", "damaged", "from", "prior", "U.S.", "raids", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a brigade commander of the 3rd Infantry",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "the 3rd Infantry",
+    "argMentionid" : "APW_ENG_20030407.0030-E33-46",
+    "start" : 8,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030407.0030-R27",
+  "mentionArg1" : {
+    "extent" : "a brigade commander of the 3rd Infantry",
+    "argMentionid" : "APW_ENG_20030407.0030-E31-45",
+    "start" : 4,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030407.0030-R27-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Col. David Perkins , a brigade commander of the 3rd Infantry , told his troops before the operation that the mission was intended to be `` a dramatic show of force '' to demonstrate that U.S. forces can enter Baghdad at any time , anywhere .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Col.", "David", "Perkins", ",", "a", "brigade", "commander", "of", "the", "3rd", "Infantry", ",", "told", "his", "troops", "before", "the", "operation", "that", "the", "mission", "was", "intended", "to", "be", "``", "a", "dramatic", "show", "of", "force", "''", "to", "demonstrate", "that", "U.S.", "forces", "can", "enter", "Baghdad", "at", "any", "time", ",", "anywhere", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his troops",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "his troops",
+    "argMentionid" : "APW_ENG_20030407.0030-E34-47",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030407.0030-R28",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "APW_ENG_20030407.0030-E31-48",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030407.0030-R28-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Col. David Perkins , a brigade commander of the 3rd Infantry , told his troops before the operation that the mission was intended to be `` a dramatic show of force '' to demonstrate that U.S. forces can enter Baghdad at any time , anywhere .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Col.", "David", "Perkins", ",", "a", "brigade", "commander", "of", "the", "3rd", "Infantry", ",", "told", "his", "troops", "before", "the", "operation", "that", "the", "mission", "was", "intended", "to", "be", "``", "a", "dramatic", "show", "of", "force", "''", "to", "demonstrate", "that", "U.S.", "forces", "can", "enter", "Baghdad", "at", "any", "time", ",", "anywhere", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. forces",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030407.0030-E2-50",
+    "start" : 35,
+    "end" : 35
+  },
+  "relationID" : "APW_ENG_20030407.0030-R29",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "APW_ENG_20030407.0030-E35-49",
+    "start" : 35,
+    "end" : 36
+  },
+  "id" : "APW_ENG_20030407.0030-R29-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Col. David Perkins , a brigade commander of the 3rd Infantry , told his troops before the operation that the mission was intended to be `` a dramatic show of force '' to demonstrate that U.S. forces can enter Baghdad at any time , anywhere .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Col.", "David", "Perkins", ",", "a", "brigade", "commander", "of", "the", "3rd", "Infantry", ",", "told", "his", "troops", "before", "the", "operation", "that", "the", "mission", "was", "intended", "to", "be", "``", "a", "dramatic", "show", "of", "force", "''", "to", "demonstrate", "that", "U.S.", "forces", "can", "enter", "Baghdad", "at", "any", "time", ",", "anywhere", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Col. David Perkins, a brigade commander of the 3rd Infantry, told his troops before the operation that the mission was intended to be ``a dramatic show of force'' to demonstrate that U.S. forces can enter Baghdad at any time, anywhere",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "APW_ENG_20030407.0030-E8-51",
+    "start" : 39,
+    "end" : 39
+  },
+  "relationID" : "APW_ENG_20030407.0030-R30",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "APW_ENG_20030407.0030-E35-49",
+    "start" : 35,
+    "end" : 36
+  },
+  "id" : "APW_ENG_20030407.0030-R30-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Col. David Perkins , a brigade commander of the 3rd Infantry , told his troops before the operation that the mission was intended to be `` a dramatic show of force '' to demonstrate that U.S. forces can enter Baghdad at any time , anywhere .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Col.", "David", "Perkins", ",", "a", "brigade", "commander", "of", "the", "3rd", "Infantry", ",", "told", "his", "troops", "before", "the", "operation", "that", "the", "mission", "was", "intended", "to", "be", "``", "a", "dramatic", "show", "of", "force", "''", "to", "demonstrate", "that", "U.S.", "forces", "can", "enter", "Baghdad", "at", "any", "time", ",", "anywhere", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. armor",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030407.0030-E2-63",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030407.0030-R31",
+  "mentionArg1" : {
+    "extent" : "U.S. armor",
+    "argMentionid" : "APW_ENG_20030407.0030-E44-62",
+    "start" : 4,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030407.0030-R31-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Monday 's incursion by U.S. armor was the second , but appeared to be much heavier .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Monday", "'s", "incursion", "by", "U.S.", "armor", "was", "the", "second", ",", "but", "appeared", "to", "be", "much", "heavier", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "at least 2,000 Iraqi fighters",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030407.0030-E39-67",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "APW_ENG_20030407.0030-R32",
+  "mentionArg1" : {
+    "extent" : "at least 2,000 Iraqi fighters",
+    "argMentionid" : "APW_ENG_20030407.0030-E48-66",
+    "start" : 20,
+    "end" : 24
+  },
+  "id" : "APW_ENG_20030407.0030-R32-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The first one was on Saturday and triggered intense gun battles , which according to some U.S. accounts , left at least 2,000 Iraqi fighters dead .",
+  "sentence_index" : 12,
+  "Tokens" : [ "The", "first", "one", "was", "on", "Saturday", "and", "triggered", "intense", "gun", "battles", ",", "which", "according", "to", "some", "U.S.", "accounts", ",", "left", "at", "least", "2,000", "Iraqi", "fighters", "dead", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "coalition troops",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "APW_ENG_20030407.0030-E52-71",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030407.0030-R33",
+  "mentionArg1" : {
+    "extent" : "coalition troops",
+    "argMentionid" : "APW_ENG_20030407.0030-E50-68",
+    "start" : 1,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030407.0030-R33-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Since coalition troops seized Baghdad 's international airport , they have encircled the heavily-bombed city of 5 million people , blocking off entry and exits and monitored all movement from the air .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Since", "coalition", "troops", "seized", "Baghdad", "'s", "international", "airport", ",", "they", "have", "encircled", "the", "heavily-bombed", "city", "of", "5", "million", "people", ",", "blocking", "off", "entry", "and", "exits", "and", "monitored", "all", "movement", "from", "the", "air", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Baghdad's international airport",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "APW_ENG_20030407.0030-E8-74",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030407.0030-R34",
+  "mentionArg1" : {
+    "extent" : "Baghdad's international airport",
+    "argMentionid" : "APW_ENG_20030407.0030-E53-72",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030407.0030-R34-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Since coalition troops seized Baghdad 's international airport , they have encircled the heavily-bombed city of 5 million people , blocking off entry and exits and monitored all movement from the air .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Since", "coalition", "troops", "seized", "Baghdad", "'s", "international", "airport", ",", "they", "have", "encircled", "the", "heavily-bombed", "city", "of", "5", "million", "people", ",", "blocking", "off", "entry", "and", "exits", "and", "monitored", "all", "movement", "from", "the", "air", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Since coalition troops seized Baghdad's international airport, they have encircled the heavily-bombed city of 5 million people, blocking off entry and exits and monitored all movement from the air",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Baghdad's international airport",
+    "argMentionid" : "APW_ENG_20030407.0030-E53-72",
+    "start" : 4,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030407.0030-R35",
+  "mentionArg1" : {
+    "extent" : "coalition troops",
+    "argMentionid" : "APW_ENG_20030407.0030-E50-68",
+    "start" : 1,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030407.0030-R35-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Since coalition troops seized Baghdad 's international airport , they have encircled the heavily-bombed city of 5 million people , blocking off entry and exits and monitored all movement from the air .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Since", "coalition", "troops", "seized", "Baghdad", "'s", "international", "airport", ",", "they", "have", "encircled", "the", "heavily-bombed", "city", "of", "5", "million", "people", ",", "blocking", "off", "entry", "and", "exits", "and", "monitored", "all", "movement", "from", "the", "air", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a hulking U.S. C-130 transport plane",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "a hulking U.S. C-130 transport plane",
+    "argMentionid" : "APW_ENG_20030407.0030-E190-256",
+    "start" : 10,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030407.0030-R36",
+  "mentionArg1" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030407.0030-E2-257",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030407.0030-R36-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "In a move weighted with symbolism and tactical importance , a hulking U.S. C-130 transport plane flew into Baghdad 's airport .",
+  "sentence_index" : 14,
+  "Tokens" : [ "In", "a", "move", "weighted", "with", "symbolism", "and", "tactical", "importance", ",", "a", "hulking", "U.S.", "C-130", "transport", "plane", "flew", "into", "Baghdad", "'s", "airport", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Baghdad's airport",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "APW_ENG_20030407.0030-E8-31",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030407.0030-R37",
+  "mentionArg1" : {
+    "extent" : "Baghdad's airport",
+    "argMentionid" : "APW_ENG_20030407.0030-E36-32",
+    "start" : 18,
+    "end" : 20
+  },
+  "id" : "APW_ENG_20030407.0030-R37-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "In a move weighted with symbolism and tactical importance , a hulking U.S. C-130 transport plane flew into Baghdad 's airport .",
+  "sentence_index" : 14,
+  "Tokens" : [ "In", "a", "move", "weighted", "with", "symbolism", "and", "tactical", "importance", ",", "a", "hulking", "U.S.", "C-130", "transport", "plane", "flew", "into", "Baghdad", "'s", "airport", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. troops, dependent until now on a tenuous line stretching 550 kilometers (350 miles) to Kuwait",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030407.0030-E2-69",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030407.0030-R38",
+  "mentionArg1" : {
+    "extent" : "U.S. troops, dependent until now on a tenuous line stretching 550 kilometers (350 miles) to Kuwait",
+    "argMentionid" : "APW_ENG_20030407.0030-E54-70",
+    "start" : 10,
+    "end" : 28
+  },
+  "id" : "APW_ENG_20030407.0030-R38-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The arrival presaged a major resupply effort by air for U.S. troops , dependent until now on a tenuous line stretching 550 kilometers ( 350 miles ) to Kuwait .",
+  "sentence_index" : 15,
+  "Tokens" : [ "The", "arrival", "presaged", "a", "major", "resupply", "effort", "by", "air", "for", "U.S.", "troops", ",", "dependent", "until", "now", "on", "a", "tenuous", "line", "stretching", "550", "kilometers", "(", "350", "miles", ")", "to", "Kuwait", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "British forces in the south",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "APW_ENG_20030407.0030-E57-79",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030407.0030-R39",
+  "mentionArg1" : {
+    "extent" : "British forces in the south",
+    "argMentionid" : "APW_ENG_20030407.0030-E56-78",
+    "start" : 7,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030407.0030-R39-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Monday 's advances came one day after British forces in the south made their deepest push into Iraq 's second largest city .",
+  "sentence_index" : 16,
+  "Tokens" : [ "Monday", "'s", "advances", "came", "one", "day", "after", "British", "forces", "in", "the", "south", "made", "their", "deepest", "push", "into", "Iraq", "'s", "second", "largest", "city", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "British forces in the south",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "the south",
+    "argMentionid" : "APW_ENG_20030407.0030-E58-80",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030407.0030-R40",
+  "mentionArg1" : {
+    "extent" : "British forces in the south",
+    "argMentionid" : "APW_ENG_20030407.0030-E56-78",
+    "start" : 7,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030407.0030-R40-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Monday 's advances came one day after British forces in the south made their deepest push into Iraq 's second largest city .",
+  "sentence_index" : 16,
+  "Tokens" : [ "Monday", "'s", "advances", "came", "one", "day", "after", "British", "forces", "in", "the", "south", "made", "their", "deepest", "push", "into", "Iraq", "'s", "second", "largest", "city", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Iraq's second largest city",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "APW_ENG_20030407.0030-E39-82",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030407.0030-R41",
+  "mentionArg1" : {
+    "extent" : "Iraq's second largest city",
+    "argMentionid" : "APW_ENG_20030407.0030-E61-87",
+    "start" : 17,
+    "end" : 21
+  },
+  "id" : "APW_ENG_20030407.0030-R41-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Monday 's advances came one day after British forces in the south made their deepest push into Iraq 's second largest city .",
+  "sentence_index" : 16,
+  "Tokens" : [ "Monday", "'s", "advances", "came", "one", "day", "after", "British", "forces", "in", "the", "south", "made", "their", "deepest", "push", "into", "Iraq", "'s", "second", "largest", "city", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Monday's advances came one day after British forces in the south made their deepest push into Iraq's second largest city",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Iraq's second largest city",
+    "argMentionid" : "APW_ENG_20030407.0030-E61-87",
+    "start" : 17,
+    "end" : 21
+  },
+  "relationID" : "APW_ENG_20030407.0030-R42",
+  "mentionArg1" : {
+    "extent" : "British forces in the south",
+    "argMentionid" : "APW_ENG_20030407.0030-E56-78",
+    "start" : 7,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030407.0030-R42-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Monday 's advances came one day after British forces in the south made their deepest push into Iraq 's second largest city .",
+  "sentence_index" : 16,
+  "Tokens" : [ "Monday", "'s", "advances", "came", "one", "day", "after", "British", "forces", "in", "the", "south", "made", "their", "deepest", "push", "into", "Iraq", "'s", "second", "largest", "city", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "vice chairman of the U.S. Joint Chiefs of Staff",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "the U.S. Joint Chiefs of Staff",
+    "argMentionid" : "APW_ENG_20030407.0030-E66-93",
+    "start" : 7,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030407.0030-R43",
+  "mentionArg1" : {
+    "extent" : "vice chairman of the U.S. Joint Chiefs of Staff",
+    "argMentionid" : "APW_ENG_20030407.0030-E62-91",
+    "start" : 4,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030407.0030-R43-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Gen. Peter Pace , vice chairman of the U.S. Joint Chiefs of Staff , told CNN that U.S. forces drove though portions of the Iraqi capital , seizing Iraqi tanks and armored personnel carriers .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Gen.", "Peter", "Pace", ",", "vice", "chairman", "of", "the", "U.S.", "Joint", "Chiefs", "of", "Staff", ",", "told", "CNN", "that", "U.S.", "forces", "drove", "though", "portions", "of", "the", "Iraqi", "capital", ",", "seizing", "Iraqi", "tanks", "and", "armored", "personnel", "carriers", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the U.S. Joint Chiefs of Staff",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030407.0030-E2-94",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030407.0030-R44",
+  "mentionArg1" : {
+    "extent" : "the U.S. Joint Chiefs of Staff",
+    "argMentionid" : "APW_ENG_20030407.0030-E66-93",
+    "start" : 7,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030407.0030-R44-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Gen. Peter Pace , vice chairman of the U.S. Joint Chiefs of Staff , told CNN that U.S. forces drove though portions of the Iraqi capital , seizing Iraqi tanks and armored personnel carriers .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Gen.", "Peter", "Pace", ",", "vice", "chairman", "of", "the", "U.S.", "Joint", "Chiefs", "of", "Staff", ",", "told", "CNN", "that", "U.S.", "forces", "drove", "though", "portions", "of", "the", "Iraqi", "capital", ",", "seizing", "Iraqi", "tanks", "and", "armored", "personnel", "carriers", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. forces",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030407.0030-E2-96",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030407.0030-R45",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "APW_ENG_20030407.0030-E71-99",
+    "start" : 17,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030407.0030-R45-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Gen. Peter Pace , vice chairman of the U.S. Joint Chiefs of Staff , told CNN that U.S. forces drove though portions of the Iraqi capital , seizing Iraqi tanks and armored personnel carriers .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Gen.", "Peter", "Pace", ",", "vice", "chairman", "of", "the", "U.S.", "Joint", "Chiefs", "of", "Staff", ",", "told", "CNN", "that", "U.S.", "forces", "drove", "though", "portions", "of", "the", "Iraqi", "capital", ",", "seizing", "Iraqi", "tanks", "and", "armored", "personnel", "carriers", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. forces",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030407.0030-E2-128",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030407.0030-R45",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "APW_ENG_20030407.0030-E71-129",
+    "start" : 13,
+    "end" : 14
+  },
+  "id" : "APW_ENG_20030407.0030-R45-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Assorted prizes fell into allied hands , some after hard fighting , but U.S. forces had yet to confront Baghdad 's last-ditch defenders on a large scale .",
+  "sentence_index" : 23,
+  "Tokens" : [ "Assorted", "prizes", "fell", "into", "allied", "hands", ",", "some", "after", "hard", "fighting", ",", "but", "U.S.", "forces", "had", "yet", "to", "confront", "Baghdad", "'s", "last-ditch", "defenders", "on", "a", "large", "scale", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "portions of the Iraqi capital",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "the Iraqi capital",
+    "argMentionid" : "APW_ENG_20030407.0030-E8-100",
+    "start" : 23,
+    "end" : 25
+  },
+  "relationID" : "APW_ENG_20030407.0030-R46",
+  "mentionArg1" : {
+    "extent" : "portions of the Iraqi capital",
+    "argMentionid" : "APW_ENG_20030407.0030-E73-102",
+    "start" : 21,
+    "end" : 25
+  },
+  "id" : "APW_ENG_20030407.0030-R46-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Gen. Peter Pace , vice chairman of the U.S. Joint Chiefs of Staff , told CNN that U.S. forces drove though portions of the Iraqi capital , seizing Iraqi tanks and armored personnel carriers .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Gen.", "Peter", "Pace", ",", "vice", "chairman", "of", "the", "U.S.", "Joint", "Chiefs", "of", "Staff", ",", "told", "CNN", "that", "U.S.", "forces", "drove", "though", "portions", "of", "the", "Iraqi", "capital", ",", "seizing", "Iraqi", "tanks", "and", "armored", "personnel", "carriers", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Iraqi tanks and armored personnel carriers",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Iraqi tanks and armored personnel carriers",
+    "argMentionid" : "APW_ENG_20030407.0030-E75-104",
+    "start" : 28,
+    "end" : 33
+  },
+  "relationID" : "APW_ENG_20030407.0030-R48",
+  "mentionArg1" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030407.0030-E39-101",
+    "start" : 28,
+    "end" : 28
+  },
+  "id" : "APW_ENG_20030407.0030-R48-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Gen. Peter Pace , vice chairman of the U.S. Joint Chiefs of Staff , told CNN that U.S. forces drove though portions of the Iraqi capital , seizing Iraqi tanks and armored personnel carriers .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Gen.", "Peter", "Pace", ",", "vice", "chairman", "of", "the", "U.S.", "Joint", "Chiefs", "of", "Staff", ",", "told", "CNN", "that", "U.S.", "forces", "drove", "though", "portions", "of", "the", "Iraqi", "capital", ",", "seizing", "Iraqi", "tanks", "and", "armored", "personnel", "carriers", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Iraqi tanks and armored personnel carriers",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Iraqi tanks and armored personnel carriers",
+    "argMentionid" : "APW_ENG_20030407.0030-E74-103",
+    "start" : 28,
+    "end" : 33
+  },
+  "relationID" : "APW_ENG_20030407.0030-R49",
+  "mentionArg1" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030407.0030-E39-101",
+    "start" : 28,
+    "end" : 28
+  },
+  "id" : "APW_ENG_20030407.0030-R49-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Gen. Peter Pace , vice chairman of the U.S. Joint Chiefs of Staff , told CNN that U.S. forces drove though portions of the Iraqi capital , seizing Iraqi tanks and armored personnel carriers .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Gen.", "Peter", "Pace", ",", "vice", "chairman", "of", "the", "U.S.", "Joint", "Chiefs", "of", "Staff", ",", "told", "CNN", "that", "U.S.", "forces", "drove", "though", "portions", "of", "the", "Iraqi", "capital", ",", "seizing", "Iraqi", "tanks", "and", "armored", "personnel", "carriers", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Gen. Peter Pace, vice chairman of the U.S. Joint Chiefs of Staff, told CNN that U.S. forces drove though portions of the Iraqi capital, seizing Iraqi tanks and armored personnel carriers",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "portions of the Iraqi capital",
+    "argMentionid" : "APW_ENG_20030407.0030-E73-102",
+    "start" : 21,
+    "end" : 25
+  },
+  "relationID" : "APW_ENG_20030407.0030-R50",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "APW_ENG_20030407.0030-E71-99",
+    "start" : 17,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030407.0030-R50-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Gen. Peter Pace , vice chairman of the U.S. Joint Chiefs of Staff , told CNN that U.S. forces drove though portions of the Iraqi capital , seizing Iraqi tanks and armored personnel carriers .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Gen.", "Peter", "Pace", ",", "vice", "chairman", "of", "the", "U.S.", "Joint", "Chiefs", "of", "Staff", ",", "told", "CNN", "that", "U.S.", "forces", "drove", "though", "portions", "of", "the", "Iraqi", "capital", ",", "seizing", "Iraqi", "tanks", "and", "armored", "personnel", "carriers", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. officials",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030407.0030-E2-97",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030407.0030-R51",
+  "mentionArg1" : {
+    "extent" : "U.S. officials",
+    "argMentionid" : "APW_ENG_20030407.0030-E76-105",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030407.0030-R51-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "U.S. officials have declared Baghdad cut off from the rest of Iraq .",
+  "sentence_index" : 18,
+  "Tokens" : [ "U.S.", "officials", "have", "declared", "Baghdad", "cut", "off", "from", "the", "rest", "of", "Iraq", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the rest of Iraq",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "APW_ENG_20030407.0030-E39-84",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030407.0030-R52",
+  "mentionArg1" : {
+    "extent" : "the rest of Iraq",
+    "argMentionid" : "APW_ENG_20030407.0030-E77-107",
+    "start" : 8,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030407.0030-R52-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "U.S. officials have declared Baghdad cut off from the rest of Iraq .",
+  "sentence_index" : 18,
+  "Tokens" : [ "U.S.", "officials", "have", "declared", "Baghdad", "cut", "off", "from", "the", "rest", "of", "Iraq", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the highways in and out of the city",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "the city",
+    "argMentionid" : "APW_ENG_20030407.0030-E8-112",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030407.0030-R53",
+  "mentionArg1" : {
+    "extent" : "the highways in and out of the city",
+    "argMentionid" : "APW_ENG_20030407.0030-E81-113",
+    "start" : 4,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030407.0030-R53-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "`` We do control the highways in and out of the city and do have the capability to interdict , to stop , to attack any Iraqi military forces that might try to either escape or to engage our forces , '' said Pace .",
+  "sentence_index" : 19,
+  "Tokens" : [ "``", "We", "do", "control", "the", "highways", "in", "and", "out", "of", "the", "city", "and", "do", "have", "the", "capability", "to", "interdict", ",", "to", "stop", ",", "to", "attack", "any", "Iraqi", "military", "forces", "that", "might", "try", "to", "either", "escape", "or", "to", "engage", "our", "forces", ",", "''", "said", "Pace", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "any Iraqi military forces that might try to either escape or to engage our forces",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030407.0030-E39-85",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "APW_ENG_20030407.0030-R54",
+  "mentionArg1" : {
+    "extent" : "any Iraqi military forces that might try to either escape or to engage our forces",
+    "argMentionid" : "APW_ENG_20030407.0030-E82-114",
+    "start" : 25,
+    "end" : 39
+  },
+  "id" : "APW_ENG_20030407.0030-R54-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "`` We do control the highways in and out of the city and do have the capability to interdict , to stop , to attack any Iraqi military forces that might try to either escape or to engage our forces , '' said Pace .",
+  "sentence_index" : 19,
+  "Tokens" : [ "``", "We", "do", "control", "the", "highways", "in", "and", "out", "of", "the", "city", "and", "do", "have", "the", "capability", "to", "interdict", ",", "to", "stop", ",", "to", "attack", "any", "Iraqi", "military", "forces", "that", "might", "try", "to", "either", "escape", "or", "to", "engage", "our", "forces", ",", "''", "said", "Pace", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "our forces",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "our forces",
+    "argMentionid" : "APW_ENG_20030407.0030-E80-111",
+    "start" : 38,
+    "end" : 39
+  },
+  "relationID" : "APW_ENG_20030407.0030-R55",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "APW_ENG_20030407.0030-E79-110",
+    "start" : 38,
+    "end" : 38
+  },
+  "id" : "APW_ENG_20030407.0030-R55-1",
+  "relationSubType" : "Business",
+  "Sentence" : "`` We do control the highways in and out of the city and do have the capability to interdict , to stop , to attack any Iraqi military forces that might try to either escape or to engage our forces , '' said Pace .",
+  "sentence_index" : 19,
+  "Tokens" : [ "``", "We", "do", "control", "the", "highways", "in", "and", "out", "of", "the", "city", "and", "do", "have", "the", "capability", "to", "interdict", ",", "to", "stop", ",", "to", "attack", "any", "Iraqi", "military", "forces", "that", "might", "try", "to", "either", "escape", "or", "to", "engage", "our", "forces", ",", "''", "said", "Pace", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Injured Russian diplomats",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Russian",
+    "argMentionid" : "APW_ENG_20030407.0030-E85-117",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030407.0030-R56",
+  "mentionArg1" : {
+    "extent" : "Injured Russian diplomats",
+    "argMentionid" : "APW_ENG_20030407.0030-E84-116",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030407.0030-R56-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Injured Russian diplomats and a convoy of America 's Kurdish comrades in arms were among unintended victims caught in crossfire and friendly fire Sunday .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Injured", "Russian", "diplomats", "and", "a", "convoy", "of", "America", "'s", "Kurdish", "comrades", "in", "arms", "were", "among", "unintended", "victims", "caught", "in", "crossfire", "and", "friendly", "fire", "Sunday", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "America's Kurdish comrades in arms",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "America's Kurdish comrades in arms",
+    "argMentionid" : "APW_ENG_20030407.0030-E87-119",
+    "start" : 7,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030407.0030-R57",
+  "mentionArg1" : {
+    "extent" : "Kurdish",
+    "argMentionid" : "APW_ENG_20030407.0030-E88-121",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030407.0030-R57-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Injured Russian diplomats and a convoy of America 's Kurdish comrades in arms were among unintended victims caught in crossfire and friendly fire Sunday .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Injured", "Russian", "diplomats", "and", "a", "convoy", "of", "America", "'s", "Kurdish", "comrades", "in", "arms", "were", "among", "unintended", "victims", "caught", "in", "crossfire", "and", "friendly", "fire", "Sunday", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "their own",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "their",
+    "argMentionid" : "APW_ENG_20030407.0030-E88-124",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030407.0030-R58",
+  "mentionArg1" : {
+    "extent" : "their own",
+    "argMentionid" : "APW_ENG_20030407.0030-E92-126",
+    "start" : 4,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030407.0030-R58-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Kurds said 18 of their own died in the mistaken U.S. air strike .",
+  "sentence_index" : 22,
+  "Tokens" : [ "Kurds", "said", "18", "of", "their", "own", "died", "in", "the", "mistaken", "U.S.", "air", "strike", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Baghdad's last-ditch defenders",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "APW_ENG_20030407.0030-E8-130",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030407.0030-R60",
+  "mentionArg1" : {
+    "extent" : "Baghdad's last-ditch defenders",
+    "argMentionid" : "APW_ENG_20030407.0030-E95-131",
+    "start" : 19,
+    "end" : 22
+  },
+  "id" : "APW_ENG_20030407.0030-R60-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Assorted prizes fell into allied hands , some after hard fighting , but U.S. forces had yet to confront Baghdad 's last-ditch defenders on a large scale .",
+  "sentence_index" : 23,
+  "Tokens" : [ "Assorted", "prizes", "fell", "into", "allied", "hands", ",", "some", "after", "hard", "fighting", ",", "but", "U.S.", "forces", "had", "yet", "to", "confront", "Baghdad", "'s", "last-ditch", "defenders", "on", "a", "large", "scale", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a VIP building at the airport",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "the airport",
+    "argMentionid" : "APW_ENG_20030407.0030-E36-134",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030407.0030-R61",
+  "mentionArg1" : {
+    "extent" : "a VIP building at the airport",
+    "argMentionid" : "APW_ENG_20030407.0030-E96-132",
+    "start" : 1,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030407.0030-R61-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Inside a VIP building at the airport , troops found a lavish hideaway believed to have been used by Saddam , Associated Press Television News reported .",
+  "sentence_index" : 24,
+  "Tokens" : [ "Inside", "a", "VIP", "building", "at", "the", "airport", ",", "troops", "found", "a", "lavish", "hideaway", "believed", "to", "have", "been", "used", "by", "Saddam", ",", "Associated", "Press", "Television", "News", "reported", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Inside a VIP building at the airport, troops found a lavish hideaway believed to have been used by Saddam, Associated Press Television News reported",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "a VIP building at the airport",
+    "argMentionid" : "APW_ENG_20030407.0030-E96-132",
+    "start" : 1,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030407.0030-R62",
+  "mentionArg1" : {
+    "extent" : "troops",
+    "argMentionid" : "APW_ENG_20030407.0030-E98-135",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030407.0030-R62-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Inside a VIP building at the airport , troops found a lavish hideaway believed to have been used by Saddam , Associated Press Television News reported .",
+  "sentence_index" : 24,
+  "Tokens" : [ "Inside", "a", "VIP", "building", "at", "the", "airport", ",", "troops", "found", "a", "lavish", "hideaway", "believed", "to", "have", "been", "used", "by", "Saddam", ",", "Associated", "Press", "Television", "News", "reported", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a lavish hideaway believed to have been used by Saddam",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "a lavish hideaway believed to have been used by Saddam",
+    "argMentionid" : "APW_ENG_20030407.0030-E153-206",
+    "start" : 10,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030407.0030-R63",
+  "mentionArg1" : {
+    "extent" : "Saddam",
+    "argMentionid" : "APW_ENG_20030407.0030-E3-136",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030407.0030-R63-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Inside a VIP building at the airport , troops found a lavish hideaway believed to have been used by Saddam , Associated Press Television News reported .",
+  "sentence_index" : 24,
+  "Tokens" : [ "Inside", "a", "VIP", "building", "at", "the", "airport", ",", "troops", "found", "a", "lavish", "hideaway", "believed", "to", "have", "been", "used", "by", "Saddam", ",", "Associated", "Press", "Television", "News", "reported", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Saddam's palaces",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Saddam's palaces",
+    "argMentionid" : "APW_ENG_20030407.0030-E102-141",
+    "start" : 8,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030407.0030-R64",
+  "mentionArg1" : {
+    "extent" : "Saddam",
+    "argMentionid" : "APW_ENG_20030407.0030-E3-142",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030407.0030-R64-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Southeast of Baghdad , Marines seized one of Saddam 's palaces and poked through remnants of a Republican Guard headquarters .",
+  "sentence_index" : 25,
+  "Tokens" : [ "Southeast", "of", "Baghdad", ",", "Marines", "seized", "one", "of", "Saddam", "'s", "palaces", "and", "poked", "through", "remnants", "of", "a", "Republican", "Guard", "headquarters", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Southeast of Baghdad, Marines seized one of Saddam's palaces and poked through remnants of a Republican Guard headquarters",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "one of Saddam's palaces",
+    "argMentionid" : "APW_ENG_20030407.0030-E101-140",
+    "start" : 6,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030407.0030-R65",
+  "mentionArg1" : {
+    "extent" : "Marines",
+    "argMentionid" : "APW_ENG_20030407.0030-E100-139",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030407.0030-R65-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Southeast of Baghdad , Marines seized one of Saddam 's palaces and poked through remnants of a Republican Guard headquarters .",
+  "sentence_index" : 25,
+  "Tokens" : [ "Southeast", "of", "Baghdad", ",", "Marines", "seized", "one", "of", "Saddam", "'s", "palaces", "and", "poked", "through", "remnants", "of", "a", "Republican", "Guard", "headquarters", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Southeast of Baghdad, Marines seized one of Saddam's palaces and poked through remnants of a Republican Guard headquarters",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "APW_ENG_20030407.0030-E8-138",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "APW_ENG_20030407.0030-R66",
+  "mentionArg1" : {
+    "extent" : "Marines",
+    "argMentionid" : "APW_ENG_20030407.0030-E100-139",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030407.0030-R66-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Southeast of Baghdad , Marines seized one of Saddam 's palaces and poked through remnants of a Republican Guard headquarters .",
+  "sentence_index" : 25,
+  "Tokens" : [ "Southeast", "of", "Baghdad", ",", "Marines", "seized", "one", "of", "Saddam", "'s", "palaces", "and", "poked", "through", "remnants", "of", "a", "Republican", "Guard", "headquarters", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a Republican Guard headquarters",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "a Republican Guard headquarters",
+    "argMentionid" : "APW_ENG_20030407.0030-E103-144",
+    "start" : 16,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030407.0030-R67",
+  "mentionArg1" : {
+    "extent" : "Republican Guard",
+    "argMentionid" : "APW_ENG_20030407.0030-E104-145",
+    "start" : 17,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030407.0030-R67-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Southeast of Baghdad , Marines seized one of Saddam 's palaces and poked through remnants of a Republican Guard headquarters .",
+  "sentence_index" : 25,
+  "Tokens" : [ "Southeast", "of", "Baghdad", ",", "Marines", "seized", "one", "of", "Saddam", "'s", "palaces", "and", "poked", "through", "remnants", "of", "a", "Republican", "Guard", "headquarters", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. forces",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030407.0030-E2-147",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030407.0030-R68",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "APW_ENG_20030407.0030-E105-146",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030407.0030-R68-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Also to the south , U.S. forces took control Sunday of the center of the holy city of Karbala , the Army Times newspaper reported from the scene .",
+  "sentence_index" : 26,
+  "Tokens" : [ "Also", "to", "the", "south", ",", "U.S.", "forces", "took", "control", "Sunday", "of", "the", "center", "of", "the", "holy", "city", "of", "Karbala", ",", "the", "Army", "Times", "newspaper", "reported", "from", "the", "scene", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the center of the holy city of Karbala",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "the holy city of Karbala",
+    "argMentionid" : "APW_ENG_20030407.0030-E155-208",
+    "start" : 14,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030407.0030-R69",
+  "mentionArg1" : {
+    "extent" : "the center of the holy city of Karbala",
+    "argMentionid" : "APW_ENG_20030407.0030-E154-207",
+    "start" : 11,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030407.0030-R69-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Also to the south , U.S. forces took control Sunday of the center of the holy city of Karbala , the Army Times newspaper reported from the scene .",
+  "sentence_index" : 26,
+  "Tokens" : [ "Also", "to", "the", "south", ",", "U.S.", "forces", "took", "control", "Sunday", "of", "the", "center", "of", "the", "holy", "city", "of", "Karbala", ",", "the", "Army", "Times", "newspaper", "reported", "from", "the", "scene", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Also to the south, U.S. forces took control Sunday of the center of the holy city of Karbala, the Army Times newspaper reported from the scene",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "the center of the holy city of Karbala",
+    "argMentionid" : "APW_ENG_20030407.0030-E154-207",
+    "start" : 11,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030407.0030-R70",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "APW_ENG_20030407.0030-E105-146",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030407.0030-R70-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Also to the south , U.S. forces took control Sunday of the center of the holy city of Karbala , the Army Times newspaper reported from the scene .",
+  "sentence_index" : 26,
+  "Tokens" : [ "Also", "to", "the", "south", ",", "U.S.", "forces", "took", "control", "Sunday", "of", "the", "center", "of", "the", "holy", "city", "of", "Karbala", ",", "the", "Army", "Times", "newspaper", "reported", "from", "the", "scene", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. forces",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030407.0030-E2-148",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030407.0030-R71",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "APW_ENG_20030407.0030-E157-211",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030407.0030-R71-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "U.S. forces consolidated positions around Baghdad .",
+  "sentence_index" : 27,
+  "Tokens" : [ "U.S.", "forces", "consolidated", "positions", "around", "Baghdad", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "U.S. forces consolidated positions around Baghdad",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "APW_ENG_20030407.0030-E8-212",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030407.0030-R72",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "APW_ENG_20030407.0030-E157-211",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030407.0030-R72-1",
+  "relationSubType" : "Located",
+  "Sentence" : "U.S. forces consolidated positions around Baghdad .",
+  "sentence_index" : 27,
+  "Tokens" : [ "U.S.", "forces", "consolidated", "positions", "around", "Baghdad", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "downtown buildings",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "downtown",
+    "argMentionid" : "APW_ENG_20030407.0030-E159-214",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "APW_ENG_20030407.0030-R73",
+  "mentionArg1" : {
+    "extent" : "downtown buildings",
+    "argMentionid" : "APW_ENG_20030407.0030-E158-213",
+    "start" : 16,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030407.0030-R73-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Explosions were heard throughout the night Sunday , and shortly before dawn on Monday , shaking downtown buildings .",
+  "sentence_index" : 28,
+  "Tokens" : [ "Explosions", "were", "heard", "throughout", "the", "night", "Sunday", ",", "and", "shortly", "before", "dawn", "on", "Monday", ",", "shaking", "downtown", "buildings", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "British troops",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "APW_ENG_20030407.0030-E57-217",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030407.0030-R74",
+  "mentionArg1" : {
+    "extent" : "British troops",
+    "argMentionid" : "APW_ENG_20030407.0030-E160-216",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030407.0030-R74-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "On another vital front , British troops thrust to the center of Basra , Iraq 's second largest city , with a sense they were finally shaking Saddam loyalists loose .",
+  "sentence_index" : 29,
+  "Tokens" : [ "On", "another", "vital", "front", ",", "British", "troops", "thrust", "to", "the", "center", "of", "Basra", ",", "Iraq", "'s", "second", "largest", "city", ",", "with", "a", "sense", "they", "were", "finally", "shaking", "Saddam", "loyalists", "loose", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the center of Basra, Iraq's second largest city",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Basra",
+    "argMentionid" : "APW_ENG_20030407.0030-E163-220",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030407.0030-R75",
+  "mentionArg1" : {
+    "extent" : "the center of Basra, Iraq's second largest city",
+    "argMentionid" : "APW_ENG_20030407.0030-E162-218",
+    "start" : 9,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030407.0030-R75-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "On another vital front , British troops thrust to the center of Basra , Iraq 's second largest city , with a sense they were finally shaking Saddam loyalists loose .",
+  "sentence_index" : 29,
+  "Tokens" : [ "On", "another", "vital", "front", ",", "British", "troops", "thrust", "to", "the", "center", "of", "Basra", ",", "Iraq", "'s", "second", "largest", "city", ",", "with", "a", "sense", "they", "were", "finally", "shaking", "Saddam", "loyalists", "loose", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Iraq's second largest city",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "APW_ENG_20030407.0030-E39-86",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030407.0030-R76",
+  "mentionArg1" : {
+    "extent" : "Iraq's second largest city",
+    "argMentionid" : "APW_ENG_20030407.0030-E163-221",
+    "start" : 14,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030407.0030-R76-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "On another vital front , British troops thrust to the center of Basra , Iraq 's second largest city , with a sense they were finally shaking Saddam loyalists loose .",
+  "sentence_index" : 29,
+  "Tokens" : [ "On", "another", "vital", "front", ",", "British", "troops", "thrust", "to", "the", "center", "of", "Basra", ",", "Iraq", "'s", "second", "largest", "city", ",", "with", "a", "sense", "they", "were", "finally", "shaking", "Saddam", "loyalists", "loose", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "On another vital front, British troops thrust to the center of Basra, Iraq's second largest city, with a sense they were finally shaking Saddam loyalists loose",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "the center of Basra, Iraq's second largest city",
+    "argMentionid" : "APW_ENG_20030407.0030-E162-218",
+    "start" : 9,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030407.0030-R77",
+  "mentionArg1" : {
+    "extent" : "British troops",
+    "argMentionid" : "APW_ENG_20030407.0030-E160-216",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030407.0030-R77-1",
+  "relationSubType" : "Located",
+  "Sentence" : "On another vital front , British troops thrust to the center of Basra , Iraq 's second largest city , with a sense they were finally shaking Saddam loyalists loose .",
+  "sentence_index" : 29,
+  "Tokens" : [ "On", "another", "vital", "front", ",", "British", "troops", "thrust", "to", "the", "center", "of", "Basra", ",", "Iraq", "'s", "second", "largest", "city", ",", "with", "a", "sense", "they", "were", "finally", "shaking", "Saddam", "loyalists", "loose", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "British Desert Rats",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "APW_ENG_20030407.0030-E57-224",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030407.0030-R78",
+  "mentionArg1" : {
+    "extent" : "British Desert Rats",
+    "argMentionid" : "APW_ENG_20030407.0030-E167-225",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030407.0030-R78-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "British Desert Rats went into the city of 1.3 million with more than three dozen tanks and armored cars , a column similar in size to the American unit that probed suburban Baghdad .",
+  "sentence_index" : 30,
+  "Tokens" : [ "British", "Desert", "Rats", "went", "into", "the", "city", "of", "1.3", "million", "with", "more", "than", "three", "dozen", "tanks", "and", "armored", "cars", ",", "a", "column", "similar", "in", "size", "to", "the", "American", "unit", "that", "probed", "suburban", "Baghdad", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "British Desert Rats went into the city of 1.3 million with more than three dozen tanks and armored cars, a column similar in size to the American unit that probed suburban Baghdad",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "more than three dozen tanks and armored cars",
+    "argMentionid" : "APW_ENG_20030407.0030-E169-229",
+    "start" : 11,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030407.0030-R79",
+  "mentionArg1" : {
+    "extent" : "British Desert Rats",
+    "argMentionid" : "APW_ENG_20030407.0030-E167-225",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030407.0030-R79-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "British Desert Rats went into the city of 1.3 million with more than three dozen tanks and armored cars , a column similar in size to the American unit that probed suburban Baghdad .",
+  "sentence_index" : 30,
+  "Tokens" : [ "British", "Desert", "Rats", "went", "into", "the", "city", "of", "1.3", "million", "with", "more", "than", "three", "dozen", "tanks", "and", "armored", "cars", ",", "a", "column", "similar", "in", "size", "to", "the", "American", "unit", "that", "probed", "suburban", "Baghdad", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "British Desert Rats went into the city of 1.3 million with more than three dozen tanks and armored cars, a column similar in size to the American unit that probed suburban Baghdad",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "more than three dozen tanks and armored cars",
+    "argMentionid" : "APW_ENG_20030407.0030-E170-230",
+    "start" : 11,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030407.0030-R80",
+  "mentionArg1" : {
+    "extent" : "British Desert Rats",
+    "argMentionid" : "APW_ENG_20030407.0030-E167-225",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030407.0030-R80-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "British Desert Rats went into the city of 1.3 million with more than three dozen tanks and armored cars , a column similar in size to the American unit that probed suburban Baghdad .",
+  "sentence_index" : 30,
+  "Tokens" : [ "British", "Desert", "Rats", "went", "into", "the", "city", "of", "1.3", "million", "with", "more", "than", "three", "dozen", "tanks", "and", "armored", "cars", ",", "a", "column", "similar", "in", "size", "to", "the", "American", "unit", "that", "probed", "suburban", "Baghdad", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the American unit that probed suburban Baghdad",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "APW_ENG_20030407.0030-E2-150",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "APW_ENG_20030407.0030-R81",
+  "mentionArg1" : {
+    "extent" : "the American unit that probed suburban Baghdad",
+    "argMentionid" : "APW_ENG_20030407.0030-E172-232",
+    "start" : 26,
+    "end" : 32
+  },
+  "id" : "APW_ENG_20030407.0030-R81-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "British Desert Rats went into the city of 1.3 million with more than three dozen tanks and armored cars , a column similar in size to the American unit that probed suburban Baghdad .",
+  "sentence_index" : 30,
+  "Tokens" : [ "British", "Desert", "Rats", "went", "into", "the", "city", "of", "1.3", "million", "with", "more", "than", "three", "dozen", "tanks", "and", "armored", "cars", ",", "a", "column", "similar", "in", "size", "to", "the", "American", "unit", "that", "probed", "suburban", "Baghdad", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "British Desert Rats went into the city of 1.3 million with more than three dozen tanks and armored cars, a column similar in size to the American unit that probed suburban Baghdad",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "suburban Baghdad",
+    "argMentionid" : "APW_ENG_20030407.0030-E173-233",
+    "start" : 31,
+    "end" : 32
+  },
+  "relationID" : "APW_ENG_20030407.0030-R82",
+  "mentionArg1" : {
+    "extent" : "the American unit that probed suburban Baghdad",
+    "argMentionid" : "APW_ENG_20030407.0030-E172-232",
+    "start" : 26,
+    "end" : 32
+  },
+  "id" : "APW_ENG_20030407.0030-R82-1",
+  "relationSubType" : "Located",
+  "Sentence" : "British Desert Rats went into the city of 1.3 million with more than three dozen tanks and armored cars , a column similar in size to the American unit that probed suburban Baghdad .",
+  "sentence_index" : 30,
+  "Tokens" : [ "British", "Desert", "Rats", "went", "into", "the", "city", "of", "1.3", "million", "with", "more", "than", "three", "dozen", "tanks", "and", "armored", "cars", ",", "a", "column", "similar", "in", "size", "to", "the", "American", "unit", "that", "probed", "suburban", "Baghdad", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the local Baath Party leadership",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "local Baath Party",
+    "argMentionid" : "APW_ENG_20030407.0030-E175-236",
+    "start" : 13,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030407.0030-R83",
+  "mentionArg1" : {
+    "extent" : "the local Baath Party leadership",
+    "argMentionid" : "APW_ENG_20030407.0030-E174-235",
+    "start" : 12,
+    "end" : 16
+  },
+  "id" : "APW_ENG_20030407.0030-R83-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "The British found resistance softer than expected , picked up reports that the local Baath Party leadership was crumbling and fought into the core , losing at least three soldiers .",
+  "sentence_index" : 31,
+  "Tokens" : [ "The", "British", "found", "resistance", "softer", "than", "expected", ",", "picked", "up", "reports", "that", "the", "local", "Baath", "Party", "leadership", "was", "crumbling", "and", "fought", "into", "the", "core", ",", "losing", "at", "least", "three", "soldiers", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "British Maj. Gen",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "APW_ENG_20030407.0030-E57-240",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030407.0030-R84",
+  "mentionArg1" : {
+    "extent" : "British Maj. Gen",
+    "argMentionid" : "APW_ENG_20030407.0030-E178-242",
+    "start" : 10,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030407.0030-R84-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "`` We have a lot of it occupied , '' British Maj. Gen. Peter Wall told the BBC .",
+  "sentence_index" : 32,
+  "Tokens" : [ "``", "We", "have", "a", "lot", "of", "it", "occupied", ",", "''", "British", "Maj.", "Gen.", "Peter", "Wall", "told", "the", "BBC", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iraq's exiles and internal dissidents",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "APW_ENG_20030407.0030-E39-192",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030407.0030-R85",
+  "mentionArg1" : {
+    "extent" : "Iraq's exiles and internal dissidents",
+    "argMentionid" : "APW_ENG_20030407.0030-E145-193",
+    "start" : 7,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030407.0030-R85-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The United States is deploying some of Iraq 's exiles and internal dissidents around the country to help root out pro-Saddam elements , keep order and distribute aid , according to one such organization , the Iraq National Congress .",
+  "sentence_index" : 34,
+  "Tokens" : [ "The", "United", "States", "is", "deploying", "some", "of", "Iraq", "'s", "exiles", "and", "internal", "dissidents", "around", "the", "country", "to", "help", "root", "out", "pro-Saddam", "elements", ",", "keep", "order", "and", "distribute", "aid", ",", "according", "to", "one", "such", "organization", ",", "the", "Iraq", "National", "Congress", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iraq's exiles and internal dissidents",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "APW_ENG_20030407.0030-E39-192",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030407.0030-R86",
+  "mentionArg1" : {
+    "extent" : "Iraq's exiles and internal dissidents",
+    "argMentionid" : "APW_ENG_20030407.0030-E146-194",
+    "start" : 7,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030407.0030-R86-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The United States is deploying some of Iraq 's exiles and internal dissidents around the country to help root out pro-Saddam elements , keep order and distribute aid , according to one such organization , the Iraq National Congress .",
+  "sentence_index" : 34,
+  "Tokens" : [ "The", "United", "States", "is", "deploying", "some", "of", "Iraq", "'s", "exiles", "and", "internal", "dissidents", "around", "the", "country", "to", "help", "root", "out", "pro-Saddam", "elements", ",", "keep", "order", "and", "distribute", "aid", ",", "according", "to", "one", "such", "organization", ",", "the", "Iraq", "National", "Congress", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The United States is deploying some of Iraq's exiles and internal dissidents around the country to help root out pro-Saddam elements, keep order and distribute aid, according to one such organization, the Iraq National Congress",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "the country",
+    "argMentionid" : "APW_ENG_20030407.0030-E39-195",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030407.0030-R87",
+  "mentionArg1" : {
+    "extent" : "Iraq's exiles and internal dissidents",
+    "argMentionid" : "APW_ENG_20030407.0030-E145-193",
+    "start" : 7,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030407.0030-R87-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The United States is deploying some of Iraq 's exiles and internal dissidents around the country to help root out pro-Saddam elements , keep order and distribute aid , according to one such organization , the Iraq National Congress .",
+  "sentence_index" : 34,
+  "Tokens" : [ "The", "United", "States", "is", "deploying", "some", "of", "Iraq", "'s", "exiles", "and", "internal", "dissidents", "around", "the", "country", "to", "help", "root", "out", "pro-Saddam", "elements", ",", "keep", "order", "and", "distribute", "aid", ",", "according", "to", "one", "such", "organization", ",", "the", "Iraq", "National", "Congress", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The United States is deploying some of Iraq's exiles and internal dissidents around the country to help root out pro-Saddam elements, keep order and distribute aid, according to one such organization, the Iraq National Congress",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "the country",
+    "argMentionid" : "APW_ENG_20030407.0030-E39-195",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030407.0030-R88",
+  "mentionArg1" : {
+    "extent" : "Iraq's exiles and internal dissidents",
+    "argMentionid" : "APW_ENG_20030407.0030-E146-194",
+    "start" : 7,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030407.0030-R88-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The United States is deploying some of Iraq 's exiles and internal dissidents around the country to help root out pro-Saddam elements , keep order and distribute aid , according to one such organization , the Iraq National Congress .",
+  "sentence_index" : 34,
+  "Tokens" : [ "The", "United", "States", "is", "deploying", "some", "of", "Iraq", "'s", "exiles", "and", "internal", "dissidents", "around", "the", "country", "to", "help", "root", "out", "pro-Saddam", "elements", ",", "keep", "order", "and", "distribute", "aid", ",", "according", "to", "one", "such", "organization", ",", "the", "Iraq", "National", "Congress", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "several hundred of its members",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "its",
+    "argMentionid" : "APW_ENG_20030407.0030-E148-201",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030407.0030-R89",
+  "mentionArg1" : {
+    "extent" : "several hundred of its members",
+    "argMentionid" : "APW_ENG_20030407.0030-E150-202",
+    "start" : 3,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030407.0030-R89-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "The group said several hundred of its members were flown to an area near the city of Nasiriyah .",
+  "sentence_index" : 35,
+  "Tokens" : [ "The", "group", "said", "several", "hundred", "of", "its", "members", "were", "flown", "to", "an", "area", "near", "the", "city", "of", "Nasiriyah", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The group said several hundred of its members were flown to an area near the city of Nasiriyah",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "an area near the city of Nasiriyah",
+    "argMentionid" : "APW_ENG_20030407.0030-E151-203",
+    "start" : 11,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030407.0030-R90",
+  "mentionArg1" : {
+    "extent" : "several hundred of its members",
+    "argMentionid" : "APW_ENG_20030407.0030-E150-202",
+    "start" : 3,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030407.0030-R90-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The group said several hundred of its members were flown to an area near the city of Nasiriyah .",
+  "sentence_index" : 35,
+  "Tokens" : [ "The", "group", "said", "several", "hundred", "of", "its", "members", "were", "flown", "to", "an", "area", "near", "the", "city", "of", "Nasiriyah", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "U.S. warplanes",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "U.S. warplanes",
+    "argMentionid" : "APW_ENG_20030407.0030-E134-181",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030407.0030-R91",
+  "mentionArg1" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030407.0030-E2-153",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030407.0030-R91-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "In northern Iraq , U.S. warplanes struck a convoy of allied Kurdish fighters and U.S. special forces Sunday in one of the deadliest friendly fire attacks of the war .",
+  "sentence_index" : 36,
+  "Tokens" : [ "In", "northern", "Iraq", ",", "U.S.", "warplanes", "struck", "a", "convoy", "of", "allied", "Kurdish", "fighters", "and", "U.S.", "special", "forces", "Sunday", "in", "one", "of", "the", "deadliest", "friendly", "fire", "attacks", "of", "the", "war", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "allied Kurdish fighters",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Kurdish",
+    "argMentionid" : "APW_ENG_20030407.0030-E88-184",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030407.0030-R92",
+  "mentionArg1" : {
+    "extent" : "allied Kurdish fighters",
+    "argMentionid" : "APW_ENG_20030407.0030-E136-183",
+    "start" : 10,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030407.0030-R92-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "In northern Iraq , U.S. warplanes struck a convoy of allied Kurdish fighters and U.S. special forces Sunday in one of the deadliest friendly fire attacks of the war .",
+  "sentence_index" : 36,
+  "Tokens" : [ "In", "northern", "Iraq", ",", "U.S.", "warplanes", "struck", "a", "convoy", "of", "allied", "Kurdish", "fighters", "and", "U.S.", "special", "forces", "Sunday", "in", "one", "of", "the", "deadliest", "friendly", "fire", "attacks", "of", "the", "war", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. special forces",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030407.0030-E2-154",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030407.0030-R93",
+  "mentionArg1" : {
+    "extent" : "U.S. special forces",
+    "argMentionid" : "APW_ENG_20030407.0030-E138-185",
+    "start" : 14,
+    "end" : 16
+  },
+  "id" : "APW_ENG_20030407.0030-R93-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "In northern Iraq , U.S. warplanes struck a convoy of allied Kurdish fighters and U.S. special forces Sunday in one of the deadliest friendly fire attacks of the war .",
+  "sentence_index" : 36,
+  "Tokens" : [ "In", "northern", "Iraq", ",", "U.S.", "warplanes", "struck", "a", "convoy", "of", "allied", "Kurdish", "fighters", "and", "U.S.", "special", "forces", "Sunday", "in", "one", "of", "the", "deadliest", "friendly", "fire", "attacks", "of", "the", "war", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In northern Iraq, U.S. warplanes struck a convoy of allied Kurdish fighters and U.S. special forces Sunday in one of the deadliest friendly fire attacks of the war",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "northern Iraq",
+    "argMentionid" : "APW_ENG_20030407.0030-E133-180",
+    "start" : 1,
+    "end" : 2
+  },
+  "relationID" : "APW_ENG_20030407.0030-R94",
+  "mentionArg1" : {
+    "extent" : "a convoy of allied Kurdish fighters and U.S. special forces",
+    "argMentionid" : "APW_ENG_20030407.0030-E135-182",
+    "start" : 7,
+    "end" : 16
+  },
+  "id" : "APW_ENG_20030407.0030-R94-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In northern Iraq , U.S. warplanes struck a convoy of allied Kurdish fighters and U.S. special forces Sunday in one of the deadliest friendly fire attacks of the war .",
+  "sentence_index" : 36,
+  "Tokens" : [ "In", "northern", "Iraq", ",", "U.S.", "warplanes", "struck", "a", "convoy", "of", "allied", "Kurdish", "fighters", "and", "U.S.", "special", "forces", "Sunday", "in", "one", "of", "the", "deadliest", "friendly", "fire", "attacks", "of", "the", "war", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "senior Kurdish commanders",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Kurdish",
+    "argMentionid" : "APW_ENG_20030407.0030-E88-189",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030407.0030-R95",
+  "mentionArg1" : {
+    "extent" : "senior Kurdish commanders",
+    "argMentionid" : "APW_ENG_20030407.0030-E141-188",
+    "start" : 13,
+    "end" : 15
+  },
+  "id" : "APW_ENG_20030407.0030-R95-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "At least 18 people were killed and more than 45 wounded , including senior Kurdish commanders , Kurdish officials said .",
+  "sentence_index" : 37,
+  "Tokens" : [ "At", "least", "18", "people", "were", "killed", "and", "more", "than", "45", "wounded", ",", "including", "senior", "Kurdish", "commanders", ",", "Kurdish", "officials", "said", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Kurdish officials",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Kurdish",
+    "argMentionid" : "APW_ENG_20030407.0030-E88-190",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030407.0030-R96",
+  "mentionArg1" : {
+    "extent" : "Kurdish officials",
+    "argMentionid" : "APW_ENG_20030407.0030-E144-191",
+    "start" : 17,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030407.0030-R96-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "At least 18 people were killed and more than 45 wounded , including senior Kurdish commanders , Kurdish officials said .",
+  "sentence_index" : 37,
+  "Tokens" : [ "At", "least", "18", "people", "were", "killed", "and", "more", "than", "45", "wounded", ",", "including", "senior", "Kurdish", "commanders", ",", "Kurdish", "officials", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "U.S. Central Command",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030407.0030-E2-155",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030407.0030-R97",
+  "mentionArg1" : {
+    "extent" : "U.S. Central Command",
+    "argMentionid" : "APW_ENG_20030407.0030-E127-172",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030407.0030-R97-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "U.S. Central Command only reported one civilian killed and six people injured , including a U.S. soldier , but its investigation was not complete .",
+  "sentence_index" : 38,
+  "Tokens" : [ "U.S.", "Central", "Command", "only", "reported", "one", "civilian", "killed", "and", "six", "people", "injured", ",", "including", "a", "U.S.", "soldier", ",", "but", "its", "investigation", "was", "not", "complete", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "U.S. Central Command",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030407.0030-E2-157",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030407.0030-R97",
+  "mentionArg1" : {
+    "extent" : "U.S. Central Command",
+    "argMentionid" : "APW_ENG_20030407.0030-E127-173",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030407.0030-R97-2",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "U.S. Central Command said no allied forces were operating in the area at the time , but it was investigating what happened .",
+  "sentence_index" : 41,
+  "Tokens" : [ "U.S.", "Central", "Command", "said", "no", "allied", "forces", "were", "operating", "in", "the", "area", "at", "the", "time", ",", "but", "it", "was", "investigating", "what", "happened", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a U.S. soldier",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030407.0030-E2-156",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030407.0030-R98",
+  "mentionArg1" : {
+    "extent" : "a U.S. soldier",
+    "argMentionid" : "APW_ENG_20030407.0030-E185-252",
+    "start" : 14,
+    "end" : 16
+  },
+  "id" : "APW_ENG_20030407.0030-R98-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "U.S. Central Command only reported one civilian killed and six people injured , including a U.S. soldier , but its investigation was not complete .",
+  "sentence_index" : 38,
+  "Tokens" : [ "U.S.", "Central", "Command", "only", "reported", "one", "civilian", "killed", "and", "six", "people", "injured", ",", "including", "a", "U.S.", "soldier", ",", "but", "its", "investigation", "was", "not", "complete", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Russian diplomats",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Russian",
+    "argMentionid" : "APW_ENG_20030407.0030-E85-158",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030407.0030-R99",
+  "mentionArg1" : {
+    "extent" : "Russian diplomats",
+    "argMentionid" : "APW_ENG_20030407.0030-E125-170",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030407.0030-R99-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "A convoy of Russian diplomats , including the ambassador , came under fire Sunday while evacuating Baghdad , the Russian foreign ministry said .",
+  "sentence_index" : 39,
+  "Tokens" : [ "A", "convoy", "of", "Russian", "diplomats", ",", "including", "the", "ambassador", ",", "came", "under", "fire", "Sunday", "while", "evacuating", "Baghdad", ",", "the", "Russian", "foreign", "ministry", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Russian foreign ministry",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Russian",
+    "argMentionid" : "APW_ENG_20030407.0030-E85-159",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030407.0030-R100",
+  "mentionArg1" : {
+    "extent" : "the Russian foreign ministry",
+    "argMentionid" : "APW_ENG_20030407.0030-E124-168",
+    "start" : 18,
+    "end" : 21
+  },
+  "id" : "APW_ENG_20030407.0030-R100-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "A convoy of Russian diplomats , including the ambassador , came under fire Sunday while evacuating Baghdad , the Russian foreign ministry said .",
+  "sentence_index" : 39,
+  "Tokens" : [ "A", "convoy", "of", "Russian", "diplomats", ",", "including", "the", "ambassador", ",", "came", "under", "fire", "Sunday", "while", "evacuating", "Baghdad", ",", "the", "Russian", "foreign", "ministry", "said", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "state-run Russian television",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Russian",
+    "argMentionid" : "APW_ENG_20030407.0030-E85-160",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030407.0030-R101",
+  "mentionArg1" : {
+    "extent" : "state-run Russian television",
+    "argMentionid" : "APW_ENG_20030407.0030-E122-166",
+    "start" : 3,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030407.0030-R101-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "A correspondent for state-run Russian television said the convoy was caught in a crossfire and three diplomats were hurt , one with a serious stomach wound .",
+  "sentence_index" : 40,
+  "Tokens" : [ "A", "correspondent", "for", "state-run", "Russian", "television", "said", "the", "convoy", "was", "caught", "in", "a", "crossfire", "and", "three", "diplomats", "were", "hurt", ",", "one", "with", "a", "serious", "stomach", "wound", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "A correspondent for state-run Russian television",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "state-run Russian television",
+    "argMentionid" : "APW_ENG_20030407.0030-E122-166",
+    "start" : 3,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030407.0030-R102",
+  "mentionArg1" : {
+    "extent" : "A correspondent for state-run Russian television",
+    "argMentionid" : "APW_ENG_20030407.0030-E121-165",
+    "start" : 0,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030407.0030-R102-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "A correspondent for state-run Russian television said the convoy was caught in a crossfire and three diplomats were hurt , one with a serious stomach wound .",
+  "sentence_index" : 40,
+  "Tokens" : [ "A", "correspondent", "for", "state-run", "Russian", "television", "said", "the", "convoy", "was", "caught", "in", "a", "crossfire", "and", "three", "diplomats", "were", "hurt", ",", "one", "with", "a", "serious", "stomach", "wound", "." ]
+} ]

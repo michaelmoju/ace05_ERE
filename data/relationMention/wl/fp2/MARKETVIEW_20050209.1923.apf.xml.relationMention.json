@@ -1,0 +1,23 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "CEO [\"That's right,\" Mel says to himself, \"C-E-friggin- O !\"] of Sirius Satellite Radio",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Sirius Satellite Radio",
+    "argMentionid" : "MARKETVIEW_20050209.1923-E11-19",
+    "start" : 37,
+    "end" : 39
+  },
+  "relationID" : "MARKETVIEW_20050209.1923-R1",
+  "mentionArg1" : {
+    "extent" : "CEO [\"That's right,\" Mel says to himself, \"C-E-friggin- O !\"] of Sirius Satellite Radio",
+    "argMentionid" : "MARKETVIEW_20050209.1923-E7-17",
+    "start" : 17,
+    "end" : 39
+  },
+  "id" : "MARKETVIEW_20050209.1923-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "My main suspicion is that this is Karmazin hoping to see the phrase \" Mel Karmazin , CEO [ \" That 's right , \" Mel says to himself , \" C-E-friggin- O ! \" ] of Sirius Satellite Radio ... \"",
+  "sentence_index" : 3,
+  "Tokens" : [ "My", "main", "suspicion", "is", "that", "this", "is", "Karmazin", "hoping", "to", "see", "the", "phrase", "\"", "Mel", "Karmazin", ",", "CEO", "[", "\"", "That", "'s", "right", ",", "\"", "Mel", "says", "to", "himself", ",", "\"", "C-E-friggin-", "O", "!", "\"", "]", "of", "Sirius", "Satellite", "Radio", "...", "\"" ]
+} ]

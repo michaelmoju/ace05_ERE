@@ -1,0 +1,375 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "U.S. Central Command",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E40-66",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "CNN_IP_20030410.1600.03-1-R1",
+  "mentionArg1" : {
+    "extent" : "U.S. Central Command",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E39-65",
+    "start" : 28,
+    "end" : 30
+  },
+  "id" : "CNN_IP_20030410.1600.03-1-R1-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "( NEWS BREAK ) WOODRUFF Yesterday , there were scenes of jubilation in Baghdad , today , a suicide bombing and firefighters , grim reminders that , as U.S. Central Command put it , Baghdad is still an ugly place .",
+  "sentence_index" : 0,
+  "Tokens" : [ "(", "NEWS", "BREAK", ")", "WOODRUFF", "Yesterday", ",", "there", "were", "scenes", "of", "jubilation", "in", "Baghdad", ",", "today", ",", "a", "suicide", "bombing", "and", "firefighters", ",", "grim", "reminders", "that", ",", "as", "U.S.", "Central", "Command", "put", "it", ",", "Baghdad", "is", "still", "an", "ugly", "place", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "CNN's John Irvine",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E43-70",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030410.1600.03-1-R2",
+  "mentionArg1" : {
+    "extent" : "CNN's John Irvine",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E42-69",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030410.1600.03-1-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "CNN 's John Irvine has this profile of a city literally teetering on a razor 's edge .",
+  "sentence_index" : 1,
+  "Tokens" : [ "CNN", "'s", "John", "Irvine", "has", "this", "profile", "of", "a", "city", "literally", "teetering", "on", "a", "razor", "'s", "edge", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the U.S. Marines",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E40-73",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "CNN_IP_20030410.1600.03-1-R3",
+  "mentionArg1" : {
+    "extent" : "the U.S. Marines",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E44-72",
+    "start" : 18,
+    "end" : 20
+  },
+  "id" : "CNN_IP_20030410.1600.03-1-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "( BEGIN VIDEOTAPE ) JOHN IRVINE , CNN CORRESPONDENT ( voice-over ) Getting acquainted , very deliberately , the U.S. Marines are trying to strike up a rapport with the people who are now their responsibility .",
+  "sentence_index" : 2,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "JOHN", "IRVINE", ",", "CNN", "CORRESPONDENT", "(", "voice-over", ")", "Getting", "acquainted", ",", "very", "deliberately", ",", "the", "U.S.", "Marines", "are", "trying", "to", "strike", "up", "a", "rapport", "with", "the", "people", "who", "are", "now", "their", "responsibility", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In the pitch black of a city without power, these soldiers manning a roadblock became nervous",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "a city without power",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E24-78",
+    "start" : 5,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030410.1600.03-1-R4",
+  "mentionArg1" : {
+    "extent" : "these soldiers manning a roadblock",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E47-79",
+    "start" : 10,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030410.1600.03-1-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In the pitch black of a city without power , these soldiers manning a roadblock became nervous .",
+  "sentence_index" : 4,
+  "Tokens" : [ "In", "the", "pitch", "black", "of", "a", "city", "without", "power", ",", "these", "soldiers", "manning", "a", "roadblock", "became", "nervous", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In the pitch black of a city without power, these soldiers manning a roadblock became nervous",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "a roadblock",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E1-80",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030410.1600.03-1-R5",
+  "mentionArg1" : {
+    "extent" : "these soldiers manning a roadblock",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E47-79",
+    "start" : 10,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030410.1600.03-1-R5-1",
+  "relationSubType" : "Near",
+  "Sentence" : "In the pitch black of a city without power , these soldiers manning a roadblock became nervous .",
+  "sentence_index" : 4,
+  "Tokens" : [ "In", "the", "pitch", "black", "of", "a", "city", "without", "power", ",", "these", "soldiers", "manning", "a", "roadblock", "became", "nervous", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "parts of Baghdad that the Americans haven't yet reached",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E24-7",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030410.1600.03-1-R6",
+  "mentionArg1" : {
+    "extent" : "parts of Baghdad that the Americans haven't yet reached",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E5-5",
+    "start" : 1,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030410.1600.03-1-R6-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "In parts of Baghdad that the Americans have n't yet reached , there has been looting .",
+  "sentence_index" : 9,
+  "Tokens" : [ "In", "parts", "of", "Baghdad", "that", "the", "Americans", "have", "n't", "yet", "reached", ",", "there", "has", "been", "looting", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the home of Uday Hussein, Saddam's eldest son",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "the home of Uday Hussein, Saddam's eldest son",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E7-10",
+    "start" : 9,
+    "end" : 18
+  },
+  "relationID" : "CNN_IP_20030410.1600.03-1-R7",
+  "mentionArg1" : {
+    "extent" : "Uday Hussein",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E8-12",
+    "start" : 12,
+    "end" : 13
+  },
+  "id" : "CNN_IP_20030410.1600.03-1-R7-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "This man took the horse from a stable at the home of Uday Hussein , Saddam 's eldest son .",
+  "sentence_index" : 10,
+  "Tokens" : [ "This", "man", "took", "the", "horse", "from", "a", "stable", "at", "the", "home", "of", "Uday", "Hussein", ",", "Saddam", "'s", "eldest", "son", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "one of Uday's homes",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "one of Uday's homes",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E7-23",
+    "start" : 3,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030410.1600.03-1-R7",
+  "mentionArg1" : {
+    "extent" : "Uday",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E8-25",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "CNN_IP_20030410.1600.03-1-R7-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "This indeed was one of Uday 's homes .",
+  "sentence_index" : 12,
+  "Tokens" : [ "This", "indeed", "was", "one", "of", "Uday", "'s", "homes", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Saddam's eldest son",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Saddam's eldest son",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E8-13",
+    "start" : 15,
+    "end" : 18
+  },
+  "relationID" : "CNN_IP_20030410.1600.03-1-R8",
+  "mentionArg1" : {
+    "extent" : "Saddam",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E10-14",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030410.1600.03-1-R8-1",
+  "relationSubType" : "Family",
+  "Sentence" : "This man took the horse from a stable at the home of Uday Hussein , Saddam 's eldest son .",
+  "sentence_index" : 10,
+  "Tokens" : [ "This", "man", "took", "the", "horse", "from", "a", "stable", "at", "the", "home", "of", "Uday", "Hussein", ",", "Saddam", "'s", "eldest", "son", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Here, the ruling family could look out over the Tigris",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "the Tigris",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E18-27",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030410.1600.03-1-R10",
+  "mentionArg1" : {
+    "extent" : "the ruling family",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E17-26",
+    "start" : 2,
+    "end" : 4
+  },
+  "id" : "CNN_IP_20030410.1600.03-1-R10-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Here , the ruling family could look out over the Tigris .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Here", ",", "the", "ruling", "family", "could", "look", "out", "over", "the", "Tigris", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a home of a senior member of the Mukhabarat, Saddam's dreaded secret police",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "a home of a senior member of the Mukhabarat, Saddam's dreaded secret police",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E21-35",
+    "start" : 8,
+    "end" : 22
+  },
+  "relationID" : "CNN_IP_20030410.1600.03-1-R11",
+  "mentionArg1" : {
+    "extent" : "a senior member of the Mukhabarat, Saddam's dreaded secret police",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E22-36",
+    "start" : 11,
+    "end" : 22
+  },
+  "id" : "CNN_IP_20030410.1600.03-1-R11-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "( voice-over ) : These Iraqis were rifling a home of a senior member of the Mukhabarat , Saddam 's dreaded secret police .",
+  "sentence_index" : 18,
+  "Tokens" : [ "(", "voice-over", ")", ":", "These", "Iraqis", "were", "rifling", "a", "home", "of", "a", "senior", "member", "of", "the", "Mukhabarat", ",", "Saddam", "'s", "dreaded", "secret", "police", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Saddam's dreaded secret police",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Saddam's dreaded secret police",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E23-39",
+    "start" : 18,
+    "end" : 22
+  },
+  "relationID" : "CNN_IP_20030410.1600.03-1-R12",
+  "mentionArg1" : {
+    "extent" : "Saddam",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E10-40",
+    "start" : 18,
+    "end" : 18
+  },
+  "id" : "CNN_IP_20030410.1600.03-1-R12-1",
+  "relationSubType" : "Ownership",
+  "Sentence" : "( voice-over ) : These Iraqis were rifling a home of a senior member of the Mukhabarat , Saddam 's dreaded secret police .",
+  "sentence_index" : 18,
+  "Tokens" : [ "(", "voice-over", ")", ":", "These", "Iraqis", "were", "rifling", "a", "home", "of", "a", "senior", "member", "of", "the", "Mukhabarat", ",", "Saddam", "'s", "dreaded", "secret", "police", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the bowels of a secret police monitoring station",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "a secret police monitoring station",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E27-51",
+    "start" : 12,
+    "end" : 16
+  },
+  "relationID" : "CNN_IP_20030410.1600.03-1-R13",
+  "mentionArg1" : {
+    "extent" : "the bowels of a secret police monitoring station",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E27-50",
+    "start" : 9,
+    "end" : 16
+  },
+  "id" : "CNN_IP_20030410.1600.03-1-R13-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "( on camera ) : We 're now in the bowels of a secret police monitoring station .",
+  "sentence_index" : 23,
+  "Tokens" : [ "(", "on", "camera", ")", ":", "We", "'re", "now", "in", "the", "bowels", "of", "a", "secret", "police", "monitoring", "station", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the bowels of a secret police monitoring station",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "a secret police monitoring station",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E27-51",
+    "start" : 12,
+    "end" : 16
+  },
+  "relationID" : "CNN_IP_20030410.1600.03-1-R14",
+  "mentionArg1" : {
+    "extent" : "police",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E23-52",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030410.1600.03-1-R14-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "( on camera ) : We 're now in the bowels of a secret police monitoring station .",
+  "sentence_index" : 23,
+  "Tokens" : [ "(", "on", "camera", ")", ":", "We", "'re", "now", "in", "the", "bowels", "of", "a", "secret", "police", "monitoring", "station", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the German Embassy",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "German",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E35-57",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030410.1600.03-1-R15",
+  "mentionArg1" : {
+    "extent" : "the German Embassy",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E34-56",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030410.1600.03-1-R15-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "These thieves are trying to flee the German Embassy , having been shot at by a guard .",
+  "sentence_index" : 27,
+  "Tokens" : [ "These", "thieves", "are", "trying", "to", "flee", "the", "German", "Embassy", ",", "having", "been", "shot", "at", "by", "a", "guard", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "John Irvine, ITV News, Baghdad",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "ITV News",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E37-60",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030410.1600.03-1-R16",
+  "mentionArg1" : {
+    "extent" : "John Irvine",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E42-59",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030410.1600.03-1-R16-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "John Irvine , ITV News , Baghdad .",
+  "sentence_index" : 28,
+  "Tokens" : [ "John", "Irvine", ",", "ITV", "News", ",", "Baghdad", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "John Irvine, ITV News, Baghdad",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E24-61",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030410.1600.03-1-R17",
+  "mentionArg1" : {
+    "extent" : "John Irvine",
+    "argMentionid" : "CNN_IP_20030410.1600.03-1-E42-59",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030410.1600.03-1-R17-1",
+  "relationSubType" : "Located",
+  "Sentence" : "John Irvine , ITV News , Baghdad .",
+  "sentence_index" : 28,
+  "Tokens" : [ "John", "Irvine", ",", "ITV", "News", ",", "Baghdad", "." ]
+} ]

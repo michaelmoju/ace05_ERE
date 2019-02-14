@@ -1,0 +1,1365 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "the biblical birthplace of the prophet Abraham",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "the biblical birthplace of the prophet Abraham",
+    "argMentionid" : "APW_ENG_20030415.0742-E22-227",
+    "start" : 2,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030415.0742-R1",
+  "mentionArg1" : {
+    "extent" : "the prophet Abraham",
+    "argMentionid" : "APW_ENG_20030415.0742-E146-266",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030415.0742-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Meeting in the biblical birthplace of the prophet Abraham , delegates from Iraq 's many factions discussed the role of religion in the future government and ways to rebuild the country .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Meeting", "in", "the", "biblical", "birthplace", "of", "the", "prophet", "Abraham", ",", "delegates", "from", "Iraq", "'s", "many", "factions", "discussed", "the", "role", "of", "religion", "in", "the", "future", "government", "and", "ways", "to", "rebuild", "the", "country", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Meeting in the biblical birthplace of the prophet Abraham, delegates from Iraq's many factions discussed the role of religion in the future government and ways to rebuild the country",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "the biblical birthplace of the prophet Abraham",
+    "argMentionid" : "APW_ENG_20030415.0742-E22-227",
+    "start" : 2,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030415.0742-R2",
+  "mentionArg1" : {
+    "extent" : "delegates from Iraq's many factions",
+    "argMentionid" : "APW_ENG_20030415.0742-E148-268",
+    "start" : 10,
+    "end" : 15
+  },
+  "id" : "APW_ENG_20030415.0742-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Meeting in the biblical birthplace of the prophet Abraham , delegates from Iraq 's many factions discussed the role of religion in the future government and ways to rebuild the country .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Meeting", "in", "the", "biblical", "birthplace", "of", "the", "prophet", "Abraham", ",", "delegates", "from", "Iraq", "'s", "many", "factions", "discussed", "the", "role", "of", "religion", "in", "the", "future", "government", "and", "ways", "to", "rebuild", "the", "country", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "some Shiite Muslim groups",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "Shiite Muslim",
+    "argMentionid" : "APW_ENG_20030415.0742-E1-273",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030415.0742-R3",
+  "mentionArg1" : {
+    "extent" : "some Shiite Muslim groups",
+    "argMentionid" : "APW_ENG_20030415.0742-E149-272",
+    "start" : 1,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030415.0742-R3-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "But some Shiite Muslim groups boycotted the meeting and thousands protested nearby .",
+  "sentence_index" : 2,
+  "Tokens" : [ "But", "some", "Shiite", "Muslim", "groups", "boycotted", "the", "meeting", "and", "thousands", "protested", "nearby", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Retired Lt. Gen. Jay Garner, who will head the U.S.-led interim administration in Iraq, opened the conference under a golden-colored tent in the shadows of the 4,000-year-old ziggurat at Ur, a terraced temple platform of the ancient Sumerians",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "a golden-colored tent",
+    "argMentionid" : "APW_ENG_20030415.0742-E88-165",
+    "start" : 20,
+    "end" : 22
+  },
+  "relationID" : "APW_ENG_20030415.0742-R4",
+  "mentionArg1" : {
+    "extent" : "Retired Lt. Gen. Jay Garner, who will head the U.S.-led interim administration in Iraq",
+    "argMentionid" : "APW_ENG_20030415.0742-E7-9",
+    "start" : 0,
+    "end" : 14
+  },
+  "id" : "APW_ENG_20030415.0742-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Retired Lt. Gen. Jay Garner , who will head the U.S.-led interim administration in Iraq , opened the conference under a golden-colored tent in the shadows of the 4,000-year-old ziggurat at Ur , a terraced temple platform of the ancient Sumerians .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Retired", "Lt.", "Gen.", "Jay", "Garner", ",", "who", "will", "head", "the", "U.S.-led", "interim", "administration", "in", "Iraq", ",", "opened", "the", "conference", "under", "a", "golden-colored", "tent", "in", "the", "shadows", "of", "the", "4,000-year-old", "ziggurat", "at", "Ur", ",", "a", "terraced", "temple", "platform", "of", "the", "ancient", "Sumerians", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a golden-colored tent in the shadows of the 4,000-year-old ziggurat at Ur, a terraced temple platform of the ancient Sumerians",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "the 4,000-year-old ziggurat at Ur",
+    "argMentionid" : "APW_ENG_20030415.0742-E11-15",
+    "start" : 27,
+    "end" : 31
+  },
+  "relationID" : "APW_ENG_20030415.0742-R5",
+  "mentionArg1" : {
+    "extent" : "a golden-colored tent",
+    "argMentionid" : "APW_ENG_20030415.0742-E88-165",
+    "start" : 20,
+    "end" : 22
+  },
+  "id" : "APW_ENG_20030415.0742-R5-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Retired Lt. Gen. Jay Garner , who will head the U.S.-led interim administration in Iraq , opened the conference under a golden-colored tent in the shadows of the 4,000-year-old ziggurat at Ur , a terraced temple platform of the ancient Sumerians .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Retired", "Lt.", "Gen.", "Jay", "Garner", ",", "who", "will", "head", "the", "U.S.-led", "interim", "administration", "in", "Iraq", ",", "opened", "the", "conference", "under", "a", "golden-colored", "tent", "in", "the", "shadows", "of", "the", "4,000-year-old", "ziggurat", "at", "Ur", ",", "a", "terraced", "temple", "platform", "of", "the", "ancient", "Sumerians", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a golden-colored tent in the shadows of the 4,000-year-old ziggurat at Ur, a terraced temple platform of the ancient Sumerians",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Ur",
+    "argMentionid" : "APW_ENG_20030415.0742-E122-226",
+    "start" : 31,
+    "end" : 31
+  },
+  "relationID" : "APW_ENG_20030415.0742-R6",
+  "mentionArg1" : {
+    "extent" : "the 4,000-year-old ziggurat at Ur",
+    "argMentionid" : "APW_ENG_20030415.0742-E11-15",
+    "start" : 27,
+    "end" : 31
+  },
+  "id" : "APW_ENG_20030415.0742-R6-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Retired Lt. Gen. Jay Garner , who will head the U.S.-led interim administration in Iraq , opened the conference under a golden-colored tent in the shadows of the 4,000-year-old ziggurat at Ur , a terraced temple platform of the ancient Sumerians .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Retired", "Lt.", "Gen.", "Jay", "Garner", ",", "who", "will", "head", "the", "U.S.-led", "interim", "administration", "in", "Iraq", ",", "opened", "the", "conference", "under", "a", "golden-colored", "tent", "in", "the", "shadows", "of", "the", "4,000-year-old", "ziggurat", "at", "Ur", ",", "a", "terraced", "temple", "platform", "of", "the", "ancient", "Sumerians", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "White House envoy",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "White House",
+    "argMentionid" : "APW_ENG_20030415.0742-E9-259",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030415.0742-R7",
+  "mentionArg1" : {
+    "extent" : "White House envoy",
+    "argMentionid" : "APW_ENG_20030415.0742-E18-32",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030415.0742-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "White House envoy Zalmay Khalilzad told delegates that the United States has `` no interest , absolutely no interest , in ruling Iraq . ''",
+  "sentence_index" : 8,
+  "Tokens" : [ "White", "House", "envoy", "Zalmay", "Khalilzad", "told", "delegates", "that", "the", "United", "States", "has", "``", "no", "interest", ",", "absolutely", "no", "interest", ",", "in", "ruling", "Iraq", ".", "''" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "UR, Iraq",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "APW_ENG_20030415.0742-E15-82",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "APW_ENG_20030415.0742-R8",
+  "mentionArg1" : {
+    "extent" : "UR, Iraq",
+    "argMentionid" : "APW_ENG_20030415.0742-E22-1",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030415.0742-R8-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "UR , Iraq ( AP ) A U.S.-sponsored forum that brought Iraqi opposition leaders together to shape the country 's postwar government began Tuesday with a U.S. promise not to rule Iraq and concluded with an agreement to meet again in 10 days .",
+  "sentence_index" : 0,
+  "Tokens" : [ "UR", ",", "Iraq", "(", "AP", ")", "A", "U.S.-sponsored", "forum", "that", "brought", "Iraqi", "opposition", "leaders", "together", "to", "shape", "the", "country", "'s", "postwar", "government", "began", "Tuesday", "with", "a", "U.S.", "promise", "not", "to", "rule", "Iraq", "and", "concluded", "with", "an", "agreement", "to", "meet", "again", "in", "10", "days", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Kurds, Sunnis and Shiites from inside the country",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "the country",
+    "argMentionid" : "APW_ENG_20030415.0742-E15-246",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030415.0742-R9",
+  "mentionArg1" : {
+    "extent" : "Kurds",
+    "argMentionid" : "APW_ENG_20030415.0742-E138-252",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030415.0742-R9-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Participants included Kurds , Sunnis and Shiites from inside the country and others who spent years in exile .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Participants", "included", "Kurds", ",", "Sunnis", "and", "Shiites", "from", "inside", "the", "country", "and", "others", "who", "spent", "years", "in", "exile", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iraqi opposition leaders",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030415.0742-E15-228",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030415.0742-R10",
+  "mentionArg1" : {
+    "extent" : "Iraqi opposition leaders",
+    "argMentionid" : "APW_ENG_20030415.0742-E143-261",
+    "start" : 11,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030415.0742-R10-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "UR , Iraq ( AP ) A U.S.-sponsored forum that brought Iraqi opposition leaders together to shape the country 's postwar government began Tuesday with a U.S. promise not to rule Iraq and concluded with an agreement to meet again in 10 days .",
+  "sentence_index" : 0,
+  "Tokens" : [ "UR", ",", "Iraq", "(", "AP", ")", "A", "U.S.-sponsored", "forum", "that", "brought", "Iraqi", "opposition", "leaders", "together", "to", "shape", "the", "country", "'s", "postwar", "government", "began", "Tuesday", "with", "a", "U.S.", "promise", "not", "to", "rule", "Iraq", "and", "concluded", "with", "an", "agreement", "to", "meet", "again", "in", "10", "days", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iraqi opposition leaders",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030415.0742-E15-157",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030415.0742-R10",
+  "mentionArg1" : {
+    "extent" : "Iraqi opposition leaders",
+    "argMentionid" : "APW_ENG_20030415.0742-E143-156",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030415.0742-R10-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Iraqi opposition leaders fear the United States is trying to force Ahmed Chalabi , head of the London-based umbrella Iraqi National Congress , on them as leader of a new Iraqi administration .",
+  "sentence_index" : 34,
+  "Tokens" : [ "Iraqi", "opposition", "leaders", "fear", "the", "United", "States", "is", "trying", "to", "force", "Ahmed", "Chalabi", ",", "head", "of", "the", "London-based", "umbrella", "Iraqi", "National", "Congress", ",", "on", "them", "as", "leader", "of", "a", "new", "Iraqi", "administration", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the country's postwar government",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "the country",
+    "argMentionid" : "APW_ENG_20030415.0742-E15-262",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030415.0742-R11",
+  "mentionArg1" : {
+    "extent" : "the country's postwar government",
+    "argMentionid" : "APW_ENG_20030415.0742-E144-263",
+    "start" : 17,
+    "end" : 21
+  },
+  "id" : "APW_ENG_20030415.0742-R11-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "UR , Iraq ( AP ) A U.S.-sponsored forum that brought Iraqi opposition leaders together to shape the country 's postwar government began Tuesday with a U.S. promise not to rule Iraq and concluded with an agreement to meet again in 10 days .",
+  "sentence_index" : 0,
+  "Tokens" : [ "UR", ",", "Iraq", "(", "AP", ")", "A", "U.S.-sponsored", "forum", "that", "brought", "Iraqi", "opposition", "leaders", "together", "to", "shape", "the", "country", "'s", "postwar", "government", "began", "Tuesday", "with", "a", "U.S.", "promise", "not", "to", "rule", "Iraq", "and", "concluded", "with", "an", "agreement", "to", "meet", "again", "in", "10", "days", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "delegates from Iraq's many factions",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Iraq's many factions",
+    "argMentionid" : "APW_ENG_20030415.0742-E3-3",
+    "start" : 12,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030415.0742-R12",
+  "mentionArg1" : {
+    "extent" : "delegates from Iraq's many factions",
+    "argMentionid" : "APW_ENG_20030415.0742-E148-268",
+    "start" : 10,
+    "end" : 15
+  },
+  "id" : "APW_ENG_20030415.0742-R12-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Meeting in the biblical birthplace of the prophet Abraham , delegates from Iraq 's many factions discussed the role of religion in the future government and ways to rebuild the country .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Meeting", "in", "the", "biblical", "birthplace", "of", "the", "prophet", "Abraham", ",", "delegates", "from", "Iraq", "'s", "many", "factions", "discussed", "the", "role", "of", "religion", "in", "the", "future", "government", "and", "ways", "to", "rebuild", "the", "country", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "their own representatives",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "their",
+    "argMentionid" : "APW_ENG_20030415.0742-E3-51",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030415.0742-R12",
+  "mentionArg1" : {
+    "extent" : "their own representatives",
+    "argMentionid" : "APW_ENG_20030415.0742-E148-30",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030415.0742-R12-2",
+  "relationSubType" : "Membership",
+  "Sentence" : "U.S. officials invited the groups , which picked their own representatives .",
+  "sentence_index" : 12,
+  "Tokens" : [ "U.S.", "officials", "invited", "the", "groups", ",", "which", "picked", "their", "own", "representatives", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iraq's many factions",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "APW_ENG_20030415.0742-E15-269",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030415.0742-R13",
+  "mentionArg1" : {
+    "extent" : "Iraq's many factions",
+    "argMentionid" : "APW_ENG_20030415.0742-E3-3",
+    "start" : 12,
+    "end" : 15
+  },
+  "id" : "APW_ENG_20030415.0742-R13-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Meeting in the biblical birthplace of the prophet Abraham , delegates from Iraq 's many factions discussed the role of religion in the future government and ways to rebuild the country .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Meeting", "in", "the", "biblical", "birthplace", "of", "the", "prophet", "Abraham", ",", "delegates", "from", "Iraq", "'s", "many", "factions", "discussed", "the", "role", "of", "religion", "in", "the", "future", "government", "and", "ways", "to", "rebuild", "the", "country", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Saddam's Baath Party",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Saddam's Baath Party",
+    "argMentionid" : "APW_ENG_20030415.0742-E4-5",
+    "start" : 5,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030415.0742-R14",
+  "mentionArg1" : {
+    "extent" : "Saddam",
+    "argMentionid" : "APW_ENG_20030415.0742-E5-6",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030415.0742-R14-1",
+  "relationSubType" : "Founder",
+  "Sentence" : "It also called for dissolving Saddam 's Baath Party but left open the question of separating church from the state .",
+  "sentence_index" : 4,
+  "Tokens" : [ "It", "also", "called", "for", "dissolving", "Saddam", "'s", "Baath", "Party", "but", "left", "open", "the", "question", "of", "separating", "church", "from", "the", "state", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the U.S.-led interim administration in Iraq",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "APW_ENG_20030415.0742-E15-14",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030415.0742-R15",
+  "mentionArg1" : {
+    "extent" : "the U.S.-led interim administration in Iraq",
+    "argMentionid" : "APW_ENG_20030415.0742-E10-13",
+    "start" : 9,
+    "end" : 14
+  },
+  "id" : "APW_ENG_20030415.0742-R15-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Retired Lt. Gen. Jay Garner , who will head the U.S.-led interim administration in Iraq , opened the conference under a golden-colored tent in the shadows of the 4,000-year-old ziggurat at Ur , a terraced temple platform of the ancient Sumerians .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Retired", "Lt.", "Gen.", "Jay", "Garner", ",", "who", "will", "head", "the", "U.S.-led", "interim", "administration", "in", "Iraq", ",", "opened", "the", "conference", "under", "a", "golden-colored", "tent", "in", "the", "shadows", "of", "the", "4,000-year-old", "ziggurat", "at", "Ur", ",", "a", "terraced", "temple", "platform", "of", "the", "ancient", "Sumerians", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a new Iraqi administration",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030415.0742-E15-153",
+    "start" : 30,
+    "end" : 30
+  },
+  "relationID" : "APW_ENG_20030415.0742-R15",
+  "mentionArg1" : {
+    "extent" : "a new Iraqi administration",
+    "argMentionid" : "APW_ENG_20030415.0742-E10-143",
+    "start" : 28,
+    "end" : 31
+  },
+  "id" : "APW_ENG_20030415.0742-R15-2",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Iraqi opposition leaders fear the United States is trying to force Ahmed Chalabi , head of the London-based umbrella Iraqi National Congress , on them as leader of a new Iraqi administration .",
+  "sentence_index" : 34,
+  "Tokens" : [ "Iraqi", "opposition", "leaders", "fear", "the", "United", "States", "is", "trying", "to", "force", "Ahmed", "Chalabi", ",", "head", "of", "the", "London-based", "umbrella", "Iraqi", "National", "Congress", ",", "on", "them", "as", "leader", "of", "a", "new", "Iraqi", "administration", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a terraced temple platform of the ancient Sumerians",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "a terraced temple platform of the ancient Sumerians",
+    "argMentionid" : "APW_ENG_20030415.0742-E11-16",
+    "start" : 33,
+    "end" : 40
+  },
+  "relationID" : "APW_ENG_20030415.0742-R16",
+  "mentionArg1" : {
+    "extent" : "the ancient Sumerians",
+    "argMentionid" : "APW_ENG_20030415.0742-E13-17",
+    "start" : 38,
+    "end" : 40
+  },
+  "id" : "APW_ENG_20030415.0742-R16-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Retired Lt. Gen. Jay Garner , who will head the U.S.-led interim administration in Iraq , opened the conference under a golden-colored tent in the shadows of the 4,000-year-old ziggurat at Ur , a terraced temple platform of the ancient Sumerians .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Retired", "Lt.", "Gen.", "Jay", "Garner", ",", "who", "will", "head", "the", "U.S.-led", "interim", "administration", "in", "Iraq", ",", "opened", "the", "conference", "under", "a", "golden-colored", "tent", "in", "the", "shadows", "of", "the", "4,000-year-old", "ziggurat", "at", "Ur", ",", "a", "terraced", "temple", "platform", "of", "the", "ancient", "Sumerians", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Kurds, Sunnis and Shiites from inside the country",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "the country",
+    "argMentionid" : "APW_ENG_20030415.0742-E15-246",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030415.0742-R17",
+  "mentionArg1" : {
+    "extent" : "Sunnis",
+    "argMentionid" : "APW_ENG_20030415.0742-E123-229",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030415.0742-R17-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Participants included Kurds , Sunnis and Shiites from inside the country and others who spent years in exile .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Participants", "included", "Kurds", ",", "Sunnis", "and", "Shiites", "from", "inside", "the", "country", "and", "others", "who", "spent", "years", "in", "exile", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. officials",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030415.0742-E9-48",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030415.0742-R18",
+  "mentionArg1" : {
+    "extent" : "U.S. officials",
+    "argMentionid" : "APW_ENG_20030415.0742-E26-47",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030415.0742-R18-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "U.S. officials invited the groups , which picked their own representatives .",
+  "sentence_index" : 12,
+  "Tokens" : [ "U.S.", "officials", "invited", "the", "groups", ",", "which", "picked", "their", "own", "representatives", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. officials",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030415.0742-E9-78",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030415.0742-R18",
+  "mentionArg1" : {
+    "extent" : "U.S. officials",
+    "argMentionid" : "APW_ENG_20030415.0742-E26-77",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030415.0742-R18-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "U.S. officials hope more Iraqis join the process and stressed that this was just the first of many such meetings in Iraq .",
+  "sentence_index" : 17,
+  "Tokens" : [ "U.S.", "officials", "hope", "more", "Iraqis", "join", "the", "process", "and", "stressed", "that", "this", "was", "just", "the", "first", "of", "many", "such", "meetings", "in", "Iraq", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. officials",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030415.0742-E9-177",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030415.0742-R18",
+  "mentionArg1" : {
+    "extent" : "U.S. officials",
+    "argMentionid" : "APW_ENG_20030415.0742-E26-176",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030415.0742-R18-3",
+  "relationSubType" : "Employment",
+  "Sentence" : "U.S. officials said Chalabi was brought in because he offered forces to the coalition .",
+  "sentence_index" : 36,
+  "Tokens" : [ "U.S.", "officials", "said", "Chalabi", "was", "brought", "in", "because", "he", "offered", "forces", "to", "the", "coalition", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "American officials",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "APW_ENG_20030415.0742-E9-208",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "APW_ENG_20030415.0742-R18",
+  "mentionArg1" : {
+    "extent" : "American officials",
+    "argMentionid" : "APW_ENG_20030415.0742-E26-207",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "APW_ENG_20030415.0742-R18-4",
+  "relationSubType" : "Employment",
+  "Sentence" : "He said American officials have outlined what Garner 's administration would look like : Each ministry would be headed by an American , either military or civilian .",
+  "sentence_index" : 43,
+  "Tokens" : [ "He", "said", "American", "officials", "have", "outlined", "what", "Garner", "'s", "administration", "would", "look", "like", ":", "Each", "ministry", "would", "be", "headed", "by", "an", "American", ",", "either", "military", "or", "civilian", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a Shiite religious leader from Nasiriyah",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Nasiriyah",
+    "argMentionid" : "APW_ENG_20030415.0742-E30-108",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030415.0742-R20",
+  "mentionArg1" : {
+    "extent" : "a Shiite religious leader from Nasiriyah",
+    "argMentionid" : "APW_ENG_20030415.0742-E52-106",
+    "start" : 6,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030415.0742-R20-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Sheik Ayad Jamal Al Din , a Shiite religious leader from Nasiriyah , urged the delegates to craft a secular government , according to a pool report .",
+  "sentence_index" : 25,
+  "Tokens" : [ "Sheik", "Ayad", "Jamal", "Al", "Din", ",", "a", "Shiite", "religious", "leader", "from", "Nasiriyah", ",", "urged", "the", "delegates", "to", "craft", "a", "secular", "government", ",", "according", "to", "a", "pool", "report", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iraqi exile",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030415.0742-E15-120",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030415.0742-R21",
+  "mentionArg1" : {
+    "extent" : "Iraqi exile",
+    "argMentionid" : "APW_ENG_20030415.0742-E59-119",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030415.0742-R21-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Iraqi exile Hatem Mukhliss quoted President John F. Kennedy 's exhortation , `` Ask not what your country can do for you , but what you can do for your country , '' and called on Iraqis to write a constitution , establish a legal system and consider what role the army should play .",
+  "sentence_index" : 27,
+  "Tokens" : [ "Iraqi", "exile", "Hatem", "Mukhliss", "quoted", "President", "John", "F.", "Kennedy", "'s", "exhortation", ",", "``", "Ask", "not", "what", "your", "country", "can", "do", "for", "you", ",", "but", "what", "you", "can", "do", "for", "your", "country", ",", "''", "and", "called", "on", "Iraqis", "to", "write", "a", "constitution", ",", "establish", "a", "legal", "system", "and", "consider", "what", "role", "the", "army", "should", "play", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "your country",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "your country",
+    "argMentionid" : "APW_ENG_20030415.0742-E65-123",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030415.0742-R22",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "APW_ENG_20030415.0742-E66-124",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "APW_ENG_20030415.0742-R22-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Iraqi exile Hatem Mukhliss quoted President John F. Kennedy 's exhortation , `` Ask not what your country can do for you , but what you can do for your country , '' and called on Iraqis to write a constitution , establish a legal system and consider what role the army should play .",
+  "sentence_index" : 27,
+  "Tokens" : [ "Iraqi", "exile", "Hatem", "Mukhliss", "quoted", "President", "John", "F.", "Kennedy", "'s", "exhortation", ",", "``", "Ask", "not", "what", "your", "country", "can", "do", "for", "you", ",", "but", "what", "you", "can", "do", "for", "your", "country", ",", "''", "and", "called", "on", "Iraqis", "to", "write", "a", "constitution", ",", "establish", "a", "legal", "system", "and", "consider", "what", "role", "the", "army", "should", "play", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "your country",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "your country",
+    "argMentionid" : "APW_ENG_20030415.0742-E65-128",
+    "start" : 29,
+    "end" : 30
+  },
+  "relationID" : "APW_ENG_20030415.0742-R22",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "APW_ENG_20030415.0742-E66-127",
+    "start" : 29,
+    "end" : 29
+  },
+  "id" : "APW_ENG_20030415.0742-R22-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Iraqi exile Hatem Mukhliss quoted President John F. Kennedy 's exhortation , `` Ask not what your country can do for you , but what you can do for your country , '' and called on Iraqis to write a constitution , establish a legal system and consider what role the army should play .",
+  "sentence_index" : 27,
+  "Tokens" : [ "Iraqi", "exile", "Hatem", "Mukhliss", "quoted", "President", "John", "F.", "Kennedy", "'s", "exhortation", ",", "``", "Ask", "not", "what", "your", "country", "can", "do", "for", "you", ",", "but", "what", "you", "can", "do", "for", "your", "country", ",", "''", "and", "called", "on", "Iraqis", "to", "write", "a", "constitution", ",", "establish", "a", "legal", "system", "and", "consider", "what", "role", "the", "army", "should", "play", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a senior U.S. official",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030415.0742-E9-84",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030415.0742-R23",
+  "mentionArg1" : {
+    "extent" : "a senior U.S. official",
+    "argMentionid" : "APW_ENG_20030415.0742-E40-83",
+    "start" : 15,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030415.0742-R23-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "A national conference is planned to select the interim administration , perhaps within weeks , a senior U.S. official said on condition of anonymity .",
+  "sentence_index" : 19,
+  "Tokens" : [ "A", "national", "conference", "is", "planned", "to", "select", "the", "interim", "administration", ",", "perhaps", "within", "weeks", ",", "a", "senior", "U.S.", "official", "said", "on", "condition", "of", "anonymity", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Garner's team",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Garner's team",
+    "argMentionid" : "APW_ENG_20030415.0742-E50-99",
+    "start" : 36,
+    "end" : 38
+  },
+  "relationID" : "APW_ENG_20030415.0742-R24",
+  "mentionArg1" : {
+    "extent" : "Garner",
+    "argMentionid" : "APW_ENG_20030415.0742-E7-93",
+    "start" : 36,
+    "end" : 36
+  },
+  "id" : "APW_ENG_20030415.0742-R24-1",
+  "relationSubType" : "Founder",
+  "Sentence" : "The interim administration could begin handing power back to Iraqi officials within three to six months , but forming a government will take longer , said Maj. Gen. Tim Cross , the top British member of Garner 's team .",
+  "sentence_index" : 20,
+  "Tokens" : [ "The", "interim", "administration", "could", "begin", "handing", "power", "back", "to", "Iraqi", "officials", "within", "three", "to", "six", "months", ",", "but", "forming", "a", "government", "will", "take", "longer", ",", "said", "Maj.", "Gen.", "Tim", "Cross", ",", "the", "top", "British", "member", "of", "Garner", "'s", "team", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Garner's Office of Reconstruction and Humanitarian Assistance",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "Garner's Office of Reconstruction and Humanitarian Assistance",
+    "argMentionid" : "APW_ENG_20030415.0742-E50-98",
+    "start" : 0,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030415.0742-R24",
+  "mentionArg1" : {
+    "extent" : "Garner",
+    "argMentionid" : "APW_ENG_20030415.0742-E7-96",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "APW_ENG_20030415.0742-R24-2",
+  "relationSubType" : "Founder",
+  "Sentence" : "Garner 's Office of Reconstruction and Humanitarian Assistance is charged with coordinating humanitarian assistance , rebuilding infrastructure shattered by years of war and U.N. sanctions , and gradually handing back power to Iraqis leading a democratically elected government .",
+  "sentence_index" : 23,
+  "Tokens" : [ "Garner", "'s", "Office", "of", "Reconstruction", "and", "Humanitarian", "Assistance", "is", "charged", "with", "coordinating", "humanitarian", "assistance", ",", "rebuilding", "infrastructure", "shattered", "by", "years", "of", "war", "and", "U.N.", "sanctions", ",", "and", "gradually", "handing", "back", "power", "to", "Iraqis", "leading", "a", "democratically", "elected", "government", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "any Iraqi civilian administration",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "any Iraqi civilian administration",
+    "argMentionid" : "APW_ENG_20030415.0742-E31-196",
+    "start" : 5,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030415.0742-R25",
+  "mentionArg1" : {
+    "extent" : "any Iraqi civilian",
+    "argMentionid" : "APW_ENG_20030415.0742-E24-44",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030415.0742-R25-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "`` We will press for any Iraqi civilian administration regardless of what the Americans say .",
+  "sentence_index" : 41,
+  "Tokens" : [ "``", "We", "will", "press", "for", "any", "Iraqi", "civilian", "administration", "regardless", "of", "what", "the", "Americans", "say", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Kurds, Sunnis and Shiites from inside the country",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "the country",
+    "argMentionid" : "APW_ENG_20030415.0742-E15-246",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030415.0742-R26",
+  "mentionArg1" : {
+    "extent" : "Shiites",
+    "argMentionid" : "APW_ENG_20030415.0742-E124-230",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030415.0742-R26-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Participants included Kurds , Sunnis and Shiites from inside the country and others who spent years in exile .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Participants", "included", "Kurds", ",", "Sunnis", "and", "Shiites", "from", "inside", "the", "country", "and", "others", "who", "spent", "years", "in", "exile", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "any Iraqi civilian",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030415.0742-E15-197",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030415.0742-R27",
+  "mentionArg1" : {
+    "extent" : "any Iraqi civilian",
+    "argMentionid" : "APW_ENG_20030415.0742-E24-44",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030415.0742-R27-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "`` We will press for any Iraqi civilian administration regardless of what the Americans say .",
+  "sentence_index" : 41,
+  "Tokens" : [ "``", "We", "will", "press", "for", "any", "Iraqi", "civilian", "administration", "regardless", "of", "what", "the", "Americans", "say", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "separatist Kurds in Turkey",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Turkey",
+    "argMentionid" : "APW_ENG_20030415.0742-E75-155",
+    "start" : 31,
+    "end" : 31
+  },
+  "relationID" : "APW_ENG_20030415.0742-R28",
+  "mentionArg1" : {
+    "extent" : "separatist Kurds in Turkey",
+    "argMentionid" : "APW_ENG_20030415.0742-E77-154",
+    "start" : 28,
+    "end" : 31
+  },
+  "id" : "APW_ENG_20030415.0742-R28-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "That could pose a problem for the United States , because Turkey worries that Kurdish control of Kirkuk could lead to aspirations for independence and in turn encourage separatist Kurds in Turkey .",
+  "sentence_index" : 33,
+  "Tokens" : [ "That", "could", "pose", "a", "problem", "for", "the", "United", "States", ",", "because", "Turkey", "worries", "that", "Kurdish", "control", "of", "Kirkuk", "could", "lead", "to", "aspirations", "for", "independence", "and", "in", "turn", "encourage", "separatist", "Kurds", "in", "Turkey", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "his group",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "his group",
+    "argMentionid" : "APW_ENG_20030415.0742-E81-174",
+    "start" : 31,
+    "end" : 32
+  },
+  "relationID" : "APW_ENG_20030415.0742-R29",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "APW_ENG_20030415.0742-E17-173",
+    "start" : 31,
+    "end" : 31
+  },
+  "id" : "APW_ENG_20030415.0742-R29-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Chalabi was the first top Iraqi opposition leader to be airlifted by the U.S. military into southern Iraq as the fighting wound down , and he and other top members of his group plan to meet soon in Baghdad .",
+  "sentence_index" : 35,
+  "Tokens" : [ "Chalabi", "was", "the", "first", "top", "Iraqi", "opposition", "leader", "to", "be", "airlifted", "by", "the", "U.S.", "military", "into", "southern", "Iraq", "as", "the", "fighting", "wound", "down", ",", "and", "he", "and", "other", "top", "members", "of", "his", "group", "plan", "to", "meet", "soon", "in", "Baghdad", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the London-based umbrella Iraqi National Congress",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "London",
+    "argMentionid" : "APW_ENG_20030415.0742-E82-164",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030415.0742-R30",
+  "mentionArg1" : {
+    "extent" : "the London-based umbrella Iraqi National Congress",
+    "argMentionid" : "APW_ENG_20030415.0742-E81-163",
+    "start" : 16,
+    "end" : 21
+  },
+  "id" : "APW_ENG_20030415.0742-R30-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Iraqi opposition leaders fear the United States is trying to force Ahmed Chalabi , head of the London-based umbrella Iraqi National Congress , on them as leader of a new Iraqi administration .",
+  "sentence_index" : 34,
+  "Tokens" : [ "Iraqi", "opposition", "leaders", "fear", "the", "United", "States", "is", "trying", "to", "force", "Ahmed", "Chalabi", ",", "head", "of", "the", "London-based", "umbrella", "Iraqi", "National", "Congress", ",", "on", "them", "as", "leader", "of", "a", "new", "Iraqi", "administration", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the U.S. military",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030415.0742-E9-169",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030415.0742-R32",
+  "mentionArg1" : {
+    "extent" : "the U.S. military",
+    "argMentionid" : "APW_ENG_20030415.0742-E85-168",
+    "start" : 12,
+    "end" : 14
+  },
+  "id" : "APW_ENG_20030415.0742-R32-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Chalabi was the first top Iraqi opposition leader to be airlifted by the U.S. military into southern Iraq as the fighting wound down , and he and other top members of his group plan to meet soon in Baghdad .",
+  "sentence_index" : 35,
+  "Tokens" : [ "Chalabi", "was", "the", "first", "top", "Iraqi", "opposition", "leader", "to", "be", "airlifted", "by", "the", "U.S.", "military", "into", "southern", "Iraq", "as", "the", "fighting", "wound", "down", ",", "and", "he", "and", "other", "top", "members", "of", "his", "group", "plan", "to", "meet", "soon", "in", "Baghdad", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Thousands of Shiites  _  who constitute Iraq's most populous religious group but were repressed under Saddam Hussein\t_  demonstrated in nearby Nasiriyah, chanting ``No to America and no to Saddam",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "APW_ENG_20030415.0742-E15-58",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030415.0742-R33",
+  "mentionArg1" : {
+    "extent" : "Iraq's most populous religious group",
+    "argMentionid" : "APW_ENG_20030415.0742-E1-59",
+    "start" : 6,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030415.0742-R33-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Thousands of Shiites _ who constitute Iraq 's most populous religious group but were repressed under Saddam Hussein _ demonstrated in nearby Nasiriyah , chanting `` No to America and no to Saddam ! ''",
+  "sentence_index" : 14,
+  "Tokens" : [ "Thousands", "of", "Shiites", "_", "who", "constitute", "Iraq", "'s", "most", "populous", "religious", "group", "but", "were", "repressed", "under", "Saddam", "Hussein", "_", "demonstrated", "in", "nearby", "Nasiriyah", ",", "chanting", "``", "No", "to", "America", "and", "no", "to", "Saddam", "!", "''" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Shiite religious seminary in Najaf",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Najaf",
+    "argMentionid" : "APW_ENG_20030415.0742-E96-189",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "APW_ENG_20030415.0742-R34",
+  "mentionArg1" : {
+    "extent" : "the Shiite religious seminary in Najaf",
+    "argMentionid" : "APW_ENG_20030415.0742-E95-45",
+    "start" : 16,
+    "end" : 21
+  },
+  "id" : "APW_ENG_20030415.0742-R34-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "The protesters held banners written in English and Arabic saying the `` Hawza , '' or the Shiite religious seminary in Najaf , represents them .",
+  "sentence_index" : 39,
+  "Tokens" : [ "The", "protesters", "held", "banners", "written", "in", "English", "and", "Arabic", "saying", "the", "``", "Hawza", ",", "''", "or", "the", "Shiite", "religious", "seminary", "in", "Najaf", ",", "represents", "them", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "an Iraqi physician",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030415.0742-E15-205",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030415.0742-R35",
+  "mentionArg1" : {
+    "extent" : "an Iraqi physician",
+    "argMentionid" : "APW_ENG_20030415.0742-E101-202",
+    "start" : 13,
+    "end" : 15
+  },
+  "id" : "APW_ENG_20030415.0742-R35-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "An administration by Garner is not acceptable , '' said Mowaffak al-Rubaie , an Iraqi physician and opposition activist .",
+  "sentence_index" : 42,
+  "Tokens" : [ "An", "administration", "by", "Garner", "is", "not", "acceptable", ",", "''", "said", "Mowaffak", "al-Rubaie", ",", "an", "Iraqi", "physician", "and", "opposition", "activist", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "two American deputies",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "APW_ENG_20030415.0742-E9-221",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030415.0742-R36",
+  "mentionArg1" : {
+    "extent" : "two American deputies",
+    "argMentionid" : "APW_ENG_20030415.0742-E108-213",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030415.0742-R36-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Each minister would have two American deputies and eight American advisers , plus four Iraqi advisers from inside the country and four Iraqi exiles .",
+  "sentence_index" : 44,
+  "Tokens" : [ "Each", "minister", "would", "have", "two", "American", "deputies", "and", "eight", "American", "advisers", ",", "plus", "four", "Iraqi", "advisers", "from", "inside", "the", "country", "and", "four", "Iraqi", "exiles", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "eight American advisers",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "APW_ENG_20030415.0742-E9-222",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030415.0742-R37",
+  "mentionArg1" : {
+    "extent" : "eight American advisers",
+    "argMentionid" : "APW_ENG_20030415.0742-E109-214",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030415.0742-R37-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Each minister would have two American deputies and eight American advisers , plus four Iraqi advisers from inside the country and four Iraqi exiles .",
+  "sentence_index" : 44,
+  "Tokens" : [ "Each", "minister", "would", "have", "two", "American", "deputies", "and", "eight", "American", "advisers", ",", "plus", "four", "Iraqi", "advisers", "from", "inside", "the", "country", "and", "four", "Iraqi", "exiles", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "four Iraqi advisers from inside the country",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030415.0742-E15-223",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030415.0742-R38",
+  "mentionArg1" : {
+    "extent" : "four Iraqi advisers from inside the country",
+    "argMentionid" : "APW_ENG_20030415.0742-E110-215",
+    "start" : 13,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030415.0742-R38-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Each minister would have two American deputies and eight American advisers , plus four Iraqi advisers from inside the country and four Iraqi exiles .",
+  "sentence_index" : 44,
+  "Tokens" : [ "Each", "minister", "would", "have", "two", "American", "deputies", "and", "eight", "American", "advisers", ",", "plus", "four", "Iraqi", "advisers", "from", "inside", "the", "country", "and", "four", "Iraqi", "exiles", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "four Iraqi exiles",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030415.0742-E15-224",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "APW_ENG_20030415.0742-R39",
+  "mentionArg1" : {
+    "extent" : "four Iraqi exiles",
+    "argMentionid" : "APW_ENG_20030415.0742-E111-216",
+    "start" : 21,
+    "end" : 23
+  },
+  "id" : "APW_ENG_20030415.0742-R39-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Each minister would have two American deputies and eight American advisers , plus four Iraqi advisers from inside the country and four Iraqi exiles .",
+  "sentence_index" : 44,
+  "Tokens" : [ "Each", "minister", "would", "have", "two", "American", "deputies", "and", "eight", "American", "advisers", ",", "plus", "four", "Iraqi", "advisers", "from", "inside", "the", "country", "and", "four", "Iraqi", "exiles", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Associated Press writer Patrick McDowell in Kuwait City",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Kuwait City",
+    "argMentionid" : "APW_ENG_20030415.0742-E112-217",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030415.0742-R40",
+  "mentionArg1" : {
+    "extent" : "Associated Press writer Patrick McDowell",
+    "argMentionid" : "APW_ENG_20030415.0742-E113-218",
+    "start" : 4,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030415.0742-R40-1",
+  "relationSubType" : "Located",
+  "Sentence" : "_ _ _ = Associated Press writer Patrick McDowell in Kuwait City contributed to this report .",
+  "sentence_index" : 45,
+  "Tokens" : [ "_", "_", "_", "=", "Associated", "Press", "writer", "Patrick", "McDowell", "in", "Kuwait", "City", "contributed", "to", "this", "report", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Thousands of Shiites  _  who constitute Iraq's most populous religious group but were repressed under Saddam Hussein\t_  demonstrated in nearby Nasiriyah, chanting ``No to America and no to Saddam",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "nearby Nasiriyah",
+    "argMentionid" : "APW_ENG_20030415.0742-E30-61",
+    "start" : 21,
+    "end" : 22
+  },
+  "relationID" : "APW_ENG_20030415.0742-R41",
+  "mentionArg1" : {
+    "extent" : "Thousands of Shiites  _  who constitute Iraq's most populous religious group but were repressed under Saddam Hussein",
+    "argMentionid" : "APW_ENG_20030415.0742-E29-56",
+    "start" : 0,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030415.0742-R41-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Thousands of Shiites _ who constitute Iraq 's most populous religious group but were repressed under Saddam Hussein _ demonstrated in nearby Nasiriyah , chanting `` No to America and no to Saddam ! ''",
+  "sentence_index" : 14,
+  "Tokens" : [ "Thousands", "of", "Shiites", "_", "who", "constitute", "Iraq", "'s", "most", "populous", "religious", "group", "but", "were", "repressed", "under", "Saddam", "Hussein", "_", "demonstrated", "in", "nearby", "Nasiriyah", ",", "chanting", "``", "No", "to", "America", "and", "no", "to", "Saddam", "!", "''" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the largest Iraqi Shiite group",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030415.0742-E15-71",
+    "start" : 33,
+    "end" : 33
+  },
+  "relationID" : "APW_ENG_20030415.0742-R42",
+  "mentionArg1" : {
+    "extent" : "the largest Iraqi Shiite group",
+    "argMentionid" : "APW_ENG_20030415.0742-E35-70",
+    "start" : 31,
+    "end" : 35
+  },
+  "id" : "APW_ENG_20030415.0742-R42-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Anything other than this tramples the rights of the Iraqi people and will be a return to the era of colonization , '' said Abdul Aziz Hakim , a leader of the largest Iraqi Shiite group , the Supreme Council for Islamic Revolution in Iraq .",
+  "sentence_index" : 16,
+  "Tokens" : [ "Anything", "other", "than", "this", "tramples", "the", "rights", "of", "the", "Iraqi", "people", "and", "will", "be", "a", "return", "to", "the", "era", "of", "colonization", ",", "''", "said", "Abdul", "Aziz", "Hakim", ",", "a", "leader", "of", "the", "largest", "Iraqi", "Shiite", "group", ",", "the", "Supreme", "Council", "for", "Islamic", "Revolution", "in", "Iraq", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iraqi officials",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030415.0742-E15-87",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030415.0742-R43",
+  "mentionArg1" : {
+    "extent" : "Iraqi officials",
+    "argMentionid" : "APW_ENG_20030415.0742-E42-86",
+    "start" : 9,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030415.0742-R43-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The interim administration could begin handing power back to Iraqi officials within three to six months , but forming a government will take longer , said Maj. Gen. Tim Cross , the top British member of Garner 's team .",
+  "sentence_index" : 20,
+  "Tokens" : [ "The", "interim", "administration", "could", "begin", "handing", "power", "back", "to", "Iraqi", "officials", "within", "three", "to", "six", "months", ",", "but", "forming", "a", "government", "will", "take", "longer", ",", "said", "Maj.", "Gen.", "Tim", "Cross", ",", "the", "top", "British", "member", "of", "Garner", "'s", "team", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the top British member of Garner's team",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Garner's team",
+    "argMentionid" : "APW_ENG_20030415.0742-E50-99",
+    "start" : 36,
+    "end" : 38
+  },
+  "relationID" : "APW_ENG_20030415.0742-R44",
+  "mentionArg1" : {
+    "extent" : "the top British member of Garner's team",
+    "argMentionid" : "APW_ENG_20030415.0742-E44-90",
+    "start" : 31,
+    "end" : 38
+  },
+  "id" : "APW_ENG_20030415.0742-R44-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "The interim administration could begin handing power back to Iraqi officials within three to six months , but forming a government will take longer , said Maj. Gen. Tim Cross , the top British member of Garner 's team .",
+  "sentence_index" : 20,
+  "Tokens" : [ "The", "interim", "administration", "could", "begin", "handing", "power", "back", "to", "Iraqi", "officials", "within", "three", "to", "six", "months", ",", "but", "forming", "a", "government", "will", "take", "longer", ",", "said", "Maj.", "Gen.", "Tim", "Cross", ",", "the", "top", "British", "member", "of", "Garner", "'s", "team", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the top British member of Garner's team",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "APW_ENG_20030415.0742-E46-76",
+    "start" : 33,
+    "end" : 33
+  },
+  "relationID" : "APW_ENG_20030415.0742-R45",
+  "mentionArg1" : {
+    "extent" : "the top British member of Garner's team",
+    "argMentionid" : "APW_ENG_20030415.0742-E44-90",
+    "start" : 31,
+    "end" : 38
+  },
+  "id" : "APW_ENG_20030415.0742-R45-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The interim administration could begin handing power back to Iraqi officials within three to six months , but forming a government will take longer , said Maj. Gen. Tim Cross , the top British member of Garner 's team .",
+  "sentence_index" : 20,
+  "Tokens" : [ "The", "interim", "administration", "could", "begin", "handing", "power", "back", "to", "Iraqi", "officials", "within", "three", "to", "six", "months", ",", "but", "forming", "a", "government", "will", "take", "longer", ",", "said", "Maj.", "Gen.", "Tim", "Cross", ",", "the", "top", "British", "member", "of", "Garner", "'s", "team", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the first top Iraqi opposition leader to be airlifted by the U.S. military into southern Iraq",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "APW_ENG_20030415.0742-E15-167",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030415.0742-R46",
+  "mentionArg1" : {
+    "extent" : "the first top Iraqi opposition leader to be airlifted by the U.S. military into southern Iraq",
+    "argMentionid" : "APW_ENG_20030415.0742-E17-28",
+    "start" : 2,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030415.0742-R46-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Chalabi was the first top Iraqi opposition leader to be airlifted by the U.S. military into southern Iraq as the fighting wound down , and he and other top members of his group plan to meet soon in Baghdad .",
+  "sentence_index" : 35,
+  "Tokens" : [ "Chalabi", "was", "the", "first", "top", "Iraqi", "opposition", "leader", "to", "be", "airlifted", "by", "the", "U.S.", "military", "into", "southern", "Iraq", "as", "the", "fighting", "wound", "down", ",", "and", "he", "and", "other", "top", "members", "of", "his", "group", "plan", "to", "meet", "soon", "in", "Baghdad", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "other top members of his group",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "his group",
+    "argMentionid" : "APW_ENG_20030415.0742-E81-174",
+    "start" : 31,
+    "end" : 32
+  },
+  "relationID" : "APW_ENG_20030415.0742-R47",
+  "mentionArg1" : {
+    "extent" : "other top members of his group",
+    "argMentionid" : "APW_ENG_20030415.0742-E89-172",
+    "start" : 27,
+    "end" : 32
+  },
+  "id" : "APW_ENG_20030415.0742-R47-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Chalabi was the first top Iraqi opposition leader to be airlifted by the U.S. military into southern Iraq as the fighting wound down , and he and other top members of his group plan to meet soon in Baghdad .",
+  "sentence_index" : 35,
+  "Tokens" : [ "Chalabi", "was", "the", "first", "top", "Iraqi", "opposition", "leader", "to", "be", "airlifted", "by", "the", "U.S.", "military", "into", "southern", "Iraq", "as", "the", "fighting", "wound", "down", ",", "and", "he", "and", "other", "top", "members", "of", "his", "group", "plan", "to", "meet", "soon", "in", "Baghdad", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Chalabi was the first top Iraqi opposition leader to be airlifted by the U.S. military into southern Iraq as the fighting wound down, and he and other top members of his group plan to meet soon in Baghdad",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "southern Iraq",
+    "argMentionid" : "APW_ENG_20030415.0742-E87-170",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030415.0742-R48",
+  "mentionArg1" : {
+    "extent" : "the first top Iraqi opposition leader to be airlifted by the U.S. military into southern Iraq",
+    "argMentionid" : "APW_ENG_20030415.0742-E17-28",
+    "start" : 2,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030415.0742-R48-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Chalabi was the first top Iraqi opposition leader to be airlifted by the U.S. military into southern Iraq as the fighting wound down , and he and other top members of his group plan to meet soon in Baghdad .",
+  "sentence_index" : 35,
+  "Tokens" : [ "Chalabi", "was", "the", "first", "top", "Iraqi", "opposition", "leader", "to", "be", "airlifted", "by", "the", "U.S.", "military", "into", "southern", "Iraq", "as", "the", "fighting", "wound", "down", ",", "and", "he", "and", "other", "top", "members", "of", "his", "group", "plan", "to", "meet", "soon", "in", "Baghdad", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Chalabi was the first top Iraqi opposition leader to be airlifted by the U.S. military into southern Iraq as the fighting wound down, and he and other top members of his group plan to meet soon in Baghdad",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "APW_ENG_20030415.0742-E90-175",
+    "start" : 38,
+    "end" : 38
+  },
+  "relationID" : "APW_ENG_20030415.0742-R49",
+  "mentionArg1" : {
+    "extent" : "Chalabi",
+    "argMentionid" : "APW_ENG_20030415.0742-E17-166",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "APW_ENG_20030415.0742-R49-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Chalabi was the first top Iraqi opposition leader to be airlifted by the U.S. military into southern Iraq as the fighting wound down , and he and other top members of his group plan to meet soon in Baghdad .",
+  "sentence_index" : 35,
+  "Tokens" : [ "Chalabi", "was", "the", "first", "top", "Iraqi", "opposition", "leader", "to", "be", "airlifted", "by", "the", "U.S.", "military", "into", "southern", "Iraq", "as", "the", "fighting", "wound", "down", ",", "and", "he", "and", "other", "top", "members", "of", "his", "group", "plan", "to", "meet", "soon", "in", "Baghdad", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "he and other top members of his group",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "other top members of his group",
+    "argMentionid" : "APW_ENG_20030415.0742-E89-172",
+    "start" : 27,
+    "end" : 32
+  },
+  "relationID" : "APW_ENG_20030415.0742-R50",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "APW_ENG_20030415.0742-E17-171",
+    "start" : 25,
+    "end" : 25
+  },
+  "id" : "APW_ENG_20030415.0742-R50-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Chalabi was the first top Iraqi opposition leader to be airlifted by the U.S. military into southern Iraq as the fighting wound down , and he and other top members of his group plan to meet soon in Baghdad .",
+  "sentence_index" : 35,
+  "Tokens" : [ "Chalabi", "was", "the", "first", "top", "Iraqi", "opposition", "leader", "to", "be", "airlifted", "by", "the", "U.S.", "military", "into", "southern", "Iraq", "as", "the", "fighting", "wound", "down", ",", "and", "he", "and", "other", "top", "members", "of", "his", "group", "plan", "to", "meet", "soon", "in", "Baghdad", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "forces to the coalition",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "the coalition",
+    "argMentionid" : "APW_ENG_20030415.0742-E129-235",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030415.0742-R51",
+  "mentionArg1" : {
+    "extent" : "forces",
+    "argMentionid" : "APW_ENG_20030415.0742-E128-234",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030415.0742-R51-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "U.S. officials said Chalabi was brought in because he offered forces to the coalition .",
+  "sentence_index" : 36,
+  "Tokens" : [ "U.S.", "officials", "said", "Chalabi", "was", "brought", "in", "because", "he", "offered", "forces", "to", "the", "coalition", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Each minister would have two American deputies and eight American advisers, plus four Iraqi advisers from inside the country and four Iraqi exiles",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "two American deputies",
+    "argMentionid" : "APW_ENG_20030415.0742-E108-213",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030415.0742-R55",
+  "mentionArg1" : {
+    "extent" : "Each minister",
+    "argMentionid" : "APW_ENG_20030415.0742-E107-212",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030415.0742-R55-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Each minister would have two American deputies and eight American advisers , plus four Iraqi advisers from inside the country and four Iraqi exiles .",
+  "sentence_index" : 44,
+  "Tokens" : [ "Each", "minister", "would", "have", "two", "American", "deputies", "and", "eight", "American", "advisers", ",", "plus", "four", "Iraqi", "advisers", "from", "inside", "the", "country", "and", "four", "Iraqi", "exiles", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Each minister would have two American deputies and eight American advisers, plus four Iraqi advisers from inside the country and four Iraqi exiles",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "eight American advisers",
+    "argMentionid" : "APW_ENG_20030415.0742-E109-214",
+    "start" : 8,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030415.0742-R56",
+  "mentionArg1" : {
+    "extent" : "Each minister",
+    "argMentionid" : "APW_ENG_20030415.0742-E107-212",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030415.0742-R56-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Each minister would have two American deputies and eight American advisers , plus four Iraqi advisers from inside the country and four Iraqi exiles .",
+  "sentence_index" : 44,
+  "Tokens" : [ "Each", "minister", "would", "have", "two", "American", "deputies", "and", "eight", "American", "advisers", ",", "plus", "four", "Iraqi", "advisers", "from", "inside", "the", "country", "and", "four", "Iraqi", "exiles", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Associated Press writer",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Associated Press",
+    "argMentionid" : "APW_ENG_20030415.0742-E99-220",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030415.0742-R59",
+  "mentionArg1" : {
+    "extent" : "Associated Press writer",
+    "argMentionid" : "APW_ENG_20030415.0742-E113-219",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030415.0742-R59-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "_ _ _ = Associated Press writer Patrick McDowell in Kuwait City contributed to this report .",
+  "sentence_index" : 45,
+  "Tokens" : [ "_", "_", "_", "=", "Associated", "Press", "writer", "Patrick", "McDowell", "in", "Kuwait", "City", "contributed", "to", "this", "report", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Garner's administration",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Garner's administration",
+    "argMentionid" : "APW_ENG_20030415.0742-E10-210",
+    "start" : 7,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030415.0742-R61",
+  "mentionArg1" : {
+    "extent" : "Garner",
+    "argMentionid" : "APW_ENG_20030415.0742-E7-209",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030415.0742-R61-1",
+  "relationSubType" : "Founder",
+  "Sentence" : "He said American officials have outlined what Garner 's administration would look like : Each ministry would be headed by an American , either military or civilian .",
+  "sentence_index" : 43,
+  "Tokens" : [ "He", "said", "American", "officials", "have", "outlined", "what", "Garner", "'s", "administration", "would", "look", "like", ":", "Each", "ministry", "would", "be", "headed", "by", "an", "American", ",", "either", "military", "or", "civilian", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "An administration by Garner",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "An administration by Garner",
+    "argMentionid" : "APW_ENG_20030415.0742-E10-199",
+    "start" : 0,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030415.0742-R61",
+  "mentionArg1" : {
+    "extent" : "Garner",
+    "argMentionid" : "APW_ENG_20030415.0742-E7-200",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "APW_ENG_20030415.0742-R61-2",
+  "relationSubType" : "Founder",
+  "Sentence" : "An administration by Garner is not acceptable , '' said Mowaffak al-Rubaie , an Iraqi physician and opposition activist .",
+  "sentence_index" : 42,
+  "Tokens" : [ "An", "administration", "by", "Garner", "is", "not", "acceptable", ",", "''", "said", "Mowaffak", "al-Rubaie", ",", "an", "Iraqi", "physician", "and", "opposition", "activist", "." ]
+} ]

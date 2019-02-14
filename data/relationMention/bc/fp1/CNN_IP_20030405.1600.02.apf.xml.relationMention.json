@@ -1,0 +1,903 @@
+[ {
+  "relationType" : "ART",
+  "extent" : "the third cache we've found today",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "the third cache we've found today",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E9-17",
+    "start" : 5,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R1",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E6-14",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030405.1600.02-R1-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Well , this is about the third cache we 've found today .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Well", ",", "this", "is", "about", "the", "third", "cache", "we", "'ve", "found", "today", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Coalition fighters",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "Coalition",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E49-90",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R2",
+  "mentionArg1" : {
+    "extent" : "Coalition fighters",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E48-89",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030405.1600.02-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Coalition fighters , though , use a different kind of shield .",
+  "sentence_index" : 42,
+  "Tokens" : [ "Coalition", "fighters", ",", "though", ",", "use", "a", "different", "kind", "of", "shield", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "central Iraq, where coalition forces say they are now in charge",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "central Iraq, where coalition forces say they are now in charge",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E102-209",
+    "start" : 2,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R5",
+  "mentionArg1" : {
+    "extent" : "coalition forces",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E103-211",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030405.1600.02-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Now to central Iraq , where coalition forces say they are now in charge .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Now", "to", "central", "Iraq", ",", "where", "coalition", "forces", "say", "they", "are", "now", "in", "charge", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "coalition forces",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E49-212",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R6",
+  "mentionArg1" : {
+    "extent" : "coalition forces",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E103-211",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030405.1600.02-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Now to central Iraq , where coalition forces say they are now in charge .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Now", "to", "central", "Iraq", ",", "where", "coalition", "forces", "say", "they", "are", "now", "in", "charge", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "The caches were apparently abandoned by retreating Iraqi forces",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "The caches",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E105-216",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R7",
+  "mentionArg1" : {
+    "extent" : "retreating Iraqi forces",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E107-217",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030405.1600.02-R7-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The caches were apparently abandoned by retreating Iraqi forces .",
+  "sentence_index" : 3,
+  "Tokens" : [ "The", "caches", "were", "apparently", "abandoned", "by", "retreating", "Iraqi", "forces", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "retreating Iraqi forces",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E92-218",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R8",
+  "mentionArg1" : {
+    "extent" : "retreating Iraqi forces",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E107-217",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030405.1600.02-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The caches were apparently abandoned by retreating Iraqi forces .",
+  "sentence_index" : 3,
+  "Tokens" : [ "The", "caches", "were", "apparently", "abandoned", "by", "retreating", "Iraqi", "forces", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a strategic military point about 60 miles to the south of Baghdad",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E3-5",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R9",
+  "mentionArg1" : {
+    "extent" : "a strategic military point about 60 miles to the south of Baghdad",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E1-4",
+    "start" : 11,
+    "end" : 22
+  },
+  "id" : "CNN_IP_20030405.1600.02-R9-1",
+  "relationSubType" : "Near",
+  "Sentence" : "One such cache turned up in the city of Karbala , a strategic military point about 60 miles to the south of Baghdad .",
+  "sentence_index" : 4,
+  "Tokens" : [ "One", "such", "cache", "turned", "up", "in", "the", "city", "of", "Karbala", ",", "a", "strategic", "military", "point", "about", "60", "miles", "to", "the", "south", "of", "Baghdad", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "CNN's Ryan Chilcote",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E5-7",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R10",
+  "mentionArg1" : {
+    "extent" : "CNN's Ryan Chilcote",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E4-6",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030405.1600.02-R10-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "CNN 's Ryan Chilcote is embedded with the 101st Airborne Division , and he has the story .",
+  "sentence_index" : 5,
+  "Tokens" : [ "CNN", "'s", "Ryan", "Chilcote", "is", "embedded", "with", "the", "101st", "Airborne", "Division", ",", "and", "he", "has", "the", "story", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "CNN's Ryan Chilcote is embedded with the 101st Airborne Division, and he has the story",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "the 101st Airborne Division",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E6-8",
+    "start" : 7,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R11",
+  "mentionArg1" : {
+    "extent" : "CNN's Ryan Chilcote",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E4-6",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030405.1600.02-R11-1",
+  "relationSubType" : "Business",
+  "Sentence" : "CNN 's Ryan Chilcote is embedded with the 101st Airborne Division , and he has the story .",
+  "sentence_index" : 5,
+  "Tokens" : [ "CNN", "'s", "Ryan", "Chilcote", "is", "embedded", "with", "the", "101st", "Airborne", "Division", ",", "and", "he", "has", "the", "story", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Can you show us what you've been finding today",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "what",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E9-208",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R12",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E7-12",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030405.1600.02-R12-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "( BEGIN VIDEOTAPE ) RYAN CHILCOTE , CNN CORRESPONDENT Can you show us what you 've been finding today ?",
+  "sentence_index" : 6,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "RYAN", "CHILCOTE", ",", "CNN", "CORRESPONDENT", "Can", "you", "show", "us", "what", "you", "'ve", "been", "finding", "today", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "We've been finding them nonstop, and it's a really tedious affair",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "them",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E105-16",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R13",
+  "mentionArg1" : {
+    "extent" : "We",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E6-15",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_IP_20030405.1600.02-R13-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "We 've been finding them nonstop , and it 's a really tedious affair .",
+  "sentence_index" : 10,
+  "Tokens" : [ "We", "'ve", "been", "finding", "them", "nonstop", ",", "and", "it", "'s", "a", "really", "tedious", "affair", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "I've got an assortment of weapons right here, ranging from AK-47s, to over here, behind them, you'll see mortar sights, 60-millimeter and 81",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "an assortment of weapons",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E11-19",
+    "start" : 3,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R14",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E10-18",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_IP_20030405.1600.02-R14-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "I 've got an assortment of weapons right here , ranging from AK-47s , to over here , behind them , you 'll see mortar sights , 60-millimeter and 81 .",
+  "sentence_index" : 11,
+  "Tokens" : [ "I", "'ve", "got", "an", "assortment", "of", "weapons", "right", "here", ",", "ranging", "from", "AK-47s", ",", "to", "over", "here", ",", "behind", "them", ",", "you", "'ll", "see", "mortar", "sights", ",", "60-millimeter", "and", "81", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "This -- technically, this would probably would outfit a platoon, a platoon of",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "This",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E9-52",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R15",
+  "mentionArg1" : {
+    "extent" : "a platoon",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E28-53",
+    "start" : 9,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030405.1600.02-R15-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "This -- technically , this would probably would outfit a platoon , a platoon of ( UNINTELLIGIBLE ) .",
+  "sentence_index" : 27,
+  "Tokens" : [ "This", "--", "technically", ",", "this", "would", "probably", "would", "outfit", "a", "platoon", ",", "a", "platoon", "of", "(", "UNINTELLIGIBLE", ")", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "All right. And you were talking about the makers, where some of these weapons are coming from, and you were expressing surprise to me",
+  "sentence_length" : 4,
+  "mentionArg2" : {
+    "extent" : "some of these weapons",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E33-62",
+    "start" : 13,
+    "end" : 16
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R16",
+  "mentionArg1" : {
+    "extent" : "the makers",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E32-61",
+    "start" : 9,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030405.1600.02-R16-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "CHILCOTE All right .",
+  "sentence_index" : 32,
+  "Tokens" : [ "CHILCOTE", "All", "right", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Roger. A majority of these are coming from -- (UNINTELLIGIBLE) on this box, but Jordan and France",
+  "sentence_length" : 3,
+  "mentionArg2" : {
+    "extent" : "A majority of these",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E33-65",
+    "start" : 3,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R17",
+  "mentionArg1" : {
+    "extent" : "Jordan",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E34-66",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "CNN_IP_20030405.1600.02-R17-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "CLARK Roger .",
+  "sentence_index" : 34,
+  "Tokens" : [ "CLARK", "Roger", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Roger. A majority of these are coming from -- (UNINTELLIGIBLE) on this box, but Jordan and France",
+  "sentence_length" : 3,
+  "mentionArg2" : {
+    "extent" : "A majority of these",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E33-65",
+    "start" : 3,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R18",
+  "mentionArg1" : {
+    "extent" : "France",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E35-67",
+    "start" : 21,
+    "end" : 21
+  },
+  "id" : "CNN_IP_20030405.1600.02-R18-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "CLARK Roger .",
+  "sentence_index" : 34,
+  "Tokens" : [ "CLARK", "Roger", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Russian equipment",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Russian equipment",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E37-69",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R19",
+  "mentionArg1" : {
+    "extent" : "Russian",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E38-70",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030405.1600.02-R19-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "We have a very scattered , limited , and Russian equipment , but like I said , France and Jordan are the main suppliers right here .",
+  "sentence_index" : 36,
+  "Tokens" : [ "We", "have", "a", "very", "scattered", ",", "limited", ",", "and", "Russian", "equipment", ",", "but", "like", "I", "said", ",", "France", "and", "Jordan", "are", "the", "main", "suppliers", "right", "here", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "your guys",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "your guys",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E6-75",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R20",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E10-76",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030405.1600.02-R20-1",
+  "relationSubType" : "Business",
+  "Sentence" : "CHILCOTE Now for your guys , this is dangerous work , finding ... CLARK It 's -- yes , it 's extremely dangerous , because once you enter these buildings , we found , actually , enemy , you know , guarding these sites .",
+  "sentence_index" : 37,
+  "Tokens" : [ "CHILCOTE", "Now", "for", "your", "guys", ",", "this", "is", "dangerous", "work", ",", "finding", "...", "CLARK", "It", "'s", "--", "yes", ",", "it", "'s", "extremely", "dangerous", ",", "because", "once", "you", "enter", "these", "buildings", ",", "we", "found", ",", "actually", ",", "enemy", ",", "you", "know", ",", "guarding", "these", "sites", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "It's -- yes, it's extremely dangerous, because once you enter these buildings, we found, actually, enemy, you know, guarding these sites",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "these buildings",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E41-79",
+    "start" : 28,
+    "end" : 29
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R21",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E40-78",
+    "start" : 26,
+    "end" : 26
+  },
+  "id" : "CNN_IP_20030405.1600.02-R21-1",
+  "relationSubType" : "Located",
+  "Sentence" : "CHILCOTE Now for your guys , this is dangerous work , finding ... CLARK It 's -- yes , it 's extremely dangerous , because once you enter these buildings , we found , actually , enemy , you know , guarding these sites .",
+  "sentence_index" : 37,
+  "Tokens" : [ "CHILCOTE", "Now", "for", "your", "guys", ",", "this", "is", "dangerous", "work", ",", "finding", "...", "CLARK", "It", "'s", "--", "yes", ",", "it", "'s", "extremely", "dangerous", ",", "because", "once", "you", "enter", "these", "buildings", ",", "we", "found", ",", "actually", ",", "enemy", ",", "you", "know", ",", "guarding", "these", "sites", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "It's -- yes, it's extremely dangerous, because once you enter these buildings, we found, actually, enemy, you know, guarding these sites",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "these sites",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E44-83",
+    "start" : 42,
+    "end" : 43
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R22",
+  "mentionArg1" : {
+    "extent" : "enemy",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E42-81",
+    "start" : 36,
+    "end" : 36
+  },
+  "id" : "CNN_IP_20030405.1600.02-R22-1",
+  "relationSubType" : "Located",
+  "Sentence" : "CHILCOTE Now for your guys , this is dangerous work , finding ... CLARK It 's -- yes , it 's extremely dangerous , because once you enter these buildings , we found , actually , enemy , you know , guarding these sites .",
+  "sentence_index" : 37,
+  "Tokens" : [ "CHILCOTE", "Now", "for", "your", "guys", ",", "this", "is", "dangerous", "work", ",", "finding", "...", "CLARK", "It", "'s", "--", "yes", ",", "it", "'s", "extremely", "dangerous", ",", "because", "once", "you", "enter", "these", "buildings", ",", "we", "found", ",", "actually", ",", "enemy", ",", "you", "know", ",", "guarding", "these", "sites", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Well, we've heard a whole lot about Iraq's use of human shields in defending key sites",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E92-86",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R23",
+  "mentionArg1" : {
+    "extent" : "human shields",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E46-87",
+    "start" : 18,
+    "end" : 19
+  },
+  "id" : "CNN_IP_20030405.1600.02-R23-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "( END VIDEOTAPE ) WOODRUFF Well , we 've heard a whole lot about Iraq 's use of human shields in defending key sites .",
+  "sentence_index" : 41,
+  "Tokens" : [ "(", "END", "VIDEOTAPE", ")", "WOODRUFF", "Well", ",", "we", "'ve", "heard", "a", "whole", "lot", "about", "Iraq", "'s", "use", "of", "human", "shields", "in", "defending", "key", "sites", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Well, we've heard a whole lot about Iraq's use of human shields in defending key sites",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "key sites",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E47-88",
+    "start" : 22,
+    "end" : 23
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R24",
+  "mentionArg1" : {
+    "extent" : "human shields",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E46-87",
+    "start" : 18,
+    "end" : 19
+  },
+  "id" : "CNN_IP_20030405.1600.02-R24-1",
+  "relationSubType" : "Located",
+  "Sentence" : "( END VIDEOTAPE ) WOODRUFF Well , we 've heard a whole lot about Iraq 's use of human shields in defending key sites .",
+  "sentence_index" : 41,
+  "Tokens" : [ "(", "END", "VIDEOTAPE", ")", "WOODRUFF", "Well", ",", "we", "'ve", "heard", "a", "whole", "lot", "about", "Iraq", "'s", "use", "of", "human", "shields", "in", "defending", "key", "sites", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "CNN's Kyra Phillips",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E5-93",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R25",
+  "mentionArg1" : {
+    "extent" : "CNN's Kyra Phillips",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E51-92",
+    "start" : 5,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030405.1600.02-R25-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "In a CNN exclusive , CNN 's Kyra Phillips offers us a ride-along over the city of Baghdad with some airborne bodyguards .",
+  "sentence_index" : 43,
+  "Tokens" : [ "In", "a", "CNN", "exclusive", ",", "CNN", "'s", "Kyra", "Phillips", "offers", "us", "a", "ride-along", "over", "the", "city", "of", "Baghdad", "with", "some", "airborne", "bodyguards", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iraq, Kyra Phillips, CNN",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E5-200",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R25",
+  "mentionArg1" : {
+    "extent" : "Kyra Phillips",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E51-199",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030405.1600.02-R25-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "PHILLIPS Flying over Iraq , Kyra Phillips , CNN .",
+  "sentence_index" : 71,
+  "Tokens" : [ "PHILLIPS", "Flying", "over", "Iraq", ",", "Kyra", "Phillips", ",", "CNN", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "CNN's Kyra Phillips offers us a ride-along over the city of Baghdad with some airborne bodyguards",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "the city of Baghdad",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E3-95",
+    "start" : 14,
+    "end" : 17
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R26",
+  "mentionArg1" : {
+    "extent" : "CNN's Kyra Phillips",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E51-92",
+    "start" : 5,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030405.1600.02-R26-1",
+  "relationSubType" : "Near",
+  "Sentence" : "In a CNN exclusive , CNN 's Kyra Phillips offers us a ride-along over the city of Baghdad with some airborne bodyguards .",
+  "sentence_index" : 43,
+  "Tokens" : [ "In", "a", "CNN", "exclusive", ",", "CNN", "'s", "Kyra", "Phillips", "offers", "us", "a", "ride-along", "over", "the", "city", "of", "Baghdad", "with", "some", "airborne", "bodyguards", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "CNN's Kyra Phillips offers us a ride-along over the city of Baghdad with some airborne bodyguards",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "some airborne bodyguards",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E53-97",
+    "start" : 19,
+    "end" : 21
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R27",
+  "mentionArg1" : {
+    "extent" : "CNN's Kyra Phillips",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E51-92",
+    "start" : 5,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030405.1600.02-R27-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "In a CNN exclusive , CNN 's Kyra Phillips offers us a ride-along over the city of Baghdad with some airborne bodyguards .",
+  "sentence_index" : 43,
+  "Tokens" : [ "In", "a", "CNN", "exclusive", ",", "CNN", "'s", "Kyra", "Phillips", "offers", "us", "a", "ride-along", "over", "the", "city", "of", "Baghdad", "with", "some", "airborne", "bodyguards", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "coalition bodyguards over Baghdad",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "coalition bodyguards over Baghdad",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E53-100",
+    "start" : 10,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R28",
+  "mentionArg1" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E49-101",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030405.1600.02-R28-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "KYRA PHILLIPS , CNN CORRESPONDENT ( voice-over ) They are coalition bodyguards over Baghdad , an airborne shield to U.S. Marines .",
+  "sentence_index" : 45,
+  "Tokens" : [ "KYRA", "PHILLIPS", ",", "CNN", "CORRESPONDENT", "(", "voice-over", ")", "They", "are", "coalition", "bodyguards", "over", "Baghdad", ",", "an", "airborne", "shield", "to", "U.S.", "Marines", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "an airborne shield to U.S. Marines",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "an airborne shield to U.S. Marines",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E53-104",
+    "start" : 15,
+    "end" : 20
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R29",
+  "mentionArg1" : {
+    "extent" : "U.S. Marines",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E59-105",
+    "start" : 19,
+    "end" : 20
+  },
+  "id" : "CNN_IP_20030405.1600.02-R29-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "KYRA PHILLIPS , CNN CORRESPONDENT ( voice-over ) They are coalition bodyguards over Baghdad , an airborne shield to U.S. Marines .",
+  "sentence_index" : 45,
+  "Tokens" : [ "KYRA", "PHILLIPS", ",", "CNN", "CORRESPONDENT", "(", "voice-over", ")", "They", "are", "coalition", "bodyguards", "over", "Baghdad", ",", "an", "airborne", "shield", "to", "U.S.", "Marines", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. Marines",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E60-107",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R30",
+  "mentionArg1" : {
+    "extent" : "U.S. Marines",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E59-105",
+    "start" : 19,
+    "end" : 20
+  },
+  "id" : "CNN_IP_20030405.1600.02-R30-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "KYRA PHILLIPS , CNN CORRESPONDENT ( voice-over ) They are coalition bodyguards over Baghdad , an airborne shield to U.S. Marines .",
+  "sentence_index" : 45,
+  "Tokens" : [ "KYRA", "PHILLIPS", ",", "CNN", "CORRESPONDENT", "(", "voice-over", ")", "They", "are", "coalition", "bodyguards", "over", "Baghdad", ",", "an", "airborne", "shield", "to", "U.S.", "Marines", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "You're now airborne over Iraq with Commander Steve Kroto's (ph) Gray Knights, the Navy's P-3 eyes in the sky",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E92-114",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R31",
+  "mentionArg1" : {
+    "extent" : "You",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E63-113",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030405.1600.02-R31-1",
+  "relationSubType" : "Near",
+  "Sentence" : "PHILLIPS You 're now airborne over Iraq with Commander Steve Kroto 's ( ph ) Gray Knights , the Navy 's P-3 eyes in the sky .",
+  "sentence_index" : 48,
+  "Tokens" : [ "PHILLIPS", "You", "'re", "now", "airborne", "over", "Iraq", "with", "Commander", "Steve", "Kroto", "'s", "(", "ph", ")", "Gray", "Knights", ",", "the", "Navy", "'s", "P-3", "eyes", "in", "the", "sky", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "You're now airborne over Iraq with Commander Steve Kroto's (ph) Gray Knights, the Navy's P-3 eyes in the sky",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E92-114",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R32",
+  "mentionArg1" : {
+    "extent" : "Commander Steve Kroto's (ph) Gray Knights",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E64-116",
+    "start" : 8,
+    "end" : 16
+  },
+  "id" : "CNN_IP_20030405.1600.02-R32-1",
+  "relationSubType" : "Near",
+  "Sentence" : "PHILLIPS You 're now airborne over Iraq with Commander Steve Kroto 's ( ph ) Gray Knights , the Navy 's P-3 eyes in the sky .",
+  "sentence_index" : 48,
+  "Tokens" : [ "PHILLIPS", "You", "'re", "now", "airborne", "over", "Iraq", "with", "Commander", "Steve", "Kroto", "'s", "(", "ph", ")", "Gray", "Knights", ",", "the", "Navy", "'s", "P-3", "eyes", "in", "the", "sky", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Commander Steve Kroto's (ph) Gray Knights",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Commander Steve Kroto's (ph) Gray Knights",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E64-116",
+    "start" : 8,
+    "end" : 16
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R33",
+  "mentionArg1" : {
+    "extent" : "Commander Steve Kroto",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E65-117",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030405.1600.02-R33-1",
+  "relationSubType" : "Business",
+  "Sentence" : "PHILLIPS You 're now airborne over Iraq with Commander Steve Kroto 's ( ph ) Gray Knights , the Navy 's P-3 eyes in the sky .",
+  "sentence_index" : 48,
+  "Tokens" : [ "PHILLIPS", "You", "'re", "now", "airborne", "over", "Iraq", "with", "Commander", "Steve", "Kroto", "'s", "(", "ph", ")", "Gray", "Knights", ",", "the", "Navy", "'s", "P-3", "eyes", "in", "the", "sky", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his crew",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "his crew",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E64-189",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R33",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E65-190",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "CNN_IP_20030405.1600.02-R33-2",
+  "relationSubType" : "Business",
+  "Sentence" : "PHILLIPS Commander Steve Kroto brings his crew home after locating enemy positions and surface-to-surface missiles .",
+  "sentence_index" : 68,
+  "Tokens" : [ "PHILLIPS", "Commander", "Steve", "Kroto", "brings", "his", "crew", "home", "after", "locating", "enemy", "positions", "and", "surface-to-surface", "missiles", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "They've just come across one of the Marine convoys that they need to track, so they're watching every move that the Marines make as they move towards Baghdad, making sure they don't come across any type of threat",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E3-149",
+    "start" : 30,
+    "end" : 30
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R34",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E77-148",
+    "start" : 27,
+    "end" : 27
+  },
+  "id" : "CNN_IP_20030405.1600.02-R34-1",
+  "relationSubType" : "Near",
+  "Sentence" : "They 've just come across one of the Marine convoys that they need to track , so they 're watching every move that the Marines make as they move towards Baghdad , making sure they do n't come across any type of threat .",
+  "sentence_index" : 54,
+  "Tokens" : [ "They", "'ve", "just", "come", "across", "one", "of", "the", "Marine", "convoys", "that", "they", "need", "to", "track", ",", "so", "they", "'re", "watching", "every", "move", "that", "the", "Marines", "make", "as", "they", "move", "towards", "Baghdad", ",", "making", "sure", "they", "do", "n't", "come", "across", "any", "type", "of", "threat", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "their fellow Marines on the ground",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "their fellow Marines on the ground",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E77-157",
+    "start" : 6,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R35",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E83-158",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030405.1600.02-R35-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "They are tracking and talking to their fellow Marines on the ground ... UNIDENTIFIED MALE Two vehicles move across the bridge ... PHILLIPS ... making sure they do n't get ambushed .",
+  "sentence_index" : 57,
+  "Tokens" : [ "They", "are", "tracking", "and", "talking", "to", "their", "fellow", "Marines", "on", "the", "ground", "...", "UNIDENTIFIED", "MALE", "Two", "vehicles", "move", "across", "the", "bridge", "...", "PHILLIPS", "...", "making", "sure", "they", "do", "n't", "get", "ambushed", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the routes ahead of where our guys are going to go",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "the routes ahead of where our guys are going to go",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E87-164",
+    "start" : 4,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R36",
+  "mentionArg1" : {
+    "extent" : "our guys",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E77-165",
+    "start" : 9,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030405.1600.02-R36-1",
+  "relationSubType" : "Located",
+  "Sentence" : "We 'll look at the routes ahead of where our guys are going to go and try to see what enemy is there .",
+  "sentence_index" : 59,
+  "Tokens" : [ "We", "'ll", "look", "at", "the", "routes", "ahead", "of", "where", "our", "guys", "are", "going", "to", "go", "and", "try", "to", "see", "what", "enemy", "is", "there", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his troops",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "his troops",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E77-169",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R37",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E79-170",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "CNN_IP_20030405.1600.02-R37-1",
+  "relationSubType" : "Business",
+  "Sentence" : "PHILLIPS Lukeman is warning his troops about a bridge ahead .",
+  "sentence_index" : 60,
+  "Tokens" : [ "PHILLIPS", "Lukeman", "is", "warning", "his", "troops", "about", "a", "bridge", "ahead", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Iraqi military",
+  "sentence_length" : 6,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E92-179",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R38",
+  "mentionArg1" : {
+    "extent" : "Iraqi military",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E91-178",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "CNN_IP_20030405.1600.02-R38-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "They may be Iraqi military .",
+  "sentence_index" : 64,
+  "Tokens" : [ "They", "may", "be", "Iraqi", "military", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "one more Marine that can continue on north to Baghdad",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E3-197",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R39",
+  "mentionArg1" : {
+    "extent" : "one more Marine that can continue on north to Baghdad",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E97-195",
+    "start" : 6,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030405.1600.02-R39-1",
+  "relationSubType" : "Near",
+  "Sentence" : "And one more safe Marine is one more Marine that can continue on north to Baghdad .",
+  "sentence_index" : 70,
+  "Tokens" : [ "And", "one", "more", "safe", "Marine", "is", "one", "more", "Marine", "that", "can", "continue", "on", "north", "to", "Baghdad", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "more of their own",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E100-207",
+    "start" : 39,
+    "end" : 39
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R40",
+  "mentionArg1" : {
+    "extent" : "more of their own",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E101-206",
+    "start" : 37,
+    "end" : 40
+  },
+  "id" : "CNN_IP_20030405.1600.02-R40-1",
+  "relationSubType" : "Located",
+  "Sentence" : "( END VIDEOTAPE ) WOODRUFF Coming up , we are going to go live to Fort Bliss , where the name of that base is a far cry from the mood there today , after confirmation that more of their own were killed on the battlefield .",
+  "sentence_index" : 72,
+  "Tokens" : [ "(", "END", "VIDEOTAPE", ")", "WOODRUFF", "Coming", "up", ",", "we", "are", "going", "to", "go", "live", "to", "Fort", "Bliss", ",", "where", "the", "name", "of", "that", "base", "is", "a", "far", "cry", "from", "the", "mood", "there", "today", ",", "after", "confirmation", "that", "more", "of", "their", "own", "were", "killed", "on", "the", "battlefield", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Iraq, Kyra Phillips",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E92-198",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030405.1600.02-R41",
+  "mentionArg1" : {
+    "extent" : "Kyra Phillips",
+    "argMentionid" : "CNN_IP_20030405.1600.02-E51-199",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030405.1600.02-R41-1",
+  "relationSubType" : "Located",
+  "Sentence" : "PHILLIPS Flying over Iraq , Kyra Phillips , CNN .",
+  "sentence_index" : 71,
+  "Tokens" : [ "PHILLIPS", "Flying", "over", "Iraq", ",", "Kyra", "Phillips", ",", "CNN", "." ]
+} ]

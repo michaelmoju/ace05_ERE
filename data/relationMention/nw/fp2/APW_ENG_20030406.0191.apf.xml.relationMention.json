@@ -1,0 +1,243 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "SEOUL, South Korea",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "South Korea",
+    "argMentionid" : "APW_ENG_20030406.0191-E18-86",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030406.0191-R1",
+  "mentionArg1" : {
+    "extent" : "SEOUL, South Korea",
+    "argMentionid" : "APW_ENG_20030406.0191-E15-1",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "APW_ENG_20030406.0191-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "SEOUL , South Korea ( AP ) North Korea on Sunday rejected the U.N. Security Council 's plan to discuss the standoff over its suspected nuclear weapons development , calling it `` a prelude to war . ''",
+  "sentence_index" : 0,
+  "Tokens" : [ "SEOUL", ",", "South", "Korea", "(", "AP", ")", "North", "Korea", "on", "Sunday", "rejected", "the", "U.N.", "Security", "Council", "'s", "plan", "to", "discuss", "the", "standoff", "over", "its", "suspected", "nuclear", "weapons", "development", ",", "calling", "it", "``", "a", "prelude", "to", "war", ".", "''" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "South Korean officials",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "South Korean",
+    "argMentionid" : "APW_ENG_20030406.0191-E18-97",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030406.0191-R2",
+  "mentionArg1" : {
+    "extent" : "South Korean officials",
+    "argMentionid" : "APW_ENG_20030406.0191-E38-96",
+    "start" : 2,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030406.0191-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Meanwhile , South Korean officials said Cabinet-level talks scheduled this week between the two Koreas looked unlikely to take place .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Meanwhile", ",", "South", "Korean", "officials", "said", "Cabinet-level", "talks", "scheduled", "this", "week", "between", "the", "two", "Koreas", "looked", "unlikely", "to", "take", "place", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a North Korean Foreign Ministry spokesman",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "North Korean Foreign Ministry",
+    "argMentionid" : "APW_ENG_20030406.0191-E4-10",
+    "start" : 31,
+    "end" : 34
+  },
+  "relationID" : "APW_ENG_20030406.0191-R3",
+  "mentionArg1" : {
+    "extent" : "a North Korean Foreign Ministry spokesman",
+    "argMentionid" : "APW_ENG_20030406.0191-E3-9",
+    "start" : 30,
+    "end" : 35
+  },
+  "id" : "APW_ENG_20030406.0191-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The U.N. discussions are `` a grave provocation act intended to scuttle all ( the North's ) effort for dialogue and aggravate the situation on the Korean Peninsula , '' a North Korean Foreign Ministry spokesman was quoted as saying by state-run news agency KCNA .",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "U.N.", "discussions", "are", "``", "a", "grave", "provocation", "act", "intended", "to", "scuttle", "all", "(", "the", "North's", ")", "effort", "for", "dialogue", "and", "aggravate", "the", "situation", "on", "the", "Korean", "Peninsula", ",", "''", "a", "North", "Korean", "Foreign", "Ministry", "spokesman", "was", "quoted", "as", "saying", "by", "state-run", "news", "agency", "KCNA", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Foreign Ministry spokesman",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "Foreign Ministry",
+    "argMentionid" : "APW_ENG_20030406.0191-E4-74",
+    "start" : 45,
+    "end" : 46
+  },
+  "relationID" : "APW_ENG_20030406.0191-R3",
+  "mentionArg1" : {
+    "extent" : "the Foreign Ministry spokesman",
+    "argMentionid" : "APW_ENG_20030406.0191-E3-73",
+    "start" : 44,
+    "end" : 47
+  },
+  "id" : "APW_ENG_20030406.0191-R3-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "If the U.N. Security Council cooperates with U.S. efforts to `` stifle '' North Korea , it would leave the North with `` no other option but to beef up the deterrent force for war by mobilizing all the potentials , '' KCNA quoted the Foreign Ministry spokesman as saying .",
+  "sentence_index" : 14,
+  "Tokens" : [ "If", "the", "U.N.", "Security", "Council", "cooperates", "with", "U.S.", "efforts", "to", "``", "stifle", "''", "North", "Korea", ",", "it", "would", "leave", "the", "North", "with", "``", "no", "other", "option", "but", "to", "beef", "up", "the", "deterrent", "force", "for", "war", "by", "mobilizing", "all", "the", "potentials", ",", "''", "KCNA", "quoted", "the", "Foreign", "Ministry", "spokesman", "as", "saying", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "North Korean Foreign Ministry",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "North Korean",
+    "argMentionid" : "APW_ENG_20030406.0191-E5-11",
+    "start" : 31,
+    "end" : 32
+  },
+  "relationID" : "APW_ENG_20030406.0191-R4",
+  "mentionArg1" : {
+    "extent" : "North Korean Foreign Ministry",
+    "argMentionid" : "APW_ENG_20030406.0191-E4-10",
+    "start" : 31,
+    "end" : 34
+  },
+  "id" : "APW_ENG_20030406.0191-R4-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The U.N. discussions are `` a grave provocation act intended to scuttle all ( the North's ) effort for dialogue and aggravate the situation on the Korean Peninsula , '' a North Korean Foreign Ministry spokesman was quoted as saying by state-run news agency KCNA .",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "U.N.", "discussions", "are", "``", "a", "grave", "provocation", "act", "intended", "to", "scuttle", "all", "(", "the", "North's", ")", "effort", "for", "dialogue", "and", "aggravate", "the", "situation", "on", "the", "Korean", "Peninsula", ",", "''", "a", "North", "Korean", "Foreign", "Ministry", "spokesman", "was", "quoted", "as", "saying", "by", "state-run", "news", "agency", "KCNA", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "state-run news agency",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "state",
+    "argMentionid" : "APW_ENG_20030406.0191-E5-15",
+    "start" : 41,
+    "end" : 41
+  },
+  "relationID" : "APW_ENG_20030406.0191-R5",
+  "mentionArg1" : {
+    "extent" : "state-run news agency",
+    "argMentionid" : "APW_ENG_20030406.0191-E6-13",
+    "start" : 41,
+    "end" : 43
+  },
+  "id" : "APW_ENG_20030406.0191-R5-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The U.N. discussions are `` a grave provocation act intended to scuttle all ( the North's ) effort for dialogue and aggravate the situation on the Korean Peninsula , '' a North Korean Foreign Ministry spokesman was quoted as saying by state-run news agency KCNA .",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "U.N.", "discussions", "are", "``", "a", "grave", "provocation", "act", "intended", "to", "scuttle", "all", "(", "the", "North's", ")", "effort", "for", "dialogue", "and", "aggravate", "the", "situation", "on", "the", "Korean", "Peninsula", ",", "''", "a", "North", "Korean", "Foreign", "Ministry", "spokesman", "was", "quoted", "as", "saying", "by", "state-run", "news", "agency", "KCNA", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "The U.S. administration",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030406.0191-E9-24",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030406.0191-R6",
+  "mentionArg1" : {
+    "extent" : "The U.S. administration",
+    "argMentionid" : "APW_ENG_20030406.0191-E10-23",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030406.0191-R6-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The U.S. administration has been pressing the Security Council to adopt a statement condemning Pyongyang for failing to meet its obligations to prevent the spread of nuclear arms .",
+  "sentence_index" : 8,
+  "Tokens" : [ "The", "U.S.", "administration", "has", "been", "pressing", "the", "Security", "Council", "to", "adopt", "a", "statement", "condemning", "Pyongyang", "for", "failing", "to", "meet", "its", "obligations", "to", "prevent", "the", "spread", "of", "nuclear", "arms", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. President",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030406.0191-E9-57",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030406.0191-R8",
+  "mentionArg1" : {
+    "extent" : "U.S. President",
+    "argMentionid" : "APW_ENG_20030406.0191-E25-77",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030406.0191-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Last year , U.S. President George W. Bush said North Korea was part of an `` axis of evil '' along with Iraq and Iran , and that it was developing weapons of mass destruction .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Last", "year", ",", "U.S.", "President", "George", "W.", "Bush", "said", "North", "Korea", "was", "part", "of", "an", "``", "axis", "of", "evil", "''", "along", "with", "Iraq", "and", "Iran", ",", "and", "that", "it", "was", "developing", "weapons", "of", "mass", "destruction", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "officials in Seoul",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Seoul",
+    "argMentionid" : "APW_ENG_20030406.0191-E15-83",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030406.0191-R9",
+  "mentionArg1" : {
+    "extent" : "officials in Seoul",
+    "argMentionid" : "APW_ENG_20030406.0191-E30-82",
+    "start" : 1,
+    "end" : 3
+  },
+  "id" : "APW_ENG_20030406.0191-R9-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "But officials in Seoul said Sunday that North Korea had yet to confirm that Cabinet-level meetings scheduled to begin Monday in Pyongyang would go ahead .",
+  "sentence_index" : 19,
+  "Tokens" : [ "But", "officials", "in", "Seoul", "said", "Sunday", "that", "North", "Korea", "had", "yet", "to", "confirm", "that", "Cabinet-level", "meetings", "scheduled", "to", "begin", "Monday", "in", "Pyongyang", "would", "go", "ahead", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "South Korean lawmakers",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "South Korean",
+    "argMentionid" : "APW_ENG_20030406.0191-E18-52",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030406.0191-R10",
+  "mentionArg1" : {
+    "extent" : "South Korean lawmakers",
+    "argMentionid" : "APW_ENG_20030406.0191-E16-48",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030406.0191-R10-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Also on Sunday , South Korean lawmakers said they would work to quickly set up a special parliamentary committee to deal with the North 's nuclear issue .",
+  "sentence_index" : 22,
+  "Tokens" : [ "Also", "on", "Sunday", ",", "South", "Korean", "lawmakers", "said", "they", "would", "work", "to", "quickly", "set", "up", "a", "special", "parliamentary", "committee", "to", "deal", "with", "the", "North", "'s", "nuclear", "issue", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. officials",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030406.0191-E9-46",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030406.0191-R11",
+  "mentionArg1" : {
+    "extent" : "U.S. officials",
+    "argMentionid" : "APW_ENG_20030406.0191-E14-47",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030406.0191-R11-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The nuclear standoff began in October , when U.S. officials said North Korea admitted having a secret nuclear program in violation of a 1994 agreement .",
+  "sentence_index" : 23,
+  "Tokens" : [ "The", "nuclear", "standoff", "began", "in", "October", ",", "when", "U.S.", "officials", "said", "North", "Korea", "admitted", "having", "a", "secret", "nuclear", "program", "in", "violation", "of", "a", "1994", "agreement", "." ]
+} ]

@@ -1,0 +1,441 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "Police intercepted 33 African immigrants who came ashore Thursday in southern Spain aboard an overcrowded boat, including several pregnant women and other travelers suffering from hypothermia, police said",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "southern Spain",
+    "argMentionid" : "APW_ENG_20030508.0772-E39-51",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030508.0772-R1",
+  "mentionArg1" : {
+    "extent" : "33 African immigrants who came ashore Thursday in southern Spain aboard an overcrowded boat, including several pregnant women and other travelers suffering from hypothermia",
+    "argMentionid" : "APW_ENG_20030508.0772-E38-49",
+    "start" : 8,
+    "end" : 32
+  },
+  "id" : "APW_ENG_20030508.0772-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "MADRID , Spain ( AP ) Police intercepted 33 African immigrants who came ashore Thursday in southern Spain aboard an overcrowded boat , including several pregnant women and other travelers suffering from hypothermia , police said .",
+  "sentence_index" : 0,
+  "Tokens" : [ "MADRID", ",", "Spain", "(", "AP", ")", "Police", "intercepted", "33", "African", "immigrants", "who", "came", "ashore", "Thursday", "in", "southern", "Spain", "aboard", "an", "overcrowded", "boat", ",", "including", "several", "pregnant", "women", "and", "other", "travelers", "suffering", "from", "hypothermia", ",", "police", "said", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Spanish media showed dramatic photos of police struggling to carry women on the verge of fainting after they were found wandering through Tarifa, Spain's windswept southern tip, Civil Guard officials told Spanish news agencies",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "Tarifa",
+    "argMentionid" : "APW_ENG_20030508.0772-E1-3",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "APW_ENG_20030508.0772-R2",
+  "mentionArg1" : {
+    "extent" : "women on the verge of fainting after they were found wandering through Tarifa, Spain's windswept southern tip",
+    "argMentionid" : "APW_ENG_20030508.0772-E48-59",
+    "start" : 10,
+    "end" : 28
+  },
+  "id" : "APW_ENG_20030508.0772-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Spanish media showed dramatic photos of police struggling to carry women on the verge of fainting after they were found wandering through Tarifa , Spain 's windswept southern tip , Civil Guard officials told Spanish news agencies .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Spanish", "media", "showed", "dramatic", "photos", "of", "police", "struggling", "to", "carry", "women", "on", "the", "verge", "of", "fainting", "after", "they", "were", "found", "wandering", "through", "Tarifa", ",", "Spain", "'s", "windswept", "southern", "tip", ",", "Civil", "Guard", "officials", "told", "Spanish", "news", "agencies", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "MADRID, Spain",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Spain",
+    "argMentionid" : "APW_ENG_20030508.0772-E6-46",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "APW_ENG_20030508.0772-R3",
+  "mentionArg1" : {
+    "extent" : "MADRID, Spain",
+    "argMentionid" : "APW_ENG_20030508.0772-E27-1",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030508.0772-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "MADRID , Spain ( AP ) Police intercepted 33 African immigrants who came ashore Thursday in southern Spain aboard an overcrowded boat , including several pregnant women and other travelers suffering from hypothermia , police said .",
+  "sentence_index" : 0,
+  "Tokens" : [ "MADRID", ",", "Spain", "(", "AP", ")", "Police", "intercepted", "33", "African", "immigrants", "who", "came", "ashore", "Thursday", "in", "southern", "Spain", "aboard", "an", "overcrowded", "boat", ",", "including", "several", "pregnant", "women", "and", "other", "travelers", "suffering", "from", "hypothermia", ",", "police", "said", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "33 African immigrants who came ashore Thursday in southern Spain aboard an overcrowded boat, including several pregnant women and other travelers suffering from hypothermia",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "African",
+    "argMentionid" : "APW_ENG_20030508.0772-E41-53",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030508.0772-R4",
+  "mentionArg1" : {
+    "extent" : "33 African immigrants who came ashore Thursday in southern Spain aboard an overcrowded boat, including several pregnant women and other travelers suffering from hypothermia",
+    "argMentionid" : "APW_ENG_20030508.0772-E38-49",
+    "start" : 8,
+    "end" : 32
+  },
+  "id" : "APW_ENG_20030508.0772-R4-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "MADRID , Spain ( AP ) Police intercepted 33 African immigrants who came ashore Thursday in southern Spain aboard an overcrowded boat , including several pregnant women and other travelers suffering from hypothermia , police said .",
+  "sentence_index" : 0,
+  "Tokens" : [ "MADRID", ",", "Spain", "(", "AP", ")", "Police", "intercepted", "33", "African", "immigrants", "who", "came", "ashore", "Thursday", "in", "southern", "Spain", "aboard", "an", "overcrowded", "boat", ",", "including", "several", "pregnant", "women", "and", "other", "travelers", "suffering", "from", "hypothermia", ",", "police", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Spain's windswept southern tip",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "Spain",
+    "argMentionid" : "APW_ENG_20030508.0772-E6-5",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "APW_ENG_20030508.0772-R5",
+  "mentionArg1" : {
+    "extent" : "Spain's windswept southern tip",
+    "argMentionid" : "APW_ENG_20030508.0772-E1-4",
+    "start" : 24,
+    "end" : 28
+  },
+  "id" : "APW_ENG_20030508.0772-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Spanish media showed dramatic photos of police struggling to carry women on the verge of fainting after they were found wandering through Tarifa , Spain 's windswept southern tip , Civil Guard officials told Spanish news agencies .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Spanish", "media", "showed", "dramatic", "photos", "of", "police", "struggling", "to", "carry", "women", "on", "the", "verge", "of", "fainting", "after", "they", "were", "found", "wandering", "through", "Tarifa", ",", "Spain", "'s", "windswept", "southern", "tip", ",", "Civil", "Guard", "officials", "told", "Spanish", "news", "agencies", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Civil Guard officials",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "Civil Guard",
+    "argMentionid" : "APW_ENG_20030508.0772-E4-7",
+    "start" : 30,
+    "end" : 31
+  },
+  "relationID" : "APW_ENG_20030508.0772-R6",
+  "mentionArg1" : {
+    "extent" : "Civil Guard officials",
+    "argMentionid" : "APW_ENG_20030508.0772-E3-6",
+    "start" : 30,
+    "end" : 32
+  },
+  "id" : "APW_ENG_20030508.0772-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Spanish media showed dramatic photos of police struggling to carry women on the verge of fainting after they were found wandering through Tarifa , Spain 's windswept southern tip , Civil Guard officials told Spanish news agencies .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Spanish", "media", "showed", "dramatic", "photos", "of", "police", "struggling", "to", "carry", "women", "on", "the", "verge", "of", "fainting", "after", "they", "were", "found", "wandering", "through", "Tarifa", ",", "Spain", "'s", "windswept", "southern", "tip", ",", "Civil", "Guard", "officials", "told", "Spanish", "news", "agencies", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Spanish news agencies",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "Spanish",
+    "argMentionid" : "APW_ENG_20030508.0772-E6-9",
+    "start" : 34,
+    "end" : 34
+  },
+  "relationID" : "APW_ENG_20030508.0772-R7",
+  "mentionArg1" : {
+    "extent" : "Spanish news agencies",
+    "argMentionid" : "APW_ENG_20030508.0772-E5-8",
+    "start" : 34,
+    "end" : 36
+  },
+  "id" : "APW_ENG_20030508.0772-R7-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Spanish media showed dramatic photos of police struggling to carry women on the verge of fainting after they were found wandering through Tarifa , Spain 's windswept southern tip , Civil Guard officials told Spanish news agencies .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Spanish", "media", "showed", "dramatic", "photos", "of", "police", "struggling", "to", "carry", "women", "on", "the", "verge", "of", "fainting", "after", "they", "were", "found", "wandering", "through", "Tarifa", ",", "Spain", "'s", "windswept", "southern", "tip", ",", "Civil", "Guard", "officials", "told", "Spanish", "news", "agencies", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "two Moroccan men suspected of trafficking in human beings and navigating the Zodiac boat across from Africa",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Moroccan",
+    "argMentionid" : "APW_ENG_20030508.0772-E9-12",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030508.0772-R8",
+  "mentionArg1" : {
+    "extent" : "two Moroccan men suspected of trafficking in human beings and navigating the Zodiac boat across from Africa",
+    "argMentionid" : "APW_ENG_20030508.0772-E8-11",
+    "start" : 3,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030508.0772-R8-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Police also arrested two Moroccan men suspected of trafficking in human beings and navigating the Zodiac boat across from Africa , Efe said .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Police", "also", "arrested", "two", "Moroccan", "men", "suspected", "of", "trafficking", "in", "human", "beings", "and", "navigating", "the", "Zodiac", "boat", "across", "from", "Africa", ",", "Efe", "said", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Police also arrested two Moroccan men suspected of trafficking in human beings and navigating the Zodiac boat across from Africa, Efe said",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "the Zodiac boat",
+    "argMentionid" : "APW_ENG_20030508.0772-E11-14",
+    "start" : 14,
+    "end" : 16
+  },
+  "relationID" : "APW_ENG_20030508.0772-R9",
+  "mentionArg1" : {
+    "extent" : "two Moroccan men suspected of trafficking in human beings and navigating the Zodiac boat across from Africa",
+    "argMentionid" : "APW_ENG_20030508.0772-E8-11",
+    "start" : 3,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030508.0772-R9-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Police also arrested two Moroccan men suspected of trafficking in human beings and navigating the Zodiac boat across from Africa , Efe said .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Police", "also", "arrested", "two", "Moroccan", "men", "suspected", "of", "trafficking", "in", "human", "beings", "and", "navigating", "the", "Zodiac", "boat", "across", "from", "Africa", ",", "Efe", "said", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Twenty-six of the would-be immigrants were from sub-Saharan Africa, six of them women, and the other seven were males from North African countries, police said",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "sub-Saharan Africa",
+    "argMentionid" : "APW_ENG_20030508.0772-E15-20",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030508.0772-R10",
+  "mentionArg1" : {
+    "extent" : "Twenty-six of the would-be immigrants",
+    "argMentionid" : "APW_ENG_20030508.0772-E14-18",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030508.0772-R10-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Twenty-six of the would-be immigrants were from sub-Saharan Africa , six of them women , and the other seven were males from North African countries , police said .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Twenty-six", "of", "the", "would-be", "immigrants", "were", "from", "sub-Saharan", "Africa", ",", "six", "of", "them", "women", ",", "and", "the", "other", "seven", "were", "males", "from", "North", "African", "countries", ",", "police", "said", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Twenty-six of the would-be immigrants were from sub-Saharan Africa, six of them women, and the other seven were males from North African countries, police said",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "North African countries",
+    "argMentionid" : "APW_ENG_20030508.0772-E21-27",
+    "start" : 22,
+    "end" : 24
+  },
+  "relationID" : "APW_ENG_20030508.0772-R11",
+  "mentionArg1" : {
+    "extent" : "the other seven",
+    "argMentionid" : "APW_ENG_20030508.0772-E19-25",
+    "start" : 16,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030508.0772-R11-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Twenty-six of the would-be immigrants were from sub-Saharan Africa , six of them women , and the other seven were males from North African countries , police said .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Twenty-six", "of", "the", "would-be", "immigrants", "were", "from", "sub-Saharan", "Africa", ",", "six", "of", "them", "women", ",", "and", "the", "other", "seven", "were", "males", "from", "North", "African", "countries", ",", "police", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "North African countries",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "North African",
+    "argMentionid" : "APW_ENG_20030508.0772-E22-28",
+    "start" : 22,
+    "end" : 23
+  },
+  "relationID" : "APW_ENG_20030508.0772-R12",
+  "mentionArg1" : {
+    "extent" : "North African countries",
+    "argMentionid" : "APW_ENG_20030508.0772-E21-27",
+    "start" : 22,
+    "end" : 24
+  },
+  "id" : "APW_ENG_20030508.0772-R12-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Twenty-six of the would-be immigrants were from sub-Saharan Africa , six of them women , and the other seven were males from North African countries , police said .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Twenty-six", "of", "the", "would-be", "immigrants", "were", "from", "sub-Saharan", "Africa", ",", "six", "of", "them", "women", ",", "and", "the", "other", "seven", "were", "males", "from", "North", "African", "countries", ",", "police", "said", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Red Cross officials",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Red Cross",
+    "argMentionid" : "APW_ENG_20030508.0772-E25-31",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030508.0772-R13",
+  "mentionArg1" : {
+    "extent" : "Red Cross officials",
+    "argMentionid" : "APW_ENG_20030508.0772-E24-30",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030508.0772-R13-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Red Cross officials administered first aid on the scene , and the detainees were taken to a processing center for the government to begin expulsion proceedings .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Red", "Cross", "officials", "administered", "first", "aid", "on", "the", "scene", ",", "and", "the", "detainees", "were", "taken", "to", "a", "processing", "center", "for", "the", "government", "to", "begin", "expulsion", "proceedings", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Red Cross officials administered first aid on the scene, and the detainees were taken to a processing center for the government to begin expulsion proceedings",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "a processing center",
+    "argMentionid" : "APW_ENG_20030508.0772-E26-33",
+    "start" : 16,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030508.0772-R14",
+  "mentionArg1" : {
+    "extent" : "the detainees",
+    "argMentionid" : "APW_ENG_20030508.0772-E38-32",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030508.0772-R14-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Red Cross officials administered first aid on the scene , and the detainees were taken to a processing center for the government to begin expulsion proceedings .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Red", "Cross", "officials", "administered", "first", "aid", "on", "the", "scene", ",", "and", "the", "detainees", "were", "taken", "to", "a", "processing", "center", "for", "the", "government", "to", "begin", "expulsion", "proceedings", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Canary Islands out in the Atlantic",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "the Atlantic",
+    "argMentionid" : "APW_ENG_20030508.0772-E32-40",
+    "start" : 35,
+    "end" : 36
+  },
+  "relationID" : "APW_ENG_20030508.0772-R15",
+  "mentionArg1" : {
+    "extent" : "the Canary Islands out in the Atlantic",
+    "argMentionid" : "APW_ENG_20030508.0772-E31-39",
+    "start" : 30,
+    "end" : 36
+  },
+  "id" : "APW_ENG_20030508.0772-R15-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Tens of thousands of destitute Africans try to enter Spain illegally each year by crossing the perilous Strait of Gibraltar to reach the southern mainland or by sailing northwest to the Canary Islands out in the Atlantic .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Tens", "of", "thousands", "of", "destitute", "Africans", "try", "to", "enter", "Spain", "illegally", "each", "year", "by", "crossing", "the", "perilous", "Strait", "of", "Gibraltar", "to", "reach", "the", "southern", "mainland", "or", "by", "sailing", "northwest", "to", "the", "Canary", "Islands", "out", "in", "the", "Atlantic", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Tens of thousands of destitute Africans try to enter Spain illegally each year by crossing the perilous Strait of Gibraltar to reach the southern mainland or by sailing northwest to the Canary Islands out in the Atlantic",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "Spain",
+    "argMentionid" : "APW_ENG_20030508.0772-E6-36",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030508.0772-R16",
+  "mentionArg1" : {
+    "extent" : "Tens of thousands of destitute Africans",
+    "argMentionid" : "APW_ENG_20030508.0772-E28-35",
+    "start" : 0,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030508.0772-R16-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Tens of thousands of destitute Africans try to enter Spain illegally each year by crossing the perilous Strait of Gibraltar to reach the southern mainland or by sailing northwest to the Canary Islands out in the Atlantic .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Tens", "of", "thousands", "of", "destitute", "Africans", "try", "to", "enter", "Spain", "illegally", "each", "year", "by", "crossing", "the", "perilous", "Strait", "of", "Gibraltar", "to", "reach", "the", "southern", "mainland", "or", "by", "sailing", "northwest", "to", "the", "Canary", "Islands", "out", "in", "the", "Atlantic", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "They seek a better life doing menial jobs in Spain or hope to use the country as a stepping stone to other points in Europe",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Spain",
+    "argMentionid" : "APW_ENG_20030508.0772-E6-42",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030508.0772-R16",
+  "mentionArg1" : {
+    "extent" : "They",
+    "argMentionid" : "APW_ENG_20030508.0772-E28-41",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "APW_ENG_20030508.0772-R16-2",
+  "relationSubType" : "Located",
+  "Sentence" : "They seek a better life doing menial jobs in Spain or hope to use the country as a stepping stone to other points in Europe .",
+  "sentence_index" : 6,
+  "Tokens" : [ "They", "seek", "a", "better", "life", "doing", "menial", "jobs", "in", "Spain", "or", "hope", "to", "use", "the", "country", "as", "a", "stepping", "stone", "to", "other", "points", "in", "Europe", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Tens of thousands of destitute Africans try to enter Spain illegally each year by crossing the perilous Strait of Gibraltar to reach the southern mainland or by sailing northwest to the Canary Islands out in the Atlantic",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "the perilous Strait of Gibraltar",
+    "argMentionid" : "APW_ENG_20030508.0772-E29-37",
+    "start" : 15,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030508.0772-R17",
+  "mentionArg1" : {
+    "extent" : "Tens of thousands of destitute Africans",
+    "argMentionid" : "APW_ENG_20030508.0772-E28-35",
+    "start" : 0,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030508.0772-R17-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Tens of thousands of destitute Africans try to enter Spain illegally each year by crossing the perilous Strait of Gibraltar to reach the southern mainland or by sailing northwest to the Canary Islands out in the Atlantic .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Tens", "of", "thousands", "of", "destitute", "Africans", "try", "to", "enter", "Spain", "illegally", "each", "year", "by", "crossing", "the", "perilous", "Strait", "of", "Gibraltar", "to", "reach", "the", "southern", "mainland", "or", "by", "sailing", "northwest", "to", "the", "Canary", "Islands", "out", "in", "the", "Atlantic", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Tens of thousands of destitute Africans try to enter Spain illegally each year by crossing the perilous Strait of Gibraltar to reach the southern mainland or by sailing northwest to the Canary Islands out in the Atlantic",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "the southern mainland",
+    "argMentionid" : "APW_ENG_20030508.0772-E30-38",
+    "start" : 22,
+    "end" : 24
+  },
+  "relationID" : "APW_ENG_20030508.0772-R18",
+  "mentionArg1" : {
+    "extent" : "Tens of thousands of destitute Africans",
+    "argMentionid" : "APW_ENG_20030508.0772-E28-35",
+    "start" : 0,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030508.0772-R18-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Tens of thousands of destitute Africans try to enter Spain illegally each year by crossing the perilous Strait of Gibraltar to reach the southern mainland or by sailing northwest to the Canary Islands out in the Atlantic .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Tens", "of", "thousands", "of", "destitute", "Africans", "try", "to", "enter", "Spain", "illegally", "each", "year", "by", "crossing", "the", "perilous", "Strait", "of", "Gibraltar", "to", "reach", "the", "southern", "mainland", "or", "by", "sailing", "northwest", "to", "the", "Canary", "Islands", "out", "in", "the", "Atlantic", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Tens of thousands of destitute Africans try to enter Spain illegally each year by crossing the perilous Strait of Gibraltar to reach the southern mainland or by sailing northwest to the Canary Islands out in the Atlantic",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "the Canary Islands out in the Atlantic",
+    "argMentionid" : "APW_ENG_20030508.0772-E31-39",
+    "start" : 30,
+    "end" : 36
+  },
+  "relationID" : "APW_ENG_20030508.0772-R19",
+  "mentionArg1" : {
+    "extent" : "Tens of thousands of destitute Africans",
+    "argMentionid" : "APW_ENG_20030508.0772-E28-35",
+    "start" : 0,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030508.0772-R19-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Tens of thousands of destitute Africans try to enter Spain illegally each year by crossing the perilous Strait of Gibraltar to reach the southern mainland or by sailing northwest to the Canary Islands out in the Atlantic .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Tens", "of", "thousands", "of", "destitute", "Africans", "try", "to", "enter", "Spain", "illegally", "each", "year", "by", "crossing", "the", "perilous", "Strait", "of", "Gibraltar", "to", "reach", "the", "southern", "mainland", "or", "by", "sailing", "northwest", "to", "the", "Canary", "Islands", "out", "in", "the", "Atlantic", "." ]
+} ]

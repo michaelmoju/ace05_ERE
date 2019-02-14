@@ -1,0 +1,67 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "Marco from Illinois",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "Illinois",
+    "argMentionid" : "fsh_29526-E2-7",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "fsh_29526-R1",
+  "mentionArg1" : {
+    "extent" : "Marco",
+    "argMentionid" : "fsh_29526-E13-34",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "fsh_29526-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Marco Hello , it 's Marco from Illinois .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Marco", "Hello", ",", "it", "'s", "Marco", "from", "Illinois", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Austin, Texas",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "Texas",
+    "argMentionid" : "fsh_29526-E4-10",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "fsh_29526-R2",
+  "mentionArg1" : {
+    "extent" : "Austin, Texas",
+    "argMentionid" : "fsh_29526-E3-9",
+    "start" : 7,
+    "end" : 9
+  },
+  "id" : "fsh_29526-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Derek Hello , this is Derek from Austin , Texas .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Derek", "Hello", ",", "this", "is", "Derek", "from", "Austin", ",", "Texas", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Derek from Austin, Texas",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "Austin, Texas",
+    "argMentionid" : "fsh_29526-E3-9",
+    "start" : 7,
+    "end" : 9
+  },
+  "relationID" : "fsh_29526-R3",
+  "mentionArg1" : {
+    "extent" : "Derek",
+    "argMentionid" : "fsh_29526-E14-42",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "fsh_29526-R3-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Derek Hello , this is Derek from Austin , Texas .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Derek", "Hello", ",", "this", "is", "Derek", "from", "Austin", ",", "Texas", "." ]
+} ]

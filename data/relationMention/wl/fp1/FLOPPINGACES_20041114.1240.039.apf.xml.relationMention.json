@@ -1,0 +1,111 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "a al-Qaeda operative",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "al-Qaeda",
+    "argMentionid" : "FLOPPINGACES_20041114.1240.039-E4-4",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "FLOPPINGACES_20041114.1240.039-R1",
+  "mentionArg1" : {
+    "extent" : "a al-Qaeda operative",
+    "argMentionid" : "FLOPPINGACES_20041114.1240.039-E3-3",
+    "start" : 7,
+    "end" : 9
+  },
+  "id" : "FLOPPINGACES_20041114.1240.039-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Curt 2004-11-14T12:40:00 Time is reporting today that a al-Qaeda operative was captured and is spitting out that they have plans in the work to smuggle nukes into the US from Mexico , see the article here .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Curt", "2004-11-14T12:40:00", "Time", "is", "reporting", "today", "that", "a", "al-Qaeda", "operative", "was", "captured", "and", "is", "spitting", "out", "that", "they", "have", "plans", "in", "the", "work", "to", "smuggle", "nukes", "into", "the", "US", "from", "Mexico", ",", "see", "the", "article", "here", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our president",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "FLOPPINGACES_20041114.1240.039-E7-11",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "FLOPPINGACES_20041114.1240.039-R2",
+  "mentionArg1" : {
+    "extent" : "our president",
+    "argMentionid" : "FLOPPINGACES_20041114.1240.039-E10-12",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "FLOPPINGACES_20041114.1240.039-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Thank god Bush is still our president , although I strongly disagree with him on his new immigration policy .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Thank", "god", "Bush", "is", "still", "our", "president", ",", "although", "I", "strongly", "disagree", "with", "him", "on", "his", "new", "immigration", "policy", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "our borders",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "FLOPPINGACES_20041114.1240.039-E7-17",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "FLOPPINGACES_20041114.1240.039-R3",
+  "mentionArg1" : {
+    "extent" : "our borders",
+    "argMentionid" : "FLOPPINGACES_20041114.1240.039-E13-18",
+    "start" : 13,
+    "end" : 14
+  },
+  "id" : "FLOPPINGACES_20041114.1240.039-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "This policy would just make it easier for the enemy to get within our borders .",
+  "sentence_index" : 2,
+  "Tokens" : [ "This", "policy", "would", "just", "make", "it", "easier", "for", "the", "enemy", "to", "get", "within", "our", "borders", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Time is reporting today that a al-Qaeda operative was captured and is spitting out that they have plans in the work to smuggle nukes into the US from Mexico, see the article here",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Mexico",
+    "argMentionid" : "FLOPPINGACES_20041114.1240.039-E8-8",
+    "start" : 30,
+    "end" : 30
+  },
+  "relationID" : "FLOPPINGACES_20041114.1240.039-R4",
+  "mentionArg1" : {
+    "extent" : "the US",
+    "argMentionid" : "FLOPPINGACES_20041114.1240.039-E7-7",
+    "start" : 27,
+    "end" : 28
+  },
+  "id" : "FLOPPINGACES_20041114.1240.039-R4-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Curt 2004-11-14T12:40:00 Time is reporting today that a al-Qaeda operative was captured and is spitting out that they have plans in the work to smuggle nukes into the US from Mexico , see the article here .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Curt", "2004-11-14T12:40:00", "Time", "is", "reporting", "today", "that", "a", "al-Qaeda", "operative", "was", "captured", "and", "is", "spitting", "out", "that", "they", "have", "plans", "in", "the", "work", "to", "smuggle", "nukes", "into", "the", "US", "from", "Mexico", ",", "see", "the", "article", "here", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Thank god Bush is still our president, although I strongly disagree with him on his new immigration policy. This policy would just make it easier for the enemy to get within our borders",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "our borders",
+    "argMentionid" : "FLOPPINGACES_20041114.1240.039-E13-18",
+    "start" : 33,
+    "end" : 34
+  },
+  "relationID" : "FLOPPINGACES_20041114.1240.039-R5",
+  "mentionArg1" : {
+    "extent" : "the enemy",
+    "argMentionid" : "FLOPPINGACES_20041114.1240.039-E12-16",
+    "start" : 28,
+    "end" : 29
+  },
+  "id" : "FLOPPINGACES_20041114.1240.039-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Thank god Bush is still our president , although I strongly disagree with him on his new immigration policy .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Thank", "god", "Bush", "is", "still", "our", "president", ",", "although", "I", "strongly", "disagree", "with", "him", "on", "his", "new", "immigration", "policy", "." ]
+} ]

@@ -1,0 +1,45 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the parent company of motown records",
+  "sentence_length" : 74,
+  "mentionArg2" : {
+    "extent" : "the parent company of motown records",
+    "argMentionid" : "CNNHL_ENG_20030513_220910.32-E10-12",
+    "start" : 28,
+    "end" : 33
+  },
+  "relationID" : "CNNHL_ENG_20030513_220910.32-R1",
+  "mentionArg1" : {
+    "extent" : "motown records",
+    "argMentionid" : "CNNHL_ENG_20030513_220910.32-E12-14",
+    "start" : 32,
+    "end" : 33
+  },
+  "id" : "CNNHL_ENG_20030513_220910.32-R1-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "i 'm alisha davis. used to be the king of pop. now you could call him the king of lawsuits. michael jackson filed suit against universal music , the parent company of motown records saying he owe him for music he recorded with the jackson five back in the 1970s. the gloved one claims the label has been releasing new albums and jackson five merchandise without giving him \" a single dollar . \"",
+  "sentence_index" : 0,
+  "Tokens" : [ "i", "'m", "alisha", "davis.", "used", "to", "be", "the", "king", "of", "pop.", "now", "you", "could", "call", "him", "the", "king", "of", "lawsuits.", "michael", "jackson", "filed", "suit", "against", "universal", "music", ",", "the", "parent", "company", "of", "motown", "records", "saying", "he", "owe", "him", "for", "music", "he", "recorded", "with", "the", "jackson", "five", "back", "in", "the", "1970s.", "the", "gloved", "one", "claims", "the", "label", "has", "been", "releasing", "new", "albums", "and", "jackson", "five", "merchandise", "without", "giving", "him", "\"", "a", "single", "dollar", ".", "\"" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "jackson has been in and out of courtrooms lately",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "courtrooms",
+    "argMentionid" : "CNNHL_ENG_20030513_220910.32-E1-24",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "CNNHL_ENG_20030513_220910.32-R2",
+  "mentionArg1" : {
+    "extent" : "jackson",
+    "argMentionid" : "CNNHL_ENG_20030513_220910.32-E6-23",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNNHL_ENG_20030513_220910.32-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "jackson has been in and out of courtrooms lately. in recent months , he 's been sued by an auction house for non-payment , and by a concert promoter for allegedly backing out of two millennium performances .",
+  "sentence_index" : 1,
+  "Tokens" : [ "jackson", "has", "been", "in", "and", "out", "of", "courtrooms", "lately.", "in", "recent", "months", ",", "he", "'s", "been", "sued", "by", "an", "auction", "house", "for", "non-payment", ",", "and", "by", "a", "concert", "promoter", "for", "allegedly", "backing", "out", "of", "two", "millennium", "performances", "." ]
+} ]

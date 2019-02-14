@@ -1,0 +1,89 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "the airlines flight attendants",
+  "sentence_length" : 169,
+  "mentionArg2" : {
+    "extent" : "the airlines",
+    "argMentionid" : "CNN_ENG_20030421_133510.6-E4-6",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "CNN_ENG_20030421_133510.6-R1",
+  "mentionArg1" : {
+    "extent" : "the airlines flight attendants",
+    "argMentionid" : "CNN_ENG_20030421_133510.6-E3-4",
+    "start" : 13,
+    "end" : 16
+  },
+  "id" : "CNN_ENG_20030421_133510.6-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "american airlines may soon have a new destination as well , bankruptcy court. the airlines flight attendants union is calling for a new vote on $340 million in wage concessions after the disclosure last year of an executive compensation plan. the world 's largest airline needs the concessions to avoid a bankruptcy filing. amr , the parent of american airlines , cancelled the bonus program and ceo donald carty as apoll cized to employees. the share plunging 40 % here at the nyse. the overall market a fairly quiet session. volume is thin as some traders take an extended holiday weekend. over the next couple of days we 'll continue to get earnings reports. today only a few corporate reports and little economic news to move the market. it 's why the dow has been fairly range bound. the nasdaq at this point little changed. that is the latest from the new york stock exchange. there is lots more \" live from \" coming up after the break .",
+  "sentence_index" : 0,
+  "Tokens" : [ "american", "airlines", "may", "soon", "have", "a", "new", "destination", "as", "well", ",", "bankruptcy", "court.", "the", "airlines", "flight", "attendants", "union", "is", "calling", "for", "a", "new", "vote", "on", "$340", "million", "in", "wage", "concessions", "after", "the", "disclosure", "last", "year", "of", "an", "executive", "compensation", "plan.", "the", "world", "'s", "largest", "airline", "needs", "the", "concessions", "to", "avoid", "a", "bankruptcy", "filing.", "amr", ",", "the", "parent", "of", "american", "airlines", ",", "cancelled", "the", "bonus", "program", "and", "ceo", "donald", "carty", "as", "apoll", "cized", "to", "employees.", "the", "share", "plunging", "40", "%", "here", "at", "the", "nyse.", "the", "overall", "market", "a", "fairly", "quiet", "session.", "volume", "is", "thin", "as", "some", "traders", "take", "an", "extended", "holiday", "weekend.", "over", "the", "next", "couple", "of", "days", "we", "'ll", "continue", "to", "get", "earnings", "reports.", "today", "only", "a", "few", "corporate", "reports", "and", "little", "economic", "news", "to", "move", "the", "market.", "it", "'s", "why", "the", "dow", "has", "been", "fairly", "range", "bound.", "the", "nasdaq", "at", "this", "point", "little", "changed.", "that", "is", "the", "latest", "from", "the", "new", "york", "stock", "exchange.", "there", "is", "lots", "more", "\"", "live", "from", "\"", "coming", "up", "after", "the", "break", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the airlines flight attendants union",
+  "sentence_length" : 169,
+  "mentionArg2" : {
+    "extent" : "the airlines flight attendants union",
+    "argMentionid" : "CNN_ENG_20030421_133510.6-E6-7",
+    "start" : 13,
+    "end" : 17
+  },
+  "relationID" : "CNN_ENG_20030421_133510.6-R2",
+  "mentionArg1" : {
+    "extent" : "the airlines flight attendants",
+    "argMentionid" : "CNN_ENG_20030421_133510.6-E3-4",
+    "start" : 13,
+    "end" : 16
+  },
+  "id" : "CNN_ENG_20030421_133510.6-R2-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "american airlines may soon have a new destination as well , bankruptcy court. the airlines flight attendants union is calling for a new vote on $340 million in wage concessions after the disclosure last year of an executive compensation plan. the world 's largest airline needs the concessions to avoid a bankruptcy filing. amr , the parent of american airlines , cancelled the bonus program and ceo donald carty as apoll cized to employees. the share plunging 40 % here at the nyse. the overall market a fairly quiet session. volume is thin as some traders take an extended holiday weekend. over the next couple of days we 'll continue to get earnings reports. today only a few corporate reports and little economic news to move the market. it 's why the dow has been fairly range bound. the nasdaq at this point little changed. that is the latest from the new york stock exchange. there is lots more \" live from \" coming up after the break .",
+  "sentence_index" : 0,
+  "Tokens" : [ "american", "airlines", "may", "soon", "have", "a", "new", "destination", "as", "well", ",", "bankruptcy", "court.", "the", "airlines", "flight", "attendants", "union", "is", "calling", "for", "a", "new", "vote", "on", "$340", "million", "in", "wage", "concessions", "after", "the", "disclosure", "last", "year", "of", "an", "executive", "compensation", "plan.", "the", "world", "'s", "largest", "airline", "needs", "the", "concessions", "to", "avoid", "a", "bankruptcy", "filing.", "amr", ",", "the", "parent", "of", "american", "airlines", ",", "cancelled", "the", "bonus", "program", "and", "ceo", "donald", "carty", "as", "apoll", "cized", "to", "employees.", "the", "share", "plunging", "40", "%", "here", "at", "the", "nyse.", "the", "overall", "market", "a", "fairly", "quiet", "session.", "volume", "is", "thin", "as", "some", "traders", "take", "an", "extended", "holiday", "weekend.", "over", "the", "next", "couple", "of", "days", "we", "'ll", "continue", "to", "get", "earnings", "reports.", "today", "only", "a", "few", "corporate", "reports", "and", "little", "economic", "news", "to", "move", "the", "market.", "it", "'s", "why", "the", "dow", "has", "been", "fairly", "range", "bound.", "the", "nasdaq", "at", "this", "point", "little", "changed.", "that", "is", "the", "latest", "from", "the", "new", "york", "stock", "exchange.", "there", "is", "lots", "more", "\"", "live", "from", "\"", "coming", "up", "after", "the", "break", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the world's largest airline",
+  "sentence_length" : 169,
+  "mentionArg2" : {
+    "extent" : "the world",
+    "argMentionid" : "CNN_ENG_20030421_133510.6-E8-11",
+    "start" : 40,
+    "end" : 41
+  },
+  "relationID" : "CNN_ENG_20030421_133510.6-R3",
+  "mentionArg1" : {
+    "extent" : "the world's largest airline",
+    "argMentionid" : "CNN_ENG_20030421_133510.6-E4-10",
+    "start" : 40,
+    "end" : 44
+  },
+  "id" : "CNN_ENG_20030421_133510.6-R3-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "american airlines may soon have a new destination as well , bankruptcy court. the airlines flight attendants union is calling for a new vote on $340 million in wage concessions after the disclosure last year of an executive compensation plan. the world 's largest airline needs the concessions to avoid a bankruptcy filing. amr , the parent of american airlines , cancelled the bonus program and ceo donald carty as apoll cized to employees. the share plunging 40 % here at the nyse. the overall market a fairly quiet session. volume is thin as some traders take an extended holiday weekend. over the next couple of days we 'll continue to get earnings reports. today only a few corporate reports and little economic news to move the market. it 's why the dow has been fairly range bound. the nasdaq at this point little changed. that is the latest from the new york stock exchange. there is lots more \" live from \" coming up after the break .",
+  "sentence_index" : 0,
+  "Tokens" : [ "american", "airlines", "may", "soon", "have", "a", "new", "destination", "as", "well", ",", "bankruptcy", "court.", "the", "airlines", "flight", "attendants", "union", "is", "calling", "for", "a", "new", "vote", "on", "$340", "million", "in", "wage", "concessions", "after", "the", "disclosure", "last", "year", "of", "an", "executive", "compensation", "plan.", "the", "world", "'s", "largest", "airline", "needs", "the", "concessions", "to", "avoid", "a", "bankruptcy", "filing.", "amr", ",", "the", "parent", "of", "american", "airlines", ",", "cancelled", "the", "bonus", "program", "and", "ceo", "donald", "carty", "as", "apoll", "cized", "to", "employees.", "the", "share", "plunging", "40", "%", "here", "at", "the", "nyse.", "the", "overall", "market", "a", "fairly", "quiet", "session.", "volume", "is", "thin", "as", "some", "traders", "take", "an", "extended", "holiday", "weekend.", "over", "the", "next", "couple", "of", "days", "we", "'ll", "continue", "to", "get", "earnings", "reports.", "today", "only", "a", "few", "corporate", "reports", "and", "little", "economic", "news", "to", "move", "the", "market.", "it", "'s", "why", "the", "dow", "has", "been", "fairly", "range", "bound.", "the", "nasdaq", "at", "this", "point", "little", "changed.", "that", "is", "the", "latest", "from", "the", "new", "york", "stock", "exchange.", "there", "is", "lots", "more", "\"", "live", "from", "\"", "coming", "up", "after", "the", "break", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the parent of american airlines",
+  "sentence_length" : 169,
+  "mentionArg2" : {
+    "extent" : "the parent of american airlines",
+    "argMentionid" : "CNN_ENG_20030421_133510.6-E9-14",
+    "start" : 55,
+    "end" : 59
+  },
+  "relationID" : "CNN_ENG_20030421_133510.6-R4",
+  "mentionArg1" : {
+    "extent" : "american airlines",
+    "argMentionid" : "CNN_ENG_20030421_133510.6-E4-15",
+    "start" : 58,
+    "end" : 59
+  },
+  "id" : "CNN_ENG_20030421_133510.6-R4-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "american airlines may soon have a new destination as well , bankruptcy court. the airlines flight attendants union is calling for a new vote on $340 million in wage concessions after the disclosure last year of an executive compensation plan. the world 's largest airline needs the concessions to avoid a bankruptcy filing. amr , the parent of american airlines , cancelled the bonus program and ceo donald carty as apoll cized to employees. the share plunging 40 % here at the nyse. the overall market a fairly quiet session. volume is thin as some traders take an extended holiday weekend. over the next couple of days we 'll continue to get earnings reports. today only a few corporate reports and little economic news to move the market. it 's why the dow has been fairly range bound. the nasdaq at this point little changed. that is the latest from the new york stock exchange. there is lots more \" live from \" coming up after the break .",
+  "sentence_index" : 0,
+  "Tokens" : [ "american", "airlines", "may", "soon", "have", "a", "new", "destination", "as", "well", ",", "bankruptcy", "court.", "the", "airlines", "flight", "attendants", "union", "is", "calling", "for", "a", "new", "vote", "on", "$340", "million", "in", "wage", "concessions", "after", "the", "disclosure", "last", "year", "of", "an", "executive", "compensation", "plan.", "the", "world", "'s", "largest", "airline", "needs", "the", "concessions", "to", "avoid", "a", "bankruptcy", "filing.", "amr", ",", "the", "parent", "of", "american", "airlines", ",", "cancelled", "the", "bonus", "program", "and", "ceo", "donald", "carty", "as", "apoll", "cized", "to", "employees.", "the", "share", "plunging", "40", "%", "here", "at", "the", "nyse.", "the", "overall", "market", "a", "fairly", "quiet", "session.", "volume", "is", "thin", "as", "some", "traders", "take", "an", "extended", "holiday", "weekend.", "over", "the", "next", "couple", "of", "days", "we", "'ll", "continue", "to", "get", "earnings", "reports.", "today", "only", "a", "few", "corporate", "reports", "and", "little", "economic", "news", "to", "move", "the", "market.", "it", "'s", "why", "the", "dow", "has", "been", "fairly", "range", "bound.", "the", "nasdaq", "at", "this", "point", "little", "changed.", "that", "is", "the", "latest", "from", "the", "new", "york", "stock", "exchange.", "there", "is", "lots", "more", "\"", "live", "from", "\"", "coming", "up", "after", "the", "break", "." ]
+} ]

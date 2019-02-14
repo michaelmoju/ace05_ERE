@@ -1,0 +1,507 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "iraqi protesters demonstrate outside a baghdad mosque, opposing what they call the u.s. occupation, and saying any new iraqi government must represent the people",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "a baghdad mosque",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E3-3",
+    "start" : 15,
+    "end" : 17
+  },
+  "relationID" : "CNN_ENG_20030418_130831.5-R1",
+  "mentionArg1" : {
+    "extent" : "iraqi protesters",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E1-65",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "CNN_ENG_20030418_130831.5-R1-1",
+  "relationSubType" : "Near",
+  "Sentence" : "6:21 eastern time , 2:21 p . m. in iraq , iraqi protesters demonstrate outside a baghdad mosque , opposing what they call the u . s. occupation , and saying any new iraqi government must represent the people .",
+  "sentence_index" : 1,
+  "Tokens" : [ "6:21", "eastern", "time", ",", "2:21", "p", ".", "m.", "in", "iraq", ",", "iraqi", "protesters", "demonstrate", "outside", "a", "baghdad", "mosque", ",", "opposing", "what", "they", "call", "the", "u", ".", "s.", "occupation", ",", "and", "saying", "any", "new", "iraqi", "government", "must", "represent", "the", "people", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "prisoners of war in iraq",
+  "sentence_length" : 78,
+  "mentionArg2" : {
+    "extent" : "iraq",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E2-52",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "CNN_ENG_20030418_130831.5-R2",
+  "mentionArg1" : {
+    "extent" : "prisoners of war in iraq",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E31-51",
+    "start" : 12,
+    "end" : 16
+  },
+  "id" : "CNN_ENG_20030418_130831.5-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "6:03 a . m. eastern time , seven americans who had been prisoners of war in iraq make a public appearance at the medical center in germany. they say they 're looking forward to going home , which relatives of one former p . o . w. say could happen as soon as tomorrow. officials at the hospital say the sev reason in good shape and their prognosis is excellent , even though three have gunshot wounds .",
+  "sentence_index" : 0,
+  "Tokens" : [ "6:03", "a", ".", "m.", "eastern", "time", ",", "seven", "americans", "who", "had", "been", "prisoners", "of", "war", "in", "iraq", "make", "a", "public", "appearance", "at", "the", "medical", "center", "in", "germany.", "they", "say", "they", "'re", "looking", "forward", "to", "going", "home", ",", "which", "relatives", "of", "one", "former", "p", ".", "o", ".", "w.", "say", "could", "happen", "as", "soon", "as", "tomorrow.", "officials", "at", "the", "hospital", "say", "the", "sev", "reason", "in", "good", "shape", "and", "their", "prognosis", "is", "excellent", ",", "even", "though", "three", "have", "gunshot", "wounds", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "coalition troops",
+  "sentence_length" : 67,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E32-43",
+    "start" : 33,
+    "end" : 33
+  },
+  "relationID" : "CNN_ENG_20030418_130831.5-R3",
+  "mentionArg1" : {
+    "extent" : "coalition troops",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E39-42",
+    "start" : 33,
+    "end" : 34
+  },
+  "id" : "CNN_ENG_20030418_130831.5-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "8:10 a . m . , abu dhabi tv broadcasts videotape which it says shows saddam hussein in a baghdad neighborhood last wednesday , april 9th , the day the city fell to coalition troops. the network has not said where it got the tape. there 's no way to confirm when it was shot or whether the man in the video is really saddam hussein .",
+  "sentence_index" : 4,
+  "Tokens" : [ "8:10", "a", ".", "m", ".", ",", "abu", "dhabi", "tv", "broadcasts", "videotape", "which", "it", "says", "shows", "saddam", "hussein", "in", "a", "baghdad", "neighborhood", "last", "wednesday", ",", "april", "9th", ",", "the", "day", "the", "city", "fell", "to", "coalition", "troops.", "the", "network", "has", "not", "said", "where", "it", "got", "the", "tape.", "there", "'s", "no", "way", "to", "confirm", "when", "it", "was", "shot", "or", "whether", "the", "man", "in", "the", "video", "is", "really", "saddam", "hussein", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "6:03 a.m. eastern time, seven americans who had been prisoners of war in iraq make a public appearance at the medical center in germany",
+  "sentence_length" : 78,
+  "mentionArg2" : {
+    "extent" : "the medical center in germany",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E45-53",
+    "start" : 22,
+    "end" : 26
+  },
+  "relationID" : "CNN_ENG_20030418_130831.5-R4",
+  "mentionArg1" : {
+    "extent" : "seven americans",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E31-1",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "CNN_ENG_20030418_130831.5-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "6:03 a . m. eastern time , seven americans who had been prisoners of war in iraq make a public appearance at the medical center in germany. they say they 're looking forward to going home , which relatives of one former p . o . w. say could happen as soon as tomorrow. officials at the hospital say the sev reason in good shape and their prognosis is excellent , even though three have gunshot wounds .",
+  "sentence_index" : 0,
+  "Tokens" : [ "6:03", "a", ".", "m.", "eastern", "time", ",", "seven", "americans", "who", "had", "been", "prisoners", "of", "war", "in", "iraq", "make", "a", "public", "appearance", "at", "the", "medical", "center", "in", "germany.", "they", "say", "they", "'re", "looking", "forward", "to", "going", "home", ",", "which", "relatives", "of", "one", "former", "p", ".", "o", ".", "w.", "say", "could", "happen", "as", "soon", "as", "tomorrow.", "officials", "at", "the", "hospital", "say", "the", "sev", "reason", "in", "good", "shape", "and", "their", "prognosis", "is", "excellent", ",", "even", "though", "three", "have", "gunshot", "wounds", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the medical center in germany",
+  "sentence_length" : 78,
+  "mentionArg2" : {
+    "extent" : "germany",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E46-54",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "CNN_ENG_20030418_130831.5-R5",
+  "mentionArg1" : {
+    "extent" : "the medical center in germany",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E45-53",
+    "start" : 22,
+    "end" : 26
+  },
+  "id" : "CNN_ENG_20030418_130831.5-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "6:03 a . m. eastern time , seven americans who had been prisoners of war in iraq make a public appearance at the medical center in germany. they say they 're looking forward to going home , which relatives of one former p . o . w. say could happen as soon as tomorrow. officials at the hospital say the sev reason in good shape and their prognosis is excellent , even though three have gunshot wounds .",
+  "sentence_index" : 0,
+  "Tokens" : [ "6:03", "a", ".", "m.", "eastern", "time", ",", "seven", "americans", "who", "had", "been", "prisoners", "of", "war", "in", "iraq", "make", "a", "public", "appearance", "at", "the", "medical", "center", "in", "germany.", "they", "say", "they", "'re", "looking", "forward", "to", "going", "home", ",", "which", "relatives", "of", "one", "former", "p", ".", "o", ".", "w.", "say", "could", "happen", "as", "soon", "as", "tomorrow.", "officials", "at", "the", "hospital", "say", "the", "sev", "reason", "in", "good", "shape", "and", "their", "prognosis", "is", "excellent", ",", "even", "though", "three", "have", "gunshot", "wounds", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "relatives of one former p.o.w",
+  "sentence_length" : 78,
+  "mentionArg2" : {
+    "extent" : "one former p.o.w",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E49-59",
+    "start" : 40,
+    "end" : 46
+  },
+  "relationID" : "CNN_ENG_20030418_130831.5-R6",
+  "mentionArg1" : {
+    "extent" : "relatives of one former p.o.w",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E48-58",
+    "start" : 38,
+    "end" : 46
+  },
+  "id" : "CNN_ENG_20030418_130831.5-R6-1",
+  "relationSubType" : "Family",
+  "Sentence" : "6:03 a . m. eastern time , seven americans who had been prisoners of war in iraq make a public appearance at the medical center in germany. they say they 're looking forward to going home , which relatives of one former p . o . w. say could happen as soon as tomorrow. officials at the hospital say the sev reason in good shape and their prognosis is excellent , even though three have gunshot wounds .",
+  "sentence_index" : 0,
+  "Tokens" : [ "6:03", "a", ".", "m.", "eastern", "time", ",", "seven", "americans", "who", "had", "been", "prisoners", "of", "war", "in", "iraq", "make", "a", "public", "appearance", "at", "the", "medical", "center", "in", "germany.", "they", "say", "they", "'re", "looking", "forward", "to", "going", "home", ",", "which", "relatives", "of", "one", "former", "p", ".", "o", ".", "w.", "say", "could", "happen", "as", "soon", "as", "tomorrow.", "officials", "at", "the", "hospital", "say", "the", "sev", "reason", "in", "good", "shape", "and", "their", "prognosis", "is", "excellent", ",", "even", "though", "three", "have", "gunshot", "wounds", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "they say they're looking forward to going home, which relatives of one former p.o.w. say could happen as soon as tomorrow",
+  "sentence_length" : 78,
+  "mentionArg2" : {
+    "extent" : "home",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E47-57",
+    "start" : 35,
+    "end" : 35
+  },
+  "relationID" : "CNN_ENG_20030418_130831.5-R7",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E31-55",
+    "start" : 27,
+    "end" : 27
+  },
+  "id" : "CNN_ENG_20030418_130831.5-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "6:03 a . m. eastern time , seven americans who had been prisoners of war in iraq make a public appearance at the medical center in germany. they say they 're looking forward to going home , which relatives of one former p . o . w. say could happen as soon as tomorrow. officials at the hospital say the sev reason in good shape and their prognosis is excellent , even though three have gunshot wounds .",
+  "sentence_index" : 0,
+  "Tokens" : [ "6:03", "a", ".", "m.", "eastern", "time", ",", "seven", "americans", "who", "had", "been", "prisoners", "of", "war", "in", "iraq", "make", "a", "public", "appearance", "at", "the", "medical", "center", "in", "germany.", "they", "say", "they", "'re", "looking", "forward", "to", "going", "home", ",", "which", "relatives", "of", "one", "former", "p", ".", "o", ".", "w.", "say", "could", "happen", "as", "soon", "as", "tomorrow.", "officials", "at", "the", "hospital", "say", "the", "sev", "reason", "in", "good", "shape", "and", "their", "prognosis", "is", "excellent", ",", "even", "though", "three", "have", "gunshot", "wounds", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "officials at the hospital",
+  "sentence_length" : 78,
+  "mentionArg2" : {
+    "extent" : "the hospital",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E45-61",
+    "start" : 56,
+    "end" : 57
+  },
+  "relationID" : "CNN_ENG_20030418_130831.5-R8",
+  "mentionArg1" : {
+    "extent" : "officials at the hospital",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E50-60",
+    "start" : 54,
+    "end" : 57
+  },
+  "id" : "CNN_ENG_20030418_130831.5-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "6:03 a . m. eastern time , seven americans who had been prisoners of war in iraq make a public appearance at the medical center in germany. they say they 're looking forward to going home , which relatives of one former p . o . w. say could happen as soon as tomorrow. officials at the hospital say the sev reason in good shape and their prognosis is excellent , even though three have gunshot wounds .",
+  "sentence_index" : 0,
+  "Tokens" : [ "6:03", "a", ".", "m.", "eastern", "time", ",", "seven", "americans", "who", "had", "been", "prisoners", "of", "war", "in", "iraq", "make", "a", "public", "appearance", "at", "the", "medical", "center", "in", "germany.", "they", "say", "they", "'re", "looking", "forward", "to", "going", "home", ",", "which", "relatives", "of", "one", "former", "p", ".", "o", ".", "w.", "say", "could", "happen", "as", "soon", "as", "tomorrow.", "officials", "at", "the", "hospital", "say", "the", "sev", "reason", "in", "good", "shape", "and", "their", "prognosis", "is", "excellent", ",", "even", "though", "three", "have", "gunshot", "wounds", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "iraqi protesters",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E2-2",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_ENG_20030418_130831.5-R9",
+  "mentionArg1" : {
+    "extent" : "iraqi protesters",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E1-65",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "CNN_ENG_20030418_130831.5-R9-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "6:21 eastern time , 2:21 p . m. in iraq , iraqi protesters demonstrate outside a baghdad mosque , opposing what they call the u . s. occupation , and saying any new iraqi government must represent the people .",
+  "sentence_index" : 1,
+  "Tokens" : [ "6:21", "eastern", "time", ",", "2:21", "p", ".", "m.", "in", "iraq", ",", "iraqi", "protesters", "demonstrate", "outside", "a", "baghdad", "mosque", ",", "opposing", "what", "they", "call", "the", "u", ".", "s.", "occupation", ",", "and", "saying", "any", "new", "iraqi", "government", "must", "represent", "the", "people", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "in iraq, iraqi protesters demonstrate outside a baghdad mosque, opposing what they call the u.s. occupation, and saying any new iraqi government must represent the people",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "iraq",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E2-64",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNN_ENG_20030418_130831.5-R10",
+  "mentionArg1" : {
+    "extent" : "iraqi protesters",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E1-65",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "CNN_ENG_20030418_130831.5-R10-1",
+  "relationSubType" : "Located",
+  "Sentence" : "6:21 eastern time , 2:21 p . m. in iraq , iraqi protesters demonstrate outside a baghdad mosque , opposing what they call the u . s. occupation , and saying any new iraqi government must represent the people .",
+  "sentence_index" : 1,
+  "Tokens" : [ "6:21", "eastern", "time", ",", "2:21", "p", ".", "m.", "in", "iraq", ",", "iraqi", "protesters", "demonstrate", "outside", "a", "baghdad", "mosque", ",", "opposing", "what", "they", "call", "the", "u", ".", "s.", "occupation", ",", "and", "saying", "any", "new", "iraqi", "government", "must", "represent", "the", "people", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a baghdad mosque",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "baghdad",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E4-4",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "CNN_ENG_20030418_130831.5-R11",
+  "mentionArg1" : {
+    "extent" : "a baghdad mosque",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E3-3",
+    "start" : 15,
+    "end" : 17
+  },
+  "id" : "CNN_ENG_20030418_130831.5-R11-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "6:21 eastern time , 2:21 p . m. in iraq , iraqi protesters demonstrate outside a baghdad mosque , opposing what they call the u . s. occupation , and saying any new iraqi government must represent the people .",
+  "sentence_index" : 1,
+  "Tokens" : [ "6:21", "eastern", "time", ",", "2:21", "p", ".", "m.", "in", "iraq", ",", "iraqi", "protesters", "demonstrate", "outside", "a", "baghdad", "mosque", ",", "opposing", "what", "they", "call", "the", "u", ".", "s.", "occupation", ",", "and", "saying", "any", "new", "iraqi", "government", "must", "represent", "the", "people", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "any new iraqi government",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E2-8",
+    "start" : 33,
+    "end" : 33
+  },
+  "relationID" : "CNN_ENG_20030418_130831.5-R12",
+  "mentionArg1" : {
+    "extent" : "any new iraqi government",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E7-7",
+    "start" : 31,
+    "end" : 34
+  },
+  "id" : "CNN_ENG_20030418_130831.5-R12-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "6:21 eastern time , 2:21 p . m. in iraq , iraqi protesters demonstrate outside a baghdad mosque , opposing what they call the u . s. occupation , and saying any new iraqi government must represent the people .",
+  "sentence_index" : 1,
+  "Tokens" : [ "6:21", "eastern", "time", ",", "2:21", "p", ".", "m.", "in", "iraq", ",", "iraqi", "protesters", "demonstrate", "outside", "a", "baghdad", "mosque", ",", "opposing", "what", "they", "call", "the", "u", ".", "s.", "occupation", ",", "and", "saying", "any", "new", "iraqi", "government", "must", "represent", "the", "people", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "cnn's jane arraf",
+  "sentence_length" : 80,
+  "mentionArg2" : {
+    "extent" : "cnn",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E10-10",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_ENG_20030418_130831.5-R13",
+  "mentionArg1" : {
+    "extent" : "cnn's jane arraf",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E11-11",
+    "start" : 6,
+    "end" : 9
+  },
+  "id" : "CNN_ENG_20030418_130831.5-R13-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "6:33 a . m . , cnn 's jane arraf report from kirkuk that local authorities and u . s. investigators are still mystified by a graveyard on a military base abandoned by the old iraqi regime. there are hundreds of unmarked graves , apparently dating back to the 1991 gulf war , or before. but it 's not clear whether the people buried there are victims of regime atrocities , or whether it 's simply a military graveyard .",
+  "sentence_index" : 2,
+  "Tokens" : [ "6:33", "a", ".", "m", ".", ",", "cnn", "'s", "jane", "arraf", "report", "from", "kirkuk", "that", "local", "authorities", "and", "u", ".", "s.", "investigators", "are", "still", "mystified", "by", "a", "graveyard", "on", "a", "military", "base", "abandoned", "by", "the", "old", "iraqi", "regime.", "there", "are", "hundreds", "of", "unmarked", "graves", ",", "apparently", "dating", "back", "to", "the", "1991", "gulf", "war", ",", "or", "before.", "but", "it", "'s", "not", "clear", "whether", "the", "people", "buried", "there", "are", "victims", "of", "regime", "atrocities", ",", "or", "whether", "it", "'s", "simply", "a", "military", "graveyard", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "cnn's jane arraf report from kirkuk that local authorities and u.s. investigators are still mystified by a graveyard on a military base abandoned by the old iraqi regime",
+  "sentence_length" : 80,
+  "mentionArg2" : {
+    "extent" : "kirkuk",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E12-12",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "CNN_ENG_20030418_130831.5-R14",
+  "mentionArg1" : {
+    "extent" : "cnn's jane arraf",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E11-11",
+    "start" : 6,
+    "end" : 9
+  },
+  "id" : "CNN_ENG_20030418_130831.5-R14-1",
+  "relationSubType" : "Located",
+  "Sentence" : "6:33 a . m . , cnn 's jane arraf report from kirkuk that local authorities and u . s. investigators are still mystified by a graveyard on a military base abandoned by the old iraqi regime. there are hundreds of unmarked graves , apparently dating back to the 1991 gulf war , or before. but it 's not clear whether the people buried there are victims of regime atrocities , or whether it 's simply a military graveyard .",
+  "sentence_index" : 2,
+  "Tokens" : [ "6:33", "a", ".", "m", ".", ",", "cnn", "'s", "jane", "arraf", "report", "from", "kirkuk", "that", "local", "authorities", "and", "u", ".", "s.", "investigators", "are", "still", "mystified", "by", "a", "graveyard", "on", "a", "military", "base", "abandoned", "by", "the", "old", "iraqi", "regime.", "there", "are", "hundreds", "of", "unmarked", "graves", ",", "apparently", "dating", "back", "to", "the", "1991", "gulf", "war", ",", "or", "before.", "but", "it", "'s", "not", "clear", "whether", "the", "people", "buried", "there", "are", "victims", "of", "regime", "atrocities", ",", "or", "whether", "it", "'s", "simply", "a", "military", "graveyard", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "u.s. investigators",
+  "sentence_length" : 80,
+  "mentionArg2" : {
+    "extent" : "u.s",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E6-15",
+    "start" : 17,
+    "end" : 19
+  },
+  "relationID" : "CNN_ENG_20030418_130831.5-R15",
+  "mentionArg1" : {
+    "extent" : "u.s. investigators",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E14-14",
+    "start" : 17,
+    "end" : 20
+  },
+  "id" : "CNN_ENG_20030418_130831.5-R15-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "6:33 a . m . , cnn 's jane arraf report from kirkuk that local authorities and u . s. investigators are still mystified by a graveyard on a military base abandoned by the old iraqi regime. there are hundreds of unmarked graves , apparently dating back to the 1991 gulf war , or before. but it 's not clear whether the people buried there are victims of regime atrocities , or whether it 's simply a military graveyard .",
+  "sentence_index" : 2,
+  "Tokens" : [ "6:33", "a", ".", "m", ".", ",", "cnn", "'s", "jane", "arraf", "report", "from", "kirkuk", "that", "local", "authorities", "and", "u", ".", "s.", "investigators", "are", "still", "mystified", "by", "a", "graveyard", "on", "a", "military", "base", "abandoned", "by", "the", "old", "iraqi", "regime.", "there", "are", "hundreds", "of", "unmarked", "graves", ",", "apparently", "dating", "back", "to", "the", "1991", "gulf", "war", ",", "or", "before.", "but", "it", "'s", "not", "clear", "whether", "the", "people", "buried", "there", "are", "victims", "of", "regime", "atrocities", ",", "or", "whether", "it", "'s", "simply", "a", "military", "graveyard", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a military base abandoned by the old iraqi regime",
+  "sentence_length" : 80,
+  "mentionArg2" : {
+    "extent" : "a military base",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E17-17",
+    "start" : 28,
+    "end" : 30
+  },
+  "relationID" : "CNN_ENG_20030418_130831.5-R16",
+  "mentionArg1" : {
+    "extent" : "military",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E18-18",
+    "start" : 29,
+    "end" : 29
+  },
+  "id" : "CNN_ENG_20030418_130831.5-R16-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "6:33 a . m . , cnn 's jane arraf report from kirkuk that local authorities and u . s. investigators are still mystified by a graveyard on a military base abandoned by the old iraqi regime. there are hundreds of unmarked graves , apparently dating back to the 1991 gulf war , or before. but it 's not clear whether the people buried there are victims of regime atrocities , or whether it 's simply a military graveyard .",
+  "sentence_index" : 2,
+  "Tokens" : [ "6:33", "a", ".", "m", ".", ",", "cnn", "'s", "jane", "arraf", "report", "from", "kirkuk", "that", "local", "authorities", "and", "u", ".", "s.", "investigators", "are", "still", "mystified", "by", "a", "graveyard", "on", "a", "military", "base", "abandoned", "by", "the", "old", "iraqi", "regime.", "there", "are", "hundreds", "of", "unmarked", "graves", ",", "apparently", "dating", "back", "to", "the", "1991", "gulf", "war", ",", "or", "before.", "but", "it", "'s", "not", "clear", "whether", "the", "people", "buried", "there", "are", "victims", "of", "regime", "atrocities", ",", "or", "whether", "it", "'s", "simply", "a", "military", "graveyard", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the old iraqi regime",
+  "sentence_length" : 80,
+  "mentionArg2" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E2-20",
+    "start" : 35,
+    "end" : 35
+  },
+  "relationID" : "CNN_ENG_20030418_130831.5-R17",
+  "mentionArg1" : {
+    "extent" : "the old iraqi regime",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E19-19",
+    "start" : 33,
+    "end" : 36
+  },
+  "id" : "CNN_ENG_20030418_130831.5-R17-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "6:33 a . m . , cnn 's jane arraf report from kirkuk that local authorities and u . s. investigators are still mystified by a graveyard on a military base abandoned by the old iraqi regime. there are hundreds of unmarked graves , apparently dating back to the 1991 gulf war , or before. but it 's not clear whether the people buried there are victims of regime atrocities , or whether it 's simply a military graveyard .",
+  "sentence_index" : 2,
+  "Tokens" : [ "6:33", "a", ".", "m", ".", ",", "cnn", "'s", "jane", "arraf", "report", "from", "kirkuk", "that", "local", "authorities", "and", "u", ".", "s.", "investigators", "are", "still", "mystified", "by", "a", "graveyard", "on", "a", "military", "base", "abandoned", "by", "the", "old", "iraqi", "regime.", "there", "are", "hundreds", "of", "unmarked", "graves", ",", "apparently", "dating", "back", "to", "the", "1991", "gulf", "war", ",", "or", "before.", "but", "it", "'s", "not", "clear", "whether", "the", "people", "buried", "there", "are", "victims", "of", "regime", "atrocities", ",", "or", "whether", "it", "'s", "simply", "a", "military", "graveyard", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a military graveyard",
+  "sentence_length" : 80,
+  "mentionArg2" : {
+    "extent" : "a military graveyard",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E16-26",
+    "start" : 76,
+    "end" : 78
+  },
+  "relationID" : "CNN_ENG_20030418_130831.5-R18",
+  "mentionArg1" : {
+    "extent" : "military",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E18-27",
+    "start" : 77,
+    "end" : 77
+  },
+  "id" : "CNN_ENG_20030418_130831.5-R18-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "6:33 a . m . , cnn 's jane arraf report from kirkuk that local authorities and u . s. investigators are still mystified by a graveyard on a military base abandoned by the old iraqi regime. there are hundreds of unmarked graves , apparently dating back to the 1991 gulf war , or before. but it 's not clear whether the people buried there are victims of regime atrocities , or whether it 's simply a military graveyard .",
+  "sentence_index" : 2,
+  "Tokens" : [ "6:33", "a", ".", "m", ".", ",", "cnn", "'s", "jane", "arraf", "report", "from", "kirkuk", "that", "local", "authorities", "and", "u", ".", "s.", "investigators", "are", "still", "mystified", "by", "a", "graveyard", "on", "a", "military", "base", "abandoned", "by", "the", "old", "iraqi", "regime.", "there", "are", "hundreds", "of", "unmarked", "graves", ",", "apparently", "dating", "back", "to", "the", "1991", "gulf", "war", ",", "or", "before.", "but", "it", "'s", "not", "clear", "whether", "the", "people", "buried", "there", "are", "victims", "of", "regime", "atrocities", ",", "or", "whether", "it", "'s", "simply", "a", "military", "graveyard", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "u.s. central command",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "u.s",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E6-28",
+    "start" : 6,
+    "end" : 8
+  },
+  "relationID" : "CNN_ENG_20030418_130831.5-R19",
+  "mentionArg1" : {
+    "extent" : "u.s. central command",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E27-29",
+    "start" : 6,
+    "end" : 10
+  },
+  "id" : "CNN_ENG_20030418_130831.5-R19-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "7:05 a . m . , u . s. central command says another top baath party official has been captured. he was handed over to coalition special forces by iraqi kurds last night .",
+  "sentence_index" : 3,
+  "Tokens" : [ "7:05", "a", ".", "m", ".", ",", "u", ".", "s.", "central", "command", "says", "another", "top", "baath", "party", "official", "has", "been", "captured.", "he", "was", "handed", "over", "to", "coalition", "special", "forces", "by", "iraqi", "kurds", "last", "night", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "another top baath party official",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "baath party",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E29-31",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "CNN_ENG_20030418_130831.5-R20",
+  "mentionArg1" : {
+    "extent" : "another top baath party official",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E28-30",
+    "start" : 12,
+    "end" : 16
+  },
+  "id" : "CNN_ENG_20030418_130831.5-R20-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "7:05 a . m . , u . s. central command says another top baath party official has been captured. he was handed over to coalition special forces by iraqi kurds last night .",
+  "sentence_index" : 3,
+  "Tokens" : [ "7:05", "a", ".", "m", ".", ",", "u", ".", "s.", "central", "command", "says", "another", "top", "baath", "party", "official", "has", "been", "captured.", "he", "was", "handed", "over", "to", "coalition", "special", "forces", "by", "iraqi", "kurds", "last", "night", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "coalition special forces",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E32-34",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "CNN_ENG_20030418_130831.5-R21",
+  "mentionArg1" : {
+    "extent" : "coalition special forces",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E30-33",
+    "start" : 25,
+    "end" : 27
+  },
+  "id" : "CNN_ENG_20030418_130831.5-R21-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "7:05 a . m . , u . s. central command says another top baath party official has been captured. he was handed over to coalition special forces by iraqi kurds last night .",
+  "sentence_index" : 3,
+  "Tokens" : [ "7:05", "a", ".", "m", ".", ",", "u", ".", "s.", "central", "command", "says", "another", "top", "baath", "party", "official", "has", "been", "captured.", "he", "was", "handed", "over", "to", "coalition", "special", "forces", "by", "iraqi", "kurds", "last", "night", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "iraqi kurds",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E2-36",
+    "start" : 29,
+    "end" : 29
+  },
+  "relationID" : "CNN_ENG_20030418_130831.5-R22",
+  "mentionArg1" : {
+    "extent" : "iraqi kurds",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E33-35",
+    "start" : 29,
+    "end" : 30
+  },
+  "id" : "CNN_ENG_20030418_130831.5-R22-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "7:05 a . m . , u . s. central command says another top baath party official has been captured. he was handed over to coalition special forces by iraqi kurds last night .",
+  "sentence_index" : 3,
+  "Tokens" : [ "7:05", "a", ".", "m", ".", ",", "u", ".", "s.", "central", "command", "says", "another", "top", "baath", "party", "official", "has", "been", "captured.", "he", "was", "handed", "over", "to", "coalition", "special", "forces", "by", "iraqi", "kurds", "last", "night", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "saddam hussein in a baghdad neighborhood last wednesday, april 9th",
+  "sentence_length" : 67,
+  "mentionArg2" : {
+    "extent" : "a baghdad neighborhood",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E37-39",
+    "start" : 18,
+    "end" : 20
+  },
+  "relationID" : "CNN_ENG_20030418_130831.5-R23",
+  "mentionArg1" : {
+    "extent" : "saddam hussein",
+    "argMentionid" : "CNN_ENG_20030418_130831.5-E36-38",
+    "start" : 15,
+    "end" : 16
+  },
+  "id" : "CNN_ENG_20030418_130831.5-R23-1",
+  "relationSubType" : "Located",
+  "Sentence" : "8:10 a . m . , abu dhabi tv broadcasts videotape which it says shows saddam hussein in a baghdad neighborhood last wednesday , april 9th , the day the city fell to coalition troops. the network has not said where it got the tape. there 's no way to confirm when it was shot or whether the man in the video is really saddam hussein .",
+  "sentence_index" : 4,
+  "Tokens" : [ "8:10", "a", ".", "m", ".", ",", "abu", "dhabi", "tv", "broadcasts", "videotape", "which", "it", "says", "shows", "saddam", "hussein", "in", "a", "baghdad", "neighborhood", "last", "wednesday", ",", "april", "9th", ",", "the", "day", "the", "city", "fell", "to", "coalition", "troops.", "the", "network", "has", "not", "said", "where", "it", "got", "the", "tape.", "there", "'s", "no", "way", "to", "confirm", "when", "it", "was", "shot", "or", "whether", "the", "man", "in", "the", "video", "is", "really", "saddam", "hussein", "." ]
+} ]

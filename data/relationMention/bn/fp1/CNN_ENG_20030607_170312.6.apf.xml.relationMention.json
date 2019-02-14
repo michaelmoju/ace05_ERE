@@ -1,0 +1,111 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "the celebrity indicted on charges stemming from the sale of imclone stock",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "imclone",
+    "argMentionid" : "CNN_ENG_20030607_170312.6-E3-7",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "CNN_ENG_20030607_170312.6-R1",
+  "mentionArg1" : {
+    "extent" : "the celebrity",
+    "argMentionid" : "CNN_ENG_20030607_170312.6-E28-6",
+    "start" : 13,
+    "end" : 14
+  },
+  "id" : "CNN_ENG_20030607_170312.6-R1-1",
+  "relationSubType" : "Investor-Shareholder",
+  "Sentence" : "reporter : now stewart is hoping people do n't run out on her. the celebrity indicted on charges stemming from the sale of imclone stock. stewart and former imclone ceo sam waksal shared a broker who now also faces charges of obstruction of justice and perjury .",
+  "sentence_index" : 9,
+  "Tokens" : [ "reporter", ":", "now", "stewart", "is", "hoping", "people", "do", "n't", "run", "out", "on", "her.", "the", "celebrity", "indicted", "on", "charges", "stemming", "from", "the", "sale", "of", "imclone", "stock.", "stewart", "and", "former", "imclone", "ceo", "sam", "waksal", "shared", "a", "broker", "who", "now", "also", "faces", "charges", "of", "obstruction", "of", "justice", "and", "perjury", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "former imclone ceo",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "imclone",
+    "argMentionid" : "CNN_ENG_20030607_170312.6-E3-11",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "CNN_ENG_20030607_170312.6-R2",
+  "mentionArg1" : {
+    "extent" : "imclone ceo",
+    "argMentionid" : "CNN_ENG_20030607_170312.6-E4-10",
+    "start" : 28,
+    "end" : 29
+  },
+  "id" : "CNN_ENG_20030607_170312.6-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "reporter : now stewart is hoping people do n't run out on her. the celebrity indicted on charges stemming from the sale of imclone stock. stewart and former imclone ceo sam waksal shared a broker who now also faces charges of obstruction of justice and perjury .",
+  "sentence_index" : 9,
+  "Tokens" : [ "reporter", ":", "now", "stewart", "is", "hoping", "people", "do", "n't", "run", "out", "on", "her.", "the", "celebrity", "indicted", "on", "charges", "stemming", "from", "the", "sale", "of", "imclone", "stock.", "stewart", "and", "former", "imclone", "ceo", "sam", "waksal", "shared", "a", "broker", "who", "now", "also", "faces", "charges", "of", "obstruction", "of", "justice", "and", "perjury", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "stewart and former imclone ceo sam waksal shared a broker who now also faces charges of obstruction of justice and perjury",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "a broker who now also faces charges of obstruction of justice and perjury",
+    "argMentionid" : "CNN_ENG_20030607_170312.6-E7-12",
+    "start" : 33,
+    "end" : 45
+  },
+  "relationID" : "CNN_ENG_20030607_170312.6-R3",
+  "mentionArg1" : {
+    "extent" : "stewart",
+    "argMentionid" : "CNN_ENG_20030607_170312.6-E28-8",
+    "start" : 25,
+    "end" : 25
+  },
+  "id" : "CNN_ENG_20030607_170312.6-R3-1",
+  "relationSubType" : "Business",
+  "Sentence" : "reporter : now stewart is hoping people do n't run out on her. the celebrity indicted on charges stemming from the sale of imclone stock. stewart and former imclone ceo sam waksal shared a broker who now also faces charges of obstruction of justice and perjury .",
+  "sentence_index" : 9,
+  "Tokens" : [ "reporter", ":", "now", "stewart", "is", "hoping", "people", "do", "n't", "run", "out", "on", "her.", "the", "celebrity", "indicted", "on", "charges", "stemming", "from", "the", "sale", "of", "imclone", "stock.", "stewart", "and", "former", "imclone", "ceo", "sam", "waksal", "shared", "a", "broker", "who", "now", "also", "faces", "charges", "of", "obstruction", "of", "justice", "and", "perjury", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "stewart and former imclone ceo sam waksal shared a broker who now also faces charges of obstruction of justice and perjury",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "a broker who now also faces charges of obstruction of justice and perjury",
+    "argMentionid" : "CNN_ENG_20030607_170312.6-E7-12",
+    "start" : 33,
+    "end" : 45
+  },
+  "relationID" : "CNN_ENG_20030607_170312.6-R4",
+  "mentionArg1" : {
+    "extent" : "former imclone ceo sam waksal",
+    "argMentionid" : "CNN_ENG_20030607_170312.6-E4-9",
+    "start" : 27,
+    "end" : 31
+  },
+  "id" : "CNN_ENG_20030607_170312.6-R4-1",
+  "relationSubType" : "Business",
+  "Sentence" : "reporter : now stewart is hoping people do n't run out on her. the celebrity indicted on charges stemming from the sale of imclone stock. stewart and former imclone ceo sam waksal shared a broker who now also faces charges of obstruction of justice and perjury .",
+  "sentence_index" : 9,
+  "Tokens" : [ "reporter", ":", "now", "stewart", "is", "hoping", "people", "do", "n't", "run", "out", "on", "her.", "the", "celebrity", "indicted", "on", "charges", "stemming", "from", "the", "sale", "of", "imclone", "stock.", "stewart", "and", "former", "imclone", "ceo", "sam", "waksal", "shared", "a", "broker", "who", "now", "also", "faces", "charges", "of", "obstruction", "of", "justice", "and", "perjury", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her lawyers",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "her lawyers",
+    "argMentionid" : "CNN_ENG_20030607_170312.6-E12-25",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "CNN_ENG_20030607_170312.6-R5",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_ENG_20030607_170312.6-E28-26",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "CNN_ENG_20030607_170312.6-R5-1",
+  "relationSubType" : "Business",
+  "Sentence" : "reporter : after stewart was charged by federal authorities wednesday , her lawyers issued a statement in which they said , quote , martha stewart has done nothing wrong. the accusation that martha stewart sold the imclone shares based on inside information proved to be false .",
+  "sentence_index" : 11,
+  "Tokens" : [ "reporter", ":", "after", "stewart", "was", "charged", "by", "federal", "authorities", "wednesday", ",", "her", "lawyers", "issued", "a", "statement", "in", "which", "they", "said", ",", "quote", ",", "martha", "stewart", "has", "done", "nothing", "wrong.", "the", "accusation", "that", "martha", "stewart", "sold", "the", "imclone", "shares", "based", "on", "inside", "information", "proved", "to", "be", "false", "." ]
+} ]

@@ -1,0 +1,177 @@
+[ {
+  "relationType" : "ART",
+  "extent" : "u.s. warplanes",
+  "sentence_length" : 58,
+  "mentionArg2" : {
+    "extent" : "u.s. warplanes",
+    "argMentionid" : "CNNHL_ENG_20030331_193419.9-E4-4",
+    "start" : 4,
+    "end" : 7
+  },
+  "relationID" : "CNNHL_ENG_20030331_193419.9-R1",
+  "mentionArg1" : {
+    "extent" : "u.s",
+    "argMentionid" : "CNNHL_ENG_20030331_193419.9-E5-5",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "CNNHL_ENG_20030331_193419.9-R1-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "in northern iraq , u . s. warplanes hit targets including a ridge east of mosul , where iraqi troops have been entrenched. two f-14 tomcats struck the targets , the same area was a site of heavy bombing yesterday. after today 's air strikes , 13 iraqi soldiers abandoned their posts and surrendered to kurdish fighters .",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "northern", "iraq", ",", "u", ".", "s.", "warplanes", "hit", "targets", "including", "a", "ridge", "east", "of", "mosul", ",", "where", "iraqi", "troops", "have", "been", "entrenched.", "two", "f-14", "tomcats", "struck", "the", "targets", ",", "the", "same", "area", "was", "a", "site", "of", "heavy", "bombing", "yesterday.", "after", "today", "'s", "air", "strikes", ",", "13", "iraqi", "soldiers", "abandoned", "their", "posts", "and", "surrendered", "to", "kurdish", "fighters", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "iraqi troops",
+  "sentence_length" : 58,
+  "mentionArg2" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNNHL_ENG_20030331_193419.9-E10-11",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "CNNHL_ENG_20030331_193419.9-R2",
+  "mentionArg1" : {
+    "extent" : "iraqi troops",
+    "argMentionid" : "CNNHL_ENG_20030331_193419.9-E9-10",
+    "start" : 18,
+    "end" : 19
+  },
+  "id" : "CNNHL_ENG_20030331_193419.9-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "in northern iraq , u . s. warplanes hit targets including a ridge east of mosul , where iraqi troops have been entrenched. two f-14 tomcats struck the targets , the same area was a site of heavy bombing yesterday. after today 's air strikes , 13 iraqi soldiers abandoned their posts and surrendered to kurdish fighters .",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "northern", "iraq", ",", "u", ".", "s.", "warplanes", "hit", "targets", "including", "a", "ridge", "east", "of", "mosul", ",", "where", "iraqi", "troops", "have", "been", "entrenched.", "two", "f-14", "tomcats", "struck", "the", "targets", ",", "the", "same", "area", "was", "a", "site", "of", "heavy", "bombing", "yesterday.", "after", "today", "'s", "air", "strikes", ",", "13", "iraqi", "soldiers", "abandoned", "their", "posts", "and", "surrendered", "to", "kurdish", "fighters", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a ridge east of mosul",
+  "sentence_length" : 58,
+  "mentionArg2" : {
+    "extent" : "mosul",
+    "argMentionid" : "CNNHL_ENG_20030331_193419.9-E8-8",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "CNNHL_ENG_20030331_193419.9-R3",
+  "mentionArg1" : {
+    "extent" : "a ridge east of mosul",
+    "argMentionid" : "CNNHL_ENG_20030331_193419.9-E7-7",
+    "start" : 11,
+    "end" : 15
+  },
+  "id" : "CNNHL_ENG_20030331_193419.9-R3-1",
+  "relationSubType" : "Near",
+  "Sentence" : "in northern iraq , u . s. warplanes hit targets including a ridge east of mosul , where iraqi troops have been entrenched. two f-14 tomcats struck the targets , the same area was a site of heavy bombing yesterday. after today 's air strikes , 13 iraqi soldiers abandoned their posts and surrendered to kurdish fighters .",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "northern", "iraq", ",", "u", ".", "s.", "warplanes", "hit", "targets", "including", "a", "ridge", "east", "of", "mosul", ",", "where", "iraqi", "troops", "have", "been", "entrenched.", "two", "f-14", "tomcats", "struck", "the", "targets", ",", "the", "same", "area", "was", "a", "site", "of", "heavy", "bombing", "yesterday.", "after", "today", "'s", "air", "strikes", ",", "13", "iraqi", "soldiers", "abandoned", "their", "posts", "and", "surrendered", "to", "kurdish", "fighters", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "in northern iraq, u.s. warplanes hit targets including a ridge east of mosul, where iraqi troops have been entrenched",
+  "sentence_length" : 58,
+  "mentionArg2" : {
+    "extent" : "targets including a ridge east of mosul, where iraqi troops have been entrenched",
+    "argMentionid" : "CNNHL_ENG_20030331_193419.9-E6-6",
+    "start" : 9,
+    "end" : 22
+  },
+  "relationID" : "CNNHL_ENG_20030331_193419.9-R4",
+  "mentionArg1" : {
+    "extent" : "a ridge east of mosul",
+    "argMentionid" : "CNNHL_ENG_20030331_193419.9-E7-7",
+    "start" : 11,
+    "end" : 15
+  },
+  "id" : "CNNHL_ENG_20030331_193419.9-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "in northern iraq , u . s. warplanes hit targets including a ridge east of mosul , where iraqi troops have been entrenched. two f-14 tomcats struck the targets , the same area was a site of heavy bombing yesterday. after today 's air strikes , 13 iraqi soldiers abandoned their posts and surrendered to kurdish fighters .",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "northern", "iraq", ",", "u", ".", "s.", "warplanes", "hit", "targets", "including", "a", "ridge", "east", "of", "mosul", ",", "where", "iraqi", "troops", "have", "been", "entrenched.", "two", "f-14", "tomcats", "struck", "the", "targets", ",", "the", "same", "area", "was", "a", "site", "of", "heavy", "bombing", "yesterday.", "after", "today", "'s", "air", "strikes", ",", "13", "iraqi", "soldiers", "abandoned", "their", "posts", "and", "surrendered", "to", "kurdish", "fighters", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "in northern iraq, u.s. warplanes hit targets including a ridge east of mosul, where iraqi troops have been entrenched",
+  "sentence_length" : 58,
+  "mentionArg2" : {
+    "extent" : "where",
+    "argMentionid" : "CNNHL_ENG_20030331_193419.9-E7-9",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "CNNHL_ENG_20030331_193419.9-R5",
+  "mentionArg1" : {
+    "extent" : "iraqi troops",
+    "argMentionid" : "CNNHL_ENG_20030331_193419.9-E9-10",
+    "start" : 18,
+    "end" : 19
+  },
+  "id" : "CNNHL_ENG_20030331_193419.9-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "in northern iraq , u . s. warplanes hit targets including a ridge east of mosul , where iraqi troops have been entrenched. two f-14 tomcats struck the targets , the same area was a site of heavy bombing yesterday. after today 's air strikes , 13 iraqi soldiers abandoned their posts and surrendered to kurdish fighters .",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "northern", "iraq", ",", "u", ".", "s.", "warplanes", "hit", "targets", "including", "a", "ridge", "east", "of", "mosul", ",", "where", "iraqi", "troops", "have", "been", "entrenched.", "two", "f-14", "tomcats", "struck", "the", "targets", ",", "the", "same", "area", "was", "a", "site", "of", "heavy", "bombing", "yesterday.", "after", "today", "'s", "air", "strikes", ",", "13", "iraqi", "soldiers", "abandoned", "their", "posts", "and", "surrendered", "to", "kurdish", "fighters", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "their posts",
+  "sentence_length" : 58,
+  "mentionArg2" : {
+    "extent" : "their posts",
+    "argMentionid" : "CNNHL_ENG_20030331_193419.9-E15-19",
+    "start" : 50,
+    "end" : 51
+  },
+  "relationID" : "CNNHL_ENG_20030331_193419.9-R6",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNNHL_ENG_20030331_193419.9-E13-18",
+    "start" : 50,
+    "end" : 50
+  },
+  "id" : "CNNHL_ENG_20030331_193419.9-R6-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "in northern iraq , u . s. warplanes hit targets including a ridge east of mosul , where iraqi troops have been entrenched. two f-14 tomcats struck the targets , the same area was a site of heavy bombing yesterday. after today 's air strikes , 13 iraqi soldiers abandoned their posts and surrendered to kurdish fighters .",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "northern", "iraq", ",", "u", ".", "s.", "warplanes", "hit", "targets", "including", "a", "ridge", "east", "of", "mosul", ",", "where", "iraqi", "troops", "have", "been", "entrenched.", "two", "f-14", "tomcats", "struck", "the", "targets", ",", "the", "same", "area", "was", "a", "site", "of", "heavy", "bombing", "yesterday.", "after", "today", "'s", "air", "strikes", ",", "13", "iraqi", "soldiers", "abandoned", "their", "posts", "and", "surrendered", "to", "kurdish", "fighters", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "kurdish fighters",
+  "sentence_length" : 58,
+  "mentionArg2" : {
+    "extent" : "kurdish fighters",
+    "argMentionid" : "CNNHL_ENG_20030331_193419.9-E1-2",
+    "start" : 55,
+    "end" : 56
+  },
+  "relationID" : "CNNHL_ENG_20030331_193419.9-R7",
+  "mentionArg1" : {
+    "extent" : "kurdish",
+    "argMentionid" : "CNNHL_ENG_20030331_193419.9-E2-3",
+    "start" : 55,
+    "end" : 55
+  },
+  "id" : "CNNHL_ENG_20030331_193419.9-R7-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "in northern iraq , u . s. warplanes hit targets including a ridge east of mosul , where iraqi troops have been entrenched. two f-14 tomcats struck the targets , the same area was a site of heavy bombing yesterday. after today 's air strikes , 13 iraqi soldiers abandoned their posts and surrendered to kurdish fighters .",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "northern", "iraq", ",", "u", ".", "s.", "warplanes", "hit", "targets", "including", "a", "ridge", "east", "of", "mosul", ",", "where", "iraqi", "troops", "have", "been", "entrenched.", "two", "f-14", "tomcats", "struck", "the", "targets", ",", "the", "same", "area", "was", "a", "site", "of", "heavy", "bombing", "yesterday.", "after", "today", "'s", "air", "strikes", ",", "13", "iraqi", "soldiers", "abandoned", "their", "posts", "and", "surrendered", "to", "kurdish", "fighters", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "13 iraqi soldiers",
+  "sentence_length" : 58,
+  "mentionArg2" : {
+    "extent" : "iraqi",
+    "argMentionid" : "CNNHL_ENG_20030331_193419.9-E10-17",
+    "start" : 47,
+    "end" : 47
+  },
+  "relationID" : "CNNHL_ENG_20030331_193419.9-R8",
+  "mentionArg1" : {
+    "extent" : "13 iraqi soldiers",
+    "argMentionid" : "CNNHL_ENG_20030331_193419.9-E13-16",
+    "start" : 46,
+    "end" : 48
+  },
+  "id" : "CNNHL_ENG_20030331_193419.9-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "in northern iraq , u . s. warplanes hit targets including a ridge east of mosul , where iraqi troops have been entrenched. two f-14 tomcats struck the targets , the same area was a site of heavy bombing yesterday. after today 's air strikes , 13 iraqi soldiers abandoned their posts and surrendered to kurdish fighters .",
+  "sentence_index" : 0,
+  "Tokens" : [ "in", "northern", "iraq", ",", "u", ".", "s.", "warplanes", "hit", "targets", "including", "a", "ridge", "east", "of", "mosul", ",", "where", "iraqi", "troops", "have", "been", "entrenched.", "two", "f-14", "tomcats", "struck", "the", "targets", ",", "the", "same", "area", "was", "a", "site", "of", "heavy", "bombing", "yesterday.", "after", "today", "'s", "air", "strikes", ",", "13", "iraqi", "soldiers", "abandoned", "their", "posts", "and", "surrendered", "to", "kurdish", "fighters", "." ]
+} ]

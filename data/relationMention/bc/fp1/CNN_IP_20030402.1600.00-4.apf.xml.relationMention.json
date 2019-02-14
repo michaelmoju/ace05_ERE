@@ -1,0 +1,529 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. forces",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E4-90",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-4-R1",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E19-1",
+    "start" : 1,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030402.1600.00-4-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "WOODRUFF U.S. forces moving ever closer to Baghdad , but military officials say they are not counting on capitulation .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WOODRUFF", "U.S.", "forces", "moving", "ever", "closer", "to", "Baghdad", ",", "but", "military", "officials", "say", "they", "are", "not", "counting", "on", "capitulation", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. forces",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E4-193",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-4-R1",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E19-192",
+    "start" : 9,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030402.1600.00-4-R1-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "For a look at what might lie ahead for U.S. forces , let 's turn to our Miles O'Brien in Atlanta .",
+  "sentence_index" : 1,
+  "Tokens" : [ "For", "a", "look", "at", "what", "might", "lie", "ahead", "for", "U.S.", "forces", ",", "let", "'s", "turn", "to", "our", "Miles", "O'Brien", "in", "Atlanta", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "military officials",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "military",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E82-190",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-4-R2",
+  "mentionArg1" : {
+    "extent" : "military officials",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E81-189",
+    "start" : 10,
+    "end" : 11
+  },
+  "id" : "CNN_IP_20030402.1600.00-4-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "WOODRUFF U.S. forces moving ever closer to Baghdad , but military officials say they are not counting on capitulation .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WOODRUFF", "U.S.", "forces", "moving", "ever", "closer", "to", "Baghdad", ",", "but", "military", "officials", "say", "they", "are", "not", "counting", "on", "capitulation", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our Miles O'Brien in Atlanta",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E85-194",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-4-R3",
+  "mentionArg1" : {
+    "extent" : "our Miles O'Brien in Atlanta",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E86-195",
+    "start" : 16,
+    "end" : 20
+  },
+  "id" : "CNN_IP_20030402.1600.00-4-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "For a look at what might lie ahead for U.S. forces , let 's turn to our Miles O'Brien in Atlanta .",
+  "sentence_index" : 1,
+  "Tokens" : [ "For", "a", "look", "at", "what", "might", "lie", "ahead", "for", "U.S.", "forces", ",", "let", "'s", "turn", "to", "our", "Miles", "O'Brien", "in", "Atlanta", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "our Miles O'Brien in Atlanta",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Atlanta",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E87-196",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-4-R4",
+  "mentionArg1" : {
+    "extent" : "our Miles O'Brien in Atlanta",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E86-195",
+    "start" : 16,
+    "end" : 20
+  },
+  "id" : "CNN_IP_20030402.1600.00-4-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "For a look at what might lie ahead for U.S. forces , let 's turn to our Miles O'Brien in Atlanta .",
+  "sentence_index" : 1,
+  "Tokens" : [ "For", "a", "look", "at", "what", "might", "lie", "ahead", "for", "U.S.", "forces", ",", "let", "'s", "turn", "to", "our", "Miles", "O'Brien", "in", "Atlanta", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the United States Army",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "United States",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E4-10",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-4-R5",
+  "mentionArg1" : {
+    "extent" : "the United States Army",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E82-7",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030402.1600.00-4-R5-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "He 's retired with the United States Army .",
+  "sentence_index" : 4,
+  "Tokens" : [ "He", "'s", "retired", "with", "the", "United", "States", "Army", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "United states Army",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "United states",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E4-171",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-4-R5",
+  "mentionArg1" : {
+    "extent" : "United states Army",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E82-170",
+    "start" : 7,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030402.1600.00-4-R5-2",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "O'BRIEN Colonel Patrick Lang , retired , United states Army , thanks for your insights .",
+  "sentence_index" : 48,
+  "Tokens" : [ "O'BRIEN", "Colonel", "Patrick", "Lang", ",", "retired", ",", "United", "states", "Army", ",", "thanks", "for", "your", "insights", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "He's retired with the United States Army",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "the United States Army",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E82-7",
+    "start" : 4,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-4-R6",
+  "mentionArg1" : {
+    "extent" : "He",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E2-6",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_IP_20030402.1600.00-4-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "He 's retired with the United States Army .",
+  "sentence_index" : 4,
+  "Tokens" : [ "He", "'s", "retired", "with", "the", "United", "States", "Army", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "He spent some time in the Defence Intelligence Agency, among other things",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "the Defence Intelligence Agency",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E5-12",
+    "start" : 5,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-4-R7",
+  "mentionArg1" : {
+    "extent" : "He",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E2-11",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_IP_20030402.1600.00-4-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "He spent some time in the Defence Intelligence Agency , among other things .",
+  "sentence_index" : 5,
+  "Tokens" : [ "He", "spent", "some", "time", "in", "the", "Defence", "Intelligence", "Agency", ",", "among", "other", "things", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the U.S. and coalition supply lines",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "the U.S. and coalition supply lines",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E7-20",
+    "start" : 8,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-4-R8",
+  "mentionArg1" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E4-21",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030402.1600.00-4-R8-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Is it the Republican Guard or is it the U.S. and coalition supply lines ?",
+  "sentence_index" : 10,
+  "Tokens" : [ "Is", "it", "the", "Republican", "Guard", "or", "is", "it", "the", "U.S.", "and", "coalition", "supply", "lines", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the U.S. and coalition supply lines",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "the U.S. and coalition supply lines",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E7-20",
+    "start" : 8,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-4-R9",
+  "mentionArg1" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E9-22",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "CNN_IP_20030402.1600.00-4-R9-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Is it the Republican Guard or is it the U.S. and coalition supply lines ?",
+  "sentence_index" : 10,
+  "Tokens" : [ "Is", "it", "the", "Republican", "Guard", "or", "is", "it", "the", "U.S.", "and", "coalition", "supply", "lines", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "these Republican Guard divisions",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "these Republican Guard divisions",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E14-30",
+    "start" : 18,
+    "end" : 21
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-4-R10",
+  "mentionArg1" : {
+    "extent" : "Republican Guard",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E1-31",
+    "start" : 19,
+    "end" : 20
+  },
+  "id" : "CNN_IP_20030402.1600.00-4-R10-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "So , probably the main thing is combing through the rubble that the air force has left of these Republican Guard divisions to make sure there are no strong points that you leave behind , that could threaten your lines of supply once they get past .",
+  "sentence_index" : 13,
+  "Tokens" : [ "So", ",", "probably", "the", "main", "thing", "is", "combing", "through", "the", "rubble", "that", "the", "air", "force", "has", "left", "of", "these", "Republican", "Guard", "divisions", "to", "make", "sure", "there", "are", "no", "strong", "points", "that", "you", "leave", "behind", ",", "that", "could", "threaten", "your", "lines", "of", "supply", "once", "they", "get", "past", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "your lines of supply",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "your lines of supply",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E17-34",
+    "start" : 38,
+    "end" : 41
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-4-R11",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E16-33",
+    "start" : 38,
+    "end" : 38
+  },
+  "id" : "CNN_IP_20030402.1600.00-4-R11-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "So , probably the main thing is combing through the rubble that the air force has left of these Republican Guard divisions to make sure there are no strong points that you leave behind , that could threaten your lines of supply once they get past .",
+  "sentence_index" : 13,
+  "Tokens" : [ "So", ",", "probably", "the", "main", "thing", "is", "combing", "through", "the", "rubble", "that", "the", "air", "force", "has", "left", "of", "these", "Republican", "Guard", "divisions", "to", "make", "sure", "there", "are", "no", "strong", "points", "that", "you", "leave", "behind", ",", "that", "could", "threaten", "your", "lines", "of", "supply", "once", "they", "get", "past", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "This is that Karbala area which is about 50 miles from Baghdad",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E47-51",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-4-R12",
+  "mentionArg1" : {
+    "extent" : "that Karbala area which is about 50 miles from Baghdad",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E20-48",
+    "start" : 2,
+    "end" : 11
+  },
+  "id" : "CNN_IP_20030402.1600.00-4-R12-1",
+  "relationSubType" : "Near",
+  "Sentence" : "This is that Karbala area which is about 50 miles from Baghdad .",
+  "sentence_index" : 17,
+  "Tokens" : [ "This", "is", "that", "Karbala", "area", "which", "is", "about", "50", "miles", "from", "Baghdad", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "One of the next key points along the way here",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "the next key points along the way here",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E25-58",
+    "start" : 2,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-4-R13",
+  "mentionArg1" : {
+    "extent" : "One of the next key points along the way here",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E24-57",
+    "start" : 0,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030402.1600.00-4-R13-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "One of the next key points along the way here is Saddam international airport .",
+  "sentence_index" : 20,
+  "Tokens" : [ "One", "of", "the", "next", "key", "points", "along", "the", "way", "here", "is", "Saddam", "international", "airport", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the heart of the city",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "the city",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E47-94",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-4-R14",
+  "mentionArg1" : {
+    "extent" : "the heart of the city",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E37-93",
+    "start" : 9,
+    "end" : 13
+  },
+  "id" : "CNN_IP_20030402.1600.00-4-R14-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "LANG Yeah , these are the high-speed approaches into the heart of the city and armored forces like the 3rd Mechanized Infantry Division just love high-speed approaches .",
+  "sentence_index" : 28,
+  "Tokens" : [ "LANG", "Yeah", ",", "these", "are", "the", "high-speed", "approaches", "into", "the", "heart", "of", "the", "city", "and", "armored", "forces", "like", "the", "3rd", "Mechanized", "Infantry", "Division", "just", "love", "high-speed", "approaches", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the high-speed approaches into the heart of the city",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "the heart of the city",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E37-93",
+    "start" : 9,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-4-R15",
+  "mentionArg1" : {
+    "extent" : "the high-speed approaches into the heart of the city",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E35-92",
+    "start" : 5,
+    "end" : 13
+  },
+  "id" : "CNN_IP_20030402.1600.00-4-R15-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "LANG Yeah , these are the high-speed approaches into the heart of the city and armored forces like the 3rd Mechanized Infantry Division just love high-speed approaches .",
+  "sentence_index" : 28,
+  "Tokens" : [ "LANG", "Yeah", ",", "these", "are", "the", "high-speed", "approaches", "into", "the", "heart", "of", "the", "city", "and", "armored", "forces", "like", "the", "3rd", "Mechanized", "Infantry", "Division", "just", "love", "high-speed", "approaches", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the specific sectors of the city",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "the city",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E47-106",
+    "start" : 28,
+    "end" : 29
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-4-R16",
+  "mentionArg1" : {
+    "extent" : "the specific sectors of the city",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E41-105",
+    "start" : 24,
+    "end" : 29
+  },
+  "id" : "CNN_IP_20030402.1600.00-4-R16-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "They will try to go down those things , cutting the city up into sectors as best they can , and then work on the specific sectors of the city they think are a key terrain .",
+  "sentence_index" : 29,
+  "Tokens" : [ "They", "will", "try", "to", "go", "down", "those", "things", ",", "cutting", "the", "city", "up", "into", "sectors", "as", "best", "they", "can", ",", "and", "then", "work", "on", "the", "specific", "sectors", "of", "the", "city", "they", "think", "are", "a", "key", "terrain", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "major government buildings that they need to control to set up a new government",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "major government buildings that they need to control to set up a new government",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E44-111",
+    "start" : 11,
+    "end" : 24
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-4-R17",
+  "mentionArg1" : {
+    "extent" : "government",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E45-112",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030402.1600.00-4-R17-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "I would think , probably , various facilities as well as major government buildings that they need to control to set up a new government .",
+  "sentence_index" : 30,
+  "Tokens" : [ "I", "would", "think", ",", "probably", ",", "various", "facilities", "as", "well", "as", "major", "government", "buildings", "that", "they", "need", "to", "control", "to", "set", "up", "a", "new", "government", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a lot of people in the city",
+  "sentence_length" : 54,
+  "mentionArg2" : {
+    "extent" : "the city",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E47-134",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-4-R18",
+  "mentionArg1" : {
+    "extent" : "a lot of people in the city",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E58-133",
+    "start" : 5,
+    "end" : 11
+  },
+  "id" : "CNN_IP_20030402.1600.00-4-R18-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "If , in fact , a lot of people in the city do n't want to be liberated and you 're never going to know that until you try , then you 're going to need a much larger force , and we might end up waiting a couple of weeks for reinforcements .",
+  "sentence_index" : 36,
+  "Tokens" : [ "If", ",", "in", "fact", ",", "a", "lot", "of", "people", "in", "the", "city", "do", "n't", "want", "to", "be", "liberated", "and", "you", "'re", "never", "going", "to", "know", "that", "until", "you", "try", ",", "then", "you", "'re", "going", "to", "need", "a", "much", "larger", "force", ",", "and", "we", "might", "end", "up", "waiting", "a", "couple", "of", "weeks", "for", "reinforcements", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Sunni Arab population of central Iraq",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "central Iraq",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E68-157",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-4-R19",
+  "mentionArg1" : {
+    "extent" : "the Sunni Arab population of central Iraq",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E65-154",
+    "start" : 10,
+    "end" : 16
+  },
+  "id" : "CNN_IP_20030402.1600.00-4-R19-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "They have a long history of being kicked around by the Sunni Arab population of central Iraq .",
+  "sentence_index" : 43,
+  "Tokens" : [ "They", "have", "a", "long", "history", "of", "being", "kicked", "around", "by", "the", "Sunni", "Arab", "population", "of", "central", "Iraq", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the other people in the city",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "the city",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E47-162",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-4-R20",
+  "mentionArg1" : {
+    "extent" : "the other people in the city",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E69-161",
+    "start" : 2,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030402.1600.00-4-R20-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "It 's the other people in the city you have to worry about , who are ethnically much the same as the Saddam Hussein regime .",
+  "sentence_index" : 46,
+  "Tokens" : [ "It", "'s", "the", "other", "people", "in", "the", "city", "you", "have", "to", "worry", "about", ",", "who", "are", "ethnically", "much", "the", "same", "as", "the", "Saddam", "Hussein", "regime", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "A man who has been to Baghdad many times and can tell us with great knowledge exactly what it's going to be like to fight on those avenues in that sprawling city of Baghdad",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "that sprawling city of Baghdad",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E47-178",
+    "start" : 30,
+    "end" : 34
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-4-R21",
+  "mentionArg1" : {
+    "extent" : "those avenues",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E76-177",
+    "start" : 27,
+    "end" : 28
+  },
+  "id" : "CNN_IP_20030402.1600.00-4-R21-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "A man who has been to Baghdad many times and can tell us with great knowledge exactly what it 's going to be like to fight on those avenues in that sprawling city of Baghdad - Judy .",
+  "sentence_index" : 49,
+  "Tokens" : [ "A", "man", "who", "has", "been", "to", "Baghdad", "many", "times", "and", "can", "tell", "us", "with", "great", "knowledge", "exactly", "what", "it", "'s", "going", "to", "be", "like", "to", "fight", "on", "those", "avenues", "in", "that", "sprawling", "city", "of", "Baghdad", "-", "Judy", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "A man who has been to Baghdad many times and can tell us with great knowledge exactly what it's going to be like to fight on those avenues in that sprawling city of Baghdad",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E47-175",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-4-R22",
+  "mentionArg1" : {
+    "extent" : "A man who has been to Baghdad many times and can tell us with great knowledge exactly what it's going to be like to fight on those avenues in that sprawling city of Baghdad",
+    "argMentionid" : "CNN_IP_20030402.1600.00-4-E2-173",
+    "start" : 0,
+    "end" : 34
+  },
+  "id" : "CNN_IP_20030402.1600.00-4-R22-1",
+  "relationSubType" : "Located",
+  "Sentence" : "A man who has been to Baghdad many times and can tell us with great knowledge exactly what it 's going to be like to fight on those avenues in that sprawling city of Baghdad - Judy .",
+  "sentence_index" : 49,
+  "Tokens" : [ "A", "man", "who", "has", "been", "to", "Baghdad", "many", "times", "and", "can", "tell", "us", "with", "great", "knowledge", "exactly", "what", "it", "'s", "going", "to", "be", "like", "to", "fight", "on", "those", "avenues", "in", "that", "sprawling", "city", "of", "Baghdad", "-", "Judy", "." ]
+} ]

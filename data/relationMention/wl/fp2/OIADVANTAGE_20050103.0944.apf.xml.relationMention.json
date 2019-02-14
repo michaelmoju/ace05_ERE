@@ -1,0 +1,155 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "whose aging CEO",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "whose",
+    "argMentionid" : "OIADVANTAGE_20050103.0944-E24-54",
+    "start" : 44,
+    "end" : 44
+  },
+  "relationID" : "OIADVANTAGE_20050103.0944-R1",
+  "mentionArg1" : {
+    "extent" : "aging CEO",
+    "argMentionid" : "OIADVANTAGE_20050103.0944-E26-55",
+    "start" : 45,
+    "end" : 46
+  },
+  "id" : "OIADVANTAGE_20050103.0944-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "John A 2005-01-03T09:44:00 Here 's an entertaining little morsel from Business Week Online ( no byline given ) : But on the subject of succession , those two look like role models compared with insurance giant American International Group Inc. ( AIG ) , whose aging CEO has no plans to retire .",
+  "sentence_index" : 0,
+  "Tokens" : [ "John", "A", "2005-01-03T09:44:00", "Here", "'s", "an", "entertaining", "little", "morsel", "from", "Business", "Week", "Online", "(", "no", "byline", "given", ")", ":", "But", "on", "the", "subject", "of", "succession", ",", "those", "two", "look", "like", "role", "models", "compared", "with", "insurance", "giant", "American", "International", "Group", "Inc.", "(", "AIG", ")", ",", "whose", "aging", "CEO", "has", "no", "plans", "to", "retire", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Maurice R. \"Hank\" Greenberg, who turns 80 in May, groomed two sons to be successors, but both have since left AIG",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "two sons",
+    "argMentionid" : "OIADVANTAGE_20050103.0944-E27-58",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "OIADVANTAGE_20050103.0944-R2",
+  "mentionArg1" : {
+    "extent" : "Maurice R. \"Hank\" Greenberg, who turns 80 in May",
+    "argMentionid" : "OIADVANTAGE_20050103.0944-E26-56",
+    "start" : 0,
+    "end" : 11
+  },
+  "id" : "OIADVANTAGE_20050103.0944-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Maurice R. \" Hank \" Greenberg , who turns 80 in May , groomed two sons to be successors , but both have since left AIG.Greenberg Sr. then created an office of the chairman in 2002 , which includes co-COOs Martin J. Sullivan and Donald P. Kanak .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Maurice", "R.", "\"", "Hank", "\"", "Greenberg", ",", "who", "turns", "80", "in", "May", ",", "groomed", "two", "sons", "to", "be", "successors", ",", "but", "both", "have", "since", "left", "AIG.Greenberg", "Sr.", "then", "created", "an", "office", "of", "the", "chairman", "in", "2002", ",", "which", "includes", "co-COOs", "Martin", "J.", "Sullivan", "and", "Donald", "P.", "Kanak", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Maurice R. \"Hank\" Greenberg, who turns 80 in May, groomed two sons to be successors, but both have since left AIG",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "AIG",
+    "argMentionid" : "OIADVANTAGE_20050103.0944-E24-61",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "OIADVANTAGE_20050103.0944-R3",
+  "mentionArg1" : {
+    "extent" : "both",
+    "argMentionid" : "OIADVANTAGE_20050103.0944-E27-60",
+    "start" : 21,
+    "end" : 21
+  },
+  "id" : "OIADVANTAGE_20050103.0944-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Maurice R. \" Hank \" Greenberg , who turns 80 in May , groomed two sons to be successors , but both have since left AIG.Greenberg Sr. then created an office of the chairman in 2002 , which includes co-COOs Martin J. Sullivan and Donald P. Kanak .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Maurice", "R.", "\"", "Hank", "\"", "Greenberg", ",", "who", "turns", "80", "in", "May", ",", "groomed", "two", "sons", "to", "be", "successors", ",", "but", "both", "have", "since", "left", "AIG.Greenberg", "Sr.", "then", "created", "an", "office", "of", "the", "chairman", "in", "2002", ",", "which", "includes", "co-COOs", "Martin", "J.", "Sullivan", "and", "Donald", "P.", "Kanak", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the top management team of a company with a CEO/Chair",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "a company with a CEO/Chair",
+    "argMentionid" : "OIADVANTAGE_20050103.0944-E17-32",
+    "start" : 12,
+    "end" : 18
+  },
+  "relationID" : "OIADVANTAGE_20050103.0944-R4",
+  "mentionArg1" : {
+    "extent" : "the top management team of a company with a CEO/Chair",
+    "argMentionid" : "OIADVANTAGE_20050103.0944-E20-44",
+    "start" : 7,
+    "end" : 18
+  },
+  "id" : "OIADVANTAGE_20050103.0944-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "I do however look more carefully at the top management team of a company with a CEO / Chair before investing .",
+  "sentence_index" : 10,
+  "Tokens" : [ "I", "do", "however", "look", "more", "carefully", "at", "the", "top", "management", "team", "of", "a", "company", "with", "a", "CEO", "/", "Chair", "before", "investing", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the CEO's previous company",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "the CEO's previous company",
+    "argMentionid" : "OIADVANTAGE_20050103.0944-E19-37",
+    "start" : 13,
+    "end" : 17
+  },
+  "relationID" : "OIADVANTAGE_20050103.0944-R5",
+  "mentionArg1" : {
+    "extent" : "the CEO",
+    "argMentionid" : "OIADVANTAGE_20050103.0944-E12-38",
+    "start" : 13,
+    "end" : 14
+  },
+  "id" : "OIADVANTAGE_20050103.0944-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "If the CEO is new , I also look at the performance of the CEO 's previous company .",
+  "sentence_index" : 14,
+  "Tokens" : [ "If", "the", "CEO", "is", "new", ",", "I", "also", "look", "at", "the", "performance", "of", "the", "CEO", "'s", "previous", "company", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I am most concerned if the fortunes of the prior employer took a sudden turn for the worse after the CEO left",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "the prior employer",
+    "argMentionid" : "OIADVANTAGE_20050103.0944-E19-40",
+    "start" : 8,
+    "end" : 10
+  },
+  "relationID" : "OIADVANTAGE_20050103.0944-R5",
+  "mentionArg1" : {
+    "extent" : "the CEO",
+    "argMentionid" : "OIADVANTAGE_20050103.0944-E12-41",
+    "start" : 19,
+    "end" : 20
+  },
+  "id" : "OIADVANTAGE_20050103.0944-R5-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "I am most concerned if the fortunes of the prior employer took a sudden turn for the worse after the CEO left .",
+  "sentence_index" : 15,
+  "Tokens" : [ "I", "am", "most", "concerned", "if", "the", "fortunes", "of", "the", "prior", "employer", "took", "a", "sudden", "turn", "for", "the", "worse", "after", "the", "CEO", "left", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "your CEO",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "your CEO",
+    "argMentionid" : "OIADVANTAGE_20050103.0944-E7-12",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "OIADVANTAGE_20050103.0944-R7",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "OIADVANTAGE_20050103.0944-E8-13",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "OIADVANTAGE_20050103.0944-R7-1",
+  "relationSubType" : "Business",
+  "Sentence" : "I guess it is not as straight forward when your CEO is also chairman and one of the largest shareholders .",
+  "sentence_index" : 4,
+  "Tokens" : [ "I", "guess", "it", "is", "not", "as", "straight", "forward", "when", "your", "CEO", "is", "also", "chairman", "and", "one", "of", "the", "largest", "shareholders", "." ]
+} ]

@@ -1,0 +1,287 @@
+[ {
+  "relationType" : "ART",
+  "extent" : "Completely different from the Mogadishu situation in which we did not have such vehicles",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "such vehicles",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E61-14",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-4-R1",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E60-48",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030403.1600.00-4-R1-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Completely different from the Mogadishu situation in which we did not have such vehicles .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Completely", "different", "from", "the", "Mogadishu", "situation", "in", "which", "we", "did", "not", "have", "such", "vehicles", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "And one of the reasons is because we have armored fighting vehicles there in Baghdad, and we will use them",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "armored fighting vehicles",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E61-145",
+    "start" : 9,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-4-R1",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E60-147",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "CNN_IP_20030403.1600.00-4-R1-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "And one of the reasons is because we have armored fighting vehicles there in Baghdad , and we will use them .",
+  "sentence_index" : 7,
+  "Tokens" : [ "And", "one", "of", "the", "reasons", "is", "because", "we", "have", "armored", "fighting", "vehicles", "there", "in", "Baghdad", ",", "and", "we", "will", "use", "them", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Republican Guard snipers up on balconies",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "balconies",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E18-32",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-4-R2",
+  "mentionArg1" : {
+    "extent" : "Republican Guard snipers",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E16-30",
+    "start" : 21,
+    "end" : 23
+  },
+  "id" : "CNN_IP_20030403.1600.00-4-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "As we get a little bit closer here , in a typical scenario like this , you might very well have Republican Guard snipers up on balconies like this , and possibly up on the roofs of buildings and anti-aircraft artillery or artillery encampments like that .",
+  "sentence_index" : 19,
+  "Tokens" : [ "As", "we", "get", "a", "little", "bit", "closer", "here", ",", "in", "a", "typical", "scenario", "like", "this", ",", "you", "might", "very", "well", "have", "Republican", "Guard", "snipers", "up", "on", "balconies", "like", "this", ",", "and", "possibly", "up", "on", "the", "roofs", "of", "buildings", "and", "anti-aircraft", "artillery", "or", "artillery", "encampments", "like", "that", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Republican Guard snipers up on balconies like this, and possibly up on the roofs of buildings",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "the roofs of buildings",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E19-34",
+    "start" : 34,
+    "end" : 37
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-4-R3",
+  "mentionArg1" : {
+    "extent" : "Republican Guard snipers",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E16-30",
+    "start" : 21,
+    "end" : 23
+  },
+  "id" : "CNN_IP_20030403.1600.00-4-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "As we get a little bit closer here , in a typical scenario like this , you might very well have Republican Guard snipers up on balconies like this , and possibly up on the roofs of buildings and anti-aircraft artillery or artillery encampments like that .",
+  "sentence_index" : 19,
+  "Tokens" : [ "As", "we", "get", "a", "little", "bit", "closer", "here", ",", "in", "a", "typical", "scenario", "like", "this", ",", "you", "might", "very", "well", "have", "Republican", "Guard", "snipers", "up", "on", "balconies", "like", "this", ",", "and", "possibly", "up", "on", "the", "roofs", "of", "buildings", "and", "anti-aircraft", "artillery", "or", "artillery", "encampments", "like", "that", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Republican Guard snipers",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "Republican Guard",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E17-31",
+    "start" : 21,
+    "end" : 22
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-4-R5",
+  "mentionArg1" : {
+    "extent" : "Republican Guard snipers",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E16-30",
+    "start" : 21,
+    "end" : 23
+  },
+  "id" : "CNN_IP_20030403.1600.00-4-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "As we get a little bit closer here , in a typical scenario like this , you might very well have Republican Guard snipers up on balconies like this , and possibly up on the roofs of buildings and anti-aircraft artillery or artillery encampments like that .",
+  "sentence_index" : 19,
+  "Tokens" : [ "As", "we", "get", "a", "little", "bit", "closer", "here", ",", "in", "a", "typical", "scenario", "like", "this", ",", "you", "might", "very", "well", "have", "Republican", "Guard", "snipers", "up", "on", "balconies", "like", "this", ",", "and", "possibly", "up", "on", "the", "roofs", "of", "buildings", "and", "anti-aircraft", "artillery", "or", "artillery", "encampments", "like", "that", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the roofs of buildings",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "buildings",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E20-35",
+    "start" : 37,
+    "end" : 37
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-4-R6",
+  "mentionArg1" : {
+    "extent" : "the roofs of buildings",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E19-34",
+    "start" : 34,
+    "end" : 37
+  },
+  "id" : "CNN_IP_20030403.1600.00-4-R6-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "As we get a little bit closer here , in a typical scenario like this , you might very well have Republican Guard snipers up on balconies like this , and possibly up on the roofs of buildings and anti-aircraft artillery or artillery encampments like that .",
+  "sentence_index" : 19,
+  "Tokens" : [ "As", "we", "get", "a", "little", "bit", "closer", "here", ",", "in", "a", "typical", "scenario", "like", "this", ",", "you", "might", "very", "well", "have", "Republican", "Guard", "snipers", "up", "on", "balconies", "like", "this", ",", "and", "possibly", "up", "on", "the", "roofs", "of", "buildings", "and", "anti-aircraft", "artillery", "or", "artillery", "encampments", "like", "that", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "these concrete canyons in a city",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "a city",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E27-44",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-4-R7",
+  "mentionArg1" : {
+    "extent" : "these concrete canyons",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E26-43",
+    "start" : 13,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030403.1600.00-4-R7-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "How much jeopardy is a column like this in as it goes through these concrete canyons in a city ?",
+  "sentence_index" : 21,
+  "Tokens" : [ "How", "much", "jeopardy", "is", "a", "column", "like", "this", "in", "as", "it", "goes", "through", "these", "concrete", "canyons", "in", "a", "city", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "We will take the time to locate the enemy, surround the blocks and the buildings that he is in",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "the buildings that he is in",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E32-62",
+    "start" : 14,
+    "end" : 19
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-4-R8",
+  "mentionArg1" : {
+    "extent" : "the enemy",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E30-59",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030403.1600.00-4-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "We will take the time to locate the enemy , surround the blocks and the buildings that he is in .",
+  "sentence_index" : 27,
+  "Tokens" : [ "We", "will", "take", "the", "time", "to", "locate", "the", "enemy", ",", "surround", "the", "blocks", "and", "the", "buildings", "that", "he", "is", "in", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the top of the building",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "the building",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E38-90",
+    "start" : 40,
+    "end" : 41
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-4-R9",
+  "mentionArg1" : {
+    "extent" : "the top of the building",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E37-89",
+    "start" : 37,
+    "end" : 41
+  },
+  "id" : "CNN_IP_20030403.1600.00-4-R9-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "LEONHARD Well , typically , if they do go in , which is generally the option of last resort , but if we do have to go in , often we 'll try to go in from the top of the building down .",
+  "sentence_index" : 39,
+  "Tokens" : [ "LEONHARD", "Well", ",", "typically", ",", "if", "they", "do", "go", "in", ",", "which", "is", "generally", "the", "option", "of", "last", "resort", ",", "but", "if", "we", "do", "have", "to", "go", "in", ",", "often", "we", "'ll", "try", "to", "go", "in", "from", "the", "top", "of", "the", "building", "down", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "One of the reasons is because we use grenades a lot in clearing buildings, and grenades ten to offend downhill rather than uphill",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "grenades",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E39-10",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-4-R10",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E60-22",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030403.1600.00-4-R10-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "One of the reasons is because we use grenades a lot in clearing buildings , and grenades ten to offend downhill rather than uphill .",
+  "sentence_index" : 40,
+  "Tokens" : [ "One", "of", "the", "reasons", "is", "because", "we", "use", "grenades", "a", "lot", "in", "clearing", "buildings", ",", "and", "grenades", "ten", "to", "offend", "downhill", "rather", "than", "uphill", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the U.S. military",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E43-105",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-4-R11",
+  "mentionArg1" : {
+    "extent" : "the U.S. military",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E60-49",
+    "start" : 19,
+    "end" : 21
+  },
+  "id" : "CNN_IP_20030403.1600.00-4-R11-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Lieutenant Colonel Robert Leonard , we appreciate your insights in urban combat , something that is not something that the U.S. military would prefer to engage in , but it might become inevitable .",
+  "sentence_index" : 44,
+  "Tokens" : [ "Lieutenant", "Colonel", "Robert", "Leonard", ",", "we", "appreciate", "your", "insights", "in", "urban", "combat", ",", "something", "that", "is", "not", "something", "that", "the", "U.S.", "military", "would", "prefer", "to", "engage", "in", ",", "but", "it", "might", "become", "inevitable", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Up next, a report on the president's trip to Camp Lejeune, and a look at how the Camp Lejeune community is coping with the challenges of war",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Camp Lejeune",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E51-124",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-4-R12",
+  "mentionArg1" : {
+    "extent" : "the president",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E47-120",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030403.1600.00-4-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Up next , a report on the president 's trip to Camp Lejeune , and a look at how the Camp Lejeune community is coping with the challenges of war .",
+  "sentence_index" : 50,
+  "Tokens" : [ "Up", "next", ",", "a", "report", "on", "the", "president", "'s", "trip", "to", "Camp", "Lejeune", ",", "and", "a", "look", "at", "how", "the", "Camp", "Lejeune", "community", "is", "coping", "with", "the", "challenges", "of", "war", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the Camp Lejeune community",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Camp Lejeune",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E51-125",
+    "start" : 20,
+    "end" : 21
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-4-R13",
+  "mentionArg1" : {
+    "extent" : "the Camp Lejeune community",
+    "argMentionid" : "CNN_IP_20030403.1600.00-4-E53-126",
+    "start" : 19,
+    "end" : 22
+  },
+  "id" : "CNN_IP_20030403.1600.00-4-R13-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Up next , a report on the president 's trip to Camp Lejeune , and a look at how the Camp Lejeune community is coping with the challenges of war .",
+  "sentence_index" : 50,
+  "Tokens" : [ "Up", "next", ",", "a", "report", "on", "the", "president", "'s", "trip", "to", "Camp", "Lejeune", ",", "and", "a", "look", "at", "how", "the", "Camp", "Lejeune", "community", "is", "coping", "with", "the", "challenges", "of", "war", "." ]
+} ]

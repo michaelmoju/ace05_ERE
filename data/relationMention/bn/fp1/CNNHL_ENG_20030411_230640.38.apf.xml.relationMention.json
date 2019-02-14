@@ -1,0 +1,67 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "sharon osbourne did not enjoy her meal at a los angeles restaurant last night",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "a los angeles restaurant",
+    "argMentionid" : "CNNHL_ENG_20030411_230640.38-E5-7",
+    "start" : 8,
+    "end" : 11
+  },
+  "relationID" : "CNNHL_ENG_20030411_230640.38-R1",
+  "mentionArg1" : {
+    "extent" : "sharon osbourne",
+    "argMentionid" : "CNNHL_ENG_20030411_230640.38-E4-1",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNNHL_ENG_20030411_230640.38-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "sharon osbourne did not enjoy her meal at a los angeles restaurant last night. ozzy 's wife reportedly got into a fight with hollywood agent renee tab. sharon spit on tab and called her names. osbourne 's spokeswomen says sharon was quote , \" viciously assaulted and treated at a hospital . \"",
+  "sentence_index" : 0,
+  "Tokens" : [ "sharon", "osbourne", "did", "not", "enjoy", "her", "meal", "at", "a", "los", "angeles", "restaurant", "last", "night.", "ozzy", "'s", "wife", "reportedly", "got", "into", "a", "fight", "with", "hollywood", "agent", "renee", "tab.", "sharon", "spit", "on", "tab", "and", "called", "her", "names.", "osbourne", "'s", "spokeswomen", "says", "sharon", "was", "quote", ",", "\"", "viciously", "assaulted", "and", "treated", "at", "a", "hospital", ".", "\"" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "ozzy's wife",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "ozzy's wife",
+    "argMentionid" : "CNNHL_ENG_20030411_230640.38-E4-9",
+    "start" : 14,
+    "end" : 16
+  },
+  "relationID" : "CNNHL_ENG_20030411_230640.38-R2",
+  "mentionArg1" : {
+    "extent" : "ozzy",
+    "argMentionid" : "CNNHL_ENG_20030411_230640.38-E7-10",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "CNNHL_ENG_20030411_230640.38-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "sharon osbourne did not enjoy her meal at a los angeles restaurant last night. ozzy 's wife reportedly got into a fight with hollywood agent renee tab. sharon spit on tab and called her names. osbourne 's spokeswomen says sharon was quote , \" viciously assaulted and treated at a hospital . \"",
+  "sentence_index" : 0,
+  "Tokens" : [ "sharon", "osbourne", "did", "not", "enjoy", "her", "meal", "at", "a", "los", "angeles", "restaurant", "last", "night.", "ozzy", "'s", "wife", "reportedly", "got", "into", "a", "fight", "with", "hollywood", "agent", "renee", "tab.", "sharon", "spit", "on", "tab", "and", "called", "her", "names.", "osbourne", "'s", "spokeswomen", "says", "sharon", "was", "quote", ",", "\"", "viciously", "assaulted", "and", "treated", "at", "a", "hospital", ".", "\"" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "sharon was quote, \"viciously assaulted and treated at a hospital",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "a hospital",
+    "argMentionid" : "CNNHL_ENG_20030411_230640.38-E1-2",
+    "start" : 49,
+    "end" : 50
+  },
+  "relationID" : "CNNHL_ENG_20030411_230640.38-R3",
+  "mentionArg1" : {
+    "extent" : "sharon",
+    "argMentionid" : "CNNHL_ENG_20030411_230640.38-E4-19",
+    "start" : 39,
+    "end" : 39
+  },
+  "id" : "CNNHL_ENG_20030411_230640.38-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "sharon osbourne did not enjoy her meal at a los angeles restaurant last night. ozzy 's wife reportedly got into a fight with hollywood agent renee tab. sharon spit on tab and called her names. osbourne 's spokeswomen says sharon was quote , \" viciously assaulted and treated at a hospital . \"",
+  "sentence_index" : 0,
+  "Tokens" : [ "sharon", "osbourne", "did", "not", "enjoy", "her", "meal", "at", "a", "los", "angeles", "restaurant", "last", "night.", "ozzy", "'s", "wife", "reportedly", "got", "into", "a", "fight", "with", "hollywood", "agent", "renee", "tab.", "sharon", "spit", "on", "tab", "and", "called", "her", "names.", "osbourne", "'s", "spokeswomen", "says", "sharon", "was", "quote", ",", "\"", "viciously", "assaulted", "and", "treated", "at", "a", "hospital", ".", "\"" ]
+} ]

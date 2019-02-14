@@ -1,0 +1,111 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "A rocket holding the first of two Mars rovers",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "the first of two Mars rovers",
+    "argMentionid" : "APW_ENG_20030610.0554-E20-42",
+    "start" : 10,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030610.0554-R1",
+  "mentionArg1" : {
+    "extent" : "A rocket holding the first of two Mars rovers",
+    "argMentionid" : "APW_ENG_20030610.0554-E19-1",
+    "start" : 7,
+    "end" : 15
+  },
+  "id" : "APW_ENG_20030610.0554-R1-1",
+  "relationSubType" : "Artifact",
+  "Sentence" : "CAPE CANAVERAL , Florida ( AP ) A rocket holding the first of two Mars rovers blasted off Tuesday on a seven-month voyage to the red planet where the golf-cart-sized vehicles will search for evidence that there was once enough water to support life on Mars .",
+  "sentence_index" : 0,
+  "Tokens" : [ "CAPE", "CANAVERAL", ",", "Florida", "(", "AP", ")", "A", "rocket", "holding", "the", "first", "of", "two", "Mars", "rovers", "blasted", "off", "Tuesday", "on", "a", "seven-month", "voyage", "to", "the", "red", "planet", "where", "the", "golf-cart-sized", "vehicles", "will", "search", "for", "evidence", "that", "there", "was", "once", "enough", "water", "to", "support", "life", "on", "Mars", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the Cape Canaveral Air Force Station",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the Cape Canaveral Air Force Station",
+    "argMentionid" : "APW_ENG_20030610.0554-E25-51",
+    "start" : 7,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030610.0554-R2",
+  "mentionArg1" : {
+    "extent" : "Air Force",
+    "argMentionid" : "APW_ENG_20030610.0554-E2-3",
+    "start" : 10,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030610.0554-R2-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The rover named Spirit lifted off from the Cape Canaveral Air Force Station aboard a Boeing Delta II rocket at 1:58 p . m .",
+  "sentence_index" : 1,
+  "Tokens" : [ "The", "rover", "named", "Spirit", "lifted", "off", "from", "the", "Cape", "Canaveral", "Air", "Force", "Station", "aboard", "a", "Boeing", "Delta", "II", "rocket", "at", "1:58", "p", ".", "m", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the Cape Canaveral Air Force Station",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Cape Canaveral",
+    "argMentionid" : "APW_ENG_20030610.0554-E26-52",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030610.0554-R3",
+  "mentionArg1" : {
+    "extent" : "the Cape Canaveral Air Force Station",
+    "argMentionid" : "APW_ENG_20030610.0554-E25-51",
+    "start" : 7,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030610.0554-R3-1",
+  "relationSubType" : "Near",
+  "Sentence" : "The rover named Spirit lifted off from the Cape Canaveral Air Force Station aboard a Boeing Delta II rocket at 1:58 p . m .",
+  "sentence_index" : 1,
+  "Tokens" : [ "The", "rover", "named", "Spirit", "lifted", "off", "from", "the", "Cape", "Canaveral", "Air", "Force", "Station", "aboard", "a", "Boeing", "Delta", "II", "rocket", "at", "1:58", "p", ".", "m", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "The rover named Spirit lifted off from the Cape Canaveral Air Force Station aboard a Boeing Delta II rocket at 1:58 p.m. (1758 GMT",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "a Boeing Delta II rocket",
+    "argMentionid" : "APW_ENG_20030610.0554-E19-56",
+    "start" : 14,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030610.0554-R4",
+  "mentionArg1" : {
+    "extent" : "The rover named Spirit",
+    "argMentionid" : "APW_ENG_20030610.0554-E20-50",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "APW_ENG_20030610.0554-R4-1",
+  "relationSubType" : "Artifact",
+  "Sentence" : "The rover named Spirit lifted off from the Cape Canaveral Air Force Station aboard a Boeing Delta II rocket at 1:58 p . m .",
+  "sentence_index" : 1,
+  "Tokens" : [ "The", "rover", "named", "Spirit", "lifted", "off", "from", "the", "Cape", "Canaveral", "Air", "Force", "Station", "aboard", "a", "Boeing", "Delta", "II", "rocket", "at", "1:58", "p", ".", "m", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "The space agency has been under intense scrutiny since February when the space shuttle Columbia disintegrated over Texas, killing all seven crew members",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the space shuttle",
+    "argMentionid" : "APW_ENG_20030610.0554-E12-33",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030610.0554-R5",
+  "mentionArg1" : {
+    "extent" : "all seven crew members",
+    "argMentionid" : "APW_ENG_20030610.0554-E15-36",
+    "start" : 20,
+    "end" : 23
+  },
+  "id" : "APW_ENG_20030610.0554-R5-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The space agency has been under intense scrutiny since February when the space shuttle Columbia disintegrated over Texas , killing all seven crew members .",
+  "sentence_index" : 17,
+  "Tokens" : [ "The", "space", "agency", "has", "been", "under", "intense", "scrutiny", "since", "February", "when", "the", "space", "shuttle", "Columbia", "disintegrated", "over", "Texas", ",", "killing", "all", "seven", "crew", "members", "." ]
+} ]

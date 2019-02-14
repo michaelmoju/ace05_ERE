@@ -1,0 +1,595 @@
+[ {
+  "relationType" : "ART",
+  "extent" : "its bankrupt Las Vegas casino-hotel",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "its bankrupt Las Vegas casino-hotel",
+    "argMentionid" : "APW_ENG_20030424.0080-E44-12",
+    "start" : 12,
+    "end" : 16
+  },
+  "relationID" : "APW_ENG_20030424.0080-R5",
+  "mentionArg1" : {
+    "extent" : "its",
+    "argMentionid" : "APW_ENG_20030424.0080-E12-90",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030424.0080-R5-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "LAS VEGAS ( AP ) Aladdin Gaming LLC has agreed to sell its bankrupt Las Vegas casino-hotel to a joint venture involving Planet Hollywood 's co-founder and the Starwood hotel chain .",
+  "sentence_index" : 0,
+  "Tokens" : [ "LAS", "VEGAS", "(", "AP", ")", "Aladdin", "Gaming", "LLC", "has", "agreed", "to", "sell", "its", "bankrupt", "Las", "Vegas", "casino-hotel", "to", "a", "joint", "venture", "involving", "Planet", "Hollywood", "'s", "co-founder", "and", "the", "Starwood", "hotel", "chain", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "its bankrupt Las Vegas casino-hotel",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Las Vegas",
+    "argMentionid" : "APW_ENG_20030424.0080-E25-91",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030424.0080-R6",
+  "mentionArg1" : {
+    "extent" : "its bankrupt Las Vegas casino-hotel",
+    "argMentionid" : "APW_ENG_20030424.0080-E44-12",
+    "start" : 12,
+    "end" : 16
+  },
+  "id" : "APW_ENG_20030424.0080-R6-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "LAS VEGAS ( AP ) Aladdin Gaming LLC has agreed to sell its bankrupt Las Vegas casino-hotel to a joint venture involving Planet Hollywood 's co-founder and the Starwood hotel chain .",
+  "sentence_index" : 0,
+  "Tokens" : [ "LAS", "VEGAS", "(", "AP", ")", "Aladdin", "Gaming", "LLC", "has", "agreed", "to", "sell", "its", "bankrupt", "Las", "Vegas", "casino-hotel", "to", "a", "joint", "venture", "involving", "Planet", "Hollywood", "'s", "co-founder", "and", "the", "Starwood", "hotel", "chain", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Planet Hollywood's co-founder",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Planet Hollywood",
+    "argMentionid" : "APW_ENG_20030424.0080-E4-92",
+    "start" : 22,
+    "end" : 23
+  },
+  "relationID" : "APW_ENG_20030424.0080-R7",
+  "mentionArg1" : {
+    "extent" : "Planet Hollywood's co-founder",
+    "argMentionid" : "APW_ENG_20030424.0080-E5-94",
+    "start" : 22,
+    "end" : 25
+  },
+  "id" : "APW_ENG_20030424.0080-R7-1",
+  "relationSubType" : "Founder",
+  "Sentence" : "LAS VEGAS ( AP ) Aladdin Gaming LLC has agreed to sell its bankrupt Las Vegas casino-hotel to a joint venture involving Planet Hollywood 's co-founder and the Starwood hotel chain .",
+  "sentence_index" : 0,
+  "Tokens" : [ "LAS", "VEGAS", "(", "AP", ")", "Aladdin", "Gaming", "LLC", "has", "agreed", "to", "sell", "its", "bankrupt", "Las", "Vegas", "casino-hotel", "to", "a", "joint", "venture", "involving", "Planet", "Hollywood", "'s", "co-founder", "and", "the", "Starwood", "hotel", "chain", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "co-founder of Planet Hollywood",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "Planet Hollywood",
+    "argMentionid" : "APW_ENG_20030424.0080-E4-84",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030424.0080-R7",
+  "mentionArg1" : {
+    "extent" : "co-founder of Planet Hollywood",
+    "argMentionid" : "APW_ENG_20030424.0080-E5-46",
+    "start" : 2,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030424.0080-R7-2",
+  "relationSubType" : "Founder",
+  "Sentence" : "Earl , co-founder of Planet Hollywood , said the casino would assume a new identity .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Earl", ",", "co-founder", "of", "Planet", "Hollywood", ",", "said", "the", "casino", "would", "assume", "a", "new", "identity", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the Starwood hotel chain",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "hotel",
+    "argMentionid" : "APW_ENG_20030424.0080-E3-96",
+    "start" : 29,
+    "end" : 29
+  },
+  "relationID" : "APW_ENG_20030424.0080-R8",
+  "mentionArg1" : {
+    "extent" : "the Starwood hotel chain",
+    "argMentionid" : "APW_ENG_20030424.0080-E53-95",
+    "start" : 27,
+    "end" : 30
+  },
+  "id" : "APW_ENG_20030424.0080-R8-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "LAS VEGAS ( AP ) Aladdin Gaming LLC has agreed to sell its bankrupt Las Vegas casino-hotel to a joint venture involving Planet Hollywood 's co-founder and the Starwood hotel chain .",
+  "sentence_index" : 0,
+  "Tokens" : [ "LAS", "VEGAS", "(", "AP", ")", "Aladdin", "Gaming", "LLC", "has", "agreed", "to", "sell", "its", "bankrupt", "Las", "Vegas", "casino-hotel", "to", "a", "joint", "venture", "involving", "Planet", "Hollywood", "'s", "co-founder", "and", "the", "Starwood", "hotel", "chain", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Starwood will manage hotel operations through its Sheraton brand",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "hotel",
+    "argMentionid" : "APW_ENG_20030424.0080-E3-40",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "APW_ENG_20030424.0080-R8",
+  "mentionArg1" : {
+    "extent" : "Starwood",
+    "argMentionid" : "APW_ENG_20030424.0080-E53-39",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "APW_ENG_20030424.0080-R8-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Starwood will manage hotel operations through its Sheraton brand .",
+  "sentence_index" : 14,
+  "Tokens" : [ "Starwood", "will", "manage", "hotel", "operations", "through", "its", "Sheraton", "brand", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Arabian Nights-themed resort on the Las Vegas Strip",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "the Las Vegas Strip",
+    "argMentionid" : "APW_ENG_20030424.0080-E58-98",
+    "start" : 11,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030424.0080-R9",
+  "mentionArg1" : {
+    "extent" : "the Arabian Nights-themed resort on the Las Vegas Strip",
+    "argMentionid" : "APW_ENG_20030424.0080-E44-97",
+    "start" : 6,
+    "end" : 14
+  },
+  "id" : "APW_ENG_20030424.0080-R9-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The deal announced Wednesday calls for the Arabian Nights-themed resort on the Las Vegas Strip to be branded as Planet Hollywood Hotel & amp ; Casino .",
+  "sentence_index" : 1,
+  "Tokens" : [ "The", "deal", "announced", "Wednesday", "calls", "for", "the", "Arabian", "Nights-themed", "resort", "on", "the", "Las", "Vegas", "Strip", "to", "be", "branded", "as", "Planet", "Hollywood", "Hotel", "&", "amp", ";", "Casino", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "The property will be managed by Starwood Hotels & Resorts Inc. through its Sheraton hotel brand",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "The property",
+    "argMentionid" : "APW_ENG_20030424.0080-E44-100",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030424.0080-R10",
+  "mentionArg1" : {
+    "extent" : "Starwood Hotels & Resorts Inc",
+    "argMentionid" : "APW_ENG_20030424.0080-E53-101",
+    "start" : 6,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030424.0080-R10-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The property will be managed by Starwood Hotels & amp ; Resorts Inc. through its Sheraton hotel brand .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "property", "will", "be", "managed", "by", "Starwood", "Hotels", "&", "amp", ";", "Resorts", "Inc.", "through", "its", "Sheraton", "hotel", "brand", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "its Sheraton hotel brand",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "its",
+    "argMentionid" : "APW_ENG_20030424.0080-E53-102",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030424.0080-R11",
+  "mentionArg1" : {
+    "extent" : "its Sheraton hotel brand",
+    "argMentionid" : "APW_ENG_20030424.0080-E1-103",
+    "start" : 14,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030424.0080-R11-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The property will be managed by Starwood Hotels & amp ; Resorts Inc. through its Sheraton hotel brand .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "property", "will", "be", "managed", "by", "Starwood", "Hotels", "&", "amp", ";", "Resorts", "Inc.", "through", "its", "Sheraton", "hotel", "brand", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "its Sheraton brand",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "its",
+    "argMentionid" : "APW_ENG_20030424.0080-E53-41",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030424.0080-R11",
+  "mentionArg1" : {
+    "extent" : "its Sheraton brand",
+    "argMentionid" : "APW_ENG_20030424.0080-E1-42",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030424.0080-R11-2",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Starwood will manage hotel operations through its Sheraton brand .",
+  "sentence_index" : 14,
+  "Tokens" : [ "Starwood", "will", "manage", "hotel", "operations", "through", "its", "Sheraton", "brand", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "its Sheraton hotel brand",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "hotel",
+    "argMentionid" : "APW_ENG_20030424.0080-E3-3",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "APW_ENG_20030424.0080-R12",
+  "mentionArg1" : {
+    "extent" : "its Sheraton hotel brand",
+    "argMentionid" : "APW_ENG_20030424.0080-E1-103",
+    "start" : 14,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030424.0080-R12-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The property will be managed by Starwood Hotels & amp ; Resorts Inc. through its Sheraton hotel brand .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "property", "will", "be", "managed", "by", "Starwood", "Hotels", "&", "amp", ";", "Resorts", "Inc.", "through", "its", "Sheraton", "hotel", "brand", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Planet Hollywood CEO",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Planet Hollywood",
+    "argMentionid" : "APW_ENG_20030424.0080-E4-4",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030424.0080-R13",
+  "mentionArg1" : {
+    "extent" : "Planet Hollywood CEO",
+    "argMentionid" : "APW_ENG_20030424.0080-E5-5",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030424.0080-R13-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Planet Hollywood CEO Robert Earl and New York investment firm Bay Harbour Management LC also are members of a member of the venture .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Planet", "Hollywood", "CEO", "Robert", "Earl", "and", "New", "York", "investment", "firm", "Bay", "Harbour", "Management", "LC", "also", "are", "members", "of", "a", "member", "of", "the", "venture", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "New York investment firm",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "New York",
+    "argMentionid" : "APW_ENG_20030424.0080-E6-6",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030424.0080-R14",
+  "mentionArg1" : {
+    "extent" : "New York investment firm",
+    "argMentionid" : "APW_ENG_20030424.0080-E8-7",
+    "start" : 6,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030424.0080-R14-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Planet Hollywood CEO Robert Earl and New York investment firm Bay Harbour Management LC also are members of a member of the venture .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Planet", "Hollywood", "CEO", "Robert", "Earl", "and", "New", "York", "investment", "firm", "Bay", "Harbour", "Management", "LC", "also", "are", "members", "of", "a", "member", "of", "the", "venture", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Aladdin's 7,000-seat Theatre of Performing Arts",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "Aladdin's 7,000-seat Theatre of Performing Arts",
+    "argMentionid" : "APW_ENG_20030424.0080-E11-11",
+    "start" : 5,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030424.0080-R15",
+  "mentionArg1" : {
+    "extent" : "Aladdin",
+    "argMentionid" : "APW_ENG_20030424.0080-E12-10",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030424.0080-R15-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The group also is buying Aladdin 's 7,000-seat Theatre of Performing Arts .",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "group", "also", "is", "buying", "Aladdin", "'s", "7,000-seat", "Theatre", "of", "Performing", "Arts", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Aladdin president",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Aladdin",
+    "argMentionid" : "APW_ENG_20030424.0080-E12-14",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030424.0080-R16",
+  "mentionArg1" : {
+    "extent" : "Aladdin president",
+    "argMentionid" : "APW_ENG_20030424.0080-E14-16",
+    "start" : 12,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030424.0080-R16-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "`` We 've dealt with a lot of different people , '' Aladdin president and acting chief executive Bill Timmins said in an interview .",
+  "sentence_index" : 5,
+  "Tokens" : [ "``", "We", "'ve", "dealt", "with", "a", "lot", "of", "different", "people", ",", "''", "Aladdin", "president", "and", "acting", "chief", "executive", "Bill", "Timmins", "said", "in", "an", "interview", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Aladdin president and acting chief executive",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Aladdin",
+    "argMentionid" : "APW_ENG_20030424.0080-E12-14",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030424.0080-R16",
+  "mentionArg1" : {
+    "extent" : "acting chief executive",
+    "argMentionid" : "APW_ENG_20030424.0080-E14-17",
+    "start" : 15,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030424.0080-R16-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "`` We 've dealt with a lot of different people , '' Aladdin president and acting chief executive Bill Timmins said in an interview .",
+  "sentence_index" : 5,
+  "Tokens" : [ "``", "We", "'ve", "dealt", "with", "a", "lot", "of", "different", "people", ",", "''", "Aladdin", "president", "and", "acting", "chief", "executive", "Bill", "Timmins", "said", "in", "an", "interview", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "The group also is buying Aladdin's 7,000-seat Theatre of Performing Arts",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "Aladdin's 7,000-seat Theatre of Performing Arts",
+    "argMentionid" : "APW_ENG_20030424.0080-E11-11",
+    "start" : 5,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030424.0080-R18",
+  "mentionArg1" : {
+    "extent" : "The group",
+    "argMentionid" : "APW_ENG_20030424.0080-E24-32",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030424.0080-R18-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The group also is buying Aladdin 's 7,000-seat Theatre of Performing Arts .",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "group", "also", "is", "buying", "Aladdin", "'s", "7,000-seat", "Theatre", "of", "Performing", "Arts", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Aladdin Gaming LLC has agreed to sell its bankrupt Las Vegas casino-hotel to a joint venture involving Planet Hollywood's co-founder and the Starwood hotel chain",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "its bankrupt Las Vegas casino-hotel",
+    "argMentionid" : "APW_ENG_20030424.0080-E44-12",
+    "start" : 12,
+    "end" : 16
+  },
+  "relationID" : "APW_ENG_20030424.0080-R19",
+  "mentionArg1" : {
+    "extent" : "a joint venture involving Planet Hollywood's co-founder and the Starwood hotel chain",
+    "argMentionid" : "APW_ENG_20030424.0080-E24-30",
+    "start" : 18,
+    "end" : 30
+  },
+  "id" : "APW_ENG_20030424.0080-R19-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "LAS VEGAS ( AP ) Aladdin Gaming LLC has agreed to sell its bankrupt Las Vegas casino-hotel to a joint venture involving Planet Hollywood 's co-founder and the Starwood hotel chain .",
+  "sentence_index" : 0,
+  "Tokens" : [ "LAS", "VEGAS", "(", "AP", ")", "Aladdin", "Gaming", "LLC", "has", "agreed", "to", "sell", "its", "bankrupt", "Las", "Vegas", "casino-hotel", "to", "a", "joint", "venture", "involving", "Planet", "Hollywood", "'s", "co-founder", "and", "the", "Starwood", "hotel", "chain", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Aladdin property",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Aladdin property",
+    "argMentionid" : "APW_ENG_20030424.0080-E22-27",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030424.0080-R20",
+  "mentionArg1" : {
+    "extent" : "Aladdin",
+    "argMentionid" : "APW_ENG_20030424.0080-E12-83",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030424.0080-R20-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The deal includes buying the $35 million Northwind Aladdin power plant on Aladdin property that provides the property with hot and cold water and a backup generator .",
+  "sentence_index" : 11,
+  "Tokens" : [ "The", "deal", "includes", "buying", "the", "$35", "million", "Northwind", "Aladdin", "power", "plant", "on", "Aladdin", "property", "that", "provides", "the", "property", "with", "hot", "and", "cold", "water", "and", "a", "backup", "generator", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Aladdin property",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Aladdin property",
+    "argMentionid" : "APW_ENG_20030424.0080-E22-62",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030424.0080-R20",
+  "mentionArg1" : {
+    "extent" : "Aladdin",
+    "argMentionid" : "APW_ENG_20030424.0080-E12-85",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "APW_ENG_20030424.0080-R20-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Starwood , under its Starwood Vacation Ownership division , could also develop 600 time-share units on Aladdin property .",
+  "sentence_index" : 19,
+  "Tokens" : [ "Starwood", ",", "under", "its", "Starwood", "Vacation", "Ownership", "division", ",", "could", "also", "develop", "600", "time-share", "units", "on", "Aladdin", "property", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "former general manager of the Green Valley Ranch hotel-casino in Henderson",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "the Green Valley Ranch hotel-casino in Henderson",
+    "argMentionid" : "APW_ENG_20030424.0080-E31-54",
+    "start" : 7,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030424.0080-R21",
+  "mentionArg1" : {
+    "extent" : "former general manager of the Green Valley Ranch hotel-casino in Henderson",
+    "argMentionid" : "APW_ENG_20030424.0080-E29-52",
+    "start" : 3,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030424.0080-R21-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Mike Mecca , former general manager of the Green Valley Ranch hotel-casino in Henderson , will serve as president and chief executive officer .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Mike", "Mecca", ",", "former", "general", "manager", "of", "the", "Green", "Valley", "Ranch", "hotel-casino", "in", "Henderson", ",", "will", "serve", "as", "president", "and", "chief", "executive", "officer", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Green Valley Ranch hotel-casino in Henderson",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Henderson",
+    "argMentionid" : "APW_ENG_20030424.0080-E32-55",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030424.0080-R22",
+  "mentionArg1" : {
+    "extent" : "the Green Valley Ranch hotel-casino in Henderson",
+    "argMentionid" : "APW_ENG_20030424.0080-E31-54",
+    "start" : 7,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030424.0080-R22-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Mike Mecca , former general manager of the Green Valley Ranch hotel-casino in Henderson , will serve as president and chief executive officer .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Mike", "Mecca", ",", "former", "general", "manager", "of", "the", "Green", "Valley", "Ranch", "hotel-casino", "in", "Henderson", ",", "will", "serve", "as", "president", "and", "chief", "executive", "officer", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "600 time-share units on Aladdin property",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Aladdin property",
+    "argMentionid" : "APW_ENG_20030424.0080-E22-62",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030424.0080-R23",
+  "mentionArg1" : {
+    "extent" : "600 time-share units on Aladdin property",
+    "argMentionid" : "APW_ENG_20030424.0080-E36-61",
+    "start" : 12,
+    "end" : 17
+  },
+  "id" : "APW_ENG_20030424.0080-R23-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Starwood , under its Starwood Vacation Ownership division , could also develop 600 time-share units on Aladdin property .",
+  "sentence_index" : 19,
+  "Tokens" : [ "Starwood", ",", "under", "its", "Starwood", "Vacation", "Ownership", "division", ",", "could", "also", "develop", "600", "time-share", "units", "on", "Aladdin", "property", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "The purchase does not include the adjoining Desert Passage Mall, which is owned by Aladdin Bazaar",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "which",
+    "argMentionid" : "APW_ENG_20030424.0080-E37-64",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030424.0080-R24",
+  "mentionArg1" : {
+    "extent" : "Aladdin Bazaar",
+    "argMentionid" : "APW_ENG_20030424.0080-E38-65",
+    "start" : 15,
+    "end" : 16
+  },
+  "id" : "APW_ENG_20030424.0080-R24-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The purchase does not include the adjoining Desert Passage Mall , which is owned by Aladdin Bazaar .",
+  "sentence_index" : 20,
+  "Tokens" : [ "The", "purchase", "does", "not", "include", "the", "adjoining", "Desert", "Passage", "Mall", ",", "which", "is", "owned", "by", "Aladdin", "Bazaar", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a Deutsche Bank gambling analyst in New York",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Deutsche Bank",
+    "argMentionid" : "APW_ENG_20030424.0080-E41-69",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030424.0080-R25",
+  "mentionArg1" : {
+    "extent" : "a Deutsche Bank gambling analyst in New York",
+    "argMentionid" : "APW_ENG_20030424.0080-E39-67",
+    "start" : 3,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030424.0080-R25-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Marc Falcone , a Deutsche Bank gambling analyst in New York , said the selling price for the hotel-casino was fair .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Marc", "Falcone", ",", "a", "Deutsche", "Bank", "gambling", "analyst", "in", "New", "York", ",", "said", "the", "selling", "price", "for", "the", "hotel-casino", "was", "fair", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a Deutsche Bank gambling analyst in New York",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "New York",
+    "argMentionid" : "APW_ENG_20030424.0080-E6-70",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030424.0080-R26",
+  "mentionArg1" : {
+    "extent" : "a Deutsche Bank gambling analyst in New York",
+    "argMentionid" : "APW_ENG_20030424.0080-E39-67",
+    "start" : 3,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030424.0080-R26-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Marc Falcone , a Deutsche Bank gambling analyst in New York , said the selling price for the hotel-casino was fair .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Marc", "Falcone", ",", "a", "Deutsche", "Bank", "gambling", "analyst", "in", "New", "York", ",", "said", "the", "selling", "price", "for", "the", "hotel-casino", "was", "fair", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "The 2,567-room Aladdin",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "2,567-room",
+    "argMentionid" : "APW_ENG_20030424.0080-E18-21",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030424.0080-R28",
+  "mentionArg1" : {
+    "extent" : "The 2,567-room Aladdin",
+    "argMentionid" : "APW_ENG_20030424.0080-E49-88",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030424.0080-R28-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The 2,567-room Aladdin opened in August 2000 and filed for Chapter 11 bankruptcy protection in September 2001 .",
+  "sentence_index" : 9,
+  "Tokens" : [ "The", "2,567-room", "Aladdin", "opened", "in", "August", "2000", "and", "filed", "for", "Chapter", "11", "bankruptcy", "protection", "in", "September", "2001", "." ]
+} ]

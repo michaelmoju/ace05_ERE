@@ -1,0 +1,243 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "Controversial PLO leader",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "PLO",
+    "argMentionid" : "fsh_29348-E39-174",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "fsh_29348-R1",
+  "mentionArg1" : {
+    "extent" : "Controversial PLO leader",
+    "argMentionid" : "fsh_29348-E17-173",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "fsh_29348-R1-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Death of Arafat ( 1 ) Controversial PLO leader Yasser Arafat died in a Paris hospital last week .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Death", "of", "Arafat", "(", "1", ")", "Controversial", "PLO", "leader", "Yasser", "Arafat", "died", "in", "a", "Paris", "hospital", "last", "week", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a Paris hospital",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Paris",
+    "argMentionid" : "fsh_29348-E41-176",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "fsh_29348-R2",
+  "mentionArg1" : {
+    "extent" : "a Paris hospital",
+    "argMentionid" : "fsh_29348-E40-175",
+    "start" : 13,
+    "end" : 15
+  },
+  "id" : "fsh_29348-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Death of Arafat ( 1 ) Controversial PLO leader Yasser Arafat died in a Paris hospital last week .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Death", "of", "Arafat", "(", "1", ")", "Controversial", "PLO", "leader", "Yasser", "Arafat", "died", "in", "a", "Paris", "hospital", "last", "week", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Controversial PLO leader Yasser Arafat died in a Paris hospital last week",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Paris",
+    "argMentionid" : "fsh_29348-E41-176",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "fsh_29348-R3",
+  "mentionArg1" : {
+    "extent" : "Controversial PLO leader Yasser Arafat",
+    "argMentionid" : "fsh_29348-E17-142",
+    "start" : 6,
+    "end" : 10
+  },
+  "id" : "fsh_29348-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Death of Arafat ( 1 ) Controversial PLO leader Yasser Arafat died in a Paris hospital last week .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Death", "of", "Arafat", "(", "1", ")", "Controversial", "PLO", "leader", "Yasser", "Arafat", "died", "in", "a", "Paris", "hospital", "last", "week", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "I'm in Delaware",
+  "sentence_length" : 6,
+  "mentionArg2" : {
+    "extent" : "Delaware",
+    "argMentionid" : "fsh_29348-E5-8",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "fsh_29348-R4",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29348-E3-7",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "fsh_29348-R4-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Paul I 'm in Delaware .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Paul", "I", "'m", "in", "Delaware", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Eureka, California",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "California",
+    "argMentionid" : "fsh_29348-E9-14",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "fsh_29348-R5",
+  "mentionArg1" : {
+    "extent" : "Eureka, California",
+    "argMentionid" : "fsh_29348-E8-13",
+    "start" : 9,
+    "end" : 11
+  },
+  "id" : "fsh_29348-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "And my name is Rainia and I 'm in Eureka , California .",
+  "sentence_index" : 12,
+  "Tokens" : [ "And", "my", "name", "is", "Rainia", "and", "I", "'m", "in", "Eureka", ",", "California", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "And my name is Rainia and I'm in Eureka, California",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "Eureka, California",
+    "argMentionid" : "fsh_29348-E8-13",
+    "start" : 9,
+    "end" : 11
+  },
+  "relationID" : "fsh_29348-R6",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29348-E6-12",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "fsh_29348-R6-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "And my name is Rainia and I 'm in Eureka , California .",
+  "sentence_index" : 12,
+  "Tokens" : [ "And", "my", "name", "is", "Rainia", "and", "I", "'m", "in", "Eureka", ",", "California", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I I think -- that, uh,  he -- he's -- pretty much -- -- or he was pretty much -- following what he had always done, even as a young man,  uh, back in Algeria -- when- when he led the -- terrorist attacks against the French to kick them out of -- Algeria",
+  "sentence_length" : 61,
+  "mentionArg2" : {
+    "extent" : "Algeria",
+    "argMentionid" : "fsh_29348-E14-31",
+    "start" : 40,
+    "end" : 40
+  },
+  "relationID" : "fsh_29348-R7",
+  "mentionArg1" : {
+    "extent" : "a young man",
+    "argMentionid" : "fsh_29348-E13-30",
+    "start" : 32,
+    "end" : 34
+  },
+  "id" : "fsh_29348-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I I think -- that , uh , he -- he 's -- pretty much -- -- or he was pretty much -- following what he had always done , even as a young man , uh , back in Algeria -- when- when he led the -- terrorist attacks against the French to kick them out of -- Algeria .",
+  "sentence_index" : 21,
+  "Tokens" : [ "I", "I", "think", "--", "that", ",", "uh", ",", "he", "--", "he", "'s", "--", "pretty", "much", "--", "--", "or", "he", "was", "pretty", "much", "--", "following", "what", "he", "had", "always", "done", ",", "even", "as", "a", "young", "man", ",", "uh", ",", "back", "in", "Algeria", "--", "when-", "when", "he", "led", "the", "--", "terrorist", "attacks", "against", "the", "French", "to", "kick", "them", "out", "of", "--", "Algeria", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I I think -- that, uh,  he -- he's -- pretty much -- -- or he was pretty much -- following what he had always done, even as a young man,  uh, back in Algeria -- when- when he led the -- terrorist attacks against the French to kick them out of -- Algeria",
+  "sentence_length" : 61,
+  "mentionArg2" : {
+    "extent" : "Algeria",
+    "argMentionid" : "fsh_29348-E14-35",
+    "start" : 59,
+    "end" : 59
+  },
+  "relationID" : "fsh_29348-R8",
+  "mentionArg1" : {
+    "extent" : "them",
+    "argMentionid" : "fsh_29348-E15-34",
+    "start" : 55,
+    "end" : 55
+  },
+  "id" : "fsh_29348-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I I think -- that , uh , he -- he 's -- pretty much -- -- or he was pretty much -- following what he had always done , even as a young man , uh , back in Algeria -- when- when he led the -- terrorist attacks against the French to kick them out of -- Algeria .",
+  "sentence_index" : 21,
+  "Tokens" : [ "I", "I", "think", "--", "that", ",", "uh", ",", "he", "--", "he", "'s", "--", "pretty", "much", "--", "--", "or", "he", "was", "pretty", "much", "--", "following", "what", "he", "had", "always", "done", ",", "even", "as", "a", "young", "man", ",", "uh", ",", "back", "in", "Algeria", "--", "when-", "when", "he", "led", "the", "--", "terrorist", "attacks", "against", "the", "French", "to", "kick", "them", "out", "of", "--", "Algeria", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "their territory",
+  "sentence_length" : 96,
+  "mentionArg2" : {
+    "extent" : "their",
+    "argMentionid" : "fsh_29348-E45-120",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "fsh_29348-R9",
+  "mentionArg1" : {
+    "extent" : "their territory",
+    "argMentionid" : "fsh_29348-E30-121",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "fsh_29348-R9-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "By going into their territory and building these walls or building settlements -- pushing the Palestinians out and -- Palestinians -- fight -- with rocks and -- sticks and -- Israelis have their machine guns and bulldozers and -- I just -- t- really unpalatable that the -- whole idea , the -- the way they 're going about -- this thing and -- I do n't really feel qualified -- to say how it should be , but -- I -- see it -- being wrong to -- hurt children and -- innocent people .",
+  "sentence_index" : 56,
+  "Tokens" : [ "By", "going", "into", "their", "territory", "and", "building", "these", "walls", "or", "building", "settlements", "--", "pushing", "the", "Palestinians", "out", "and", "--", "Palestinians", "--", "fight", "--", "with", "rocks", "and", "--", "sticks", "and", "--", "Israelis", "have", "their", "machine", "guns", "and", "bulldozers", "and", "--", "I", "just", "--", "t-", "really", "unpalatable", "that", "the", "--", "whole", "idea", ",", "the", "--", "the", "way", "they", "'re", "going", "about", "--", "this", "thing", "and", "--", "I", "do", "n't", "really", "feel", "qualified", "--", "to", "say", "how", "it", "should", "be", ",", "but", "--", "I", "--", "see", "it", "--", "being", "wrong", "to", "--", "hurt", "children", "and", "--", "innocent", "people", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "By going into their territory and building these walls or building settlements -- pushing the Palestinians out and -- Palestinians -- fight -- with rocks and -- sticks and -- Israelis have their machine guns and bulldozers and -- I just -- t- really unpalatable that the -- whole idea, the -- the way they're going about -- this thing and -- I don't really feel qualified -- to say how it should be, but -- I -- see it -- being wrong to -- hurt children and -- innocent people",
+  "sentence_length" : 96,
+  "mentionArg2" : {
+    "extent" : "machine guns",
+    "argMentionid" : "fsh_29348-E33-130",
+    "start" : 33,
+    "end" : 34
+  },
+  "relationID" : "fsh_29348-R10",
+  "mentionArg1" : {
+    "extent" : "Israelis",
+    "argMentionid" : "fsh_29348-E43-126",
+    "start" : 30,
+    "end" : 30
+  },
+  "id" : "fsh_29348-R10-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "By going into their territory and building these walls or building settlements -- pushing the Palestinians out and -- Palestinians -- fight -- with rocks and -- sticks and -- Israelis have their machine guns and bulldozers and -- I just -- t- really unpalatable that the -- whole idea , the -- the way they 're going about -- this thing and -- I do n't really feel qualified -- to say how it should be , but -- I -- see it -- being wrong to -- hurt children and -- innocent people .",
+  "sentence_index" : 56,
+  "Tokens" : [ "By", "going", "into", "their", "territory", "and", "building", "these", "walls", "or", "building", "settlements", "--", "pushing", "the", "Palestinians", "out", "and", "--", "Palestinians", "--", "fight", "--", "with", "rocks", "and", "--", "sticks", "and", "--", "Israelis", "have", "their", "machine", "guns", "and", "bulldozers", "and", "--", "I", "just", "--", "t-", "really", "unpalatable", "that", "the", "--", "whole", "idea", ",", "the", "--", "the", "way", "they", "'re", "going", "about", "--", "this", "thing", "and", "--", "I", "do", "n't", "really", "feel", "qualified", "--", "to", "say", "how", "it", "should", "be", ",", "but", "--", "I", "--", "see", "it", "--", "being", "wrong", "to", "--", "hurt", "children", "and", "--", "innocent", "people", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "By going into their territory and building these walls or building settlements -- pushing the Palestinians out and -- Palestinians -- fight -- with rocks and -- sticks and -- Israelis have their machine guns and bulldozers and -- I just -- t- really unpalatable that the -- whole idea, the -- the way they're going about -- this thing and -- I don't really feel qualified -- to say how it should be, but -- I -- see it -- being wrong to -- hurt children and -- innocent people",
+  "sentence_length" : 96,
+  "mentionArg2" : {
+    "extent" : "bulldozers",
+    "argMentionid" : "fsh_29348-E34-131",
+    "start" : 36,
+    "end" : 36
+  },
+  "relationID" : "fsh_29348-R11",
+  "mentionArg1" : {
+    "extent" : "Israelis",
+    "argMentionid" : "fsh_29348-E43-126",
+    "start" : 30,
+    "end" : 30
+  },
+  "id" : "fsh_29348-R11-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "By going into their territory and building these walls or building settlements -- pushing the Palestinians out and -- Palestinians -- fight -- with rocks and -- sticks and -- Israelis have their machine guns and bulldozers and -- I just -- t- really unpalatable that the -- whole idea , the -- the way they 're going about -- this thing and -- I do n't really feel qualified -- to say how it should be , but -- I -- see it -- being wrong to -- hurt children and -- innocent people .",
+  "sentence_index" : 56,
+  "Tokens" : [ "By", "going", "into", "their", "territory", "and", "building", "these", "walls", "or", "building", "settlements", "--", "pushing", "the", "Palestinians", "out", "and", "--", "Palestinians", "--", "fight", "--", "with", "rocks", "and", "--", "sticks", "and", "--", "Israelis", "have", "their", "machine", "guns", "and", "bulldozers", "and", "--", "I", "just", "--", "t-", "really", "unpalatable", "that", "the", "--", "whole", "idea", ",", "the", "--", "the", "way", "they", "'re", "going", "about", "--", "this", "thing", "and", "--", "I", "do", "n't", "really", "feel", "qualified", "--", "to", "say", "how", "it", "should", "be", ",", "but", "--", "I", "--", "see", "it", "--", "being", "wrong", "to", "--", "hurt", "children", "and", "--", "innocent", "people", "." ]
+} ]

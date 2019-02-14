@@ -1,0 +1,67 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "and now joining us by phone from liverpool with more on the harry potter heist is caroline forham, press officer with the mercy side police",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "liverpool",
+    "argMentionid" : "CNN_ENG_20030617_105836.4-E11-1",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "CNN_ENG_20030617_105836.4-R1",
+  "mentionArg1" : {
+    "extent" : "caroline forham",
+    "argMentionid" : "CNN_ENG_20030617_105836.4-E13-23",
+    "start" : 16,
+    "end" : 17
+  },
+  "id" : "CNN_ENG_20030617_105836.4-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "and now joining us by phone from liverpool with more on the harry potter heist is caroline forham , press officer with the mercy side police. it 's come to stealing childrens books , is it ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "and", "now", "joining", "us", "by", "phone", "from", "liverpool", "with", "more", "on", "the", "harry", "potter", "heist", "is", "caroline", "forham", ",", "press", "officer", "with", "the", "mercy", "side", "police.", "it", "'s", "come", "to", "stealing", "childrens", "books", ",", "is", "it", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "press officer with the mercy side police",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "the mercy side police",
+    "argMentionid" : "CNN_ENG_20030617_105836.4-E5-26",
+    "start" : 22,
+    "end" : 25
+  },
+  "relationID" : "CNN_ENG_20030617_105836.4-R2",
+  "mentionArg1" : {
+    "extent" : "press officer with the mercy side police",
+    "argMentionid" : "CNN_ENG_20030617_105836.4-E13-24",
+    "start" : 19,
+    "end" : 25
+  },
+  "id" : "CNN_ENG_20030617_105836.4-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "and now joining us by phone from liverpool with more on the harry potter heist is caroline forham , press officer with the mercy side police. it 's come to stealing childrens books , is it ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "and", "now", "joining", "us", "by", "phone", "from", "liverpool", "with", "more", "on", "the", "harry", "potter", "heist", "is", "caroline", "forham", ",", "press", "officer", "with", "the", "mercy", "side", "police.", "it", "'s", "come", "to", "stealing", "childrens", "books", ",", "is", "it", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "police officers",
+  "sentence_length" : 65,
+  "mentionArg2" : {
+    "extent" : "police",
+    "argMentionid" : "CNN_ENG_20030617_105836.4-E5-9",
+    "start" : 49,
+    "end" : 49
+  },
+  "relationID" : "CNN_ENG_20030617_105836.4-R3",
+  "mentionArg1" : {
+    "extent" : "police officers",
+    "argMentionid" : "CNN_ENG_20030617_105836.4-E4-8",
+    "start" : 49,
+    "end" : 50
+  },
+  "id" : "CNN_ENG_20030617_105836.4-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "i think probably they know they can make more money before the deadline on these books. but i know no reputable book shop will take these stolen goods and sell them. i think we are looking at in market stores and sales over the next coming days. we have police officers looking for them and will prosecute anyone seen selling them or buying them .",
+  "sentence_index" : 3,
+  "Tokens" : [ "i", "think", "probably", "they", "know", "they", "can", "make", "more", "money", "before", "the", "deadline", "on", "these", "books.", "but", "i", "know", "no", "reputable", "book", "shop", "will", "take", "these", "stolen", "goods", "and", "sell", "them.", "i", "think", "we", "are", "looking", "at", "in", "market", "stores", "and", "sales", "over", "the", "next", "coming", "days.", "we", "have", "police", "officers", "looking", "for", "them", "and", "will", "prosecute", "anyone", "seen", "selling", "them", "or", "buying", "them", "." ]
+} ]

@@ -1,0 +1,89 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "hollywood fund-raisers",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "hollywood",
+    "argMentionid" : "CNN_ENG_20030626_193133.8-E6-27",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "CNN_ENG_20030626_193133.8-R1",
+  "mentionArg1" : {
+    "extent" : "hollywood fund-raisers",
+    "argMentionid" : "CNN_ENG_20030626_193133.8-E5-26",
+    "start" : 15,
+    "end" : 16
+  },
+  "id" : "CNN_ENG_20030626_193133.8-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "he is one of the biggest if not the biggest names in the world of hollywood fund-raisers. a person who would put together celebrities with charities to raise a lot of money. he was perhaps best known as kind of the focal point between bill and hillary clinton in the hollywood community .",
+  "sentence_index" : 12,
+  "Tokens" : [ "he", "is", "one", "of", "the", "biggest", "if", "not", "the", "biggest", "names", "in", "the", "world", "of", "hollywood", "fund-raisers.", "a", "person", "who", "would", "put", "together", "celebrities", "with", "charities", "to", "raise", "a", "lot", "of", "money.", "he", "was", "perhaps", "best", "known", "as", "kind", "of", "the", "focal", "point", "between", "bill", "and", "hillary", "clinton", "in", "the", "hollywood", "community", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "bill and hillary clinton",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "bill and hillary clinton",
+    "argMentionid" : "CNN_ENG_20030626_193133.8-E13-36",
+    "start" : 44,
+    "end" : 47
+  },
+  "relationID" : "CNN_ENG_20030626_193133.8-R2",
+  "mentionArg1" : {
+    "extent" : "bill and hillary clinton",
+    "argMentionid" : "CNN_ENG_20030626_193133.8-E12-35",
+    "start" : 44,
+    "end" : 47
+  },
+  "id" : "CNN_ENG_20030626_193133.8-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "he is one of the biggest if not the biggest names in the world of hollywood fund-raisers. a person who would put together celebrities with charities to raise a lot of money. he was perhaps best known as kind of the focal point between bill and hillary clinton in the hollywood community .",
+  "sentence_index" : 12,
+  "Tokens" : [ "he", "is", "one", "of", "the", "biggest", "if", "not", "the", "biggest", "names", "in", "the", "world", "of", "hollywood", "fund-raisers.", "a", "person", "who", "would", "put", "together", "celebrities", "with", "charities", "to", "raise", "a", "lot", "of", "money.", "he", "was", "perhaps", "best", "known", "as", "kind", "of", "the", "focal", "point", "between", "bill", "and", "hillary", "clinton", "in", "the", "hollywood", "community", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "many many hollywood celebrities",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "hollywood",
+    "argMentionid" : "CNN_ENG_20030626_193133.8-E6-62",
+    "start" : 39,
+    "end" : 39
+  },
+  "relationID" : "CNN_ENG_20030626_193133.8-R3",
+  "mentionArg1" : {
+    "extent" : "many many hollywood celebrities",
+    "argMentionid" : "CNN_ENG_20030626_193133.8-E27-61",
+    "start" : 37,
+    "end" : 40
+  },
+  "id" : "CNN_ENG_20030626_193133.8-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "right now , aaron tonkin factors in no fewer than seven different federal and state investigations. one of them being an irs investigation into several million dollars worth of cash and gift that is he gave to many many hollywood celebrities .",
+  "sentence_index" : 16,
+  "Tokens" : [ "right", "now", ",", "aaron", "tonkin", "factors", "in", "no", "fewer", "than", "seven", "different", "federal", "and", "state", "investigations.", "one", "of", "them", "being", "an", "irs", "investigation", "into", "several", "million", "dollars", "worth", "of", "cash", "and", "gift", "that", "is", "he", "gave", "to", "many", "many", "hollywood", "celebrities", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his attorney",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "his attorney",
+    "argMentionid" : "CNN_ENG_20030626_193133.8-E29-63",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "CNN_ENG_20030626_193133.8-R4",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_ENG_20030626_193133.8-E4-64",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "CNN_ENG_20030626_193133.8-R4-1",
+  "relationSubType" : "Business",
+  "Sentence" : "now , his attorney gave us a statement i 'll put it on the screen. it says -- is that possible ?",
+  "sentence_index" : 17,
+  "Tokens" : [ "now", ",", "his", "attorney", "gave", "us", "a", "statement", "i", "'ll", "put", "it", "on", "the", "screen.", "it", "says", "--", "is", "that", "possible", "?" ]
+} ]

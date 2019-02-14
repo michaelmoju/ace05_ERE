@@ -1,5 +1,6 @@
 import numpy as np
 
+
 def find_type():
 	type = ""
 	subType = ""

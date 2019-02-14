@@ -1,0 +1,111 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "The Central Jakarta District Court",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Central Jakarta District",
+    "argMentionid" : "XIN_ENG_20030423.0011-E19-26",
+    "start" : 8,
+    "end" : 10
+  },
+  "relationID" : "XIN_ENG_20030423.0011-R1",
+  "mentionArg1" : {
+    "extent" : "The Central Jakarta District Court",
+    "argMentionid" : "XIN_ENG_20030423.0011-E18-25",
+    "start" : 7,
+    "end" : 11
+  },
+  "id" : "XIN_ENG_20030423.0011-R1-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "JAKARTA , April 23 ( Xinhua ) The Central Jakarta District Court began Wednesday the trial of Muslim cleric Abu Bakar Ba ' asyir who has been in custody since last October on charges of treason and immigration offenses .",
+  "sentence_index" : 0,
+  "Tokens" : [ "JAKARTA", ",", "April", "23", "(", "Xinhua", ")", "The", "Central", "Jakarta", "District", "Court", "began", "Wednesday", "the", "trial", "of", "Muslim", "cleric", "Abu", "Bakar", "Ba", "'", "asyir", "who", "has", "been", "in", "custody", "since", "last", "October", "on", "charges", "of", "treason", "and", "immigration", "offenses", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Muslim cleric",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Muslim cleric",
+    "argMentionid" : "XIN_ENG_20030423.0011-E9-28",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "XIN_ENG_20030423.0011-R2",
+  "mentionArg1" : {
+    "extent" : "Muslim",
+    "argMentionid" : "XIN_ENG_20030423.0011-E23-29",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "XIN_ENG_20030423.0011-R2-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "JAKARTA , April 23 ( Xinhua ) The Central Jakarta District Court began Wednesday the trial of Muslim cleric Abu Bakar Ba ' asyir who has been in custody since last October on charges of treason and immigration offenses .",
+  "sentence_index" : 0,
+  "Tokens" : [ "JAKARTA", ",", "April", "23", "(", "Xinhua", ")", "The", "Central", "Jakarta", "District", "Court", "began", "Wednesday", "the", "trial", "of", "Muslim", "cleric", "Abu", "Bakar", "Ba", "'", "asyir", "who", "has", "been", "in", "custody", "since", "last", "October", "on", "charges", "of", "treason", "and", "immigration", "offenses", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Seven prosecutors read in turn the indictment against Ba'asyir at the makeshift court room in the Meteorology and Geophysics Agency's office in Central Jakarta",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "the makeshift court room in the Meteorology and Geophysics Agency's office in Central Jakarta",
+    "argMentionid" : "XIN_ENG_20030423.0011-E1-40",
+    "start" : 10,
+    "end" : 24
+  },
+  "relationID" : "XIN_ENG_20030423.0011-R3",
+  "mentionArg1" : {
+    "extent" : "Seven prosecutors",
+    "argMentionid" : "XIN_ENG_20030423.0011-E29-38",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "XIN_ENG_20030423.0011-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Seven prosecutors read in turn the indictment against Ba'asyir at the makeshift court room in the Meteorology and Geophysics Agency 's office in Central Jakarta .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Seven", "prosecutors", "read", "in", "turn", "the", "indictment", "against", "Ba'asyir", "at", "the", "makeshift", "court", "room", "in", "the", "Meteorology", "and", "Geophysics", "Agency", "'s", "office", "in", "Central", "Jakarta", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the makeshift court room in the Meteorology and Geophysics Agency's office in Central Jakarta",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "the Meteorology and Geophysics Agency's office in Central Jakarta",
+    "argMentionid" : "XIN_ENG_20030423.0011-E3-3",
+    "start" : 15,
+    "end" : 24
+  },
+  "relationID" : "XIN_ENG_20030423.0011-R4",
+  "mentionArg1" : {
+    "extent" : "the makeshift court room in the Meteorology and Geophysics Agency's office in Central Jakarta",
+    "argMentionid" : "XIN_ENG_20030423.0011-E1-40",
+    "start" : 10,
+    "end" : 24
+  },
+  "id" : "XIN_ENG_20030423.0011-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Seven prosecutors read in turn the indictment against Ba'asyir at the makeshift court room in the Meteorology and Geophysics Agency 's office in Central Jakarta .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Seven", "prosecutors", "read", "in", "turn", "the", "indictment", "against", "Ba'asyir", "at", "the", "makeshift", "court", "room", "in", "the", "Meteorology", "and", "Geophysics", "Agency", "'s", "office", "in", "Central", "Jakarta", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Meteorology and Geophysics Agency's office in Central Jakarta",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Central Jakarta",
+    "argMentionid" : "XIN_ENG_20030423.0011-E19-4",
+    "start" : 23,
+    "end" : 24
+  },
+  "relationID" : "XIN_ENG_20030423.0011-R5",
+  "mentionArg1" : {
+    "extent" : "the Meteorology and Geophysics Agency's office in Central Jakarta",
+    "argMentionid" : "XIN_ENG_20030423.0011-E3-3",
+    "start" : 15,
+    "end" : 24
+  },
+  "id" : "XIN_ENG_20030423.0011-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Seven prosecutors read in turn the indictment against Ba'asyir at the makeshift court room in the Meteorology and Geophysics Agency 's office in Central Jakarta .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Seven", "prosecutors", "read", "in", "turn", "the", "indictment", "against", "Ba'asyir", "at", "the", "makeshift", "court", "room", "in", "the", "Meteorology", "and", "Geophysics", "Agency", "'s", "office", "in", "Central", "Jakarta", "." ]
+} ]

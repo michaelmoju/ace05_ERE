@@ -1,0 +1,199 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "The pro-reform director of Iran's biggest-selling daily newspaper",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "Iran's biggest-selling daily newspaper",
+    "argMentionid" : "AFP_ENG_20030504.0248-E9-27",
+    "start" : 11,
+    "end" : 15
+  },
+  "relationID" : "AFP_ENG_20030504.0248-R1",
+  "mentionArg1" : {
+    "extent" : "The pro-reform director of Iran's biggest-selling daily newspaper",
+    "argMentionid" : "AFP_ENG_20030504.0248-E13-25",
+    "start" : 7,
+    "end" : 15
+  },
+  "id" : "AFP_ENG_20030504.0248-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "TEHRAN , May 4 ( AFP ) The pro-reform director of Iran 's biggest-selling daily newspaper and official organ of Tehran 's municipality has stepped down following the appointment of a conservative as the city 's new mayor , press reports said Sunday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "TEHRAN", ",", "May", "4", "(", "AFP", ")", "The", "pro-reform", "director", "of", "Iran", "'s", "biggest-selling", "daily", "newspaper", "and", "official", "organ", "of", "Tehran", "'s", "municipality", "has", "stepped", "down", "following", "the", "appointment", "of", "a", "conservative", "as", "the", "city", "'s", "new", "mayor", ",", "press", "reports", "said", "Sunday", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Mohammad Atrianfar, who had headed Hamshahri (Fellow Citizen) since it was founded a decade ago and was a major backer of reformist President Mohammed Khatami, explained that he wanted to \"leave the new mayor with a free hand to choose a director\" of the paper",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "Hamshahri",
+    "argMentionid" : "AFP_ENG_20030504.0248-E9-19",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "AFP_ENG_20030504.0248-R1",
+  "mentionArg1" : {
+    "extent" : "Mohammad Atrianfar",
+    "argMentionid" : "AFP_ENG_20030504.0248-E13-33",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "AFP_ENG_20030504.0248-R1-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Mohammad Atrianfar , who had headed Hamshahri ( Fellow Citizen ) since it was founded a decade ago and was a major backer of reformist President Mohammed Khatami , explained that he wanted to \" leave the new mayor with a free hand to choose a director \" of the paper .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Mohammad", "Atrianfar", ",", "who", "had", "headed", "Hamshahri", "(", "Fellow", "Citizen", ")", "since", "it", "was", "founded", "a", "decade", "ago", "and", "was", "a", "major", "backer", "of", "reformist", "President", "Mohammed", "Khatami", ",", "explained", "that", "he", "wanted", "to", "\"", "leave", "the", "new", "mayor", "with", "a", "free", "hand", "to", "choose", "a", "director", "\"", "of", "the", "paper", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the city's new mayor",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "the city",
+    "argMentionid" : "AFP_ENG_20030504.0248-E11-31",
+    "start" : 33,
+    "end" : 34
+  },
+  "relationID" : "AFP_ENG_20030504.0248-R2",
+  "mentionArg1" : {
+    "extent" : "the city's new mayor",
+    "argMentionid" : "AFP_ENG_20030504.0248-E6-30",
+    "start" : 33,
+    "end" : 37
+  },
+  "id" : "AFP_ENG_20030504.0248-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "TEHRAN , May 4 ( AFP ) The pro-reform director of Iran 's biggest-selling daily newspaper and official organ of Tehran 's municipality has stepped down following the appointment of a conservative as the city 's new mayor , press reports said Sunday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "TEHRAN", ",", "May", "4", "(", "AFP", ")", "The", "pro-reform", "director", "of", "Iran", "'s", "biggest-selling", "daily", "newspaper", "and", "official", "organ", "of", "Tehran", "'s", "municipality", "has", "stepped", "down", "following", "the", "appointment", "of", "a", "conservative", "as", "the", "city", "'s", "new", "mayor", ",", "press", "reports", "said", "Sunday", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a conservative city council",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "city",
+    "argMentionid" : "AFP_ENG_20030504.0248-E4-7",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "AFP_ENG_20030504.0248-R4",
+  "mentionArg1" : {
+    "extent" : "a conservative city council",
+    "argMentionid" : "AFP_ENG_20030504.0248-E3-6",
+    "start" : 10,
+    "end" : 13
+  },
+  "id" : "AFP_ENG_20030504.0248-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Tehran had been governed by reformists since 1989 , but a conservative city council was elected in the February 28 municipal polls in a result attributed to a meager turnout amid growing public disillusionment with electoral politics .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Tehran", "had", "been", "governed", "by", "reformists", "since", "1989", ",", "but", "a", "conservative", "city", "council", "was", "elected", "in", "the", "February", "28", "municipal", "polls", "in", "a", "result", "attributed", "to", "a", "meager", "turnout", "amid", "growing", "public", "disillusionment", "with", "electoral", "politics", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Founded by former mayor Gholamhossein Karbaschi, Hamshahri was quick to become Iran's biggest-selling daily with a circulation of 450,000",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Hamshahri",
+    "argMentionid" : "AFP_ENG_20030504.0248-E9-14",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "AFP_ENG_20030504.0248-R5",
+  "mentionArg1" : {
+    "extent" : "former mayor Gholamhossein Karbaschi",
+    "argMentionid" : "AFP_ENG_20030504.0248-E7-12",
+    "start" : 2,
+    "end" : 5
+  },
+  "id" : "AFP_ENG_20030504.0248-R5-1",
+  "relationSubType" : "Founder",
+  "Sentence" : "Founded by former mayor Gholamhossein Karbaschi , Hamshahri was quick to become Iran 's biggest-selling daily with a circulation of 450,000 .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Founded", "by", "former", "mayor", "Gholamhossein", "Karbaschi", ",", "Hamshahri", "was", "quick", "to", "become", "Iran", "'s", "biggest-selling", "daily", "with", "a", "circulation", "of", "450,000", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iran's biggest-selling daily newspaper",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "Iran",
+    "argMentionid" : "AFP_ENG_20030504.0248-E14-26",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "AFP_ENG_20030504.0248-R7",
+  "mentionArg1" : {
+    "extent" : "Iran's biggest-selling daily newspaper",
+    "argMentionid" : "AFP_ENG_20030504.0248-E9-27",
+    "start" : 11,
+    "end" : 15
+  },
+  "id" : "AFP_ENG_20030504.0248-R7-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "TEHRAN , May 4 ( AFP ) The pro-reform director of Iran 's biggest-selling daily newspaper and official organ of Tehran 's municipality has stepped down following the appointment of a conservative as the city 's new mayor , press reports said Sunday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "TEHRAN", ",", "May", "4", "(", "AFP", ")", "The", "pro-reform", "director", "of", "Iran", "'s", "biggest-selling", "daily", "newspaper", "and", "official", "organ", "of", "Tehran", "'s", "municipality", "has", "stepped", "down", "following", "the", "appointment", "of", "a", "conservative", "as", "the", "city", "'s", "new", "mayor", ",", "press", "reports", "said", "Sunday", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iran's biggest-selling daily",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Iran",
+    "argMentionid" : "AFP_ENG_20030504.0248-E14-16",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "AFP_ENG_20030504.0248-R7",
+  "mentionArg1" : {
+    "extent" : "Iran's biggest-selling daily",
+    "argMentionid" : "AFP_ENG_20030504.0248-E9-15",
+    "start" : 12,
+    "end" : 15
+  },
+  "id" : "AFP_ENG_20030504.0248-R7-2",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Founded by former mayor Gholamhossein Karbaschi , Hamshahri was quick to become Iran 's biggest-selling daily with a circulation of 450,000 .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Founded", "by", "former", "mayor", "Gholamhossein", "Karbaschi", ",", "Hamshahri", "was", "quick", "to", "become", "Iran", "'s", "biggest-selling", "daily", "with", "a", "circulation", "of", "450,000", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a director\" of the paper",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "the paper",
+    "argMentionid" : "AFP_ENG_20030504.0248-E9-23",
+    "start" : 49,
+    "end" : 50
+  },
+  "relationID" : "AFP_ENG_20030504.0248-R8",
+  "mentionArg1" : {
+    "extent" : "a director\" of the paper",
+    "argMentionid" : "AFP_ENG_20030504.0248-E1-3",
+    "start" : 45,
+    "end" : 50
+  },
+  "id" : "AFP_ENG_20030504.0248-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Mohammad Atrianfar , who had headed Hamshahri ( Fellow Citizen ) since it was founded a decade ago and was a major backer of reformist President Mohammed Khatami , explained that he wanted to \" leave the new mayor with a free hand to choose a director \" of the paper .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Mohammad", "Atrianfar", ",", "who", "had", "headed", "Hamshahri", "(", "Fellow", "Citizen", ")", "since", "it", "was", "founded", "a", "decade", "ago", "and", "was", "a", "major", "backer", "of", "reformist", "President", "Mohammed", "Khatami", ",", "explained", "that", "he", "wanted", "to", "\"", "leave", "the", "new", "mayor", "with", "a", "free", "hand", "to", "choose", "a", "director", "\"", "of", "the", "paper", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Tehran had been governed by reformists since 1989, but a conservative city council was elected in the February 28 municipal polls in a result attributed to a meager turnout amid growing public disillusionment with electoral politics",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "Tehran",
+    "argMentionid" : "AFP_ENG_20030504.0248-E11-4",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "AFP_ENG_20030504.0248-R9",
+  "mentionArg1" : {
+    "extent" : "reformists",
+    "argMentionid" : "AFP_ENG_20030504.0248-E2-5",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "AFP_ENG_20030504.0248-R9-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Tehran had been governed by reformists since 1989 , but a conservative city council was elected in the February 28 municipal polls in a result attributed to a meager turnout amid growing public disillusionment with electoral politics .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Tehran", "had", "been", "governed", "by", "reformists", "since", "1989", ",", "but", "a", "conservative", "city", "council", "was", "elected", "in", "the", "February", "28", "municipal", "polls", "in", "a", "result", "attributed", "to", "a", "meager", "turnout", "amid", "growing", "public", "disillusionment", "with", "electoral", "politics", "." ]
+} ]

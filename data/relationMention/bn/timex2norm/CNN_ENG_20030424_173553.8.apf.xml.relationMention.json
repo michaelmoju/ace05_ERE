@@ -1,0 +1,45 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "the 11th executive of health south",
+  "sentence_length" : 86,
+  "mentionArg2" : {
+    "extent" : "health south",
+    "argMentionid" : "CNN_ENG_20030424_173553.8-E10-13",
+    "start" : 50,
+    "end" : 51
+  },
+  "relationID" : "CNN_ENG_20030424_173553.8-R1",
+  "mentionArg1" : {
+    "extent" : "the 11th executive of health south",
+    "argMentionid" : "CNN_ENG_20030424_173553.8-E9-12",
+    "start" : 46,
+    "end" : 51
+  },
+  "id" : "CNN_ENG_20030424_173553.8-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "stocks sold off on wall street today , ending a two-session rally. one catalyst rose to the highest level in more then a year. the dow jones industrial average down 75.62. the nasdaq lost almost nine. the s & amp ; p 500 down almost eight. the 11th executive of health south charged with two counts of bank fraud. the former chief financial officer became the 50th execute anybody corporate america to be charged since enron 's collapse. seven enron executives have also been charged .",
+  "sentence_index" : 0,
+  "Tokens" : [ "stocks", "sold", "off", "on", "wall", "street", "today", ",", "ending", "a", "two-session", "rally.", "one", "catalyst", "rose", "to", "the", "highest", "level", "in", "more", "then", "a", "year.", "the", "dow", "jones", "industrial", "average", "down", "75.62.", "the", "nasdaq", "lost", "almost", "nine.", "the", "s", "&", "amp", ";", "p", "500", "down", "almost", "eight.", "the", "11th", "executive", "of", "health", "south", "charged", "with", "two", "counts", "of", "bank", "fraud.", "the", "former", "chief", "financial", "officer", "became", "the", "50th", "execute", "anybody", "corporate", "america", "to", "be", "charged", "since", "enron", "'s", "collapse.", "seven", "enron", "executives", "have", "also", "been", "charged", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "seven enron executives",
+  "sentence_length" : 86,
+  "mentionArg2" : {
+    "extent" : "enron",
+    "argMentionid" : "CNN_ENG_20030424_173553.8-E13-19",
+    "start" : 79,
+    "end" : 79
+  },
+  "relationID" : "CNN_ENG_20030424_173553.8-R2",
+  "mentionArg1" : {
+    "extent" : "seven enron executives",
+    "argMentionid" : "CNN_ENG_20030424_173553.8-E14-18",
+    "start" : 78,
+    "end" : 80
+  },
+  "id" : "CNN_ENG_20030424_173553.8-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "stocks sold off on wall street today , ending a two-session rally. one catalyst rose to the highest level in more then a year. the dow jones industrial average down 75.62. the nasdaq lost almost nine. the s & amp ; p 500 down almost eight. the 11th executive of health south charged with two counts of bank fraud. the former chief financial officer became the 50th execute anybody corporate america to be charged since enron 's collapse. seven enron executives have also been charged .",
+  "sentence_index" : 0,
+  "Tokens" : [ "stocks", "sold", "off", "on", "wall", "street", "today", ",", "ending", "a", "two-session", "rally.", "one", "catalyst", "rose", "to", "the", "highest", "level", "in", "more", "then", "a", "year.", "the", "dow", "jones", "industrial", "average", "down", "75.62.", "the", "nasdaq", "lost", "almost", "nine.", "the", "s", "&", "amp", ";", "p", "500", "down", "almost", "eight.", "the", "11th", "executive", "of", "health", "south", "charged", "with", "two", "counts", "of", "bank", "fraud.", "the", "former", "chief", "financial", "officer", "became", "the", "50th", "execute", "anybody", "corporate", "america", "to", "be", "charged", "since", "enron", "'s", "collapse.", "seven", "enron", "executives", "have", "also", "been", "charged", "." ]
+} ]

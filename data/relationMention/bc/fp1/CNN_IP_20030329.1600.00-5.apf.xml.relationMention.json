@@ -1,0 +1,155 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "House clearance Royal Marine style, troops from (UNINTELLIGIBLE) commando task to seek out the last pockets of Iraqi resistance in Umm Qasr go in hard to arrest suspected regime sympathizers and search for weapons",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "Umm Qasr",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E24-58",
+    "start" : 32,
+    "end" : 33
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-5-R1",
+  "mentionArg1" : {
+    "extent" : "suspected regime sympathizers",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E25-59",
+    "start" : 39,
+    "end" : 41
+  },
+  "id" : "CNN_IP_20030329.1600.00-5-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "( BEGIN VIDEOTAPE ) DAVID BOWDEN , CNN CORRESPONDENT House clearance Royal Marine style , troops from ( UNINTELLIGIBLE ) commando task to seek out the last pockets of Iraqi resistance in Umm Qasr go in hard to arrest suspected regime sympathizers and search for weapons .",
+  "sentence_index" : 0,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "DAVID", "BOWDEN", ",", "CNN", "CORRESPONDENT", "House", "clearance", "Royal", "Marine", "style", ",", "troops", "from", "(", "UNINTELLIGIBLE", ")", "commando", "task", "to", "seek", "out", "the", "last", "pockets", "of", "Iraqi", "resistance", "in", "Umm", "Qasr", "go", "in", "hard", "to", "arrest", "suspected", "regime", "sympathizers", "and", "search", "for", "weapons", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The Iraqis arrested looked bemused (ph) and plead innocence but with many militia here, pretending to surrender only to open fire on their captors later, first impressions can be deceptive and lethal",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E22-66",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-5-R2",
+  "mentionArg1" : {
+    "extent" : "many militia here, pretending to surrender only to open fire on their captors later",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E30-65",
+    "start" : 13,
+    "end" : 27
+  },
+  "id" : "CNN_IP_20030329.1600.00-5-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The Iraqis arrested looked bemused ( ph ) and plead innocence but with many militia here , pretending to surrender only to open fire on their captors later , first impressions can be deceptive and lethal .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "Iraqis", "arrested", "looked", "bemused", "(", "ph", ")", "and", "plead", "innocence", "but", "with", "many", "militia", "here", ",", "pretending", "to", "surrender", "only", "to", "open", "fire", "on", "their", "captors", "later", ",", "first", "impressions", "can", "be", "deceptive", "and", "lethal", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the coalition forces",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E3-13",
+    "start" : 31,
+    "end" : 31
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-5-R3",
+  "mentionArg1" : {
+    "extent" : "the coalition forces",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E2-12",
+    "start" : 30,
+    "end" : 32
+  },
+  "id" : "CNN_IP_20030329.1600.00-5-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The Marines believe they have a firm hold on Umm Qasr right now but they ca n't afford to slack in their grip and allow those who are hostile to the coalition forces to regroup and begin again their cycle of violence .",
+  "sentence_index" : 5,
+  "Tokens" : [ "The", "Marines", "believe", "they", "have", "a", "firm", "hold", "on", "Umm", "Qasr", "right", "now", "but", "they", "ca", "n't", "afford", "to", "slack", "in", "their", "grip", "and", "allow", "those", "who", "are", "hostile", "to", "the", "coalition", "forces", "to", "regroup", "and", "begin", "again", "their", "cycle", "of", "violence", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "The Marines with their snipers have now snipers have now spread their area of operations north to include the town of Umm Kiou",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "their area of operations",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E5-20",
+    "start" : 11,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-5-R4",
+  "mentionArg1" : {
+    "extent" : "the town of Umm Kiou",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E6-21",
+    "start" : 18,
+    "end" : 22
+  },
+  "id" : "CNN_IP_20030329.1600.00-5-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The Marines with their snipers have now snipers have now spread their area of operations north to include the town of Umm Kiou ( ph ) .",
+  "sentence_index" : 6,
+  "Tokens" : [ "The", "Marines", "with", "their", "snipers", "have", "now", "snipers", "have", "now", "spread", "their", "area", "of", "operations", "north", "to", "include", "the", "town", "of", "Umm", "Kiou", "(", "ph", ")", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "We sent in one of our companies of about 100 men in here this morning and we took about 12 or 13 prisoners, three or four enemy were injured and they've now been flown out and we're treating them including a man who is almost dead with a gunshot wound to the chest",
+  "sentence_length" : 63,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E6-35",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-5-R5",
+  "mentionArg1" : {
+    "extent" : "one of our companies of about 100 men",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E9-32",
+    "start" : 9,
+    "end" : 16
+  },
+  "id" : "CNN_IP_20030329.1600.00-5-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "MAJOR ROB MACGOWAN , ROYAL MARINES We sent in one of our companies of about 100 men in here this morning and we took about 12 or 13 prisoners , three or four enemy were injured and they 've now been flown out and we 're treating them including a man who is almost dead with a gunshot wound to the chest .",
+  "sentence_index" : 10,
+  "Tokens" : [ "MAJOR", "ROB", "MACGOWAN", ",", "ROYAL", "MARINES", "We", "sent", "in", "one", "of", "our", "companies", "of", "about", "100", "men", "in", "here", "this", "morning", "and", "we", "took", "about", "12", "or", "13", "prisoners", ",", "three", "or", "four", "enemy", "were", "injured", "and", "they", "'ve", "now", "been", "flown", "out", "and", "we", "'re", "treating", "them", "including", "a", "man", "who", "is", "almost", "dead", "with", "a", "gunshot", "wound", "to", "the", "chest", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "this small corner of Iraq",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E22-52",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-5-R6",
+  "mentionArg1" : {
+    "extent" : "this small corner of Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E16-51",
+    "start" : 11,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030329.1600.00-5-R6-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "BOWDEN The Royal Marines are satisfied they are in control of this small corner of Iraq .",
+  "sentence_index" : 12,
+  "Tokens" : [ "BOWDEN", "The", "Royal", "Marines", "are", "satisfied", "they", "are", "in", "control", "of", "this", "small", "corner", "of", "Iraq", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "David Bowden in southern Iraq",
+  "sentence_length" : 6,
+  "mentionArg2" : {
+    "extent" : "southern Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E18-54",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-5-R7",
+  "mentionArg1" : {
+    "extent" : "David Bowden",
+    "argMentionid" : "CNN_IP_20030329.1600.00-5-E17-53",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030329.1600.00-5-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "David Bowden in southern Iraq .",
+  "sentence_index" : 14,
+  "Tokens" : [ "David", "Bowden", "in", "southern", "Iraq", "." ]
+} ]

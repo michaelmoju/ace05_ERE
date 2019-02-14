@@ -1,0 +1,639 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "your current or former workplace",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "your current or former workplace",
+    "argMentionid" : "fsh_29133-E57-111",
+    "start" : 7,
+    "end" : 11
+  },
+  "relationID" : "fsh_29133-R1",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29133-E58-171",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "fsh_29133-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Workplace Culture Describe the organizational structure of your current or former workplace .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Workplace", "Culture", "Describe", "the", "organizational", "structure", "of", "your", "current", "or", "former", "workplace", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "your current or former workplace",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "your current or former workplace",
+    "argMentionid" : "fsh_29133-E57-111",
+    "start" : 7,
+    "end" : 11
+  },
+  "relationID" : "fsh_29133-R1",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29133-E58-171",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "fsh_29133-R1-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Workplace Culture Describe the organizational structure of your current or former workplace .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Workplace", "Culture", "Describe", "the", "organizational", "structure", "of", "your", "current", "or", "former", "workplace", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "your company",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "your company",
+    "argMentionid" : "fsh_29133-E57-254",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "fsh_29133-R1",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29133-E58-167",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29133-R1-3",
+  "relationSubType" : "Employment",
+  "Sentence" : "Do you think your company is well-run ?",
+  "sentence_index" : 6,
+  "Tokens" : [ "Do", "you", "think", "your", "company", "is", "well-run", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "How many people work there, and what is the hierarchy",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "fsh_29133-E57-243",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "fsh_29133-R3",
+  "mentionArg1" : {
+    "extent" : "How many people",
+    "argMentionid" : "fsh_29133-E59-242",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "fsh_29133-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "How many people work there , and what is the hierarchy ?",
+  "sentence_index" : 2,
+  "Tokens" : [ "How", "many", "people", "work", "there", ",", "and", "what", "is", "the", "hierarchy", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "some of the people that you work with",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29133-E58-250",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "fsh_29133-R4",
+  "mentionArg1" : {
+    "extent" : "the people that you work with",
+    "argMentionid" : "fsh_29133-E63-248",
+    "start" : 3,
+    "end" : 8
+  },
+  "id" : "fsh_29133-R4-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Describe some of the people that you work with and the jobs they do .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Describe", "some", "of", "the", "people", "that", "you", "work", "with", "and", "the", "jobs", "they", "do", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I'm in Miami Beach",
+  "sentence_length" : 6,
+  "mentionArg2" : {
+    "extent" : "Miami Beach",
+    "argMentionid" : "fsh_29133-E1-5",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "fsh_29133-R6",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29133-E11-4",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29133-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I 'm in Miami Beach .",
+  "sentence_index" : 16,
+  "Tokens" : [ "I", "'m", "in", "Miami", "Beach", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The- -- Okay, I'm in -- the by the twin cities in -- Minnesota",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "the twin cities in -- Minnesota",
+    "argMentionid" : "fsh_29133-E2-7",
+    "start" : 11,
+    "end" : 16
+  },
+  "relationID" : "fsh_29133-R7",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29133-E17-6",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "fsh_29133-R7-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Vicky The- -- Okay , I 'm in -- the by the twin cities in -- Minnesota Sandra Oh , cool .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Vicky", "The-", "--", "Okay", ",", "I", "'m", "in", "--", "the", "by", "the", "twin", "cities", "in", "--", "Minnesota", "Sandra", "Oh", ",", "cool", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the twin cities in -- Minnesota",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Minnesota",
+    "argMentionid" : "fsh_29133-E3-8",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "fsh_29133-R8",
+  "mentionArg1" : {
+    "extent" : "the twin cities in -- Minnesota",
+    "argMentionid" : "fsh_29133-E2-7",
+    "start" : 11,
+    "end" : 16
+  },
+  "id" : "fsh_29133-R8-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Vicky The- -- Okay , I 'm in -- the by the twin cities in -- Minnesota Sandra Oh , cool .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Vicky", "The-", "--", "Okay", ",", "I", "'m", "in", "--", "the", "by", "the", "twin", "cities", "in", "--", "Minnesota", "Sandra", "Oh", ",", "cool", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "And we have like at least nine people -- and there's three board members um I'm the treasurer",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "we",
+    "argMentionid" : "fsh_29133-E6-20",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "fsh_29133-R9",
+  "mentionArg1" : {
+    "extent" : "at least nine people",
+    "argMentionid" : "fsh_29133-E8-21",
+    "start" : 5,
+    "end" : 8
+  },
+  "id" : "fsh_29133-R9-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Sandra And we have like at least nine people -- and there 's three board members um I 'm the treasurer .",
+  "sentence_index" : 26,
+  "Tokens" : [ "Sandra", "And", "we", "have", "like", "at", "least", "nine", "people", "--", "and", "there", "'s", "three", "board", "members", "um", "I", "'m", "the", "treasurer", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "three board members",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "board",
+    "argMentionid" : "fsh_29133-E10-23",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "fsh_29133-R10",
+  "mentionArg1" : {
+    "extent" : "three board members",
+    "argMentionid" : "fsh_29133-E9-22",
+    "start" : 13,
+    "end" : 15
+  },
+  "id" : "fsh_29133-R10-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Sandra And we have like at least nine people -- and there 's three board members um I 'm the treasurer .",
+  "sentence_index" : 26,
+  "Tokens" : [ "Sandra", "And", "we", "have", "like", "at", "least", "nine", "people", "--", "and", "there", "'s", "three", "board", "members", "um", "I", "'m", "the", "treasurer", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "And we're all like apostles for Christ, and we travel throughout the United States",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "the United States",
+    "argMentionid" : "fsh_29133-E16-33",
+    "start" : 13,
+    "end" : 15
+  },
+  "relationID" : "fsh_29133-R11",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "fsh_29133-E13-29",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "fsh_29133-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "And we 're all like apostles for Christ , and we travel throughout the United States .",
+  "sentence_index" : 28,
+  "Tokens" : [ "And", "we", "'re", "all", "like", "apostles", "for", "Christ", ",", "and", "we", "travel", "throughout", "the", "United", "States", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Well, I am a cashier and I work at Jo-Ann's,  which is a",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Jo-Ann's,  which is",
+    "argMentionid" : "fsh_29133-E18-39",
+    "start" : 11,
+    "end" : 14
+  },
+  "relationID" : "fsh_29133-R12",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29133-E17-36",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29133-R12-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Vicky Well , I am a cashier and I work at Jo-Ann's , which is a Sandra Oh cool .",
+  "sentence_index" : 31,
+  "Tokens" : [ "Vicky", "Well", ",", "I", "am", "a", "cashier", "and", "I", "work", "at", "Jo-Ann's", ",", "which", "is", "a", "Sandra", "Oh", "cool", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I think we have -- like a hundred and twenty employees -- at our store",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "our store",
+    "argMentionid" : "fsh_29133-E23-52",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "fsh_29133-R13",
+  "mentionArg1" : {
+    "extent" : "a hundred and twenty employees",
+    "argMentionid" : "fsh_29133-E22-51",
+    "start" : 6,
+    "end" : 10
+  },
+  "id" : "fsh_29133-R13-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "I think we have -- like a hundred and twenty employees -- at our store .",
+  "sentence_index" : 37,
+  "Tokens" : [ "I", "think", "we", "have", "--", "like", "a", "hundred", "and", "twenty", "employees", "--", "at", "our", "store", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our store",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "our store",
+    "argMentionid" : "fsh_29133-E23-52",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "fsh_29133-R13",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "fsh_29133-E22-53",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "fsh_29133-R13-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "I think we have -- like a hundred and twenty employees -- at our store .",
+  "sentence_index" : 37,
+  "Tokens" : [ "I", "think", "we", "have", "--", "like", "a", "hundred", "and", "twenty", "employees", "--", "at", "our", "store", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our location",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "our location",
+    "argMentionid" : "fsh_29133-E23-103",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "fsh_29133-R13",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "fsh_29133-E22-104",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "fsh_29133-R13-3",
+  "relationSubType" : "Employment",
+  "Sentence" : "Vicky so -- and then , that 's just in our location , and then I do n't know who they report to .",
+  "sentence_index" : 61,
+  "Tokens" : [ "Vicky", "so", "--", "and", "then", ",", "that", "'s", "just", "in", "our", "location", ",", "and", "then", "I", "do", "n't", "know", "who", "they", "report", "to", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Our job is full time, but it's really relaxed, because it's like um ours is a traveling ministry, so we get to travel everywhere and we're we're going to start to go to foreign countries and um we do work long hours, but it's easy because it's like working -- the um the Lord's work, and to us, that's easy",
+  "sentence_length" : 76,
+  "mentionArg2" : {
+    "extent" : "foreign countries",
+    "argMentionid" : "fsh_29133-E25-60",
+    "start" : 41,
+    "end" : 42
+  },
+  "relationID" : "fsh_29133-R15",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "fsh_29133-E13-59",
+    "start" : 33,
+    "end" : 33
+  },
+  "id" : "fsh_29133-R15-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Sandra Our job is full time , but it 's really relaxed , because it 's like um ours is a traveling ministry , so we get to travel everywhere and we 're we 're going to start to go to foreign countries and um we do work long hours , but it 's easy because it 's like working -- the um the Lord 's work , and to us , that 's easy .",
+  "sentence_index" : 44,
+  "Tokens" : [ "Sandra", "Our", "job", "is", "full", "time", ",", "but", "it", "'s", "really", "relaxed", ",", "because", "it", "'s", "like", "um", "ours", "is", "a", "traveling", "ministry", ",", "so", "we", "get", "to", "travel", "everywhere", "and", "we", "'re", "we", "'re", "going", "to", "start", "to", "go", "to", "foreign", "countries", "and", "um", "we", "do", "work", "long", "hours", ",", "but", "it", "'s", "easy", "because", "it", "'s", "like", "working", "--", "the", "um", "the", "Lord", "'s", "work", ",", "and", "to", "us", ",", "that", "'s", "easy", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "people in hospitals that are sick",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "hospitals",
+    "argMentionid" : "fsh_29133-E27-66",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "fsh_29133-R16",
+  "mentionArg1" : {
+    "extent" : "people in hospitals that are sick",
+    "argMentionid" : "fsh_29133-E26-64",
+    "start" : 9,
+    "end" : 14
+  },
+  "id" : "fsh_29133-R16-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Sandra But we we make special visits to like people in hospitals that are sick and wherever God sends us , we just -- you know , whatever he needs us to do , we do it .",
+  "sentence_index" : 47,
+  "Tokens" : [ "Sandra", "But", "we", "we", "make", "special", "visits", "to", "like", "people", "in", "hospitals", "that", "are", "sick", "and", "wherever", "God", "sends", "us", ",", "we", "just", "--", "you", "know", ",", "whatever", "he", "needs", "us", "to", "do", ",", "we", "do", "it", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "So who's over you, just one person or more than one",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29133-E17-86",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "fsh_29133-R17",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "fsh_29133-E32-85",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "fsh_29133-R17-1",
+  "relationSubType" : "Business",
+  "Sentence" : "So who 's over you , just one person or more than one ?",
+  "sentence_index" : 55,
+  "Tokens" : [ "So", "who", "'s", "over", "you", ",", "just", "one", "person", "or", "more", "than", "one", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a store manager",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "store",
+    "argMentionid" : "fsh_29133-E41-102",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "fsh_29133-R18",
+  "mentionArg1" : {
+    "extent" : "a store manager",
+    "argMentionid" : "fsh_29133-E40-101",
+    "start" : 1,
+    "end" : 3
+  },
+  "id" : "fsh_29133-R18-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Vicky a store manager Sandra Mhm .",
+  "sentence_index" : 60,
+  "Tokens" : [ "Vicky", "a", "store", "manager", "Sandra", "Mhm", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the cash registers, and all that, you know uh and the- then every department has its own supervisor -- and then we have -- an operational manager, and then we have",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "an operational manager",
+    "argMentionid" : "fsh_29133-E39-99",
+    "start" : 27,
+    "end" : 29
+  },
+  "relationID" : "fsh_29133-R19",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "fsh_29133-E22-98",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "fsh_29133-R19-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Vicky the cash registers , and all that , you know uh and the- then every department has its own supervisor -- and then we have -- an operational manager , and then we have Sandra Wow .",
+  "sentence_index" : 59,
+  "Tokens" : [ "Vicky", "the", "cash", "registers", ",", "and", "all", "that", ",", "you", "know", "uh", "and", "the-", "then", "every", "department", "has", "its", "own", "supervisor", "--", "and", "then", "we", "have", "--", "an", "operational", "manager", ",", "and", "then", "we", "have", "Sandra", "Wow", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "so -- and then, that's just in our location, and then I don't know who they report to",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "they",
+    "argMentionid" : "fsh_29133-E43-107",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "fsh_29133-R21",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "fsh_29133-E42-106",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "fsh_29133-R21-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Vicky so -- and then , that 's just in our location , and then I do n't know who they report to .",
+  "sentence_index" : 61,
+  "Tokens" : [ "Vicky", "so", "--", "and", "then", ",", "that", "'s", "just", "in", "our", "location", ",", "and", "then", "I", "do", "n't", "know", "who", "they", "report", "to", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my mom",
+  "sentence_length" : 71,
+  "mentionArg2" : {
+    "extent" : "my mom",
+    "argMentionid" : "fsh_29133-E5-12",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "fsh_29133-R22",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29133-E11-16",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29133-R22-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Sandra Basically , my mom 's the owner of the organization , and she 's like the head , and everyone looks up to her because God placed a special anointing of leadership upon her and -- she has like a -- She has a prophetic mantle and -- she hears from God like frequently , so when we discuss things , we 'll take it to her Vicky Mhm .",
+  "sentence_index" : 65,
+  "Tokens" : [ "Sandra", "Basically", ",", "my", "mom", "'s", "the", "owner", "of", "the", "organization", ",", "and", "she", "'s", "like", "the", "head", ",", "and", "everyone", "looks", "up", "to", "her", "because", "God", "placed", "a", "special", "anointing", "of", "leadership", "upon", "her", "and", "--", "she", "has", "like", "a", "--", "She", "has", "a", "prophetic", "mantle", "and", "--", "she", "hears", "from", "God", "like", "frequently", ",", "so", "when", "we", "discuss", "things", ",", "we", "'ll", "take", "it", "to", "her", "Vicky", "Mhm", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the owner of the organization",
+  "sentence_length" : 71,
+  "mentionArg2" : {
+    "extent" : "the organization",
+    "argMentionid" : "fsh_29133-E6-95",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "fsh_29133-R23",
+  "mentionArg1" : {
+    "extent" : "the owner of the organization",
+    "argMentionid" : "fsh_29133-E5-27",
+    "start" : 6,
+    "end" : 10
+  },
+  "id" : "fsh_29133-R23-1",
+  "relationSubType" : "Ownership",
+  "Sentence" : "Sandra Basically , my mom 's the owner of the organization , and she 's like the head , and everyone looks up to her because God placed a special anointing of leadership upon her and -- she has like a -- She has a prophetic mantle and -- she hears from God like frequently , so when we discuss things , we 'll take it to her Vicky Mhm .",
+  "sentence_index" : 65,
+  "Tokens" : [ "Sandra", "Basically", ",", "my", "mom", "'s", "the", "owner", "of", "the", "organization", ",", "and", "she", "'s", "like", "the", "head", ",", "and", "everyone", "looks", "up", "to", "her", "because", "God", "placed", "a", "special", "anointing", "of", "leadership", "upon", "her", "and", "--", "she", "has", "like", "a", "--", "She", "has", "a", "prophetic", "mantle", "and", "--", "she", "hears", "from", "God", "like", "frequently", ",", "so", "when", "we", "discuss", "things", ",", "we", "'ll", "take", "it", "to", "her", "Vicky", "Mhm", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our -- organization",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "our -- organization",
+    "argMentionid" : "fsh_29133-E6-124",
+    "start" : 9,
+    "end" : 11
+  },
+  "relationID" : "fsh_29133-R24",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "fsh_29133-E13-125",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "fsh_29133-R24-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Sandra and um -- I guess to improve -- our -- organization , it 'd be to add more people Vicky Yeah .",
+  "sentence_index" : 66,
+  "Tokens" : [ "Sandra", "and", "um", "--", "I", "guess", "to", "improve", "--", "our", "--", "organization", ",", "it", "'d", "be", "to", "add", "more", "people", "Vicky", "Yeah", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "and um -- I guess to improve -- our -- organization,  it'd be to add more people",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "our -- organization",
+    "argMentionid" : "fsh_29133-E6-124",
+    "start" : 9,
+    "end" : 11
+  },
+  "relationID" : "fsh_29133-R25",
+  "mentionArg1" : {
+    "extent" : "more people",
+    "argMentionid" : "fsh_29133-E46-126",
+    "start" : 18,
+    "end" : 19
+  },
+  "id" : "fsh_29133-R25-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Sandra and um -- I guess to improve -- our -- organization , it 'd be to add more people Vicky Yeah .",
+  "sentence_index" : 66,
+  "Tokens" : [ "Sandra", "and", "um", "--", "I", "guess", "to", "improve", "--", "our", "--", "organization", ",", "it", "'d", "be", "to", "add", "more", "people", "Vicky", "Yeah", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my friend",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "my friend",
+    "argMentionid" : "fsh_29133-E52-143",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "fsh_29133-R26",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29133-E11-144",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "fsh_29133-R26-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "Sandra Because my friend works in a hospital , and she said all day long she has to put up with that .",
+  "sentence_index" : 77,
+  "Tokens" : [ "Sandra", "Because", "my", "friend", "works", "in", "a", "hospital", ",", "and", "she", "said", "all", "day", "long", "she", "has", "to", "put", "up", "with", "that", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Because my friend works in a hospital, and she said all day long she has to put up with that",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "a hospital",
+    "argMentionid" : "fsh_29133-E53-145",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "fsh_29133-R27",
+  "mentionArg1" : {
+    "extent" : "my friend",
+    "argMentionid" : "fsh_29133-E52-143",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "fsh_29133-R27-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Sandra Because my friend works in a hospital , and she said all day long she has to put up with that .",
+  "sentence_index" : 77,
+  "Tokens" : [ "Sandra", "Because", "my", "friend", "works", "in", "a", "hospital", ",", "and", "she", "said", "all", "day", "long", "she", "has", "to", "put", "up", "with", "that", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I think one of the reasons they do it is because she's been there so long, she's ready to retire, and they don't want you to get any benefits, they want to just kind of like -- let you go or something, and -- so she's constantly getting in trouble because her retirement's coming up",
+  "sentence_length" : 65,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "fsh_29133-E53-158",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "fsh_29133-R27",
+  "mentionArg1" : {
+    "extent" : "she",
+    "argMentionid" : "fsh_29133-E52-157",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "fsh_29133-R27-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "I think one of the reasons they do it is because she 's been there so long , she 's ready to retire , and they do n't want you to get any benefits , they want to just kind of like -- let you go or something , and -- so she 's constantly getting in trouble because her retirement 's coming up .",
+  "sentence_index" : 83,
+  "Tokens" : [ "I", "think", "one", "of", "the", "reasons", "they", "do", "it", "is", "because", "she", "'s", "been", "there", "so", "long", ",", "she", "'s", "ready", "to", "retire", ",", "and", "they", "do", "n't", "want", "you", "to", "get", "any", "benefits", ",", "they", "want", "to", "just", "kind", "of", "like", "--", "let", "you", "go", "or", "something", ",", "and", "--", "so", "she", "'s", "constantly", "getting", "in", "trouble", "because", "her", "retirement", "'s", "coming", "up", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a board of members",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "a board of members",
+    "argMentionid" : "fsh_29133-E55-152",
+    "start" : 18,
+    "end" : 21
+  },
+  "relationID" : "fsh_29133-R28",
+  "mentionArg1" : {
+    "extent" : "members",
+    "argMentionid" : "fsh_29133-E56-153",
+    "start" : 21,
+    "end" : 21
+  },
+  "id" : "fsh_29133-R28-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "There 's people whining , and they write you up , and then she has to go before a board of members , and she said it 's really terrible .",
+  "sentence_index" : 78,
+  "Tokens" : [ "There", "'s", "people", "whining", ",", "and", "they", "write", "you", "up", ",", "and", "then", "she", "has", "to", "go", "before", "a", "board", "of", "members", ",", "and", "she", "said", "it", "'s", "really", "terrible", "." ]
+} ]

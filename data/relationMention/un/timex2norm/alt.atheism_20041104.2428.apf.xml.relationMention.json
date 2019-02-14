@@ -1,0 +1,397 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "my family",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "my family",
+    "argMentionid" : "alt.atheism_20041104.2428-E7-16",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "alt.atheism_20041104.2428-R1",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "alt.atheism_20041104.2428-E6-83",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "alt.atheism_20041104.2428-R1-1",
+  "relationSubType" : "Family",
+  "Sentence" : "To say that it \" hurts like hell \" is an understatement , at least the kinds my family had been prone to .",
+  "sentence_index" : 15,
+  "Tokens" : [ "To", "say", "that", "it", "\"", "hurts", "like", "hell", "\"", "is", "an", "understatement", ",", "at", "least", "the", "kinds", "my", "family", "had", "been", "prone", "to", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "their fields",
+  "sentence_length" : 59,
+  "mentionArg2" : {
+    "extent" : "their fields",
+    "argMentionid" : "alt.atheism_20041104.2428-E73-147",
+    "start" : 41,
+    "end" : 42
+  },
+  "relationID" : "alt.atheism_20041104.2428-R2",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "alt.atheism_20041104.2428-E72-103",
+    "start" : 41,
+    "end" : 41
+  },
+  "id" : "alt.atheism_20041104.2428-R2-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "But as long as \" criticism is anti-semitism \" is the mentality , do n't act surprised that the Palestinians object to the Lebensraum ( a / k / a settlements ) and Israeli terrorism ( bombings , shooting farmers in their fields , bulldozing crops , destroying schools , shooting children , etc. etc. etc . ) .",
+  "sentence_index" : 34,
+  "Tokens" : [ "But", "as", "long", "as", "\"", "criticism", "is", "anti-semitism", "\"", "is", "the", "mentality", ",", "do", "n't", "act", "surprised", "that", "the", "Palestinians", "object", "to", "the", "Lebensraum", "(", "a", "/", "k", "/", "a", "settlements", ")", "and", "Israeli", "terrorism", "(", "bombings", ",", "shooting", "farmers", "in", "their", "fields", ",", "bulldozing", "crops", ",", "destroying", "schools", ",", "shooting", "children", ",", "etc.", "etc.", "etc", ".", ")", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "My husband's uncle",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "My husband's uncle",
+    "argMentionid" : "alt.atheism_20041104.2428-E87-185",
+    "start" : 16,
+    "end" : 19
+  },
+  "relationID" : "alt.atheism_20041104.2428-R3",
+  "mentionArg1" : {
+    "extent" : "My husband",
+    "argMentionid" : "alt.atheism_20041104.2428-E10-186",
+    "start" : 16,
+    "end" : 17
+  },
+  "id" : "alt.atheism_20041104.2428-R3-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Robibnikoff Thu , 4 Nov 2004 22:28:11 - 0500 Re : Yasser Arafat declared Brain Dead My husband 's uncle died of it about a year before we got married .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Robibnikoff", "Thu", ",", "4", "Nov", "2004", "22:28:11", "-", "0500", "Re", ":", "Yasser", "Arafat", "declared", "Brain", "Dead", "My", "husband", "'s", "uncle", "died", "of", "it", "about", "a", "year", "before", "we", "got", "married", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "My husband",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "My husband",
+    "argMentionid" : "alt.atheism_20041104.2428-E10-186",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "alt.atheism_20041104.2428-R4",
+  "mentionArg1" : {
+    "extent" : "My",
+    "argMentionid" : "alt.atheism_20041104.2428-E80-158",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "alt.atheism_20041104.2428-R4-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Robibnikoff Thu , 4 Nov 2004 22:28:11 - 0500 Re : Yasser Arafat declared Brain Dead My husband 's uncle died of it about a year before we got married .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Robibnikoff", "Thu", ",", "4", "Nov", "2004", "22:28:11", "-", "0500", "Re", ":", "Yasser", "Arafat", "declared", "Brain", "Dead", "My", "husband", "'s", "uncle", "died", "of", "it", "about", "a", "year", "before", "we", "got", "married", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "I watched two uncles die of lung cancer (which gave me the impetus to give up smoking for good), and a close friend die of melanoma",
+  "sentence_length" : 65,
+  "mentionArg2" : {
+    "extent" : "two uncles",
+    "argMentionid" : "alt.atheism_20041104.2428-E3-6",
+    "start" : 37,
+    "end" : 38
+  },
+  "relationID" : "alt.atheism_20041104.2428-R5",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "alt.atheism_20041104.2428-E2-5",
+    "start" : 35,
+    "end" : 35
+  },
+  "id" : "alt.atheism_20041104.2428-R5-1",
+  "relationSubType" : "Family",
+  "Sentence" : "raven1 Fri , 05 Nov 2004 19:28:51 GMT Re : Yasser Arafat declared Brain Dead On 5 Nov 2004 09:28:46 - 0800 , DKo ... @ hotmail . com ( Daniel Kolle ) wrote : I watched two uncles die of lung cancer ( which gave me the impetus to give up smoking for good ) , and a close friend die of melanoma .",
+  "sentence_index" : 10,
+  "Tokens" : [ "raven1", "Fri", ",", "05", "Nov", "2004", "19:28:51", "GMT", "Re", ":", "Yasser", "Arafat", "declared", "Brain", "Dead", "On", "5", "Nov", "2004", "09:28:46", "-", "0800", ",", "DKo", "...", "@", "hotmail", ".", "com", "(", "Daniel", "Kolle", ")", "wrote", ":", "I", "watched", "two", "uncles", "die", "of", "lung", "cancer", "(", "which", "gave", "me", "the", "impetus", "to", "give", "up", "smoking", "for", "good", ")", ",", "and", "a", "close", "friend", "die", "of", "melanoma", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "I watched two uncles die of lung cancer (which gave me the impetus to give up smoking for good), and a close friend die of melanoma",
+  "sentence_length" : 65,
+  "mentionArg2" : {
+    "extent" : "a close friend",
+    "argMentionid" : "alt.atheism_20041104.2428-E4-8",
+    "start" : 58,
+    "end" : 60
+  },
+  "relationID" : "alt.atheism_20041104.2428-R6",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "alt.atheism_20041104.2428-E2-5",
+    "start" : 35,
+    "end" : 35
+  },
+  "id" : "alt.atheism_20041104.2428-R6-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "raven1 Fri , 05 Nov 2004 19:28:51 GMT Re : Yasser Arafat declared Brain Dead On 5 Nov 2004 09:28:46 - 0800 , DKo ... @ hotmail . com ( Daniel Kolle ) wrote : I watched two uncles die of lung cancer ( which gave me the impetus to give up smoking for good ) , and a close friend die of melanoma .",
+  "sentence_index" : 10,
+  "Tokens" : [ "raven1", "Fri", ",", "05", "Nov", "2004", "19:28:51", "GMT", "Re", ":", "Yasser", "Arafat", "declared", "Brain", "Dead", "On", "5", "Nov", "2004", "09:28:46", "-", "0800", ",", "DKo", "...", "@", "hotmail", ".", "com", "(", "Daniel", "Kolle", ")", "wrote", ":", "I", "watched", "two", "uncles", "die", "of", "lung", "cancer", "(", "which", "gave", "me", "the", "impetus", "to", "give", "up", "smoking", "for", "good", ")", ",", "and", "a", "close", "friend", "die", "of", "melanoma", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "When you see the woman who raised you sucking desperately on a dropper of liquid morphine like it were her own mother's teat, you're just never quite the same",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "the woman who raised you",
+    "argMentionid" : "alt.atheism_20041104.2428-E9-1",
+    "start" : 3,
+    "end" : 7
+  },
+  "relationID" : "alt.atheism_20041104.2428-R7",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "alt.atheism_20041104.2428-E8-17",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "alt.atheism_20041104.2428-R7-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "When you see the woman who raised you sucking desperately on a dropper of liquid morphine like it were her own mother 's teat , you 're just never quite the same .",
+  "sentence_index" : 16,
+  "Tokens" : [ "When", "you", "see", "the", "woman", "who", "raised", "you", "sucking", "desperately", "on", "a", "dropper", "of", "liquid", "morphine", "like", "it", "were", "her", "own", "mother", "'s", "teat", ",", "you", "'re", "just", "never", "quite", "the", "same", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her own mother",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "her own mother",
+    "argMentionid" : "alt.atheism_20041104.2428-E11-21",
+    "start" : 19,
+    "end" : 21
+  },
+  "relationID" : "alt.atheism_20041104.2428-R8",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "alt.atheism_20041104.2428-E9-18",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "alt.atheism_20041104.2428-R8-1",
+  "relationSubType" : "Family",
+  "Sentence" : "When you see the woman who raised you sucking desperately on a dropper of liquid morphine like it were her own mother 's teat , you 're just never quite the same .",
+  "sentence_index" : 16,
+  "Tokens" : [ "When", "you", "see", "the", "woman", "who", "raised", "you", "sucking", "desperately", "on", "a", "dropper", "of", "liquid", "morphine", "like", "it", "were", "her", "own", "mother", "'s", "teat", ",", "you", "'re", "just", "never", "quite", "the", "same", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "The \"woman who raised me\" wasn't actually my mother, but my grandmother, btw",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "me",
+    "argMentionid" : "alt.atheism_20041104.2428-E6-24",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "alt.atheism_20041104.2428-R9",
+  "mentionArg1" : {
+    "extent" : "The \"woman who raised me",
+    "argMentionid" : "alt.atheism_20041104.2428-E12-23",
+    "start" : 0,
+    "end" : 5
+  },
+  "id" : "alt.atheism_20041104.2428-R9-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "The \" woman who raised me \" was n't actually my mother , but my grandmother , btw .",
+  "sentence_index" : 17,
+  "Tokens" : [ "The", "\"", "woman", "who", "raised", "me", "\"", "was", "n't", "actually", "my", "mother", ",", "but", "my", "grandmother", ",", "btw", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my mother",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "my mother",
+    "argMentionid" : "alt.atheism_20041104.2428-E12-161",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "alt.atheism_20041104.2428-R10",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "alt.atheism_20041104.2428-E6-94",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "alt.atheism_20041104.2428-R10-1",
+  "relationSubType" : "Family",
+  "Sentence" : "The \" woman who raised me \" was n't actually my mother , but my grandmother , btw .",
+  "sentence_index" : 17,
+  "Tokens" : [ "The", "\"", "woman", "who", "raised", "me", "\"", "was", "n't", "actually", "my", "mother", ",", "but", "my", "grandmother", ",", "btw", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my grandmother",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "my grandmother",
+    "argMentionid" : "alt.atheism_20041104.2428-E12-160",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "alt.atheism_20041104.2428-R10",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "alt.atheism_20041104.2428-E6-86",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "alt.atheism_20041104.2428-R10-2",
+  "relationSubType" : "Family",
+  "Sentence" : "The \" woman who raised me \" was n't actually my mother , but my grandmother , btw .",
+  "sentence_index" : 17,
+  "Tokens" : [ "The", "\"", "woman", "who", "raised", "me", "\"", "was", "n't", "actually", "my", "mother", ",", "but", "my", "grandmother", ",", "btw", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the free press in Qatar",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Qatar",
+    "argMentionid" : "alt.atheism_20041104.2428-E14-12",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "alt.atheism_20041104.2428-R12",
+  "mentionArg1" : {
+    "extent" : "the free press in Qatar",
+    "argMentionid" : "alt.atheism_20041104.2428-E15-30",
+    "start" : 2,
+    "end" : 6
+  },
+  "id" : "alt.atheism_20041104.2428-R12-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "There was the free press in Qatar , al Jeezera but its ' offices in Kabul and Baghdad were bombed by Americans .",
+  "sentence_index" : 20,
+  "Tokens" : [ "There", "was", "the", "free", "press", "in", "Qatar", ",", "al", "Jeezera", "but", "its", "'", "offices", "in", "Kabul", "and", "Baghdad", "were", "bombed", "by", "Americans", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "its' offices in Kabul and Baghdad",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "its' offices in Kabul and Baghdad",
+    "argMentionid" : "alt.atheism_20041104.2428-E17-33",
+    "start" : 11,
+    "end" : 17
+  },
+  "relationID" : "alt.atheism_20041104.2428-R13",
+  "mentionArg1" : {
+    "extent" : "it",
+    "argMentionid" : "alt.atheism_20041104.2428-E15-32",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "alt.atheism_20041104.2428-R13-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "There was the free press in Qatar , al Jeezera but its ' offices in Kabul and Baghdad were bombed by Americans .",
+  "sentence_index" : 20,
+  "Tokens" : [ "There", "was", "the", "free", "press", "in", "Qatar", ",", "al", "Jeezera", "but", "its", "'", "offices", "in", "Kabul", "and", "Baghdad", "were", "bombed", "by", "Americans", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "its' offices in Kabul and Baghdad",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Kabul",
+    "argMentionid" : "alt.atheism_20041104.2428-E19-35",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "alt.atheism_20041104.2428-R14",
+  "mentionArg1" : {
+    "extent" : "its' offices in Kabul and Baghdad",
+    "argMentionid" : "alt.atheism_20041104.2428-E17-33",
+    "start" : 11,
+    "end" : 17
+  },
+  "id" : "alt.atheism_20041104.2428-R14-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "There was the free press in Qatar , al Jeezera but its ' offices in Kabul and Baghdad were bombed by Americans .",
+  "sentence_index" : 20,
+  "Tokens" : [ "There", "was", "the", "free", "press", "in", "Qatar", ",", "al", "Jeezera", "but", "its", "'", "offices", "in", "Kabul", "and", "Baghdad", "were", "bombed", "by", "Americans", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "its' offices in Kabul and Baghdad",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "alt.atheism_20041104.2428-E18-34",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "alt.atheism_20041104.2428-R15",
+  "mentionArg1" : {
+    "extent" : "its' offices in Kabul and Baghdad",
+    "argMentionid" : "alt.atheism_20041104.2428-E17-33",
+    "start" : 11,
+    "end" : 17
+  },
+  "id" : "alt.atheism_20041104.2428-R15-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "There was the free press in Qatar , al Jeezera but its ' offices in Kabul and Baghdad were bombed by Americans .",
+  "sentence_index" : 20,
+  "Tokens" : [ "There", "was", "the", "free", "press", "in", "Qatar", ",", "al", "Jeezera", "but", "its", "'", "offices", "in", "Kabul", "and", "Baghdad", "were", "bombed", "by", "Americans", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "his palestinian rivals",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "palestinian",
+    "argMentionid" : "alt.atheism_20041104.2428-E29-68",
+    "start" : 48,
+    "end" : 48
+  },
+  "relationID" : "alt.atheism_20041104.2428-R16",
+  "mentionArg1" : {
+    "extent" : "his palestinian rivals",
+    "argMentionid" : "alt.atheism_20041104.2428-E40-64",
+    "start" : 47,
+    "end" : 49
+  },
+  "id" : "alt.atheism_20041104.2428-R16-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Bob Dog Rune Sat , 06 Nov 2004 15:25:41 + 0100 Re : Yasser Arafat declared Brain Dead On Sat , 6 Nov 2004 16:41:52 + 1030 , Meteorite Debris ( a ... @ yahoo . com ) wrote : I think more likely , one of his palestinian rivals did it .",
+  "sentence_index" : 37,
+  "Tokens" : [ "Bob", "Dog", "Rune", "Sat", ",", "06", "Nov", "2004", "15:25:41", "+", "0100", "Re", ":", "Yasser", "Arafat", "declared", "Brain", "Dead", "On", "Sat", ",", "6", "Nov", "2004", "16:41:52", "+", "1030", ",", "Meteorite", "Debris", "(", "a", "...", "@", "yahoo", ".", "com", ")", "wrote", ":", "I", "think", "more", "likely", ",", "one", "of", "his", "palestinian", "rivals", "did", "it", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "I guess the fact that you live in the US has skewed your view",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "the US",
+    "argMentionid" : "alt.atheism_20041104.2428-E48-79",
+    "start" : 44,
+    "end" : 45
+  },
+  "relationID" : "alt.atheism_20041104.2428-R17",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "alt.atheism_20041104.2428-E46-78",
+    "start" : 41,
+    "end" : 41
+  },
+  "id" : "alt.atheism_20041104.2428-R17-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Rune Mon , 08 Nov 2004 02:00:23 + 0100 Re : Yasser Arafat declared Brain Dead On 6 Nov 2004 04:25:09 - 0800 , bg12 ... @ apexmail . com ( Bob Dog ) wrote : I guess the fact that you live in the US has skewed your view .",
+  "sentence_index" : 41,
+  "Tokens" : [ "Rune", "Mon", ",", "08", "Nov", "2004", "02:00:23", "+", "0100", "Re", ":", "Yasser", "Arafat", "declared", "Brain", "Dead", "On", "6", "Nov", "2004", "04:25:09", "-", "0800", ",", "bg12", "...", "@", "apexmail", ".", "com", "(", "Bob", "Dog", ")", "wrote", ":", "I", "guess", "the", "fact", "that", "you", "live", "in", "the", "US", "has", "skewed", "your", "view", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "these formerly \"militant extremist\" Muslim regiemes",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "these formerly \"militant extremist\" Muslim regiemes",
+    "argMentionid" : "alt.atheism_20041104.2428-E83-179",
+    "start" : 6,
+    "end" : 13
+  },
+  "relationID" : "alt.atheism_20041104.2428-R18",
+  "mentionArg1" : {
+    "extent" : "Muslim",
+    "argMentionid" : "alt.atheism_20041104.2428-E56-180",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "alt.atheism_20041104.2428-R18-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Would n't it be something if these formerly \" militant extremist \" Muslim regiemes became more liberal while the U.S. became ... ah ... never mind .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Would", "n't", "it", "be", "something", "if", "these", "formerly", "\"", "militant", "extremist", "\"", "Muslim", "regiemes", "became", "more", "liberal", "while", "the", "U.S.", "became", "...", "ah", "...", "never", "mind", "." ]
+} ]

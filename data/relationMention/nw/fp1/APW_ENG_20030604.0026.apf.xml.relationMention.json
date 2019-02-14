@@ -1,0 +1,1233 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Balkans bases",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Balkans",
+    "argMentionid" : "APW_ENG_20030604.0026-E17-116",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030604.0026-R1",
+  "mentionArg1" : {
+    "extent" : "Balkans bases",
+    "argMentionid" : "APW_ENG_20030604.0026-E24-117",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030604.0026-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "While not directly linked , the idea for Balkans bases and the possible withdrawal of nearly a quarter of the 80,000 U.S. military personnel in Germany appear connected by shifting strategic and political considerations .",
+  "sentence_index" : 17,
+  "Tokens" : [ "While", "not", "directly", "linked", ",", "the", "idea", "for", "Balkans", "bases", "and", "the", "possible", "withdrawal", "of", "nearly", "a", "quarter", "of", "the", "80,000", "U.S.", "military", "personnel", "in", "Germany", "appear", "connected", "by", "shifting", "strategic", "and", "political", "considerations", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Balkans bases",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "Balkans",
+    "argMentionid" : "APW_ENG_20030604.0026-E17-201",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030604.0026-R3",
+  "mentionArg1" : {
+    "extent" : "Balkans bases",
+    "argMentionid" : "APW_ENG_20030604.0026-E140-200",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030604.0026-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "CONSTANTA , Romania ( AP ) U.S. troops may soon use Balkans bases for training sites and staging points for possible interventions in the Middle East as the Pentagon weighs withdrawing 15,000 soldiers from Germany , diplomats and government officials in Europe say .",
+  "sentence_index" : 0,
+  "Tokens" : [ "CONSTANTA", ",", "Romania", "(", "AP", ")", "U.S.", "troops", "may", "soon", "use", "Balkans", "bases", "for", "training", "sites", "and", "staging", "points", "for", "possible", "interventions", "in", "the", "Middle", "East", "as", "the", "Pentagon", "weighs", "withdrawing", "15,000", "soldiers", "from", "Germany", ",", "diplomats", "and", "government", "officials", "in", "Europe", "say", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. troops",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030604.0026-E5-199",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030604.0026-R4",
+  "mentionArg1" : {
+    "extent" : "U.S. troops",
+    "argMentionid" : "APW_ENG_20030604.0026-E137-198",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030604.0026-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "CONSTANTA , Romania ( AP ) U.S. troops may soon use Balkans bases for training sites and staging points for possible interventions in the Middle East as the Pentagon weighs withdrawing 15,000 soldiers from Germany , diplomats and government officials in Europe say .",
+  "sentence_index" : 0,
+  "Tokens" : [ "CONSTANTA", ",", "Romania", "(", "AP", ")", "U.S.", "troops", "may", "soon", "use", "Balkans", "bases", "for", "training", "sites", "and", "staging", "points", "for", "possible", "interventions", "in", "the", "Middle", "East", "as", "the", "Pentagon", "weighs", "withdrawing", "15,000", "soldiers", "from", "Germany", ",", "diplomats", "and", "government", "officials", "in", "Europe", "say", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the U.S. troops",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030604.0026-E5-53",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030604.0026-R4",
+  "mentionArg1" : {
+    "extent" : "the U.S. troops",
+    "argMentionid" : "APW_ENG_20030604.0026-E137-52",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030604.0026-R4-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "The idea is for the U.S. troops _ infantry , artillery , light armor and helicopters _ to undergo intense training of 30-90 days , then return to bases in western Europe or the United States , the sources said .",
+  "sentence_index" : 9,
+  "Tokens" : [ "The", "idea", "is", "for", "the", "U.S.", "troops", "_", "infantry", ",", "artillery", ",", "light", "armor", "and", "helicopters", "_", "to", "undergo", "intense", "training", "of", "30-90", "days", ",", "then", "return", "to", "bases", "in", "western", "Europe", "or", "the", "United", "States", ",", "the", "sources", "said", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. troops",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030604.0026-E5-74",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030604.0026-R4",
+  "mentionArg1" : {
+    "extent" : "U.S. troops",
+    "argMentionid" : "APW_ENG_20030604.0026-E137-73",
+    "start" : 17,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030604.0026-R4-3",
+  "relationSubType" : "Employment",
+  "Sentence" : "Defense Secretary Donald H. Rumsfeld and other Pentagon officials have said they are studying how to shift U.S. troops around the world to respond to new threats such as terrorism .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Defense", "Secretary", "Donald", "H.", "Rumsfeld", "and", "other", "Pentagon", "officials", "have", "said", "they", "are", "studying", "how", "to", "shift", "U.S.", "troops", "around", "the", "world", "to", "respond", "to", "new", "threats", "such", "as", "terrorism", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "U.S. troops may soon use Balkans bases for training sites and staging points for possible interventions in the Middle East as the Pentagon weighs withdrawing 15,000 soldiers from Germany, diplomats and government officials in Europe say",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "Germany",
+    "argMentionid" : "APW_ENG_20030604.0026-E96-205",
+    "start" : 34,
+    "end" : 34
+  },
+  "relationID" : "APW_ENG_20030604.0026-R5",
+  "mentionArg1" : {
+    "extent" : "15,000 soldiers",
+    "argMentionid" : "APW_ENG_20030604.0026-E144-204",
+    "start" : 31,
+    "end" : 32
+  },
+  "id" : "APW_ENG_20030604.0026-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "CONSTANTA , Romania ( AP ) U.S. troops may soon use Balkans bases for training sites and staging points for possible interventions in the Middle East as the Pentagon weighs withdrawing 15,000 soldiers from Germany , diplomats and government officials in Europe say .",
+  "sentence_index" : 0,
+  "Tokens" : [ "CONSTANTA", ",", "Romania", "(", "AP", ")", "U.S.", "troops", "may", "soon", "use", "Balkans", "bases", "for", "training", "sites", "and", "staging", "points", "for", "possible", "interventions", "in", "the", "Middle", "East", "as", "the", "Pentagon", "weighs", "withdrawing", "15,000", "soldiers", "from", "Germany", ",", "diplomats", "and", "government", "officials", "in", "Europe", "say", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "diplomats and government officials in Europe",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "Europe",
+    "argMentionid" : "APW_ENG_20030604.0026-E3-2",
+    "start" : 41,
+    "end" : 41
+  },
+  "relationID" : "APW_ENG_20030604.0026-R6",
+  "mentionArg1" : {
+    "extent" : "diplomats and government officials in Europe",
+    "argMentionid" : "APW_ENG_20030604.0026-E147-207",
+    "start" : 36,
+    "end" : 41
+  },
+  "id" : "APW_ENG_20030604.0026-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "CONSTANTA , Romania ( AP ) U.S. troops may soon use Balkans bases for training sites and staging points for possible interventions in the Middle East as the Pentagon weighs withdrawing 15,000 soldiers from Germany , diplomats and government officials in Europe say .",
+  "sentence_index" : 0,
+  "Tokens" : [ "CONSTANTA", ",", "Romania", "(", "AP", ")", "U.S.", "troops", "may", "soon", "use", "Balkans", "bases", "for", "training", "sites", "and", "staging", "points", "for", "possible", "interventions", "in", "the", "Middle", "East", "as", "the", "Pentagon", "weighs", "withdrawing", "15,000", "soldiers", "from", "Germany", ",", "diplomats", "and", "government", "officials", "in", "Europe", "say", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "diplomats and government officials in Europe",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "Europe",
+    "argMentionid" : "APW_ENG_20030604.0026-E3-2",
+    "start" : 41,
+    "end" : 41
+  },
+  "relationID" : "APW_ENG_20030604.0026-R7",
+  "mentionArg1" : {
+    "extent" : "diplomats and government officials in Europe",
+    "argMentionid" : "APW_ENG_20030604.0026-E148-208",
+    "start" : 36,
+    "end" : 41
+  },
+  "id" : "APW_ENG_20030604.0026-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "CONSTANTA , Romania ( AP ) U.S. troops may soon use Balkans bases for training sites and staging points for possible interventions in the Middle East as the Pentagon weighs withdrawing 15,000 soldiers from Germany , diplomats and government officials in Europe say .",
+  "sentence_index" : 0,
+  "Tokens" : [ "CONSTANTA", ",", "Romania", "(", "AP", ")", "U.S.", "troops", "may", "soon", "use", "Balkans", "bases", "for", "training", "sites", "and", "staging", "points", "for", "possible", "interventions", "in", "the", "Middle", "East", "as", "the", "Pentagon", "weighs", "withdrawing", "15,000", "soldiers", "from", "Germany", ",", "diplomats", "and", "government", "officials", "in", "Europe", "say", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "diplomats and government officials in Europe",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "government",
+    "argMentionid" : "APW_ENG_20030604.0026-E2-209",
+    "start" : 38,
+    "end" : 38
+  },
+  "relationID" : "APW_ENG_20030604.0026-R8",
+  "mentionArg1" : {
+    "extent" : "diplomats and government officials in Europe",
+    "argMentionid" : "APW_ENG_20030604.0026-E148-208",
+    "start" : 36,
+    "end" : 41
+  },
+  "id" : "APW_ENG_20030604.0026-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "CONSTANTA , Romania ( AP ) U.S. troops may soon use Balkans bases for training sites and staging points for possible interventions in the Middle East as the Pentagon weighs withdrawing 15,000 soldiers from Germany , diplomats and government officials in Europe say .",
+  "sentence_index" : 0,
+  "Tokens" : [ "CONSTANTA", ",", "Romania", "(", "AP", ")", "U.S.", "troops", "may", "soon", "use", "Balkans", "bases", "for", "training", "sites", "and", "staging", "points", "for", "possible", "interventions", "in", "the", "Middle", "East", "as", "the", "Pentagon", "weighs", "withdrawing", "15,000", "soldiers", "from", "Germany", ",", "diplomats", "and", "government", "officials", "in", "Europe", "say", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "U.S. bases in newly democratic eastern Europe",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "U.S. bases in newly democratic eastern Europe",
+    "argMentionid" : "APW_ENG_20030604.0026-E4-3",
+    "start" : 2,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030604.0026-R9",
+  "mentionArg1" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030604.0026-E5-4",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030604.0026-R9-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Speculation about U.S. bases in newly democratic eastern Europe began months ago with NATO 's decision to expand membership to the former Soviet bloc .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Speculation", "about", "U.S.", "bases", "in", "newly", "democratic", "eastern", "Europe", "began", "months", "ago", "with", "NATO", "'s", "decision", "to", "expand", "membership", "to", "the", "former", "Soviet", "bloc", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "U.S. bases in newly democratic eastern Europe",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "newly democratic eastern Europe",
+    "argMentionid" : "APW_ENG_20030604.0026-E6-5",
+    "start" : 5,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030604.0026-R10",
+  "mentionArg1" : {
+    "extent" : "U.S. bases in newly democratic eastern Europe",
+    "argMentionid" : "APW_ENG_20030604.0026-E4-3",
+    "start" : 2,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030604.0026-R10-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Speculation about U.S. bases in newly democratic eastern Europe began months ago with NATO 's decision to expand membership to the former Soviet bloc .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Speculation", "about", "U.S.", "bases", "in", "newly", "democratic", "eastern", "Europe", "began", "months", "ago", "with", "NATO", "'s", "decision", "to", "expand", "membership", "to", "the", "former", "Soviet", "bloc", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Speculation about U.S. bases in newly democratic eastern Europe began months ago with NATO's decision to expand membership to the former Soviet bloc",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "NATO",
+    "argMentionid" : "APW_ENG_20030604.0026-E7-6",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030604.0026-R11",
+  "mentionArg1" : {
+    "extent" : "the former Soviet bloc",
+    "argMentionid" : "APW_ENG_20030604.0026-E146-203",
+    "start" : 20,
+    "end" : 23
+  },
+  "id" : "APW_ENG_20030604.0026-R11-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Speculation about U.S. bases in newly democratic eastern Europe began months ago with NATO 's decision to expand membership to the former Soviet bloc .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Speculation", "about", "U.S.", "bases", "in", "newly", "democratic", "eastern", "Europe", "began", "months", "ago", "with", "NATO", "'s", "decision", "to", "expand", "membership", "to", "the", "former", "Soviet", "bloc", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "On a recent stop in Bulgaria, which joins next year, Gen. Charles Wald, deputy U.S. Army commander in Europe, said that ``as NATO moves east our presence and our participation will have to be where NATO is",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "Bulgaria, which joins next year",
+    "argMentionid" : "APW_ENG_20030604.0026-E9-9",
+    "start" : 5,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030604.0026-R12",
+  "mentionArg1" : {
+    "extent" : "Gen. Charles Wald",
+    "argMentionid" : "APW_ENG_20030604.0026-E11-12",
+    "start" : 12,
+    "end" : 14
+  },
+  "id" : "APW_ENG_20030604.0026-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "On a recent stop in Bulgaria , which joins next year , Gen. Charles Wald , deputy U.S. Army commander in Europe , said that `` as NATO moves east our presence and our participation will have to be where NATO is . ''",
+  "sentence_index" : 2,
+  "Tokens" : [ "On", "a", "recent", "stop", "in", "Bulgaria", ",", "which", "joins", "next", "year", ",", "Gen.", "Charles", "Wald", ",", "deputy", "U.S.", "Army", "commander", "in", "Europe", ",", "said", "that", "``", "as", "NATO", "moves", "east", "our", "presence", "and", "our", "participation", "will", "have", "to", "be", "where", "NATO", "is", ".", "''" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Balkan bases first used by the Americans during the Iraq war",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "Balkan",
+    "argMentionid" : "APW_ENG_20030604.0026-E17-22",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030604.0026-R13",
+  "mentionArg1" : {
+    "extent" : "Balkan bases first used by the Americans during the Iraq war",
+    "argMentionid" : "APW_ENG_20030604.0026-E16-21",
+    "start" : 1,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030604.0026-R13-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "But Balkan bases first used by the Americans during the Iraq war may get a full-time U.S. presence even before the official NATO expansion , said Western diplomats and local officials , who agreed to discuss the situation on condition of anonymity .",
+  "sentence_index" : 3,
+  "Tokens" : [ "But", "Balkan", "bases", "first", "used", "by", "the", "Americans", "during", "the", "Iraq", "war", "may", "get", "a", "full-time", "U.S.", "presence", "even", "before", "the", "official", "NATO", "expansion", ",", "said", "Western", "diplomats", "and", "local", "officials", ",", "who", "agreed", "to", "discuss", "the", "situation", "on", "condition", "of", "anonymity", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Western diplomats and local officials, who agreed to discuss the situation on condition of anonymity",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "Western",
+    "argMentionid" : "APW_ENG_20030604.0026-E22-29",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "APW_ENG_20030604.0026-R14",
+  "mentionArg1" : {
+    "extent" : "Western diplomats and local officials, who agreed to discuss the situation on condition of anonymity",
+    "argMentionid" : "APW_ENG_20030604.0026-E147-27",
+    "start" : 26,
+    "end" : 41
+  },
+  "id" : "APW_ENG_20030604.0026-R14-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "But Balkan bases first used by the Americans during the Iraq war may get a full-time U.S. presence even before the official NATO expansion , said Western diplomats and local officials , who agreed to discuss the situation on condition of anonymity .",
+  "sentence_index" : 3,
+  "Tokens" : [ "But", "Balkan", "bases", "first", "used", "by", "the", "Americans", "during", "the", "Iraq", "war", "may", "get", "a", "full-time", "U.S.", "presence", "even", "before", "the", "official", "NATO", "expansion", ",", "said", "Western", "diplomats", "and", "local", "officials", ",", "who", "agreed", "to", "discuss", "the", "situation", "on", "condition", "of", "anonymity", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "big Romanian and Bulgarian training grounds",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Romanian",
+    "argMentionid" : "APW_ENG_20030604.0026-E25-31",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030604.0026-R15",
+  "mentionArg1" : {
+    "extent" : "big Romanian and Bulgarian training grounds",
+    "argMentionid" : "APW_ENG_20030604.0026-E24-8",
+    "start" : 7,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030604.0026-R15-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "They said the Pentagon wants to use big Romanian and Bulgarian training grounds in year-round programs that would have up to 3,000 battle-ready U.S. soldiers here at any time .",
+  "sentence_index" : 4,
+  "Tokens" : [ "They", "said", "the", "Pentagon", "wants", "to", "use", "big", "Romanian", "and", "Bulgarian", "training", "grounds", "in", "year-round", "programs", "that", "would", "have", "up", "to", "3,000", "battle-ready", "U.S.", "soldiers", "here", "at", "any", "time", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "big Romanian and Bulgarian training grounds",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Bulgarian",
+    "argMentionid" : "APW_ENG_20030604.0026-E9-32",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030604.0026-R16",
+  "mentionArg1" : {
+    "extent" : "big Romanian and Bulgarian training grounds",
+    "argMentionid" : "APW_ENG_20030604.0026-E24-8",
+    "start" : 7,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030604.0026-R16-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "They said the Pentagon wants to use big Romanian and Bulgarian training grounds in year-round programs that would have up to 3,000 battle-ready U.S. soldiers here at any time .",
+  "sentence_index" : 4,
+  "Tokens" : [ "They", "said", "the", "Pentagon", "wants", "to", "use", "big", "Romanian", "and", "Bulgarian", "training", "grounds", "in", "year-round", "programs", "that", "would", "have", "up", "to", "3,000", "battle-ready", "U.S.", "soldiers", "here", "at", "any", "time", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "up to 3,000 battle-ready U.S. soldiers",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030604.0026-E5-34",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "APW_ENG_20030604.0026-R17",
+  "mentionArg1" : {
+    "extent" : "up to 3,000 battle-ready U.S. soldiers",
+    "argMentionid" : "APW_ENG_20030604.0026-E27-33",
+    "start" : 19,
+    "end" : 24
+  },
+  "id" : "APW_ENG_20030604.0026-R17-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "They said the Pentagon wants to use big Romanian and Bulgarian training grounds in year-round programs that would have up to 3,000 battle-ready U.S. soldiers here at any time .",
+  "sentence_index" : 4,
+  "Tokens" : [ "They", "said", "the", "Pentagon", "wants", "to", "use", "big", "Romanian", "and", "Bulgarian", "training", "grounds", "in", "year-round", "programs", "that", "would", "have", "up", "to", "3,000", "battle-ready", "U.S.", "soldiers", "here", "at", "any", "time", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "They said the Pentagon wants to use big Romanian and Bulgarian training grounds in year-round programs that would have up to 3,000 battle-ready U.S. soldiers here at any time",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "APW_ENG_20030604.0026-E17-194",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "APW_ENG_20030604.0026-R18",
+  "mentionArg1" : {
+    "extent" : "up to 3,000 battle-ready U.S. soldiers",
+    "argMentionid" : "APW_ENG_20030604.0026-E27-33",
+    "start" : 19,
+    "end" : 24
+  },
+  "id" : "APW_ENG_20030604.0026-R18-1",
+  "relationSubType" : "Located",
+  "Sentence" : "They said the Pentagon wants to use big Romanian and Bulgarian training grounds in year-round programs that would have up to 3,000 battle-ready U.S. soldiers here at any time .",
+  "sentence_index" : 4,
+  "Tokens" : [ "They", "said", "the", "Pentagon", "wants", "to", "use", "big", "Romanian", "and", "Bulgarian", "training", "grounds", "in", "year-round", "programs", "that", "would", "have", "up", "to", "3,000", "battle-ready", "U.S.", "soldiers", "here", "at", "any", "time", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "U.S. military",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030604.0026-E5-43",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "APW_ENG_20030604.0026-R19",
+  "mentionArg1" : {
+    "extent" : "U.S. military",
+    "argMentionid" : "APW_ENG_20030604.0026-E10-42",
+    "start" : 25,
+    "end" : 26
+  },
+  "id" : "APW_ENG_20030604.0026-R19-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "None of those who spoke about the possible bases reported any formal agreement , but they indicated the parties were discussing the details of allowing U.S. military bases in the two countries .",
+  "sentence_index" : 6,
+  "Tokens" : [ "None", "of", "those", "who", "spoke", "about", "the", "possible", "bases", "reported", "any", "formal", "agreement", ",", "but", "they", "indicated", "the", "parties", "were", "discussing", "the", "details", "of", "allowing", "U.S.", "military", "bases", "in", "the", "two", "countries", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "U.S. military",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030604.0026-E5-120",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "APW_ENG_20030604.0026-R19",
+  "mentionArg1" : {
+    "extent" : "U.S. military",
+    "argMentionid" : "APW_ENG_20030604.0026-E10-119",
+    "start" : 21,
+    "end" : 22
+  },
+  "id" : "APW_ENG_20030604.0026-R19-2",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "While not directly linked , the idea for Balkans bases and the possible withdrawal of nearly a quarter of the 80,000 U.S. military personnel in Germany appear connected by shifting strategic and political considerations .",
+  "sentence_index" : 17,
+  "Tokens" : [ "While", "not", "directly", "linked", ",", "the", "idea", "for", "Balkans", "bases", "and", "the", "possible", "withdrawal", "of", "nearly", "a", "quarter", "of", "the", "80,000", "U.S.", "military", "personnel", "in", "Germany", "appear", "connected", "by", "shifting", "strategic", "and", "political", "considerations", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "U.S. military bases",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "U.S. military bases",
+    "argMentionid" : "APW_ENG_20030604.0026-E85-118",
+    "start" : 25,
+    "end" : 27
+  },
+  "relationID" : "APW_ENG_20030604.0026-R20",
+  "mentionArg1" : {
+    "extent" : "U.S. military",
+    "argMentionid" : "APW_ENG_20030604.0026-E10-42",
+    "start" : 25,
+    "end" : 26
+  },
+  "id" : "APW_ENG_20030604.0026-R20-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "None of those who spoke about the possible bases reported any formal agreement , but they indicated the parties were discussing the details of allowing U.S. military bases in the two countries .",
+  "sentence_index" : 6,
+  "Tokens" : [ "None", "of", "those", "who", "spoke", "about", "the", "possible", "bases", "reported", "any", "formal", "agreement", ",", "but", "they", "indicated", "the", "parties", "were", "discussing", "the", "details", "of", "allowing", "U.S.", "military", "bases", "in", "the", "two", "countries", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "None of those who spoke about the possible bases reported any formal agreement, but they indicated the parties were discussing the details of allowing U.S. military bases in the two countries",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "the two countries",
+    "argMentionid" : "APW_ENG_20030604.0026-E36-44",
+    "start" : 29,
+    "end" : 31
+  },
+  "relationID" : "APW_ENG_20030604.0026-R21",
+  "mentionArg1" : {
+    "extent" : "U.S. military bases",
+    "argMentionid" : "APW_ENG_20030604.0026-E85-118",
+    "start" : 25,
+    "end" : 27
+  },
+  "id" : "APW_ENG_20030604.0026-R21-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "None of those who spoke about the possible bases reported any formal agreement , but they indicated the parties were discussing the details of allowing U.S. military bases in the two countries .",
+  "sentence_index" : 6,
+  "Tokens" : [ "None", "of", "those", "who", "spoke", "about", "the", "possible", "bases", "reported", "any", "formal", "agreement", ",", "but", "they", "indicated", "the", "parties", "were", "discussing", "the", "details", "of", "allowing", "U.S.", "military", "bases", "in", "the", "two", "countries", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a Pentagon spokesman in Washington",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Pentagon",
+    "argMentionid" : "APW_ENG_20030604.0026-E18-47",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030604.0026-R22",
+  "mentionArg1" : {
+    "extent" : "a Pentagon spokesman in Washington",
+    "argMentionid" : "APW_ENG_20030604.0026-E37-46",
+    "start" : 5,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030604.0026-R22-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Asked about the comments , a Pentagon spokesman in Washington , Lt. Dan Hetlage , said Tuesday that no decisions had been made on using the bases .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Asked", "about", "the", "comments", ",", "a", "Pentagon", "spokesman", "in", "Washington", ",", "Lt.", "Dan", "Hetlage", ",", "said", "Tuesday", "that", "no", "decisions", "had", "been", "made", "on", "using", "the", "bases", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a Pentagon spokesman in Washington",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Washington",
+    "argMentionid" : "APW_ENG_20030604.0026-E39-48",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030604.0026-R23",
+  "mentionArg1" : {
+    "extent" : "a Pentagon spokesman in Washington",
+    "argMentionid" : "APW_ENG_20030604.0026-E37-46",
+    "start" : 5,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030604.0026-R23-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Asked about the comments , a Pentagon spokesman in Washington , Lt. Dan Hetlage , said Tuesday that no decisions had been made on using the bases .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Asked", "about", "the", "comments", ",", "a", "Pentagon", "spokesman", "in", "Washington", ",", "Lt.", "Dan", "Hetlage", ",", "said", "Tuesday", "that", "no", "decisions", "had", "been", "made", "on", "using", "the", "bases", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The idea is for the U.S. troops  _  infantry, artillery, light armor and helicopters  _  to undergo intense training of 30-90 days, then return to bases in western Europe or the United States, the sources said",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "bases in western Europe or the United States",
+    "argMentionid" : "APW_ENG_20030604.0026-E47-58",
+    "start" : 28,
+    "end" : 35
+  },
+  "relationID" : "APW_ENG_20030604.0026-R25",
+  "mentionArg1" : {
+    "extent" : "the U.S. troops",
+    "argMentionid" : "APW_ENG_20030604.0026-E137-52",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030604.0026-R25-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The idea is for the U.S. troops _ infantry , artillery , light armor and helicopters _ to undergo intense training of 30-90 days , then return to bases in western Europe or the United States , the sources said .",
+  "sentence_index" : 9,
+  "Tokens" : [ "The", "idea", "is", "for", "the", "U.S.", "troops", "_", "infantry", ",", "artillery", ",", "light", "armor", "and", "helicopters", "_", "to", "undergo", "intense", "training", "of", "30-90", "days", ",", "then", "return", "to", "bases", "in", "western", "Europe", "or", "the", "United", "States", ",", "the", "sources", "said", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "But the diplomats and officials said the troops would also be ready for quick movement to trouble spots in the Middle East or Central Asia",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "the Middle East",
+    "argMentionid" : "APW_ENG_20030604.0026-E143-66",
+    "start" : 19,
+    "end" : 21
+  },
+  "relationID" : "APW_ENG_20030604.0026-R26",
+  "mentionArg1" : {
+    "extent" : "the troops",
+    "argMentionid" : "APW_ENG_20030604.0026-E137-64",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030604.0026-R26-1",
+  "relationSubType" : "Located",
+  "Sentence" : "But the diplomats and officials said the troops would also be ready for quick movement to trouble spots in the Middle East or Central Asia .",
+  "sentence_index" : 10,
+  "Tokens" : [ "But", "the", "diplomats", "and", "officials", "said", "the", "troops", "would", "also", "be", "ready", "for", "quick", "movement", "to", "trouble", "spots", "in", "the", "Middle", "East", "or", "Central", "Asia", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "But the diplomats and officials said the troops would also be ready for quick movement to trouble spots in the Middle East or Central Asia",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Central Asia",
+    "argMentionid" : "APW_ENG_20030604.0026-E49-67",
+    "start" : 23,
+    "end" : 24
+  },
+  "relationID" : "APW_ENG_20030604.0026-R27",
+  "mentionArg1" : {
+    "extent" : "the troops",
+    "argMentionid" : "APW_ENG_20030604.0026-E137-64",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030604.0026-R27-1",
+  "relationSubType" : "Located",
+  "Sentence" : "But the diplomats and officials said the troops would also be ready for quick movement to trouble spots in the Middle East or Central Asia .",
+  "sentence_index" : 10,
+  "Tokens" : [ "But", "the", "diplomats", "and", "officials", "said", "the", "troops", "would", "also", "be", "ready", "for", "quick", "movement", "to", "trouble", "spots", "in", "the", "Middle", "East", "or", "Central", "Asia", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "other Pentagon officials",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Pentagon",
+    "argMentionid" : "APW_ENG_20030604.0026-E18-71",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030604.0026-R28",
+  "mentionArg1" : {
+    "extent" : "other Pentagon officials",
+    "argMentionid" : "APW_ENG_20030604.0026-E52-70",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030604.0026-R28-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Defense Secretary Donald H. Rumsfeld and other Pentagon officials have said they are studying how to shift U.S. troops around the world to respond to new threats such as terrorism .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Defense", "Secretary", "Donald", "H.", "Rumsfeld", "and", "other", "Pentagon", "officials", "have", "said", "they", "are", "studying", "how", "to", "shift", "U.S.", "troops", "around", "the", "world", "to", "respond", "to", "new", "threats", "such", "as", "terrorism", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Romanian Defense Minister",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "Romanian",
+    "argMentionid" : "APW_ENG_20030604.0026-E25-82",
+    "start" : 34,
+    "end" : 34
+  },
+  "relationID" : "APW_ENG_20030604.0026-R30",
+  "mentionArg1" : {
+    "extent" : "Defense Minister",
+    "argMentionid" : "APW_ENG_20030604.0026-E57-81",
+    "start" : 35,
+    "end" : 36
+  },
+  "id" : "APW_ENG_20030604.0026-R30-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "`` This is probably the closest point in Europe to the sort of threat which is centered in the areas of Central Asia , ( or ) the ( Persian ) Gulf , '' Romanian Defense Minister Ioan Mircea Pascu said in an interview .",
+  "sentence_index" : 12,
+  "Tokens" : [ "``", "This", "is", "probably", "the", "closest", "point", "in", "Europe", "to", "the", "sort", "of", "threat", "which", "is", "centered", "in", "the", "areas", "of", "Central", "Asia", ",", "(", "or", ")", "the", "(", "Persian", ")", "Gulf", ",", "''", "Romanian", "Defense", "Minister", "Ioan", "Mircea", "Pascu", "said", "in", "an", "interview", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Bulgarian Foreign Minister",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "Bulgarian",
+    "argMentionid" : "APW_ENG_20030604.0026-E9-85",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030604.0026-R31",
+  "mentionArg1" : {
+    "extent" : "Foreign Minister",
+    "argMentionid" : "APW_ENG_20030604.0026-E60-84",
+    "start" : 1,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030604.0026-R31-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Bulgarian Foreign Minister Solomon Pasi told The Associated Press that the region also is a good jumping off point for fighting international terrorist groups , `` an enemy hidden somewhere , without a capital , without a face , without a government . ''",
+  "sentence_index" : 13,
+  "Tokens" : [ "Bulgarian", "Foreign", "Minister", "Solomon", "Pasi", "told", "The", "Associated", "Press", "that", "the", "region", "also", "is", "a", "good", "jumping", "off", "point", "for", "fighting", "international", "terrorist", "groups", ",", "``", "an", "enemy", "hidden", "somewhere", ",", "without", "a", "capital", ",", "without", "a", "face", ",", "without", "a", "government", ".", "''" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "international terrorist groups",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "international terrorist groups",
+    "argMentionid" : "APW_ENG_20030604.0026-E64-89",
+    "start" : 21,
+    "end" : 23
+  },
+  "relationID" : "APW_ENG_20030604.0026-R32",
+  "mentionArg1" : {
+    "extent" : "terrorist",
+    "argMentionid" : "APW_ENG_20030604.0026-E135-196",
+    "start" : 22,
+    "end" : 22
+  },
+  "id" : "APW_ENG_20030604.0026-R32-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Bulgarian Foreign Minister Solomon Pasi told The Associated Press that the region also is a good jumping off point for fighting international terrorist groups , `` an enemy hidden somewhere , without a capital , without a face , without a government . ''",
+  "sentence_index" : 13,
+  "Tokens" : [ "Bulgarian", "Foreign", "Minister", "Solomon", "Pasi", "told", "The", "Associated", "Press", "that", "the", "region", "also", "is", "a", "good", "jumping", "off", "point", "for", "fighting", "international", "terrorist", "groups", ",", "``", "an", "enemy", "hidden", "somewhere", ",", "without", "a", "capital", ",", "without", "a", "face", ",", "without", "a", "government", ".", "''" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the Black Sea military port of Mangalia",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "the Black Sea military port of Mangalia",
+    "argMentionid" : "APW_ENG_20030604.0026-E74-103",
+    "start" : 19,
+    "end" : 25
+  },
+  "relationID" : "APW_ENG_20030604.0026-R33",
+  "mentionArg1" : {
+    "extent" : "military",
+    "argMentionid" : "APW_ENG_20030604.0026-E76-106",
+    "start" : 22,
+    "end" : 22
+  },
+  "id" : "APW_ENG_20030604.0026-R33-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "In Romania , the Americans are interested in the Mihail Kogalniceanu air base , the Babadag training range and the Black Sea military port of Mangalia .",
+  "sentence_index" : 14,
+  "Tokens" : [ "In", "Romania", ",", "the", "Americans", "are", "interested", "in", "the", "Mihail", "Kogalniceanu", "air", "base", ",", "the", "Babadag", "training", "range", "and", "the", "Black", "Sea", "military", "port", "of", "Mangalia", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the Black Sea military port of Mangalia",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Black Sea",
+    "argMentionid" : "APW_ENG_20030604.0026-E75-104",
+    "start" : 20,
+    "end" : 21
+  },
+  "relationID" : "APW_ENG_20030604.0026-R34",
+  "mentionArg1" : {
+    "extent" : "the Black Sea military port of Mangalia",
+    "argMentionid" : "APW_ENG_20030604.0026-E74-103",
+    "start" : 19,
+    "end" : 25
+  },
+  "id" : "APW_ENG_20030604.0026-R34-1",
+  "relationSubType" : "Near",
+  "Sentence" : "In Romania , the Americans are interested in the Mihail Kogalniceanu air base , the Babadag training range and the Black Sea military port of Mangalia .",
+  "sentence_index" : 14,
+  "Tokens" : [ "In", "Romania", ",", "the", "Americans", "are", "interested", "in", "the", "Mihail", "Kogalniceanu", "air", "base", ",", "the", "Babadag", "training", "range", "and", "the", "Black", "Sea", "military", "port", "of", "Mangalia", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the Sarafovo and Graf Ignatievo military airports",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "the Sarafovo and Graf Ignatievo military airports",
+    "argMentionid" : "APW_ENG_20030604.0026-E78-108",
+    "start" : 10,
+    "end" : 16
+  },
+  "relationID" : "APW_ENG_20030604.0026-R35",
+  "mentionArg1" : {
+    "extent" : "military",
+    "argMentionid" : "APW_ENG_20030604.0026-E76-197",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "APW_ENG_20030604.0026-R35-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "In Bulgaria , talks are focusing on the use of the Sarafovo and Graf Ignatievo military airports and the Koren and Novo Selo training areas .",
+  "sentence_index" : 15,
+  "Tokens" : [ "In", "Bulgaria", ",", "talks", "are", "focusing", "on", "the", "use", "of", "the", "Sarafovo", "and", "Graf", "Ignatievo", "military", "airports", "and", "the", "Koren", "and", "Novo", "Selo", "training", "areas", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Koren and Novo Selo training areas",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Koren",
+    "argMentionid" : "APW_ENG_20030604.0026-E131-191",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030604.0026-R36",
+  "mentionArg1" : {
+    "extent" : "the Koren and Novo Selo training areas",
+    "argMentionid" : "APW_ENG_20030604.0026-E63-63",
+    "start" : 18,
+    "end" : 24
+  },
+  "id" : "APW_ENG_20030604.0026-R36-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "In Bulgaria , talks are focusing on the use of the Sarafovo and Graf Ignatievo military airports and the Koren and Novo Selo training areas .",
+  "sentence_index" : 15,
+  "Tokens" : [ "In", "Bulgaria", ",", "talks", "are", "focusing", "on", "the", "use", "of", "the", "Sarafovo", "and", "Graf", "Ignatievo", "military", "airports", "and", "the", "Koren", "and", "Novo", "Selo", "training", "areas", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Koren and Novo Selo training areas",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Novo Selo",
+    "argMentionid" : "APW_ENG_20030604.0026-E132-192",
+    "start" : 21,
+    "end" : 22
+  },
+  "relationID" : "APW_ENG_20030604.0026-R37",
+  "mentionArg1" : {
+    "extent" : "the Koren and Novo Selo training areas",
+    "argMentionid" : "APW_ENG_20030604.0026-E63-63",
+    "start" : 18,
+    "end" : 24
+  },
+  "id" : "APW_ENG_20030604.0026-R37-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "In Bulgaria , talks are focusing on the use of the Sarafovo and Graf Ignatievo military airports and the Koren and Novo Selo training areas .",
+  "sentence_index" : 15,
+  "Tokens" : [ "In", "Bulgaria", ",", "talks", "are", "focusing", "on", "the", "use", "of", "the", "Sarafovo", "and", "Graf", "Ignatievo", "military", "airports", "and", "the", "Koren", "and", "Novo", "Selo", "training", "areas", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Sarafovo and Graf Ignatievo military airports",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Graf Ignatievo",
+    "argMentionid" : "APW_ENG_20030604.0026-E81-110",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030604.0026-R38",
+  "mentionArg1" : {
+    "extent" : "the Sarafovo and Graf Ignatievo military airports",
+    "argMentionid" : "APW_ENG_20030604.0026-E78-108",
+    "start" : 10,
+    "end" : 16
+  },
+  "id" : "APW_ENG_20030604.0026-R38-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "In Bulgaria , talks are focusing on the use of the Sarafovo and Graf Ignatievo military airports and the Koren and Novo Selo training areas .",
+  "sentence_index" : 15,
+  "Tokens" : [ "In", "Bulgaria", ",", "talks", "are", "focusing", "on", "the", "use", "of", "the", "Sarafovo", "and", "Graf", "Ignatievo", "military", "airports", "and", "the", "Koren", "and", "Novo", "Selo", "training", "areas", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Sarafovo and Graf Ignatievo military airports",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Sarafovo",
+    "argMentionid" : "APW_ENG_20030604.0026-E80-109",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030604.0026-R39",
+  "mentionArg1" : {
+    "extent" : "the Sarafovo and Graf Ignatievo military airports",
+    "argMentionid" : "APW_ENG_20030604.0026-E78-108",
+    "start" : 10,
+    "end" : 16
+  },
+  "id" : "APW_ENG_20030604.0026-R39-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "In Bulgaria , talks are focusing on the use of the Sarafovo and Graf Ignatievo military airports and the Koren and Novo Selo training areas .",
+  "sentence_index" : 15,
+  "Tokens" : [ "In", "Bulgaria", ",", "talks", "are", "focusing", "on", "the", "use", "of", "the", "Sarafovo", "and", "Graf", "Ignatievo", "military", "airports", "and", "the", "Koren", "and", "Novo", "Selo", "training", "areas", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a spokesman for U.S. European Command in Stuttgart, Germany",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "U.S. European Command in Stuttgart, Germany",
+    "argMentionid" : "APW_ENG_20030604.0026-E71-99",
+    "start" : 8,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030604.0026-R40",
+  "mentionArg1" : {
+    "extent" : "a spokesman for U.S. European Command in Stuttgart, Germany",
+    "argMentionid" : "APW_ENG_20030604.0026-E67-98",
+    "start" : 5,
+    "end" : 14
+  },
+  "id" : "APW_ENG_20030604.0026-R40-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Lt. Cmdr Rick Haupt , a spokesman for U.S. European Command in Stuttgart , Germany , said consideration of the Balkans for training was part of Rumsfeld 's `` larger vision to transform the military into a more agile force . ''",
+  "sentence_index" : 16,
+  "Tokens" : [ "Lt.", "Cmdr", "Rick", "Haupt", ",", "a", "spokesman", "for", "U.S.", "European", "Command", "in", "Stuttgart", ",", "Germany", ",", "said", "consideration", "of", "the", "Balkans", "for", "training", "was", "part", "of", "Rumsfeld", "'s", "``", "larger", "vision", "to", "transform", "the", "military", "into", "a", "more", "agile", "force", ".", "''" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "U.S. European Command in Stuttgart, Germany",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Stuttgart, Germany",
+    "argMentionid" : "APW_ENG_20030604.0026-E79-105",
+    "start" : 12,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030604.0026-R41",
+  "mentionArg1" : {
+    "extent" : "U.S. European Command in Stuttgart, Germany",
+    "argMentionid" : "APW_ENG_20030604.0026-E71-99",
+    "start" : 8,
+    "end" : 14
+  },
+  "id" : "APW_ENG_20030604.0026-R41-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Lt. Cmdr Rick Haupt , a spokesman for U.S. European Command in Stuttgart , Germany , said consideration of the Balkans for training was part of Rumsfeld 's `` larger vision to transform the military into a more agile force . ''",
+  "sentence_index" : 16,
+  "Tokens" : [ "Lt.", "Cmdr", "Rick", "Haupt", ",", "a", "spokesman", "for", "U.S.", "European", "Command", "in", "Stuttgart", ",", "Germany", ",", "said", "consideration", "of", "the", "Balkans", "for", "training", "was", "part", "of", "Rumsfeld", "'s", "``", "larger", "vision", "to", "transform", "the", "military", "into", "a", "more", "agile", "force", ".", "''" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Stuttgart, Germany",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Germany",
+    "argMentionid" : "APW_ENG_20030604.0026-E96-111",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "APW_ENG_20030604.0026-R42",
+  "mentionArg1" : {
+    "extent" : "Stuttgart, Germany",
+    "argMentionid" : "APW_ENG_20030604.0026-E79-105",
+    "start" : 12,
+    "end" : 14
+  },
+  "id" : "APW_ENG_20030604.0026-R42-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Lt. Cmdr Rick Haupt , a spokesman for U.S. European Command in Stuttgart , Germany , said consideration of the Balkans for training was part of Rumsfeld 's `` larger vision to transform the military into a more agile force . ''",
+  "sentence_index" : 16,
+  "Tokens" : [ "Lt.", "Cmdr", "Rick", "Haupt", ",", "a", "spokesman", "for", "U.S.", "European", "Command", "in", "Stuttgart", ",", "Germany", ",", "said", "consideration", "of", "the", "Balkans", "for", "training", "was", "part", "of", "Rumsfeld", "'s", "``", "larger", "vision", "to", "transform", "the", "military", "into", "a", "more", "agile", "force", ".", "''" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "nearly a quarter of the 80,000 U.S. military personnel in Germany",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Germany",
+    "argMentionid" : "APW_ENG_20030604.0026-E96-121",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "APW_ENG_20030604.0026-R43",
+  "mentionArg1" : {
+    "extent" : "nearly a quarter of the 80,000 U.S. military personnel in Germany",
+    "argMentionid" : "APW_ENG_20030604.0026-E88-122",
+    "start" : 15,
+    "end" : 25
+  },
+  "id" : "APW_ENG_20030604.0026-R43-1",
+  "relationSubType" : "Located",
+  "Sentence" : "While not directly linked , the idea for Balkans bases and the possible withdrawal of nearly a quarter of the 80,000 U.S. military personnel in Germany appear connected by shifting strategic and political considerations .",
+  "sentence_index" : 17,
+  "Tokens" : [ "While", "not", "directly", "linked", ",", "the", "idea", "for", "Balkans", "bases", "and", "the", "possible", "withdrawal", "of", "nearly", "a", "quarter", "of", "the", "80,000", "U.S.", "military", "personnel", "in", "Germany", "appear", "connected", "by", "shifting", "strategic", "and", "political", "considerations", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. forces",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030604.0026-E5-123",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030604.0026-R44",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "APW_ENG_20030604.0026-E101-146",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030604.0026-R44-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "U.S. forces were reduced after the Cold War ended , and further cuts in central and western Europe make economic and strategic sense .",
+  "sentence_index" : 18,
+  "Tokens" : [ "U.S.", "forces", "were", "reduced", "after", "the", "Cold", "War", "ended", ",", "and", "further", "cuts", "in", "central", "and", "western", "Europe", "make", "economic", "and", "strategic", "sense", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. officials speaking on the record",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030604.0026-E5-124",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030604.0026-R45",
+  "mentionArg1" : {
+    "extent" : "U.S. officials speaking on the record",
+    "argMentionid" : "APW_ENG_20030604.0026-E105-152",
+    "start" : 0,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030604.0026-R45-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "U.S. officials speaking on the record deny there are firm plans to pull troops from Germany .",
+  "sentence_index" : 20,
+  "Tokens" : [ "U.S.", "officials", "speaking", "on", "the", "record", "deny", "there", "are", "firm", "plans", "to", "pull", "troops", "from", "Germany", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "U.S. officials speaking on the record deny there are firm plans to pull troops from Germany",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Germany",
+    "argMentionid" : "APW_ENG_20030604.0026-E96-131",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030604.0026-R46",
+  "mentionArg1" : {
+    "extent" : "troops",
+    "argMentionid" : "APW_ENG_20030604.0026-E106-153",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030604.0026-R46-1",
+  "relationSubType" : "Located",
+  "Sentence" : "U.S. officials speaking on the record deny there are firm plans to pull troops from Germany .",
+  "sentence_index" : 20,
+  "Tokens" : [ "U.S.", "officials", "speaking", "on", "the", "record", "deny", "there", "are", "firm", "plans", "to", "pull", "troops", "from", "Germany", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "A ranking diplomat with deep knowledge of U.S. plans said he knew of no firm time frame, but ``a lot of them will be going home",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "home",
+    "argMentionid" : "APW_ENG_20030604.0026-E5-137",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "APW_ENG_20030604.0026-R47",
+  "mentionArg1" : {
+    "extent" : "a lot of them",
+    "argMentionid" : "APW_ENG_20030604.0026-E110-159",
+    "start" : 20,
+    "end" : 23
+  },
+  "id" : "APW_ENG_20030604.0026-R47-1",
+  "relationSubType" : "Located",
+  "Sentence" : "A ranking diplomat with deep knowledge of U.S. plans said he knew of no firm time frame , but `` a lot of them will be going home . ''",
+  "sentence_index" : 22,
+  "Tokens" : [ "A", "ranking", "diplomat", "with", "deep", "knowledge", "of", "U.S.", "plans", "said", "he", "knew", "of", "no", "firm", "time", "frame", ",", "but", "``", "a", "lot", "of", "them", "will", "be", "going", "home", ".", "''" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "A senior Romanian official in regular contact with ranking U.S. officials",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Romanian",
+    "argMentionid" : "APW_ENG_20030604.0026-E25-133",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "APW_ENG_20030604.0026-R48",
+  "mentionArg1" : {
+    "extent" : "A senior Romanian official in regular contact with ranking U.S. officials",
+    "argMentionid" : "APW_ENG_20030604.0026-E111-160",
+    "start" : 0,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030604.0026-R48-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "A senior Romanian official in regular contact with ranking U.S. officials said he was told 15,000 Americans would be withdrawn from Germany in the foreseeable future .",
+  "sentence_index" : 23,
+  "Tokens" : [ "A", "senior", "Romanian", "official", "in", "regular", "contact", "with", "ranking", "U.S.", "officials", "said", "he", "was", "told", "15,000", "Americans", "would", "be", "withdrawn", "from", "Germany", "in", "the", "foreseeable", "future", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "ranking U.S. officials",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030604.0026-E5-127",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030604.0026-R49",
+  "mentionArg1" : {
+    "extent" : "ranking U.S. officials",
+    "argMentionid" : "APW_ENG_20030604.0026-E113-164",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030604.0026-R49-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "A senior Romanian official in regular contact with ranking U.S. officials said he was told 15,000 Americans would be withdrawn from Germany in the foreseeable future .",
+  "sentence_index" : 23,
+  "Tokens" : [ "A", "senior", "Romanian", "official", "in", "regular", "contact", "with", "ranking", "U.S.", "officials", "said", "he", "was", "told", "15,000", "Americans", "would", "be", "withdrawn", "from", "Germany", "in", "the", "foreseeable", "future", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "A senior Romanian official in regular contact with ranking U.S. officials said he was told 15,000 Americans would be withdrawn from Germany in the foreseeable future",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Germany",
+    "argMentionid" : "APW_ENG_20030604.0026-E96-132",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "APW_ENG_20030604.0026-R50",
+  "mentionArg1" : {
+    "extent" : "15,000 Americans",
+    "argMentionid" : "APW_ENG_20030604.0026-E112-163",
+    "start" : 15,
+    "end" : 16
+  },
+  "id" : "APW_ENG_20030604.0026-R50-1",
+  "relationSubType" : "Located",
+  "Sentence" : "A senior Romanian official in regular contact with ranking U.S. officials said he was told 15,000 Americans would be withdrawn from Germany in the foreseeable future .",
+  "sentence_index" : 23,
+  "Tokens" : [ "A", "senior", "Romanian", "official", "in", "regular", "contact", "with", "ranking", "U.S.", "officials", "said", "he", "was", "told", "15,000", "Americans", "would", "be", "withdrawn", "from", "Germany", "in", "the", "foreseeable", "future", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Romanian crews",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "Romanian",
+    "argMentionid" : "APW_ENG_20030604.0026-E25-134",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030604.0026-R51",
+  "mentionArg1" : {
+    "extent" : "Romanian crews",
+    "argMentionid" : "APW_ENG_20030604.0026-E114-167",
+    "start" : 12,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030604.0026-R51-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "At the Mihail Kogalniceanu air base , U.S. contracts have paid for Romanian crews to resurface and widen two roads , build a third and improve landing areas to accommodate the Americans ' largest planes .",
+  "sentence_index" : 25,
+  "Tokens" : [ "At", "the", "Mihail", "Kogalniceanu", "air", "base", ",", "U.S.", "contracts", "have", "paid", "for", "Romanian", "crews", "to", "resurface", "and", "widen", "two", "roads", ",", "build", "a", "third", "and", "improve", "landing", "areas", "to", "accommodate", "the", "Americans", "'", "largest", "planes", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "At the Mihail Kogalniceanu air base, U.S. contracts have paid for Romanian crews to resurface and widen two roads, build a third and improve landing areas to accommodate the Americans' largest planes",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "a third",
+    "argMentionid" : "APW_ENG_20030604.0026-E116-169",
+    "start" : 22,
+    "end" : 23
+  },
+  "relationID" : "APW_ENG_20030604.0026-R52",
+  "mentionArg1" : {
+    "extent" : "Romanian crews",
+    "argMentionid" : "APW_ENG_20030604.0026-E114-167",
+    "start" : 12,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030604.0026-R52-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "At the Mihail Kogalniceanu air base , U.S. contracts have paid for Romanian crews to resurface and widen two roads , build a third and improve landing areas to accommodate the Americans ' largest planes .",
+  "sentence_index" : 25,
+  "Tokens" : [ "At", "the", "Mihail", "Kogalniceanu", "air", "base", ",", "U.S.", "contracts", "have", "paid", "for", "Romanian", "crews", "to", "resurface", "and", "widen", "two", "roads", ",", "build", "a", "third", "and", "improve", "landing", "areas", "to", "accommodate", "the", "Americans", "'", "largest", "planes", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the Americans' largest planes",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "the Americans' largest planes",
+    "argMentionid" : "APW_ENG_20030604.0026-E117-170",
+    "start" : 30,
+    "end" : 34
+  },
+  "relationID" : "APW_ENG_20030604.0026-R53",
+  "mentionArg1" : {
+    "extent" : "the Americans",
+    "argMentionid" : "APW_ENG_20030604.0026-E14-148",
+    "start" : 30,
+    "end" : 31
+  },
+  "id" : "APW_ENG_20030604.0026-R53-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "At the Mihail Kogalniceanu air base , U.S. contracts have paid for Romanian crews to resurface and widen two roads , build a third and improve landing areas to accommodate the Americans ' largest planes .",
+  "sentence_index" : 25,
+  "Tokens" : [ "At", "the", "Mihail", "Kogalniceanu", "air", "base", ",", "U.S.", "contracts", "have", "paid", "for", "Romanian", "crews", "to", "resurface", "and", "widen", "two", "roads", ",", "build", "a", "third", "and", "improve", "landing", "areas", "to", "accommodate", "the", "Americans", "'", "largest", "planes", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Romanian commander of the base",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Romanian",
+    "argMentionid" : "APW_ENG_20030604.0026-E25-135",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "APW_ENG_20030604.0026-R54",
+  "mentionArg1" : {
+    "extent" : "the Romanian commander of the base",
+    "argMentionid" : "APW_ENG_20030604.0026-E121-177",
+    "start" : 24,
+    "end" : 29
+  },
+  "id" : "APW_ENG_20030604.0026-R54-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Existing accommodations for up to 6,000 service personnel also have been upgraded with central heating and other amenities , said Col. Victor Luchian , the Romanian commander of the base .",
+  "sentence_index" : 26,
+  "Tokens" : [ "Existing", "accommodations", "for", "up", "to", "6,000", "service", "personnel", "also", "have", "been", "upgraded", "with", "central", "heating", "and", "other", "amenities", ",", "said", "Col.", "Victor", "Luchian", ",", "the", "Romanian", "commander", "of", "the", "base", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "About 3,000 Americans, including special operations units, were at the base during the Iraq war, flying troops and weapons directly to the front",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "the base",
+    "argMentionid" : "APW_ENG_20030604.0026-E69-140",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030604.0026-R55",
+  "mentionArg1" : {
+    "extent" : "About 3,000 Americans, including special operations units",
+    "argMentionid" : "APW_ENG_20030604.0026-E124-178",
+    "start" : 0,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030604.0026-R55-1",
+  "relationSubType" : "Located",
+  "Sentence" : "About 3,000 Americans , including special operations units , were at the base during the Iraq war , flying troops and weapons directly to the front .",
+  "sentence_index" : 27,
+  "Tokens" : [ "About", "3,000", "Americans", ",", "including", "special", "operations", "units", ",", "were", "at", "the", "base", "during", "the", "Iraq", "war", ",", "flying", "troops", "and", "weapons", "directly", "to", "the", "front", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "But Balkan bases first used by the Americans during the Iraq war may get a full-time U.S. presence even before the official NATO expansion, said Western diplomats and local officials, who agreed to discuss the situation on condition of anonymity",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "Balkan bases first used by the Americans during the Iraq war",
+    "argMentionid" : "APW_ENG_20030604.0026-E16-21",
+    "start" : 1,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030604.0026-R56",
+  "mentionArg1" : {
+    "extent" : "the Americans",
+    "argMentionid" : "APW_ENG_20030604.0026-E14-23",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030604.0026-R56-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "But Balkan bases first used by the Americans during the Iraq war may get a full-time U.S. presence even before the official NATO expansion , said Western diplomats and local officials , who agreed to discuss the situation on condition of anonymity .",
+  "sentence_index" : 3,
+  "Tokens" : [ "But", "Balkan", "bases", "first", "used", "by", "the", "Americans", "during", "the", "Iraq", "war", "may", "get", "a", "full-time", "U.S.", "presence", "even", "before", "the", "official", "NATO", "expansion", ",", "said", "Western", "diplomats", "and", "local", "officials", ",", "who", "agreed", "to", "discuss", "the", "situation", "on", "condition", "of", "anonymity", "." ]
+} ]

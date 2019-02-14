@@ -1,0 +1,89 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "the host of its highest-rated show",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "its",
+    "argMentionid" : "CNN_CF_20030305.1900.00-2-E18-74",
+    "start" : 34,
+    "end" : 34
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-2-R1",
+  "mentionArg1" : {
+    "extent" : "the host of its highest-rated show",
+    "argMentionid" : "CNN_CF_20030305.1900.00-2-E4-73",
+    "start" : 31,
+    "end" : 36
+  },
+  "id" : "CNN_CF_20030305.1900.00-2-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "BEGALA Well , those of you who still believe the myth of the liberal media should consider this : MSNBC , an obscure cable channel , has fired Phil Donahue , the host of its highest-rated show .",
+  "sentence_index" : 0,
+  "Tokens" : [ "BEGALA", "Well", ",", "those", "of", "you", "who", "still", "believe", "the", "myth", "of", "the", "liberal", "media", "should", "consider", "this", ":", "MSNBC", ",", "an", "obscure", "cable", "channel", ",", "has", "fired", "Phil", "Donahue", ",", "the", "host", "of", "its", "highest-rated", "show", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a division of the conglomerate GE, where they apparently only bring right wing things to life",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "the conglomerate",
+    "argMentionid" : "CNN_CF_20030305.1900.00-2-E7-18",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-2-R2",
+  "mentionArg1" : {
+    "extent" : "a division of the conglomerate GE, where they apparently only bring right wing things to life",
+    "argMentionid" : "CNN_CF_20030305.1900.00-2-E6-14",
+    "start" : 6,
+    "end" : 22
+  },
+  "id" : "CNN_CF_20030305.1900.00-2-R2-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "NBC , of course , is a division of the conglomerate GE , where they apparently only bring right wing things to life .",
+  "sentence_index" : 5,
+  "Tokens" : [ "NBC", ",", "of", "course", ",", "is", "a", "division", "of", "the", "conglomerate", "GE", ",", "where", "they", "apparently", "only", "bring", "right", "wing", "things", "to", "life", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I used to work there",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "CNN_CF_20030305.1900.00-2-E18-44",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-2-R3",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "CNN_CF_20030305.1900.00-2-E10-43",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "CNN_CF_20030305.1900.00-2-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "BEGALA I used to work there .",
+  "sentence_index" : 16,
+  "Tokens" : [ "BEGALA", "I", "used", "to", "work", "there", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "NBC big wigs",
+  "sentence_length" : 90,
+  "mentionArg2" : {
+    "extent" : "NBC",
+    "argMentionid" : "CNN_CF_20030305.1900.00-2-E6-78",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-2-R4",
+  "mentionArg1" : {
+    "extent" : "NBC big wigs",
+    "argMentionid" : "CNN_CF_20030305.1900.00-2-E28-77",
+    "start" : 25,
+    "end" : 27
+  },
+  "id" : "CNN_CF_20030305.1900.00-2-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "A memo from inside NBC , reported on the Web site allyourtv . com , and today in \" The Washington Post , \" shows NBC big wigs feared that the liberal Mr. Donahue represented in the words of the NBC memo -- quote -- \" a difficult public face for NBC at a time of war , while our competitors are waving the flag at every opportunity because he seems to delight in presenting guests who are anti-war , anti-Bush and skeptical of the administration 's motives . \"",
+  "sentence_index" : 1,
+  "Tokens" : [ "A", "memo", "from", "inside", "NBC", ",", "reported", "on", "the", "Web", "site", "allyourtv", ".", "com", ",", "and", "today", "in", "\"", "The", "Washington", "Post", ",", "\"", "shows", "NBC", "big", "wigs", "feared", "that", "the", "liberal", "Mr.", "Donahue", "represented", "in", "the", "words", "of", "the", "NBC", "memo", "--", "quote", "--", "\"", "a", "difficult", "public", "face", "for", "NBC", "at", "a", "time", "of", "war", ",", "while", "our", "competitors", "are", "waving", "the", "flag", "at", "every", "opportunity", "because", "he", "seems", "to", "delight", "in", "presenting", "guests", "who", "are", "anti-war", ",", "anti-Bush", "and", "skeptical", "of", "the", "administration", "'s", "motives", ".", "\"" ]
+} ]

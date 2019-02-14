@@ -1,0 +1,375 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the cockpits of seven airplanes in flight",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "seven airplanes in flight",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E3-2",
+    "start" : 23,
+    "end" : 26
+  },
+  "relationID" : "FLOPPINGACES_20041230.1844.003-R1",
+  "mentionArg1" : {
+    "extent" : "the cockpits of seven airplanes in flight",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E2-1",
+    "start" : 20,
+    "end" : 26
+  },
+  "id" : "FLOPPINGACES_20041230.1844.003-R1-1",
+  "relationSubType" : "Artifact",
+  "Sentence" : "The FBI , concerned that terrorists could use lasers as weapons , is investigating why laser beams were directed into the cockpits of seven airplanes in flight since Christmas .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "FBI", ",", "concerned", "that", "terrorists", "could", "use", "lasers", "as", "weapons", ",", "is", "investigating", "why", "laser", "beams", "were", "directed", "into", "the", "cockpits", "of", "seven", "airplanes", "in", "flight", "since", "Christmas", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Colorado Springs, Colo",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "Colo",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E10-11",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "FLOPPINGACES_20041230.1844.003-R2",
+  "mentionArg1" : {
+    "extent" : "Colorado Springs, Colo",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E8-9",
+    "start" : 8,
+    "end" : 11
+  },
+  "id" : "FLOPPINGACES_20041230.1844.003-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The FBI is looking into two incidents in Colorado Springs , Colo. , and one each in Cleveland , Washington , Houston , Teterboro , N.J. , and Medford , Ore. , according to federal and local law enforcement and transportation officials , some of whom spoke only on condition of anonymity .",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "FBI", "is", "looking", "into", "two", "incidents", "in", "Colorado", "Springs", ",", "Colo.", ",", "and", "one", "each", "in", "Cleveland", ",", "Washington", ",", "Houston", ",", "Teterboro", ",", "N.J.", ",", "and", "Medford", ",", "Ore.", ",", "according", "to", "federal", "and", "local", "law", "enforcement", "and", "transportation", "officials", ",", "some", "of", "whom", "spoke", "only", "on", "condition", "of", "anonymity", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Teterboro, N.J",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "N.J",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E15-16",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "FLOPPINGACES_20041230.1844.003-R3",
+  "mentionArg1" : {
+    "extent" : "Teterboro, N.J",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E14-15",
+    "start" : 23,
+    "end" : 25
+  },
+  "id" : "FLOPPINGACES_20041230.1844.003-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The FBI is looking into two incidents in Colorado Springs , Colo. , and one each in Cleveland , Washington , Houston , Teterboro , N.J. , and Medford , Ore. , according to federal and local law enforcement and transportation officials , some of whom spoke only on condition of anonymity .",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "FBI", "is", "looking", "into", "two", "incidents", "in", "Colorado", "Springs", ",", "Colo.", ",", "and", "one", "each", "in", "Cleveland", ",", "Washington", ",", "Houston", ",", "Teterboro", ",", "N.J.", ",", "and", "Medford", ",", "Ore.", ",", "according", "to", "federal", "and", "local", "law", "enforcement", "and", "transportation", "officials", ",", "some", "of", "whom", "spoke", "only", "on", "condition", "of", "anonymity", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Medford, Ore",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "Ore",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E17-18",
+    "start" : 30,
+    "end" : 30
+  },
+  "relationID" : "FLOPPINGACES_20041230.1844.003-R4",
+  "mentionArg1" : {
+    "extent" : "Medford, Ore",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E16-17",
+    "start" : 28,
+    "end" : 30
+  },
+  "id" : "FLOPPINGACES_20041230.1844.003-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The FBI is looking into two incidents in Colorado Springs , Colo. , and one each in Cleveland , Washington , Houston , Teterboro , N.J. , and Medford , Ore. , according to federal and local law enforcement and transportation officials , some of whom spoke only on condition of anonymity .",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "FBI", "is", "looking", "into", "two", "incidents", "in", "Colorado", "Springs", ",", "Colo.", ",", "and", "one", "each", "in", "Cleveland", ",", "Washington", ",", "Houston", ",", "Teterboro", ",", "N.J.", ",", "and", "Medford", ",", "Ore.", ",", "according", "to", "federal", "and", "local", "law", "enforcement", "and", "transportation", "officials", ",", "some", "of", "whom", "spoke", "only", "on", "condition", "of", "anonymity", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "deputy chairman of the security committee for the Allied Pilots Association",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "the Allied Pilots Association",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E32-41",
+    "start" : 24,
+    "end" : 27
+  },
+  "relationID" : "FLOPPINGACES_20041230.1844.003-R5",
+  "mentionArg1" : {
+    "extent" : "deputy chairman of the security committee for the Allied Pilots Association",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E28-39",
+    "start" : 17,
+    "end" : 27
+  },
+  "id" : "FLOPPINGACES_20041230.1844.003-R5-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "\" It 's not some kid , \" said Paul Rancatore , a pilot who serves as deputy chairman of the security committee for the Allied Pilots Association .",
+  "sentence_index" : 7,
+  "Tokens" : [ "\"", "It", "'s", "not", "some", "kid", ",", "\"", "said", "Paul", "Rancatore", ",", "a", "pilot", "who", "serves", "as", "deputy", "chairman", "of", "the", "security", "committee", "for", "the", "Allied", "Pilots", "Association", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the security committee for the Allied Pilots Association",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "the Allied Pilots Association",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E32-41",
+    "start" : 24,
+    "end" : 27
+  },
+  "relationID" : "FLOPPINGACES_20041230.1844.003-R6",
+  "mentionArg1" : {
+    "extent" : "the security committee for the Allied Pilots Association",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E31-40",
+    "start" : 20,
+    "end" : 27
+  },
+  "id" : "FLOPPINGACES_20041230.1844.003-R6-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "\" It 's not some kid , \" said Paul Rancatore , a pilot who serves as deputy chairman of the security committee for the Allied Pilots Association .",
+  "sentence_index" : 7,
+  "Tokens" : [ "\"", "It", "'s", "not", "some", "kid", ",", "\"", "said", "Paul", "Rancatore", ",", "a", "pilot", "who", "serves", "as", "deputy", "chairman", "of", "the", "security", "committee", "for", "the", "Allied", "Pilots", "Association", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "who teaches military technology at Georgetown University",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Georgetown University",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E34-44",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "FLOPPINGACES_20041230.1844.003-R7",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E33-43",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "FLOPPINGACES_20041230.1844.003-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Loren Thompson , who teaches military technology at Georgetown University , called it a \" rather worrisome development , \" though he said experts would be more puzzled than alarmed .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Loren", "Thompson", ",", "who", "teaches", "military", "technology", "at", "Georgetown", "University", ",", "called", "it", "a", "\"", "rather", "worrisome", "development", ",", "\"", "though", "he", "said", "experts", "would", "be", "more", "puzzled", "than", "alarmed", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a military surplus store",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "a military surplus store",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E40-52",
+    "start" : 12,
+    "end" : 15
+  },
+  "relationID" : "FLOPPINGACES_20041230.1844.003-R8",
+  "mentionArg1" : {
+    "extent" : "military",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E41-53",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "FLOPPINGACES_20041230.1844.003-R8-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "\" That 's not the sort of thing you pick up at a military surplus store . \"",
+  "sentence_index" : 11,
+  "Tokens" : [ "\"", "That", "'s", "not", "the", "sort", "of", "thing", "you", "pick", "up", "at", "a", "military", "surplus", "store", ".", "\"" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "This Isn't Writing, It's Typing has a great post out with a ton of info, some of it quite scary A more frightening scenario is that terrorists may have obtained a Chinese-produced ZM-87 laser blinder which is specifically designed to blind eyesight",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "a Chinese-produced ZM-87 laser blinder which is specifically designed to blind eyesight",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E53-72",
+    "start" : 34,
+    "end" : 45
+  },
+  "relationID" : "FLOPPINGACES_20041230.1844.003-R9",
+  "mentionArg1" : {
+    "extent" : "terrorists",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E52-71",
+    "start" : 30,
+    "end" : 30
+  },
+  "id" : "FLOPPINGACES_20041230.1844.003-R9-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "This Is n't Writing , It 's Typing has a great post out with a ton of info , some of it quite scary A more frightening scenario is that terrorists may have obtained a Chinese-produced ZM-87 laser blinder which is specifically designed to blind eyesight .",
+  "sentence_index" : 19,
+  "Tokens" : [ "This", "Is", "n't", "Writing", ",", "It", "'s", "Typing", "has", "a", "great", "post", "out", "with", "a", "ton", "of", "info", ",", "some", "of", "it", "quite", "scary", "A", "more", "frightening", "scenario", "is", "that", "terrorists", "may", "have", "obtained", "a", "Chinese-produced", "ZM-87", "laser", "blinder", "which", "is", "specifically", "designed", "to", "blind", "eyesight", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a Chinese-produced ZM-87 laser blinder which is specifically designed to blind eyesight",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "a Chinese-produced ZM-87 laser blinder which is specifically designed to blind eyesight",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E53-72",
+    "start" : 34,
+    "end" : 45
+  },
+  "relationID" : "FLOPPINGACES_20041230.1844.003-R10",
+  "mentionArg1" : {
+    "extent" : "Chinese",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E55-74",
+    "start" : 35,
+    "end" : 35
+  },
+  "id" : "FLOPPINGACES_20041230.1844.003-R10-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "This Is n't Writing , It 's Typing has a great post out with a ton of info , some of it quite scary A more frightening scenario is that terrorists may have obtained a Chinese-produced ZM-87 laser blinder which is specifically designed to blind eyesight .",
+  "sentence_index" : 19,
+  "Tokens" : [ "This", "Is", "n't", "Writing", ",", "It", "'s", "Typing", "has", "a", "great", "post", "out", "with", "a", "ton", "of", "info", ",", "some", "of", "it", "quite", "scary", "A", "more", "frightening", "scenario", "is", "that", "terrorists", "may", "have", "obtained", "a", "Chinese-produced", "ZM-87", "laser", "blinder", "which", "is", "specifically", "designed", "to", "blind", "eyesight", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "The Japanese terrorist cult Aum Shinrikyo--which launched the infamous Sarin gas attack on the Tokyo subway system in 1995",
+  "sentence_length" : 59,
+  "mentionArg2" : {
+    "extent" : "Japanese",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E58-77",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "FLOPPINGACES_20041230.1844.003-R11",
+  "mentionArg1" : {
+    "extent" : "The Japanese terrorist cult Aum Shinrikyo--which launched the infamous Sarin gas attack on the Tokyo subway system in 1995",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E56-129",
+    "start" : 0,
+    "end" : 18
+  },
+  "id" : "FLOPPINGACES_20041230.1844.003-R11-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "The Japanese terrorist cult Aum Shinrikyo--which launched the infamous Sarin gas attack on the Tokyo subway system in 1995--was discovered to have experimented with the use of lasers as weapons.According to The Asian Pacific Post , \" Cult members apparently obtained laser design information from Russian institutes they visited and built a laser weapon mounted on a truck .",
+  "sentence_index" : 20,
+  "Tokens" : [ "The", "Japanese", "terrorist", "cult", "Aum", "Shinrikyo--which", "launched", "the", "infamous", "Sarin", "gas", "attack", "on", "the", "Tokyo", "subway", "system", "in", "1995--was", "discovered", "to", "have", "experimented", "with", "the", "use", "of", "lasers", "as", "weapons.According", "to", "The", "Asian", "Pacific", "Post", ",", "\"", "Cult", "members", "apparently", "obtained", "laser", "design", "information", "from", "Russian", "institutes", "they", "visited", "and", "built", "a", "laser", "weapon", "mounted", "on", "a", "truck", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Tokyo subway",
+  "sentence_length" : 59,
+  "mentionArg2" : {
+    "extent" : "subway",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E61-82",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "FLOPPINGACES_20041230.1844.003-R12",
+  "mentionArg1" : {
+    "extent" : "Tokyo",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E60-81",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "FLOPPINGACES_20041230.1844.003-R12-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The Japanese terrorist cult Aum Shinrikyo--which launched the infamous Sarin gas attack on the Tokyo subway system in 1995--was discovered to have experimented with the use of lasers as weapons.According to The Asian Pacific Post , \" Cult members apparently obtained laser design information from Russian institutes they visited and built a laser weapon mounted on a truck .",
+  "sentence_index" : 20,
+  "Tokens" : [ "The", "Japanese", "terrorist", "cult", "Aum", "Shinrikyo--which", "launched", "the", "infamous", "Sarin", "gas", "attack", "on", "the", "Tokyo", "subway", "system", "in", "1995--was", "discovered", "to", "have", "experimented", "with", "the", "use", "of", "lasers", "as", "weapons.According", "to", "The", "Asian", "Pacific", "Post", ",", "\"", "Cult", "members", "apparently", "obtained", "laser", "design", "information", "from", "Russian", "institutes", "they", "visited", "and", "built", "a", "laser", "weapon", "mounted", "on", "a", "truck", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Cult members",
+  "sentence_length" : 59,
+  "mentionArg2" : {
+    "extent" : "Cult",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E56-86",
+    "start" : 37,
+    "end" : 37
+  },
+  "relationID" : "FLOPPINGACES_20041230.1844.003-R13",
+  "mentionArg1" : {
+    "extent" : "Cult members",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E64-87",
+    "start" : 37,
+    "end" : 38
+  },
+  "id" : "FLOPPINGACES_20041230.1844.003-R13-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "The Japanese terrorist cult Aum Shinrikyo--which launched the infamous Sarin gas attack on the Tokyo subway system in 1995--was discovered to have experimented with the use of lasers as weapons.According to The Asian Pacific Post , \" Cult members apparently obtained laser design information from Russian institutes they visited and built a laser weapon mounted on a truck .",
+  "sentence_index" : 20,
+  "Tokens" : [ "The", "Japanese", "terrorist", "cult", "Aum", "Shinrikyo--which", "launched", "the", "infamous", "Sarin", "gas", "attack", "on", "the", "Tokyo", "subway", "system", "in", "1995--was", "discovered", "to", "have", "experimented", "with", "the", "use", "of", "lasers", "as", "weapons.According", "to", "The", "Asian", "Pacific", "Post", ",", "\"", "Cult", "members", "apparently", "obtained", "laser", "design", "information", "from", "Russian", "institutes", "they", "visited", "and", "built", "a", "laser", "weapon", "mounted", "on", "a", "truck", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Russian institutes they visited",
+  "sentence_length" : 59,
+  "mentionArg2" : {
+    "extent" : "Russian",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E66-89",
+    "start" : 45,
+    "end" : 45
+  },
+  "relationID" : "FLOPPINGACES_20041230.1844.003-R14",
+  "mentionArg1" : {
+    "extent" : "Russian institutes they visited",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E67-90",
+    "start" : 45,
+    "end" : 48
+  },
+  "id" : "FLOPPINGACES_20041230.1844.003-R14-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The Japanese terrorist cult Aum Shinrikyo--which launched the infamous Sarin gas attack on the Tokyo subway system in 1995--was discovered to have experimented with the use of lasers as weapons.According to The Asian Pacific Post , \" Cult members apparently obtained laser design information from Russian institutes they visited and built a laser weapon mounted on a truck .",
+  "sentence_index" : 20,
+  "Tokens" : [ "The", "Japanese", "terrorist", "cult", "Aum", "Shinrikyo--which", "launched", "the", "infamous", "Sarin", "gas", "attack", "on", "the", "Tokyo", "subway", "system", "in", "1995--was", "discovered", "to", "have", "experimented", "with", "the", "use", "of", "lasers", "as", "weapons.According", "to", "The", "Asian", "Pacific", "Post", ",", "\"", "Cult", "members", "apparently", "obtained", "laser", "design", "information", "from", "Russian", "institutes", "they", "visited", "and", "built", "a", "laser", "weapon", "mounted", "on", "a", "truck", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Tokyo policemen",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Tokyo",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E60-98",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "FLOPPINGACES_20041230.1844.003-R15",
+  "mentionArg1" : {
+    "extent" : "Tokyo policemen",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E71-97",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "FLOPPINGACES_20041230.1844.003-R15-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "They had planned to use the laser against Tokyo policemen , but the plan failed when the laser malfunctioned during the testing stage . \"",
+  "sentence_index" : 21,
+  "Tokens" : [ "They", "had", "planned", "to", "use", "the", "laser", "against", "Tokyo", "policemen", ",", "but", "the", "plan", "failed", "when", "the", "laser", "malfunctioned", "during", "the", "testing", "stage", ".", "\"" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "terrorists with shoulder fired surface-to-air missiles (SAMs), referred to as Man-Portable Air Defense Systems (MANPADS",
+  "sentence_length" : 65,
+  "mentionArg2" : {
+    "extent" : "shoulder fired surface-to-air missiles",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E75-106",
+    "start" : 41,
+    "end" : 44
+  },
+  "relationID" : "FLOPPINGACES_20041230.1844.003-R16",
+  "mentionArg1" : {
+    "extent" : "terrorists with shoulder fired surface-to-air missiles (SAMs), referred to as Man-Portable Air Defense Systems (MANPADS",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E21-105",
+    "start" : 39,
+    "end" : 57
+  },
+  "id" : "FLOPPINGACES_20041230.1844.003-R16-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "I found the following report that was presented to Congress recently about the shoulder launched missle threat to airliners , which this might very well be a precursor to : Recent events have focused attention on the threat that terrorists with shoulder fired surface-to-air missiles ( SAMs ) , referred to as Man-Portable Air Defense Systems ( MANPADS ) , pose to commercial airliners .",
+  "sentence_index" : 23,
+  "Tokens" : [ "I", "found", "the", "following", "report", "that", "was", "presented", "to", "Congress", "recently", "about", "the", "shoulder", "launched", "missle", "threat", "to", "airliners", ",", "which", "this", "might", "very", "well", "be", "a", "precursor", "to", ":", "Recent", "events", "have", "focused", "attention", "on", "the", "threat", "that", "terrorists", "with", "shoulder", "fired", "surface-to-air", "missiles", "(", "SAMs", ")", ",", "referred", "to", "as", "Man-Portable", "Air", "Defense", "Systems", "(", "MANPADS", ")", ",", "pose", "to", "commercial", "airliners", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Russian institutes they visited",
+  "sentence_length" : 59,
+  "mentionArg2" : {
+    "extent" : "Russian institutes they visited",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E67-90",
+    "start" : 45,
+    "end" : 48
+  },
+  "relationID" : "FLOPPINGACES_20041230.1844.003-R17",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "FLOPPINGACES_20041230.1844.003-E64-91",
+    "start" : 47,
+    "end" : 47
+  },
+  "id" : "FLOPPINGACES_20041230.1844.003-R17-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The Japanese terrorist cult Aum Shinrikyo--which launched the infamous Sarin gas attack on the Tokyo subway system in 1995--was discovered to have experimented with the use of lasers as weapons.According to The Asian Pacific Post , \" Cult members apparently obtained laser design information from Russian institutes they visited and built a laser weapon mounted on a truck .",
+  "sentence_index" : 20,
+  "Tokens" : [ "The", "Japanese", "terrorist", "cult", "Aum", "Shinrikyo--which", "launched", "the", "infamous", "Sarin", "gas", "attack", "on", "the", "Tokyo", "subway", "system", "in", "1995--was", "discovered", "to", "have", "experimented", "with", "the", "use", "of", "lasers", "as", "weapons.According", "to", "The", "Asian", "Pacific", "Post", ",", "\"", "Cult", "members", "apparently", "obtained", "laser", "design", "information", "from", "Russian", "institutes", "they", "visited", "and", "built", "a", "laser", "weapon", "mounted", "on", "a", "truck", "." ]
+} ]

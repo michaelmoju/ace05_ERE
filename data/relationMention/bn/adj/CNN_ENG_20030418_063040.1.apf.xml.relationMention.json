@@ -1,0 +1,221 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "there is strong speculation that saddam hussein may be his two sons were inside of that building when it was hit by coalition bombs, or may have left prior to the bombing taking place",
+  "sentence_length" : 241,
+  "mentionArg2" : {
+    "extent" : "that building",
+    "argMentionid" : "CNN_ENG_20030418_063040.1-E29-10",
+    "start" : 116,
+    "end" : 117
+  },
+  "relationID" : "CNN_ENG_20030418_063040.1-R1",
+  "mentionArg1" : {
+    "extent" : "saddam hussein",
+    "argMentionid" : "CNN_ENG_20030418_063040.1-E4-7",
+    "start" : 106,
+    "end" : 107
+  },
+  "id" : "CNN_ENG_20030418_063040.1-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "general brooks talking about three major points. one is the capture of number 24 as it 's described , samir who is responsible for the baghdad district , indications are the kurds in the north handed this man over so this is number 4 out of that playing card deck of 55 that the u . s. is after. top leaders in iraq. also that bomb site in baghdad hit about a week and a half ago , the mansour district. no remains identified just yet , general brooks says , but only the initial surveys have been completed so far. there is strong speculation that saddam hussein may be his two sons were inside of that building when it was hit by coalition bombs , or may have left prior to the bombing taking place. again , all this is an outstanding issue right now. in the north , you 're going to hear a lot about the shallow graves today. at least 1500 , maybe 1600 graves located in the north. jane arraf has made her way to that location and we heard her first live report about an hour ago and we will talk with jane again. we know that , quote , work will be done with the iraqis and that work will come , we are told , in the coming days. a wrap from centcom and here is fredricka whitfield at the cnn center .",
+  "sentence_index" : 0,
+  "Tokens" : [ "general", "brooks", "talking", "about", "three", "major", "points.", "one", "is", "the", "capture", "of", "number", "24", "as", "it", "'s", "described", ",", "samir", "who", "is", "responsible", "for", "the", "baghdad", "district", ",", "indications", "are", "the", "kurds", "in", "the", "north", "handed", "this", "man", "over", "so", "this", "is", "number", "4", "out", "of", "that", "playing", "card", "deck", "of", "55", "that", "the", "u", ".", "s.", "is", "after.", "top", "leaders", "in", "iraq.", "also", "that", "bomb", "site", "in", "baghdad", "hit", "about", "a", "week", "and", "a", "half", "ago", ",", "the", "mansour", "district.", "no", "remains", "identified", "just", "yet", ",", "general", "brooks", "says", ",", "but", "only", "the", "initial", "surveys", "have", "been", "completed", "so", "far.", "there", "is", "strong", "speculation", "that", "saddam", "hussein", "may", "be", "his", "two", "sons", "were", "inside", "of", "that", "building", "when", "it", "was", "hit", "by", "coalition", "bombs", ",", "or", "may", "have", "left", "prior", "to", "the", "bombing", "taking", "place.", "again", ",", "all", "this", "is", "an", "outstanding", "issue", "right", "now.", "in", "the", "north", ",", "you", "'re", "going", "to", "hear", "a", "lot", "about", "the", "shallow", "graves", "today.", "at", "least", "1500", ",", "maybe", "1600", "graves", "located", "in", "the", "north.", "jane", "arraf", "has", "made", "her", "way", "to", "that", "location", "and", "we", "heard", "her", "first", "live", "report", "about", "an", "hour", "ago", "and", "we", "will", "talk", "with", "jane", "again.", "we", "know", "that", ",", "quote", ",", "work", "will", "be", "done", "with", "the", "iraqis", "and", "that", "work", "will", "come", ",", "we", "are", "told", ",", "in", "the", "coming", "days.", "a", "wrap", "from", "centcom", "and", "here", "is", "fredricka", "whitfield", "at", "the", "cnn", "center", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the baghdad district",
+  "sentence_length" : 241,
+  "mentionArg2" : {
+    "extent" : "the baghdad district",
+    "argMentionid" : "CNN_ENG_20030418_063040.1-E19-36",
+    "start" : 24,
+    "end" : 26
+  },
+  "relationID" : "CNN_ENG_20030418_063040.1-R2",
+  "mentionArg1" : {
+    "extent" : "baghdad",
+    "argMentionid" : "CNN_ENG_20030418_063040.1-E20-37",
+    "start" : 25,
+    "end" : 25
+  },
+  "id" : "CNN_ENG_20030418_063040.1-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "general brooks talking about three major points. one is the capture of number 24 as it 's described , samir who is responsible for the baghdad district , indications are the kurds in the north handed this man over so this is number 4 out of that playing card deck of 55 that the u . s. is after. top leaders in iraq. also that bomb site in baghdad hit about a week and a half ago , the mansour district. no remains identified just yet , general brooks says , but only the initial surveys have been completed so far. there is strong speculation that saddam hussein may be his two sons were inside of that building when it was hit by coalition bombs , or may have left prior to the bombing taking place. again , all this is an outstanding issue right now. in the north , you 're going to hear a lot about the shallow graves today. at least 1500 , maybe 1600 graves located in the north. jane arraf has made her way to that location and we heard her first live report about an hour ago and we will talk with jane again. we know that , quote , work will be done with the iraqis and that work will come , we are told , in the coming days. a wrap from centcom and here is fredricka whitfield at the cnn center .",
+  "sentence_index" : 0,
+  "Tokens" : [ "general", "brooks", "talking", "about", "three", "major", "points.", "one", "is", "the", "capture", "of", "number", "24", "as", "it", "'s", "described", ",", "samir", "who", "is", "responsible", "for", "the", "baghdad", "district", ",", "indications", "are", "the", "kurds", "in", "the", "north", "handed", "this", "man", "over", "so", "this", "is", "number", "4", "out", "of", "that", "playing", "card", "deck", "of", "55", "that", "the", "u", ".", "s.", "is", "after.", "top", "leaders", "in", "iraq.", "also", "that", "bomb", "site", "in", "baghdad", "hit", "about", "a", "week", "and", "a", "half", "ago", ",", "the", "mansour", "district.", "no", "remains", "identified", "just", "yet", ",", "general", "brooks", "says", ",", "but", "only", "the", "initial", "surveys", "have", "been", "completed", "so", "far.", "there", "is", "strong", "speculation", "that", "saddam", "hussein", "may", "be", "his", "two", "sons", "were", "inside", "of", "that", "building", "when", "it", "was", "hit", "by", "coalition", "bombs", ",", "or", "may", "have", "left", "prior", "to", "the", "bombing", "taking", "place.", "again", ",", "all", "this", "is", "an", "outstanding", "issue", "right", "now.", "in", "the", "north", ",", "you", "'re", "going", "to", "hear", "a", "lot", "about", "the", "shallow", "graves", "today.", "at", "least", "1500", ",", "maybe", "1600", "graves", "located", "in", "the", "north.", "jane", "arraf", "has", "made", "her", "way", "to", "that", "location", "and", "we", "heard", "her", "first", "live", "report", "about", "an", "hour", "ago", "and", "we", "will", "talk", "with", "jane", "again.", "we", "know", "that", ",", "quote", ",", "work", "will", "be", "done", "with", "the", "iraqis", "and", "that", "work", "will", "come", ",", "we", "are", "told", ",", "in", "the", "coming", "days.", "a", "wrap", "from", "centcom", "and", "here", "is", "fredricka", "whitfield", "at", "the", "cnn", "center", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the kurds in the north",
+  "sentence_length" : 241,
+  "mentionArg2" : {
+    "extent" : "the north",
+    "argMentionid" : "CNN_ENG_20030418_063040.1-E23-39",
+    "start" : 33,
+    "end" : 34
+  },
+  "relationID" : "CNN_ENG_20030418_063040.1-R3",
+  "mentionArg1" : {
+    "extent" : "the kurds in the north",
+    "argMentionid" : "CNN_ENG_20030418_063040.1-E22-38",
+    "start" : 30,
+    "end" : 34
+  },
+  "id" : "CNN_ENG_20030418_063040.1-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "general brooks talking about three major points. one is the capture of number 24 as it 's described , samir who is responsible for the baghdad district , indications are the kurds in the north handed this man over so this is number 4 out of that playing card deck of 55 that the u . s. is after. top leaders in iraq. also that bomb site in baghdad hit about a week and a half ago , the mansour district. no remains identified just yet , general brooks says , but only the initial surveys have been completed so far. there is strong speculation that saddam hussein may be his two sons were inside of that building when it was hit by coalition bombs , or may have left prior to the bombing taking place. again , all this is an outstanding issue right now. in the north , you 're going to hear a lot about the shallow graves today. at least 1500 , maybe 1600 graves located in the north. jane arraf has made her way to that location and we heard her first live report about an hour ago and we will talk with jane again. we know that , quote , work will be done with the iraqis and that work will come , we are told , in the coming days. a wrap from centcom and here is fredricka whitfield at the cnn center .",
+  "sentence_index" : 0,
+  "Tokens" : [ "general", "brooks", "talking", "about", "three", "major", "points.", "one", "is", "the", "capture", "of", "number", "24", "as", "it", "'s", "described", ",", "samir", "who", "is", "responsible", "for", "the", "baghdad", "district", ",", "indications", "are", "the", "kurds", "in", "the", "north", "handed", "this", "man", "over", "so", "this", "is", "number", "4", "out", "of", "that", "playing", "card", "deck", "of", "55", "that", "the", "u", ".", "s.", "is", "after.", "top", "leaders", "in", "iraq.", "also", "that", "bomb", "site", "in", "baghdad", "hit", "about", "a", "week", "and", "a", "half", "ago", ",", "the", "mansour", "district.", "no", "remains", "identified", "just", "yet", ",", "general", "brooks", "says", ",", "but", "only", "the", "initial", "surveys", "have", "been", "completed", "so", "far.", "there", "is", "strong", "speculation", "that", "saddam", "hussein", "may", "be", "his", "two", "sons", "were", "inside", "of", "that", "building", "when", "it", "was", "hit", "by", "coalition", "bombs", ",", "or", "may", "have", "left", "prior", "to", "the", "bombing", "taking", "place.", "again", ",", "all", "this", "is", "an", "outstanding", "issue", "right", "now.", "in", "the", "north", ",", "you", "'re", "going", "to", "hear", "a", "lot", "about", "the", "shallow", "graves", "today.", "at", "least", "1500", ",", "maybe", "1600", "graves", "located", "in", "the", "north.", "jane", "arraf", "has", "made", "her", "way", "to", "that", "location", "and", "we", "heard", "her", "first", "live", "report", "about", "an", "hour", "ago", "and", "we", "will", "talk", "with", "jane", "again.", "we", "know", "that", ",", "quote", ",", "work", "will", "be", "done", "with", "the", "iraqis", "and", "that", "work", "will", "come", ",", "we", "are", "told", ",", "in", "the", "coming", "days.", "a", "wrap", "from", "centcom", "and", "here", "is", "fredricka", "whitfield", "at", "the", "cnn", "center", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "there is strong speculation that saddam hussein may be his two sons were inside of that building when it was hit by coalition bombs, or may have left prior to the bombing taking place",
+  "sentence_length" : 241,
+  "mentionArg2" : {
+    "extent" : "that building",
+    "argMentionid" : "CNN_ENG_20030418_063040.1-E29-10",
+    "start" : 116,
+    "end" : 117
+  },
+  "relationID" : "CNN_ENG_20030418_063040.1-R4",
+  "mentionArg1" : {
+    "extent" : "his two sons",
+    "argMentionid" : "CNN_ENG_20030418_063040.1-E5-9",
+    "start" : 110,
+    "end" : 112
+  },
+  "id" : "CNN_ENG_20030418_063040.1-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "general brooks talking about three major points. one is the capture of number 24 as it 's described , samir who is responsible for the baghdad district , indications are the kurds in the north handed this man over so this is number 4 out of that playing card deck of 55 that the u . s. is after. top leaders in iraq. also that bomb site in baghdad hit about a week and a half ago , the mansour district. no remains identified just yet , general brooks says , but only the initial surveys have been completed so far. there is strong speculation that saddam hussein may be his two sons were inside of that building when it was hit by coalition bombs , or may have left prior to the bombing taking place. again , all this is an outstanding issue right now. in the north , you 're going to hear a lot about the shallow graves today. at least 1500 , maybe 1600 graves located in the north. jane arraf has made her way to that location and we heard her first live report about an hour ago and we will talk with jane again. we know that , quote , work will be done with the iraqis and that work will come , we are told , in the coming days. a wrap from centcom and here is fredricka whitfield at the cnn center .",
+  "sentence_index" : 0,
+  "Tokens" : [ "general", "brooks", "talking", "about", "three", "major", "points.", "one", "is", "the", "capture", "of", "number", "24", "as", "it", "'s", "described", ",", "samir", "who", "is", "responsible", "for", "the", "baghdad", "district", ",", "indications", "are", "the", "kurds", "in", "the", "north", "handed", "this", "man", "over", "so", "this", "is", "number", "4", "out", "of", "that", "playing", "card", "deck", "of", "55", "that", "the", "u", ".", "s.", "is", "after.", "top", "leaders", "in", "iraq.", "also", "that", "bomb", "site", "in", "baghdad", "hit", "about", "a", "week", "and", "a", "half", "ago", ",", "the", "mansour", "district.", "no", "remains", "identified", "just", "yet", ",", "general", "brooks", "says", ",", "but", "only", "the", "initial", "surveys", "have", "been", "completed", "so", "far.", "there", "is", "strong", "speculation", "that", "saddam", "hussein", "may", "be", "his", "two", "sons", "were", "inside", "of", "that", "building", "when", "it", "was", "hit", "by", "coalition", "bombs", ",", "or", "may", "have", "left", "prior", "to", "the", "bombing", "taking", "place.", "again", ",", "all", "this", "is", "an", "outstanding", "issue", "right", "now.", "in", "the", "north", ",", "you", "'re", "going", "to", "hear", "a", "lot", "about", "the", "shallow", "graves", "today.", "at", "least", "1500", ",", "maybe", "1600", "graves", "located", "in", "the", "north.", "jane", "arraf", "has", "made", "her", "way", "to", "that", "location", "and", "we", "heard", "her", "first", "live", "report", "about", "an", "hour", "ago", "and", "we", "will", "talk", "with", "jane", "again.", "we", "know", "that", ",", "quote", ",", "work", "will", "be", "done", "with", "the", "iraqis", "and", "that", "work", "will", "come", ",", "we", "are", "told", ",", "in", "the", "coming", "days.", "a", "wrap", "from", "centcom", "and", "here", "is", "fredricka", "whitfield", "at", "the", "cnn", "center", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his two sons",
+  "sentence_length" : 241,
+  "mentionArg2" : {
+    "extent" : "his two sons",
+    "argMentionid" : "CNN_ENG_20030418_063040.1-E5-9",
+    "start" : 110,
+    "end" : 112
+  },
+  "relationID" : "CNN_ENG_20030418_063040.1-R5",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_ENG_20030418_063040.1-E4-8",
+    "start" : 110,
+    "end" : 110
+  },
+  "id" : "CNN_ENG_20030418_063040.1-R5-1",
+  "relationSubType" : "Family",
+  "Sentence" : "general brooks talking about three major points. one is the capture of number 24 as it 's described , samir who is responsible for the baghdad district , indications are the kurds in the north handed this man over so this is number 4 out of that playing card deck of 55 that the u . s. is after. top leaders in iraq. also that bomb site in baghdad hit about a week and a half ago , the mansour district. no remains identified just yet , general brooks says , but only the initial surveys have been completed so far. there is strong speculation that saddam hussein may be his two sons were inside of that building when it was hit by coalition bombs , or may have left prior to the bombing taking place. again , all this is an outstanding issue right now. in the north , you 're going to hear a lot about the shallow graves today. at least 1500 , maybe 1600 graves located in the north. jane arraf has made her way to that location and we heard her first live report about an hour ago and we will talk with jane again. we know that , quote , work will be done with the iraqis and that work will come , we are told , in the coming days. a wrap from centcom and here is fredricka whitfield at the cnn center .",
+  "sentence_index" : 0,
+  "Tokens" : [ "general", "brooks", "talking", "about", "three", "major", "points.", "one", "is", "the", "capture", "of", "number", "24", "as", "it", "'s", "described", ",", "samir", "who", "is", "responsible", "for", "the", "baghdad", "district", ",", "indications", "are", "the", "kurds", "in", "the", "north", "handed", "this", "man", "over", "so", "this", "is", "number", "4", "out", "of", "that", "playing", "card", "deck", "of", "55", "that", "the", "u", ".", "s.", "is", "after.", "top", "leaders", "in", "iraq.", "also", "that", "bomb", "site", "in", "baghdad", "hit", "about", "a", "week", "and", "a", "half", "ago", ",", "the", "mansour", "district.", "no", "remains", "identified", "just", "yet", ",", "general", "brooks", "says", ",", "but", "only", "the", "initial", "surveys", "have", "been", "completed", "so", "far.", "there", "is", "strong", "speculation", "that", "saddam", "hussein", "may", "be", "his", "two", "sons", "were", "inside", "of", "that", "building", "when", "it", "was", "hit", "by", "coalition", "bombs", ",", "or", "may", "have", "left", "prior", "to", "the", "bombing", "taking", "place.", "again", ",", "all", "this", "is", "an", "outstanding", "issue", "right", "now.", "in", "the", "north", ",", "you", "'re", "going", "to", "hear", "a", "lot", "about", "the", "shallow", "graves", "today.", "at", "least", "1500", ",", "maybe", "1600", "graves", "located", "in", "the", "north.", "jane", "arraf", "has", "made", "her", "way", "to", "that", "location", "and", "we", "heard", "her", "first", "live", "report", "about", "an", "hour", "ago", "and", "we", "will", "talk", "with", "jane", "again.", "we", "know", "that", ",", "quote", ",", "work", "will", "be", "done", "with", "the", "iraqis", "and", "that", "work", "will", "come", ",", "we", "are", "told", ",", "in", "the", "coming", "days.", "a", "wrap", "from", "centcom", "and", "here", "is", "fredricka", "whitfield", "at", "the", "cnn", "center", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "coalition bombs",
+  "sentence_length" : 241,
+  "mentionArg2" : {
+    "extent" : "coalition bombs",
+    "argMentionid" : "CNN_ENG_20030418_063040.1-E6-12",
+    "start" : 123,
+    "end" : 124
+  },
+  "relationID" : "CNN_ENG_20030418_063040.1-R6",
+  "mentionArg1" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_ENG_20030418_063040.1-E16-29",
+    "start" : 123,
+    "end" : 123
+  },
+  "id" : "CNN_ENG_20030418_063040.1-R6-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "general brooks talking about three major points. one is the capture of number 24 as it 's described , samir who is responsible for the baghdad district , indications are the kurds in the north handed this man over so this is number 4 out of that playing card deck of 55 that the u . s. is after. top leaders in iraq. also that bomb site in baghdad hit about a week and a half ago , the mansour district. no remains identified just yet , general brooks says , but only the initial surveys have been completed so far. there is strong speculation that saddam hussein may be his two sons were inside of that building when it was hit by coalition bombs , or may have left prior to the bombing taking place. again , all this is an outstanding issue right now. in the north , you 're going to hear a lot about the shallow graves today. at least 1500 , maybe 1600 graves located in the north. jane arraf has made her way to that location and we heard her first live report about an hour ago and we will talk with jane again. we know that , quote , work will be done with the iraqis and that work will come , we are told , in the coming days. a wrap from centcom and here is fredricka whitfield at the cnn center .",
+  "sentence_index" : 0,
+  "Tokens" : [ "general", "brooks", "talking", "about", "three", "major", "points.", "one", "is", "the", "capture", "of", "number", "24", "as", "it", "'s", "described", ",", "samir", "who", "is", "responsible", "for", "the", "baghdad", "district", ",", "indications", "are", "the", "kurds", "in", "the", "north", "handed", "this", "man", "over", "so", "this", "is", "number", "4", "out", "of", "that", "playing", "card", "deck", "of", "55", "that", "the", "u", ".", "s.", "is", "after.", "top", "leaders", "in", "iraq.", "also", "that", "bomb", "site", "in", "baghdad", "hit", "about", "a", "week", "and", "a", "half", "ago", ",", "the", "mansour", "district.", "no", "remains", "identified", "just", "yet", ",", "general", "brooks", "says", ",", "but", "only", "the", "initial", "surveys", "have", "been", "completed", "so", "far.", "there", "is", "strong", "speculation", "that", "saddam", "hussein", "may", "be", "his", "two", "sons", "were", "inside", "of", "that", "building", "when", "it", "was", "hit", "by", "coalition", "bombs", ",", "or", "may", "have", "left", "prior", "to", "the", "bombing", "taking", "place.", "again", ",", "all", "this", "is", "an", "outstanding", "issue", "right", "now.", "in", "the", "north", ",", "you", "'re", "going", "to", "hear", "a", "lot", "about", "the", "shallow", "graves", "today.", "at", "least", "1500", ",", "maybe", "1600", "graves", "located", "in", "the", "north.", "jane", "arraf", "has", "made", "her", "way", "to", "that", "location", "and", "we", "heard", "her", "first", "live", "report", "about", "an", "hour", "ago", "and", "we", "will", "talk", "with", "jane", "again.", "we", "know", "that", ",", "quote", ",", "work", "will", "be", "done", "with", "the", "iraqis", "and", "that", "work", "will", "come", ",", "we", "are", "told", ",", "in", "the", "coming", "days.", "a", "wrap", "from", "centcom", "and", "here", "is", "fredricka", "whitfield", "at", "the", "cnn", "center", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "jane arraf has made her way to that location and we heard her first live report about an hour ago and we will talk with jane again",
+  "sentence_length" : 241,
+  "mentionArg2" : {
+    "extent" : "that location",
+    "argMentionid" : "CNN_ENG_20030418_063040.1-E23-3",
+    "start" : 180,
+    "end" : 181
+  },
+  "relationID" : "CNN_ENG_20030418_063040.1-R7",
+  "mentionArg1" : {
+    "extent" : "jane arraf",
+    "argMentionid" : "CNN_ENG_20030418_063040.1-E8-16",
+    "start" : 173,
+    "end" : 174
+  },
+  "id" : "CNN_ENG_20030418_063040.1-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "general brooks talking about three major points. one is the capture of number 24 as it 's described , samir who is responsible for the baghdad district , indications are the kurds in the north handed this man over so this is number 4 out of that playing card deck of 55 that the u . s. is after. top leaders in iraq. also that bomb site in baghdad hit about a week and a half ago , the mansour district. no remains identified just yet , general brooks says , but only the initial surveys have been completed so far. there is strong speculation that saddam hussein may be his two sons were inside of that building when it was hit by coalition bombs , or may have left prior to the bombing taking place. again , all this is an outstanding issue right now. in the north , you 're going to hear a lot about the shallow graves today. at least 1500 , maybe 1600 graves located in the north. jane arraf has made her way to that location and we heard her first live report about an hour ago and we will talk with jane again. we know that , quote , work will be done with the iraqis and that work will come , we are told , in the coming days. a wrap from centcom and here is fredricka whitfield at the cnn center .",
+  "sentence_index" : 0,
+  "Tokens" : [ "general", "brooks", "talking", "about", "three", "major", "points.", "one", "is", "the", "capture", "of", "number", "24", "as", "it", "'s", "described", ",", "samir", "who", "is", "responsible", "for", "the", "baghdad", "district", ",", "indications", "are", "the", "kurds", "in", "the", "north", "handed", "this", "man", "over", "so", "this", "is", "number", "4", "out", "of", "that", "playing", "card", "deck", "of", "55", "that", "the", "u", ".", "s.", "is", "after.", "top", "leaders", "in", "iraq.", "also", "that", "bomb", "site", "in", "baghdad", "hit", "about", "a", "week", "and", "a", "half", "ago", ",", "the", "mansour", "district.", "no", "remains", "identified", "just", "yet", ",", "general", "brooks", "says", ",", "but", "only", "the", "initial", "surveys", "have", "been", "completed", "so", "far.", "there", "is", "strong", "speculation", "that", "saddam", "hussein", "may", "be", "his", "two", "sons", "were", "inside", "of", "that", "building", "when", "it", "was", "hit", "by", "coalition", "bombs", ",", "or", "may", "have", "left", "prior", "to", "the", "bombing", "taking", "place.", "again", ",", "all", "this", "is", "an", "outstanding", "issue", "right", "now.", "in", "the", "north", ",", "you", "'re", "going", "to", "hear", "a", "lot", "about", "the", "shallow", "graves", "today.", "at", "least", "1500", ",", "maybe", "1600", "graves", "located", "in", "the", "north.", "jane", "arraf", "has", "made", "her", "way", "to", "that", "location", "and", "we", "heard", "her", "first", "live", "report", "about", "an", "hour", "ago", "and", "we", "will", "talk", "with", "jane", "again.", "we", "know", "that", ",", "quote", ",", "work", "will", "be", "done", "with", "the", "iraqis", "and", "that", "work", "will", "come", ",", "we", "are", "told", ",", "in", "the", "coming", "days.", "a", "wrap", "from", "centcom", "and", "here", "is", "fredricka", "whitfield", "at", "the", "cnn", "center", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "top leaders in iraq",
+  "sentence_length" : 241,
+  "mentionArg2" : {
+    "extent" : "iraq",
+    "argMentionid" : "CNN_ENG_20030418_063040.1-E28-45",
+    "start" : 62,
+    "end" : 62
+  },
+  "relationID" : "CNN_ENG_20030418_063040.1-R8",
+  "mentionArg1" : {
+    "extent" : "top leaders in iraq",
+    "argMentionid" : "CNN_ENG_20030418_063040.1-E27-44",
+    "start" : 59,
+    "end" : 62
+  },
+  "id" : "CNN_ENG_20030418_063040.1-R8-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "general brooks talking about three major points. one is the capture of number 24 as it 's described , samir who is responsible for the baghdad district , indications are the kurds in the north handed this man over so this is number 4 out of that playing card deck of 55 that the u . s. is after. top leaders in iraq. also that bomb site in baghdad hit about a week and a half ago , the mansour district. no remains identified just yet , general brooks says , but only the initial surveys have been completed so far. there is strong speculation that saddam hussein may be his two sons were inside of that building when it was hit by coalition bombs , or may have left prior to the bombing taking place. again , all this is an outstanding issue right now. in the north , you 're going to hear a lot about the shallow graves today. at least 1500 , maybe 1600 graves located in the north. jane arraf has made her way to that location and we heard her first live report about an hour ago and we will talk with jane again. we know that , quote , work will be done with the iraqis and that work will come , we are told , in the coming days. a wrap from centcom and here is fredricka whitfield at the cnn center .",
+  "sentence_index" : 0,
+  "Tokens" : [ "general", "brooks", "talking", "about", "three", "major", "points.", "one", "is", "the", "capture", "of", "number", "24", "as", "it", "'s", "described", ",", "samir", "who", "is", "responsible", "for", "the", "baghdad", "district", ",", "indications", "are", "the", "kurds", "in", "the", "north", "handed", "this", "man", "over", "so", "this", "is", "number", "4", "out", "of", "that", "playing", "card", "deck", "of", "55", "that", "the", "u", ".", "s.", "is", "after.", "top", "leaders", "in", "iraq.", "also", "that", "bomb", "site", "in", "baghdad", "hit", "about", "a", "week", "and", "a", "half", "ago", ",", "the", "mansour", "district.", "no", "remains", "identified", "just", "yet", ",", "general", "brooks", "says", ",", "but", "only", "the", "initial", "surveys", "have", "been", "completed", "so", "far.", "there", "is", "strong", "speculation", "that", "saddam", "hussein", "may", "be", "his", "two", "sons", "were", "inside", "of", "that", "building", "when", "it", "was", "hit", "by", "coalition", "bombs", ",", "or", "may", "have", "left", "prior", "to", "the", "bombing", "taking", "place.", "again", ",", "all", "this", "is", "an", "outstanding", "issue", "right", "now.", "in", "the", "north", ",", "you", "'re", "going", "to", "hear", "a", "lot", "about", "the", "shallow", "graves", "today.", "at", "least", "1500", ",", "maybe", "1600", "graves", "located", "in", "the", "north.", "jane", "arraf", "has", "made", "her", "way", "to", "that", "location", "and", "we", "heard", "her", "first", "live", "report", "about", "an", "hour", "ago", "and", "we", "will", "talk", "with", "jane", "again.", "we", "know", "that", ",", "quote", ",", "work", "will", "be", "done", "with", "the", "iraqis", "and", "that", "work", "will", "come", ",", "we", "are", "told", ",", "in", "the", "coming", "days.", "a", "wrap", "from", "centcom", "and", "here", "is", "fredricka", "whitfield", "at", "the", "cnn", "center", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "fredricka whitfield at the cnn center",
+  "sentence_length" : 241,
+  "mentionArg2" : {
+    "extent" : "the cnn center",
+    "argMentionid" : "CNN_ENG_20030418_063040.1-E14-27",
+    "start" : 237,
+    "end" : 239
+  },
+  "relationID" : "CNN_ENG_20030418_063040.1-R9",
+  "mentionArg1" : {
+    "extent" : "fredricka whitfield at the cnn center",
+    "argMentionid" : "CNN_ENG_20030418_063040.1-E13-26",
+    "start" : 234,
+    "end" : 239
+  },
+  "id" : "CNN_ENG_20030418_063040.1-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "general brooks talking about three major points. one is the capture of number 24 as it 's described , samir who is responsible for the baghdad district , indications are the kurds in the north handed this man over so this is number 4 out of that playing card deck of 55 that the u . s. is after. top leaders in iraq. also that bomb site in baghdad hit about a week and a half ago , the mansour district. no remains identified just yet , general brooks says , but only the initial surveys have been completed so far. there is strong speculation that saddam hussein may be his two sons were inside of that building when it was hit by coalition bombs , or may have left prior to the bombing taking place. again , all this is an outstanding issue right now. in the north , you 're going to hear a lot about the shallow graves today. at least 1500 , maybe 1600 graves located in the north. jane arraf has made her way to that location and we heard her first live report about an hour ago and we will talk with jane again. we know that , quote , work will be done with the iraqis and that work will come , we are told , in the coming days. a wrap from centcom and here is fredricka whitfield at the cnn center .",
+  "sentence_index" : 0,
+  "Tokens" : [ "general", "brooks", "talking", "about", "three", "major", "points.", "one", "is", "the", "capture", "of", "number", "24", "as", "it", "'s", "described", ",", "samir", "who", "is", "responsible", "for", "the", "baghdad", "district", ",", "indications", "are", "the", "kurds", "in", "the", "north", "handed", "this", "man", "over", "so", "this", "is", "number", "4", "out", "of", "that", "playing", "card", "deck", "of", "55", "that", "the", "u", ".", "s.", "is", "after.", "top", "leaders", "in", "iraq.", "also", "that", "bomb", "site", "in", "baghdad", "hit", "about", "a", "week", "and", "a", "half", "ago", ",", "the", "mansour", "district.", "no", "remains", "identified", "just", "yet", ",", "general", "brooks", "says", ",", "but", "only", "the", "initial", "surveys", "have", "been", "completed", "so", "far.", "there", "is", "strong", "speculation", "that", "saddam", "hussein", "may", "be", "his", "two", "sons", "were", "inside", "of", "that", "building", "when", "it", "was", "hit", "by", "coalition", "bombs", ",", "or", "may", "have", "left", "prior", "to", "the", "bombing", "taking", "place.", "again", ",", "all", "this", "is", "an", "outstanding", "issue", "right", "now.", "in", "the", "north", ",", "you", "'re", "going", "to", "hear", "a", "lot", "about", "the", "shallow", "graves", "today.", "at", "least", "1500", ",", "maybe", "1600", "graves", "located", "in", "the", "north.", "jane", "arraf", "has", "made", "her", "way", "to", "that", "location", "and", "we", "heard", "her", "first", "live", "report", "about", "an", "hour", "ago", "and", "we", "will", "talk", "with", "jane", "again.", "we", "know", "that", ",", "quote", ",", "work", "will", "be", "done", "with", "the", "iraqis", "and", "that", "work", "will", "come", ",", "we", "are", "told", ",", "in", "the", "coming", "days.", "a", "wrap", "from", "centcom", "and", "here", "is", "fredricka", "whitfield", "at", "the", "cnn", "center", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the cnn center",
+  "sentence_length" : 241,
+  "mentionArg2" : {
+    "extent" : "the cnn center",
+    "argMentionid" : "CNN_ENG_20030418_063040.1-E14-27",
+    "start" : 237,
+    "end" : 239
+  },
+  "relationID" : "CNN_ENG_20030418_063040.1-R10",
+  "mentionArg1" : {
+    "extent" : "cnn",
+    "argMentionid" : "CNN_ENG_20030418_063040.1-E9-13",
+    "start" : 238,
+    "end" : 238
+  },
+  "id" : "CNN_ENG_20030418_063040.1-R10-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "general brooks talking about three major points. one is the capture of number 24 as it 's described , samir who is responsible for the baghdad district , indications are the kurds in the north handed this man over so this is number 4 out of that playing card deck of 55 that the u . s. is after. top leaders in iraq. also that bomb site in baghdad hit about a week and a half ago , the mansour district. no remains identified just yet , general brooks says , but only the initial surveys have been completed so far. there is strong speculation that saddam hussein may be his two sons were inside of that building when it was hit by coalition bombs , or may have left prior to the bombing taking place. again , all this is an outstanding issue right now. in the north , you 're going to hear a lot about the shallow graves today. at least 1500 , maybe 1600 graves located in the north. jane arraf has made her way to that location and we heard her first live report about an hour ago and we will talk with jane again. we know that , quote , work will be done with the iraqis and that work will come , we are told , in the coming days. a wrap from centcom and here is fredricka whitfield at the cnn center .",
+  "sentence_index" : 0,
+  "Tokens" : [ "general", "brooks", "talking", "about", "three", "major", "points.", "one", "is", "the", "capture", "of", "number", "24", "as", "it", "'s", "described", ",", "samir", "who", "is", "responsible", "for", "the", "baghdad", "district", ",", "indications", "are", "the", "kurds", "in", "the", "north", "handed", "this", "man", "over", "so", "this", "is", "number", "4", "out", "of", "that", "playing", "card", "deck", "of", "55", "that", "the", "u", ".", "s.", "is", "after.", "top", "leaders", "in", "iraq.", "also", "that", "bomb", "site", "in", "baghdad", "hit", "about", "a", "week", "and", "a", "half", "ago", ",", "the", "mansour", "district.", "no", "remains", "identified", "just", "yet", ",", "general", "brooks", "says", ",", "but", "only", "the", "initial", "surveys", "have", "been", "completed", "so", "far.", "there", "is", "strong", "speculation", "that", "saddam", "hussein", "may", "be", "his", "two", "sons", "were", "inside", "of", "that", "building", "when", "it", "was", "hit", "by", "coalition", "bombs", ",", "or", "may", "have", "left", "prior", "to", "the", "bombing", "taking", "place.", "again", ",", "all", "this", "is", "an", "outstanding", "issue", "right", "now.", "in", "the", "north", ",", "you", "'re", "going", "to", "hear", "a", "lot", "about", "the", "shallow", "graves", "today.", "at", "least", "1500", ",", "maybe", "1600", "graves", "located", "in", "the", "north.", "jane", "arraf", "has", "made", "her", "way", "to", "that", "location", "and", "we", "heard", "her", "first", "live", "report", "about", "an", "hour", "ago", "and", "we", "will", "talk", "with", "jane", "again.", "we", "know", "that", ",", "quote", ",", "work", "will", "be", "done", "with", "the", "iraqis", "and", "that", "work", "will", "come", ",", "we", "are", "told", ",", "in", "the", "coming", "days.", "a", "wrap", "from", "centcom", "and", "here", "is", "fredricka", "whitfield", "at", "the", "cnn", "center", "." ]
+} ]

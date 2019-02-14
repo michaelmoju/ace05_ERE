@@ -1,0 +1,133 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "these guys going around the capital",
+  "sentence_length" : 131,
+  "mentionArg2" : {
+    "extent" : "the capital",
+    "argMentionid" : "CNN_ENG_20030411_233701.11-E5-14",
+    "start" : 49,
+    "end" : 50
+  },
+  "relationID" : "CNN_ENG_20030411_233701.11-R1",
+  "mentionArg1" : {
+    "extent" : "these guys going around the capital",
+    "argMentionid" : "CNN_ENG_20030411_233701.11-E4-10",
+    "start" : 45,
+    "end" : 50
+  },
+  "id" : "CNN_ENG_20030411_233701.11-R1-1",
+  "relationSubType" : "Near",
+  "Sentence" : "i 'm lebanese born. i grew up in war zones. it 's like my life. i was the only one during this conflict who had pictures of republican guards and it 's true luck because i was driving northwest of baghdad and i bumped into these guys going around the capital. we recognized them because of their uniform. very close to the u . s. marines uniform. i did n't see fear in their eyes. i did n't feel any i did n't realize what the fire power was. it was an american tank that had techmy call problems. had to stop an attack south of baghdad. they really believed on the tank. i was taking pictures. the reporter was with me. wanted to go in. i said , no. while",
+  "sentence_index" : 1,
+  "Tokens" : [ "i", "'m", "lebanese", "born.", "i", "grew", "up", "in", "war", "zones.", "it", "'s", "like", "my", "life.", "i", "was", "the", "only", "one", "during", "this", "conflict", "who", "had", "pictures", "of", "republican", "guards", "and", "it", "'s", "true", "luck", "because", "i", "was", "driving", "northwest", "of", "baghdad", "and", "i", "bumped", "into", "these", "guys", "going", "around", "the", "capital.", "we", "recognized", "them", "because", "of", "their", "uniform.", "very", "close", "to", "the", "u", ".", "s.", "marines", "uniform.", "i", "did", "n't", "see", "fear", "in", "their", "eyes.", "i", "did", "n't", "feel", "any", "i", "did", "n't", "realize", "what", "the", "fire", "power", "was.", "it", "was", "an", "american", "tank", "that", "had", "techmy", "call", "problems.", "had", "to", "stop", "an", "attack", "south", "of", "baghdad.", "they", "really", "believed", "on", "the", "tank.", "i", "was", "taking", "pictures.", "the", "reporter", "was", "with", "me.", "wanted", "to", "go", "in.", "i", "said", ",", "no.", "while" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "still photographers who are applying their trade in iraq these days",
+  "sentence_length" : 59,
+  "mentionArg2" : {
+    "extent" : "iraq",
+    "argMentionid" : "CNN_ENG_20030411_233701.11-E15-32",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "CNN_ENG_20030411_233701.11-R2",
+  "mentionArg1" : {
+    "extent" : "still photographers who are applying their trade in iraq these days",
+    "argMentionid" : "CNN_ENG_20030411_233701.11-E14-29",
+    "start" : 8,
+    "end" : 18
+  },
+  "id" : "CNN_ENG_20030411_233701.11-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "we try to bring you the work of still photographers who are applying their trade in iraq these days. tonight patrick baas from afp looking at what he 's done this week. it is clear he has two of the things you need to be a photo photojournalist. a great eye and nose for where the news is .",
+  "sentence_index" : 0,
+  "Tokens" : [ "we", "try", "to", "bring", "you", "the", "work", "of", "still", "photographers", "who", "are", "applying", "their", "trade", "in", "iraq", "these", "days.", "tonight", "patrick", "baas", "from", "afp", "looking", "at", "what", "he", "'s", "done", "this", "week.", "it", "is", "clear", "he", "has", "two", "of", "the", "things", "you", "need", "to", "be", "a", "photo", "photojournalist.", "a", "great", "eye", "and", "nose", "for", "where", "the", "news", "is", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "patrick baas from afp",
+  "sentence_length" : 59,
+  "mentionArg2" : {
+    "extent" : "afp",
+    "argMentionid" : "CNN_ENG_20030411_233701.11-E17-35",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "CNN_ENG_20030411_233701.11-R3",
+  "mentionArg1" : {
+    "extent" : "patrick baas from afp",
+    "argMentionid" : "CNN_ENG_20030411_233701.11-E1-33",
+    "start" : 20,
+    "end" : 23
+  },
+  "id" : "CNN_ENG_20030411_233701.11-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "we try to bring you the work of still photographers who are applying their trade in iraq these days. tonight patrick baas from afp looking at what he 's done this week. it is clear he has two of the things you need to be a photo photojournalist. a great eye and nose for where the news is .",
+  "sentence_index" : 0,
+  "Tokens" : [ "we", "try", "to", "bring", "you", "the", "work", "of", "still", "photographers", "who", "are", "applying", "their", "trade", "in", "iraq", "these", "days.", "tonight", "patrick", "baas", "from", "afp", "looking", "at", "what", "he", "'s", "done", "this", "week.", "it", "is", "clear", "he", "has", "two", "of", "the", "things", "you", "need", "to", "be", "a", "photo", "photojournalist.", "a", "great", "eye", "and", "nose", "for", "where", "the", "news", "is", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "u.s. marines",
+  "sentence_length" : 131,
+  "mentionArg2" : {
+    "extent" : "u.s",
+    "argMentionid" : "CNN_ENG_20030411_233701.11-E9-18",
+    "start" : 62,
+    "end" : 64
+  },
+  "relationID" : "CNN_ENG_20030411_233701.11-R4",
+  "mentionArg1" : {
+    "extent" : "u.s. marines",
+    "argMentionid" : "CNN_ENG_20030411_233701.11-E8-17",
+    "start" : 62,
+    "end" : 65
+  },
+  "id" : "CNN_ENG_20030411_233701.11-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "i 'm lebanese born. i grew up in war zones. it 's like my life. i was the only one during this conflict who had pictures of republican guards and it 's true luck because i was driving northwest of baghdad and i bumped into these guys going around the capital. we recognized them because of their uniform. very close to the u . s. marines uniform. i did n't see fear in their eyes. i did n't feel any i did n't realize what the fire power was. it was an american tank that had techmy call problems. had to stop an attack south of baghdad. they really believed on the tank. i was taking pictures. the reporter was with me. wanted to go in. i said , no. while",
+  "sentence_index" : 1,
+  "Tokens" : [ "i", "'m", "lebanese", "born.", "i", "grew", "up", "in", "war", "zones.", "it", "'s", "like", "my", "life.", "i", "was", "the", "only", "one", "during", "this", "conflict", "who", "had", "pictures", "of", "republican", "guards", "and", "it", "'s", "true", "luck", "because", "i", "was", "driving", "northwest", "of", "baghdad", "and", "i", "bumped", "into", "these", "guys", "going", "around", "the", "capital.", "we", "recognized", "them", "because", "of", "their", "uniform.", "very", "close", "to", "the", "u", ".", "s.", "marines", "uniform.", "i", "did", "n't", "see", "fear", "in", "their", "eyes.", "i", "did", "n't", "feel", "any", "i", "did", "n't", "realize", "what", "the", "fire", "power", "was.", "it", "was", "an", "american", "tank", "that", "had", "techmy", "call", "problems.", "had", "to", "stop", "an", "attack", "south", "of", "baghdad.", "they", "really", "believed", "on", "the", "tank.", "i", "was", "taking", "pictures.", "the", "reporter", "was", "with", "me.", "wanted", "to", "go", "in.", "i", "said", ",", "no.", "while" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "an american tank that had techmy call problems",
+  "sentence_length" : 131,
+  "mentionArg2" : {
+    "extent" : "an american tank that had techmy call problems",
+    "argMentionid" : "CNN_ENG_20030411_233701.11-E7-39",
+    "start" : 91,
+    "end" : 98
+  },
+  "relationID" : "CNN_ENG_20030411_233701.11-R5",
+  "mentionArg1" : {
+    "extent" : "american",
+    "argMentionid" : "CNN_ENG_20030411_233701.11-E9-21",
+    "start" : 92,
+    "end" : 92
+  },
+  "id" : "CNN_ENG_20030411_233701.11-R5-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "i 'm lebanese born. i grew up in war zones. it 's like my life. i was the only one during this conflict who had pictures of republican guards and it 's true luck because i was driving northwest of baghdad and i bumped into these guys going around the capital. we recognized them because of their uniform. very close to the u . s. marines uniform. i did n't see fear in their eyes. i did n't feel any i did n't realize what the fire power was. it was an american tank that had techmy call problems. had to stop an attack south of baghdad. they really believed on the tank. i was taking pictures. the reporter was with me. wanted to go in. i said , no. while",
+  "sentence_index" : 1,
+  "Tokens" : [ "i", "'m", "lebanese", "born.", "i", "grew", "up", "in", "war", "zones.", "it", "'s", "like", "my", "life.", "i", "was", "the", "only", "one", "during", "this", "conflict", "who", "had", "pictures", "of", "republican", "guards", "and", "it", "'s", "true", "luck", "because", "i", "was", "driving", "northwest", "of", "baghdad", "and", "i", "bumped", "into", "these", "guys", "going", "around", "the", "capital.", "we", "recognized", "them", "because", "of", "their", "uniform.", "very", "close", "to", "the", "u", ".", "s.", "marines", "uniform.", "i", "did", "n't", "see", "fear", "in", "their", "eyes.", "i", "did", "n't", "feel", "any", "i", "did", "n't", "realize", "what", "the", "fire", "power", "was.", "it", "was", "an", "american", "tank", "that", "had", "techmy", "call", "problems.", "had", "to", "stop", "an", "attack", "south", "of", "baghdad.", "they", "really", "believed", "on", "the", "tank.", "i", "was", "taking", "pictures.", "the", "reporter", "was", "with", "me.", "wanted", "to", "go", "in.", "i", "said", ",", "no.", "while" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "i'm lebanese born",
+  "sentence_length" : 131,
+  "mentionArg2" : {
+    "extent" : "lebanese",
+    "argMentionid" : "CNN_ENG_20030411_233701.11-E21-44",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "CNN_ENG_20030411_233701.11-R6",
+  "mentionArg1" : {
+    "extent" : "i",
+    "argMentionid" : "CNN_ENG_20030411_233701.11-E1-41",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_ENG_20030411_233701.11-R6-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "i 'm lebanese born. i grew up in war zones. it 's like my life. i was the only one during this conflict who had pictures of republican guards and it 's true luck because i was driving northwest of baghdad and i bumped into these guys going around the capital. we recognized them because of their uniform. very close to the u . s. marines uniform. i did n't see fear in their eyes. i did n't feel any i did n't realize what the fire power was. it was an american tank that had techmy call problems. had to stop an attack south of baghdad. they really believed on the tank. i was taking pictures. the reporter was with me. wanted to go in. i said , no. while",
+  "sentence_index" : 1,
+  "Tokens" : [ "i", "'m", "lebanese", "born.", "i", "grew", "up", "in", "war", "zones.", "it", "'s", "like", "my", "life.", "i", "was", "the", "only", "one", "during", "this", "conflict", "who", "had", "pictures", "of", "republican", "guards", "and", "it", "'s", "true", "luck", "because", "i", "was", "driving", "northwest", "of", "baghdad", "and", "i", "bumped", "into", "these", "guys", "going", "around", "the", "capital.", "we", "recognized", "them", "because", "of", "their", "uniform.", "very", "close", "to", "the", "u", ".", "s.", "marines", "uniform.", "i", "did", "n't", "see", "fear", "in", "their", "eyes.", "i", "did", "n't", "feel", "any", "i", "did", "n't", "realize", "what", "the", "fire", "power", "was.", "it", "was", "an", "american", "tank", "that", "had", "techmy", "call", "problems.", "had", "to", "stop", "an", "attack", "south", "of", "baghdad.", "they", "really", "believed", "on", "the", "tank.", "i", "was", "taking", "pictures.", "the", "reporter", "was", "with", "me.", "wanted", "to", "go", "in.", "i", "said", ",", "no.", "while" ]
+} ]

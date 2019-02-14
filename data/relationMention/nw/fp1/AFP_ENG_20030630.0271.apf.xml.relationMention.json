@@ -1,0 +1,1167 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "Palestinian security forces returned Monday to the positions they held in the Gaza Strip before the outbreak of the 33-month Palestinian uprising as Israel removed all major checkpoints in the coastal territory, a Palestinian security source said",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "the Gaza Strip",
+    "argMentionid" : "AFP_ENG_20030630.0271-E18-141",
+    "start" : 19,
+    "end" : 21
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R1",
+  "mentionArg1" : {
+    "extent" : "Palestinian security forces",
+    "argMentionid" : "AFP_ENG_20030630.0271-E89-133",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "AFP_ENG_20030630.0271-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "GAZA CITY , June 30 ( AFP ) Palestinian security forces returned Monday to the positions they held in the Gaza Strip before the outbreak of the 33-month Palestinian uprising as Israel removed all major checkpoints in the coastal territory , a Palestinian security source said .",
+  "sentence_index" : 0,
+  "Tokens" : [ "GAZA", "CITY", ",", "June", "30", "(", "AFP", ")", "Palestinian", "security", "forces", "returned", "Monday", "to", "the", "positions", "they", "held", "in", "the", "Gaza", "Strip", "before", "the", "outbreak", "of", "the", "33-month", "Palestinian", "uprising", "as", "Israel", "removed", "all", "major", "checkpoints", "in", "the", "coastal", "territory", ",", "a", "Palestinian", "security", "source", "said", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Police officers took up their positions across the Gaza Strip, enjoying a freedom of movement they have not known since the intifada exploded in September 2000, the source said",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "the Gaza Strip",
+    "argMentionid" : "AFP_ENG_20030630.0271-E18-150",
+    "start" : 7,
+    "end" : 9
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R1",
+  "mentionArg1" : {
+    "extent" : "Police officers",
+    "argMentionid" : "AFP_ENG_20030630.0271-E89-147",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "AFP_ENG_20030630.0271-R1-2",
+  "relationSubType" : "Located",
+  "Sentence" : "Police officers took up their positions across the Gaza Strip , enjoying a freedom of movement they have not known since the intifada exploded in September 2000 , the source said .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Police", "officers", "took", "up", "their", "positions", "across", "the", "Gaza", "Strip", ",", "enjoying", "a", "freedom", "of", "movement", "they", "have", "not", "known", "since", "the", "intifada", "exploded", "in", "September", "2000", ",", "the", "source", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "The army also handed over control of Rafah border crossing between the Gaza Strip and Egypt to the Palestinians, security sources said",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "the Gaza Strip",
+    "argMentionid" : "AFP_ENG_20030630.0271-E18-107",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R2",
+  "mentionArg1" : {
+    "extent" : "border",
+    "argMentionid" : "AFP_ENG_20030630.0271-E73-137",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "AFP_ENG_20030630.0271-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The army also handed over control of Rafah border crossing between the Gaza Strip and Egypt to the Palestinians , security sources said .",
+  "sentence_index" : 17,
+  "Tokens" : [ "The", "army", "also", "handed", "over", "control", "of", "Rafah", "border", "crossing", "between", "the", "Gaza", "Strip", "and", "Egypt", "to", "the", "Palestinians", ",", "security", "sources", "said", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "It is the first time they have had freedom of movement with cars and weapons since the start of the intifada,\" the source said",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "weapons",
+    "argMentionid" : "AFP_ENG_20030630.0271-E2-7",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R3",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "AFP_ENG_20030630.0271-E89-6",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "AFP_ENG_20030630.0271-R3-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "It is the first time they have had freedom of movement with cars and weapons since the start of the intifada , \" the source said .",
+  "sentence_index" : 3,
+  "Tokens" : [ "It", "is", "the", "first", "time", "they", "have", "had", "freedom", "of", "movement", "with", "cars", "and", "weapons", "since", "the", "start", "of", "the", "intifada", ",", "\"", "the", "source", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "The army also handed over control of Rafah border crossing between the Gaza Strip and Egypt to the Palestinians, security sources said",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Egypt",
+    "argMentionid" : "AFP_ENG_20030630.0271-E62-108",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R4",
+  "mentionArg1" : {
+    "extent" : "border",
+    "argMentionid" : "AFP_ENG_20030630.0271-E73-137",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "AFP_ENG_20030630.0271-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The army also handed over control of Rafah border crossing between the Gaza Strip and Egypt to the Palestinians , security sources said .",
+  "sentence_index" : 17,
+  "Tokens" : [ "The", "army", "also", "handed", "over", "control", "of", "Rafah", "border", "crossing", "between", "the", "Gaza", "Strip", "and", "Egypt", "to", "the", "Palestinians", ",", "security", "sources", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "all major checkpoints in the coastal territory",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "the coastal territory",
+    "argMentionid" : "AFP_ENG_20030630.0271-E18-98",
+    "start" : 37,
+    "end" : 39
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R5",
+  "mentionArg1" : {
+    "extent" : "all major checkpoints in the coastal territory",
+    "argMentionid" : "AFP_ENG_20030630.0271-E86-144",
+    "start" : 33,
+    "end" : 39
+  },
+  "id" : "AFP_ENG_20030630.0271-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "GAZA CITY , June 30 ( AFP ) Palestinian security forces returned Monday to the positions they held in the Gaza Strip before the outbreak of the 33-month Palestinian uprising as Israel removed all major checkpoints in the coastal territory , a Palestinian security source said .",
+  "sentence_index" : 0,
+  "Tokens" : [ "GAZA", "CITY", ",", "June", "30", "(", "AFP", ")", "Palestinian", "security", "forces", "returned", "Monday", "to", "the", "positions", "they", "held", "in", "the", "Gaza", "Strip", "before", "the", "outbreak", "of", "the", "33-month", "Palestinian", "uprising", "as", "Israel", "removed", "all", "major", "checkpoints", "in", "the", "coastal", "territory", ",", "a", "Palestinian", "security", "source", "said", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a Palestinian security source",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "AFP_ENG_20030630.0271-E1-146",
+    "start" : 42,
+    "end" : 42
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R6",
+  "mentionArg1" : {
+    "extent" : "a Palestinian security source",
+    "argMentionid" : "AFP_ENG_20030630.0271-E87-145",
+    "start" : 41,
+    "end" : 44
+  },
+  "id" : "AFP_ENG_20030630.0271-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "GAZA CITY , June 30 ( AFP ) Palestinian security forces returned Monday to the positions they held in the Gaza Strip before the outbreak of the 33-month Palestinian uprising as Israel removed all major checkpoints in the coastal territory , a Palestinian security source said .",
+  "sentence_index" : 0,
+  "Tokens" : [ "GAZA", "CITY", ",", "June", "30", "(", "AFP", ")", "Palestinian", "security", "forces", "returned", "Monday", "to", "the", "positions", "they", "held", "in", "the", "Gaza", "Strip", "before", "the", "outbreak", "of", "the", "33-month", "Palestinian", "uprising", "as", "Israel", "removed", "all", "major", "checkpoints", "in", "the", "coastal", "territory", ",", "a", "Palestinian", "security", "source", "said", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Police officers",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Police",
+    "argMentionid" : "AFP_ENG_20030630.0271-E66-148",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R7",
+  "mentionArg1" : {
+    "extent" : "Police officers",
+    "argMentionid" : "AFP_ENG_20030630.0271-E89-147",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "AFP_ENG_20030630.0271-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Police officers took up their positions across the Gaza Strip , enjoying a freedom of movement they have not known since the intifada exploded in September 2000 , the source said .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Police", "officers", "took", "up", "their", "positions", "across", "the", "Gaza", "Strip", ",", "enjoying", "a", "freedom", "of", "movement", "they", "have", "not", "known", "since", "the", "intifada", "exploded", "in", "September", "2000", ",", "the", "source", "said", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Palestinian police",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "AFP_ENG_20030630.0271-E1-4",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R8",
+  "mentionArg1" : {
+    "extent" : "Palestinian police",
+    "argMentionid" : "AFP_ENG_20030630.0271-E89-3",
+    "start" : 1,
+    "end" : 2
+  },
+  "id" : "AFP_ENG_20030630.0271-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "\" Palestinian police have taken over all the posts and positions they held before September 28 , 2000 .",
+  "sentence_index" : 2,
+  "Tokens" : [ "\"", "Palestinian", "police", "have", "taken", "over", "all", "the", "posts", "and", "positions", "they", "held", "before", "September", "28", ",", "2000", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Palestinian security forces",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "AFP_ENG_20030630.0271-E1-140",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R8",
+  "mentionArg1" : {
+    "extent" : "Palestinian security forces",
+    "argMentionid" : "AFP_ENG_20030630.0271-E89-133",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "AFP_ENG_20030630.0271-R8-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "GAZA CITY , June 30 ( AFP ) Palestinian security forces returned Monday to the positions they held in the Gaza Strip before the outbreak of the 33-month Palestinian uprising as Israel removed all major checkpoints in the coastal territory , a Palestinian security source said .",
+  "sentence_index" : 0,
+  "Tokens" : [ "GAZA", "CITY", ",", "June", "30", "(", "AFP", ")", "Palestinian", "security", "forces", "returned", "Monday", "to", "the", "positions", "they", "held", "in", "the", "Gaza", "Strip", "before", "the", "outbreak", "of", "the", "33-month", "Palestinian", "uprising", "as", "Israel", "removed", "all", "major", "checkpoints", "in", "the", "coastal", "territory", ",", "a", "Palestinian", "security", "source", "said", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Following the withdrawal of Israeli troops from the northern town of Beit Hanoun late Sunday, police took up positions there and in the neighbouring town of Beit Lahiya, he said",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "the northern town of Beit Hanoun",
+    "argMentionid" : "AFP_ENG_20030630.0271-E8-16",
+    "start" : 7,
+    "end" : 12
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R9",
+  "mentionArg1" : {
+    "extent" : "Israeli troops",
+    "argMentionid" : "AFP_ENG_20030630.0271-E6-14",
+    "start" : 4,
+    "end" : 5
+  },
+  "id" : "AFP_ENG_20030630.0271-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Following the withdrawal of Israeli troops from the northern town of Beit Hanoun late Sunday , police took up positions there and in the neighbouring town of Beit Lahiya , he said .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Following", "the", "withdrawal", "of", "Israeli", "troops", "from", "the", "northern", "town", "of", "Beit", "Hanoun", "late", "Sunday", ",", "police", "took", "up", "positions", "there", "and", "in", "the", "neighbouring", "town", "of", "Beit", "Lahiya", ",", "he", "said", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Adressing Palestinian complaints, an Israeli military source confirmed troops had installed a gate at the Netzarim crossing and at the southern Guest House junction but said that they were only there for when Jewish settlers needed to use the road",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "a gate at the Netzarim crossing",
+    "argMentionid" : "AFP_ENG_20030630.0271-E76-135",
+    "start" : 12,
+    "end" : 17
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R10",
+  "mentionArg1" : {
+    "extent" : "troops",
+    "argMentionid" : "AFP_ENG_20030630.0271-E52-92",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "AFP_ENG_20030630.0271-R10-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Adressing Palestinian complaints , an Israeli military source confirmed troops had installed a gate at the Netzarim crossing and at the southern Guest House junction but said that they were only there for when Jewish settlers needed to use the road .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Adressing", "Palestinian", "complaints", ",", "an", "Israeli", "military", "source", "confirmed", "troops", "had", "installed", "a", "gate", "at", "the", "Netzarim", "crossing", "and", "at", "the", "southern", "Guest", "House", "junction", "but", "said", "that", "they", "were", "only", "there", "for", "when", "Jewish", "settlers", "needed", "to", "use", "the", "road", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Following the withdrawal of Israeli troops from the northern town of Beit Hanoun late Sunday, police took up positions there and in the neighbouring town of Beit Lahiya, he said",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "AFP_ENG_20030630.0271-E8-19",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R11",
+  "mentionArg1" : {
+    "extent" : "police",
+    "argMentionid" : "AFP_ENG_20030630.0271-E9-18",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "AFP_ENG_20030630.0271-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Following the withdrawal of Israeli troops from the northern town of Beit Hanoun late Sunday , police took up positions there and in the neighbouring town of Beit Lahiya , he said .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Following", "the", "withdrawal", "of", "Israeli", "troops", "from", "the", "northern", "town", "of", "Beit", "Hanoun", "late", "Sunday", ",", "police", "took", "up", "positions", "there", "and", "in", "the", "neighbouring", "town", "of", "Beit", "Lahiya", ",", "he", "said", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Following the withdrawal of Israeli troops from the northern town of Beit Hanoun late Sunday, police took up positions there and in the neighbouring town of Beit Lahiya, he said",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "the neighbouring town of Beit Lahiya",
+    "argMentionid" : "AFP_ENG_20030630.0271-E10-20",
+    "start" : 23,
+    "end" : 28
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R12",
+  "mentionArg1" : {
+    "extent" : "police",
+    "argMentionid" : "AFP_ENG_20030630.0271-E9-18",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "AFP_ENG_20030630.0271-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Following the withdrawal of Israeli troops from the northern town of Beit Hanoun late Sunday , police took up positions there and in the neighbouring town of Beit Lahiya , he said .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Following", "the", "withdrawal", "of", "Israeli", "troops", "from", "the", "northern", "town", "of", "Beit", "Hanoun", "late", "Sunday", ",", "police", "took", "up", "positions", "there", "and", "in", "the", "neighbouring", "town", "of", "Beit", "Lahiya", ",", "he", "said", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "They also deployed along the border with Israel",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "the border with Israel",
+    "argMentionid" : "AFP_ENG_20030630.0271-E11-24",
+    "start" : 4,
+    "end" : 7
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R13",
+  "mentionArg1" : {
+    "extent" : "They",
+    "argMentionid" : "AFP_ENG_20030630.0271-E6-23",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "AFP_ENG_20030630.0271-R13-1",
+  "relationSubType" : "Near",
+  "Sentence" : "They also deployed along the border with Israel .",
+  "sentence_index" : 6,
+  "Tokens" : [ "They", "also", "deployed", "along", "the", "border", "with", "Israel", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Israeli army",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "AFP_ENG_20030630.0271-E7-33",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R14",
+  "mentionArg1" : {
+    "extent" : "the Israeli army",
+    "argMentionid" : "AFP_ENG_20030630.0271-E14-32",
+    "start" : 9,
+    "end" : 11
+  },
+  "id" : "AFP_ENG_20030630.0271-R14-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "In another first in the almost three-year intifada , the Israeli army allowed Palestinians free circulation on the trans-Gaza highway as troops abandoned three major checkpoints across the coastal territory .",
+  "sentence_index" : 8,
+  "Tokens" : [ "In", "another", "first", "in", "the", "almost", "three-year", "intifada", ",", "the", "Israeli", "army", "allowed", "Palestinians", "free", "circulation", "on", "the", "trans-Gaza", "highway", "as", "troops", "abandoned", "three", "major", "checkpoints", "across", "the", "coastal", "territory", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Israeli military",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "AFP_ENG_20030630.0271-E7-91",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R14",
+  "mentionArg1" : {
+    "extent" : "Israeli military",
+    "argMentionid" : "AFP_ENG_20030630.0271-E14-90",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "AFP_ENG_20030630.0271-R14-2",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Adressing Palestinian complaints , an Israeli military source confirmed troops had installed a gate at the Netzarim crossing and at the southern Guest House junction but said that they were only there for when Jewish settlers needed to use the road .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Adressing", "Palestinian", "complaints", ",", "an", "Israeli", "military", "source", "confirmed", "troops", "had", "installed", "a", "gate", "at", "the", "Netzarim", "crossing", "and", "at", "the", "southern", "Guest", "House", "junction", "but", "said", "that", "they", "were", "only", "there", "for", "when", "Jewish", "settlers", "needed", "to", "use", "the", "road", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the trans-Gaza highway",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Gaza",
+    "argMentionid" : "AFP_ENG_20030630.0271-E18-36",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R15",
+  "mentionArg1" : {
+    "extent" : "the trans-Gaza highway",
+    "argMentionid" : "AFP_ENG_20030630.0271-E17-35",
+    "start" : 17,
+    "end" : 19
+  },
+  "id" : "AFP_ENG_20030630.0271-R15-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "In another first in the almost three-year intifada , the Israeli army allowed Palestinians free circulation on the trans-Gaza highway as troops abandoned three major checkpoints across the coastal territory .",
+  "sentence_index" : 8,
+  "Tokens" : [ "In", "another", "first", "in", "the", "almost", "three-year", "intifada", ",", "the", "Israeli", "army", "allowed", "Palestinians", "free", "circulation", "on", "the", "trans-Gaza", "highway", "as", "troops", "abandoned", "three", "major", "checkpoints", "across", "the", "coastal", "territory", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the highway, which runs the entire length of the Gaza Strip",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "the Gaza Strip",
+    "argMentionid" : "AFP_ENG_20030630.0271-E18-55",
+    "start" : 14,
+    "end" : 16
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R15",
+  "mentionArg1" : {
+    "extent" : "which",
+    "argMentionid" : "AFP_ENG_20030630.0271-E17-54",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "AFP_ENG_20030630.0271-R15-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The three military checkpoints on the highway , which runs the entire length of the Gaza Strip , had transformed the trip from north to south , ordinarily a 30-minute ride , into a grinding two or three-hour ordeal and came to symbolise the horrors of occupation .",
+  "sentence_index" : 10,
+  "Tokens" : [ "The", "three", "military", "checkpoints", "on", "the", "highway", ",", "which", "runs", "the", "entire", "length", "of", "the", "Gaza", "Strip", ",", "had", "transformed", "the", "trip", "from", "north", "to", "south", ",", "ordinarily", "a", "30-minute", "ride", ",", "into", "a", "grinding", "two", "or", "three-hour", "ordeal", "and", "came", "to", "symbolise", "the", "horrors", "of", "occupation", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the trans-Gaza highway",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Gaza",
+    "argMentionid" : "AFP_ENG_20030630.0271-E18-67",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R15",
+  "mentionArg1" : {
+    "extent" : "the trans-Gaza highway",
+    "argMentionid" : "AFP_ENG_20030630.0271-E17-66",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "AFP_ENG_20030630.0271-R15-3",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Although there was free movement along the trans-Gaza highway , several other roads remained temporarily closed , he said .",
+  "sentence_index" : 12,
+  "Tokens" : [ "Although", "there", "was", "free", "movement", "along", "the", "trans-Gaza", "highway", ",", "several", "other", "roads", "remained", "temporarily", "closed", ",", "he", "said", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In another first in the almost three-year intifada, the Israeli army allowed Palestinians free circulation on the trans-Gaza highway as troops abandoned three major checkpoints across the coastal territory",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "three major checkpoints across the coastal territory",
+    "argMentionid" : "AFP_ENG_20030630.0271-E20-38",
+    "start" : 23,
+    "end" : 29
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R16",
+  "mentionArg1" : {
+    "extent" : "troops",
+    "argMentionid" : "AFP_ENG_20030630.0271-E19-37",
+    "start" : 21,
+    "end" : 21
+  },
+  "id" : "AFP_ENG_20030630.0271-R16-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In another first in the almost three-year intifada , the Israeli army allowed Palestinians free circulation on the trans-Gaza highway as troops abandoned three major checkpoints across the coastal territory .",
+  "sentence_index" : 8,
+  "Tokens" : [ "In", "another", "first", "in", "the", "almost", "three-year", "intifada", ",", "the", "Israeli", "army", "allowed", "Palestinians", "free", "circulation", "on", "the", "trans-Gaza", "highway", "as", "troops", "abandoned", "three", "major", "checkpoints", "across", "the", "coastal", "territory", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "three major checkpoints across the coastal territory",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "the coastal territory",
+    "argMentionid" : "AFP_ENG_20030630.0271-E18-39",
+    "start" : 27,
+    "end" : 29
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R17",
+  "mentionArg1" : {
+    "extent" : "three major checkpoints across the coastal territory",
+    "argMentionid" : "AFP_ENG_20030630.0271-E20-38",
+    "start" : 23,
+    "end" : 29
+  },
+  "id" : "AFP_ENG_20030630.0271-R17-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "In another first in the almost three-year intifada , the Israeli army allowed Palestinians free circulation on the trans-Gaza highway as troops abandoned three major checkpoints across the coastal territory .",
+  "sentence_index" : 8,
+  "Tokens" : [ "In", "another", "first", "in", "the", "almost", "three-year", "intifada", ",", "the", "Israeli", "army", "allowed", "Palestinians", "free", "circulation", "on", "the", "trans-Gaza", "highway", "as", "troops", "abandoned", "three", "major", "checkpoints", "across", "the", "coastal", "territory", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In another first in the almost three-year intifada, the Israeli army allowed Palestinians free circulation on the trans-Gaza highway as troops abandoned three major checkpoints across the coastal territory",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "the trans-Gaza highway",
+    "argMentionid" : "AFP_ENG_20030630.0271-E17-35",
+    "start" : 17,
+    "end" : 19
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R18",
+  "mentionArg1" : {
+    "extent" : "Palestinians",
+    "argMentionid" : "AFP_ENG_20030630.0271-E16-34",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "AFP_ENG_20030630.0271-R18-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In another first in the almost three-year intifada , the Israeli army allowed Palestinians free circulation on the trans-Gaza highway as troops abandoned three major checkpoints across the coastal territory .",
+  "sentence_index" : 8,
+  "Tokens" : [ "In", "another", "first", "in", "the", "almost", "three-year", "intifada", ",", "the", "Israeli", "army", "allowed", "Palestinians", "free", "circulation", "on", "the", "trans-Gaza", "highway", "as", "troops", "abandoned", "three", "major", "checkpoints", "across", "the", "coastal", "territory", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Traffic was flowing freely through the Netzarim junction, just south of Gaza City, the Kissufim junction by Deir al-Balah in the central Gaza Strip, and the Guest House junction just south of Deir al-Balah after the army withdrew",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Gaza City",
+    "argMentionid" : "AFP_ENG_20030630.0271-E22-42",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R19",
+  "mentionArg1" : {
+    "extent" : "the Netzarim junction, just south of Gaza City",
+    "argMentionid" : "AFP_ENG_20030630.0271-E21-40",
+    "start" : 5,
+    "end" : 13
+  },
+  "id" : "AFP_ENG_20030630.0271-R19-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Traffic was flowing freely through the Netzarim junction , just south of Gaza City , the Kissufim junction by Deir al-Balah in the central Gaza Strip , and the Guest House junction just south of Deir al-Balah after the army withdrew .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Traffic", "was", "flowing", "freely", "through", "the", "Netzarim", "junction", ",", "just", "south", "of", "Gaza", "City", ",", "the", "Kissufim", "junction", "by", "Deir", "al-Balah", "in", "the", "central", "Gaza", "Strip", ",", "and", "the", "Guest", "House", "junction", "just", "south", "of", "Deir", "al-Balah", "after", "the", "army", "withdrew", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the Kissufim junction by Deir al-Balah in the central Gaza Strip",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Deir al-Balah in the central Gaza Strip",
+    "argMentionid" : "AFP_ENG_20030630.0271-E26-45",
+    "start" : 19,
+    "end" : 25
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R20",
+  "mentionArg1" : {
+    "extent" : "the Kissufim junction by Deir al-Balah in the central Gaza Strip",
+    "argMentionid" : "AFP_ENG_20030630.0271-E24-43",
+    "start" : 15,
+    "end" : 25
+  },
+  "id" : "AFP_ENG_20030630.0271-R20-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Traffic was flowing freely through the Netzarim junction , just south of Gaza City , the Kissufim junction by Deir al-Balah in the central Gaza Strip , and the Guest House junction just south of Deir al-Balah after the army withdrew .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Traffic", "was", "flowing", "freely", "through", "the", "Netzarim", "junction", ",", "just", "south", "of", "Gaza", "City", ",", "the", "Kissufim", "junction", "by", "Deir", "al-Balah", "in", "the", "central", "Gaza", "Strip", ",", "and", "the", "Guest", "House", "junction", "just", "south", "of", "Deir", "al-Balah", "after", "the", "army", "withdrew", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Deir al-Balah in the central Gaza Strip",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "the central Gaza Strip",
+    "argMentionid" : "AFP_ENG_20030630.0271-E27-46",
+    "start" : 22,
+    "end" : 25
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R21",
+  "mentionArg1" : {
+    "extent" : "Deir al-Balah in the central Gaza Strip",
+    "argMentionid" : "AFP_ENG_20030630.0271-E26-45",
+    "start" : 19,
+    "end" : 25
+  },
+  "id" : "AFP_ENG_20030630.0271-R21-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Traffic was flowing freely through the Netzarim junction , just south of Gaza City , the Kissufim junction by Deir al-Balah in the central Gaza Strip , and the Guest House junction just south of Deir al-Balah after the army withdrew .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Traffic", "was", "flowing", "freely", "through", "the", "Netzarim", "junction", ",", "just", "south", "of", "Gaza", "City", ",", "the", "Kissufim", "junction", "by", "Deir", "al-Balah", "in", "the", "central", "Gaza", "Strip", ",", "and", "the", "Guest", "House", "junction", "just", "south", "of", "Deir", "al-Balah", "after", "the", "army", "withdrew", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Traffic was flowing freely through the Netzarim junction, just south of Gaza City, the Kissufim junction by Deir al-Balah in the central Gaza Strip, and the Guest House junction just south of Deir al-Balah after the army withdrew",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Deir al-Balah",
+    "argMentionid" : "AFP_ENG_20030630.0271-E26-49",
+    "start" : 35,
+    "end" : 36
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R22",
+  "mentionArg1" : {
+    "extent" : "Guest House",
+    "argMentionid" : "AFP_ENG_20030630.0271-E28-48",
+    "start" : 29,
+    "end" : 30
+  },
+  "id" : "AFP_ENG_20030630.0271-R22-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Traffic was flowing freely through the Netzarim junction , just south of Gaza City , the Kissufim junction by Deir al-Balah in the central Gaza Strip , and the Guest House junction just south of Deir al-Balah after the army withdrew .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Traffic", "was", "flowing", "freely", "through", "the", "Netzarim", "junction", ",", "just", "south", "of", "Gaza", "City", ",", "the", "Kissufim", "junction", "by", "Deir", "al-Balah", "in", "the", "central", "Gaza", "Strip", ",", "and", "the", "Guest", "House", "junction", "just", "south", "of", "Deir", "al-Balah", "after", "the", "army", "withdrew", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The three military checkpoints on the highway, which runs the entire length of the Gaza Strip",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "the highway, which runs the entire length of the Gaza Strip",
+    "argMentionid" : "AFP_ENG_20030630.0271-E17-53",
+    "start" : 5,
+    "end" : 16
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R23",
+  "mentionArg1" : {
+    "extent" : "The three military checkpoints on the highway, which runs the entire length of the Gaza Strip",
+    "argMentionid" : "AFP_ENG_20030630.0271-E20-51",
+    "start" : 0,
+    "end" : 16
+  },
+  "id" : "AFP_ENG_20030630.0271-R23-1",
+  "relationSubType" : "Near",
+  "Sentence" : "The three military checkpoints on the highway , which runs the entire length of the Gaza Strip , had transformed the trip from north to south , ordinarily a 30-minute ride , into a grinding two or three-hour ordeal and came to symbolise the horrors of occupation .",
+  "sentence_index" : 10,
+  "Tokens" : [ "The", "three", "military", "checkpoints", "on", "the", "highway", ",", "which", "runs", "the", "entire", "length", "of", "the", "Gaza", "Strip", ",", "had", "transformed", "the", "trip", "from", "north", "to", "south", ",", "ordinarily", "a", "30-minute", "ride", ",", "into", "a", "grinding", "two", "or", "three-hour", "ordeal", "and", "came", "to", "symbolise", "the", "horrors", "of", "occupation", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "The three military checkpoints on the highway, which runs the entire length of the Gaza Strip",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "The three military checkpoints on the highway, which runs the entire length of the Gaza Strip",
+    "argMentionid" : "AFP_ENG_20030630.0271-E20-51",
+    "start" : 0,
+    "end" : 16
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R24",
+  "mentionArg1" : {
+    "extent" : "military",
+    "argMentionid" : "AFP_ENG_20030630.0271-E14-52",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "AFP_ENG_20030630.0271-R24-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The three military checkpoints on the highway , which runs the entire length of the Gaza Strip , had transformed the trip from north to south , ordinarily a 30-minute ride , into a grinding two or three-hour ordeal and came to symbolise the horrors of occupation .",
+  "sentence_index" : 10,
+  "Tokens" : [ "The", "three", "military", "checkpoints", "on", "the", "highway", ",", "which", "runs", "the", "entire", "length", "of", "the", "Gaza", "Strip", ",", "had", "transformed", "the", "trip", "from", "north", "to", "south", ",", "ordinarily", "a", "30-minute", "ride", ",", "into", "a", "grinding", "two", "or", "three-hour", "ordeal", "and", "came", "to", "symbolise", "the", "horrors", "of", "occupation", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The Karni-Netzarim road, which runs east-to-west across the route, was still closed as was the section of the highway passing close by Kfar Darom settlement, just south of the Guest House junction, he said, adding both were likely to be opened in the coming weeks",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "the Guest House junction",
+    "argMentionid" : "AFP_ENG_20030630.0271-E28-77",
+    "start" : 31,
+    "end" : 34
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R26",
+  "mentionArg1" : {
+    "extent" : "Kfar Darom",
+    "argMentionid" : "AFP_ENG_20030630.0271-E40-76",
+    "start" : 24,
+    "end" : 25
+  },
+  "id" : "AFP_ENG_20030630.0271-R26-1",
+  "relationSubType" : "Near",
+  "Sentence" : "The Karni-Netzarim road , which runs east-to-west across the route , was still closed as was the section of the highway passing close by Kfar Darom settlement , just south of the Guest House junction , he said , adding both were likely to be opened in the coming weeks .",
+  "sentence_index" : 13,
+  "Tokens" : [ "The", "Karni-Netzarim", "road", ",", "which", "runs", "east-to-west", "across", "the", "route", ",", "was", "still", "closed", "as", "was", "the", "section", "of", "the", "highway", "passing", "close", "by", "Kfar", "Darom", "settlement", ",", "just", "south", "of", "the", "Guest", "House", "junction", ",", "he", "said", ",", "adding", "both", "were", "likely", "to", "be", "opened", "in", "the", "coming", "weeks", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the section of the highway passing close by Kfar Darom settlement, just south of the Guest House junction",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "Kfar Darom settlement, just south of the Guest House junction",
+    "argMentionid" : "AFP_ENG_20030630.0271-E40-75",
+    "start" : 24,
+    "end" : 34
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R27",
+  "mentionArg1" : {
+    "extent" : "the section of the highway passing close by Kfar Darom settlement, just south of the Guest House junction",
+    "argMentionid" : "AFP_ENG_20030630.0271-E53-93",
+    "start" : 16,
+    "end" : 34
+  },
+  "id" : "AFP_ENG_20030630.0271-R27-1",
+  "relationSubType" : "Near",
+  "Sentence" : "The Karni-Netzarim road , which runs east-to-west across the route , was still closed as was the section of the highway passing close by Kfar Darom settlement , just south of the Guest House junction , he said , adding both were likely to be opened in the coming weeks .",
+  "sentence_index" : 13,
+  "Tokens" : [ "The", "Karni-Netzarim", "road", ",", "which", "runs", "east-to-west", "across", "the", "route", ",", "was", "still", "closed", "as", "was", "the", "section", "of", "the", "highway", "passing", "close", "by", "Kfar", "Darom", "settlement", ",", "just", "south", "of", "the", "Guest", "House", "junction", ",", "he", "said", ",", "adding", "both", "were", "likely", "to", "be", "opened", "in", "the", "coming", "weeks", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "an Israeli military source",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Israeli military",
+    "argMentionid" : "AFP_ENG_20030630.0271-E14-90",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R29",
+  "mentionArg1" : {
+    "extent" : "an Israeli military source",
+    "argMentionid" : "AFP_ENG_20030630.0271-E49-89",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "AFP_ENG_20030630.0271-R29-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Adressing Palestinian complaints , an Israeli military source confirmed troops had installed a gate at the Netzarim crossing and at the southern Guest House junction but said that they were only there for when Jewish settlers needed to use the road .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Adressing", "Palestinian", "complaints", ",", "an", "Israeli", "military", "source", "confirmed", "troops", "had", "installed", "a", "gate", "at", "the", "Netzarim", "crossing", "and", "at", "the", "southern", "Guest", "House", "junction", "but", "said", "that", "they", "were", "only", "there", "for", "when", "Jewish", "settlers", "needed", "to", "use", "the", "road", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Adressing Palestinian complaints, an Israeli military source confirmed troops had installed a gate at the Netzarim crossing and at the southern Guest House junction but said that they were only there for when Jewish settlers needed to use the road",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "the southern Guest House junction",
+    "argMentionid" : "AFP_ENG_20030630.0271-E28-96",
+    "start" : 20,
+    "end" : 24
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R30",
+  "mentionArg1" : {
+    "extent" : "an Israeli military source",
+    "argMentionid" : "AFP_ENG_20030630.0271-E49-89",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "AFP_ENG_20030630.0271-R30-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Adressing Palestinian complaints , an Israeli military source confirmed troops had installed a gate at the Netzarim crossing and at the southern Guest House junction but said that they were only there for when Jewish settlers needed to use the road .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Adressing", "Palestinian", "complaints", ",", "an", "Israeli", "military", "source", "confirmed", "troops", "had", "installed", "a", "gate", "at", "the", "Netzarim", "crossing", "and", "at", "the", "southern", "Guest", "House", "junction", "but", "said", "that", "they", "were", "only", "there", "for", "when", "Jewish", "settlers", "needed", "to", "use", "the", "road", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Another road, leading from the southern border town of Rafah to Khan Yunis, would be opened within 10 days, he said",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the southern border town of Rafah",
+    "argMentionid" : "AFP_ENG_20030630.0271-E45-134",
+    "start" : 5,
+    "end" : 10
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R31",
+  "mentionArg1" : {
+    "extent" : "Another road, leading from the southern border town of Rafah to Khan Yunis",
+    "argMentionid" : "AFP_ENG_20030630.0271-E44-82",
+    "start" : 0,
+    "end" : 13
+  },
+  "id" : "AFP_ENG_20030630.0271-R31-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Another road , leading from the southern border town of Rafah to Khan Yunis , would be opened within 10 days , he said .",
+  "sentence_index" : 14,
+  "Tokens" : [ "Another", "road", ",", "leading", "from", "the", "southern", "border", "town", "of", "Rafah", "to", "Khan", "Yunis", ",", "would", "be", "opened", "within", "10", "days", ",", "he", "said", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Another road, leading from the southern border town of Rafah to Khan Yunis, would be opened within 10 days, he said",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Khan Yunis",
+    "argMentionid" : "AFP_ENG_20030630.0271-E47-86",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R32",
+  "mentionArg1" : {
+    "extent" : "Another road, leading from the southern border town of Rafah to Khan Yunis",
+    "argMentionid" : "AFP_ENG_20030630.0271-E44-82",
+    "start" : 0,
+    "end" : 13
+  },
+  "id" : "AFP_ENG_20030630.0271-R32-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Another road , leading from the southern border town of Rafah to Khan Yunis , would be opened within 10 days , he said .",
+  "sentence_index" : 14,
+  "Tokens" : [ "Another", "road", ",", "leading", "from", "the", "southern", "border", "town", "of", "Rafah", "to", "Khan", "Yunis", ",", "would", "be", "opened", "within", "10", "days", ",", "he", "said", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a gate at the Netzarim crossing",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "the Netzarim crossing",
+    "argMentionid" : "AFP_ENG_20030630.0271-E21-94",
+    "start" : 15,
+    "end" : 17
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R33",
+  "mentionArg1" : {
+    "extent" : "a gate at the Netzarim crossing",
+    "argMentionid" : "AFP_ENG_20030630.0271-E76-135",
+    "start" : 12,
+    "end" : 17
+  },
+  "id" : "AFP_ENG_20030630.0271-R33-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Adressing Palestinian complaints , an Israeli military source confirmed troops had installed a gate at the Netzarim crossing and at the southern Guest House junction but said that they were only there for when Jewish settlers needed to use the road .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Adressing", "Palestinian", "complaints", ",", "an", "Israeli", "military", "source", "confirmed", "troops", "had", "installed", "a", "gate", "at", "the", "Netzarim", "crossing", "and", "at", "the", "southern", "Guest", "House", "junction", "but", "said", "that", "they", "were", "only", "there", "for", "when", "Jewish", "settlers", "needed", "to", "use", "the", "road", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Adressing Palestinian complaints, an Israeli military source confirmed troops had installed a gate at the Netzarim crossing and at the southern Guest House junction but said that they were only there for when Jewish settlers needed to use the road",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "AFP_ENG_20030630.0271-E77-136",
+    "start" : 31,
+    "end" : 31
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R34",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "AFP_ENG_20030630.0271-E56-99",
+    "start" : 28,
+    "end" : 28
+  },
+  "id" : "AFP_ENG_20030630.0271-R34-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Adressing Palestinian complaints , an Israeli military source confirmed troops had installed a gate at the Netzarim crossing and at the southern Guest House junction but said that they were only there for when Jewish settlers needed to use the road .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Adressing", "Palestinian", "complaints", ",", "an", "Israeli", "military", "source", "confirmed", "troops", "had", "installed", "a", "gate", "at", "the", "Netzarim", "crossing", "and", "at", "the", "southern", "Guest", "House", "junction", "but", "said", "that", "they", "were", "only", "there", "for", "when", "Jewish", "settlers", "needed", "to", "use", "the", "road", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Adressing Palestinian complaints, an Israeli military source confirmed troops had installed a gate at the Netzarim crossing and at the southern Guest House junction but said that they were only there for when Jewish settlers needed to use the road",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "the road",
+    "argMentionid" : "AFP_ENG_20030630.0271-E17-102",
+    "start" : 39,
+    "end" : 40
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R35",
+  "mentionArg1" : {
+    "extent" : "Jewish settlers",
+    "argMentionid" : "AFP_ENG_20030630.0271-E57-100",
+    "start" : 34,
+    "end" : 35
+  },
+  "id" : "AFP_ENG_20030630.0271-R35-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Adressing Palestinian complaints , an Israeli military source confirmed troops had installed a gate at the Netzarim crossing and at the southern Guest House junction but said that they were only there for when Jewish settlers needed to use the road .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Adressing", "Palestinian", "complaints", ",", "an", "Israeli", "military", "source", "confirmed", "troops", "had", "installed", "a", "gate", "at", "the", "Netzarim", "crossing", "and", "at", "the", "southern", "Guest", "House", "junction", "but", "said", "that", "they", "were", "only", "there", "for", "when", "Jewish", "settlers", "needed", "to", "use", "the", "road", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Palestinian men under the age of 35",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "AFP_ENG_20030630.0271-E1-104",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R36",
+  "mentionArg1" : {
+    "extent" : "Palestinian men under the age of 35",
+    "argMentionid" : "AFP_ENG_20030630.0271-E59-103",
+    "start" : 3,
+    "end" : 9
+  },
+  "id" : "AFP_ENG_20030630.0271-R36-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "A ban on Palestinian men under the age of 35 being allowed to move freely was still in force but that was expected to be lifted later on Monday or early Tuesday .",
+  "sentence_index" : 16,
+  "Tokens" : [ "A", "ban", "on", "Palestinian", "men", "under", "the", "age", "of", "35", "being", "allowed", "to", "move", "freely", "was", "still", "in", "force", "but", "that", "was", "expected", "to", "be", "lifted", "later", "on", "Monday", "or", "early", "Tuesday", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The army also handed over control of Rafah border crossing between the Gaza Strip and Egypt to the Palestinians, security sources said",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "border",
+    "argMentionid" : "AFP_ENG_20030630.0271-E73-137",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R37",
+  "mentionArg1" : {
+    "extent" : "Rafah",
+    "argMentionid" : "AFP_ENG_20030630.0271-E45-106",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "AFP_ENG_20030630.0271-R37-1",
+  "relationSubType" : "Near",
+  "Sentence" : "The army also handed over control of Rafah border crossing between the Gaza Strip and Egypt to the Palestinians , security sources said .",
+  "sentence_index" : 17,
+  "Tokens" : [ "The", "army", "also", "handed", "over", "control", "of", "Rafah", "border", "crossing", "between", "the", "Gaza", "Strip", "and", "Egypt", "to", "the", "Palestinians", ",", "security", "sources", "said", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Under the 1993 Oslo accords, which granted a measure of autonomy to the Palestinians, the Rafah border crossing with Egypt was to be jointly managed by both Israel and the Palestinians, although Israel had final control over the zone",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "border",
+    "argMentionid" : "AFP_ENG_20030630.0271-E73-138",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R37",
+  "mentionArg1" : {
+    "extent" : "Rafah",
+    "argMentionid" : "AFP_ENG_20030630.0271-E45-122",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "AFP_ENG_20030630.0271-R37-2",
+  "relationSubType" : "Near",
+  "Sentence" : "Under the 1993 Oslo accords , which granted a measure of autonomy to the Palestinians , the Rafah border crossing with Egypt was to be jointly managed by both Israel and the Palestinians , although Israel had final control over the zone .",
+  "sentence_index" : 19,
+  "Tokens" : [ "Under", "the", "1993", "Oslo", "accords", ",", "which", "granted", "a", "measure", "of", "autonomy", "to", "the", "Palestinians", ",", "the", "Rafah", "border", "crossing", "with", "Egypt", "was", "to", "be", "jointly", "managed", "by", "both", "Israel", "and", "the", "Palestinians", ",", "although", "Israel", "had", "final", "control", "over", "the", "zone", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The army also handed over control of Rafah border crossing between the Gaza Strip and Egypt to the Palestinians, security sources said",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Egypt",
+    "argMentionid" : "AFP_ENG_20030630.0271-E62-108",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R38",
+  "mentionArg1" : {
+    "extent" : "the Gaza Strip",
+    "argMentionid" : "AFP_ENG_20030630.0271-E18-107",
+    "start" : 11,
+    "end" : 13
+  },
+  "id" : "AFP_ENG_20030630.0271-R38-1",
+  "relationSubType" : "Near",
+  "Sentence" : "The army also handed over control of Rafah border crossing between the Gaza Strip and Egypt to the Palestinians , security sources said .",
+  "sentence_index" : 17,
+  "Tokens" : [ "The", "army", "also", "handed", "over", "control", "of", "Rafah", "border", "crossing", "between", "the", "Gaza", "Strip", "and", "Egypt", "to", "the", "Palestinians", ",", "security", "sources", "said", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Six Palestinian police officers",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "police",
+    "argMentionid" : "AFP_ENG_20030630.0271-E66-113",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R39",
+  "mentionArg1" : {
+    "extent" : "Six Palestinian police officers",
+    "argMentionid" : "AFP_ENG_20030630.0271-E64-111",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "AFP_ENG_20030630.0271-R39-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Six Palestinian police officers were allowed to return to the Palestinian section of the border crossing , which had been taken over by Israeli troops shortly after the start of the uprising .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Six", "Palestinian", "police", "officers", "were", "allowed", "to", "return", "to", "the", "Palestinian", "section", "of", "the", "border", "crossing", ",", "which", "had", "been", "taken", "over", "by", "Israeli", "troops", "shortly", "after", "the", "start", "of", "the", "uprising", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Palestinian police",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "AFP_ENG_20030630.0271-E1-112",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R40",
+  "mentionArg1" : {
+    "extent" : "police",
+    "argMentionid" : "AFP_ENG_20030630.0271-E66-113",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "AFP_ENG_20030630.0271-R40-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Six Palestinian police officers were allowed to return to the Palestinian section of the border crossing , which had been taken over by Israeli troops shortly after the start of the uprising .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Six", "Palestinian", "police", "officers", "were", "allowed", "to", "return", "to", "the", "Palestinian", "section", "of", "the", "border", "crossing", ",", "which", "had", "been", "taken", "over", "by", "Israeli", "troops", "shortly", "after", "the", "start", "of", "the", "uprising", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Six Palestinian police officers were allowed to return to the Palestinian section of the border crossing, which had been taken over by Israeli troops shortly after the start of the uprising",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "the Palestinian section of the border crossing, which had been taken over by Israeli troops shortly after the start of the uprising",
+    "argMentionid" : "AFP_ENG_20030630.0271-E67-114",
+    "start" : 9,
+    "end" : 31
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R41",
+  "mentionArg1" : {
+    "extent" : "Six Palestinian police officers",
+    "argMentionid" : "AFP_ENG_20030630.0271-E64-111",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "AFP_ENG_20030630.0271-R41-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Six Palestinian police officers were allowed to return to the Palestinian section of the border crossing , which had been taken over by Israeli troops shortly after the start of the uprising .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Six", "Palestinian", "police", "officers", "were", "allowed", "to", "return", "to", "the", "Palestinian", "section", "of", "the", "border", "crossing", ",", "which", "had", "been", "taken", "over", "by", "Israeli", "troops", "shortly", "after", "the", "start", "of", "the", "uprising", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Palestinian section of the border crossing, which had been taken over by Israeli troops shortly after the start of the uprising",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "the border crossing",
+    "argMentionid" : "AFP_ENG_20030630.0271-E68-115",
+    "start" : 13,
+    "end" : 15
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R42",
+  "mentionArg1" : {
+    "extent" : "the Palestinian section of the border crossing, which had been taken over by Israeli troops shortly after the start of the uprising",
+    "argMentionid" : "AFP_ENG_20030630.0271-E67-114",
+    "start" : 9,
+    "end" : 31
+  },
+  "id" : "AFP_ENG_20030630.0271-R42-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Six Palestinian police officers were allowed to return to the Palestinian section of the border crossing , which had been taken over by Israeli troops shortly after the start of the uprising .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Six", "Palestinian", "police", "officers", "were", "allowed", "to", "return", "to", "the", "Palestinian", "section", "of", "the", "border", "crossing", ",", "which", "had", "been", "taken", "over", "by", "Israeli", "troops", "shortly", "after", "the", "start", "of", "the", "uprising", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the border crossing",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "border",
+    "argMentionid" : "AFP_ENG_20030630.0271-E73-121",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R43",
+  "mentionArg1" : {
+    "extent" : "the border crossing",
+    "argMentionid" : "AFP_ENG_20030630.0271-E68-115",
+    "start" : 13,
+    "end" : 15
+  },
+  "id" : "AFP_ENG_20030630.0271-R43-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Six Palestinian police officers were allowed to return to the Palestinian section of the border crossing , which had been taken over by Israeli troops shortly after the start of the uprising .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Six", "Palestinian", "police", "officers", "were", "allowed", "to", "return", "to", "the", "Palestinian", "section", "of", "the", "border", "crossing", ",", "which", "had", "been", "taken", "over", "by", "Israeli", "troops", "shortly", "after", "the", "start", "of", "the", "uprising", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Six Palestinian police officers were allowed to return to the Palestinian section of the border crossing, which had been taken over by Israeli troops shortly after the start of the uprising",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "which",
+    "argMentionid" : "AFP_ENG_20030630.0271-E67-116",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R44",
+  "mentionArg1" : {
+    "extent" : "Israeli troops",
+    "argMentionid" : "AFP_ENG_20030630.0271-E70-117",
+    "start" : 23,
+    "end" : 24
+  },
+  "id" : "AFP_ENG_20030630.0271-R44-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Six Palestinian police officers were allowed to return to the Palestinian section of the border crossing , which had been taken over by Israeli troops shortly after the start of the uprising .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Six", "Palestinian", "police", "officers", "were", "allowed", "to", "return", "to", "the", "Palestinian", "section", "of", "the", "border", "crossing", ",", "which", "had", "been", "taken", "over", "by", "Israeli", "troops", "shortly", "after", "the", "start", "of", "the", "uprising", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Israeli troops",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "AFP_ENG_20030630.0271-E7-118",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R45",
+  "mentionArg1" : {
+    "extent" : "Israeli troops",
+    "argMentionid" : "AFP_ENG_20030630.0271-E70-117",
+    "start" : 23,
+    "end" : 24
+  },
+  "id" : "AFP_ENG_20030630.0271-R45-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Six Palestinian police officers were allowed to return to the Palestinian section of the border crossing , which had been taken over by Israeli troops shortly after the start of the uprising .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Six", "Palestinian", "police", "officers", "were", "allowed", "to", "return", "to", "the", "Palestinian", "section", "of", "the", "border", "crossing", ",", "which", "had", "been", "taken", "over", "by", "Israeli", "troops", "shortly", "after", "the", "start", "of", "the", "uprising", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Although the crossing has, in principle, been open for movement between the two territories -- while being frequently closed by Israeli for reasons rarely explained -- the Palestinian section has been manned by Israel for more than two years",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "the crossing",
+    "argMentionid" : "AFP_ENG_20030630.0271-E68-127",
+    "start" : 1,
+    "end" : 2
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R46",
+  "mentionArg1" : {
+    "extent" : "Israeli",
+    "argMentionid" : "AFP_ENG_20030630.0271-E7-132",
+    "start" : 22,
+    "end" : 22
+  },
+  "id" : "AFP_ENG_20030630.0271-R46-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Although the crossing has , in principle , been open for movement between the two territories -- while being frequently closed by Israeli for reasons rarely explained -- the Palestinian section has been manned by Israel for more than two years .",
+  "sentence_index" : 20,
+  "Tokens" : [ "Although", "the", "crossing", "has", ",", "in", "principle", ",", "been", "open", "for", "movement", "between", "the", "two", "territories", "--", "while", "being", "frequently", "closed", "by", "Israeli", "for", "reasons", "rarely", "explained", "--", "the", "Palestinian", "section", "has", "been", "manned", "by", "Israel", "for", "more", "than", "two", "years", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the Palestinian section",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "the Palestinian section",
+    "argMentionid" : "AFP_ENG_20030630.0271-E67-129",
+    "start" : 28,
+    "end" : 30
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R47",
+  "mentionArg1" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "AFP_ENG_20030630.0271-E1-130",
+    "start" : 29,
+    "end" : 29
+  },
+  "id" : "AFP_ENG_20030630.0271-R47-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Although the crossing has , in principle , been open for movement between the two territories -- while being frequently closed by Israeli for reasons rarely explained -- the Palestinian section has been manned by Israel for more than two years .",
+  "sentence_index" : 20,
+  "Tokens" : [ "Although", "the", "crossing", "has", ",", "in", "principle", ",", "been", "open", "for", "movement", "between", "the", "two", "territories", "--", "while", "being", "frequently", "closed", "by", "Israeli", "for", "reasons", "rarely", "explained", "--", "the", "Palestinian", "section", "has", "been", "manned", "by", "Israel", "for", "more", "than", "two", "years", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Although the crossing has, in principle, been open for movement between the two territories -- while being frequently closed by Israeli for reasons rarely explained -- the Palestinian section has been manned by Israel for more than two years",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "the Palestinian section",
+    "argMentionid" : "AFP_ENG_20030630.0271-E67-129",
+    "start" : 28,
+    "end" : 30
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R48",
+  "mentionArg1" : {
+    "extent" : "Israel",
+    "argMentionid" : "AFP_ENG_20030630.0271-E7-131",
+    "start" : 35,
+    "end" : 35
+  },
+  "id" : "AFP_ENG_20030630.0271-R48-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Although the crossing has , in principle , been open for movement between the two territories -- while being frequently closed by Israeli for reasons rarely explained -- the Palestinian section has been manned by Israel for more than two years .",
+  "sentence_index" : 20,
+  "Tokens" : [ "Although", "the", "crossing", "has", ",", "in", "principle", ",", "been", "open", "for", "movement", "between", "the", "two", "territories", "--", "while", "being", "frequently", "closed", "by", "Israeli", "for", "reasons", "rarely", "explained", "--", "the", "Palestinian", "section", "has", "been", "manned", "by", "Israel", "for", "more", "than", "two", "years", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "It is the first time they have had freedom of movement with cars and weapons since the start of the intifada,\" the source said",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "cars",
+    "argMentionid" : "AFP_ENG_20030630.0271-E3-8",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "AFP_ENG_20030630.0271-R49",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "AFP_ENG_20030630.0271-E89-6",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "AFP_ENG_20030630.0271-R49-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "It is the first time they have had freedom of movement with cars and weapons since the start of the intifada , \" the source said .",
+  "sentence_index" : 3,
+  "Tokens" : [ "It", "is", "the", "first", "time", "they", "have", "had", "freedom", "of", "movement", "with", "cars", "and", "weapons", "since", "the", "start", "of", "the", "intifada", ",", "\"", "the", "source", "said", "." ]
+} ]

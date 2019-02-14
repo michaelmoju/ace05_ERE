@@ -1,0 +1,1035 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "A man driving what appeared to be a taxicab came to the checkpoint, waved soldiers over, appeared to be having mechanical problems of some kind",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "the checkpoint",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E82-10",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R1",
+  "mentionArg1" : {
+    "extent" : "soldiers",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E76-11",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "A man driving what appeared to be a taxicab came to the checkpoint , waved soldiers over , appeared to be having mechanical problems of some kind .",
+  "sentence_index" : 8,
+  "Tokens" : [ "A", "man", "driving", "what", "appeared", "to", "be", "a", "taxicab", "came", "to", "the", "checkpoint", ",", "waved", "soldiers", "over", ",", "appeared", "to", "be", "having", "mechanical", "problems", "of", "some", "kind", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Four U.S. soldiers from the 3rd Infantry Division manning a checkpoint near the town of Najaf killed today in an apparent suicide bombing",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "a checkpoint near the town of Najaf",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E82-6",
+    "start" : 9,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R1",
+  "mentionArg1" : {
+    "extent" : "Four U.S. soldiers from the 3rd Infantry Division manning a checkpoint near the town of Najaf",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E76-4",
+    "start" : 0,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R1-2",
+  "relationSubType" : "Located",
+  "Sentence" : "Four U.S. soldiers from the 3rd Infantry Division manning a checkpoint near the town of Najaf killed today in an apparent suicide bombing .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Four", "U.S.", "soldiers", "from", "the", "3rd", "Infantry", "Division", "manning", "a", "checkpoint", "near", "the", "town", "of", "Najaf", "killed", "today", "in", "an", "apparent", "suicide", "bombing", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Four U.S. Army soldiers were killed when a suicide bomber attacked a military checkpoint today in Najaf",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "a military checkpoint",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E82-156",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R1",
+  "mentionArg1" : {
+    "extent" : "Four U.S. Army soldiers",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E76-131",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R1-3",
+  "relationSubType" : "Located",
+  "Sentence" : "Four U.S. Army soldiers were killed when a suicide bomber attacked a military checkpoint today in Najaf .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Four", "U.S.", "Army", "soldiers", "were", "killed", "when", "a", "suicide", "bomber", "attacked", "a", "military", "checkpoint", "today", "in", "Najaf", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "As the soldiers approached, the man detonated explosives in the car killing all four of the soldiers",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "explosives",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E5-13",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R3",
+  "mentionArg1" : {
+    "extent" : "the man",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E3-12",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R3-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "As the soldiers approached , the man detonated explosives in the car killing all four of the soldiers .",
+  "sentence_index" : 9,
+  "Tokens" : [ "As", "the", "soldiers", "approached", ",", "the", "man", "detonated", "explosives", "in", "the", "car", "killing", "all", "four", "of", "the", "soldiers", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Four U.S. soldiers from the 3rd Infantry Division manning a checkpoint near the town of Najaf",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "the 3rd Infantry Division",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E2-5",
+    "start" : 4,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R4",
+  "mentionArg1" : {
+    "extent" : "Four U.S. soldiers from the 3rd Infantry Division manning a checkpoint near the town of Najaf",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E76-4",
+    "start" : 0,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R4-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Four U.S. soldiers from the 3rd Infantry Division manning a checkpoint near the town of Najaf killed today in an apparent suicide bombing .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Four", "U.S.", "soldiers", "from", "the", "3rd", "Infantry", "Division", "manning", "a", "checkpoint", "near", "the", "town", "of", "Najaf", "killed", "today", "in", "an", "apparent", "suicide", "bombing", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Four U.S. soldiers from the 3rd Infantry Division manning a checkpoint near the town of Najaf killed today in an apparent suicide bombing",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "a checkpoint near the town of Najaf",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E82-6",
+    "start" : 9,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R5",
+  "mentionArg1" : {
+    "extent" : "the 3rd Infantry Division",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E2-5",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Four U.S. soldiers from the 3rd Infantry Division manning a checkpoint near the town of Najaf killed today in an apparent suicide bombing .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Four", "U.S.", "soldiers", "from", "the", "3rd", "Infantry", "Division", "manning", "a", "checkpoint", "near", "the", "town", "of", "Najaf", "killed", "today", "in", "an", "apparent", "suicide", "bombing", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "As the soldiers approached, the man detonated explosives in the car killing all four of the soldiers",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "the car",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E4-14",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R7",
+  "mentionArg1" : {
+    "extent" : "the man",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E3-12",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R7-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "As the soldiers approached , the man detonated explosives in the car killing all four of the soldiers .",
+  "sentence_index" : 9,
+  "Tokens" : [ "As", "the", "soldiers", "approached", ",", "the", "man", "detonated", "explosives", "in", "the", "car", "killing", "all", "four", "of", "the", "soldiers", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "A man driving what appeared to be a taxicab",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "a taxicab",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E4-129",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R7",
+  "mentionArg1" : {
+    "extent" : "A man driving what appeared to be a taxicab",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E3-9",
+    "start" : 0,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R7-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "A man driving what appeared to be a taxicab came to the checkpoint , waved soldiers over , appeared to be having mechanical problems of some kind .",
+  "sentence_index" : 8,
+  "Tokens" : [ "A", "man", "driving", "what", "appeared", "to", "be", "a", "taxicab", "came", "to", "the", "checkpoint", ",", "waved", "soldiers", "over", ",", "appeared", "to", "be", "having", "mechanical", "problems", "of", "some", "kind", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Saddam's Thataeen (ph) group",
+  "sentence_length" : 57,
+  "mentionArg2" : {
+    "extent" : "Saddam's Thataeen (ph) group",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E17-30",
+    "start" : 17,
+    "end" : 23
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R8",
+  "mentionArg1" : {
+    "extent" : "Saddam",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E18-31",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R8-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Also , in southern Iraq today near Basra , two members - claimed to be members of Saddam 's Thataeen ( ph ) group surrendered to U.S. troops saying that they had been ordered to carry out suicide bombings down there but that they did n't want to die for the regime so they were surrendering .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Also", ",", "in", "southern", "Iraq", "today", "near", "Basra", ",", "two", "members", "-", "claimed", "to", "be", "members", "of", "Saddam", "'s", "Thataeen", "(", "ph", ")", "group", "surrendered", "to", "U.S.", "troops", "saying", "that", "they", "had", "been", "ordered", "to", "carry", "out", "suicide", "bombings", "down", "there", "but", "that", "they", "did", "n't", "want", "to", "die", "for", "the", "regime", "so", "they", "were", "surrendering", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "At the Pentagon briefing today, General Stanley McChrystal said that it looked a lot like terrorism",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "Pentagon",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E22-38",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R9",
+  "mentionArg1" : {
+    "extent" : "General Stanley McChrystal",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E24-39",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "At the Pentagon briefing today , General Stanley McChrystal said that it looked a lot like terrorism .",
+  "sentence_index" : 14,
+  "Tokens" : [ "At", "the", "Pentagon", "briefing", "today", ",", "General", "Stanley", "McChrystal", "said", "that", "it", "looked", "a", "lot", "like", "terrorism", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "They've fired 675 or so tomahawk land detect missiles from ships and seven of those have failed",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "ships",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E33-69",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R10",
+  "mentionArg1" : {
+    "extent" : "They",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E43-67",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R10-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "They 've fired 675 or so tomahawk land detect missiles from ships and seven of those have failed .",
+  "sentence_index" : 24,
+  "Tokens" : [ "They", "'ve", "fired", "675", "or", "so", "tomahawk", "land", "detect", "missiles", "from", "ships", "and", "seven", "of", "those", "have", "failed", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "The reason that they're still in tact according to today's briefing was that they had not turned them on and as long as they don't turn them on, the U.S. has trouble locating them",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "them",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E45-146",
+    "start" : 37,
+    "end" : 37
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R11",
+  "mentionArg1" : {
+    "extent" : "the U.S",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E12-83",
+    "start" : 32,
+    "end" : 33
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R11-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The reason that they 're still in tact according to today 's briefing was that they had not turned them on and as long as they do n't turn them on , the U.S. has trouble locating them .",
+  "sentence_index" : 28,
+  "Tokens" : [ "The", "reason", "that", "they", "'re", "still", "in", "tact", "according", "to", "today", "'s", "briefing", "was", "that", "they", "had", "not", "turned", "them", "on", "and", "as", "long", "as", "they", "do", "n't", "turn", "them", "on", ",", "the", "U.S.", "has", "trouble", "locating", "them", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Coming up, coalition forces control several parts of southern Iraq but they still face some serious problems including pockets of resistance",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "several parts of southern Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E53-100",
+    "start" : 6,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R12",
+  "mentionArg1" : {
+    "extent" : "coalition forces",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E55-97",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Coming up , coalition forces control several parts of southern Iraq but they still face some serious problems including pockets of resistance .",
+  "sentence_index" : 32,
+  "Tokens" : [ "Coming", "up", ",", "coalition", "forces", "control", "several", "parts", "of", "southern", "Iraq", "but", "they", "still", "face", "some", "serious", "problems", "including", "pockets", "of", "resistance", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the British forces in Umm Qasr in southern Iraq",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E61-114",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R13",
+  "mentionArg1" : {
+    "extent" : "the British forces in Umm Qasr in southern Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E60-113",
+    "start" : 5,
+    "end" : 13
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R13-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Reporter David Bowden is with the British forces in Umm Qasr in southern Iraq .",
+  "sentence_index" : 36,
+  "Tokens" : [ "Reporter", "David", "Bowden", "is", "with", "the", "British", "forces", "in", "Umm", "Qasr", "in", "southern", "Iraq", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Also, in southern Iraq today near Basra, two members - claimed to be members of Saddam's Thataeen (ph) group surrendered to U.S. troops saying that they had been ordered to carry out suicide bombings down there but that they didn't want to die for the regime so they were surrendering",
+  "sentence_length" : 57,
+  "mentionArg2" : {
+    "extent" : "southern Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E13-26",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R14",
+  "mentionArg1" : {
+    "extent" : "U.S. troops",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E19-32",
+    "start" : 26,
+    "end" : 27
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R14-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Also , in southern Iraq today near Basra , two members - claimed to be members of Saddam 's Thataeen ( ph ) group surrendered to U.S. troops saying that they had been ordered to carry out suicide bombings down there but that they did n't want to die for the regime so they were surrendering .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Also", ",", "in", "southern", "Iraq", "today", "near", "Basra", ",", "two", "members", "-", "claimed", "to", "be", "members", "of", "Saddam", "'s", "Thataeen", "(", "ph", ")", "group", "surrendered", "to", "U.S.", "troops", "saying", "that", "they", "had", "been", "ordered", "to", "carry", "out", "suicide", "bombings", "down", "there", "but", "that", "they", "did", "n't", "want", "to", "die", "for", "the", "regime", "so", "they", "were", "surrendering", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "coalition forces in Iraq",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E8-117",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R15",
+  "mentionArg1" : {
+    "extent" : "coalition forces in Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E55-68",
+    "start" : 9,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R15-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Today the Pentagon is comparing suicide bombing attacks on coalition forces in Iraq to terrorism .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Today", "the", "Pentagon", "is", "comparing", "suicide", "bombing", "attacks", "on", "coalition", "forces", "in", "Iraq", "to", "terrorism", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Since marching into Iraq, coalition troops have engaged in some fierce battles with Saddam Hussein's forces",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E8-105",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R15",
+  "mentionArg1" : {
+    "extent" : "coalition troops",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E55-106",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R15-2",
+  "relationSubType" : "Located",
+  "Sentence" : "Since marching into Iraq , coalition troops have engaged in some fierce battles with Saddam Hussein 's forces .",
+  "sentence_index" : 34,
+  "Tokens" : [ "Since", "marching", "into", "Iraq", ",", "coalition", "troops", "have", "engaged", "in", "some", "fierce", "battles", "with", "Saddam", "Hussein", "'s", "forces", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "coalition forces in Iraq",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E51-98",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R16",
+  "mentionArg1" : {
+    "extent" : "coalition forces in Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E55-68",
+    "start" : 9,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R16-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Today the Pentagon is comparing suicide bombing attacks on coalition forces in Iraq to terrorism .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Today", "the", "Pentagon", "is", "comparing", "suicide", "bombing", "attacks", "on", "coalition", "forces", "in", "Iraq", "to", "terrorism", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "coalition forces",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E51-99",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R16",
+  "mentionArg1" : {
+    "extent" : "coalition forces",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E55-97",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R16-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Coming up , coalition forces control several parts of southern Iraq but they still face some serious problems including pockets of resistance .",
+  "sentence_index" : 32,
+  "Tokens" : [ "Coming", "up", ",", "coalition", "forces", "control", "several", "parts", "of", "southern", "Iraq", "but", "they", "still", "face", "some", "serious", "problems", "including", "pockets", "of", "resistance", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "coalition troops",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E51-107",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R16",
+  "mentionArg1" : {
+    "extent" : "coalition troops",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E55-106",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R16-3",
+  "relationSubType" : "Employment",
+  "Sentence" : "Since marching into Iraq , coalition troops have engaged in some fierce battles with Saddam Hussein 's forces .",
+  "sentence_index" : 34,
+  "Tokens" : [ "Since", "marching", "into", "Iraq", ",", "coalition", "troops", "have", "engaged", "in", "some", "fierce", "battles", "with", "Saddam", "Hussein", "'s", "forces", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Four U.S. Army soldiers",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "U.S. Army",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E77-153",
+    "start" : 1,
+    "end" : 2
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R17",
+  "mentionArg1" : {
+    "extent" : "Four U.S. Army soldiers",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E76-131",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R17-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Four U.S. Army soldiers were killed when a suicide bomber attacked a military checkpoint today in Najaf .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Four", "U.S.", "Army", "soldiers", "were", "killed", "when", "a", "suicide", "bomber", "attacked", "a", "military", "checkpoint", "today", "in", "Najaf", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "U.S. Army",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E12-154",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R18",
+  "mentionArg1" : {
+    "extent" : "U.S. Army",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E77-153",
+    "start" : 1,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R18-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Four U.S. Army soldiers were killed when a suicide bomber attacked a military checkpoint today in Najaf .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Four", "U.S.", "Army", "soldiers", "were", "killed", "when", "a", "suicide", "bomber", "attacked", "a", "military", "checkpoint", "today", "in", "Najaf", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a military checkpoint today in Najaf",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "Najaf",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E84-158",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R19",
+  "mentionArg1" : {
+    "extent" : "a military checkpoint",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E82-156",
+    "start" : 11,
+    "end" : 13
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R19-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Four U.S. Army soldiers were killed when a suicide bomber attacked a military checkpoint today in Najaf .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Four", "U.S.", "Army", "soldiers", "were", "killed", "when", "a", "suicide", "bomber", "attacked", "a", "military", "checkpoint", "today", "in", "Najaf", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a military checkpoint today in Najaf",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "a military checkpoint",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E82-156",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R20",
+  "mentionArg1" : {
+    "extent" : "military",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E83-157",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R20-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Four U.S. Army soldiers were killed when a suicide bomber attacked a military checkpoint today in Najaf .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Four", "U.S.", "Army", "soldiers", "were", "killed", "when", "a", "suicide", "bomber", "attacked", "a", "military", "checkpoint", "today", "in", "Najaf", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "CNN's Chris Plante",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E75-160",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R21",
+  "mentionArg1" : {
+    "extent" : "CNN's Chris Plante",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E68-159",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R21-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "CNN 's Chris Plante is chasing all that down for us at the Pentagon right now .",
+  "sentence_index" : 3,
+  "Tokens" : [ "CNN", "'s", "Chris", "Plante", "is", "chasing", "all", "that", "down", "for", "us", "at", "the", "Pentagon", "right", "now", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "CNN's Chris Plante is chasing all that down for us at the Pentagon right now",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "the Pentagon",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E87-161",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R22",
+  "mentionArg1" : {
+    "extent" : "CNN's Chris Plante",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E68-159",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R22-1",
+  "relationSubType" : "Located",
+  "Sentence" : "CNN 's Chris Plante is chasing all that down for us at the Pentagon right now .",
+  "sentence_index" : 3,
+  "Tokens" : [ "CNN", "'s", "Chris", "Plante", "is", "chasing", "all", "that", "down", "for", "us", "at", "the", "Pentagon", "right", "now", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Chris Plante at the Pentagon",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "the Pentagon",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E87-90",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R22",
+  "mentionArg1" : {
+    "extent" : "Chris Plante at the Pentagon",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E68-89",
+    "start" : 11,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R22-2",
+  "relationSubType" : "Located",
+  "Sentence" : "We 're paying attention to all those details for us , Chris Plante at the Pentagon .",
+  "sentence_index" : 30,
+  "Tokens" : [ "We", "'re", "paying", "attention", "to", "all", "those", "details", "for", "us", ",", "Chris", "Plante", "at", "the", "Pentagon", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Four U.S. soldiers from the 3rd Infantry Division manning a checkpoint near the town of Najaf killed today in an apparent suicide bombing",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "a checkpoint near the town of Najaf",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E82-6",
+    "start" : 9,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R23",
+  "mentionArg1" : {
+    "extent" : "Four U.S. soldiers from the 3rd Infantry Division manning a checkpoint near the town of Najaf",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E76-4",
+    "start" : 0,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R23-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Four U.S. soldiers from the 3rd Infantry Division manning a checkpoint near the town of Najaf killed today in an apparent suicide bombing .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Four", "U.S.", "soldiers", "from", "the", "3rd", "Infantry", "Division", "manning", "a", "checkpoint", "near", "the", "town", "of", "Najaf", "killed", "today", "in", "an", "apparent", "suicide", "bombing", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Four U.S. soldiers from the 3rd Infantry Division manning a checkpoint near the town of Najaf",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E12-116",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R24",
+  "mentionArg1" : {
+    "extent" : "Four U.S. soldiers from the 3rd Infantry Division manning a checkpoint near the town of Najaf",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E76-4",
+    "start" : 0,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R24-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Four U.S. soldiers from the 3rd Infantry Division manning a checkpoint near the town of Najaf killed today in an apparent suicide bombing .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Four", "U.S.", "soldiers", "from", "the", "3rd", "Infantry", "Division", "manning", "a", "checkpoint", "near", "the", "town", "of", "Najaf", "killed", "today", "in", "an", "apparent", "suicide", "bombing", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "A man driving what appeared to be a taxicab came to the checkpoint, waved soldiers over, appeared to be having mechanical problems of some kind",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "the checkpoint",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E82-10",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R26",
+  "mentionArg1" : {
+    "extent" : "A man driving what appeared to be a taxicab",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E3-9",
+    "start" : 0,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R26-1",
+  "relationSubType" : "Located",
+  "Sentence" : "A man driving what appeared to be a taxicab came to the checkpoint , waved soldiers over , appeared to be having mechanical problems of some kind .",
+  "sentence_index" : 8,
+  "Tokens" : [ "A", "man", "driving", "what", "appeared", "to", "be", "a", "taxicab", "came", "to", "the", "checkpoint", ",", "waved", "soldiers", "over", ",", "appeared", "to", "be", "having", "mechanical", "problems", "of", "some", "kind", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iraqi Vice President",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E8-19",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R27",
+  "mentionArg1" : {
+    "extent" : "Iraqi Vice President",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E6-18",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R27-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "This is something that Iraqi Vice President Ramadan had said would take place .",
+  "sentence_index" : 10,
+  "Tokens" : [ "This", "is", "something", "that", "Iraqi", "Vice", "President", "Ramadan", "had", "said", "would", "take", "place", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "He reiterated today in a press conference in Baghdad that this would just be the beginning of this that they would plan on killing thousands of U.S. troops with suicide bombing similar to this",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E9-22",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R28",
+  "mentionArg1" : {
+    "extent" : "He",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E6-21",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R28-1",
+  "relationSubType" : "Located",
+  "Sentence" : "He reiterated today in a press conference in Baghdad that this would just be the beginning of this that they would plan on killing thousands of U.S. troops with suicide bombing similar to this .",
+  "sentence_index" : 12,
+  "Tokens" : [ "He", "reiterated", "today", "in", "a", "press", "conference", "in", "Baghdad", "that", "this", "would", "just", "be", "the", "beginning", "of", "this", "that", "they", "would", "plan", "on", "killing", "thousands", "of", "U.S.", "troops", "with", "suicide", "bombing", "similar", "to", "this", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Also, in southern Iraq today near Basra, two members - claimed to be members of Saddam's Thataeen (ph) group surrendered to U.S. troops saying that they had been ordered to carry out suicide bombings down there but that they didn't want to die for the regime so they were surrendering",
+  "sentence_length" : 57,
+  "mentionArg2" : {
+    "extent" : "down there",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E13-138",
+    "start" : 39,
+    "end" : 40
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R29",
+  "mentionArg1" : {
+    "extent" : "members of Saddam's Thataeen (ph) group",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E15-29",
+    "start" : 15,
+    "end" : 23
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R29-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Also , in southern Iraq today near Basra , two members - claimed to be members of Saddam 's Thataeen ( ph ) group surrendered to U.S. troops saying that they had been ordered to carry out suicide bombings down there but that they did n't want to die for the regime so they were surrendering .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Also", ",", "in", "southern", "Iraq", "today", "near", "Basra", ",", "two", "members", "-", "claimed", "to", "be", "members", "of", "Saddam", "'s", "Thataeen", "(", "ph", ")", "group", "surrendered", "to", "U.S.", "troops", "saying", "that", "they", "had", "been", "ordered", "to", "carry", "out", "suicide", "bombings", "down", "there", "but", "that", "they", "did", "n't", "want", "to", "die", "for", "the", "regime", "so", "they", "were", "surrendering", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Also, in southern Iraq today near Basra, two members - claimed to be members of Saddam's Thataeen (ph) group surrendered to U.S. troops saying that they had been ordered to carry out suicide bombings down there but that they didn't want to die for the regime so they were surrendering",
+  "sentence_length" : 57,
+  "mentionArg2" : {
+    "extent" : "southern Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E13-26",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R29",
+  "mentionArg1" : {
+    "extent" : "two members",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E15-28",
+    "start" : 9,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R29-2",
+  "relationSubType" : "Located",
+  "Sentence" : "Also , in southern Iraq today near Basra , two members - claimed to be members of Saddam 's Thataeen ( ph ) group surrendered to U.S. troops saying that they had been ordered to carry out suicide bombings down there but that they did n't want to die for the regime so they were surrendering .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Also", ",", "in", "southern", "Iraq", "today", "near", "Basra", ",", "two", "members", "-", "claimed", "to", "be", "members", "of", "Saddam", "'s", "Thataeen", "(", "ph", ")", "group", "surrendered", "to", "U.S.", "troops", "saying", "that", "they", "had", "been", "ordered", "to", "carry", "out", "suicide", "bombings", "down", "there", "but", "that", "they", "did", "n't", "want", "to", "die", "for", "the", "regime", "so", "they", "were", "surrendering", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "members of Saddam's Thataeen (ph) group",
+  "sentence_length" : 57,
+  "mentionArg2" : {
+    "extent" : "Saddam's Thataeen (ph) group",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E17-30",
+    "start" : 17,
+    "end" : 23
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R30",
+  "mentionArg1" : {
+    "extent" : "members of Saddam's Thataeen (ph) group",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E15-29",
+    "start" : 15,
+    "end" : 23
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R30-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Also , in southern Iraq today near Basra , two members - claimed to be members of Saddam 's Thataeen ( ph ) group surrendered to U.S. troops saying that they had been ordered to carry out suicide bombings down there but that they did n't want to die for the regime so they were surrendering .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Also", ",", "in", "southern", "Iraq", "today", "near", "Basra", ",", "two", "members", "-", "claimed", "to", "be", "members", "of", "Saddam", "'s", "Thataeen", "(", "ph", ")", "group", "surrendered", "to", "U.S.", "troops", "saying", "that", "they", "had", "been", "ordered", "to", "carry", "out", "suicide", "bombings", "down", "there", "but", "that", "they", "did", "n't", "want", "to", "die", "for", "the", "regime", "so", "they", "were", "surrendering", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Also, in southern Iraq today near Basra, two members - claimed to be members of Saddam's Thataeen (ph) group surrendered to U.S. troops saying that they had been ordered to carry out suicide bombings down there but that they didn't want to die for the regime so they were surrendering",
+  "sentence_length" : 57,
+  "mentionArg2" : {
+    "extent" : "Basra",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E14-27",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R32",
+  "mentionArg1" : {
+    "extent" : "two members",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E15-28",
+    "start" : 9,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R32-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Also , in southern Iraq today near Basra , two members - claimed to be members of Saddam 's Thataeen ( ph ) group surrendered to U.S. troops saying that they had been ordered to carry out suicide bombings down there but that they did n't want to die for the regime so they were surrendering .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Also", ",", "in", "southern", "Iraq", "today", "near", "Basra", ",", "two", "members", "-", "claimed", "to", "be", "members", "of", "Saddam", "'s", "Thataeen", "(", "ph", ")", "group", "surrendered", "to", "U.S.", "troops", "saying", "that", "they", "had", "been", "ordered", "to", "carry", "out", "suicide", "bombings", "down", "there", "but", "that", "they", "did", "n't", "want", "to", "die", "for", "the", "regime", "so", "they", "were", "surrendering", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our soldiers",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E12-122",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R33",
+  "mentionArg1" : {
+    "extent" : "our soldiers",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E29-46",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R33-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "It does n't effect the operation at large but to protect our soldiers it clearly requires great care .",
+  "sentence_index" : 17,
+  "Tokens" : [ "It", "does", "n't", "effect", "the", "operation", "at", "large", "but", "to", "protect", "our", "soldiers", "it", "clearly", "requires", "great", "care", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Also, in southern Iraq today near Basra, two members - claimed to be members of Saddam's Thataeen (ph) group surrendered to U.S. troops saying that they had been ordered to carry out suicide bombings down there but that they didn't want to die for the regime so they were surrendering",
+  "sentence_length" : 57,
+  "mentionArg2" : {
+    "extent" : "southern Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E13-26",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R34",
+  "mentionArg1" : {
+    "extent" : "Basra",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E14-27",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R34-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Also , in southern Iraq today near Basra , two members - claimed to be members of Saddam 's Thataeen ( ph ) group surrendered to U.S. troops saying that they had been ordered to carry out suicide bombings down there but that they did n't want to die for the regime so they were surrendering .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Also", ",", "in", "southern", "Iraq", "today", "near", "Basra", ",", "two", "members", "-", "claimed", "to", "be", "members", "of", "Saddam", "'s", "Thataeen", "(", "ph", ")", "group", "surrendered", "to", "U.S.", "troops", "saying", "that", "they", "had", "been", "ordered", "to", "carry", "out", "suicide", "bombings", "down", "there", "but", "that", "they", "did", "n't", "want", "to", "die", "for", "the", "regime", "so", "they", "were", "surrendering", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Also, in southern Iraq today near Basra, two members - claimed to be members of Saddam's Thataeen (ph) group surrendered to U.S. troops saying that they had been ordered to carry out suicide bombings down there but that they didn't want to die for the regime so they were surrendering",
+  "sentence_length" : 57,
+  "mentionArg2" : {
+    "extent" : "Basra",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E14-27",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R35",
+  "mentionArg1" : {
+    "extent" : "U.S. troops",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E19-32",
+    "start" : 26,
+    "end" : 27
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R35-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Also , in southern Iraq today near Basra , two members - claimed to be members of Saddam 's Thataeen ( ph ) group surrendered to U.S. troops saying that they had been ordered to carry out suicide bombings down there but that they did n't want to die for the regime so they were surrendering .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Also", ",", "in", "southern", "Iraq", "today", "near", "Basra", ",", "two", "members", "-", "claimed", "to", "be", "members", "of", "Saddam", "'s", "Thataeen", "(", "ph", ")", "group", "surrendered", "to", "U.S.", "troops", "saying", "that", "they", "had", "been", "ordered", "to", "carry", "out", "suicide", "bombings", "down", "there", "but", "that", "they", "did", "n't", "want", "to", "die", "for", "the", "regime", "so", "they", "were", "surrendering", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Also, in southern Iraq today near Basra, two members - claimed to be members of Saddam's Thataeen (ph) group surrendered to U.S. troops saying that they had been ordered to carry out suicide bombings down there but that they didn't want to die for the regime so they were surrendering",
+  "sentence_length" : 57,
+  "mentionArg2" : {
+    "extent" : "the regime",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E21-36",
+    "start" : 50,
+    "end" : 51
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R36",
+  "mentionArg1" : {
+    "extent" : "members of Saddam's Thataeen (ph) group",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E15-29",
+    "start" : 15,
+    "end" : 23
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R36-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Also , in southern Iraq today near Basra , two members - claimed to be members of Saddam 's Thataeen ( ph ) group surrendered to U.S. troops saying that they had been ordered to carry out suicide bombings down there but that they did n't want to die for the regime so they were surrendering .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Also", ",", "in", "southern", "Iraq", "today", "near", "Basra", ",", "two", "members", "-", "claimed", "to", "be", "members", "of", "Saddam", "'s", "Thataeen", "(", "ph", ")", "group", "surrendered", "to", "U.S.", "troops", "saying", "that", "they", "had", "been", "ordered", "to", "carry", "out", "suicide", "bombings", "down", "there", "but", "that", "they", "did", "n't", "want", "to", "die", "for", "the", "regime", "so", "they", "were", "surrendering", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "They've fired 675 or so tomahawk land detect missiles from ships and seven of those have failed",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "675 or so tomahawk land detect missiles",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E31-142",
+    "start" : 3,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R37",
+  "mentionArg1" : {
+    "extent" : "They",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E43-67",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R37-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "They 've fired 675 or so tomahawk land detect missiles from ships and seven of those have failed .",
+  "sentence_index" : 24,
+  "Tokens" : [ "They", "'ve", "fired", "675", "or", "so", "tomahawk", "land", "detect", "missiles", "from", "ships", "and", "seven", "of", "those", "have", "failed", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "only certain areas of downtown Iraq where battle management radars linked to surface to air missiles are still in tact",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "downtown Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E71-136",
+    "start" : 31,
+    "end" : 32
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R38",
+  "mentionArg1" : {
+    "extent" : "only certain areas of downtown Iraq where battle management radars linked to surface to air missiles are still in tact",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E54-101",
+    "start" : 27,
+    "end" : 46
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R38-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The Pentagon says that they do have air dominance as they now call it over the vast majority of the country that there are certain areas and only certain areas of downtown Iraq where battle management radars linked to surface to air missiles are still in tact .",
+  "sentence_index" : 27,
+  "Tokens" : [ "The", "Pentagon", "says", "that", "they", "do", "have", "air", "dominance", "as", "they", "now", "call", "it", "over", "the", "vast", "majority", "of", "the", "country", "that", "there", "are", "certain", "areas", "and", "only", "certain", "areas", "of", "downtown", "Iraq", "where", "battle", "management", "radars", "linked", "to", "surface", "to", "air", "missiles", "are", "still", "in", "tact", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "several parts of southern Iraq",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "southern Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E13-139",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R40",
+  "mentionArg1" : {
+    "extent" : "several parts of southern Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E53-100",
+    "start" : 6,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R40-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Coming up , coalition forces control several parts of southern Iraq but they still face some serious problems including pockets of resistance .",
+  "sentence_index" : 32,
+  "Tokens" : [ "Coming", "up", ",", "coalition", "forces", "control", "several", "parts", "of", "southern", "Iraq", "but", "they", "still", "face", "some", "serious", "problems", "including", "pockets", "of", "resistance", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Umm Qasr in southern Iraq",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "southern Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E13-140",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R41",
+  "mentionArg1" : {
+    "extent" : "Umm Qasr in southern Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E62-115",
+    "start" : 9,
+    "end" : 13
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R41-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Reporter David Bowden is with the British forces in Umm Qasr in southern Iraq .",
+  "sentence_index" : 36,
+  "Tokens" : [ "Reporter", "David", "Bowden", "is", "with", "the", "British", "forces", "in", "Umm", "Qasr", "in", "southern", "Iraq", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the British forces in Umm Qasr in southern Iraq",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "Umm Qasr in southern Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E62-115",
+    "start" : 9,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R42",
+  "mentionArg1" : {
+    "extent" : "the British forces in Umm Qasr in southern Iraq",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E60-113",
+    "start" : 5,
+    "end" : 13
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R42-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Reporter David Bowden is with the British forces in Umm Qasr in southern Iraq .",
+  "sentence_index" : 36,
+  "Tokens" : [ "Reporter", "David", "Bowden", "is", "with", "the", "British", "forces", "in", "Umm", "Qasr", "in", "southern", "Iraq", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "thousands of U.S. troops",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E12-25",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R45",
+  "mentionArg1" : {
+    "extent" : "thousands of U.S. troops",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E11-24",
+    "start" : 24,
+    "end" : 27
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R45-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "He reiterated today in a press conference in Baghdad that this would just be the beginning of this that they would plan on killing thousands of U.S. troops with suicide bombing similar to this .",
+  "sentence_index" : 12,
+  "Tokens" : [ "He", "reiterated", "today", "in", "a", "press", "conference", "in", "Baghdad", "that", "this", "would", "just", "be", "the", "beginning", "of", "this", "that", "they", "would", "plan", "on", "killing", "thousands", "of", "U.S.", "troops", "with", "suicide", "bombing", "similar", "to", "this", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. troops",
+  "sentence_length" : 57,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E12-33",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "CNN_IP_20030329.1600.00-4-R46",
+  "mentionArg1" : {
+    "extent" : "U.S. troops",
+    "argMentionid" : "CNN_IP_20030329.1600.00-4-E19-32",
+    "start" : 26,
+    "end" : 27
+  },
+  "id" : "CNN_IP_20030329.1600.00-4-R46-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Also , in southern Iraq today near Basra , two members - claimed to be members of Saddam 's Thataeen ( ph ) group surrendered to U.S. troops saying that they had been ordered to carry out suicide bombings down there but that they did n't want to die for the regime so they were surrendering .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Also", ",", "in", "southern", "Iraq", "today", "near", "Basra", ",", "two", "members", "-", "claimed", "to", "be", "members", "of", "Saddam", "'s", "Thataeen", "(", "ph", ")", "group", "surrendered", "to", "U.S.", "troops", "saying", "that", "they", "had", "been", "ordered", "to", "carry", "out", "suicide", "bombings", "down", "there", "but", "that", "they", "did", "n't", "want", "to", "die", "for", "the", "regime", "so", "they", "were", "surrendering", "." ]
+} ]

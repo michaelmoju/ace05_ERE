@@ -1,0 +1,485 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "Nathan divorced wallpaper salesman Bruce Nathan in 1992",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "wallpaper salesman Bruce Nathan",
+    "argMentionid" : "APW_ENG_20030424.0698-E26-63",
+    "start" : 2,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030424.0698-R1",
+  "mentionArg1" : {
+    "extent" : "Nathan",
+    "argMentionid" : "APW_ENG_20030424.0698-E1-62",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "APW_ENG_20030424.0698-R1-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Nathan divorced wallpaper salesman Bruce Nathan in 1992 .",
+  "sentence_index" : 16,
+  "Tokens" : [ "Nathan", "divorced", "wallpaper", "salesman", "Bruce", "Nathan", "in", "1992", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his companion",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "his companion",
+    "argMentionid" : "APW_ENG_20030424.0698-E1-82",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030424.0698-R2",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "APW_ENG_20030424.0698-E30-84",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030424.0698-R2-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "NEW YORK ( AP ) Rudolph Giuliani will wed his companion , Judith Nathan , on May 24 in the ex-mayor 's old home , Gracie Mansion .",
+  "sentence_index" : 0,
+  "Tokens" : [ "NEW", "YORK", "(", "AP", ")", "Rudolph", "Giuliani", "will", "wed", "his", "companion", ",", "Judith", "Nathan", ",", "on", "May", "24", "in", "the", "ex-mayor", "'s", "old", "home", ",", "Gracie", "Mansion", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the ex-mayor's old home",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "the ex-mayor's old home",
+    "argMentionid" : "APW_ENG_20030424.0698-E8-86",
+    "start" : 19,
+    "end" : 23
+  },
+  "relationID" : "APW_ENG_20030424.0698-R3",
+  "mentionArg1" : {
+    "extent" : "the ex-mayor",
+    "argMentionid" : "APW_ENG_20030424.0698-E30-87",
+    "start" : 19,
+    "end" : 20
+  },
+  "id" : "APW_ENG_20030424.0698-R3-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "NEW YORK ( AP ) Rudolph Giuliani will wed his companion , Judith Nathan , on May 24 in the ex-mayor 's old home , Gracie Mansion .",
+  "sentence_index" : 0,
+  "Tokens" : [ "NEW", "YORK", "(", "AP", ")", "Rudolph", "Giuliani", "will", "wed", "his", "companion", ",", "Judith", "Nathan", ",", "on", "May", "24", "in", "the", "ex-mayor", "'s", "old", "home", ",", "Gracie", "Mansion", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Rudolph Giuliani will wed his companion, Judith Nathan, on May 24 in the ex-mayor's old home, Gracie Mansion",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "his companion",
+    "argMentionid" : "APW_ENG_20030424.0698-E1-82",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "APW_ENG_20030424.0698-R4",
+  "mentionArg1" : {
+    "extent" : "Rudolph Giuliani",
+    "argMentionid" : "APW_ENG_20030424.0698-E30-80",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030424.0698-R4-1",
+  "relationSubType" : "Family",
+  "Sentence" : "NEW YORK ( AP ) Rudolph Giuliani will wed his companion , Judith Nathan , on May 24 in the ex-mayor 's old home , Gracie Mansion .",
+  "sentence_index" : 0,
+  "Tokens" : [ "NEW", "YORK", "(", "AP", ")", "Rudolph", "Giuliani", "will", "wed", "his", "companion", ",", "Judith", "Nathan", ",", "on", "May", "24", "in", "the", "ex-mayor", "'s", "old", "home", ",", "Gracie", "Mansion", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Rudolph Giuliani will wed his companion, Judith Nathan, on May 24 in the ex-mayor's old home, Gracie Mansion",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "the ex-mayor's old home",
+    "argMentionid" : "APW_ENG_20030424.0698-E8-86",
+    "start" : 19,
+    "end" : 23
+  },
+  "relationID" : "APW_ENG_20030424.0698-R5",
+  "mentionArg1" : {
+    "extent" : "Rudolph Giuliani",
+    "argMentionid" : "APW_ENG_20030424.0698-E30-80",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030424.0698-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "NEW YORK ( AP ) Rudolph Giuliani will wed his companion , Judith Nathan , on May 24 in the ex-mayor 's old home , Gracie Mansion .",
+  "sentence_index" : 0,
+  "Tokens" : [ "NEW", "YORK", "(", "AP", ")", "Rudolph", "Giuliani", "will", "wed", "his", "companion", ",", "Judith", "Nathan", ",", "on", "May", "24", "in", "the", "ex-mayor", "'s", "old", "home", ",", "Gracie", "Mansion", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Rudolph Giuliani will wed his companion, Judith Nathan, on May 24 in the ex-mayor's old home, Gracie Mansion",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "the ex-mayor's old home",
+    "argMentionid" : "APW_ENG_20030424.0698-E8-86",
+    "start" : 19,
+    "end" : 23
+  },
+  "relationID" : "APW_ENG_20030424.0698-R6",
+  "mentionArg1" : {
+    "extent" : "his companion",
+    "argMentionid" : "APW_ENG_20030424.0698-E1-82",
+    "start" : 9,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030424.0698-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "NEW YORK ( AP ) Rudolph Giuliani will wed his companion , Judith Nathan , on May 24 in the ex-mayor 's old home , Gracie Mansion .",
+  "sentence_index" : 0,
+  "Tokens" : [ "NEW", "YORK", "(", "AP", ")", "Rudolph", "Giuliani", "will", "wed", "his", "companion", ",", "Judith", "Nathan", ",", "on", "May", "24", "in", "the", "ex-mayor", "'s", "old", "home", ",", "Gracie", "Mansion", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Giuliani spokeswoman",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "Giuliani spokeswoman",
+    "argMentionid" : "APW_ENG_20030424.0698-E41-90",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030424.0698-R7",
+  "mentionArg1" : {
+    "extent" : "Giuliani",
+    "argMentionid" : "APW_ENG_20030424.0698-E30-91",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030424.0698-R7-1",
+  "relationSubType" : "Business",
+  "Sentence" : "The news was announced Thursday by Giuliani spokeswoman Sunny Mindel .",
+  "sentence_index" : 1,
+  "Tokens" : [ "The", "news", "was", "announced", "Thursday", "by", "Giuliani", "spokeswoman", "Sunny", "Mindel", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Giuliani, 58, proposed to Nathan, a former nurse, during a November business trip to Paris\t_  five months after he finalized his divorce from Donna Hanover after 20 years of marriage",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "Paris",
+    "argMentionid" : "APW_ENG_20030424.0698-E2-5",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030424.0698-R8",
+  "mentionArg1" : {
+    "extent" : "Giuliani",
+    "argMentionid" : "APW_ENG_20030424.0698-E30-97",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "APW_ENG_20030424.0698-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Giuliani , 58 , proposed to Nathan , a former nurse , during a November business trip to Paris _ five months after he finalized his divorce from Donna Hanover after 20 years of marriage .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Giuliani", ",", "58", ",", "proposed", "to", "Nathan", ",", "a", "former", "nurse", ",", "during", "a", "November", "business", "trip", "to", "Paris", "_", "five", "months", "after", "he", "finalized", "his", "divorce", "from", "Donna", "Hanover", "after", "20", "years", "of", "marriage", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Giuliani, 58, proposed to Nathan, a former nurse, during a November business trip to Paris\t_  five months after he finalized his divorce from Donna Hanover after 20 years of marriage",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "Paris",
+    "argMentionid" : "APW_ENG_20030424.0698-E2-5",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030424.0698-R9",
+  "mentionArg1" : {
+    "extent" : "Nathan",
+    "argMentionid" : "APW_ENG_20030424.0698-E1-3",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030424.0698-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Giuliani , 58 , proposed to Nathan , a former nurse , during a November business trip to Paris _ five months after he finalized his divorce from Donna Hanover after 20 years of marriage .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Giuliani", ",", "58", ",", "proposed", "to", "Nathan", ",", "a", "former", "nurse", ",", "during", "a", "November", "business", "trip", "to", "Paris", "_", "five", "months", "after", "he", "finalized", "his", "divorce", "from", "Donna", "Hanover", "after", "20", "years", "of", "marriage", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Giuliani, 58, proposed to Nathan, a former nurse, during a November business trip to Paris\t_  five months after he finalized his divorce from Donna Hanover after 20 years of marriage",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "Donna Hanover",
+    "argMentionid" : "APW_ENG_20030424.0698-E3-8",
+    "start" : 28,
+    "end" : 29
+  },
+  "relationID" : "APW_ENG_20030424.0698-R10",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "APW_ENG_20030424.0698-E30-7",
+    "start" : 25,
+    "end" : 25
+  },
+  "id" : "APW_ENG_20030424.0698-R10-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Giuliani , 58 , proposed to Nathan , a former nurse , during a November business trip to Paris _ five months after he finalized his divorce from Donna Hanover after 20 years of marriage .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Giuliani", ",", "58", ",", "proposed", "to", "Nathan", ",", "a", "former", "nurse", ",", "during", "a", "November", "business", "trip", "to", "Paris", "_", "five", "months", "after", "he", "finalized", "his", "divorce", "from", "Donna", "Hanover", "after", "20", "years", "of", "marriage", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Giuliani's children",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Giuliani's children",
+    "argMentionid" : "APW_ENG_20030424.0698-E9-30",
+    "start" : 29,
+    "end" : 31
+  },
+  "relationID" : "APW_ENG_20030424.0698-R11",
+  "mentionArg1" : {
+    "extent" : "Giuliani",
+    "argMentionid" : "APW_ENG_20030424.0698-E30-31",
+    "start" : 29,
+    "end" : 29
+  },
+  "id" : "APW_ENG_20030424.0698-R11-1",
+  "relationSubType" : "Family",
+  "Sentence" : "During the legal proceedings leading up to the divorce , a judge ruled that Nathan could not visit Gracie Mansion , the official mayoral residence , as long as Giuliani 's children lived there .",
+  "sentence_index" : 9,
+  "Tokens" : [ "During", "the", "legal", "proceedings", "leading", "up", "to", "the", "divorce", ",", "a", "judge", "ruled", "that", "Nathan", "could", "not", "visit", "Gracie", "Mansion", ",", "the", "official", "mayoral", "residence", ",", "as", "long", "as", "Giuliani", "'s", "children", "lived", "there", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Giuliani and Hanover have two teenage children, Andrew and Caroline",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "two teenage children",
+    "argMentionid" : "APW_ENG_20030424.0698-E9-35",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030424.0698-R11",
+  "mentionArg1" : {
+    "extent" : "Giuliani",
+    "argMentionid" : "APW_ENG_20030424.0698-E30-33",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "APW_ENG_20030424.0698-R11-2",
+  "relationSubType" : "Family",
+  "Sentence" : "Giuliani and Hanover have two teenage children , Andrew and Caroline .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Giuliani", "and", "Hanover", "have", "two", "teenage", "children", ",", "Andrew", "and", "Caroline", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "During the legal proceedings leading up to the divorce, a judge ruled that Nathan could not visit Gracie Mansion, the official mayoral residence, as long as Giuliani's children lived there",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "APW_ENG_20030424.0698-E8-32",
+    "start" : 33,
+    "end" : 33
+  },
+  "relationID" : "APW_ENG_20030424.0698-R12",
+  "mentionArg1" : {
+    "extent" : "Giuliani's children",
+    "argMentionid" : "APW_ENG_20030424.0698-E9-30",
+    "start" : 29,
+    "end" : 31
+  },
+  "id" : "APW_ENG_20030424.0698-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "During the legal proceedings leading up to the divorce , a judge ruled that Nathan could not visit Gracie Mansion , the official mayoral residence , as long as Giuliani 's children lived there .",
+  "sentence_index" : 9,
+  "Tokens" : [ "During", "the", "legal", "proceedings", "leading", "up", "to", "the", "divorce", ",", "a", "judge", "ruled", "that", "Nathan", "could", "not", "visit", "Gracie", "Mansion", ",", "the", "official", "mayoral", "residence", ",", "as", "long", "as", "Giuliani", "'s", "children", "lived", "there", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Giuliani and Hanover have two teenage children, Andrew and Caroline",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "two teenage children",
+    "argMentionid" : "APW_ENG_20030424.0698-E9-35",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030424.0698-R13",
+  "mentionArg1" : {
+    "extent" : "Hanover",
+    "argMentionid" : "APW_ENG_20030424.0698-E3-34",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030424.0698-R13-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Giuliani and Hanover have two teenage children , Andrew and Caroline .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Giuliani", "and", "Hanover", "have", "two", "teenage", "children", ",", "Andrew", "and", "Caroline", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her fiance",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "her fiance",
+    "argMentionid" : "APW_ENG_20030424.0698-E13-44",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030424.0698-R14",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "APW_ENG_20030424.0698-E3-45",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030424.0698-R14-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "Last month , she and her fiance _ an old high school sweetheart _ invited the press along as they went shopping for wedding bands , saying they are planning a wedding in the New York City area this summer .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Last", "month", ",", "she", "and", "her", "fiance", "_", "an", "old", "high", "school", "sweetheart", "_", "invited", "the", "press", "along", "as", "they", "went", "shopping", "for", "wedding", "bands", ",", "saying", "they", "are", "planning", "a", "wedding", "in", "the", "New", "York", "City", "area", "this", "summer", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "an old high school sweetheart",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "high school",
+    "argMentionid" : "APW_ENG_20030424.0698-E16-48",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030424.0698-R15",
+  "mentionArg1" : {
+    "extent" : "an old high school sweetheart",
+    "argMentionid" : "APW_ENG_20030424.0698-E13-47",
+    "start" : 8,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030424.0698-R15-1",
+  "relationSubType" : "Student-Alum",
+  "Sentence" : "Last month , she and her fiance _ an old high school sweetheart _ invited the press along as they went shopping for wedding bands , saying they are planning a wedding in the New York City area this summer .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Last", "month", ",", "she", "and", "her", "fiance", "_", "an", "old", "high", "school", "sweetheart", "_", "invited", "the", "press", "along", "as", "they", "went", "shopping", "for", "wedding", "bands", ",", "saying", "they", "are", "planning", "a", "wedding", "in", "the", "New", "York", "City", "area", "this", "summer", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the New York City area",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "the New York City area",
+    "argMentionid" : "APW_ENG_20030424.0698-E18-51",
+    "start" : 33,
+    "end" : 37
+  },
+  "relationID" : "APW_ENG_20030424.0698-R16",
+  "mentionArg1" : {
+    "extent" : "New York City",
+    "argMentionid" : "APW_ENG_20030424.0698-E15-52",
+    "start" : 34,
+    "end" : 36
+  },
+  "id" : "APW_ENG_20030424.0698-R16-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Last month , she and her fiance _ an old high school sweetheart _ invited the press along as they went shopping for wedding bands , saying they are planning a wedding in the New York City area this summer .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Last", "month", ",", "she", "and", "her", "fiance", "_", "an", "old", "high", "school", "sweetheart", "_", "invited", "the", "press", "along", "as", "they", "went", "shopping", "for", "wedding", "bands", ",", "saying", "they", "are", "planning", "a", "wedding", "in", "the", "New", "York", "City", "area", "this", "summer", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Last month, she and her fiance  _  an old high school sweetheart  _  invited the press along as they went shopping for wedding bands, saying they are planning a wedding in the New York City area this summer",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "the New York City area",
+    "argMentionid" : "APW_ENG_20030424.0698-E18-51",
+    "start" : 33,
+    "end" : 37
+  },
+  "relationID" : "APW_ENG_20030424.0698-R17",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "APW_ENG_20030424.0698-E17-50",
+    "start" : 27,
+    "end" : 27
+  },
+  "id" : "APW_ENG_20030424.0698-R17-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Last month , she and her fiance _ an old high school sweetheart _ invited the press along as they went shopping for wedding bands , saying they are planning a wedding in the New York City area this summer .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Last", "month", ",", "she", "and", "her", "fiance", "_", "an", "old", "high", "school", "sweetheart", "_", "invited", "the", "press", "along", "as", "they", "went", "shopping", "for", "wedding", "bands", ",", "saying", "they", "are", "planning", "a", "wedding", "in", "the", "New", "York", "City", "area", "this", "summer", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his second cousin",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "his second cousin",
+    "argMentionid" : "APW_ENG_20030424.0698-E20-55",
+    "start" : 5,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030424.0698-R18",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "APW_ENG_20030424.0698-E30-56",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030424.0698-R18-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Giuliani 's first marriage to his second cousin , Regina Peruggi , lasted about 14 years .",
+  "sentence_index" : 14,
+  "Tokens" : [ "Giuliani", "'s", "first", "marriage", "to", "his", "second", "cousin", ",", "Regina", "Peruggi", ",", "lasted", "about", "14", "years", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Giuliani's first marriage to his second cousin, Regina Peruggi, lasted about 14 years",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "his second cousin",
+    "argMentionid" : "APW_ENG_20030424.0698-E20-55",
+    "start" : 5,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030424.0698-R18",
+  "mentionArg1" : {
+    "extent" : "Giuliani",
+    "argMentionid" : "APW_ENG_20030424.0698-E30-53",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "APW_ENG_20030424.0698-R18-2",
+  "relationSubType" : "Family",
+  "Sentence" : "Giuliani 's first marriage to his second cousin , Regina Peruggi , lasted about 14 years .",
+  "sentence_index" : 14,
+  "Tokens" : [ "Giuliani", "'s", "first", "marriage", "to", "his", "second", "cousin", ",", "Regina", "Peruggi", ",", "lasted", "about", "14", "years", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "They have a teenage daughter",
+  "sentence_length" : 6,
+  "mentionArg2" : {
+    "extent" : "a teenage daughter",
+    "argMentionid" : "APW_ENG_20030424.0698-E29-66",
+    "start" : 2,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030424.0698-R19",
+  "mentionArg1" : {
+    "extent" : "They",
+    "argMentionid" : "APW_ENG_20030424.0698-E28-65",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "APW_ENG_20030424.0698-R19-1",
+  "relationSubType" : "Family",
+  "Sentence" : "They have a teenage daughter .",
+  "sentence_index" : 17,
+  "Tokens" : [ "They", "have", "a", "teenage", "daughter", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Bloomberg spokesman",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Bloomberg spokesman",
+    "argMentionid" : "APW_ENG_20030424.0698-E32-73",
+    "start" : 24,
+    "end" : 25
+  },
+  "relationID" : "APW_ENG_20030424.0698-R20",
+  "mentionArg1" : {
+    "extent" : "Bloomberg",
+    "argMentionid" : "APW_ENG_20030424.0698-E34-74",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "APW_ENG_20030424.0698-R20-1",
+  "relationSubType" : "Business",
+  "Sentence" : "The Giuliani-Nathan nuptials will be a first for Bloomberg , who is making an exception from his policy of not performing weddings , said Bloomberg spokesman Ed Skyler .",
+  "sentence_index" : 18,
+  "Tokens" : [ "The", "Giuliani-Nathan", "nuptials", "will", "be", "a", "first", "for", "Bloomberg", ",", "who", "is", "making", "an", "exception", "from", "his", "policy", "of", "not", "performing", "weddings", ",", "said", "Bloomberg", "spokesman", "Ed", "Skyler", "." ]
+} ]

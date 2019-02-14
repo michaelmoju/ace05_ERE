@@ -1,0 +1,155 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the cnn center in atlanta",
+  "sentence_length" : 98,
+  "mentionArg2" : {
+    "extent" : "atlanta",
+    "argMentionid" : "CNN_ENG_20030610_105832.1-E13-16",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "CNN_ENG_20030610_105832.1-R1",
+  "mentionArg1" : {
+    "extent" : "the cnn center in atlanta",
+    "argMentionid" : "CNN_ENG_20030610_105832.1-E10-14",
+    "start" : 11,
+    "end" : 15
+  },
+  "id" : "CNN_ENG_20030610_105832.1-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "it is 11:00 a . m. on the east coast. from the cnn center in atlanta , i 'm fred fred. a first here on \" cnn live today , \" a spiraling cycle of violence threatening the latest middle east peace efforts. this morning hamas vows revenge for an israeli missile attack. israeli hospital gun ships fired on a jeep in gaza. the strike targeted a hamas leader. and two other people were killed including a mother and bodyguard. mike hanna is tracking the latest developments from there. he joins us live with the details. mike ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "it", "is", "11:00", "a", ".", "m.", "on", "the", "east", "coast.", "from", "the", "cnn", "center", "in", "atlanta", ",", "i", "'m", "fred", "fred.", "a", "first", "here", "on", "\"", "cnn", "live", "today", ",", "\"", "a", "spiraling", "cycle", "of", "violence", "threatening", "the", "latest", "middle", "east", "peace", "efforts.", "this", "morning", "hamas", "vows", "revenge", "for", "an", "israeli", "missile", "attack.", "israeli", "hospital", "gun", "ships", "fired", "on", "a", "jeep", "in", "gaza.", "the", "strike", "targeted", "a", "hamas", "leader.", "and", "two", "other", "people", "were", "killed", "including", "a", "mother", "and", "bodyguard.", "mike", "hanna", "is", "tracking", "the", "latest", "developments", "from", "there.", "he", "joins", "us", "live", "with", "the", "details.", "mike", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the cnn center in atlanta",
+  "sentence_length" : 98,
+  "mentionArg2" : {
+    "extent" : "the cnn center in atlanta",
+    "argMentionid" : "CNN_ENG_20030610_105832.1-E10-14",
+    "start" : 11,
+    "end" : 15
+  },
+  "relationID" : "CNN_ENG_20030610_105832.1-R2",
+  "mentionArg1" : {
+    "extent" : "cnn",
+    "argMentionid" : "CNN_ENG_20030610_105832.1-E11-15",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "CNN_ENG_20030610_105832.1-R2-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "it is 11:00 a . m. on the east coast. from the cnn center in atlanta , i 'm fred fred. a first here on \" cnn live today , \" a spiraling cycle of violence threatening the latest middle east peace efforts. this morning hamas vows revenge for an israeli missile attack. israeli hospital gun ships fired on a jeep in gaza. the strike targeted a hamas leader. and two other people were killed including a mother and bodyguard. mike hanna is tracking the latest developments from there. he joins us live with the details. mike ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "it", "is", "11:00", "a", ".", "m.", "on", "the", "east", "coast.", "from", "the", "cnn", "center", "in", "atlanta", ",", "i", "'m", "fred", "fred.", "a", "first", "here", "on", "\"", "cnn", "live", "today", ",", "\"", "a", "spiraling", "cycle", "of", "violence", "threatening", "the", "latest", "middle", "east", "peace", "efforts.", "this", "morning", "hamas", "vows", "revenge", "for", "an", "israeli", "missile", "attack.", "israeli", "hospital", "gun", "ships", "fired", "on", "a", "jeep", "in", "gaza.", "the", "strike", "targeted", "a", "hamas", "leader.", "and", "two", "other", "people", "were", "killed", "including", "a", "mother", "and", "bodyguard.", "mike", "hanna", "is", "tracking", "the", "latest", "developments", "from", "there.", "he", "joins", "us", "live", "with", "the", "details.", "mike", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "from the cnn center in atlanta, i'm fred fred",
+  "sentence_length" : 98,
+  "mentionArg2" : {
+    "extent" : "the cnn center in atlanta",
+    "argMentionid" : "CNN_ENG_20030610_105832.1-E10-14",
+    "start" : 11,
+    "end" : 15
+  },
+  "relationID" : "CNN_ENG_20030610_105832.1-R3",
+  "mentionArg1" : {
+    "extent" : "i",
+    "argMentionid" : "CNN_ENG_20030610_105832.1-E14-17",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "CNN_ENG_20030610_105832.1-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "it is 11:00 a . m. on the east coast. from the cnn center in atlanta , i 'm fred fred. a first here on \" cnn live today , \" a spiraling cycle of violence threatening the latest middle east peace efforts. this morning hamas vows revenge for an israeli missile attack. israeli hospital gun ships fired on a jeep in gaza. the strike targeted a hamas leader. and two other people were killed including a mother and bodyguard. mike hanna is tracking the latest developments from there. he joins us live with the details. mike ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "it", "is", "11:00", "a", ".", "m.", "on", "the", "east", "coast.", "from", "the", "cnn", "center", "in", "atlanta", ",", "i", "'m", "fred", "fred.", "a", "first", "here", "on", "\"", "cnn", "live", "today", ",", "\"", "a", "spiraling", "cycle", "of", "violence", "threatening", "the", "latest", "middle", "east", "peace", "efforts.", "this", "morning", "hamas", "vows", "revenge", "for", "an", "israeli", "missile", "attack.", "israeli", "hospital", "gun", "ships", "fired", "on", "a", "jeep", "in", "gaza.", "the", "strike", "targeted", "a", "hamas", "leader.", "and", "two", "other", "people", "were", "killed", "including", "a", "mother", "and", "bodyguard.", "mike", "hanna", "is", "tracking", "the", "latest", "developments", "from", "there.", "he", "joins", "us", "live", "with", "the", "details.", "mike", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "an israeli missile attack",
+  "sentence_length" : 98,
+  "mentionArg2" : {
+    "extent" : "missile",
+    "argMentionid" : "CNN_ENG_20030610_105832.1-E19-24",
+    "start" : 51,
+    "end" : 51
+  },
+  "relationID" : "CNN_ENG_20030610_105832.1-R4",
+  "mentionArg1" : {
+    "extent" : "israeli",
+    "argMentionid" : "CNN_ENG_20030610_105832.1-E18-23",
+    "start" : 50,
+    "end" : 50
+  },
+  "id" : "CNN_ENG_20030610_105832.1-R4-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "it is 11:00 a . m. on the east coast. from the cnn center in atlanta , i 'm fred fred. a first here on \" cnn live today , \" a spiraling cycle of violence threatening the latest middle east peace efforts. this morning hamas vows revenge for an israeli missile attack. israeli hospital gun ships fired on a jeep in gaza. the strike targeted a hamas leader. and two other people were killed including a mother and bodyguard. mike hanna is tracking the latest developments from there. he joins us live with the details. mike ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "it", "is", "11:00", "a", ".", "m.", "on", "the", "east", "coast.", "from", "the", "cnn", "center", "in", "atlanta", ",", "i", "'m", "fred", "fred.", "a", "first", "here", "on", "\"", "cnn", "live", "today", ",", "\"", "a", "spiraling", "cycle", "of", "violence", "threatening", "the", "latest", "middle", "east", "peace", "efforts.", "this", "morning", "hamas", "vows", "revenge", "for", "an", "israeli", "missile", "attack.", "israeli", "hospital", "gun", "ships", "fired", "on", "a", "jeep", "in", "gaza.", "the", "strike", "targeted", "a", "hamas", "leader.", "and", "two", "other", "people", "were", "killed", "including", "a", "mother", "and", "bodyguard.", "mike", "hanna", "is", "tracking", "the", "latest", "developments", "from", "there.", "he", "joins", "us", "live", "with", "the", "details.", "mike", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "israeli hospital gun ships",
+  "sentence_length" : 98,
+  "mentionArg2" : {
+    "extent" : "israeli hospital gun ships",
+    "argMentionid" : "CNN_ENG_20030610_105832.1-E20-25",
+    "start" : 53,
+    "end" : 56
+  },
+  "relationID" : "CNN_ENG_20030610_105832.1-R5",
+  "mentionArg1" : {
+    "extent" : "israeli",
+    "argMentionid" : "CNN_ENG_20030610_105832.1-E18-26",
+    "start" : 53,
+    "end" : 53
+  },
+  "id" : "CNN_ENG_20030610_105832.1-R5-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "it is 11:00 a . m. on the east coast. from the cnn center in atlanta , i 'm fred fred. a first here on \" cnn live today , \" a spiraling cycle of violence threatening the latest middle east peace efforts. this morning hamas vows revenge for an israeli missile attack. israeli hospital gun ships fired on a jeep in gaza. the strike targeted a hamas leader. and two other people were killed including a mother and bodyguard. mike hanna is tracking the latest developments from there. he joins us live with the details. mike ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "it", "is", "11:00", "a", ".", "m.", "on", "the", "east", "coast.", "from", "the", "cnn", "center", "in", "atlanta", ",", "i", "'m", "fred", "fred.", "a", "first", "here", "on", "\"", "cnn", "live", "today", ",", "\"", "a", "spiraling", "cycle", "of", "violence", "threatening", "the", "latest", "middle", "east", "peace", "efforts.", "this", "morning", "hamas", "vows", "revenge", "for", "an", "israeli", "missile", "attack.", "israeli", "hospital", "gun", "ships", "fired", "on", "a", "jeep", "in", "gaza.", "the", "strike", "targeted", "a", "hamas", "leader.", "and", "two", "other", "people", "were", "killed", "including", "a", "mother", "and", "bodyguard.", "mike", "hanna", "is", "tracking", "the", "latest", "developments", "from", "there.", "he", "joins", "us", "live", "with", "the", "details.", "mike", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a hamas leader",
+  "sentence_length" : 98,
+  "mentionArg2" : {
+    "extent" : "hamas",
+    "argMentionid" : "CNN_ENG_20030610_105832.1-E4-5",
+    "start" : 67,
+    "end" : 67
+  },
+  "relationID" : "CNN_ENG_20030610_105832.1-R6",
+  "mentionArg1" : {
+    "extent" : "a hamas leader",
+    "argMentionid" : "CNN_ENG_20030610_105832.1-E3-4",
+    "start" : 66,
+    "end" : 68
+  },
+  "id" : "CNN_ENG_20030610_105832.1-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "it is 11:00 a . m. on the east coast. from the cnn center in atlanta , i 'm fred fred. a first here on \" cnn live today , \" a spiraling cycle of violence threatening the latest middle east peace efforts. this morning hamas vows revenge for an israeli missile attack. israeli hospital gun ships fired on a jeep in gaza. the strike targeted a hamas leader. and two other people were killed including a mother and bodyguard. mike hanna is tracking the latest developments from there. he joins us live with the details. mike ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "it", "is", "11:00", "a", ".", "m.", "on", "the", "east", "coast.", "from", "the", "cnn", "center", "in", "atlanta", ",", "i", "'m", "fred", "fred.", "a", "first", "here", "on", "\"", "cnn", "live", "today", ",", "\"", "a", "spiraling", "cycle", "of", "violence", "threatening", "the", "latest", "middle", "east", "peace", "efforts.", "this", "morning", "hamas", "vows", "revenge", "for", "an", "israeli", "missile", "attack.", "israeli", "hospital", "gun", "ships", "fired", "on", "a", "jeep", "in", "gaza.", "the", "strike", "targeted", "a", "hamas", "leader.", "and", "two", "other", "people", "were", "killed", "including", "a", "mother", "and", "bodyguard.", "mike", "hanna", "is", "tracking", "the", "latest", "developments", "from", "there.", "he", "joins", "us", "live", "with", "the", "details.", "mike", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "mike hanna is tracking the latest developments from there",
+  "sentence_length" : 98,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "CNN_ENG_20030610_105832.1-E2-10",
+    "start" : 88,
+    "end" : 88
+  },
+  "relationID" : "CNN_ENG_20030610_105832.1-R7",
+  "mentionArg1" : {
+    "extent" : "mike hanna",
+    "argMentionid" : "CNN_ENG_20030610_105832.1-E8-9",
+    "start" : 80,
+    "end" : 81
+  },
+  "id" : "CNN_ENG_20030610_105832.1-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "it is 11:00 a . m. on the east coast. from the cnn center in atlanta , i 'm fred fred. a first here on \" cnn live today , \" a spiraling cycle of violence threatening the latest middle east peace efforts. this morning hamas vows revenge for an israeli missile attack. israeli hospital gun ships fired on a jeep in gaza. the strike targeted a hamas leader. and two other people were killed including a mother and bodyguard. mike hanna is tracking the latest developments from there. he joins us live with the details. mike ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "it", "is", "11:00", "a", ".", "m.", "on", "the", "east", "coast.", "from", "the", "cnn", "center", "in", "atlanta", ",", "i", "'m", "fred", "fred.", "a", "first", "here", "on", "\"", "cnn", "live", "today", ",", "\"", "a", "spiraling", "cycle", "of", "violence", "threatening", "the", "latest", "middle", "east", "peace", "efforts.", "this", "morning", "hamas", "vows", "revenge", "for", "an", "israeli", "missile", "attack.", "israeli", "hospital", "gun", "ships", "fired", "on", "a", "jeep", "in", "gaza.", "the", "strike", "targeted", "a", "hamas", "leader.", "and", "two", "other", "people", "were", "killed", "including", "a", "mother", "and", "bodyguard.", "mike", "hanna", "is", "tracking", "the", "latest", "developments", "from", "there.", "he", "joins", "us", "live", "with", "the", "details.", "mike", "?" ]
+} ]

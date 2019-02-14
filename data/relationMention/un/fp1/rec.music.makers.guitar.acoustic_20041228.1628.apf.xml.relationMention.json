@@ -1,0 +1,177 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "Republican insider",
+  "sentence_length" : 66,
+  "mentionArg2" : {
+    "extent" : "Republican",
+    "argMentionid" : "rec.music.makers.guitar.acoustic_20041228.1628-E25-93",
+    "start" : 41,
+    "end" : 41
+  },
+  "relationID" : "rec.music.makers.guitar.acoustic_20041228.1628-R1",
+  "mentionArg1" : {
+    "extent" : "Republican insider",
+    "argMentionid" : "rec.music.makers.guitar.acoustic_20041228.1628-E48-92",
+    "start" : 41,
+    "end" : 42
+  },
+  "id" : "rec.music.makers.guitar.acoustic_20041228.1628-R1-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "OT : new stuff on US election fraud Chris Rockcliffe Wed , 29 Dec 2004 00:28:16 + 0000 OT : new stuff on US election fraud US election fraud : whisper growing to a roar Now a person stating he is Republican insider is blowing the whistle , indicating that the fraud was much greater than just a handful of votes in Ohio and Florida .",
+  "sentence_index" : 0,
+  "Tokens" : [ "OT", ":", "new", "stuff", "on", "US", "election", "fraud", "Chris", "Rockcliffe", "Wed", ",", "29", "Dec", "2004", "00:28:16", "+", "0000", "OT", ":", "new", "stuff", "on", "US", "election", "fraud", "US", "election", "fraud", ":", "whisper", "growing", "to", "a", "roar", "Now", "a", "person", "stating", "he", "is", "Republican", "insider", "is", "blowing", "the", "whistle", ",", "indicating", "that", "the", "fraud", "was", "much", "greater", "than", "just", "a", "handful", "of", "votes", "in", "Ohio", "and", "Florida", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Dion Giles Western Australia",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Western Australia",
+    "argMentionid" : "rec.music.makers.guitar.acoustic_20041228.1628-E13-12",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "rec.music.makers.guitar.acoustic_20041228.1628-R2",
+  "mentionArg1" : {
+    "extent" : "Dion Giles",
+    "argMentionid" : "rec.music.makers.guitar.acoustic_20041228.1628-E12-11",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "rec.music.makers.guitar.acoustic_20041228.1628-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Dion Giles Western Australia Voter Fraud in Florida and Ohio : Kerry Won the Election by at least 1,7 Million Votes by Brad Menfil The URL of this article is : ---------- Brad Menfil is not my real name .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Dion", "Giles", "Western", "Australia", "Voter", "Fraud", "in", "Florida", "and", "Ohio", ":", "Kerry", "Won", "the", "Election", "by", "at", "least", "1,7", "Million", "Votes", "by", "Brad", "Menfil", "The", "URL", "of", "this", "article", "is", ":", "----------", "Brad", "Menfil", "is", "not", "my", "real", "name", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I work for the RNC [Republican National Committee",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "the RNC [Republican National Committee",
+    "argMentionid" : "rec.music.makers.guitar.acoustic_20041228.1628-E16-19",
+    "start" : 3,
+    "end" : 8
+  },
+  "relationID" : "rec.music.makers.guitar.acoustic_20041228.1628-R3",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "rec.music.makers.guitar.acoustic_20041228.1628-E14-17",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "rec.music.makers.guitar.acoustic_20041228.1628-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "I work for the RNC [ Republican National Committee ] .",
+  "sentence_index" : 10,
+  "Tokens" : [ "I", "work", "for", "the", "RNC", "[", "Republican", "National", "Committee", "]", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "The big Democratic counties (Broward for example) went to Kerry because it had to appear that everything was on the up and up",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "The big Democratic counties (Broward for example",
+    "argMentionid" : "rec.music.makers.guitar.acoustic_20041228.1628-E22-51",
+    "start" : 0,
+    "end" : 7
+  },
+  "relationID" : "rec.music.makers.guitar.acoustic_20041228.1628-R4",
+  "mentionArg1" : {
+    "extent" : "Broward",
+    "argMentionid" : "rec.music.makers.guitar.acoustic_20041228.1628-E23-52",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "rec.music.makers.guitar.acoustic_20041228.1628-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The big Democratic counties ( Broward for example ) went to Kerry because it had to appear that everything was on the up and up .",
+  "sentence_index" : 31,
+  "Tokens" : [ "The", "big", "Democratic", "counties", "(", "Broward", "for", "example", ")", "went", "to", "Kerry", "because", "it", "had", "to", "appear", "that", "everything", "was", "on", "the", "up", "and", "up", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "other states such as New Mexico, Nevada, Iowa and New Hampshire",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "other states such as New Mexico, Nevada, Iowa and New Hampshire",
+    "argMentionid" : "rec.music.makers.guitar.acoustic_20041228.1628-E37-72",
+    "start" : 1,
+    "end" : 13
+  },
+  "relationID" : "rec.music.makers.guitar.acoustic_20041228.1628-R5",
+  "mentionArg1" : {
+    "extent" : "New Mexico",
+    "argMentionid" : "rec.music.makers.guitar.acoustic_20041228.1628-E38-73",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "rec.music.makers.guitar.acoustic_20041228.1628-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "In other states such as New Mexico , Nevada , Iowa and New Hampshire , Kerry 's leads evaporated very quickly once the polls were shut down .",
+  "sentence_index" : 45,
+  "Tokens" : [ "In", "other", "states", "such", "as", "New", "Mexico", ",", "Nevada", ",", "Iowa", "and", "New", "Hampshire", ",", "Kerry", "'s", "leads", "evaporated", "very", "quickly", "once", "the", "polls", "were", "shut", "down", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "other states such as New Mexico, Nevada, Iowa and New Hampshire",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "other states such as New Mexico, Nevada, Iowa and New Hampshire",
+    "argMentionid" : "rec.music.makers.guitar.acoustic_20041228.1628-E37-72",
+    "start" : 1,
+    "end" : 13
+  },
+  "relationID" : "rec.music.makers.guitar.acoustic_20041228.1628-R6",
+  "mentionArg1" : {
+    "extent" : "Nevada",
+    "argMentionid" : "rec.music.makers.guitar.acoustic_20041228.1628-E39-74",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "rec.music.makers.guitar.acoustic_20041228.1628-R6-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "In other states such as New Mexico , Nevada , Iowa and New Hampshire , Kerry 's leads evaporated very quickly once the polls were shut down .",
+  "sentence_index" : 45,
+  "Tokens" : [ "In", "other", "states", "such", "as", "New", "Mexico", ",", "Nevada", ",", "Iowa", "and", "New", "Hampshire", ",", "Kerry", "'s", "leads", "evaporated", "very", "quickly", "once", "the", "polls", "were", "shut", "down", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "other states such as New Mexico, Nevada, Iowa and New Hampshire",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "other states such as New Mexico, Nevada, Iowa and New Hampshire",
+    "argMentionid" : "rec.music.makers.guitar.acoustic_20041228.1628-E37-72",
+    "start" : 1,
+    "end" : 13
+  },
+  "relationID" : "rec.music.makers.guitar.acoustic_20041228.1628-R7",
+  "mentionArg1" : {
+    "extent" : "Iowa",
+    "argMentionid" : "rec.music.makers.guitar.acoustic_20041228.1628-E40-75",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "rec.music.makers.guitar.acoustic_20041228.1628-R7-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "In other states such as New Mexico , Nevada , Iowa and New Hampshire , Kerry 's leads evaporated very quickly once the polls were shut down .",
+  "sentence_index" : 45,
+  "Tokens" : [ "In", "other", "states", "such", "as", "New", "Mexico", ",", "Nevada", ",", "Iowa", "and", "New", "Hampshire", ",", "Kerry", "'s", "leads", "evaporated", "very", "quickly", "once", "the", "polls", "were", "shut", "down", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "other states such as New Mexico, Nevada, Iowa and New Hampshire",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "other states such as New Mexico, Nevada, Iowa and New Hampshire",
+    "argMentionid" : "rec.music.makers.guitar.acoustic_20041228.1628-E37-72",
+    "start" : 1,
+    "end" : 13
+  },
+  "relationID" : "rec.music.makers.guitar.acoustic_20041228.1628-R8",
+  "mentionArg1" : {
+    "extent" : "New Hampshire",
+    "argMentionid" : "rec.music.makers.guitar.acoustic_20041228.1628-E41-76",
+    "start" : 12,
+    "end" : 13
+  },
+  "id" : "rec.music.makers.guitar.acoustic_20041228.1628-R8-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "In other states such as New Mexico , Nevada , Iowa and New Hampshire , Kerry 's leads evaporated very quickly once the polls were shut down .",
+  "sentence_index" : 45,
+  "Tokens" : [ "In", "other", "states", "such", "as", "New", "Mexico", ",", "Nevada", ",", "Iowa", "and", "New", "Hampshire", ",", "Kerry", "'s", "leads", "evaporated", "very", "quickly", "once", "the", "polls", "were", "shut", "down", "." ]
+} ]

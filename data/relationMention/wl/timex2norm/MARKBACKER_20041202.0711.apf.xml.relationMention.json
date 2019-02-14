@@ -1,0 +1,89 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "recently the non-playing and \"sick\" first baseman of the New York Yankees",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "the New York Yankees",
+    "argMentionid" : "MARKBACKER_20041202.0711-E37-78",
+    "start" : 17,
+    "end" : 20
+  },
+  "relationID" : "MARKBACKER_20041202.0711-R1",
+  "mentionArg1" : {
+    "extent" : "recently the non-playing and \"sick\" first baseman of the New York Yankees",
+    "argMentionid" : "MARKBACKER_20041202.0711-E19-77",
+    "start" : 7,
+    "end" : 20
+  },
+  "id" : "MARKBACKER_20041202.0711-R1-1",
+  "relationSubType" : "Sports-Affiliation",
+  "Sentence" : "Mark Backer 2004-12-02T07:11:00 Apparently Jason Giambi , recently the non-playing and \" sick \" first baseman of the New York Yankees , admitted to a Grand Jury that he \" injected anabolic steroids and human growth hormone ( HGH ) as recently as 2003 .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Mark", "Backer", "2004-12-02T07:11:00", "Apparently", "Jason", "Giambi", ",", "recently", "the", "non-playing", "and", "\"", "sick", "\"", "first", "baseman", "of", "the", "New", "York", "Yankees", ",", "admitted", "to", "a", "Grand", "Jury", "that", "he", "\"", "injected", "anabolic", "steroids", "and", "human", "growth", "hormone", "(", "HGH", ")", "as", "recently", "as", "2003", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Barry Bonds' trainer",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Barry Bonds' trainer",
+    "argMentionid" : "MARKBACKER_20041202.0711-E35-86",
+    "start" : 16,
+    "end" : 19
+  },
+  "relationID" : "MARKBACKER_20041202.0711-R2",
+  "mentionArg1" : {
+    "extent" : "Barry Bonds",
+    "argMentionid" : "MARKBACKER_20041202.0711-E17-88",
+    "start" : 16,
+    "end" : 17
+  },
+  "id" : "MARKBACKER_20041202.0711-R2-1",
+  "relationSubType" : "Business",
+  "Sentence" : "And he apparently got them thru BALCO and ( surprise ) the same guy that is Barry Bonds ' trainer , once Greg Anderson .",
+  "sentence_index" : 1,
+  "Tokens" : [ "And", "he", "apparently", "got", "them", "thru", "BALCO", "and", "(", "surprise", ")", "the", "same", "guy", "that", "is", "Barry", "Bonds", "'", "trainer", ",", "once", "Greg", "Anderson", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Jason's brother",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "Jason's brother",
+    "argMentionid" : "MARKBACKER_20041202.0711-E1-4",
+    "start" : 0,
+    "end" : 2
+  },
+  "relationID" : "MARKBACKER_20041202.0711-R3",
+  "mentionArg1" : {
+    "extent" : "Jason",
+    "argMentionid" : "MARKBACKER_20041202.0711-E19-2",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "MARKBACKER_20041202.0711-R3-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Jason 's brother Jeremy also admitted to the grand jury that he used steroids .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Jason", "'s", "brother", "Jeremy", "also", "admitted", "to", "the", "grand", "jury", "that", "he", "used", "steroids", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "anyone associated with this special \"trainer\" Greg Anderson",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "this special \"trainer",
+    "argMentionid" : "MARKBACKER_20041202.0711-E35-74",
+    "start" : 6,
+    "end" : 9
+  },
+  "relationID" : "MARKBACKER_20041202.0711-R4",
+  "mentionArg1" : {
+    "extent" : "anyone associated with this special \"trainer\" Greg Anderson",
+    "argMentionid" : "MARKBACKER_20041202.0711-E7-17",
+    "start" : 3,
+    "end" : 12
+  },
+  "id" : "MARKBACKER_20041202.0711-R4-1",
+  "relationSubType" : "Business",
+  "Sentence" : "It seems that anyone associated with this special \" trainer \" Greg Anderson is coming up dirty .",
+  "sentence_index" : 5,
+  "Tokens" : [ "It", "seems", "that", "anyone", "associated", "with", "this", "special", "\"", "trainer", "\"", "Greg", "Anderson", "is", "coming", "up", "dirty", "." ]
+} ]

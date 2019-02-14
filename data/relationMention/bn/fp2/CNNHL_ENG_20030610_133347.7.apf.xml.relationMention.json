@@ -1,0 +1,199 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "syracuse, new york, where a retired handyman admitted he held five women as sex slaves in an underground bunker over 15 years",
+  "sentence_length" : 101,
+  "mentionArg2" : {
+    "extent" : "new york",
+    "argMentionid" : "CNNHL_ENG_20030610_133347.7-E5-11",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "CNNHL_ENG_20030610_133347.7-R1",
+  "mentionArg1" : {
+    "extent" : "syracuse, new york, where a retired handyman admitted he held five women as sex slaves in an underground bunker over 15 years",
+    "argMentionid" : "CNNHL_ENG_20030610_133347.7-E4-1",
+    "start" : 5,
+    "end" : 28
+  },
+  "id" : "CNNHL_ENG_20030610_133347.7-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "strange story coming out of syracuse , new york , where a retired handyman admitted he held five women as sex slaves in an underground bunker over 15 years. he pleaded guilty this morning to five counts of kidnapping. under a plea deal he could get 15 years to life. he was arrested in april for holding a girl hostage nearly seven months. the girl was kept in a two-room concrete dungeon he built under the background of his home near syracuse. after his arrest , police found four other women who said they were abducted and raped by him .",
+  "sentence_index" : 0,
+  "Tokens" : [ "strange", "story", "coming", "out", "of", "syracuse", ",", "new", "york", ",", "where", "a", "retired", "handyman", "admitted", "he", "held", "five", "women", "as", "sex", "slaves", "in", "an", "underground", "bunker", "over", "15", "years.", "he", "pleaded", "guilty", "this", "morning", "to", "five", "counts", "of", "kidnapping.", "under", "a", "plea", "deal", "he", "could", "get", "15", "years", "to", "life.", "he", "was", "arrested", "in", "april", "for", "holding", "a", "girl", "hostage", "nearly", "seven", "months.", "the", "girl", "was", "kept", "in", "a", "two-room", "concrete", "dungeon", "he", "built", "under", "the", "background", "of", "his", "home", "near", "syracuse.", "after", "his", "arrest", ",", "police", "found", "four", "other", "women", "who", "said", "they", "were", "abducted", "and", "raped", "by", "him", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "strange story coming out of syracuse, new york, where a retired handyman admitted he held five women as sex slaves in an underground bunker over 15 years",
+  "sentence_length" : 101,
+  "mentionArg2" : {
+    "extent" : "an underground bunker",
+    "argMentionid" : "CNNHL_ENG_20030610_133347.7-E9-17",
+    "start" : 23,
+    "end" : 25
+  },
+  "relationID" : "CNNHL_ENG_20030610_133347.7-R2",
+  "mentionArg1" : {
+    "extent" : "five women",
+    "argMentionid" : "CNNHL_ENG_20030610_133347.7-E7-15",
+    "start" : 17,
+    "end" : 18
+  },
+  "id" : "CNNHL_ENG_20030610_133347.7-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "strange story coming out of syracuse , new york , where a retired handyman admitted he held five women as sex slaves in an underground bunker over 15 years. he pleaded guilty this morning to five counts of kidnapping. under a plea deal he could get 15 years to life. he was arrested in april for holding a girl hostage nearly seven months. the girl was kept in a two-room concrete dungeon he built under the background of his home near syracuse. after his arrest , police found four other women who said they were abducted and raped by him .",
+  "sentence_index" : 0,
+  "Tokens" : [ "strange", "story", "coming", "out", "of", "syracuse", ",", "new", "york", ",", "where", "a", "retired", "handyman", "admitted", "he", "held", "five", "women", "as", "sex", "slaves", "in", "an", "underground", "bunker", "over", "15", "years.", "he", "pleaded", "guilty", "this", "morning", "to", "five", "counts", "of", "kidnapping.", "under", "a", "plea", "deal", "he", "could", "get", "15", "years", "to", "life.", "he", "was", "arrested", "in", "april", "for", "holding", "a", "girl", "hostage", "nearly", "seven", "months.", "the", "girl", "was", "kept", "in", "a", "two-room", "concrete", "dungeon", "he", "built", "under", "the", "background", "of", "his", "home", "near", "syracuse.", "after", "his", "arrest", ",", "police", "found", "four", "other", "women", "who", "said", "they", "were", "abducted", "and", "raped", "by", "him", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "strange story coming out of syracuse, new york, where a retired handyman admitted he held five women as sex slaves in an underground bunker over 15 years",
+  "sentence_length" : 101,
+  "mentionArg2" : {
+    "extent" : "syracuse, new york, where a retired handyman admitted he held five women as sex slaves in an underground bunker over 15 years",
+    "argMentionid" : "CNNHL_ENG_20030610_133347.7-E4-1",
+    "start" : 5,
+    "end" : 28
+  },
+  "relationID" : "CNNHL_ENG_20030610_133347.7-R3",
+  "mentionArg1" : {
+    "extent" : "a retired handyman",
+    "argMentionid" : "CNNHL_ENG_20030610_133347.7-E6-13",
+    "start" : 11,
+    "end" : 13
+  },
+  "id" : "CNNHL_ENG_20030610_133347.7-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "strange story coming out of syracuse , new york , where a retired handyman admitted he held five women as sex slaves in an underground bunker over 15 years. he pleaded guilty this morning to five counts of kidnapping. under a plea deal he could get 15 years to life. he was arrested in april for holding a girl hostage nearly seven months. the girl was kept in a two-room concrete dungeon he built under the background of his home near syracuse. after his arrest , police found four other women who said they were abducted and raped by him .",
+  "sentence_index" : 0,
+  "Tokens" : [ "strange", "story", "coming", "out", "of", "syracuse", ",", "new", "york", ",", "where", "a", "retired", "handyman", "admitted", "he", "held", "five", "women", "as", "sex", "slaves", "in", "an", "underground", "bunker", "over", "15", "years.", "he", "pleaded", "guilty", "this", "morning", "to", "five", "counts", "of", "kidnapping.", "under", "a", "plea", "deal", "he", "could", "get", "15", "years", "to", "life.", "he", "was", "arrested", "in", "april", "for", "holding", "a", "girl", "hostage", "nearly", "seven", "months.", "the", "girl", "was", "kept", "in", "a", "two-room", "concrete", "dungeon", "he", "built", "under", "the", "background", "of", "his", "home", "near", "syracuse.", "after", "his", "arrest", ",", "police", "found", "four", "other", "women", "who", "said", "they", "were", "abducted", "and", "raped", "by", "him", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the girl was kept in a two-room concrete dungeon he built under the background of his home near syracuse",
+  "sentence_length" : 101,
+  "mentionArg2" : {
+    "extent" : "a two-room concrete dungeon he built under the background of his home near syracuse",
+    "argMentionid" : "CNNHL_ENG_20030610_133347.7-E9-24",
+    "start" : 68,
+    "end" : 81
+  },
+  "relationID" : "CNNHL_ENG_20030610_133347.7-R4",
+  "mentionArg1" : {
+    "extent" : "the girl",
+    "argMentionid" : "CNNHL_ENG_20030610_133347.7-E11-23",
+    "start" : 63,
+    "end" : 64
+  },
+  "id" : "CNNHL_ENG_20030610_133347.7-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "strange story coming out of syracuse , new york , where a retired handyman admitted he held five women as sex slaves in an underground bunker over 15 years. he pleaded guilty this morning to five counts of kidnapping. under a plea deal he could get 15 years to life. he was arrested in april for holding a girl hostage nearly seven months. the girl was kept in a two-room concrete dungeon he built under the background of his home near syracuse. after his arrest , police found four other women who said they were abducted and raped by him .",
+  "sentence_index" : 0,
+  "Tokens" : [ "strange", "story", "coming", "out", "of", "syracuse", ",", "new", "york", ",", "where", "a", "retired", "handyman", "admitted", "he", "held", "five", "women", "as", "sex", "slaves", "in", "an", "underground", "bunker", "over", "15", "years.", "he", "pleaded", "guilty", "this", "morning", "to", "five", "counts", "of", "kidnapping.", "under", "a", "plea", "deal", "he", "could", "get", "15", "years", "to", "life.", "he", "was", "arrested", "in", "april", "for", "holding", "a", "girl", "hostage", "nearly", "seven", "months.", "the", "girl", "was", "kept", "in", "a", "two-room", "concrete", "dungeon", "he", "built", "under", "the", "background", "of", "his", "home", "near", "syracuse.", "after", "his", "arrest", ",", "police", "found", "four", "other", "women", "who", "said", "they", "were", "abducted", "and", "raped", "by", "him", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a two-room concrete dungeon he built under the background of his home near syracuse",
+  "sentence_length" : 101,
+  "mentionArg2" : {
+    "extent" : "a two-room concrete dungeon he built under the background of his home near syracuse",
+    "argMentionid" : "CNNHL_ENG_20030610_133347.7-E9-24",
+    "start" : 68,
+    "end" : 81
+  },
+  "relationID" : "CNNHL_ENG_20030610_133347.7-R5",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "CNNHL_ENG_20030610_133347.7-E6-25",
+    "start" : 72,
+    "end" : 72
+  },
+  "id" : "CNNHL_ENG_20030610_133347.7-R5-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "strange story coming out of syracuse , new york , where a retired handyman admitted he held five women as sex slaves in an underground bunker over 15 years. he pleaded guilty this morning to five counts of kidnapping. under a plea deal he could get 15 years to life. he was arrested in april for holding a girl hostage nearly seven months. the girl was kept in a two-room concrete dungeon he built under the background of his home near syracuse. after his arrest , police found four other women who said they were abducted and raped by him .",
+  "sentence_index" : 0,
+  "Tokens" : [ "strange", "story", "coming", "out", "of", "syracuse", ",", "new", "york", ",", "where", "a", "retired", "handyman", "admitted", "he", "held", "five", "women", "as", "sex", "slaves", "in", "an", "underground", "bunker", "over", "15", "years.", "he", "pleaded", "guilty", "this", "morning", "to", "five", "counts", "of", "kidnapping.", "under", "a", "plea", "deal", "he", "could", "get", "15", "years", "to", "life.", "he", "was", "arrested", "in", "april", "for", "holding", "a", "girl", "hostage", "nearly", "seven", "months.", "the", "girl", "was", "kept", "in", "a", "two-room", "concrete", "dungeon", "he", "built", "under", "the", "background", "of", "his", "home", "near", "syracuse.", "after", "his", "arrest", ",", "police", "found", "four", "other", "women", "who", "said", "they", "were", "abducted", "and", "raped", "by", "him", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a two-room concrete dungeon he built under the background of his home near syracuse",
+  "sentence_length" : 101,
+  "mentionArg2" : {
+    "extent" : "the background",
+    "argMentionid" : "CNNHL_ENG_20030610_133347.7-E12-26",
+    "start" : 75,
+    "end" : 76
+  },
+  "relationID" : "CNNHL_ENG_20030610_133347.7-R6",
+  "mentionArg1" : {
+    "extent" : "a two-room concrete dungeon he built under the background of his home near syracuse",
+    "argMentionid" : "CNNHL_ENG_20030610_133347.7-E9-24",
+    "start" : 68,
+    "end" : 81
+  },
+  "id" : "CNNHL_ENG_20030610_133347.7-R6-1",
+  "relationSubType" : "Near",
+  "Sentence" : "strange story coming out of syracuse , new york , where a retired handyman admitted he held five women as sex slaves in an underground bunker over 15 years. he pleaded guilty this morning to five counts of kidnapping. under a plea deal he could get 15 years to life. he was arrested in april for holding a girl hostage nearly seven months. the girl was kept in a two-room concrete dungeon he built under the background of his home near syracuse. after his arrest , police found four other women who said they were abducted and raped by him .",
+  "sentence_index" : 0,
+  "Tokens" : [ "strange", "story", "coming", "out", "of", "syracuse", ",", "new", "york", ",", "where", "a", "retired", "handyman", "admitted", "he", "held", "five", "women", "as", "sex", "slaves", "in", "an", "underground", "bunker", "over", "15", "years.", "he", "pleaded", "guilty", "this", "morning", "to", "five", "counts", "of", "kidnapping.", "under", "a", "plea", "deal", "he", "could", "get", "15", "years", "to", "life.", "he", "was", "arrested", "in", "april", "for", "holding", "a", "girl", "hostage", "nearly", "seven", "months.", "the", "girl", "was", "kept", "in", "a", "two-room", "concrete", "dungeon", "he", "built", "under", "the", "background", "of", "his", "home", "near", "syracuse.", "after", "his", "arrest", ",", "police", "found", "four", "other", "women", "who", "said", "they", "were", "abducted", "and", "raped", "by", "him", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a two-room concrete dungeon he built under the background of his home near syracuse",
+  "sentence_length" : 101,
+  "mentionArg2" : {
+    "extent" : "his home near syracuse",
+    "argMentionid" : "CNNHL_ENG_20030610_133347.7-E1-2",
+    "start" : 78,
+    "end" : 81
+  },
+  "relationID" : "CNNHL_ENG_20030610_133347.7-R7",
+  "mentionArg1" : {
+    "extent" : "the background",
+    "argMentionid" : "CNNHL_ENG_20030610_133347.7-E12-26",
+    "start" : 75,
+    "end" : 76
+  },
+  "id" : "CNNHL_ENG_20030610_133347.7-R7-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "strange story coming out of syracuse , new york , where a retired handyman admitted he held five women as sex slaves in an underground bunker over 15 years. he pleaded guilty this morning to five counts of kidnapping. under a plea deal he could get 15 years to life. he was arrested in april for holding a girl hostage nearly seven months. the girl was kept in a two-room concrete dungeon he built under the background of his home near syracuse. after his arrest , police found four other women who said they were abducted and raped by him .",
+  "sentence_index" : 0,
+  "Tokens" : [ "strange", "story", "coming", "out", "of", "syracuse", ",", "new", "york", ",", "where", "a", "retired", "handyman", "admitted", "he", "held", "five", "women", "as", "sex", "slaves", "in", "an", "underground", "bunker", "over", "15", "years.", "he", "pleaded", "guilty", "this", "morning", "to", "five", "counts", "of", "kidnapping.", "under", "a", "plea", "deal", "he", "could", "get", "15", "years", "to", "life.", "he", "was", "arrested", "in", "april", "for", "holding", "a", "girl", "hostage", "nearly", "seven", "months.", "the", "girl", "was", "kept", "in", "a", "two-room", "concrete", "dungeon", "he", "built", "under", "the", "background", "of", "his", "home", "near", "syracuse.", "after", "his", "arrest", ",", "police", "found", "four", "other", "women", "who", "said", "they", "were", "abducted", "and", "raped", "by", "him", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a two-room concrete dungeon he built under the background of his home near syracuse",
+  "sentence_length" : 101,
+  "mentionArg2" : {
+    "extent" : "syracuse",
+    "argMentionid" : "CNNHL_ENG_20030610_133347.7-E4-10",
+    "start" : 81,
+    "end" : 81
+  },
+  "relationID" : "CNNHL_ENG_20030610_133347.7-R8",
+  "mentionArg1" : {
+    "extent" : "his home near syracuse",
+    "argMentionid" : "CNNHL_ENG_20030610_133347.7-E1-2",
+    "start" : 78,
+    "end" : 81
+  },
+  "id" : "CNNHL_ENG_20030610_133347.7-R8-1",
+  "relationSubType" : "Near",
+  "Sentence" : "strange story coming out of syracuse , new york , where a retired handyman admitted he held five women as sex slaves in an underground bunker over 15 years. he pleaded guilty this morning to five counts of kidnapping. under a plea deal he could get 15 years to life. he was arrested in april for holding a girl hostage nearly seven months. the girl was kept in a two-room concrete dungeon he built under the background of his home near syracuse. after his arrest , police found four other women who said they were abducted and raped by him .",
+  "sentence_index" : 0,
+  "Tokens" : [ "strange", "story", "coming", "out", "of", "syracuse", ",", "new", "york", ",", "where", "a", "retired", "handyman", "admitted", "he", "held", "five", "women", "as", "sex", "slaves", "in", "an", "underground", "bunker", "over", "15", "years.", "he", "pleaded", "guilty", "this", "morning", "to", "five", "counts", "of", "kidnapping.", "under", "a", "plea", "deal", "he", "could", "get", "15", "years", "to", "life.", "he", "was", "arrested", "in", "april", "for", "holding", "a", "girl", "hostage", "nearly", "seven", "months.", "the", "girl", "was", "kept", "in", "a", "two-room", "concrete", "dungeon", "he", "built", "under", "the", "background", "of", "his", "home", "near", "syracuse.", "after", "his", "arrest", ",", "police", "found", "four", "other", "women", "who", "said", "they", "were", "abducted", "and", "raped", "by", "him", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "his home near syracuse",
+  "sentence_length" : 101,
+  "mentionArg2" : {
+    "extent" : "his home near syracuse",
+    "argMentionid" : "CNNHL_ENG_20030610_133347.7-E1-2",
+    "start" : 78,
+    "end" : 81
+  },
+  "relationID" : "CNNHL_ENG_20030610_133347.7-R9",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNNHL_ENG_20030610_133347.7-E6-3",
+    "start" : 78,
+    "end" : 78
+  },
+  "id" : "CNNHL_ENG_20030610_133347.7-R9-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "strange story coming out of syracuse , new york , where a retired handyman admitted he held five women as sex slaves in an underground bunker over 15 years. he pleaded guilty this morning to five counts of kidnapping. under a plea deal he could get 15 years to life. he was arrested in april for holding a girl hostage nearly seven months. the girl was kept in a two-room concrete dungeon he built under the background of his home near syracuse. after his arrest , police found four other women who said they were abducted and raped by him .",
+  "sentence_index" : 0,
+  "Tokens" : [ "strange", "story", "coming", "out", "of", "syracuse", ",", "new", "york", ",", "where", "a", "retired", "handyman", "admitted", "he", "held", "five", "women", "as", "sex", "slaves", "in", "an", "underground", "bunker", "over", "15", "years.", "he", "pleaded", "guilty", "this", "morning", "to", "five", "counts", "of", "kidnapping.", "under", "a", "plea", "deal", "he", "could", "get", "15", "years", "to", "life.", "he", "was", "arrested", "in", "april", "for", "holding", "a", "girl", "hostage", "nearly", "seven", "months.", "the", "girl", "was", "kept", "in", "a", "two-room", "concrete", "dungeon", "he", "built", "under", "the", "background", "of", "his", "home", "near", "syracuse.", "after", "his", "arrest", ",", "police", "found", "four", "other", "women", "who", "said", "they", "were", "abducted", "and", "raped", "by", "him", "." ]
+} ]

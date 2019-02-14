@@ -1,0 +1,375 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "Bush Cabinet",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "Bush Cabinet",
+    "argMentionid" : "fsh_29192-E51-147",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "fsh_29192-R1",
+  "mentionArg1" : {
+    "extent" : "Bush",
+    "argMentionid" : "fsh_29192-E20-1",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29192-R1-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Bush Cabinet President Bush has just been elected to another term in office , and he has already started to appoint new people to his political cabinet as current members like Colin Powell and John Ashcroft resign .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Bush", "Cabinet", "President", "Bush", "has", "just", "been", "elected", "to", "another", "term", "in", "office", ",", "and", "he", "has", "already", "started", "to", "appoint", "new", "people", "to", "his", "political", "cabinet", "as", "current", "members", "like", "Colin", "Powell", "and", "John", "Ashcroft", "resign", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his political cabinet",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "his political cabinet",
+    "argMentionid" : "fsh_29192-E51-221",
+    "start" : 24,
+    "end" : 26
+  },
+  "relationID" : "fsh_29192-R1",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29192-E20-222",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "fsh_29192-R1-2",
+  "relationSubType" : "Business",
+  "Sentence" : "Bush Cabinet President Bush has just been elected to another term in office , and he has already started to appoint new people to his political cabinet as current members like Colin Powell and John Ashcroft resign .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Bush", "Cabinet", "President", "Bush", "has", "just", "been", "elected", "to", "another", "term", "in", "office", ",", "and", "he", "has", "already", "started", "to", "appoint", "new", "people", "to", "his", "political", "cabinet", "as", "current", "members", "like", "Colin", "Powell", "and", "John", "Ashcroft", "resign", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his cabinet",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "his cabinet",
+    "argMentionid" : "fsh_29192-E51-229",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "fsh_29192-R3",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29192-E51-228",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "fsh_29192-R3-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Who would you like to see appointed to his cabinet next term ?",
+  "sentence_index" : 2,
+  "Tokens" : [ "Who", "would", "you", "like", "to", "see", "appointed", "to", "his", "cabinet", "next", "term", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "your cabinet",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "your cabinet",
+    "argMentionid" : "fsh_29192-E3-6",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "fsh_29192-R4",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29192-E58-5",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "fsh_29192-R4-1",
+  "relationSubType" : "Business",
+  "Sentence" : "If you were president , which national figures would you appoint to your cabinet and why ?",
+  "sentence_index" : 4,
+  "Tokens" : [ "If", "you", "were", "president", ",", "which", "national", "figures", "would", "you", "appoint", "to", "your", "cabinet", "and", "why", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the chief of police of New York",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "police",
+    "argMentionid" : "fsh_29192-E15-29",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "fsh_29192-R5",
+  "mentionArg1" : {
+    "extent" : "the chief of police of New York",
+    "argMentionid" : "fsh_29192-E12-28",
+    "start" : 22,
+    "end" : 28
+  },
+  "id" : "fsh_29192-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "But I heard that they were going to -- one of the possible candidates is the the guy he used to be the chief of police of New York .",
+  "sentence_index" : 9,
+  "Tokens" : [ "But", "I", "heard", "that", "they", "were", "going", "to", "--", "one", "of", "the", "possible", "candidates", "is", "the", "the", "guy", "he", "used", "to", "be", "the", "chief", "of", "police", "of", "New", "York", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the chief of police of New York",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "New York",
+    "argMentionid" : "fsh_29192-E16-30",
+    "start" : 27,
+    "end" : 28
+  },
+  "relationID" : "fsh_29192-R6",
+  "mentionArg1" : {
+    "extent" : "police",
+    "argMentionid" : "fsh_29192-E15-29",
+    "start" : 25,
+    "end" : 25
+  },
+  "id" : "fsh_29192-R6-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "But I heard that they were going to -- one of the possible candidates is the the guy he used to be the chief of police of New York .",
+  "sentence_index" : 9,
+  "Tokens" : [ "But", "I", "heard", "that", "they", "were", "going", "to", "--", "one", "of", "the", "possible", "candidates", "is", "the", "the", "guy", "he", "used", "to", "be", "the", "chief", "of", "police", "of", "New", "York", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "You know, because New York, I don't know if you've ever been there",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "fsh_29192-E16-41",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "fsh_29192-R7",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "fsh_29192-E18-40",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "fsh_29192-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "You know , because New York , I do n't know if you 've ever been there B Yeah , I went there (( before )) A has has has got some -- different rules from Texas as far as -- you know you know , running the city .",
+  "sentence_index" : 11,
+  "Tokens" : [ "You", "know", ",", "because", "New", "York", ",", "I", "do", "n't", "know", "if", "you", "'ve", "ever", "been", "there", "B", "Yeah", ",", "I", "went", "there", "((", "before", "))", "A", "has", "has", "has", "got", "some", "--", "different", "rules", "from", "Texas", "as", "far", "as", "--", "you", "know", "you", "know", ",", "running", "the", "city", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Yeah, I went there ((before",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "fsh_29192-E16-43",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "fsh_29192-R7",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29192-E18-42",
+    "start" : 20,
+    "end" : 20
+  },
+  "id" : "fsh_29192-R7-2",
+  "relationSubType" : "Located",
+  "Sentence" : "You know , because New York , I do n't know if you 've ever been there B Yeah , I went there (( before )) A has has has got some -- different rules from Texas as far as -- you know you know , running the city .",
+  "sentence_index" : 11,
+  "Tokens" : [ "You", "know", ",", "because", "New", "York", ",", "I", "do", "n't", "know", "if", "you", "'ve", "ever", "been", "there", "B", "Yeah", ",", "I", "went", "there", "((", "before", "))", "A", "has", "has", "has", "got", "some", "--", "different", "rules", "from", "Texas", "as", "far", "as", "--", "you", "know", "you", "know", ",", "running", "the", "city", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "I mean I, there's a lot lot more people dense population up there than there is in in Texas and they probably would have uh the pol- uh the police chief would probably know -- well what can work in like, airports or, you know, things, situations like that",
+  "sentence_length" : 56,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "fsh_29192-E16-52",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "fsh_29192-R9",
+  "mentionArg1" : {
+    "extent" : "dense population",
+    "argMentionid" : "fsh_29192-E21-51",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "fsh_29192-R9-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "I mean I , there 's a lot lot more people dense population up there than there is in in Texas and they probably would have uh the pol- uh the police chief would probably know -- well what can work in like , airports or , you know , things , situations like that .",
+  "sentence_index" : 12,
+  "Tokens" : [ "I", "mean", "I", ",", "there", "'s", "a", "lot", "lot", "more", "people", "dense", "population", "up", "there", "than", "there", "is", "in", "in", "Texas", "and", "they", "probably", "would", "have", "uh", "the", "pol-", "uh", "the", "police", "chief", "would", "probably", "know", "--", "well", "what", "can", "work", "in", "like", ",", "airports", "or", ",", "you", "know", ",", "things", ",", "situations", "like", "that", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the police chief",
+  "sentence_length" : 56,
+  "mentionArg2" : {
+    "extent" : "police",
+    "argMentionid" : "fsh_29192-E15-56",
+    "start" : 31,
+    "end" : 31
+  },
+  "relationID" : "fsh_29192-R10",
+  "mentionArg1" : {
+    "extent" : "the police chief",
+    "argMentionid" : "fsh_29192-E22-55",
+    "start" : 30,
+    "end" : 32
+  },
+  "id" : "fsh_29192-R10-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "I mean I , there 's a lot lot more people dense population up there than there is in in Texas and they probably would have uh the pol- uh the police chief would probably know -- well what can work in like , airports or , you know , things , situations like that .",
+  "sentence_index" : 12,
+  "Tokens" : [ "I", "mean", "I", ",", "there", "'s", "a", "lot", "lot", "more", "people", "dense", "population", "up", "there", "than", "there", "is", "in", "in", "Texas", "and", "they", "probably", "would", "have", "uh", "the", "pol-", "uh", "the", "police", "chief", "would", "probably", "know", "--", "well", "what", "can", "work", "in", "like", ",", "airports", "or", ",", "you", "know", ",", "things", ",", "situations", "like", "that", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "But I, it didn't -- I can't remember his name, but -- the, I saw an interview with him, and -- how he, uh -- ran New York and uh -- you know, some of the -- ru- you know, they changed some of the rules, uh -- uh, not rules, but the way they -- uh",
+  "sentence_length" : 78,
+  "mentionArg2" : {
+    "extent" : "New York",
+    "argMentionid" : "fsh_29192-E16-68",
+    "start" : 33,
+    "end" : 34
+  },
+  "relationID" : "fsh_29192-R11",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "fsh_29192-E12-67",
+    "start" : 28,
+    "end" : 28
+  },
+  "id" : "fsh_29192-R11-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "But I , it did n't -- I ca n't remember his name , but -- the , I saw an interview with him , and -- how he , uh -- ran New York and uh -- you know , some of the -- ru- you know , they changed some of the rules , uh -- uh , not rules , but the way they -- uh B The management team A protected the city .",
+  "sentence_index" : 14,
+  "Tokens" : [ "But", "I", ",", "it", "did", "n't", "--", "I", "ca", "n't", "remember", "his", "name", ",", "but", "--", "the", ",", "I", "saw", "an", "interview", "with", "him", ",", "and", "--", "how", "he", ",", "uh", "--", "ran", "New", "York", "and", "uh", "--", "you", "know", ",", "some", "of", "the", "--", "ru-", "you", "know", ",", "they", "changed", "some", "of", "the", "rules", ",", "uh", "--", "uh", ",", "not", "rules", ",", "but", "the", "way", "they", "--", "uh", "B", "The", "management", "team", "A", "protected", "the", "city", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Well, the homeless people -- I guess, they need their shopping cart, so they kind of went elsewhere, so -- um -- I mean it's a small thing,  but it was, they just figured out, they were -- you know, uh -- learning from experience on what they need to do in the -- city and -- I think he would be a good -- candidate for the Homeland Security,  running that",
+  "sentence_length" : 83,
+  "mentionArg2" : {
+    "extent" : "elsewhere",
+    "argMentionid" : "fsh_29192-E34-110",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "fsh_29192-R12",
+  "mentionArg1" : {
+    "extent" : "the homeless people",
+    "argMentionid" : "fsh_29192-E29-105",
+    "start" : 2,
+    "end" : 4
+  },
+  "id" : "fsh_29192-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Well , the homeless people -- I guess , they need their shopping cart , so they kind of went elsewhere , so -- um -- I mean it 's a small thing , but it was , they just figured out , they were -- you know , uh -- learning from experience on what they need to do in the -- city and -- I think he would be a good -- candidate for the Homeland Security , running that .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Well", ",", "the", "homeless", "people", "--", "I", "guess", ",", "they", "need", "their", "shopping", "cart", ",", "so", "they", "kind", "of", "went", "elsewhere", ",", "so", "--", "um", "--", "I", "mean", "it", "'s", "a", "small", "thing", ",", "but", "it", "was", ",", "they", "just", "figured", "out", ",", "they", "were", "--", "you", "know", ",", "uh", "--", "learning", "from", "experience", "on", "what", "they", "need", "to", "do", "in", "the", "--", "city", "and", "--", "I", "think", "he", "would", "be", "a", "good", "--", "candidate", "for", "the", "Homeland", "Security", ",", "running", "that", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a good -- candidate for the Homeland Security",
+  "sentence_length" : 83,
+  "mentionArg2" : {
+    "extent" : "the Homeland Security",
+    "argMentionid" : "fsh_29192-E36-120",
+    "start" : 76,
+    "end" : 78
+  },
+  "relationID" : "fsh_29192-R13",
+  "mentionArg1" : {
+    "extent" : "a good -- candidate for the Homeland Security",
+    "argMentionid" : "fsh_29192-E12-119",
+    "start" : 71,
+    "end" : 78
+  },
+  "id" : "fsh_29192-R13-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Well , the homeless people -- I guess , they need their shopping cart , so they kind of went elsewhere , so -- um -- I mean it 's a small thing , but it was , they just figured out , they were -- you know , uh -- learning from experience on what they need to do in the -- city and -- I think he would be a good -- candidate for the Homeland Security , running that .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Well", ",", "the", "homeless", "people", "--", "I", "guess", ",", "they", "need", "their", "shopping", "cart", ",", "so", "they", "kind", "of", "went", "elsewhere", ",", "so", "--", "um", "--", "I", "mean", "it", "'s", "a", "small", "thing", ",", "but", "it", "was", ",", "they", "just", "figured", "out", ",", "they", "were", "--", "you", "know", ",", "uh", "--", "learning", "from", "experience", "on", "what", "they", "need", "to", "do", "in", "the", "--", "city", "and", "--", "I", "think", "he", "would", "be", "a", "good", "--", "candidate", "for", "the", "Homeland", "Security", ",", "running", "that", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Secretary of State",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "State",
+    "argMentionid" : "fsh_29192-E40-131",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "fsh_29192-R14",
+  "mentionArg1" : {
+    "extent" : "Secretary of State",
+    "argMentionid" : "fsh_29192-E38-129",
+    "start" : 18,
+    "end" : 20
+  },
+  "id" : "fsh_29192-R14-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Um -- like , uh -- well , it was -- Colin Powell was Secretary , was he Secretary of State ?",
+  "sentence_index" : 28,
+  "Tokens" : [ "Um", "--", "like", ",", "uh", "--", "well", ",", "it", "was", "--", "Colin", "Powell", "was", "Secretary", ",", "was", "he", "Secretary", "of", "State", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "a uh Bush yes person",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "Bush",
+    "argMentionid" : "fsh_29192-E20-142",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "fsh_29192-R15",
+  "mentionArg1" : {
+    "extent" : "a uh Bush yes person",
+    "argMentionid" : "fsh_29192-E43-141",
+    "start" : 16,
+    "end" : 20
+  },
+  "id" : "fsh_29192-R15-1",
+  "relationSubType" : "Business",
+  "Sentence" : "You know , she may be -- uh uh uh , you know , uh -- a uh Bush yes person , you know , I do n't know , uh B Yeah , so I I do n't think this will change too much I mean .",
+  "sentence_index" : 34,
+  "Tokens" : [ "You", "know", ",", "she", "may", "be", "--", "uh", "uh", "uh", ",", "you", "know", ",", "uh", "--", "a", "uh", "Bush", "yes", "person", ",", "you", "know", ",", "I", "do", "n't", "know", ",", "uh", "B", "Yeah", ",", "so", "I", "I", "do", "n't", "think", "this", "will", "change", "too", "much", "I", "mean", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "most -- aides to the President",
+  "sentence_length" : 90,
+  "mentionArg2" : {
+    "extent" : "the President",
+    "argMentionid" : "fsh_29192-E1-149",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "fsh_29192-R16",
+  "mentionArg1" : {
+    "extent" : "most -- aides to the President",
+    "argMentionid" : "fsh_29192-E46-148",
+    "start" : 5,
+    "end" : 10
+  },
+  "id" : "fsh_29192-R16-1",
+  "relationSubType" : "Business",
+  "Sentence" : "A well mo- most -- most -- aides to the President , if it was -- you know , I guess when it was Clinton it was , they 'd probably be kind of yes people too , but , I mean they pick the person to -- you know , help them and I guess they 're going to have to have -- philosophies and and -- run it the way they would or way they 'd want , uh B Yeah , actually I agree with you .",
+  "sentence_index" : 35,
+  "Tokens" : [ "A", "well", "mo-", "most", "--", "most", "--", "aides", "to", "the", "President", ",", "if", "it", "was", "--", "you", "know", ",", "I", "guess", "when", "it", "was", "Clinton", "it", "was", ",", "they", "'d", "probably", "be", "kind", "of", "yes", "people", "too", ",", "but", ",", "I", "mean", "they", "pick", "the", "person", "to", "--", "you", "know", ",", "help", "them", "and", "I", "guess", "they", "'re", "going", "to", "have", "to", "have", "--", "philosophies", "and", "and", "--", "run", "it", "the", "way", "they", "would", "or", "way", "they", "'d", "want", ",", "uh", "B", "Yeah", ",", "actually", "I", "agree", "with", "you", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "well mo- most -- most -- aides to the President, if it was -- you know, I guess when it was Clinton it was, they'd probably be kind of yes people too, but, I mean they pick the person to -- you know, help them and I guess they're going to have to have -- philosophies and and -- run it the way they would or way they'd want, uh",
+  "sentence_length" : 90,
+  "mentionArg2" : {
+    "extent" : "them",
+    "argMentionid" : "fsh_29192-E1-160",
+    "start" : 52,
+    "end" : 52
+  },
+  "relationID" : "fsh_29192-R17",
+  "mentionArg1" : {
+    "extent" : "the person to -- you know, help them",
+    "argMentionid" : "fsh_29192-E49-157",
+    "start" : 44,
+    "end" : 52
+  },
+  "id" : "fsh_29192-R17-1",
+  "relationSubType" : "Business",
+  "Sentence" : "A well mo- most -- most -- aides to the President , if it was -- you know , I guess when it was Clinton it was , they 'd probably be kind of yes people too , but , I mean they pick the person to -- you know , help them and I guess they 're going to have to have -- philosophies and and -- run it the way they would or way they 'd want , uh B Yeah , actually I agree with you .",
+  "sentence_index" : 35,
+  "Tokens" : [ "A", "well", "mo-", "most", "--", "most", "--", "aides", "to", "the", "President", ",", "if", "it", "was", "--", "you", "know", ",", "I", "guess", "when", "it", "was", "Clinton", "it", "was", ",", "they", "'d", "probably", "be", "kind", "of", "yes", "people", "too", ",", "but", ",", "I", "mean", "they", "pick", "the", "person", "to", "--", "you", "know", ",", "help", "them", "and", "I", "guess", "they", "'re", "going", "to", "have", "to", "have", "--", "philosophies", "and", "and", "--", "run", "it", "the", "way", "they", "would", "or", "way", "they", "'d", "want", ",", "uh", "B", "Yeah", ",", "actually", "I", "agree", "with", "you", "." ]
+} ]

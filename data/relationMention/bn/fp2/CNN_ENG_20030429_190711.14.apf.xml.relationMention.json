@@ -1,0 +1,45 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the chinese provences",
+  "sentence_length" : 97,
+  "mentionArg2" : {
+    "extent" : "chinese",
+    "argMentionid" : "CNN_ENG_20030429_190711.14-E7-14",
+    "start" : 79,
+    "end" : 79
+  },
+  "relationID" : "CNN_ENG_20030429_190711.14-R1",
+  "mentionArg1" : {
+    "extent" : "the chinese provences",
+    "argMentionid" : "CNN_ENG_20030429_190711.14-E6-13",
+    "start" : 78,
+    "end" : 80
+  },
+  "id" : "CNN_ENG_20030429_190711.14-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "another story in the 1:00 p . m. hour in canada. the top story there today , the world health organization announced it is lifting its advisory against travel to toronto because of fear of sars. it 's been 20 days since the last cases of locally transmitted sars in toronto. and there have been no new confirmed cases of sars exported out of toronto. the who says sars advisories against travel to hong kong , beijing and the chinese provences will remain in effect. china has more sars cases than any country in the world .",
+  "sentence_index" : 0,
+  "Tokens" : [ "another", "story", "in", "the", "1:00", "p", ".", "m.", "hour", "in", "canada.", "the", "top", "story", "there", "today", ",", "the", "world", "health", "organization", "announced", "it", "is", "lifting", "its", "advisory", "against", "travel", "to", "toronto", "because", "of", "fear", "of", "sars.", "it", "'s", "been", "20", "days", "since", "the", "last", "cases", "of", "locally", "transmitted", "sars", "in", "toronto.", "and", "there", "have", "been", "no", "new", "confirmed", "cases", "of", "sars", "exported", "out", "of", "toronto.", "the", "who", "says", "sars", "advisories", "against", "travel", "to", "hong", "kong", ",", "beijing", "and", "the", "chinese", "provences", "will", "remain", "in", "effect.", "china", "has", "more", "sars", "cases", "than", "any", "country", "in", "the", "world", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "any country in the world",
+  "sentence_length" : 97,
+  "mentionArg2" : {
+    "extent" : "the world",
+    "argMentionid" : "CNN_ENG_20030429_190711.14-E10-17",
+    "start" : 94,
+    "end" : 95
+  },
+  "relationID" : "CNN_ENG_20030429_190711.14-R2",
+  "mentionArg1" : {
+    "extent" : "any country in the world",
+    "argMentionid" : "CNN_ENG_20030429_190711.14-E9-16",
+    "start" : 91,
+    "end" : 95
+  },
+  "id" : "CNN_ENG_20030429_190711.14-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "another story in the 1:00 p . m. hour in canada. the top story there today , the world health organization announced it is lifting its advisory against travel to toronto because of fear of sars. it 's been 20 days since the last cases of locally transmitted sars in toronto. and there have been no new confirmed cases of sars exported out of toronto. the who says sars advisories against travel to hong kong , beijing and the chinese provences will remain in effect. china has more sars cases than any country in the world .",
+  "sentence_index" : 0,
+  "Tokens" : [ "another", "story", "in", "the", "1:00", "p", ".", "m.", "hour", "in", "canada.", "the", "top", "story", "there", "today", ",", "the", "world", "health", "organization", "announced", "it", "is", "lifting", "its", "advisory", "against", "travel", "to", "toronto", "because", "of", "fear", "of", "sars.", "it", "'s", "been", "20", "days", "since", "the", "last", "cases", "of", "locally", "transmitted", "sars", "in", "toronto.", "and", "there", "have", "been", "no", "new", "confirmed", "cases", "of", "sars", "exported", "out", "of", "toronto.", "the", "who", "says", "sars", "advisories", "against", "travel", "to", "hong", "kong", ",", "beijing", "and", "the", "chinese", "provences", "will", "remain", "in", "effect.", "china", "has", "more", "sars", "cases", "than", "any", "country", "in", "the", "world", "." ]
+} ]

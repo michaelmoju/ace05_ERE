@@ -1,0 +1,67 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "several arab leaders",
+  "sentence_length" : 66,
+  "mentionArg2" : {
+    "extent" : "arab",
+    "argMentionid" : "CNN_ENG_20030603_095830.17-E6-14",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNN_ENG_20030603_095830.17-R1",
+  "mentionArg1" : {
+    "extent" : "several arab leaders",
+    "argMentionid" : "CNN_ENG_20030603_095830.17-E9-13",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "CNN_ENG_20030603_095830.17-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "president bush is going to be meeting with several arab leaders. that happens next hour in a summit focusing on an israeli-palestinian peace initiative. mr. bush is expected to win support for his peace making campaign in the middle east crisis. earlier today , he said a solution should not be derailed by \" a few people a few killers , a few terrorists . \"",
+  "sentence_index" : 0,
+  "Tokens" : [ "president", "bush", "is", "going", "to", "be", "meeting", "with", "several", "arab", "leaders.", "that", "happens", "next", "hour", "in", "a", "summit", "focusing", "on", "an", "israeli-palestinian", "peace", "initiative.", "mr.", "bush", "is", "expected", "to", "win", "support", "for", "his", "peace", "making", "campaign", "in", "the", "middle", "east", "crisis.", "earlier", "today", ",", "he", "said", "a", "solution", "should", "not", "be", "derailed", "by", "\"", "a", "few", "people", "a", "few", "killers", ",", "a", "few", "terrorists", ".", "\"" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a a an adjunct professor at georgetown university",
+  "sentence_length" : 64,
+  "mentionArg2" : {
+    "extent" : "georgetown university",
+    "argMentionid" : "CNN_ENG_20030603_095830.17-E3-4",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "CNN_ENG_20030603_095830.17-R2",
+  "mentionArg1" : {
+    "extent" : "a a an adjunct professor at georgetown university",
+    "argMentionid" : "CNN_ENG_20030603_095830.17-E1-3",
+    "start" : 9,
+    "end" : 16
+  },
+  "id" : "CNN_ENG_20030603_095830.17-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "joining us now to discuss that is rob sabati,ed a a an adjunct professor at georgetown university. good to see you this morning , professor. are you optimistic that president bush is actually going to , at this time , take the steps and say what has to be said to remove the skepticism that the arab leaders are bringing to the summit ?",
+  "sentence_index" : 1,
+  "Tokens" : [ "joining", "us", "now", "to", "discuss", "that", "is", "rob", "sabati,ed", "a", "a", "an", "adjunct", "professor", "at", "georgetown", "university.", "good", "to", "see", "you", "this", "morning", ",", "professor.", "are", "you", "optimistic", "that", "president", "bush", "is", "actually", "going", "to", ",", "at", "this", "time", ",", "take", "the", "steps", "and", "say", "what", "has", "to", "be", "said", "to", "remove", "the", "skepticism", "that", "the", "arab", "leaders", "are", "bringing", "to", "the", "summit", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the arab leaders",
+  "sentence_length" : 64,
+  "mentionArg2" : {
+    "extent" : "arab",
+    "argMentionid" : "CNN_ENG_20030603_095830.17-E6-11",
+    "start" : 56,
+    "end" : 56
+  },
+  "relationID" : "CNN_ENG_20030603_095830.17-R3",
+  "mentionArg1" : {
+    "extent" : "the arab leaders",
+    "argMentionid" : "CNN_ENG_20030603_095830.17-E5-10",
+    "start" : 55,
+    "end" : 57
+  },
+  "id" : "CNN_ENG_20030603_095830.17-R3-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "joining us now to discuss that is rob sabati,ed a a an adjunct professor at georgetown university. good to see you this morning , professor. are you optimistic that president bush is actually going to , at this time , take the steps and say what has to be said to remove the skepticism that the arab leaders are bringing to the summit ?",
+  "sentence_index" : 1,
+  "Tokens" : [ "joining", "us", "now", "to", "discuss", "that", "is", "rob", "sabati,ed", "a", "a", "an", "adjunct", "professor", "at", "georgetown", "university.", "good", "to", "see", "you", "this", "morning", ",", "professor.", "are", "you", "optimistic", "that", "president", "bush", "is", "actually", "going", "to", ",", "at", "this", "time", ",", "take", "the", "steps", "and", "say", "what", "has", "to", "be", "said", "to", "remove", "the", "skepticism", "that", "the", "arab", "leaders", "are", "bringing", "to", "the", "summit", "?" ]
+} ]

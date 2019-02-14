@@ -1,0 +1,89 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "Czech President",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "Czech",
+    "argMentionid" : "XIN_ENG_20030609.0118-E11-20",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "XIN_ENG_20030609.0118-R1",
+  "mentionArg1" : {
+    "extent" : "Czech President",
+    "argMentionid" : "XIN_ENG_20030609.0118-E8-19",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "XIN_ENG_20030609.0118-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "PRAGUE , June 9 ( Xinhua ) Czech President Vaclav Klaus on Monday appointed Miroslav Kostelka as the country 's new defense minister to replace Jaroslav Tvrdik who resigned from the post in late May .",
+  "sentence_index" : 0,
+  "Tokens" : [ "PRAGUE", ",", "June", "9", "(", "Xinhua", ")", "Czech", "President", "Vaclav", "Klaus", "on", "Monday", "appointed", "Miroslav", "Kostelka", "as", "the", "country", "'s", "new", "defense", "minister", "to", "replace", "Jaroslav", "Tvrdik", "who", "resigned", "from", "the", "post", "in", "late", "May", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the country's new defense minister to replace Jaroslav Tvrdik who resigned from the post in late May",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "the country",
+    "argMentionid" : "XIN_ENG_20030609.0118-E11-23",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "XIN_ENG_20030609.0118-R2",
+  "mentionArg1" : {
+    "extent" : "the country's new defense minister to replace Jaroslav Tvrdik who resigned from the post in late May",
+    "argMentionid" : "XIN_ENG_20030609.0118-E13-22",
+    "start" : 17,
+    "end" : 34
+  },
+  "id" : "XIN_ENG_20030609.0118-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "PRAGUE , June 9 ( Xinhua ) Czech President Vaclav Klaus on Monday appointed Miroslav Kostelka as the country 's new defense minister to replace Jaroslav Tvrdik who resigned from the post in late May .",
+  "sentence_index" : 0,
+  "Tokens" : [ "PRAGUE", ",", "June", "9", "(", "Xinhua", ")", "Czech", "President", "Vaclav", "Klaus", "on", "Monday", "appointed", "Miroslav", "Kostelka", "as", "the", "country", "'s", "new", "defense", "minister", "to", "replace", "Jaroslav", "Tvrdik", "who", "resigned", "from", "the", "post", "in", "late", "May", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "his post in the parliament",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "the parliament",
+    "argMentionid" : "XIN_ENG_20030609.0118-E3-8",
+    "start" : 21,
+    "end" : 22
+  },
+  "relationID" : "XIN_ENG_20030609.0118-R3",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "XIN_ENG_20030609.0118-E15-7",
+    "start" : 18,
+    "end" : 18
+  },
+  "id" : "XIN_ENG_20030609.0118-R3-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Tvrdik , who took over the defense ministry in May 2001 , also announced that he would quit his post in the parliament and give up his position in the ruling party Social Democrats .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Tvrdik", ",", "who", "took", "over", "the", "defense", "ministry", "in", "May", "2001", ",", "also", "announced", "that", "he", "would", "quit", "his", "post", "in", "the", "parliament", "and", "give", "up", "his", "position", "in", "the", "ruling", "party", "Social", "Democrats", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "his position in the ruling party Social Democrats",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "the ruling party",
+    "argMentionid" : "XIN_ENG_20030609.0118-E4-17",
+    "start" : 29,
+    "end" : 31
+  },
+  "relationID" : "XIN_ENG_20030609.0118-R4",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "XIN_ENG_20030609.0118-E15-9",
+    "start" : 26,
+    "end" : 26
+  },
+  "id" : "XIN_ENG_20030609.0118-R4-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Tvrdik , who took over the defense ministry in May 2001 , also announced that he would quit his post in the parliament and give up his position in the ruling party Social Democrats .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Tvrdik", ",", "who", "took", "over", "the", "defense", "ministry", "in", "May", "2001", ",", "also", "announced", "that", "he", "would", "quit", "his", "post", "in", "the", "parliament", "and", "give", "up", "his", "position", "in", "the", "ruling", "party", "Social", "Democrats", "." ]
+} ]

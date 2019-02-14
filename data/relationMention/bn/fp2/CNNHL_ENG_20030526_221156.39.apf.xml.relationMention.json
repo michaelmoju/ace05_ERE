@@ -1,0 +1,199 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "his two sons",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "his two sons",
+    "argMentionid" : "CNNHL_ENG_20030526_221156.39-E24-72",
+    "start" : 13,
+    "end" : 15
+  },
+  "relationID" : "CNNHL_ENG_20030526_221156.39-R1",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNNHL_ENG_20030526_221156.39-E23-73",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "CNNHL_ENG_20030526_221156.39-R1-1",
+  "relationSubType" : "Family",
+  "Sentence" : "no one seems to be sure what 's happened to saddam hussein and his two sons , but one thing is becoming more clear -- uday and qusay were just as bad as their father if not worse .",
+  "sentence_index" : 0,
+  "Tokens" : [ "no", "one", "seems", "to", "be", "sure", "what", "'s", "happened", "to", "saddam", "hussein", "and", "his", "two", "sons", ",", "but", "one", "thing", "is", "becoming", "more", "clear", "--", "uday", "and", "qusay", "were", "just", "as", "bad", "as", "their", "father", "if", "not", "worse", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their father",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "their",
+    "argMentionid" : "CNNHL_ENG_20030526_221156.39-E24-78",
+    "start" : 33,
+    "end" : 33
+  },
+  "relationID" : "CNNHL_ENG_20030526_221156.39-R1",
+  "mentionArg1" : {
+    "extent" : "their father",
+    "argMentionid" : "CNNHL_ENG_20030526_221156.39-E23-77",
+    "start" : 33,
+    "end" : 34
+  },
+  "id" : "CNNHL_ENG_20030526_221156.39-R1-2",
+  "relationSubType" : "Family",
+  "Sentence" : "no one seems to be sure what 's happened to saddam hussein and his two sons , but one thing is becoming more clear -- uday and qusay were just as bad as their father if not worse .",
+  "sentence_index" : 0,
+  "Tokens" : [ "no", "one", "seems", "to", "be", "sure", "what", "'s", "happened", "to", "saddam", "hussein", "and", "his", "two", "sons", ",", "but", "one", "thing", "is", "becoming", "more", "clear", "--", "uday", "and", "qusay", "were", "just", "as", "bad", "as", "their", "father", "if", "not", "worse", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "saddam's sons",
+  "sentence_length" : 59,
+  "mentionArg2" : {
+    "extent" : "saddam's sons",
+    "argMentionid" : "CNNHL_ENG_20030526_221156.39-E24-29",
+    "start" : 30,
+    "end" : 32
+  },
+  "relationID" : "CNNHL_ENG_20030526_221156.39-R1",
+  "mentionArg1" : {
+    "extent" : "saddam",
+    "argMentionid" : "CNNHL_ENG_20030526_221156.39-E23-30",
+    "start" : 30,
+    "end" : 30
+  },
+  "id" : "CNNHL_ENG_20030526_221156.39-R1-3",
+  "relationSubType" : "Family",
+  "Sentence" : "with uday , i mean , the stories , you open the article , what you cowrote this article the sum of two evils , the reign of terror with saddam 's sons abducting a 14-year-old , raping her , crashing wedding parties to rape the brides. was that about as bad as it got with these guys ?",
+  "sentence_index" : 4,
+  "Tokens" : [ "with", "uday", ",", "i", "mean", ",", "the", "stories", ",", "you", "open", "the", "article", ",", "what", "you", "cowrote", "this", "article", "the", "sum", "of", "two", "evils", ",", "the", "reign", "of", "terror", "with", "saddam", "'s", "sons", "abducting", "a", "14-year-old", ",", "raping", "her", ",", "crashing", "wedding", "parties", "to", "rape", "the", "brides.", "was", "that", "about", "as", "bad", "as", "it", "got", "with", "these", "guys", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "time\" magazine's michael weisskopf",
+  "sentence_length" : 67,
+  "mentionArg2" : {
+    "extent" : "time\" magazine",
+    "argMentionid" : "CNNHL_ENG_20030526_221156.39-E28-81",
+    "start" : 1,
+    "end" : 3
+  },
+  "relationID" : "CNNHL_ENG_20030526_221156.39-R3",
+  "mentionArg1" : {
+    "extent" : "time\" magazine's michael weisskopf",
+    "argMentionid" : "CNNHL_ENG_20030526_221156.39-E27-79",
+    "start" : 1,
+    "end" : 6
+  },
+  "id" : "CNNHL_ENG_20030526_221156.39-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "\" time \" magazine 's michael weisskopf has uncovered some stunning details about the lives of these two. he joins us now from washington. thanks for taking the time to join us. michael , as i read the article , we knew that these were not good guys , putting it mildly , but as you saw and heard the revelations , what were your reactions ?",
+  "sentence_index" : 1,
+  "Tokens" : [ "\"", "time", "\"", "magazine", "'s", "michael", "weisskopf", "has", "uncovered", "some", "stunning", "details", "about", "the", "lives", "of", "these", "two.", "he", "joins", "us", "now", "from", "washington.", "thanks", "for", "taking", "the", "time", "to", "join", "us.", "michael", ",", "as", "i", "read", "the", "article", ",", "we", "knew", "that", "these", "were", "not", "good", "guys", ",", "putting", "it", "mildly", ",", "but", "as", "you", "saw", "and", "heard", "the", "revelations", ",", "what", "were", "your", "reactions", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "he joins us now from washington",
+  "sentence_length" : 67,
+  "mentionArg2" : {
+    "extent" : "washington",
+    "argMentionid" : "CNNHL_ENG_20030526_221156.39-E30-85",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "CNNHL_ENG_20030526_221156.39-R4",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "CNNHL_ENG_20030526_221156.39-E27-83",
+    "start" : 18,
+    "end" : 18
+  },
+  "id" : "CNNHL_ENG_20030526_221156.39-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "\" time \" magazine 's michael weisskopf has uncovered some stunning details about the lives of these two. he joins us now from washington. thanks for taking the time to join us. michael , as i read the article , we knew that these were not good guys , putting it mildly , but as you saw and heard the revelations , what were your reactions ?",
+  "sentence_index" : 1,
+  "Tokens" : [ "\"", "time", "\"", "magazine", "'s", "michael", "weisskopf", "has", "uncovered", "some", "stunning", "details", "about", "the", "lives", "of", "these", "two.", "he", "joins", "us", "now", "from", "washington.", "thanks", "for", "taking", "the", "time", "to", "join", "us.", "michael", ",", "as", "i", "read", "the", "article", ",", "we", "knew", "that", "these", "were", "not", "good", "guys", ",", "putting", "it", "mildly", ",", "but", "as", "you", "saw", "and", "heard", "the", "revelations", ",", "what", "were", "your", "reactions", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his brother",
+  "sentence_length" : 94,
+  "mentionArg2" : {
+    "extent" : "his brother",
+    "argMentionid" : "CNNHL_ENG_20030526_221156.39-E10-22",
+    "start" : 62,
+    "end" : 63
+  },
+  "relationID" : "CNNHL_ENG_20030526_221156.39-R5",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNNHL_ENG_20030526_221156.39-E4-23",
+    "start" : 62,
+    "end" : 62
+  },
+  "id" : "CNNHL_ENG_20030526_221156.39-R5-1",
+  "relationSubType" : "Family",
+  "Sentence" : "the extent of the depravity was truly0stunning , you 're right and they took different paths , these two guys. the younger of the two brothers , qusay was a very ic professional killer who pulled the trigger with political aim in mind. we have eyewitnesses to his orders of execution of hundreds of people in 1991 during the shiite muslim uprising. his brother , uday , was very highly personal , arbitrary , spontaneous in his attacks , extended to young girls , to friends , to employees. it was just extraordinary .",
+  "sentence_index" : 3,
+  "Tokens" : [ "the", "extent", "of", "the", "depravity", "was", "truly0stunning", ",", "you", "'re", "right", "and", "they", "took", "different", "paths", ",", "these", "two", "guys.", "the", "younger", "of", "the", "two", "brothers", ",", "qusay", "was", "a", "very", "ic", "professional", "killer", "who", "pulled", "the", "trigger", "with", "political", "aim", "in", "mind.", "we", "have", "eyewitnesses", "to", "his", "orders", "of", "execution", "of", "hundreds", "of", "people", "in", "1991", "during", "the", "shiite", "muslim", "uprising.", "his", "brother", ",", "uday", ",", "was", "very", "highly", "personal", ",", "arbitrary", ",", "spontaneous", "in", "his", "attacks", ",", "extended", "to", "young", "girls", ",", "to", "friends", ",", "to", "employees.", "it", "was", "just", "extraordinary", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his friends",
+  "sentence_length" : 82,
+  "mentionArg2" : {
+    "extent" : "his friends",
+    "argMentionid" : "CNNHL_ENG_20030526_221156.39-E16-39",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "CNNHL_ENG_20030526_221156.39-R6",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNNHL_ENG_20030526_221156.39-E10-40",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "CNNHL_ENG_20030526_221156.39-R6-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "i thought that the depth may be how he treated his friends , % and there are a couple of stories we heard about how he forced friends to drink large quantities of grain alcohol until they vomited. also one friend he was afraid was going to leave the country and spill the beans on him. he had him arrested by his fedayeen saddam. he had him held down , tong pulled out by pliers and sliced off with a scapel .",
+  "sentence_index" : 6,
+  "Tokens" : [ "i", "thought", "that", "the", "depth", "may", "be", "how", "he", "treated", "his", "friends", ",", "%", "and", "there", "are", "a", "couple", "of", "stories", "we", "heard", "about", "how", "he", "forced", "friends", "to", "drink", "large", "quantities", "of", "grain", "alcohol", "until", "they", "vomited.", "also", "one", "friend", "he", "was", "afraid", "was", "going", "to", "leave", "the", "country", "and", "spill", "the", "beans", "on", "him.", "he", "had", "him", "arrested", "by", "his", "fedayeen", "saddam.", "he", "had", "him", "held", "down", ",", "tong", "pulled", "out", "by", "pliers", "and", "sliced", "off", "with", "a", "scapel", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "also one friend he was afraid was going to leave the country and spill the beans on him",
+  "sentence_length" : 82,
+  "mentionArg2" : {
+    "extent" : "the country",
+    "argMentionid" : "CNNHL_ENG_20030526_221156.39-E20-48",
+    "start" : 48,
+    "end" : 49
+  },
+  "relationID" : "CNNHL_ENG_20030526_221156.39-R7",
+  "mentionArg1" : {
+    "extent" : "one friend",
+    "argMentionid" : "CNNHL_ENG_20030526_221156.39-E19-45",
+    "start" : 39,
+    "end" : 40
+  },
+  "id" : "CNNHL_ENG_20030526_221156.39-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "i thought that the depth may be how he treated his friends , % and there are a couple of stories we heard about how he forced friends to drink large quantities of grain alcohol until they vomited. also one friend he was afraid was going to leave the country and spill the beans on him. he had him arrested by his fedayeen saddam. he had him held down , tong pulled out by pliers and sliced off with a scapel .",
+  "sentence_index" : 6,
+  "Tokens" : [ "i", "thought", "that", "the", "depth", "may", "be", "how", "he", "treated", "his", "friends", ",", "%", "and", "there", "are", "a", "couple", "of", "stories", "we", "heard", "about", "how", "he", "forced", "friends", "to", "drink", "large", "quantities", "of", "grain", "alcohol", "until", "they", "vomited.", "also", "one", "friend", "he", "was", "afraid", "was", "going", "to", "leave", "the", "country", "and", "spill", "the", "beans", "on", "him.", "he", "had", "him", "arrested", "by", "his", "fedayeen", "saddam.", "he", "had", "him", "held", "down", ",", "tong", "pulled", "out", "by", "pliers", "and", "sliced", "off", "with", "a", "scapel", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "his fedayeen saddam",
+  "sentence_length" : 82,
+  "mentionArg2" : {
+    "extent" : "his fedayeen saddam",
+    "argMentionid" : "CNNHL_ENG_20030526_221156.39-E21-51",
+    "start" : 61,
+    "end" : 63
+  },
+  "relationID" : "CNNHL_ENG_20030526_221156.39-R8",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNNHL_ENG_20030526_221156.39-E10-52",
+    "start" : 61,
+    "end" : 61
+  },
+  "id" : "CNNHL_ENG_20030526_221156.39-R8-1",
+  "relationSubType" : "Founder",
+  "Sentence" : "i thought that the depth may be how he treated his friends , % and there are a couple of stories we heard about how he forced friends to drink large quantities of grain alcohol until they vomited. also one friend he was afraid was going to leave the country and spill the beans on him. he had him arrested by his fedayeen saddam. he had him held down , tong pulled out by pliers and sliced off with a scapel .",
+  "sentence_index" : 6,
+  "Tokens" : [ "i", "thought", "that", "the", "depth", "may", "be", "how", "he", "treated", "his", "friends", ",", "%", "and", "there", "are", "a", "couple", "of", "stories", "we", "heard", "about", "how", "he", "forced", "friends", "to", "drink", "large", "quantities", "of", "grain", "alcohol", "until", "they", "vomited.", "also", "one", "friend", "he", "was", "afraid", "was", "going", "to", "leave", "the", "country", "and", "spill", "the", "beans", "on", "him.", "he", "had", "him", "arrested", "by", "his", "fedayeen", "saddam.", "he", "had", "him", "held", "down", ",", "tong", "pulled", "out", "by", "pliers", "and", "sliced", "off", "with", "a", "scapel", "." ]
+} ]

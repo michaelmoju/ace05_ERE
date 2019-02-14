@@ -1,0 +1,441 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "u.s. military",
+  "sentence_length" : 62,
+  "mentionArg2" : {
+    "extent" : "u.s",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E7-83",
+    "start" : 25,
+    "end" : 27
+  },
+  "relationID" : "CNN_ENG_20030624_082841.12-R1",
+  "mentionArg1" : {
+    "extent" : "u.s. military",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E39-82",
+    "start" : 25,
+    "end" : 28
+  },
+  "id" : "CNN_ENG_20030624_082841.12-R1-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "thank you , bill. there 's a new poll out this morning , abc news washington post poll that suggests that most americans would support u . s. military action against iran in order to keep the country from acquiring nuclear weapons. according to the survey , 56 % said they would back military force block iran from developing nuclear weapons .",
+  "sentence_index" : 1,
+  "Tokens" : [ "thank", "you", ",", "bill.", "there", "'s", "a", "new", "poll", "out", "this", "morning", ",", "abc", "news", "washington", "post", "poll", "that", "suggests", "that", "most", "americans", "would", "support", "u", ".", "s.", "military", "action", "against", "iran", "in", "order", "to", "keep", "the", "country", "from", "acquiring", "nuclear", "weapons.", "according", "to", "the", "survey", ",", "56", "%", "said", "they", "would", "back", "military", "force", "block", "iran", "from", "developing", "nuclear", "weapons", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "edward in oklahoma",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "oklahoma",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E5-10",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "CNN_ENG_20030624_082841.12-R2",
+  "mentionArg1" : {
+    "extent" : "edward in oklahoma",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E4-9",
+    "start" : 10,
+    "end" : 12
+  },
+  "id" : "CNN_ENG_20030624_082841.12-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "we have gotten hundred of responses beginning this one from edward in oklahoma. i support the use of military force 100 % .",
+  "sentence_index" : 3,
+  "Tokens" : [ "we", "have", "gotten", "hundred", "of", "responses", "beginning", "this", "one", "from", "edward", "in", "oklahoma.", "i", "support", "the", "use", "of", "military", "force", "100", "%", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the problem is with all of the american forces bizy in iraq, afghanistan, korea, the balkans, the philippines and korea, can we be sure that france and russia are up to the job",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "iraq",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E8-17",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_ENG_20030624_082841.12-R3",
+  "mentionArg1" : {
+    "extent" : "all of the american forces",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E6-14",
+    "start" : 4,
+    "end" : 8
+  },
+  "id" : "CNN_ENG_20030624_082841.12-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "the problem is with all of the american forces bizy in iraq , afghanistan , korea , the balkans , the philippines and korea , can we be sure that france and russia are up to the job ?",
+  "sentence_index" : 4,
+  "Tokens" : [ "the", "problem", "is", "with", "all", "of", "the", "american", "forces", "bizy", "in", "iraq", ",", "afghanistan", ",", "korea", ",", "the", "balkans", ",", "the", "philippines", "and", "korea", ",", "can", "we", "be", "sure", "that", "france", "and", "russia", "are", "up", "to", "the", "job", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the problem is with all of the american forces bizy in iraq, afghanistan, korea, the balkans, the philippines and korea, can we be sure that france and russia are up to the job",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "afghanistan",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E9-18",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "CNN_ENG_20030624_082841.12-R4",
+  "mentionArg1" : {
+    "extent" : "all of the american forces",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E6-14",
+    "start" : 4,
+    "end" : 8
+  },
+  "id" : "CNN_ENG_20030624_082841.12-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "the problem is with all of the american forces bizy in iraq , afghanistan , korea , the balkans , the philippines and korea , can we be sure that france and russia are up to the job ?",
+  "sentence_index" : 4,
+  "Tokens" : [ "the", "problem", "is", "with", "all", "of", "the", "american", "forces", "bizy", "in", "iraq", ",", "afghanistan", ",", "korea", ",", "the", "balkans", ",", "the", "philippines", "and", "korea", ",", "can", "we", "be", "sure", "that", "france", "and", "russia", "are", "up", "to", "the", "job", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the problem is with all of the american forces bizy in iraq, afghanistan, korea, the balkans, the philippines and korea, can we be sure that france and russia are up to the job",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "korea",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E10-19",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "CNN_ENG_20030624_082841.12-R5",
+  "mentionArg1" : {
+    "extent" : "all of the american forces",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E6-14",
+    "start" : 4,
+    "end" : 8
+  },
+  "id" : "CNN_ENG_20030624_082841.12-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "the problem is with all of the american forces bizy in iraq , afghanistan , korea , the balkans , the philippines and korea , can we be sure that france and russia are up to the job ?",
+  "sentence_index" : 4,
+  "Tokens" : [ "the", "problem", "is", "with", "all", "of", "the", "american", "forces", "bizy", "in", "iraq", ",", "afghanistan", ",", "korea", ",", "the", "balkans", ",", "the", "philippines", "and", "korea", ",", "can", "we", "be", "sure", "that", "france", "and", "russia", "are", "up", "to", "the", "job", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the problem is with all of the american forces bizy in iraq, afghanistan, korea, the balkans, the philippines and korea, can we be sure that france and russia are up to the job",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "the balkans",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E11-20",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "CNN_ENG_20030624_082841.12-R8",
+  "mentionArg1" : {
+    "extent" : "all of the american forces",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E6-14",
+    "start" : 4,
+    "end" : 8
+  },
+  "id" : "CNN_ENG_20030624_082841.12-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "the problem is with all of the american forces bizy in iraq , afghanistan , korea , the balkans , the philippines and korea , can we be sure that france and russia are up to the job ?",
+  "sentence_index" : 4,
+  "Tokens" : [ "the", "problem", "is", "with", "all", "of", "the", "american", "forces", "bizy", "in", "iraq", ",", "afghanistan", ",", "korea", ",", "the", "balkans", ",", "the", "philippines", "and", "korea", ",", "can", "we", "be", "sure", "that", "france", "and", "russia", "are", "up", "to", "the", "job", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the problem is with all of the american forces bizy in iraq, afghanistan, korea, the balkans, the philippines and korea, can we be sure that france and russia are up to the job",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "the philippines",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E12-21",
+    "start" : 20,
+    "end" : 21
+  },
+  "relationID" : "CNN_ENG_20030624_082841.12-R11",
+  "mentionArg1" : {
+    "extent" : "all of the american forces",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E6-14",
+    "start" : 4,
+    "end" : 8
+  },
+  "id" : "CNN_ENG_20030624_082841.12-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "the problem is with all of the american forces bizy in iraq , afghanistan , korea , the balkans , the philippines and korea , can we be sure that france and russia are up to the job ?",
+  "sentence_index" : 4,
+  "Tokens" : [ "the", "problem", "is", "with", "all", "of", "the", "american", "forces", "bizy", "in", "iraq", ",", "afghanistan", ",", "korea", ",", "the", "balkans", ",", "the", "philippines", "and", "korea", ",", "can", "we", "be", "sure", "that", "france", "and", "russia", "are", "up", "to", "the", "job", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "sally in daytona beach",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "daytona beach",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E16-27",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "CNN_ENG_20030624_082841.12-R12",
+  "mentionArg1" : {
+    "extent" : "sally in daytona beach",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E15-26",
+    "start" : 2,
+    "end" : 5
+  },
+  "id" : "CNN_ENG_20030624_082841.12-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "not bad. sally in daytona beach. i think if we 're going to get this terror thing overwith , i think we need to clear the countries that house them. it would be deadly to let iran let their hands on nuclear weapons employ i would support any action .",
+  "sentence_index" : 5,
+  "Tokens" : [ "not", "bad.", "sally", "in", "daytona", "beach.", "i", "think", "if", "we", "'re", "going", "to", "get", "this", "terror", "thing", "overwith", ",", "i", "think", "we", "need", "to", "clear", "the", "countries", "that", "house", "them.", "it", "would", "be", "deadly", "to", "let", "iran", "let", "their", "hands", "on", "nuclear", "weapons", "employ", "i", "would", "support", "any", "action", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the countries that house them",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "that",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E17-31",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "CNN_ENG_20030624_082841.12-R13",
+  "mentionArg1" : {
+    "extent" : "them",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E18-32",
+    "start" : 29,
+    "end" : 29
+  },
+  "id" : "CNN_ENG_20030624_082841.12-R13-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "not bad. sally in daytona beach. i think if we 're going to get this terror thing overwith , i think we need to clear the countries that house them. it would be deadly to let iran let their hands on nuclear weapons employ i would support any action .",
+  "sentence_index" : 5,
+  "Tokens" : [ "not", "bad.", "sally", "in", "daytona", "beach.", "i", "think", "if", "we", "'re", "going", "to", "get", "this", "terror", "thing", "overwith", ",", "i", "think", "we", "need", "to", "clear", "the", "countries", "that", "house", "them.", "it", "would", "be", "deadly", "to", "let", "iran", "let", "their", "hands", "on", "nuclear", "weapons", "employ", "i", "would", "support", "any", "action", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "waterford, connecticut",
+  "sentence_length" : 109,
+  "mentionArg2" : {
+    "extent" : "connecticut",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E26-49",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_ENG_20030624_082841.12-R14",
+  "mentionArg1" : {
+    "extent" : "waterford, connecticut",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E25-48",
+    "start" : 3,
+    "end" : 5
+  },
+  "id" : "CNN_ENG_20030624_082841.12-R14-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "kay jones in waterford , connecticut , sure , let 's invade iran. wior already over there , besides the biggest cost us to next to the loss of life is transporting our troops overseas. iraq , iran. it 's only one letter off , we could call it a typo. a little cruel. bill in montana. nuclear weapons in iran , hope -- and buzz writes no one wants to see a war , but no one upons to see another september 11th even more. especially a nuclear september 11th. i would support military action in iran if it helps to stabilize that area of the world .",
+  "sentence_index" : 8,
+  "Tokens" : [ "kay", "jones", "in", "waterford", ",", "connecticut", ",", "sure", ",", "let", "'s", "invade", "iran.", "wior", "already", "over", "there", ",", "besides", "the", "biggest", "cost", "us", "to", "next", "to", "the", "loss", "of", "life", "is", "transporting", "our", "troops", "overseas.", "iraq", ",", "iran.", "it", "'s", "only", "one", "letter", "off", ",", "we", "could", "call", "it", "a", "typo.", "a", "little", "cruel.", "bill", "in", "montana.", "nuclear", "weapons", "in", "iran", ",", "hope", "--", "and", "buzz", "writes", "no", "one", "wants", "to", "see", "a", "war", ",", "but", "no", "one", "upons", "to", "see", "another", "september", "11th", "even", "more.", "especially", "a", "nuclear", "september", "11th.", "i", "would", "support", "military", "action", "in", "iran", "if", "it", "helps", "to", "stabilize", "that", "area", "of", "the", "world", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "kay jones in waterford, connecticut",
+  "sentence_length" : 109,
+  "mentionArg2" : {
+    "extent" : "waterford, connecticut",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E25-48",
+    "start" : 3,
+    "end" : 5
+  },
+  "relationID" : "CNN_ENG_20030624_082841.12-R15",
+  "mentionArg1" : {
+    "extent" : "kay jones in waterford, connecticut",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E24-47",
+    "start" : 0,
+    "end" : 5
+  },
+  "id" : "CNN_ENG_20030624_082841.12-R15-1",
+  "relationSubType" : "Located",
+  "Sentence" : "kay jones in waterford , connecticut , sure , let 's invade iran. wior already over there , besides the biggest cost us to next to the loss of life is transporting our troops overseas. iraq , iran. it 's only one letter off , we could call it a typo. a little cruel. bill in montana. nuclear weapons in iran , hope -- and buzz writes no one wants to see a war , but no one upons to see another september 11th even more. especially a nuclear september 11th. i would support military action in iran if it helps to stabilize that area of the world .",
+  "sentence_index" : 8,
+  "Tokens" : [ "kay", "jones", "in", "waterford", ",", "connecticut", ",", "sure", ",", "let", "'s", "invade", "iran.", "wior", "already", "over", "there", ",", "besides", "the", "biggest", "cost", "us", "to", "next", "to", "the", "loss", "of", "life", "is", "transporting", "our", "troops", "overseas.", "iraq", ",", "iran.", "it", "'s", "only", "one", "letter", "off", ",", "we", "could", "call", "it", "a", "typo.", "a", "little", "cruel.", "bill", "in", "montana.", "nuclear", "weapons", "in", "iran", ",", "hope", "--", "and", "buzz", "writes", "no", "one", "wants", "to", "see", "a", "war", ",", "but", "no", "one", "upons", "to", "see", "another", "september", "11th", "even", "more.", "especially", "a", "nuclear", "september", "11th.", "i", "would", "support", "military", "action", "in", "iran", "if", "it", "helps", "to", "stabilize", "that", "area", "of", "the", "world", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "bill in montana",
+  "sentence_length" : 109,
+  "mentionArg2" : {
+    "extent" : "montana",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E2-90",
+    "start" : 56,
+    "end" : 56
+  },
+  "relationID" : "CNN_ENG_20030624_082841.12-R16",
+  "mentionArg1" : {
+    "extent" : "bill in montana",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E45-87",
+    "start" : 54,
+    "end" : 56
+  },
+  "id" : "CNN_ENG_20030624_082841.12-R16-1",
+  "relationSubType" : "Located",
+  "Sentence" : "kay jones in waterford , connecticut , sure , let 's invade iran. wior already over there , besides the biggest cost us to next to the loss of life is transporting our troops overseas. iraq , iran. it 's only one letter off , we could call it a typo. a little cruel. bill in montana. nuclear weapons in iran , hope -- and buzz writes no one wants to see a war , but no one upons to see another september 11th even more. especially a nuclear september 11th. i would support military action in iran if it helps to stabilize that area of the world .",
+  "sentence_index" : 8,
+  "Tokens" : [ "kay", "jones", "in", "waterford", ",", "connecticut", ",", "sure", ",", "let", "'s", "invade", "iran.", "wior", "already", "over", "there", ",", "besides", "the", "biggest", "cost", "us", "to", "next", "to", "the", "loss", "of", "life", "is", "transporting", "our", "troops", "overseas.", "iraq", ",", "iran.", "it", "'s", "only", "one", "letter", "off", ",", "we", "could", "call", "it", "a", "typo.", "a", "little", "cruel.", "bill", "in", "montana.", "nuclear", "weapons", "in", "iran", ",", "hope", "--", "and", "buzz", "writes", "no", "one", "wants", "to", "see", "a", "war", ",", "but", "no", "one", "upons", "to", "see", "another", "september", "11th", "even", "more.", "especially", "a", "nuclear", "september", "11th.", "i", "would", "support", "military", "action", "in", "iran", "if", "it", "helps", "to", "stabilize", "that", "area", "of", "the", "world", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "that area of the world",
+  "sentence_length" : 109,
+  "mentionArg2" : {
+    "extent" : "the world",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E31-64",
+    "start" : 106,
+    "end" : 107
+  },
+  "relationID" : "CNN_ENG_20030624_082841.12-R17",
+  "mentionArg1" : {
+    "extent" : "that area of the world",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E30-63",
+    "start" : 103,
+    "end" : 107
+  },
+  "id" : "CNN_ENG_20030624_082841.12-R17-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "kay jones in waterford , connecticut , sure , let 's invade iran. wior already over there , besides the biggest cost us to next to the loss of life is transporting our troops overseas. iraq , iran. it 's only one letter off , we could call it a typo. a little cruel. bill in montana. nuclear weapons in iran , hope -- and buzz writes no one wants to see a war , but no one upons to see another september 11th even more. especially a nuclear september 11th. i would support military action in iran if it helps to stabilize that area of the world .",
+  "sentence_index" : 8,
+  "Tokens" : [ "kay", "jones", "in", "waterford", ",", "connecticut", ",", "sure", ",", "let", "'s", "invade", "iran.", "wior", "already", "over", "there", ",", "besides", "the", "biggest", "cost", "us", "to", "next", "to", "the", "loss", "of", "life", "is", "transporting", "our", "troops", "overseas.", "iraq", ",", "iran.", "it", "'s", "only", "one", "letter", "off", ",", "we", "could", "call", "it", "a", "typo.", "a", "little", "cruel.", "bill", "in", "montana.", "nuclear", "weapons", "in", "iran", ",", "hope", "--", "and", "buzz", "writes", "no", "one", "wants", "to", "see", "a", "war", ",", "but", "no", "one", "upons", "to", "see", "another", "september", "11th", "even", "more.", "especially", "a", "nuclear", "september", "11th.", "i", "would", "support", "military", "action", "in", "iran", "if", "it", "helps", "to", "stabilize", "that", "area", "of", "the", "world", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "why do we, america, get to choose who has nukes and who doesn't",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "nukes",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E43-46",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "CNN_ENG_20030624_082841.12-R18",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E22-44",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "CNN_ENG_20030624_082841.12-R18-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "karen brights , i do n't support iran. why do we , america , get to choose who has nukes and who doesn't ?",
+  "sentence_index" : 6,
+  "Tokens" : [ "karen", "brights", ",", "i", "do", "n't", "support", "iran.", "why", "do", "we", ",", "america", ",", "get", "to", "choose", "who", "has", "nukes", "and", "who", "doesn't", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the country from acquiring nuclear weapons",
+  "sentence_length" : 62,
+  "mentionArg2" : {
+    "extent" : "nuclear weapons",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E43-86",
+    "start" : 40,
+    "end" : 41
+  },
+  "relationID" : "CNN_ENG_20030624_082841.12-R19",
+  "mentionArg1" : {
+    "extent" : "the country",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E42-85",
+    "start" : 36,
+    "end" : 37
+  },
+  "id" : "CNN_ENG_20030624_082841.12-R19-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "thank you , bill. there 's a new poll out this morning , abc news washington post poll that suggests that most americans would support u . s. military action against iran in order to keep the country from acquiring nuclear weapons. according to the survey , 56 % said they would back military force block iran from developing nuclear weapons .",
+  "sentence_index" : 1,
+  "Tokens" : [ "thank", "you", ",", "bill.", "there", "'s", "a", "new", "poll", "out", "this", "morning", ",", "abc", "news", "washington", "post", "poll", "that", "suggests", "that", "most", "americans", "would", "support", "u", ".", "s.", "military", "action", "against", "iran", "in", "order", "to", "keep", "the", "country", "from", "acquiring", "nuclear", "weapons.", "according", "to", "the", "survey", ",", "56", "%", "said", "they", "would", "back", "military", "force", "block", "iran", "from", "developing", "nuclear", "weapons", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "iran from developing nuclear weapons",
+  "sentence_length" : 62,
+  "mentionArg2" : {
+    "extent" : "nuclear weapons",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E43-2",
+    "start" : 59,
+    "end" : 60
+  },
+  "relationID" : "CNN_ENG_20030624_082841.12-R19",
+  "mentionArg1" : {
+    "extent" : "iran",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E42-91",
+    "start" : 56,
+    "end" : 56
+  },
+  "id" : "CNN_ENG_20030624_082841.12-R19-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "thank you , bill. there 's a new poll out this morning , abc news washington post poll that suggests that most americans would support u . s. military action against iran in order to keep the country from acquiring nuclear weapons. according to the survey , 56 % said they would back military force block iran from developing nuclear weapons .",
+  "sentence_index" : 1,
+  "Tokens" : [ "thank", "you", ",", "bill.", "there", "'s", "a", "new", "poll", "out", "this", "morning", ",", "abc", "news", "washington", "post", "poll", "that", "suggests", "that", "most", "americans", "would", "support", "u", ".", "s.", "military", "action", "against", "iran", "in", "order", "to", "keep", "the", "country", "from", "acquiring", "nuclear", "weapons.", "according", "to", "the", "survey", ",", "56", "%", "said", "they", "would", "back", "military", "force", "block", "iran", "from", "developing", "nuclear", "weapons", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "nuclear weapons in iran",
+  "sentence_length" : 109,
+  "mentionArg2" : {
+    "extent" : "nuclear weapons in iran",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E43-11",
+    "start" : 57,
+    "end" : 60
+  },
+  "relationID" : "CNN_ENG_20030624_082841.12-R19",
+  "mentionArg1" : {
+    "extent" : "iran",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E42-13",
+    "start" : 60,
+    "end" : 60
+  },
+  "id" : "CNN_ENG_20030624_082841.12-R19-3",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "kay jones in waterford , connecticut , sure , let 's invade iran. wior already over there , besides the biggest cost us to next to the loss of life is transporting our troops overseas. iraq , iran. it 's only one letter off , we could call it a typo. a little cruel. bill in montana. nuclear weapons in iran , hope -- and buzz writes no one wants to see a war , but no one upons to see another september 11th even more. especially a nuclear september 11th. i would support military action in iran if it helps to stabilize that area of the world .",
+  "sentence_index" : 8,
+  "Tokens" : [ "kay", "jones", "in", "waterford", ",", "connecticut", ",", "sure", ",", "let", "'s", "invade", "iran.", "wior", "already", "over", "there", ",", "besides", "the", "biggest", "cost", "us", "to", "next", "to", "the", "loss", "of", "life", "is", "transporting", "our", "troops", "overseas.", "iraq", ",", "iran.", "it", "'s", "only", "one", "letter", "off", ",", "we", "could", "call", "it", "a", "typo.", "a", "little", "cruel.", "bill", "in", "montana.", "nuclear", "weapons", "in", "iran", ",", "hope", "--", "and", "buzz", "writes", "no", "one", "wants", "to", "see", "a", "war", ",", "but", "no", "one", "upons", "to", "see", "another", "september", "11th", "even", "more.", "especially", "a", "nuclear", "september", "11th.", "i", "would", "support", "military", "action", "in", "iran", "if", "it", "helps", "to", "stabilize", "that", "area", "of", "the", "world", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "their hands on nuclear weapons",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "nuclear weapons",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E43-35",
+    "start" : 41,
+    "end" : 42
+  },
+  "relationID" : "CNN_ENG_20030624_082841.12-R19",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E42-34",
+    "start" : 38,
+    "end" : 38
+  },
+  "id" : "CNN_ENG_20030624_082841.12-R19-4",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "not bad. sally in daytona beach. i think if we 're going to get this terror thing overwith , i think we need to clear the countries that house them. it would be deadly to let iran let their hands on nuclear weapons employ i would support any action .",
+  "sentence_index" : 5,
+  "Tokens" : [ "not", "bad.", "sally", "in", "daytona", "beach.", "i", "think", "if", "we", "'re", "going", "to", "get", "this", "terror", "thing", "overwith", ",", "i", "think", "we", "need", "to", "clear", "the", "countries", "that", "house", "them.", "it", "would", "be", "deadly", "to", "let", "iran", "let", "their", "hands", "on", "nuclear", "weapons", "employ", "i", "would", "support", "any", "action", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our troops",
+  "sentence_length" : 109,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E7-56",
+    "start" : 32,
+    "end" : 32
+  },
+  "relationID" : "CNN_ENG_20030624_082841.12-R20",
+  "mentionArg1" : {
+    "extent" : "our troops",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E6-55",
+    "start" : 32,
+    "end" : 33
+  },
+  "id" : "CNN_ENG_20030624_082841.12-R20-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "kay jones in waterford , connecticut , sure , let 's invade iran. wior already over there , besides the biggest cost us to next to the loss of life is transporting our troops overseas. iraq , iran. it 's only one letter off , we could call it a typo. a little cruel. bill in montana. nuclear weapons in iran , hope -- and buzz writes no one wants to see a war , but no one upons to see another september 11th even more. especially a nuclear september 11th. i would support military action in iran if it helps to stabilize that area of the world .",
+  "sentence_index" : 8,
+  "Tokens" : [ "kay", "jones", "in", "waterford", ",", "connecticut", ",", "sure", ",", "let", "'s", "invade", "iran.", "wior", "already", "over", "there", ",", "besides", "the", "biggest", "cost", "us", "to", "next", "to", "the", "loss", "of", "life", "is", "transporting", "our", "troops", "overseas.", "iraq", ",", "iran.", "it", "'s", "only", "one", "letter", "off", ",", "we", "could", "call", "it", "a", "typo.", "a", "little", "cruel.", "bill", "in", "montana.", "nuclear", "weapons", "in", "iran", ",", "hope", "--", "and", "buzz", "writes", "no", "one", "wants", "to", "see", "a", "war", ",", "but", "no", "one", "upons", "to", "see", "another", "september", "11th", "even", "more.", "especially", "a", "nuclear", "september", "11th.", "i", "would", "support", "military", "action", "in", "iran", "if", "it", "helps", "to", "stabilize", "that", "area", "of", "the", "world", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the american forces",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "american",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E7-16",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "CNN_ENG_20030624_082841.12-R20",
+  "mentionArg1" : {
+    "extent" : "the american forces",
+    "argMentionid" : "CNN_ENG_20030624_082841.12-E6-15",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "CNN_ENG_20030624_082841.12-R20-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "the problem is with all of the american forces bizy in iraq , afghanistan , korea , the balkans , the philippines and korea , can we be sure that france and russia are up to the job ?",
+  "sentence_index" : 4,
+  "Tokens" : [ "the", "problem", "is", "with", "all", "of", "the", "american", "forces", "bizy", "in", "iraq", ",", "afghanistan", ",", "korea", ",", "the", "balkans", ",", "the", "philippines", "and", "korea", ",", "can", "we", "be", "sure", "that", "france", "and", "russia", "are", "up", "to", "the", "job", "?" ]
+} ]

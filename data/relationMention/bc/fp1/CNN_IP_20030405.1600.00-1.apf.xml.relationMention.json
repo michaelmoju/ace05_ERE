@@ -1,0 +1,727 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "Our Jeff Greenfield",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "Our",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E67-74",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R2",
+  "mentionArg1" : {
+    "extent" : "Our Jeff Greenfield",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E26-1",
+    "start" : 1,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "WOODRUFF Our Jeff Greenfield will explore a catchphrase in war coverage .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WOODRUFF", "Our", "Jeff", "Greenfield", "will", "explore", "a", "catchphrase", "in", "war", "coverage", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my colleague",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "my colleague",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E72-109",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R3",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E71-105",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R3-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Let 's go now to my colleague Wolf Blitzer , who is , as he has been for the last few hours , in Kuwait City -- Wolf .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Let", "'s", "go", "now", "to", "my", "colleague", "Wolf", "Blitzer", ",", "who", "is", ",", "as", "he", "has", "been", "for", "the", "last", "few", "hours", ",", "in", "Kuwait", "City", "--", "Wolf", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Let's go now to my colleague Wolf Blitzer, who is, as he has been for the last few hours, in Kuwait City -- Wolf",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Kuwait City",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E9-117",
+    "start" : 24,
+    "end" : 25
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R4",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E72-107",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Let 's go now to my colleague Wolf Blitzer , who is , as he has been for the last few hours , in Kuwait City -- Wolf .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Let", "'s", "go", "now", "to", "my", "colleague", "Wolf", "Blitzer", ",", "who", "is", ",", "as", "he", "has", "been", "for", "the", "last", "few", "hours", ",", "in", "Kuwait", "City", "--", "Wolf", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Let's go now to my colleague Wolf Blitzer, who is, as he has been for the last few hours, in Kuwait City -- Wolf",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Kuwait City",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E9-117",
+    "start" : 24,
+    "end" : 25
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R4",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E72-108",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R4-2",
+  "relationSubType" : "Located",
+  "Sentence" : "Let 's go now to my colleague Wolf Blitzer , who is , as he has been for the last few hours , in Kuwait City -- Wolf .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Let", "'s", "go", "now", "to", "my", "colleague", "Wolf", "Blitzer", ",", "who", "is", ",", "as", "he", "has", "been", "for", "the", "last", "few", "hours", ",", "in", "Kuwait", "City", "--", "Wolf", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Coalition forces",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "Coalition",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E77-115",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R6",
+  "mentionArg1" : {
+    "extent" : "Coalition forces",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E76-114",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Coalition forces have opened a new phase of their assault on Saddam Hussein 's regime .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Coalition", "forces", "have", "opened", "a", "new", "phase", "of", "their", "assault", "on", "Saddam", "Hussein", "'s", "regime", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Saddam Hussein's regime",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "Saddam Hussein's regime",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E1-2",
+    "start" : 11,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R7",
+  "mentionArg1" : {
+    "extent" : "Saddam Hussein",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E78-118",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R7-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Coalition forces have opened a new phase of their assault on Saddam Hussein 's regime .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Coalition", "forces", "have", "opened", "a", "new", "phase", "of", "their", "assault", "on", "Saddam", "Hussein", "'s", "regime", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the regime of Saddam Hussein",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "the regime of Saddam Hussein",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E1-30",
+    "start" : 11,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R7",
+  "mentionArg1" : {
+    "extent" : "Saddam Hussein",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E78-32",
+    "start" : 14,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R7-2",
+  "relationSubType" : "Membership",
+  "Sentence" : "Commanders say the mission was designed to send a message to the regime of Saddam Hussein and get information about Iraqi forces .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Commanders", "say", "the", "mission", "was", "designed", "to", "send", "a", "message", "to", "the", "regime", "of", "Saddam", "Hussein", "and", "get", "information", "about", "Iraqi", "forces", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Heavy artillery, according to Reuters, shaking southwest Baghdad right now in the direction of the international airport",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "southwest Baghdad",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E5-12",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R8",
+  "mentionArg1" : {
+    "extent" : "the international airport",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E6-13",
+    "start" : 16,
+    "end" : 18
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R8-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Heavy artillery , according to Reuters , shaking southwest Baghdad right now in the direction of the international airport .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Heavy", "artillery", ",", "according", "to", "Reuters", ",", "shaking", "southwest", "Baghdad", "right", "now", "in", "the", "direction", "of", "the", "international", "airport", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. forces",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E10-15",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R9",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E11-16",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R9-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "We know that U.S. forces are in control of that airport right now .",
+  "sentence_index" : 10,
+  "Tokens" : [ "We", "know", "that", "U.S.", "forces", "are", "in", "control", "of", "that", "airport", "right", "now", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. troops",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E10-24",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R10",
+  "mentionArg1" : {
+    "extent" : "U.S. troops",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E37-60",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R10-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "For the first time , U.S. troops have moved from the city 's outskirts into the heart of the capital .",
+  "sentence_index" : 12,
+  "Tokens" : [ "For", "the", "first", "time", ",", "U.S.", "troops", "have", "moved", "from", "the", "city", "'s", "outskirts", "into", "the", "heart", "of", "the", "capital", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iraqi forces",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E17-33",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R11",
+  "mentionArg1" : {
+    "extent" : "Iraqi forces",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E29-49",
+    "start" : 20,
+    "end" : 21
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R11-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Commanders say the mission was designed to send a message to the regime of Saddam Hussein and get information about Iraqi forces .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Commanders", "say", "the", "mission", "was", "designed", "to", "send", "a", "message", "to", "the", "regime", "of", "Saddam", "Hussein", "and", "get", "information", "about", "Iraqi", "forces", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the heart of the capital",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "the capital",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E74-28",
+    "start" : 18,
+    "end" : 19
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R12",
+  "mentionArg1" : {
+    "extent" : "the heart of the capital",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E15-27",
+    "start" : 15,
+    "end" : 19
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R12-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "For the first time , U.S. troops have moved from the city 's outskirts into the heart of the capital .",
+  "sentence_index" : 12,
+  "Tokens" : [ "For", "the", "first", "time", ",", "U.S.", "troops", "have", "moved", "from", "the", "city", "'s", "outskirts", "into", "the", "heart", "of", "the", "capital", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iraqi officials",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E17-34",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R13",
+  "mentionArg1" : {
+    "extent" : "Iraqi officials",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E30-50",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R13-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Iraqi officials insist the tide of the war is actually turning in their favor .",
+  "sentence_index" : 14,
+  "Tokens" : [ "Iraqi", "officials", "insist", "the", "tide", "of", "the", "war", "is", "actually", "turning", "in", "their", "favor", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iraqi TV",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E17-35",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R14",
+  "mentionArg1" : {
+    "extent" : "Iraqi TV",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E31-52",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R14-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Iraqi TV showed video of people dancing on top of what they said were U.S. armored vehicles destroyed in battle .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Iraqi", "TV", "showed", "video", "of", "people", "dancing", "on", "top", "of", "what", "they", "said", "were", "U.S.", "armored", "vehicles", "destroyed", "in", "battle", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "U.S. armored vehicles destroyed in battle",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "U.S. armored vehicles destroyed in battle",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E34-56",
+    "start" : 14,
+    "end" : 19
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R15",
+  "mentionArg1" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E10-37",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R15-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Iraqi TV showed video of people dancing on top of what they said were U.S. armored vehicles destroyed in battle .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Iraqi", "TV", "showed", "video", "of", "people", "dancing", "on", "top", "of", "what", "they", "said", "were", "U.S.", "armored", "vehicles", "destroyed", "in", "battle", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "CNN's Brent Sadler",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E67-58",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R16",
+  "mentionArg1" : {
+    "extent" : "CNN's Brent Sadler",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E36-59",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R16-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "In northern Iraq , CNN 's Brent Sadler reported enormous explosions as U.S. forces dropped bombs on Iraqi fighters .",
+  "sentence_index" : 16,
+  "Tokens" : [ "In", "northern", "Iraq", ",", "CNN", "'s", "Brent", "Sadler", "reported", "enormous", "explosions", "as", "U.S.", "forces", "dropped", "bombs", "on", "Iraqi", "fighters", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In northern Iraq, CNN's Brent Sadler reported enormous explosions as U.S. forces dropped bombs on Iraqi fighters",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "northern Iraq",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E35-57",
+    "start" : 1,
+    "end" : 2
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R17",
+  "mentionArg1" : {
+    "extent" : "CNN's Brent Sadler",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E36-59",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R17-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In northern Iraq , CNN 's Brent Sadler reported enormous explosions as U.S. forces dropped bombs on Iraqi fighters .",
+  "sentence_index" : 16,
+  "Tokens" : [ "In", "northern", "Iraq", ",", "CNN", "'s", "Brent", "Sadler", "reported", "enormous", "explosions", "as", "U.S.", "forces", "dropped", "bombs", "on", "Iraqi", "fighters", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. forces",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E10-38",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R18",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E38-61",
+    "start" : 12,
+    "end" : 13
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R18-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "In northern Iraq , CNN 's Brent Sadler reported enormous explosions as U.S. forces dropped bombs on Iraqi fighters .",
+  "sentence_index" : 16,
+  "Tokens" : [ "In", "northern", "Iraq", ",", "CNN", "'s", "Brent", "Sadler", "reported", "enormous", "explosions", "as", "U.S.", "forces", "dropped", "bombs", "on", "Iraqi", "fighters", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iraqi fighters",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E17-36",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R19",
+  "mentionArg1" : {
+    "extent" : "Iraqi fighters",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E40-63",
+    "start" : 17,
+    "end" : 18
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R19-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "In northern Iraq , CNN 's Brent Sadler reported enormous explosions as U.S. forces dropped bombs on Iraqi fighters .",
+  "sentence_index" : 16,
+  "Tokens" : [ "In", "northern", "Iraq", ",", "CNN", "'s", "Brent", "Sadler", "reported", "enormous", "explosions", "as", "U.S.", "forces", "dropped", "bombs", "on", "Iraqi", "fighters", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iraqi fighters",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E17-40",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R20",
+  "mentionArg1" : {
+    "extent" : "Iraqi fighters",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E43-66",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R20-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Faced with U.S. firepower , Iraqi fighters reportedly have blocked the main roads into Baghdad tonight .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Faced", "with", "U.S.", "firepower", ",", "Iraqi", "fighters", "reportedly", "have", "blocked", "the", "main", "roads", "into", "Baghdad", "tonight", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "black-clad members of Saddam Hussein's Fedayeen militia",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Saddam Hussein's Fedayeen militia",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E46-70",
+    "start" : 4,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R21",
+  "mentionArg1" : {
+    "extent" : "black-clad members of Saddam Hussein's Fedayeen militia",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E45-68",
+    "start" : 1,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R21-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "And black-clad members of Saddam Hussein 's Fedayeen militia are said to be prowling the streets .",
+  "sentence_index" : 19,
+  "Tokens" : [ "And", "black-clad", "members", "of", "Saddam", "Hussein", "'s", "Fedayeen", "militia", "are", "said", "to", "be", "prowling", "the", "streets", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Saddam Hussein's Fedayeen militia",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Saddam Hussein's Fedayeen militia",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E46-70",
+    "start" : 4,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R22",
+  "mentionArg1" : {
+    "extent" : "Saddam Hussein",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E78-69",
+    "start" : 4,
+    "end" : 5
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R22-1",
+  "relationSubType" : "Founder",
+  "Sentence" : "And black-clad members of Saddam Hussein 's Fedayeen militia are said to be prowling the streets .",
+  "sentence_index" : 19,
+  "Tokens" : [ "And", "black-clad", "members", "of", "Saddam", "Hussein", "'s", "Fedayeen", "militia", "are", "said", "to", "be", "prowling", "the", "streets", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "And black-clad members of Saddam Hussein's Fedayeen militia are said to be prowling the streets",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "the streets",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E47-71",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R23",
+  "mentionArg1" : {
+    "extent" : "black-clad members of Saddam Hussein's Fedayeen militia",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E45-68",
+    "start" : 1,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R23-1",
+  "relationSubType" : "Located",
+  "Sentence" : "And black-clad members of Saddam Hussein 's Fedayeen militia are said to be prowling the streets .",
+  "sentence_index" : 19,
+  "Tokens" : [ "And", "black-clad", "members", "of", "Saddam", "Hussein", "'s", "Fedayeen", "militia", "are", "said", "to", "be", "prowling", "the", "streets", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Harry Smith of ITN",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "ITN",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E49-73",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R25",
+  "mentionArg1" : {
+    "extent" : "Harry Smith of ITN",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E48-72",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R25-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Harry Smith of ITN has more on the battle for Baghdad .",
+  "sentence_index" : 20,
+  "Tokens" : [ "Harry", "Smith", "of", "ITN", "has", "more", "on", "the", "battle", "for", "Baghdad", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Harry Smith, ITV News",
+  "sentence_length" : 6,
+  "mentionArg2" : {
+    "extent" : "ITV News",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E49-99",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R25",
+  "mentionArg1" : {
+    "extent" : "Harry Smith",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E48-98",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R25-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Harry Smith , ITV News .",
+  "sentence_index" : 25,
+  "Tokens" : [ "Harry", "Smith", ",", "ITV", "News", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. Marines",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E10-42",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R26",
+  "mentionArg1" : {
+    "extent" : "U.S. Marines",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E59-88",
+    "start" : 13,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R26-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "And on the other side of Baghdad , in the southeast corner , U.S. Marines close in on another division of the Republican Guard as the noose around the capital tightens .",
+  "sentence_index" : 22,
+  "Tokens" : [ "And", "on", "the", "other", "side", "of", "Baghdad", ",", "in", "the", "southeast", "corner", ",", "U.S.", "Marines", "close", "in", "on", "another", "division", "of", "the", "Republican", "Guard", "as", "the", "noose", "around", "the", "capital", "tightens", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the other side of Baghdad",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E74-46",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R27",
+  "mentionArg1" : {
+    "extent" : "the other side of Baghdad",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E57-86",
+    "start" : 2,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R27-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "And on the other side of Baghdad , in the southeast corner , U.S. Marines close in on another division of the Republican Guard as the noose around the capital tightens .",
+  "sentence_index" : 22,
+  "Tokens" : [ "And", "on", "the", "other", "side", "of", "Baghdad", ",", "in", "the", "southeast", "corner", ",", "U.S.", "Marines", "close", "in", "on", "another", "division", "of", "the", "Republican", "Guard", "as", "the", "noose", "around", "the", "capital", "tightens", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "And on the other side of Baghdad, in the southeast corner, U.S. Marines close in on another division of the Republican Guard as the noose around the capital tightens",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "the other side of Baghdad",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E57-86",
+    "start" : 2,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R29",
+  "mentionArg1" : {
+    "extent" : "the southeast corner",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E58-87",
+    "start" : 9,
+    "end" : 11
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R29-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "And on the other side of Baghdad , in the southeast corner , U.S. Marines close in on another division of the Republican Guard as the noose around the capital tightens .",
+  "sentence_index" : 22,
+  "Tokens" : [ "And", "on", "the", "other", "side", "of", "Baghdad", ",", "in", "the", "southeast", "corner", ",", "U.S.", "Marines", "close", "in", "on", "another", "division", "of", "the", "Republican", "Guard", "as", "the", "noose", "around", "the", "capital", "tightens", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "another division of the Republican Guard",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "the Republican Guard",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E61-90",
+    "start" : 21,
+    "end" : 23
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R30",
+  "mentionArg1" : {
+    "extent" : "another division of the Republican Guard",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E60-89",
+    "start" : 18,
+    "end" : 23
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R30-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "And on the other side of Baghdad , in the southeast corner , U.S. Marines close in on another division of the Republican Guard as the noose around the capital tightens .",
+  "sentence_index" : 22,
+  "Tokens" : [ "And", "on", "the", "other", "side", "of", "Baghdad", ",", "in", "the", "southeast", "corner", ",", "U.S.", "Marines", "close", "in", "on", "another", "division", "of", "the", "Republican", "Guard", "as", "the", "noose", "around", "the", "capital", "tightens", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the tanks of the American 2nd Brigade",
+  "sentence_length" : 61,
+  "mentionArg2" : {
+    "extent" : "the tanks of the American 2nd Brigade",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E53-78",
+    "start" : 22,
+    "end" : 28
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R31",
+  "mentionArg1" : {
+    "extent" : "the American 2nd Brigade",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E51-76",
+    "start" : 25,
+    "end" : 28
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R31-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "( BEGIN VIDEOTAPE ) HARRY SMITH , ITV NEWS ( voice-over ) It 's the fight they 've been waiting for , the tanks of the American 2nd Brigade taking the war right to the heart of Saddam 's much-vaunted defenders , to the Republican Guards , holed up in their barracks in the southwestern suburbs of the Iraqi capital .",
+  "sentence_index" : 21,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "HARRY", "SMITH", ",", "ITV", "NEWS", "(", "voice-over", ")", "It", "'s", "the", "fight", "they", "'ve", "been", "waiting", "for", ",", "the", "tanks", "of", "the", "American", "2nd", "Brigade", "taking", "the", "war", "right", "to", "the", "heart", "of", "Saddam", "'s", "much-vaunted", "defenders", ",", "to", "the", "Republican", "Guards", ",", "holed", "up", "in", "their", "barracks", "in", "the", "southwestern", "suburbs", "of", "the", "Iraqi", "capital", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the American 2nd Brigade",
+  "sentence_length" : 61,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E10-77",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R32",
+  "mentionArg1" : {
+    "extent" : "the American 2nd Brigade",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E51-76",
+    "start" : 25,
+    "end" : 28
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R32-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "( BEGIN VIDEOTAPE ) HARRY SMITH , ITV NEWS ( voice-over ) It 's the fight they 've been waiting for , the tanks of the American 2nd Brigade taking the war right to the heart of Saddam 's much-vaunted defenders , to the Republican Guards , holed up in their barracks in the southwestern suburbs of the Iraqi capital .",
+  "sentence_index" : 21,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "HARRY", "SMITH", ",", "ITV", "NEWS", "(", "voice-over", ")", "It", "'s", "the", "fight", "they", "'ve", "been", "waiting", "for", ",", "the", "tanks", "of", "the", "American", "2nd", "Brigade", "taking", "the", "war", "right", "to", "the", "heart", "of", "Saddam", "'s", "much-vaunted", "defenders", ",", "to", "the", "Republican", "Guards", ",", "holed", "up", "in", "their", "barracks", "in", "the", "southwestern", "suburbs", "of", "the", "Iraqi", "capital", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "units of the Republican Guard",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "the Republican Guard",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E61-93",
+    "start" : 20,
+    "end" : 22
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R33",
+  "mentionArg1" : {
+    "extent" : "units of the Republican Guard",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E62-92",
+    "start" : 18,
+    "end" : 22
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R33-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Today 's assault followed another night of heavy bombardment in and around Baghdad as shells rained down on units of the Republican Guard and other military targets .",
+  "sentence_index" : 23,
+  "Tokens" : [ "Today", "'s", "assault", "followed", "another", "night", "of", "heavy", "bombardment", "in", "and", "around", "Baghdad", "as", "shells", "rained", "down", "on", "units", "of", "the", "Republican", "Guard", "and", "other", "military", "targets", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "American military planners",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E10-43",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030405.1600.00-1-R34",
+  "mentionArg1" : {
+    "extent" : "American military planners",
+    "argMentionid" : "CNN_IP_20030405.1600.00-1-E68-103",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030405.1600.00-1-R34-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "American military planners continue to warn that there could still be tough fighting ahead , but tonight they 're closer than many believed they would be to the center of Saddam 's regime .",
+  "sentence_index" : 24,
+  "Tokens" : [ "American", "military", "planners", "continue", "to", "warn", "that", "there", "could", "still", "be", "tough", "fighting", "ahead", ",", "but", "tonight", "they", "'re", "closer", "than", "many", "believed", "they", "would", "be", "to", "the", "center", "of", "Saddam", "'s", "regime", "." ]
+} ]

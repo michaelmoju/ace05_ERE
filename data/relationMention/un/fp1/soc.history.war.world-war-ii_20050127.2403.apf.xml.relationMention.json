@@ -1,0 +1,221 @@
+[ {
+  "relationType" : "ART",
+  "extent" : "the US carriers",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "the US carriers",
+    "argMentionid" : "soc.history.war.world-war-ii_20050127.2403-E66-172",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "soc.history.war.world-war-ii_20050127.2403-R1",
+  "mentionArg1" : {
+    "extent" : "US",
+    "argMentionid" : "soc.history.war.world-war-ii_20050127.2403-E1-2",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "soc.history.war.world-war-ii_20050127.2403-R1-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "- bg- -- lesliemills2002@netscape. net   Fri, 28 Jan 2005 17:09:12 +0000 (UTC)   Re: U.S. provoked Japan?          I've read quite a few more rational works describing how the US was doing its best to avoid, or at the very least postpone, a war against Japan, mainly because FDR was trying to provoke Hitler to war and didn't need a distraction on another distant front.        work?  (stuff deleted)  The thesis has been expounded by several conspiracy theorists, mainly the ones who expounded that FDR knew Pearl Harbor was about to be attacked, and let it happen. One of their \"proofs\" was that the US carriers were out of port during the attack, and \"everybody knew\" carriers were the capital ship of the future.  However, the two carriers operating out of Pearl at the moment were sent West with light escort, on possibly intersecting routes with the IJN Kido Butai, which had far more carriers and a far heavier escort. Even stranger, the USS Enterprise was scheduled to be at Pearl by Dec 6th, but got delayed by a storm.  Consequently, for the PH conspiracy theorists to believe that FDR kept the carriers out of harm's way, we not only have to grant FDR the full knowledge of Kido Butai's route of approach would not result in either USN carrier fleet getting caught in a hopeless battle, but that FDR could psychically manipulate the weather to prevent Halsey from sailing into Pearl and thus be ambushed.  To make a very long story short, it is foolish to assume that the US wanted to go to war against Japan prior to 1941, considering the weight of evidence arguing against a US desire for war, and the overwhelming lack of evidence (not to mention rational thought) arguing for a US desire for war. --     mtfes...@netMAPSONscape.net Fri , 28 Jan 2005 17:08:52 + 0000 ( UTC ) Re : U.S. provoked Japan ?",
+  "sentence_index" : 4,
+  "Tokens" : [ "-", "bg-", "--", "lesliemills2002@netscape. net   Fri, 28 Jan 2005 17:09:12 +0000 (UTC)   Re: U.S. provoked Japan?          I've read quite a few more rational works describing how the US was doing its best to avoid, or at the very least postpone, a war against Japan, mainly because FDR was trying to provoke Hitler to war and didn't need a distraction on another distant front.        work?  (stuff deleted)  The thesis has been expounded by several conspiracy theorists, mainly the ones who expounded that FDR knew Pearl Harbor was about to be attacked, and let it happen. One of their \"proofs\" was that the US carriers were out of port during the attack, and \"everybody knew\" carriers were the capital ship of the future.  However, the two carriers operating out of Pearl at the moment were sent West with light escort, on possibly intersecting routes with the IJN Kido Butai, which had far more carriers and a far heavier escort. Even stranger, the USS Enterprise was scheduled to be at Pearl by Dec 6th, but got delayed by a storm.  Consequently, for the PH conspiracy theorists to believe that FDR kept the carriers out of harm's way, we not only have to grant FDR the full knowledge of Kido Butai's route of approach would not result in either USN carrier fleet getting caught in a hopeless battle, but that FDR could psychically manipulate the weather to prevent Halsey from sailing into Pearl and thus be ambushed.  To make a very long story short, it is foolish to assume that the US wanted to go to war against Japan prior to 1941, considering the weight of evidence arguing against a US desire for war, and the overwhelming lack of evidence (not to mention rational thought) arguing for a US desire for war. --     mtfes...@netMAPSONscape.net", "Fri", ",", "28", "Jan", "2005", "17:08:52", "+", "0000", "(", "UTC", ")", "Re", ":", "U.S.", "provoked", "Japan", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "their former Imperial areas",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "their",
+    "argMentionid" : "soc.history.war.world-war-ii_20050127.2403-E21-55",
+    "start" : 34,
+    "end" : 34
+  },
+  "relationID" : "soc.history.war.world-war-ii_20050127.2403-R2",
+  "mentionArg1" : {
+    "extent" : "their former Imperial areas",
+    "argMentionid" : "soc.history.war.world-war-ii_20050127.2403-E23-54",
+    "start" : 34,
+    "end" : 37
+  },
+  "id" : "soc.history.war.world-war-ii_20050127.2403-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "However , after World War I , Japan failed to recognize a fundamental shift in the attitudes of her former Imperial partners ; they began a long , slow process of disengaging themselves from their former Imperial areas , from their colonies , in addition to outright stopping all expansions .",
+  "sentence_index" : 10,
+  "Tokens" : [ "However", ",", "after", "World", "War", "I", ",", "Japan", "failed", "to", "recognize", "a", "fundamental", "shift", "in", "the", "attitudes", "of", "her", "former", "Imperial", "partners", ";", "they", "began", "a", "long", ",", "slow", "process", "of", "disengaging", "themselves", "from", "their", "former", "Imperial", "areas", ",", "from", "their", "colonies", ",", "in", "addition", "to", "outright", "stopping", "all", "expansions", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "their colonies",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "their",
+    "argMentionid" : "soc.history.war.world-war-ii_20050127.2403-E21-57",
+    "start" : 40,
+    "end" : 40
+  },
+  "relationID" : "soc.history.war.world-war-ii_20050127.2403-R3",
+  "mentionArg1" : {
+    "extent" : "their colonies",
+    "argMentionid" : "soc.history.war.world-war-ii_20050127.2403-E25-56",
+    "start" : 40,
+    "end" : 41
+  },
+  "id" : "soc.history.war.world-war-ii_20050127.2403-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "However , after World War I , Japan failed to recognize a fundamental shift in the attitudes of her former Imperial partners ; they began a long , slow process of disengaging themselves from their former Imperial areas , from their colonies , in addition to outright stopping all expansions .",
+  "sentence_index" : 10,
+  "Tokens" : [ "However", ",", "after", "World", "War", "I", ",", "Japan", "failed", "to", "recognize", "a", "fundamental", "shift", "in", "the", "attitudes", "of", "her", "former", "Imperial", "partners", ";", "they", "began", "a", "long", ",", "slow", "process", "of", "disengaging", "themselves", "from", "their", "former", "Imperial", "areas", ",", "from", "their", "colonies", ",", "in", "addition", "to", "outright", "stopping", "all", "expansions", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "The reality of this was that only a single possession, Manchuria, was profitable to the Japanese, and the rest of the Empire turned out to be a drain",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "the Japanese",
+    "argMentionid" : "soc.history.war.world-war-ii_20050127.2403-E17-83",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "soc.history.war.world-war-ii_20050127.2403-R4",
+  "mentionArg1" : {
+    "extent" : "a single possession",
+    "argMentionid" : "soc.history.war.world-war-ii_20050127.2403-E34-81",
+    "start" : 7,
+    "end" : 9
+  },
+  "id" : "soc.history.war.world-war-ii_20050127.2403-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The reality of this was that only a single possession , Manchuria , was profitable to the Japanese , and the rest of the Empire turned out to be a drain .",
+  "sentence_index" : 15,
+  "Tokens" : [ "The", "reality", "of", "this", "was", "that", "only", "a", "single", "possession", ",", "Manchuria", ",", "was", "profitable", "to", "the", "Japanese", ",", "and", "the", "rest", "of", "the", "Empire", "turned", "out", "to", "be", "a", "drain", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "British and Dutch possessions in the area",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "soc.history.war.world-war-ii_20050127.2403-E30-101",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "soc.history.war.world-war-ii_20050127.2403-R5",
+  "mentionArg1" : {
+    "extent" : "British and Dutch possessions in the area",
+    "argMentionid" : "soc.history.war.world-war-ii_20050127.2403-E42-103",
+    "start" : 24,
+    "end" : 30
+  },
+  "id" : "soc.history.war.world-war-ii_20050127.2403-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Japan expanded into areas of China and Indochina which had no strategic value to her , but put her in a position to threaten British and Dutch possessions in the area ; possessions that both those Allied nations needed in order to continue their fight against Hitler .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Japan", "expanded", "into", "areas", "of", "China", "and", "Indochina", "which", "had", "no", "strategic", "value", "to", "her", ",", "but", "put", "her", "in", "a", "position", "to", "threaten", "British", "and", "Dutch", "possessions", "in", "the", "area", ";", "possessions", "that", "both", "those", "Allied", "nations", "needed", "in", "order", "to", "continue", "their", "fight", "against", "Hitler", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "British and Dutch possessions in the area",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "Dutch",
+    "argMentionid" : "soc.history.war.world-war-ii_20050127.2403-E41-102",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "soc.history.war.world-war-ii_20050127.2403-R6",
+  "mentionArg1" : {
+    "extent" : "British and Dutch possessions in the area",
+    "argMentionid" : "soc.history.war.world-war-ii_20050127.2403-E42-103",
+    "start" : 24,
+    "end" : 30
+  },
+  "id" : "soc.history.war.world-war-ii_20050127.2403-R6-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Japan expanded into areas of China and Indochina which had no strategic value to her , but put her in a position to threaten British and Dutch possessions in the area ; possessions that both those Allied nations needed in order to continue their fight against Hitler .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Japan", "expanded", "into", "areas", "of", "China", "and", "Indochina", "which", "had", "no", "strategic", "value", "to", "her", ",", "but", "put", "her", "in", "a", "position", "to", "threaten", "British", "and", "Dutch", "possessions", "in", "the", "area", ";", "possessions", "that", "both", "those", "Allied", "nations", "needed", "in", "order", "to", "continue", "their", "fight", "against", "Hitler", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "British and Dutch possessions in the area",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "in the area",
+    "argMentionid" : "soc.history.war.world-war-ii_20050127.2403-E32-104",
+    "start" : 28,
+    "end" : 30
+  },
+  "relationID" : "soc.history.war.world-war-ii_20050127.2403-R7",
+  "mentionArg1" : {
+    "extent" : "British and Dutch possessions in the area",
+    "argMentionid" : "soc.history.war.world-war-ii_20050127.2403-E42-103",
+    "start" : 24,
+    "end" : 30
+  },
+  "id" : "soc.history.war.world-war-ii_20050127.2403-R7-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Japan expanded into areas of China and Indochina which had no strategic value to her , but put her in a position to threaten British and Dutch possessions in the area ; possessions that both those Allied nations needed in order to continue their fight against Hitler .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Japan", "expanded", "into", "areas", "of", "China", "and", "Indochina", "which", "had", "no", "strategic", "value", "to", "her", ",", "but", "put", "her", "in", "a", "position", "to", "threaten", "British", "and", "Dutch", "possessions", "in", "the", "area", ";", "possessions", "that", "both", "those", "Allied", "nations", "needed", "in", "order", "to", "continue", "their", "fight", "against", "Hitler", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Japanese officials",
+  "sentence_length" : 81,
+  "mentionArg2" : {
+    "extent" : "Japanese",
+    "argMentionid" : "soc.history.war.world-war-ii_20050127.2403-E17-117",
+    "start" : 47,
+    "end" : 47
+  },
+  "relationID" : "soc.history.war.world-war-ii_20050127.2403-R8",
+  "mentionArg1" : {
+    "extent" : "Japanese officials",
+    "argMentionid" : "soc.history.war.world-war-ii_20050127.2403-E49-119",
+    "start" : 47,
+    "end" : 48
+  },
+  "id" : "soc.history.war.world-war-ii_20050127.2403-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "At this point , the US stopped ignoring the Japanese threat , and imposed a series of escalating sanctions on Japan , cutting off her scrap metal , limitting and then cutting off her oil ( Japan imported most of both from the US . ) While Japanese officials realized that they had enough of each resource for Japan to do well IF THE WAR IN CHINA STOPPED , they were powerless over the military they were supposed to control .",
+  "sentence_index" : 22,
+  "Tokens" : [ "At", "this", "point", ",", "the", "US", "stopped", "ignoring", "the", "Japanese", "threat", ",", "and", "imposed", "a", "series", "of", "escalating", "sanctions", "on", "Japan", ",", "cutting", "off", "her", "scrap", "metal", ",", "limitting", "and", "then", "cutting", "off", "her", "oil", "(", "Japan", "imported", "most", "of", "both", "from", "the", "US", ".", ")", "While", "Japanese", "officials", "realized", "that", "they", "had", "enough", "of", "each", "resource", "for", "Japan", "to", "do", "well", "IF", "THE", "WAR", "IN", "CHINA", "STOPPED", ",", "they", "were", "powerless", "over", "the", "military", "they", "were", "supposed", "to", "control", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Soviet positions in Mongolia",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Soviet positions in Mongolia",
+    "argMentionid" : "soc.history.war.world-war-ii_20050127.2403-E51-125",
+    "start" : 4,
+    "end" : 7
+  },
+  "relationID" : "soc.history.war.world-war-ii_20050127.2403-R9",
+  "mentionArg1" : {
+    "extent" : "Soviet",
+    "argMentionid" : "soc.history.war.world-war-ii_20050127.2403-E52-126",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "soc.history.war.world-war-ii_20050127.2403-R9-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "An abortive attack on Soviet positions in Mongolia had placed Japan 's focus firmly south , towards the possessions of the US ' future allies .",
+  "sentence_index" : 23,
+  "Tokens" : [ "An", "abortive", "attack", "on", "Soviet", "positions", "in", "Mongolia", "had", "placed", "Japan", "'s", "focus", "firmly", "south", ",", "towards", "the", "possessions", "of", "the", "US", "'", "future", "allies", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Soviet positions in Mongolia",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Mongolia",
+    "argMentionid" : "soc.history.war.world-war-ii_20050127.2403-E53-127",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "soc.history.war.world-war-ii_20050127.2403-R10",
+  "mentionArg1" : {
+    "extent" : "Soviet positions in Mongolia",
+    "argMentionid" : "soc.history.war.world-war-ii_20050127.2403-E51-125",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "soc.history.war.world-war-ii_20050127.2403-R10-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "An abortive attack on Soviet positions in Mongolia had placed Japan 's focus firmly south , towards the possessions of the US ' future allies .",
+  "sentence_index" : 23,
+  "Tokens" : [ "An", "abortive", "attack", "on", "Soviet", "positions", "in", "Mongolia", "had", "placed", "Japan", "'s", "focus", "firmly", "south", ",", "towards", "the", "possessions", "of", "the", "US", "'", "future", "allies", "." ]
+} ]

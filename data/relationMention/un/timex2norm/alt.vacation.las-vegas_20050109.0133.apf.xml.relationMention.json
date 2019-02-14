@@ -1,0 +1,419 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "P.O. Box 37243, Washington, DC 20013",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "Washington, DC",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E7-15",
+    "start" : 45,
+    "end" : 47
+  },
+  "relationID" : "alt.vacation.las-vegas_20050109.0133-R1",
+  "mentionArg1" : {
+    "extent" : "P.O. Box 37243, Washington, DC 20013",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E8-14",
+    "start" : 41,
+    "end" : 48
+  },
+  "id" : "alt.vacation.las-vegas_20050109.0133-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The Habitat for Humanity might be a good one to consider , since their expertise is in building housing , which of course is so beadly needed over there at this time : American Red Cross : Disaster Relief Fund , P.O. Box 37243 , Washington , DC 20013 .",
+  "sentence_index" : 8,
+  "Tokens" : [ "The", "Habitat", "for", "Humanity", "might", "be", "a", "good", "one", "to", "consider", ",", "since", "their", "expertise", "is", "in", "building", "housing", ",", "which", "of", "course", "is", "so", "beadly", "needed", "over", "there", "at", "this", "time", ":", "American", "Red", "Cross", ":", "Disaster", "Relief", "Fund", ",", "P.O.", "Box", "37243", ",", "Washington", ",", "DC", "20013", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "The Habitat for Humanity might be a good one to consider, since their expertise is in building housing, which of course is so beadly needed over there at this time",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "housing, which of course is so beadly needed over there at this time",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E5-9",
+    "start" : 18,
+    "end" : 31
+  },
+  "relationID" : "alt.vacation.las-vegas_20050109.0133-R2",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E2-8",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "alt.vacation.las-vegas_20050109.0133-R2-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The Habitat for Humanity might be a good one to consider , since their expertise is in building housing , which of course is so beadly needed over there at this time : American Red Cross : Disaster Relief Fund , P.O. Box 37243 , Washington , DC 20013 .",
+  "sentence_index" : 8,
+  "Tokens" : [ "The", "Habitat", "for", "Humanity", "might", "be", "a", "good", "one", "to", "consider", ",", "since", "their", "expertise", "is", "in", "building", "housing", ",", "which", "of", "course", "is", "so", "beadly", "needed", "over", "there", "at", "this", "time", ":", "American", "Red", "Cross", ":", "Disaster", "Relief", "Fund", ",", "P.O.", "Box", "37243", ",", "Washington", ",", "DC", "20013", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "American Red Cross: Disaster Relief Fund, P.O. Box 37243, Washington, DC 20013",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "P.O. Box 37243, Washington, DC 20013",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E8-14",
+    "start" : 41,
+    "end" : 48
+  },
+  "relationID" : "alt.vacation.las-vegas_20050109.0133-R3",
+  "mentionArg1" : {
+    "extent" : "American Red Cross",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E51-12",
+    "start" : 33,
+    "end" : 35
+  },
+  "id" : "alt.vacation.las-vegas_20050109.0133-R3-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "The Habitat for Humanity might be a good one to consider , since their expertise is in building housing , which of course is so beadly needed over there at this time : American Red Cross : Disaster Relief Fund , P.O. Box 37243 , Washington , DC 20013 .",
+  "sentence_index" : 8,
+  "Tokens" : [ "The", "Habitat", "for", "Humanity", "might", "be", "a", "good", "one", "to", "consider", ",", "since", "their", "expertise", "is", "in", "building", "housing", ",", "which", "of", "course", "is", "so", "beadly", "needed", "over", "there", "at", "this", "time", ":", "American", "Red", "Cross", ":", "Disaster", "Relief", "Fund", ",", "P.O.", "Box", "37243", ",", "Washington", ",", "DC", "20013", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "P.O. Box 269, Alexandria, VA 22313",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Alexandria, VA",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E20-29",
+    "start" : 14,
+    "end" : 16
+  },
+  "relationID" : "alt.vacation.las-vegas_20050109.0133-R4",
+  "mentionArg1" : {
+    "extent" : "P.O. Box 269, Alexandria, VA 22313",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E13-16",
+    "start" : 10,
+    "end" : 17
+  },
+  "id" : "alt.vacation.las-vegas_20050109.0133-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Phone : ( 800 ) 728-3843 The Salvation Army : P.O. Box 269 , Alexandria , VA 22313 .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Phone", ":", "(", "800", ")", "728-3843", "The", "Salvation", "Army", ":", "P.O.", "Box", "269", ",", "Alexandria", ",", "VA", "22313", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Habitat for Humanity International: Asia Tsunami Response Fund, 121 Habitat St., Americus, GA 31709-3498",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "121 Habitat St., Americus, GA 31709-3498",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E12-21",
+    "start" : 16,
+    "end" : 23
+  },
+  "relationID" : "alt.vacation.las-vegas_20050109.0133-R5",
+  "mentionArg1" : {
+    "extent" : "Habitat for Humanity International",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E2-17",
+    "start" : 6,
+    "end" : 9
+  },
+  "id" : "alt.vacation.las-vegas_20050109.0133-R5-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Phone : ( 800 ) 435-7669 Habitat for Humanity International : Asia Tsunami Response Fund , 121 Habitat St. , Americus , GA 31709-3498 .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Phone", ":", "(", "800", ")", "435-7669", "Habitat", "for", "Humanity", "International", ":", "Asia", "Tsunami", "Response", "Fund", ",", "121", "Habitat", "St.", ",", "Americus", ",", "GA", "31709-3498", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "121 Habitat St., Americus, GA 31709-3498",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Habitat St",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E11-20",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "alt.vacation.las-vegas_20050109.0133-R6",
+  "mentionArg1" : {
+    "extent" : "121 Habitat St., Americus, GA 31709-3498",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E12-21",
+    "start" : 16,
+    "end" : 23
+  },
+  "id" : "alt.vacation.las-vegas_20050109.0133-R6-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Phone : ( 800 ) 435-7669 Habitat for Humanity International : Asia Tsunami Response Fund , 121 Habitat St. , Americus , GA 31709-3498 .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Phone", ":", "(", "800", ")", "435-7669", "Habitat", "for", "Humanity", "International", ":", "Asia", "Tsunami", "Response", "Fund", ",", "121", "Habitat", "St.", ",", "Americus", ",", "GA", "31709-3498", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Americus, GA",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "GA",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E10-19",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "alt.vacation.las-vegas_20050109.0133-R7",
+  "mentionArg1" : {
+    "extent" : "Americus, GA",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E9-18",
+    "start" : 20,
+    "end" : 22
+  },
+  "id" : "alt.vacation.las-vegas_20050109.0133-R7-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Phone : ( 800 ) 435-7669 Habitat for Humanity International : Asia Tsunami Response Fund , 121 Habitat St. , Americus , GA 31709-3498 .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Phone", ":", "(", "800", ")", "435-7669", "Habitat", "for", "Humanity", "International", ":", "Asia", "Tsunami", "Response", "Fund", ",", "121", "Habitat", "St.", ",", "Americus", ",", "GA", "31709-3498", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Save the Children: Attn: Asian Earthquake/Tsunami Relief Fund, 54 Wilton Road, Westport, CT 06880",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "54 Wilton Road, Westport, CT 06880",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E15-24",
+    "start" : 19,
+    "end" : 26
+  },
+  "relationID" : "alt.vacation.las-vegas_20050109.0133-R8",
+  "mentionArg1" : {
+    "extent" : "Save the Children",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E14-23",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "alt.vacation.las-vegas_20050109.0133-R8-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Phone : ( 800 ) 422-4828 Save the Children : Attn : Asian Earthquake / Tsunami Relief Fund , 54 Wilton Road , Westport , CT 06880 .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Phone", ":", "(", "800", ")", "422-4828", "Save", "the", "Children", ":", "Attn", ":", "Asian", "Earthquake", "/", "Tsunami", "Relief", "Fund", ",", "54", "Wilton", "Road", ",", "Westport", ",", "CT", "06880", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "54 Wilton Road, Westport, CT 06880",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Westport, CT",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E17-26",
+    "start" : 23,
+    "end" : 25
+  },
+  "relationID" : "alt.vacation.las-vegas_20050109.0133-R9",
+  "mentionArg1" : {
+    "extent" : "54 Wilton Road, Westport, CT 06880",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E15-24",
+    "start" : 19,
+    "end" : 26
+  },
+  "id" : "alt.vacation.las-vegas_20050109.0133-R9-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Phone : ( 800 ) 422-4828 Save the Children : Attn : Asian Earthquake / Tsunami Relief Fund , 54 Wilton Road , Westport , CT 06880 .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Phone", ":", "(", "800", ")", "422-4828", "Save", "the", "Children", ":", "Attn", ":", "Asian", "Earthquake", "/", "Tsunami", "Relief", "Fund", ",", "54", "Wilton", "Road", ",", "Westport", ",", "CT", "06880", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Westport, CT",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "CT",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E18-27",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "alt.vacation.las-vegas_20050109.0133-R10",
+  "mentionArg1" : {
+    "extent" : "Westport, CT",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E17-26",
+    "start" : 23,
+    "end" : 25
+  },
+  "id" : "alt.vacation.las-vegas_20050109.0133-R10-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Phone : ( 800 ) 422-4828 Save the Children : Attn : Asian Earthquake / Tsunami Relief Fund , 54 Wilton Road , Westport , CT 06880 .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Phone", ":", "(", "800", ")", "422-4828", "Save", "the", "Children", ":", "Attn", ":", "Asian", "Earthquake", "/", "Tsunami", "Relief", "Fund", ",", "54", "Wilton", "Road", ",", "Westport", ",", "CT", "06880", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "The Salvation Army: P.O. Box 269, Alexandria, VA 22313",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "P.O. Box 269, Alexandria, VA 22313",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E13-16",
+    "start" : 10,
+    "end" : 17
+  },
+  "relationID" : "alt.vacation.las-vegas_20050109.0133-R11",
+  "mentionArg1" : {
+    "extent" : "The Salvation Army",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E19-28",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "alt.vacation.las-vegas_20050109.0133-R11-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Phone : ( 800 ) 728-3843 The Salvation Army : P.O. Box 269 , Alexandria , VA 22313 .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Phone", ":", "(", "800", ")", "728-3843", "The", "Salvation", "Army", ":", "P.O.", "Box", "269", ",", "Alexandria", ",", "VA", "22313", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Alexandria, VA",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "VA",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E21-30",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "alt.vacation.las-vegas_20050109.0133-R12",
+  "mentionArg1" : {
+    "extent" : "Alexandria, VA",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E20-29",
+    "start" : 14,
+    "end" : 16
+  },
+  "id" : "alt.vacation.las-vegas_20050109.0133-R12-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Phone : ( 800 ) 728-3843 The Salvation Army : P.O. Box 269 , Alexandria , VA 22313 .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Phone", ":", "(", "800", ")", "728-3843", "The", "Salvation", "Army", ":", "P.O.", "Box", "269", ",", "Alexandria", ",", "VA", "22313", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "David in NV",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "NV",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E22-32",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "alt.vacation.las-vegas_20050109.0133-R13",
+  "mentionArg1" : {
+    "extent" : "David in NV",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E57-31",
+    "start" : 3,
+    "end" : 5
+  },
+  "id" : "alt.vacation.las-vegas_20050109.0133-R13-1",
+  "relationSubType" : "Located",
+  "Sentence" : "-- Best from David in NV Sam D. Sun , 9 Jan 2005 04:47:53 - 0800 Re : OT Best organization for donation Actually more of the money from your donation has a chance of going directly toward its intended purpose than any other charity .",
+  "sentence_index" : 13,
+  "Tokens" : [ "--", "Best", "from", "David", "in", "NV", "Sam", "D.", "Sun", ",", "9", "Jan", "2005", "04:47:53", "-", "0800", "Re", ":", "OT", "Best", "organization", "for", "donation", "Actually", "more", "of", "the", "money", "from", "your", "donation", "has", "a", "chance", "of", "going", "directly", "toward", "its", "intended", "purpose", "than", "any", "other", "charity", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I've read that too - unfortunate, because I've worked with them in Rwanda and was very impressed with the professionalism of their organization",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "them",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E33-78",
+    "start" : 30,
+    "end" : 30
+  },
+  "relationID" : "alt.vacation.las-vegas_20050109.0133-R14",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E37-77",
+    "start" : 26,
+    "end" : 26
+  },
+  "id" : "alt.vacation.las-vegas_20050109.0133-R14-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Thomas W. Sun , 09 Jan 2005 21:55:27 + 0100 Re : OT Best organization for donation I 've read that too - unfortunate , because I 've worked with them in Rwanda and was very impressed with the professionalism of their organization .",
+  "sentence_index" : 28,
+  "Tokens" : [ "Thomas", "W.", "Sun", ",", "09", "Jan", "2005", "21:55:27", "+", "0100", "Re", ":", "OT", "Best", "organization", "for", "donation", "I", "'ve", "read", "that", "too", "-", "unfortunate", ",", "because", "I", "'ve", "worked", "with", "them", "in", "Rwanda", "and", "was", "very", "impressed", "with", "the", "professionalism", "of", "their", "organization", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I've read that too - unfortunate, because I've worked with them in Rwanda and was very impressed with the professionalism of their organization",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "Rwanda",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E38-80",
+    "start" : 32,
+    "end" : 32
+  },
+  "relationID" : "alt.vacation.las-vegas_20050109.0133-R15",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E37-77",
+    "start" : 26,
+    "end" : 26
+  },
+  "id" : "alt.vacation.las-vegas_20050109.0133-R15-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Thomas W. Sun , 09 Jan 2005 21:55:27 + 0100 Re : OT Best organization for donation I 've read that too - unfortunate , because I 've worked with them in Rwanda and was very impressed with the professionalism of their organization .",
+  "sentence_index" : 28,
+  "Tokens" : [ "Thomas", "W.", "Sun", ",", "09", "Jan", "2005", "21:55:27", "+", "0100", "Re", ":", "OT", "Best", "organization", "for", "donation", "I", "'ve", "read", "that", "too", "-", "unfortunate", ",", "because", "I", "'ve", "worked", "with", "them", "in", "Rwanda", "and", "was", "very", "impressed", "with", "the", "professionalism", "of", "their", "organization", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "They also stated that there are lots of places in the world where they continue to work which needs plenty of help too",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "lots of places in the world where they continue to work which needs plenty of help too",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E39-84",
+    "start" : 6,
+    "end" : 22
+  },
+  "relationID" : "alt.vacation.las-vegas_20050109.0133-R16",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E33-89",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "alt.vacation.las-vegas_20050109.0133-R16-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "They also stated that there are lots of places in the world where they continue to work which needs plenty of help too - quite an important reminder because other needy areas of the world are getting less donations now .",
+  "sentence_index" : 29,
+  "Tokens" : [ "They", "also", "stated", "that", "there", "are", "lots", "of", "places", "in", "the", "world", "where", "they", "continue", "to", "work", "which", "needs", "plenty", "of", "help", "too", "-", "quite", "an", "important", "reminder", "because", "other", "needy", "areas", "of", "the", "world", "are", "getting", "less", "donations", "now", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "lots of places in the world where they continue to work which needs plenty of help too",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "the world",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E40-86",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "alt.vacation.las-vegas_20050109.0133-R17",
+  "mentionArg1" : {
+    "extent" : "lots of places in the world where they continue to work which needs plenty of help too",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E39-84",
+    "start" : 6,
+    "end" : 22
+  },
+  "id" : "alt.vacation.las-vegas_20050109.0133-R17-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "They also stated that there are lots of places in the world where they continue to work which needs plenty of help too - quite an important reminder because other needy areas of the world are getting less donations now .",
+  "sentence_index" : 29,
+  "Tokens" : [ "They", "also", "stated", "that", "there", "are", "lots", "of", "places", "in", "the", "world", "where", "they", "continue", "to", "work", "which", "needs", "plenty", "of", "help", "too", "-", "quite", "an", "important", "reminder", "because", "other", "needy", "areas", "of", "the", "world", "are", "getting", "less", "donations", "now", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "other needy areas of the world",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "the world",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E40-92",
+    "start" : 33,
+    "end" : 34
+  },
+  "relationID" : "alt.vacation.las-vegas_20050109.0133-R17",
+  "mentionArg1" : {
+    "extent" : "other needy areas of the world",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E39-91",
+    "start" : 29,
+    "end" : 34
+  },
+  "id" : "alt.vacation.las-vegas_20050109.0133-R17-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "They also stated that there are lots of places in the world where they continue to work which needs plenty of help too - quite an important reminder because other needy areas of the world are getting less donations now .",
+  "sentence_index" : 29,
+  "Tokens" : [ "They", "also", "stated", "that", "there", "are", "lots", "of", "places", "in", "the", "world", "where", "they", "continue", "to", "work", "which", "needs", "plenty", "of", "help", "too", "-", "quite", "an", "important", "reminder", "because", "other", "needy", "areas", "of", "the", "world", "are", "getting", "less", "donations", "now", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Our news system",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Our",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E45-105",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "alt.vacation.las-vegas_20050109.0133-R19",
+  "mentionArg1" : {
+    "extent" : "Our news system",
+    "argMentionid" : "alt.vacation.las-vegas_20050109.0133-E44-104",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "alt.vacation.las-vegas_20050109.0133-R19-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Our news system thrives on finding a chinc in the armor of an organisation , a not perfect organisation .",
+  "sentence_index" : 34,
+  "Tokens" : [ "Our", "news", "system", "thrives", "on", "finding", "a", "chinc", "in", "the", "armor", "of", "an", "organisation", ",", "a", "not", "perfect", "organisation", "." ]
+} ]

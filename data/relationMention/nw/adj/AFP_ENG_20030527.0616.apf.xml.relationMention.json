@@ -1,0 +1,111 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "US President George W. Bush",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "AFP_ENG_20030527.0616-E1-40",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "AFP_ENG_20030527.0616-R1",
+  "mentionArg1" : {
+    "extent" : "US President George W. Bush",
+    "argMentionid" : "AFP_ENG_20030527.0616-E5-38",
+    "start" : 7,
+    "end" : 11
+  },
+  "id" : "AFP_ENG_20030527.0616-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "WASHINGTON , May 27 ( AFP ) US President George W. Bush told Canadian Prime Minister Jean Chretien by telephone Monday that he looked forward to seeing him at the upcoming summit of major industrialized nations and Russia , the White House said Tuesday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WASHINGTON", ",", "May", "27", "(", "AFP", ")", "US", "President", "George", "W.", "Bush", "told", "Canadian", "Prime", "Minister", "Jean", "Chretien", "by", "telephone", "Monday", "that", "he", "looked", "forward", "to", "seeing", "him", "at", "the", "upcoming", "summit", "of", "major", "industrialized", "nations", "and", "Russia", ",", "the", "White", "House", "said", "Tuesday", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Canadian Prime Minister Jean Chretien",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "Canadian",
+    "argMentionid" : "AFP_ENG_20030527.0616-E2-42",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "AFP_ENG_20030527.0616-R2",
+  "mentionArg1" : {
+    "extent" : "Canadian Prime Minister Jean Chretien",
+    "argMentionid" : "AFP_ENG_20030527.0616-E20-41",
+    "start" : 13,
+    "end" : 17
+  },
+  "id" : "AFP_ENG_20030527.0616-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "WASHINGTON , May 27 ( AFP ) US President George W. Bush told Canadian Prime Minister Jean Chretien by telephone Monday that he looked forward to seeing him at the upcoming summit of major industrialized nations and Russia , the White House said Tuesday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WASHINGTON", ",", "May", "27", "(", "AFP", ")", "US", "President", "George", "W.", "Bush", "told", "Canadian", "Prime", "Minister", "Jean", "Chretien", "by", "telephone", "Monday", "that", "he", "looked", "forward", "to", "seeing", "him", "at", "the", "upcoming", "summit", "of", "major", "industrialized", "nations", "and", "Russia", ",", "the", "White", "House", "said", "Tuesday", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Canadian leader",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "Canadian",
+    "argMentionid" : "AFP_ENG_20030527.0616-E2-31",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "AFP_ENG_20030527.0616-R2",
+  "mentionArg1" : {
+    "extent" : "the Canadian leader",
+    "argMentionid" : "AFP_ENG_20030527.0616-E20-30",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "AFP_ENG_20030527.0616-R2-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "We just disagree on one item , \" the Canadian leader said .",
+  "sentence_index" : 7,
+  "Tokens" : [ "We", "just", "disagree", "on", "one", "item", ",", "\"", "the", "Canadian", "leader", "said", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Australian Prime Minster John Howard",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "Australian",
+    "argMentionid" : "AFP_ENG_20030527.0616-E12-18",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "AFP_ENG_20030527.0616-R3",
+  "mentionArg1" : {
+    "extent" : "Australian Prime Minster",
+    "argMentionid" : "AFP_ENG_20030527.0616-E10-17",
+    "start" : 27,
+    "end" : 29
+  },
+  "id" : "AFP_ENG_20030527.0616-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Amid a chill in relations over the war in Iraq , which Canada opposed , Bush indefinitely postponed a visit to Canada , instead choosing to host Australian Prime Minster John Howard , who endorsed that military campaign .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Amid", "a", "chill", "in", "relations", "over", "the", "war", "in", "Iraq", ",", "which", "Canada", "opposed", ",", "Bush", "indefinitely", "postponed", "a", "visit", "to", "Canada", ",", "instead", "choosing", "to", "host", "Australian", "Prime", "Minster", "John", "Howard", ",", "who", "endorsed", "that", "military", "campaign", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Both said they look forward to seeing each other in Evian",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "Evian",
+    "argMentionid" : "AFP_ENG_20030527.0616-E7-9",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "AFP_ENG_20030527.0616-R5",
+  "mentionArg1" : {
+    "extent" : "Both",
+    "argMentionid" : "AFP_ENG_20030527.0616-E31-7",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "AFP_ENG_20030527.0616-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "\" Both said they look forward to seeing each other in Evian .",
+  "sentence_index" : 2,
+  "Tokens" : [ "\"", "Both", "said", "they", "look", "forward", "to", "seeing", "each", "other", "in", "Evian", "." ]
+} ]

@@ -1,0 +1,265 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "the secretary of state",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "state",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E67-158",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R1",
+  "mentionArg1" : {
+    "extent" : "the secretary of state",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E1-156",
+    "start" : 11,
+    "end" : 14
+  },
+  "id" : "CNN_LE_20030504.1200.01-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Has the situation improved , especially in the aftermath now of the secretary of state 's meeting with Bashar al-Asad ?",
+  "sentence_index" : 3,
+  "Tokens" : [ "Has", "the", "situation", "improved", ",", "especially", "in", "the", "aftermath", "now", "of", "the", "secretary", "of", "state", "'s", "meeting", "with", "Bashar", "al-Asad", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The secretary of state",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "state",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E67-34",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R1",
+  "mentionArg1" : {
+    "extent" : "The secretary of state",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E1-33",
+    "start" : 1,
+    "end" : 4
+  },
+  "id" : "CNN_LE_20030504.1200.01-R1-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "BLITZER The secretary of state has written you a letter expressing , apparently , some concern about the length that the prisoners are going to be spending , those detained at the U.S. Naval base at Guantanamo Bay in Cuba , about 600 or so of them .",
+  "sentence_index" : 14,
+  "Tokens" : [ "BLITZER", "The", "secretary", "of", "state", "has", "written", "you", "a", "letter", "expressing", ",", "apparently", ",", "some", "concern", "about", "the", "length", "that", "the", "prisoners", "are", "going", "to", "be", "spending", ",", "those", "detained", "at", "the", "U.S.", "Naval", "base", "at", "Guantanamo", "Bay", "in", "Cuba", ",", "about", "600", "or", "so", "of", "them", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I know that Secretary Powell was just there and advised them that it was unhelpful, and gave them some pointers and some suggestions for the future",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E61-60",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R2",
+  "mentionArg1" : {
+    "extent" : "Secretary Powell",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E1-31",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "CNN_LE_20030504.1200.01-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I know that Secretary Powell was just there and advised them that it was unhelpful , and gave them some pointers and some suggestions for the future .",
+  "sentence_index" : 11,
+  "Tokens" : [ "I", "know", "that", "Secretary", "Powell", "was", "just", "there", "and", "advised", "them", "that", "it", "was", "unhelpful", ",", "and", "gave", "them", "some", "pointers", "and", "some", "suggestions", "for", "the", "future", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Guantanamo Bay in Cuba",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "Cuba",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E11-53",
+    "start" : 39,
+    "end" : 39
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R3",
+  "mentionArg1" : {
+    "extent" : "Guantanamo Bay in Cuba",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E10-142",
+    "start" : 36,
+    "end" : 39
+  },
+  "id" : "CNN_LE_20030504.1200.01-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "BLITZER The secretary of state has written you a letter expressing , apparently , some concern about the length that the prisoners are going to be spending , those detained at the U.S. Naval base at Guantanamo Bay in Cuba , about 600 or so of them .",
+  "sentence_index" : 14,
+  "Tokens" : [ "BLITZER", "The", "secretary", "of", "state", "has", "written", "you", "a", "letter", "expressing", ",", "apparently", ",", "some", "concern", "about", "the", "length", "that", "the", "prisoners", "are", "going", "to", "be", "spending", ",", "those", "detained", "at", "the", "U.S.", "Naval", "base", "at", "Guantanamo", "Bay", "in", "Cuba", ",", "about", "600", "or", "so", "of", "them", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Guantanamo Bay, Cuba",
+  "sentence_length" : 63,
+  "mentionArg2" : {
+    "extent" : "Cuba",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E11-78",
+    "start" : 32,
+    "end" : 32
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R3",
+  "mentionArg1" : {
+    "extent" : "Guantanamo Bay, Cuba",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E10-77",
+    "start" : 29,
+    "end" : 32
+  },
+  "id" : "CNN_LE_20030504.1200.01-R3-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "There are a number of countries , and the Department of State has the responsibility of dealing with those countries , that have foreign nationals in Gitmo , in Guantanamo Bay , Cuba , being detained , and those countries , understandably , would like to know when they could have those people.So the inter-agency process takes a great deal of time .",
+  "sentence_index" : 19,
+  "Tokens" : [ "There", "are", "a", "number", "of", "countries", ",", "and", "the", "Department", "of", "State", "has", "the", "responsibility", "of", "dealing", "with", "those", "countries", ",", "that", "have", "foreign", "nationals", "in", "Gitmo", ",", "in", "Guantanamo", "Bay", ",", "Cuba", ",", "being", "detained", ",", "and", "those", "countries", ",", "understandably", ",", "would", "like", "to", "know", "when", "they", "could", "have", "those", "people.So", "the", "inter-agency", "process", "takes", "a", "great", "deal", "of", "time", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Guantanamo Bay in Cuba",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "Cuba",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E11-53",
+    "start" : 39,
+    "end" : 39
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R3",
+  "mentionArg1" : {
+    "extent" : "Guantanamo Bay in Cuba",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E10-142",
+    "start" : 36,
+    "end" : 39
+  },
+  "id" : "CNN_LE_20030504.1200.01-R3-3",
+  "relationSubType" : "Geographical",
+  "Sentence" : "BLITZER The secretary of state has written you a letter expressing , apparently , some concern about the length that the prisoners are going to be spending , those detained at the U.S. Naval base at Guantanamo Bay in Cuba , about 600 or so of them .",
+  "sentence_index" : 14,
+  "Tokens" : [ "BLITZER", "The", "secretary", "of", "state", "has", "written", "you", "a", "letter", "expressing", ",", "apparently", ",", "some", "concern", "about", "the", "length", "that", "the", "prisoners", "are", "going", "to", "be", "spending", ",", "those", "detained", "at", "the", "U.S.", "Naval", "base", "at", "Guantanamo", "Bay", "in", "Cuba", ",", "about", "600", "or", "so", "of", "them", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "There are a number of countries, and the Department of State has the responsibility of dealing with those countries, that have foreign nationals in Gitmo, in Guantanamo Bay, Cuba, being detained, and those countries, understandably, would like to know when they could have those people",
+  "sentence_length" : 63,
+  "mentionArg2" : {
+    "extent" : "that have foreign nationals in Gitmo, in Guantanamo Bay, Cuba, being detained",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E20-74",
+    "start" : 21,
+    "end" : 35
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R4",
+  "mentionArg1" : {
+    "extent" : "foreign nationals in Gitmo, in Guantanamo Bay, Cuba",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E22-75",
+    "start" : 23,
+    "end" : 32
+  },
+  "id" : "CNN_LE_20030504.1200.01-R4-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "There are a number of countries , and the Department of State has the responsibility of dealing with those countries , that have foreign nationals in Gitmo , in Guantanamo Bay , Cuba , being detained , and those countries , understandably , would like to know when they could have those people.So the inter-agency process takes a great deal of time .",
+  "sentence_index" : 19,
+  "Tokens" : [ "There", "are", "a", "number", "of", "countries", ",", "and", "the", "Department", "of", "State", "has", "the", "responsibility", "of", "dealing", "with", "those", "countries", ",", "that", "have", "foreign", "nationals", "in", "Gitmo", ",", "in", "Guantanamo", "Bay", ",", "Cuba", ",", "being", "detained", ",", "and", "those", "countries", ",", "understandably", ",", "would", "like", "to", "know", "when", "they", "could", "have", "those", "people.So", "the", "inter-agency", "process", "takes", "a", "great", "deal", "of", "time", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "foreign nationals in Gitmo, in Guantanamo Bay, Cuba",
+  "sentence_length" : 63,
+  "mentionArg2" : {
+    "extent" : "Gitmo",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E10-76",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R5",
+  "mentionArg1" : {
+    "extent" : "foreign nationals in Gitmo, in Guantanamo Bay, Cuba",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E22-75",
+    "start" : 23,
+    "end" : 32
+  },
+  "id" : "CNN_LE_20030504.1200.01-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "There are a number of countries , and the Department of State has the responsibility of dealing with those countries , that have foreign nationals in Gitmo , in Guantanamo Bay , Cuba , being detained , and those countries , understandably , would like to know when they could have those people.So the inter-agency process takes a great deal of time .",
+  "sentence_index" : 19,
+  "Tokens" : [ "There", "are", "a", "number", "of", "countries", ",", "and", "the", "Department", "of", "State", "has", "the", "responsibility", "of", "dealing", "with", "those", "countries", ",", "that", "have", "foreign", "nationals", "in", "Gitmo", ",", "in", "Guantanamo", "Bay", ",", "Cuba", ",", "being", "detained", ",", "and", "those", "countries", ",", "understandably", ",", "would", "like", "to", "know", "when", "they", "could", "have", "those", "people.So", "the", "inter-agency", "process", "takes", "a", "great", "deal", "of", "time", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "What's the best way to do that? In the case of 1991, the task was to go in and get them out of Kuwait, and they did it, and they were properly greeted coming back to the United States",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "the United States",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E8-111",
+    "start" : 41,
+    "end" : 43
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R7",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E38-110",
+    "start" : 34,
+    "end" : 34
+  },
+  "id" : "CNN_LE_20030504.1200.01-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "What 's the best way to do that ?",
+  "sentence_index" : 27,
+  "Tokens" : [ "What", "'s", "the", "best", "way", "to", "do", "that", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Clinton administration",
+  "sentence_length" : 65,
+  "mentionArg2" : {
+    "extent" : "the Clinton administration",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E46-130",
+    "start" : 9,
+    "end" : 11
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R8",
+  "mentionArg1" : {
+    "extent" : "Clinton",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E45-129",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "CNN_LE_20030504.1200.01-R8-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "I know that back in the 1990s , in the Clinton administration , Secretary Perry called in the former secretaries of defense , and we had a discussion , and they clearly had teed up a military option that they were considering , and they then at a certain moment were able to do some things that persuaded them that that was not appropriate .",
+  "sentence_index" : 40,
+  "Tokens" : [ "I", "know", "that", "back", "in", "the", "1990s", ",", "in", "the", "Clinton", "administration", ",", "Secretary", "Perry", "called", "in", "the", "former", "secretaries", "of", "defense", ",", "and", "we", "had", "a", "discussion", ",", "and", "they", "clearly", "had", "teed", "up", "a", "military", "option", "that", "they", "were", "considering", ",", "and", "they", "then", "at", "a", "certain", "moment", "were", "able", "to", "do", "some", "things", "that", "persuaded", "them", "that", "that", "was", "not", "appropriate", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the U.S. Naval base at Guantanamo Bay in Cuba",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "Guantanamo Bay in Cuba",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E10-142",
+    "start" : 36,
+    "end" : 39
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R11",
+  "mentionArg1" : {
+    "extent" : "the U.S. Naval base at Guantanamo Bay in Cuba",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E53-141",
+    "start" : 31,
+    "end" : 39
+  },
+  "id" : "CNN_LE_20030504.1200.01-R11-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "BLITZER The secretary of state has written you a letter expressing , apparently , some concern about the length that the prisoners are going to be spending , those detained at the U.S. Naval base at Guantanamo Bay in Cuba , about 600 or so of them .",
+  "sentence_index" : 14,
+  "Tokens" : [ "BLITZER", "The", "secretary", "of", "state", "has", "written", "you", "a", "letter", "expressing", ",", "apparently", ",", "some", "concern", "about", "the", "length", "that", "the", "prisoners", "are", "going", "to", "be", "spending", ",", "those", "detained", "at", "the", "U.S.", "Naval", "base", "at", "Guantanamo", "Bay", "in", "Cuba", ",", "about", "600", "or", "so", "of", "them", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "those detained at the U.S. Naval base at Guantanamo Bay in Cuba",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "the U.S. Naval base at Guantanamo Bay in Cuba",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E53-141",
+    "start" : 31,
+    "end" : 39
+  },
+  "relationID" : "CNN_LE_20030504.1200.01-R12",
+  "mentionArg1" : {
+    "extent" : "those detained at the U.S. Naval base at Guantanamo Bay in Cuba",
+    "argMentionid" : "CNN_LE_20030504.1200.01-E6-48",
+    "start" : 28,
+    "end" : 39
+  },
+  "id" : "CNN_LE_20030504.1200.01-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "BLITZER The secretary of state has written you a letter expressing , apparently , some concern about the length that the prisoners are going to be spending , those detained at the U.S. Naval base at Guantanamo Bay in Cuba , about 600 or so of them .",
+  "sentence_index" : 14,
+  "Tokens" : [ "BLITZER", "The", "secretary", "of", "state", "has", "written", "you", "a", "letter", "expressing", ",", "apparently", ",", "some", "concern", "about", "the", "length", "that", "the", "prisoners", "are", "going", "to", "be", "spending", ",", "those", "detained", "at", "the", "U.S.", "Naval", "base", "at", "Guantanamo", "Bay", "in", "Cuba", ",", "about", "600", "or", "so", "of", "them", "." ]
+} ]

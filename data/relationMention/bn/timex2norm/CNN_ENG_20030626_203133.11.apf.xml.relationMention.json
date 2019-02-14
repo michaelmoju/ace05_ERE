@@ -1,0 +1,177 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a smithsonian in washington",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "washington",
+    "argMentionid" : "CNN_ENG_20030626_203133.11-E13-22",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "CNN_ENG_20030626_203133.11-R1",
+  "mentionArg1" : {
+    "extent" : "a smithsonian in washington",
+    "argMentionid" : "CNN_ENG_20030626_203133.11-E12-21",
+    "start" : 25,
+    "end" : 28
+  },
+  "id" : "CNN_ENG_20030626_203133.11-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "they 're calling it a one of a kind exhibit t rarest and most precious diamonds in the world on display starting tomorrow morning at a smithsonian in washington. they are huge rocks. kathleen coke got a private advanced tour of the vault and the diamonds .",
+  "sentence_index" : 0,
+  "Tokens" : [ "they", "'re", "calling", "it", "a", "one", "of", "a", "kind", "exhibit", "t", "rarest", "and", "most", "precious", "diamonds", "in", "the", "world", "on", "display", "starting", "tomorrow", "morning", "at", "a", "smithsonian", "in", "washington.", "they", "are", "huge", "rocks.", "kathleen", "coke", "got", "a", "private", "advanced", "tour", "of", "the", "vault", "and", "the", "diamonds", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "kathleen coke got a private advanced tour of the vault and the diamonds",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "the vault",
+    "argMentionid" : "CNN_ENG_20030626_203133.11-E15-24",
+    "start" : 41,
+    "end" : 42
+  },
+  "relationID" : "CNN_ENG_20030626_203133.11-R2",
+  "mentionArg1" : {
+    "extent" : "kathleen coke",
+    "argMentionid" : "CNN_ENG_20030626_203133.11-E14-23",
+    "start" : 33,
+    "end" : 34
+  },
+  "id" : "CNN_ENG_20030626_203133.11-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "they 're calling it a one of a kind exhibit t rarest and most precious diamonds in the world on display starting tomorrow morning at a smithsonian in washington. they are huge rocks. kathleen coke got a private advanced tour of the vault and the diamonds .",
+  "sentence_index" : 0,
+  "Tokens" : [ "they", "'re", "calling", "it", "a", "one", "of", "a", "kind", "exhibit", "t", "rarest", "and", "most", "precious", "diamonds", "in", "the", "world", "on", "display", "starting", "tomorrow", "morning", "at", "a", "smithsonian", "in", "washington.", "they", "are", "huge", "rocks.", "kathleen", "coke", "got", "a", "private", "advanced", "tour", "of", "the", "vault", "and", "the", "diamonds", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "in the heart of the museum of national history",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "the museum of national history",
+    "argMentionid" : "CNN_ENG_20030626_203133.11-E12-26",
+    "start" : 6,
+    "end" : 10
+  },
+  "relationID" : "CNN_ENG_20030626_203133.11-R3",
+  "mentionArg1" : {
+    "extent" : "in the heart of the museum of national history",
+    "argMentionid" : "CNN_ENG_20030626_203133.11-E16-25",
+    "start" : 2,
+    "end" : 10
+  },
+  "id" : "CNN_ENG_20030626_203133.11-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "reporter : in the heart of the museum of national history passed cabinets of artifacts. they are stored temporarily in a vault few people enter. we did interviews locked inside next to the seven perfect diamonds .",
+  "sentence_index" : 3,
+  "Tokens" : [ "reporter", ":", "in", "the", "heart", "of", "the", "museum", "of", "national", "history", "passed", "cabinets", "of", "artifacts.", "they", "are", "stored", "temporarily", "in", "a", "vault", "few", "people", "enter.", "we", "did", "interviews", "locked", "inside", "next", "to", "the", "seven", "perfect", "diamonds", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a hefty diamond that thieves took a stab at in london in 2000 using a bulldozier, sledgehammer and nail guns",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "london",
+    "argMentionid" : "CNN_ENG_20030626_203133.11-E19-30",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "CNN_ENG_20030626_203133.11-R4",
+  "mentionArg1" : {
+    "extent" : "thieves",
+    "argMentionid" : "CNN_ENG_20030626_203133.11-E18-29",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "CNN_ENG_20030626_203133.11-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "reporter : a hefty diamond that thieves took a stab at in london in 2000 using a bulldozier , sledgehammer and nail guns. police tipped off the raiding .",
+  "sentence_index" : 7,
+  "Tokens" : [ "reporter", ":", "a", "hefty", "diamond", "that", "thieves", "took", "a", "stab", "at", "in", "london", "in", "2000", "using", "a", "bulldozier", ",", "sledgehammer", "and", "nail", "guns.", "police", "tipped", "off", "the", "raiding", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a hefty diamond that thieves took a stab at in london in 2000 using a bulldozier, sledgehammer and nail guns",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "a bulldozier",
+    "argMentionid" : "CNN_ENG_20030626_203133.11-E20-31",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "CNN_ENG_20030626_203133.11-R5",
+  "mentionArg1" : {
+    "extent" : "thieves",
+    "argMentionid" : "CNN_ENG_20030626_203133.11-E18-29",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "CNN_ENG_20030626_203133.11-R5-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "reporter : a hefty diamond that thieves took a stab at in london in 2000 using a bulldozier , sledgehammer and nail guns. police tipped off the raiding .",
+  "sentence_index" : 7,
+  "Tokens" : [ "reporter", ":", "a", "hefty", "diamond", "that", "thieves", "took", "a", "stab", "at", "in", "london", "in", "2000", "using", "a", "bulldozier", ",", "sledgehammer", "and", "nail", "guns.", "police", "tipped", "off", "the", "raiding", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "kat len koch, cnn, washington",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "cnn",
+    "argMentionid" : "CNN_ENG_20030626_203133.11-E9-15",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "CNN_ENG_20030626_203133.11-R6",
+  "mentionArg1" : {
+    "extent" : "kat len koch",
+    "argMentionid" : "CNN_ENG_20030626_203133.11-E14-14",
+    "start" : 13,
+    "end" : 15
+  },
+  "id" : "CNN_ENG_20030626_203133.11-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "reporter : stars hyper ventilating and dig tears getting a tour of it. kat len koch , cnn , washington .",
+  "sentence_index" : 15,
+  "Tokens" : [ "reporter", ":", "stars", "hyper", "ventilating", "and", "dig", "tears", "getting", "a", "tour", "of", "it.", "kat", "len", "koch", ",", "cnn", ",", "washington", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "kat len koch, cnn, washington",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "washington",
+    "argMentionid" : "CNN_ENG_20030626_203133.11-E13-16",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "CNN_ENG_20030626_203133.11-R7",
+  "mentionArg1" : {
+    "extent" : "kat len koch",
+    "argMentionid" : "CNN_ENG_20030626_203133.11-E14-14",
+    "start" : 13,
+    "end" : 15
+  },
+  "id" : "CNN_ENG_20030626_203133.11-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "reporter : stars hyper ventilating and dig tears getting a tour of it. kat len koch , cnn , washington .",
+  "sentence_index" : 15,
+  "Tokens" : [ "reporter", ":", "stars", "hyper", "ventilating", "and", "dig", "tears", "getting", "a", "tour", "of", "it.", "kat", "len", "koch", ",", "cnn", ",", "washington", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the rest of the museum",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "the museum",
+    "argMentionid" : "CNN_ENG_20030626_203133.11-E12-12",
+    "start" : 42,
+    "end" : 43
+  },
+  "relationID" : "CNN_ENG_20030626_203133.11-R8",
+  "mentionArg1" : {
+    "extent" : "the rest of the museum",
+    "argMentionid" : "CNN_ENG_20030626_203133.11-E7-11",
+    "start" : 39,
+    "end" : 43
+  },
+  "id" : "CNN_ENG_20030626_203133.11-R8-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "reporter : assured because the collection will take place in the same room of the hope diamond. this room an actual vault with state-of-the-art security. iron doors hidden in panels close every night , sealing it off from the the rest of the museum .",
+  "sentence_index" : 14,
+  "Tokens" : [ "reporter", ":", "assured", "because", "the", "collection", "will", "take", "place", "in", "the", "same", "room", "of", "the", "hope", "diamond.", "this", "room", "an", "actual", "vault", "with", "state-of-the-art", "security.", "iron", "doors", "hidden", "in", "panels", "close", "every", "night", ",", "sealing", "it", "off", "from", "the", "the", "rest", "of", "the", "museum", "." ]
+} ]

@@ -1,0 +1,111 @@
+[ {
+  "relationType" : "ART",
+  "extent" : "the average affected car owner",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "car",
+    "argMentionid" : "BACONSREBELLION_20050216.1536-E20-36",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "BACONSREBELLION_20050216.1536-R1",
+  "mentionArg1" : {
+    "extent" : "the average affected car owner",
+    "argMentionid" : "BACONSREBELLION_20050216.1536-E23-35",
+    "start" : 13,
+    "end" : 17
+  },
+  "id" : "BACONSREBELLION_20050216.1536-R1-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "At present , that amount covers approximately 70 % of the tax for the average affected car owner .",
+  "sentence_index" : 2,
+  "Tokens" : [ "At", "present", ",", "that", "amount", "covers", "approximately", "70", "%", "of", "the", "tax", "for", "the", "average", "affected", "car", "owner", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "House and Senate budget conferees",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "House",
+    "argMentionid" : "BACONSREBELLION_20050216.1536-E17-38",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "BACONSREBELLION_20050216.1536-R2",
+  "mentionArg1" : {
+    "extent" : "House and Senate budget conferees",
+    "argMentionid" : "BACONSREBELLION_20050216.1536-E25-37",
+    "start" : 7,
+    "end" : 11
+  },
+  "id" : "BACONSREBELLION_20050216.1536-R2-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "The commitee action comes two days before House and Senate budget conferees are expected to begin negotiating differences in the respective proposals .",
+  "sentence_index" : 3,
+  "Tokens" : [ "The", "commitee", "action", "comes", "two", "days", "before", "House", "and", "Senate", "budget", "conferees", "are", "expected", "to", "begin", "negotiating", "differences", "in", "the", "respective", "proposals", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "House and Senate budget conferees",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Senate",
+    "argMentionid" : "BACONSREBELLION_20050216.1536-E1-39",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "BACONSREBELLION_20050216.1536-R3",
+  "mentionArg1" : {
+    "extent" : "House and Senate budget conferees",
+    "argMentionid" : "BACONSREBELLION_20050216.1536-E25-37",
+    "start" : 7,
+    "end" : 11
+  },
+  "id" : "BACONSREBELLION_20050216.1536-R3-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "The commitee action comes two days before House and Senate budget conferees are expected to begin negotiating differences in the respective proposals .",
+  "sentence_index" : 3,
+  "Tokens" : [ "The", "commitee", "action", "comes", "two", "days", "before", "House", "and", "Senate", "budget", "conferees", "are", "expected", "to", "begin", "negotiating", "differences", "in", "the", "respective", "proposals", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "It's simply mind-boggling that Chichester is allowed to single-handedly govern our entire state",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "our entire state",
+    "argMentionid" : "BACONSREBELLION_20050216.1536-E4-5",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "BACONSREBELLION_20050216.1536-R4",
+  "mentionArg1" : {
+    "extent" : "Chichester",
+    "argMentionid" : "BACONSREBELLION_20050216.1536-E3-4",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "BACONSREBELLION_20050216.1536-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "It 's simply mind-boggling that Chichester is allowed to single-handedly govern our entire state .",
+  "sentence_index" : 5,
+  "Tokens" : [ "It", "'s", "simply", "mind-boggling", "that", "Chichester", "is", "allowed", "to", "single-handedly", "govern", "our", "entire", "state", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "House Republicans",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "House",
+    "argMentionid" : "BACONSREBELLION_20050216.1536-E17-28",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "BACONSREBELLION_20050216.1536-R5",
+  "mentionArg1" : {
+    "extent" : "House Republicans",
+    "argMentionid" : "BACONSREBELLION_20050216.1536-E16-27",
+    "start" : 15,
+    "end" : 16
+  },
+  "id" : "BACONSREBELLION_20050216.1536-R5-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Barnie Day 2005-02-16T15:36:00 As expected the Senate Finance Committee this afternoon killed a proposal by House Republicans to finish implementation of the car tax cut by phasing out the remaining 30 % over the next six years .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Barnie", "Day", "2005-02-16T15:36:00", "As", "expected", "the", "Senate", "Finance", "Committee", "this", "afternoon", "killed", "a", "proposal", "by", "House", "Republicans", "to", "finish", "implementation", "of", "the", "car", "tax", "cut", "by", "phasing", "out", "the", "remaining", "30", "%", "over", "the", "next", "six", "years", "." ]
+} ]

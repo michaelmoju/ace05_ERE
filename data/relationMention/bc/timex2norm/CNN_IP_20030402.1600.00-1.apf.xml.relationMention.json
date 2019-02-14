@@ -1,0 +1,1233 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "U.S.-led forces were able to press farther north after defeating Iraqi Republican Guard units at Karbala and Kut",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Kut",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E3-4",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R1",
+  "mentionArg1" : {
+    "extent" : "Iraqi Republican Guard units",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E96-173",
+    "start" : 10,
+    "end" : 13
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "U.S.-led forces were able to press farther north after defeating Iraqi Republican Guard units at Karbala and Kut ( ph ) .",
+  "sentence_index" : 6,
+  "Tokens" : [ "U.S.-led", "forces", "were", "able", "to", "press", "farther", "north", "after", "defeating", "Iraqi", "Republican", "Guard", "units", "at", "Karbala", "and", "Kut", "(", "ph", ")", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. Army's 7th Cavalry",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "U.S. Army",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E14-24",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R2",
+  "mentionArg1" : {
+    "extent" : "U.S. Army's 7th Cavalry",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E13-23",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "U.S. Army 's 7th Cavalry is in the forefront of U.S. troops since they first left Kuwait and crossed directly into the Iraqi desert .",
+  "sentence_index" : 11,
+  "Tokens" : [ "U.S.", "Army", "'s", "7th", "Cavalry", "is", "in", "the", "forefront", "of", "U.S.", "troops", "since", "they", "first", "left", "Kuwait", "and", "crossed", "directly", "into", "the", "Iraqi", "desert", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the U.S. Army 7th Cavalry",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "U.S. Army",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E14-145",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R2",
+  "mentionArg1" : {
+    "extent" : "the U.S. Army 7th Cavalry",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E13-38",
+    "start" : 14,
+    "end" : 18
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R2-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "( BEGIN VIDEOTAPE ) WALTER RODGERS , CNN CORRESPONDENT Throughout the day , as the U.S. Army 7th Cavalry punched northward in the general direction of Baghdad , we have seen huge convoys of supply troops moving ever northward .",
+  "sentence_index" : 13,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "WALTER", "RODGERS", ",", "CNN", "CORRESPONDENT", "Throughout", "the", "day", ",", "as", "the", "U.S.", "Army", "7th", "Cavalry", "punched", "northward", "in", "the", "general", "direction", "of", "Baghdad", ",", "we", "have", "seen", "huge", "convoys", "of", "supply", "troops", "moving", "ever", "northward", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "The Apache troop",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Apache",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E84-158",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R3",
+  "mentionArg1" : {
+    "extent" : "The Apache troop",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E70-133",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R3-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The Apache troop opened its tank guns , opened its own mortars , decimated that unit , put it out of existence and probably killed some 20 Iraqis in the process .",
+  "sentence_index" : 25,
+  "Tokens" : [ "The", "Apache", "troop", "opened", "its", "tank", "guns", ",", "opened", "its", "own", "mortars", ",", "decimated", "that", "unit", ",", "put", "it", "out", "of", "existence", "and", "probably", "killed", "some", "20", "Iraqis", "in", "the", "process", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Our embedded reporters",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "Our",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E64-6",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R4",
+  "mentionArg1" : {
+    "extent" : "Our embedded reporters",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E4-5",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Our embedded reporters say the two-pronged advance appears to be moving faster than commanders expected .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Our", "embedded", "reporters", "say", "the", "two-pronged", "advance", "appears", "to", "be", "moving", "faster", "than", "commanders", "expected", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the U.S. 7th Cavalry",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E12-141",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R5",
+  "mentionArg1" : {
+    "extent" : "the U.S. 7th Cavalry",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E13-86",
+    "start" : 6,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Walter Rodgers , CNN , with the U.S. 7th Cavalry in the Iraqi desert .",
+  "sentence_index" : 27,
+  "Tokens" : [ "Walter", "Rodgers", ",", "CNN", ",", "with", "the", "U.S.", "7th", "Cavalry", "in", "the", "Iraqi", "desert", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Iraqi desert",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E20-88",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R6",
+  "mentionArg1" : {
+    "extent" : "the Iraqi desert",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E19-87",
+    "start" : 11,
+    "end" : 13
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R6-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Walter Rodgers , CNN , with the U.S. 7th Cavalry in the Iraqi desert .",
+  "sentence_index" : 27,
+  "Tokens" : [ "Walter", "Rodgers", ",", "CNN", ",", "with", "the", "U.S.", "7th", "Cavalry", "in", "the", "Iraqi", "desert", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Iraqi desert",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E20-31",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R6",
+  "mentionArg1" : {
+    "extent" : "the Iraqi desert",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E19-30",
+    "start" : 21,
+    "end" : 23
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R6-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "U.S. Army 's 7th Cavalry is in the forefront of U.S. troops since they first left Kuwait and crossed directly into the Iraqi desert .",
+  "sentence_index" : 11,
+  "Tokens" : [ "U.S.", "Army", "'s", "7th", "Cavalry", "is", "in", "the", "forefront", "of", "U.S.", "troops", "since", "they", "first", "left", "Kuwait", "and", "crossed", "directly", "into", "the", "Iraqi", "desert", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Walter Rodgers, CNN, with the U.S. 7th Cavalry in the Iraqi desert",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "the Iraqi desert",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E19-87",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R7",
+  "mentionArg1" : {
+    "extent" : "the U.S. 7th Cavalry",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E13-86",
+    "start" : 6,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Walter Rodgers , CNN , with the U.S. 7th Cavalry in the Iraqi desert .",
+  "sentence_index" : 27,
+  "Tokens" : [ "Walter", "Rodgers", ",", "CNN", ",", "with", "the", "U.S.", "7th", "Cavalry", "in", "the", "Iraqi", "desert", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the U.S. Army's 11th Attack Helicopter Regiment",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "the U.S. Army",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E14-96",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R8",
+  "mentionArg1" : {
+    "extent" : "the U.S. Army's 11th Attack Helicopter Regiment",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E49-95",
+    "start" : 4,
+    "end" : 11
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "He 's embedded with the U.S. Army 's 11th Attack Helicopter Regiment .",
+  "sentence_index" : 29,
+  "Tokens" : [ "He", "'s", "embedded", "with", "the", "U.S.", "Army", "'s", "11th", "Attack", "Helicopter", "Regiment", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The armor, and mechanized infantry, and artillery pieces and personnel on the ground",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "the ground",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E75-152",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R9",
+  "mentionArg1" : {
+    "extent" : "The armor, and mechanized infantry, and artillery pieces and personnel on the ground",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E52-101",
+    "start" : 0,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The armor , and mechanized infantry , and artillery pieces and personnel on the ground are moving at rapid speeds .",
+  "sentence_index" : 35,
+  "Tokens" : [ "The", "armor", ",", "and", "mechanized", "infantry", ",", "and", "artillery", "pieces", "and", "personnel", "on", "the", "ground", "are", "moving", "at", "rapid", "speeds", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The armor, and mechanized infantry, and artillery pieces and personnel on the ground",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "the ground",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E75-152",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R10",
+  "mentionArg1" : {
+    "extent" : "The armor, and mechanized infantry, and artillery pieces and personnel on the ground",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E53-102",
+    "start" : 0,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R10-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The armor , and mechanized infantry , and artillery pieces and personnel on the ground are moving at rapid speeds .",
+  "sentence_index" : 35,
+  "Tokens" : [ "The", "armor", ",", "and", "mechanized", "infantry", ",", "and", "artillery", "pieces", "and", "personnel", "on", "the", "ground", "are", "moving", "at", "rapid", "speeds", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the heart of the Iraqi capital",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "the Iraqi capital",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E89-166",
+    "start" : 13,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R11",
+  "mentionArg1" : {
+    "extent" : "the heart of the Iraqi capital",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E68-126",
+    "start" : 10,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R11-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The toughest fight , though , may lie ahead in the heart of the Iraqi capital .",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "toughest", "fight", ",", "though", ",", "may", "lie", "ahead", "in", "the", "heart", "of", "the", "Iraqi", "capital", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Our Walter Rodgers",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Our",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E64-33",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R12",
+  "mentionArg1" : {
+    "extent" : "Our Walter Rodgers",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E21-32",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R12-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Our Walter Rodgers is embedded with the unit 's 3rd Squadron , which is leading the 3rd Infantry Division 's march toward the Iraqi capital .",
+  "sentence_index" : 12,
+  "Tokens" : [ "Our", "Walter", "Rodgers", "is", "embedded", "with", "the", "unit", "'s", "3rd", "Squadron", ",", "which", "is", "leading", "the", "3rd", "Infantry", "Division", "'s", "march", "toward", "the", "Iraqi", "capital", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Walter Rodgers, CNN",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E64-155",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R12",
+  "mentionArg1" : {
+    "extent" : "Walter Rodgers",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E21-153",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R12-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Walter Rodgers , CNN , with the U.S. 7th Cavalry in the Iraqi desert .",
+  "sentence_index" : 27,
+  "Tokens" : [ "Walter", "Rodgers", ",", "CNN", ",", "with", "the", "U.S.", "7th", "Cavalry", "in", "the", "Iraqi", "desert", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "U.S.-led forces were able to press farther north after defeating Iraqi Republican Guard units at Karbala and Kut",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Karbala",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E2-3",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R13",
+  "mentionArg1" : {
+    "extent" : "Iraqi Republican Guard units",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E96-173",
+    "start" : 10,
+    "end" : 13
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R13-1",
+  "relationSubType" : "Located",
+  "Sentence" : "U.S.-led forces were able to press farther north after defeating Iraqi Republican Guard units at Karbala and Kut ( ph ) .",
+  "sentence_index" : 6,
+  "Tokens" : [ "U.S.-led", "forces", "were", "able", "to", "press", "farther", "north", "after", "defeating", "Iraqi", "Republican", "Guard", "units", "at", "Karbala", "and", "Kut", "(", "ph", ")", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "As of an hour or so ago, we got word from the battlefield that U.S. forces were just 15 miles away from the southern edge of Baghdad",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "the southern edge of Baghdad",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E88-163",
+    "start" : 23,
+    "end" : 27
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R14",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E82-125",
+    "start" : 15,
+    "end" : 16
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R14-1",
+  "relationSubType" : "Near",
+  "Sentence" : "As of an hour or so ago , we got word from the battlefield that U.S. forces were just 15 miles away from the southern edge of Baghdad .",
+  "sentence_index" : 2,
+  "Tokens" : [ "As", "of", "an", "hour", "or", "so", "ago", ",", "we", "got", "word", "from", "the", "battlefield", "that", "U.S.", "forces", "were", "just", "15", "miles", "away", "from", "the", "southern", "edge", "of", "Baghdad", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. forces",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E12-162",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R15",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E82-125",
+    "start" : 15,
+    "end" : 16
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R15-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "As of an hour or so ago , we got word from the battlefield that U.S. forces were just 15 miles away from the southern edge of Baghdad .",
+  "sentence_index" : 2,
+  "Tokens" : [ "As", "of", "an", "hour", "or", "so", "ago", ",", "we", "got", "word", "from", "the", "battlefield", "that", "U.S.", "forces", "were", "just", "15", "miles", "away", "from", "the", "southern", "edge", "of", "Baghdad", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the southern edge of Baghdad",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E89-164",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R16",
+  "mentionArg1" : {
+    "extent" : "the southern edge of Baghdad",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E88-163",
+    "start" : 23,
+    "end" : 27
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R16-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "As of an hour or so ago , we got word from the battlefield that U.S. forces were just 15 miles away from the southern edge of Baghdad .",
+  "sentence_index" : 2,
+  "Tokens" : [ "As", "of", "an", "hour", "or", "so", "ago", ",", "we", "got", "word", "from", "the", "battlefield", "that", "U.S.", "forces", "were", "just", "15", "miles", "away", "from", "the", "southern", "edge", "of", "Baghdad", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Iraqi capital",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E20-167",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R17",
+  "mentionArg1" : {
+    "extent" : "the Iraqi capital",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E89-166",
+    "start" : 13,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R17-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The toughest fight , though , may lie ahead in the heart of the Iraqi capital .",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "toughest", "fight", ",", "though", ",", "may", "lie", "ahead", "in", "the", "heart", "of", "the", "Iraqi", "capital", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Iraqi capital",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E20-37",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R17",
+  "mentionArg1" : {
+    "extent" : "the Iraqi capital",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E89-36",
+    "start" : 22,
+    "end" : 24
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R17-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Our Walter Rodgers is embedded with the unit 's 3rd Squadron , which is leading the 3rd Infantry Division 's march toward the Iraqi capital .",
+  "sentence_index" : 12,
+  "Tokens" : [ "Our", "Walter", "Rodgers", "is", "embedded", "with", "the", "unit", "'s", "3rd", "Squadron", ",", "which", "is", "leading", "the", "3rd", "Infantry", "Division", "'s", "march", "toward", "the", "Iraqi", "capital", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Iraqi capital",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E20-93",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R17",
+  "mentionArg1" : {
+    "extent" : "the Iraqi capital",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E89-92",
+    "start" : 26,
+    "end" : 28
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R17-3",
+  "relationSubType" : "Geographical",
+  "Sentence" : "( END VIDEOTAPE ) BLITZER And it 's a similar story from CNN 's Karl Penhaul who is now just miles from the southern outskirts of the Iraqi capital .",
+  "sentence_index" : 28,
+  "Tokens" : [ "(", "END", "VIDEOTAPE", ")", "BLITZER", "And", "it", "'s", "a", "similar", "story", "from", "CNN", "'s", "Karl", "Penhaul", "who", "is", "now", "just", "miles", "from", "the", "southern", "outskirts", "of", "the", "Iraqi", "capital", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Pentagon sources",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Pentagon",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E92-169",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R18",
+  "mentionArg1" : {
+    "extent" : "Pentagon sources",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E91-168",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R18-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Pentagon sources say the first phase of the final push into Baghdad is now under way .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Pentagon", "sources", "say", "the", "first", "phase", "of", "the", "final", "push", "into", "Baghdad", "is", "now", "under", "way", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "U.S.-led forces were able to press farther north after defeating Iraqi Republican Guard units at Karbala and Kut",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Karbala",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E2-3",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R19",
+  "mentionArg1" : {
+    "extent" : "U.S.-led forces",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E94-171",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R19-1",
+  "relationSubType" : "Located",
+  "Sentence" : "U.S.-led forces were able to press farther north after defeating Iraqi Republican Guard units at Karbala and Kut ( ph ) .",
+  "sentence_index" : 6,
+  "Tokens" : [ "U.S.-led", "forces", "were", "able", "to", "press", "farther", "north", "after", "defeating", "Iraqi", "Republican", "Guard", "units", "at", "Karbala", "and", "Kut", "(", "ph", ")", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "U.S.-led forces were able to press farther north after defeating Iraqi Republican Guard units at Karbala and Kut",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Kut",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E3-4",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R20",
+  "mentionArg1" : {
+    "extent" : "U.S.-led forces",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E94-171",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R20-1",
+  "relationSubType" : "Located",
+  "Sentence" : "U.S.-led forces were able to press farther north after defeating Iraqi Republican Guard units at Karbala and Kut ( ph ) .",
+  "sentence_index" : 6,
+  "Tokens" : [ "U.S.-led", "forces", "were", "able", "to", "press", "farther", "north", "after", "defeating", "Iraqi", "Republican", "Guard", "units", "at", "Karbala", "and", "Kut", "(", "ph", ")", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Iraqi Republican Guard units",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Iraqi Republican Guard",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E1-2",
+    "start" : 10,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R21",
+  "mentionArg1" : {
+    "extent" : "Iraqi Republican Guard units",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E96-173",
+    "start" : 10,
+    "end" : 13
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R21-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "U.S.-led forces were able to press farther north after defeating Iraqi Republican Guard units at Karbala and Kut ( ph ) .",
+  "sentence_index" : 6,
+  "Tokens" : [ "U.S.-led", "forces", "were", "able", "to", "press", "farther", "north", "after", "defeating", "Iraqi", "Republican", "Guard", "units", "at", "Karbala", "and", "Kut", "(", "ph", ")", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Republican Guard divisions defending Baghdad",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Republican Guard",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E1-12",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R22",
+  "mentionArg1" : {
+    "extent" : "the Republican Guard divisions defending Baghdad",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E7-11",
+    "start" : 5,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R22-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The Pentagon says two of the Republican Guard divisions defending Baghdad are no longer credible forces .",
+  "sentence_index" : 8,
+  "Tokens" : [ "The", "Pentagon", "says", "two", "of", "the", "Republican", "Guard", "divisions", "defending", "Baghdad", "are", "no", "longer", "credible", "forces", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. forces",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E12-18",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R23",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E11-17",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R23-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Iraqis who initially were cautious when U.S. forces arrived in Najaf ended cheering them on , shaking their hands and patting their backs .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Iraqis", "who", "initially", "were", "cautious", "when", "U.S.", "forces", "arrived", "in", "Najaf", "ended", "cheering", "them", "on", ",", "shaking", "their", "hands", "and", "patting", "their", "backs", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Iraqis who initially were cautious when U.S. forces arrived in Najaf ended cheering them on, shaking their hands and patting their backs",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Najaf",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E9-19",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R24",
+  "mentionArg1" : {
+    "extent" : "U.S. forces",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E11-17",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R24-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Iraqis who initially were cautious when U.S. forces arrived in Najaf ended cheering them on , shaking their hands and patting their backs .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Iraqis", "who", "initially", "were", "cautious", "when", "U.S.", "forces", "arrived", "in", "Najaf", "ended", "cheering", "them", "on", ",", "shaking", "their", "hands", "and", "patting", "their", "backs", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. troops",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E12-27",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R25",
+  "mentionArg1" : {
+    "extent" : "U.S. troops",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E16-26",
+    "start" : 10,
+    "end" : 11
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R25-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "U.S. Army 's 7th Cavalry is in the forefront of U.S. troops since they first left Kuwait and crossed directly into the Iraqi desert .",
+  "sentence_index" : 11,
+  "Tokens" : [ "U.S.", "Army", "'s", "7th", "Cavalry", "is", "in", "the", "forefront", "of", "U.S.", "troops", "since", "they", "first", "left", "Kuwait", "and", "crossed", "directly", "into", "the", "Iraqi", "desert", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "U.S. Army's 7th Cavalry is in the forefront of U.S. troops since they first left Kuwait and crossed directly into the Iraqi desert",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Kuwait",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E18-29",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R26",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E16-28",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R26-1",
+  "relationSubType" : "Located",
+  "Sentence" : "U.S. Army 's 7th Cavalry is in the forefront of U.S. troops since they first left Kuwait and crossed directly into the Iraqi desert .",
+  "sentence_index" : 11,
+  "Tokens" : [ "U.S.", "Army", "'s", "7th", "Cavalry", "is", "in", "the", "forefront", "of", "U.S.", "troops", "since", "they", "first", "left", "Kuwait", "and", "crossed", "directly", "into", "the", "Iraqi", "desert", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "U.S. Army's 7th Cavalry is in the forefront of U.S. troops since they first left Kuwait and crossed directly into the Iraqi desert",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the Iraqi desert",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E19-30",
+    "start" : 21,
+    "end" : 23
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R27",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E16-28",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R27-1",
+  "relationSubType" : "Located",
+  "Sentence" : "U.S. Army 's 7th Cavalry is in the forefront of U.S. troops since they first left Kuwait and crossed directly into the Iraqi desert .",
+  "sentence_index" : 11,
+  "Tokens" : [ "U.S.", "Army", "'s", "7th", "Cavalry", "is", "in", "the", "forefront", "of", "U.S.", "troops", "since", "they", "first", "left", "Kuwait", "and", "crossed", "directly", "into", "the", "Iraqi", "desert", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the unit's 3rd Squadron, which is leading the 3rd Infantry Division's march toward the Iraqi capital",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "the unit",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E81-150",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R29",
+  "mentionArg1" : {
+    "extent" : "the unit's 3rd Squadron, which is leading the 3rd Infantry Division's march toward the Iraqi capital",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E23-54",
+    "start" : 6,
+    "end" : 24
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R29-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Our Walter Rodgers is embedded with the unit 's 3rd Squadron , which is leading the 3rd Infantry Division 's march toward the Iraqi capital .",
+  "sentence_index" : 12,
+  "Tokens" : [ "Our", "Walter", "Rodgers", "is", "embedded", "with", "the", "unit", "'s", "3rd", "Squadron", ",", "which", "is", "leading", "the", "3rd", "Infantry", "Division", "'s", "march", "toward", "the", "Iraqi", "capital", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the southern suburbs of Baghdad",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E89-46",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R32",
+  "mentionArg1" : {
+    "extent" : "the southern suburbs of Baghdad",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E31-45",
+    "start" : 18,
+    "end" : 22
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R32-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Indeed , all the arrows on the Army 's map seem to be pointing in the direction of the southern suburbs of Baghdad .",
+  "sentence_index" : 14,
+  "Tokens" : [ "Indeed", ",", "all", "the", "arrows", "on", "the", "Army", "'s", "map", "seem", "to", "be", "pointing", "in", "the", "direction", "of", "the", "southern", "suburbs", "of", "Baghdad", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the southern suburbs of Baghdad",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E89-58",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R32",
+  "mentionArg1" : {
+    "extent" : "the southern suburbs of Baghdad",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E31-57",
+    "start" : 7,
+    "end" : 11
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R32-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Yesterday we were about 50 miles from the southern suburbs of Baghdad .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Yesterday", "we", "were", "about", "50", "miles", "from", "the", "southern", "suburbs", "of", "Baghdad", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the southern suburbs of Baghdad",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E89-85",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R32",
+  "mentionArg1" : {
+    "extent" : "the southern suburbs of Baghdad",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E31-84",
+    "start" : 9,
+    "end" : 13
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R32-3",
+  "relationSubType" : "Geographical",
+  "Sentence" : "This as it continues to push ever closer towards the southern suburbs of Baghdad .",
+  "sentence_index" : 26,
+  "Tokens" : [ "This", "as", "it", "continues", "to", "push", "ever", "closer", "towards", "the", "southern", "suburbs", "of", "Baghdad", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the 1st Brigade of the 3rd Infantry Division",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "the 3rd Infantry Division",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E27-39",
+    "start" : 9,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R33",
+  "mentionArg1" : {
+    "extent" : "the 1st Brigade of the 3rd Infantry Division",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E32-47",
+    "start" : 5,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R33-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Earlier in the day , the 1st Brigade of the 3rd Infantry Division took Karbala with a minimum of fight .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Earlier", "in", "the", "day", ",", "the", "1st", "Brigade", "of", "the", "3rd", "Infantry", "Division", "took", "Karbala", "with", "a", "minimum", "of", "fight", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the 3rd Brigade of the 3rd Infantry Division",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "the 3rd Infantry Division",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E27-48",
+    "start" : 6,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R34",
+  "mentionArg1" : {
+    "extent" : "the 3rd Brigade of the 3rd Infantry Division",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E33-50",
+    "start" : 2,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R34-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "And then the 3rd Brigade of the 3rd Infantry Division secured the town of Karbala .",
+  "sentence_index" : 16,
+  "Tokens" : [ "And", "then", "the", "3rd", "Brigade", "of", "the", "3rd", "Infantry", "Division", "secured", "the", "town", "of", "Karbala", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Yesterday we were about 50 miles from the southern suburbs of Baghdad",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "the southern suburbs of Baghdad",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E31-57",
+    "start" : 7,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R35",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E28-56",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R35-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Yesterday we were about 50 miles from the southern suburbs of Baghdad .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Yesterday", "we", "were", "about", "50", "miles", "from", "the", "southern", "suburbs", "of", "Baghdad", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Iraqi soldiers glad the war is over for them",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E20-64",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R37",
+  "mentionArg1" : {
+    "extent" : "Iraqi soldiers glad the war is over for them",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E34-63",
+    "start" : 0,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R37-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Iraqi soldiers glad the war is over for them , perhaps 100 at a time .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Iraqi", "soldiers", "glad", "the", "war", "is", "over", "for", "them", ",", "perhaps", "100", "at", "a", "time", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "three Soviet vintage 20- millimeter anti-aircraft guns",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "three Soviet vintage 20- millimeter anti-aircraft guns",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E15-9",
+    "start" : 13,
+    "end" : 19
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R38",
+  "mentionArg1" : {
+    "extent" : "Soviet",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E22-25",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R38-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "There was a bit of a firefight when the 7th Cavalry came upon three Soviet vintage 20- millimeter anti-aircraft guns , ack-ack guns .",
+  "sentence_index" : 23,
+  "Tokens" : [ "There", "was", "a", "bit", "of", "a", "firefight", "when", "the", "7th", "Cavalry", "came", "upon", "three", "Soviet", "vintage", "20-", "millimeter", "anti-aircraft", "guns", ",", "ack-ack", "guns", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The Iraqi unit in possession of those guns",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E20-73",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R39",
+  "mentionArg1" : {
+    "extent" : "The Iraqi unit in possession of those guns",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E37-72",
+    "start" : 0,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R39-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The Iraqi unit in possession of those guns fired mortars in the direction of the 7th Cavalry .",
+  "sentence_index" : 24,
+  "Tokens" : [ "The", "Iraqi", "unit", "in", "possession", "of", "those", "guns", "fired", "mortars", "in", "the", "direction", "of", "the", "7th", "Cavalry", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "The Iraqi unit in possession of those guns",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "those guns",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E15-74",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R40",
+  "mentionArg1" : {
+    "extent" : "The Iraqi unit in possession of those guns",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E37-72",
+    "start" : 0,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R40-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The Iraqi unit in possession of those guns fired mortars in the direction of the 7th Cavalry .",
+  "sentence_index" : 24,
+  "Tokens" : [ "The", "Iraqi", "unit", "in", "possession", "of", "those", "guns", "fired", "mortars", "in", "the", "direction", "of", "the", "7th", "Cavalry", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "its tank guns",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "its tank guns",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E40-78",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R41",
+  "mentionArg1" : {
+    "extent" : "its",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E70-147",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R41-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The Apache troop opened its tank guns , opened its own mortars , decimated that unit , put it out of existence and probably killed some 20 Iraqis in the process .",
+  "sentence_index" : 25,
+  "Tokens" : [ "The", "Apache", "troop", "opened", "its", "tank", "guns", ",", "opened", "its", "own", "mortars", ",", "decimated", "that", "unit", ",", "put", "it", "out", "of", "existence", "and", "probably", "killed", "some", "20", "Iraqis", "in", "the", "process", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "its own mortars",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "its own mortars",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E42-80",
+    "start" : 9,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R42",
+  "mentionArg1" : {
+    "extent" : "its",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E70-148",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R42-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The Apache troop opened its tank guns , opened its own mortars , decimated that unit , put it out of existence and probably killed some 20 Iraqis in the process .",
+  "sentence_index" : 25,
+  "Tokens" : [ "The", "Apache", "troop", "opened", "its", "tank", "guns", ",", "opened", "its", "own", "mortars", ",", "decimated", "that", "unit", ",", "put", "it", "out", "of", "existence", "and", "probably", "killed", "some", "20", "Iraqis", "in", "the", "process", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Walter Rodgers, CNN, with the U.S. 7th Cavalry in the Iraqi desert",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "the Iraqi desert",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E19-87",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R46",
+  "mentionArg1" : {
+    "extent" : "Walter Rodgers",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E21-153",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R46-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Walter Rodgers , CNN , with the U.S. 7th Cavalry in the Iraqi desert .",
+  "sentence_index" : 27,
+  "Tokens" : [ "Walter", "Rodgers", ",", "CNN", ",", "with", "the", "U.S.", "7th", "Cavalry", "in", "the", "Iraqi", "desert", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "CNN's Karl Penhaul who is now just miles from the southern outskirts of the Iraqi capital",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E64-156",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R47",
+  "mentionArg1" : {
+    "extent" : "CNN's Karl Penhaul who is now just miles from the southern outskirts of the Iraqi capital",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E46-89",
+    "start" : 12,
+    "end" : 28
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R47-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "( END VIDEOTAPE ) BLITZER And it 's a similar story from CNN 's Karl Penhaul who is now just miles from the southern outskirts of the Iraqi capital .",
+  "sentence_index" : 28,
+  "Tokens" : [ "(", "END", "VIDEOTAPE", ")", "BLITZER", "And", "it", "'s", "a", "similar", "story", "from", "CNN", "'s", "Karl", "Penhaul", "who", "is", "now", "just", "miles", "from", "the", "southern", "outskirts", "of", "the", "Iraqi", "capital", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "CNN's Karl Penhaul who is now just miles from the southern outskirts of the Iraqi capital",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "the southern outskirts of the Iraqi capital",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E47-91",
+    "start" : 22,
+    "end" : 28
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R48",
+  "mentionArg1" : {
+    "extent" : "CNN's Karl Penhaul who is now just miles from the southern outskirts of the Iraqi capital",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E46-89",
+    "start" : 12,
+    "end" : 28
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R48-1",
+  "relationSubType" : "Near",
+  "Sentence" : "( END VIDEOTAPE ) BLITZER And it 's a similar story from CNN 's Karl Penhaul who is now just miles from the southern outskirts of the Iraqi capital .",
+  "sentence_index" : 28,
+  "Tokens" : [ "(", "END", "VIDEOTAPE", ")", "BLITZER", "And", "it", "'s", "a", "similar", "story", "from", "CNN", "'s", "Karl", "Penhaul", "who", "is", "now", "just", "miles", "from", "the", "southern", "outskirts", "of", "the", "Iraqi", "capital", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the southern outskirts of the Iraqi capital",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "the Iraqi capital",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E89-92",
+    "start" : 26,
+    "end" : 28
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R50",
+  "mentionArg1" : {
+    "extent" : "the southern outskirts of the Iraqi capital",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E47-91",
+    "start" : 22,
+    "end" : 28
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R50-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "( END VIDEOTAPE ) BLITZER And it 's a similar story from CNN 's Karl Penhaul who is now just miles from the southern outskirts of the Iraqi capital .",
+  "sentence_index" : 28,
+  "Tokens" : [ "(", "END", "VIDEOTAPE", ")", "BLITZER", "And", "it", "'s", "a", "similar", "story", "from", "CNN", "'s", "Karl", "Penhaul", "who", "is", "now", "just", "miles", "from", "the", "southern", "outskirts", "of", "the", "Iraqi", "capital", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the tanks and Bradley fighting vehicles of the 3rd Infantry Division",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "the tanks and Bradley fighting vehicles of the 3rd Infantry Division",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E54-103",
+    "start" : 7,
+    "end" : 17
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R51",
+  "mentionArg1" : {
+    "extent" : "the 3rd Infantry Division",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E27-106",
+    "start" : 14,
+    "end" : 17
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R51-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "PENHAUL Overnight and early this morning , the tanks and Bradley fighting vehicles of the 3rd Infantry Division backed by the Apache attack helicopters of the 11th Aviation Regiment punched through the Republican Guard defenses in and around Karbala .",
+  "sentence_index" : 36,
+  "Tokens" : [ "PENHAUL", "Overnight", "and", "early", "this", "morning", ",", "the", "tanks", "and", "Bradley", "fighting", "vehicles", "of", "the", "3rd", "Infantry", "Division", "backed", "by", "the", "Apache", "attack", "helicopters", "of", "the", "11th", "Aviation", "Regiment", "punched", "through", "the", "Republican", "Guard", "defenses", "in", "and", "around", "Karbala", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the tanks and Bradley fighting vehicles of the 3rd Infantry Division",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "the tanks and Bradley fighting vehicles of the 3rd Infantry Division",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E55-104",
+    "start" : 7,
+    "end" : 17
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R52",
+  "mentionArg1" : {
+    "extent" : "the 3rd Infantry Division",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E27-106",
+    "start" : 14,
+    "end" : 17
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R52-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "PENHAUL Overnight and early this morning , the tanks and Bradley fighting vehicles of the 3rd Infantry Division backed by the Apache attack helicopters of the 11th Aviation Regiment punched through the Republican Guard defenses in and around Karbala .",
+  "sentence_index" : 36,
+  "Tokens" : [ "PENHAUL", "Overnight", "and", "early", "this", "morning", ",", "the", "tanks", "and", "Bradley", "fighting", "vehicles", "of", "the", "3rd", "Infantry", "Division", "backed", "by", "the", "Apache", "attack", "helicopters", "of", "the", "11th", "Aviation", "Regiment", "punched", "through", "the", "Republican", "Guard", "defenses", "in", "and", "around", "Karbala", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the Apache attack helicopters of the 11th Aviation Regiment",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "the Apache attack helicopters of the 11th Aviation Regiment",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E57-107",
+    "start" : 20,
+    "end" : 28
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R53",
+  "mentionArg1" : {
+    "extent" : "the 11th Aviation Regiment",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E63-118",
+    "start" : 25,
+    "end" : 28
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R53-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "PENHAUL Overnight and early this morning , the tanks and Bradley fighting vehicles of the 3rd Infantry Division backed by the Apache attack helicopters of the 11th Aviation Regiment punched through the Republican Guard defenses in and around Karbala .",
+  "sentence_index" : 36,
+  "Tokens" : [ "PENHAUL", "Overnight", "and", "early", "this", "morning", ",", "the", "tanks", "and", "Bradley", "fighting", "vehicles", "of", "the", "3rd", "Infantry", "Division", "backed", "by", "the", "Apache", "attack", "helicopters", "of", "the", "11th", "Aviation", "Regiment", "punched", "through", "the", "Republican", "Guard", "defenses", "in", "and", "around", "Karbala", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. commanders",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E12-115",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R54",
+  "mentionArg1" : {
+    "extent" : "U.S. commanders",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E61-114",
+    "start" : 17,
+    "end" : 18
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R54-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "They were then able to advance far north of that city and , as we speak , U.S. commanders tell me that elements of the 3rd Infantry Division are now literally just a few miles from Baghdad .",
+  "sentence_index" : 37,
+  "Tokens" : [ "They", "were", "then", "able", "to", "advance", "far", "north", "of", "that", "city", "and", ",", "as", "we", "speak", ",", "U.S.", "commanders", "tell", "me", "that", "elements", "of", "the", "3rd", "Infantry", "Division", "are", "now", "literally", "just", "a", "few", "miles", "from", "Baghdad", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "elements of the 3rd Infantry Division",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "the 3rd Infantry Division",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E27-77",
+    "start" : 24,
+    "end" : 27
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R55",
+  "mentionArg1" : {
+    "extent" : "elements of the 3rd Infantry Division",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E65-123",
+    "start" : 22,
+    "end" : 27
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R55-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "They were then able to advance far north of that city and , as we speak , U.S. commanders tell me that elements of the 3rd Infantry Division are now literally just a few miles from Baghdad .",
+  "sentence_index" : 37,
+  "Tokens" : [ "They", "were", "then", "able", "to", "advance", "far", "north", "of", "that", "city", "and", ",", "as", "we", "speak", ",", "U.S.", "commanders", "tell", "me", "that", "elements", "of", "the", "3rd", "Infantry", "Division", "are", "now", "literally", "just", "a", "few", "miles", "from", "Baghdad", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "They were then able to advance far north of that city and, as we speak, U.S. commanders tell me that elements of the 3rd Infantry Division are now literally just a few miles from Baghdad",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E89-117",
+    "start" : 36,
+    "end" : 36
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R56",
+  "mentionArg1" : {
+    "extent" : "elements of the 3rd Infantry Division",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E65-123",
+    "start" : 22,
+    "end" : 27
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R56-1",
+  "relationSubType" : "Near",
+  "Sentence" : "They were then able to advance far north of that city and , as we speak , U.S. commanders tell me that elements of the 3rd Infantry Division are now literally just a few miles from Baghdad .",
+  "sentence_index" : 37,
+  "Tokens" : [ "They", "were", "then", "able", "to", "advance", "far", "north", "of", "that", "city", "and", ",", "as", "we", "speak", ",", "U.S.", "commanders", "tell", "me", "that", "elements", "of", "the", "3rd", "Infantry", "Division", "are", "now", "literally", "just", "a", "few", "miles", "from", "Baghdad", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "its tank guns",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "tank",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E41-79",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030402.1600.00-1-R57",
+  "mentionArg1" : {
+    "extent" : "its tank guns",
+    "argMentionid" : "CNN_IP_20030402.1600.00-1-E40-78",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030402.1600.00-1-R57-1",
+  "relationSubType" : "Artifact",
+  "Sentence" : "The Apache troop opened its tank guns , opened its own mortars , decimated that unit , put it out of existence and probably killed some 20 Iraqis in the process .",
+  "sentence_index" : 25,
+  "Tokens" : [ "The", "Apache", "troop", "opened", "its", "tank", "guns", ",", "opened", "its", "own", "mortars", ",", "decimated", "that", "unit", ",", "put", "it", "out", "of", "existence", "and", "probably", "killed", "some", "20", "Iraqis", "in", "the", "process", "." ]
+} ]

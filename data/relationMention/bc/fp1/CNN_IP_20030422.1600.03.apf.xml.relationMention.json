@@ -1,0 +1,485 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "an audience in New Mexico last night",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "New Mexico",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E92-150",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030422.1600.03-R1",
+  "mentionArg1" : {
+    "extent" : "an audience in New Mexico last night",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E91-149",
+    "start" : 2,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030422.1600.03-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Hart told an audience in New Mexico last night that Republicans should not underestimate him .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Hart", "told", "an", "audience", "in", "New", "Mexico", "last", "night", "that", "Republicans", "should", "not", "underestimate", "him", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Former Democratic Senator",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Democratic",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E4-4",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "CNN_IP_20030422.1600.03-R2",
+  "mentionArg1" : {
+    "extent" : "Former Democratic Senator",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E2-3",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030422.1600.03-R2-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Former Democratic Senator Bob Torricelli recently used cash remaining in his own campaign fund to back one of the Democratic presidential hopefuls .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Former", "Democratic", "Senator", "Bob", "Torricelli", "recently", "used", "cash", "remaining", "in", "his", "own", "campaign", "fund", "to", "back", "one", "of", "the", "Democratic", "presidential", "hopefuls", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Democratic presidential hopefuls",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Democratic",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E4-8",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "CNN_IP_20030422.1600.03-R3",
+  "mentionArg1" : {
+    "extent" : "the Democratic presidential hopefuls",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E6-7",
+    "start" : 18,
+    "end" : 21
+  },
+  "id" : "CNN_IP_20030422.1600.03-R3-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Former Democratic Senator Bob Torricelli recently used cash remaining in his own campaign fund to back one of the Democratic presidential hopefuls .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Former", "Democratic", "Senator", "Bob", "Torricelli", "recently", "used", "cash", "remaining", "in", "his", "own", "campaign", "fund", "to", "back", "one", "of", "the", "Democratic", "presidential", "hopefuls", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the nine Democratic presidential hopefuls",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Democratic",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E4-33",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030422.1600.03-R3",
+  "mentionArg1" : {
+    "extent" : "the nine Democratic presidential hopefuls",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E6-32",
+    "start" : 8,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030422.1600.03-R3-2",
+  "relationSubType" : "Membership",
+  "Sentence" : "POLITICAL CORRESPONDENT ( voice-over ) All told , the nine Democratic presidential hopefuls raised almost $24 million in the first quarter of this year .",
+  "sentence_index" : 13,
+  "Tokens" : [ "POLITICAL", "CORRESPONDENT", "(", "voice-over", ")", "All", "told", ",", "the", "nine", "Democratic", "presidential", "hopefuls", "raised", "almost", "$24", "million", "in", "the", "first", "quarter", "of", "this", "year", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "former Democratic Senate",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Democratic",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E4-19",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030422.1600.03-R4",
+  "mentionArg1" : {
+    "extent" : "former Democratic Senate",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E13-18",
+    "start" : 11,
+    "end" : 13
+  },
+  "id" : "CNN_IP_20030422.1600.03-R4-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "The records show Torricelli has not donated to any of his former Democratic Senate colleagues who are now running for president .",
+  "sentence_index" : 8,
+  "Tokens" : [ "The", "records", "show", "Torricelli", "has", "not", "donated", "to", "any", "of", "his", "former", "Democratic", "Senate", "colleagues", "who", "are", "now", "running", "for", "president", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Hollywood celebrities",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "Hollywood",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E18-24",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030422.1600.03-R5",
+  "mentionArg1" : {
+    "extent" : "Hollywood celebrities",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E17-23",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030422.1600.03-R5-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "But in the eyes of many Democrats , getting donations from Hollywood celebrities is priceless .",
+  "sentence_index" : 10,
+  "Tokens" : [ "But", "in", "the", "eyes", "of", "many", "Democrats", ",", "getting", "donations", "from", "Hollywood", "celebrities", "is", "priceless", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Our senior political correspondent",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Our",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E20-26",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030422.1600.03-R6",
+  "mentionArg1" : {
+    "extent" : "Our senior political correspondent",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E21-27",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030422.1600.03-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Our senior political correspondent Candy Crowley has more on the stars and their feature roles in the money race .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Our", "senior", "political", "correspondent", "Candy", "Crowley", "has", "more", "on", "the", "stars", "and", "their", "feature", "roles", "in", "the", "money", "race", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Malcolm's mom, who is really married to President Bartlet's deputy chief of staff",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "Malcolm's mom, who is really married to President Bartlet's deputy chief of staff",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E29-38",
+    "start" : 17,
+    "end" : 32
+  },
+  "relationID" : "CNN_IP_20030422.1600.03-R7",
+  "mentionArg1" : {
+    "extent" : "Malcolm",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E28-37",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "CNN_IP_20030422.1600.03-R7-1",
+  "relationSubType" : "Family",
+  "Sentence" : "For instance , what do you suppose the real-life dinner conversations are like at the home of Malcolm 's mom , who is really married to President Bartlet 's deputy chief of staff .",
+  "sentence_index" : 16,
+  "Tokens" : [ "For", "instance", ",", "what", "do", "you", "suppose", "the", "real-life", "dinner", "conversations", "are", "like", "at", "the", "home", "of", "Malcolm", "'s", "mom", ",", "who", "is", "really", "married", "to", "President", "Bartlet", "'s", "deputy", "chief", "of", "staff", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "President Bartlet's deputy chief of staff",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "President Bartlet's deputy chief of staff",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E30-40",
+    "start" : 26,
+    "end" : 32
+  },
+  "relationID" : "CNN_IP_20030422.1600.03-R8",
+  "mentionArg1" : {
+    "extent" : "President Bartlet",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E31-41",
+    "start" : 26,
+    "end" : 27
+  },
+  "id" : "CNN_IP_20030422.1600.03-R8-1",
+  "relationSubType" : "Business",
+  "Sentence" : "For instance , what do you suppose the real-life dinner conversations are like at the home of Malcolm 's mom , who is really married to President Bartlet 's deputy chief of staff .",
+  "sentence_index" : 16,
+  "Tokens" : [ "For", "instance", ",", "what", "do", "you", "suppose", "the", "real-life", "dinner", "conversations", "are", "like", "at", "the", "home", "of", "Malcolm", "'s", "mom", ",", "who", "is", "really", "married", "to", "President", "Bartlet", "'s", "deputy", "chief", "of", "staff", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "For instance, what do you suppose the real-life dinner conversations are like at the home of Malcolm's mom, who is really married to President Bartlet's deputy chief of staff",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "President Bartlet's deputy chief of staff",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E30-40",
+    "start" : 26,
+    "end" : 32
+  },
+  "relationID" : "CNN_IP_20030422.1600.03-R9",
+  "mentionArg1" : {
+    "extent" : "Malcolm's mom, who is really married to President Bartlet's deputy chief of staff",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E29-38",
+    "start" : 17,
+    "end" : 32
+  },
+  "id" : "CNN_IP_20030422.1600.03-R9-1",
+  "relationSubType" : "Family",
+  "Sentence" : "For instance , what do you suppose the real-life dinner conversations are like at the home of Malcolm 's mom , who is really married to President Bartlet 's deputy chief of staff .",
+  "sentence_index" : 16,
+  "Tokens" : [ "For", "instance", ",", "what", "do", "you", "suppose", "the", "real-life", "dinner", "conversations", "are", "like", "at", "the", "home", "of", "Malcolm", "'s", "mom", ",", "who", "is", "really", "married", "to", "President", "Bartlet", "'s", "deputy", "chief", "of", "staff", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a Hollywood fave",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "Hollywood",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E18-50",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030422.1600.03-R10",
+  "mentionArg1" : {
+    "extent" : "a Hollywood fave",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E26-49",
+    "start" : 3,
+    "end" : 5
+  },
+  "id" : "CNN_IP_20030422.1600.03-R10-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Dean emerges as a Hollywood fave .",
+  "sentence_index" : 19,
+  "Tokens" : [ "Dean", "emerges", "as", "a", "Hollywood", "fave", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "John Edwards who raised more money in the first quarter than any other candidate got a thousand of it from half of Hollywood's version of regular people - actress Rita Wilson, who is married to Tom Hanks",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Tom Hanks",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E59-89",
+    "start" : 37,
+    "end" : 38
+  },
+  "relationID" : "CNN_IP_20030422.1600.03-R11",
+  "mentionArg1" : {
+    "extent" : "actress Rita Wilson, who is married to Tom Hanks",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E53-86",
+    "start" : 29,
+    "end" : 38
+  },
+  "id" : "CNN_IP_20030422.1600.03-R11-1",
+  "relationSubType" : "Family",
+  "Sentence" : "John Edwards who raised more money in the first quarter than any other candidate got a thousand of it from half of Hollywood 's version of regular people - actress Rita Wilson , who is married to Tom Hanks .",
+  "sentence_index" : 31,
+  "Tokens" : [ "John", "Edwards", "who", "raised", "more", "money", "in", "the", "first", "quarter", "than", "any", "other", "candidate", "got", "a", "thousand", "of", "it", "from", "half", "of", "Hollywood", "'s", "version", "of", "regular", "people", "-", "actress", "Rita", "Wilson", ",", "who", "is", "married", "to", "Tom", "Hanks", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "how many do you suppose were from Iowa, home of the presidential season's first contest",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Iowa, home of the presidential season's first contest",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E66-103",
+    "start" : 21,
+    "end" : 30
+  },
+  "relationID" : "CNN_IP_20030422.1600.03-R12",
+  "mentionArg1" : {
+    "extent" : "how many do you suppose were from Iowa, home of the presidential season's first contest",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E65-102",
+    "start" : 14,
+    "end" : 30
+  },
+  "id" : "CNN_IP_20030422.1600.03-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "A final oddity , of donors who gave over $200 to any campaign , how many do you suppose were from Iowa , home of the presidential season 's first contest ?",
+  "sentence_index" : 34,
+  "Tokens" : [ "A", "final", "oddity", ",", "of", "donors", "who", "gave", "over", "$200", "to", "any", "campaign", ",", "how", "many", "do", "you", "suppose", "were", "from", "Iowa", ",", "home", "of", "the", "presidential", "season", "'s", "first", "contest", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Of nearly 22,000 people who gave money, 45 were from Iowa",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "Iowa",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E66-106",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030422.1600.03-R12",
+  "mentionArg1" : {
+    "extent" : "45",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E65-105",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030422.1600.03-R12-2",
+  "relationSubType" : "Located",
+  "Sentence" : "Of nearly 22,000 people who gave money , 45 were from Iowa .",
+  "sentence_index" : 35,
+  "Tokens" : [ "Of", "nearly", "22,000", "people", "who", "gave", "money", ",", "45", "were", "from", "Iowa", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "One hundred and thirty one wrote checks out of New Hampshire",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "New Hampshire",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E68-108",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030422.1600.03-R14",
+  "mentionArg1" : {
+    "extent" : "One hundred and thirty one",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E67-107",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "CNN_IP_20030422.1600.03-R14-1",
+  "relationSubType" : "Located",
+  "Sentence" : "One hundred and thirty one wrote checks out of New Hampshire .",
+  "sentence_index" : 36,
+  "Tokens" : [ "One", "hundred", "and", "thirty", "one", "wrote", "checks", "out", "of", "New", "Hampshire", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Nearly every major candidate had more donors and raised more money in California than anywhere else",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "California",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E70-118",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030422.1600.03-R15",
+  "mentionArg1" : {
+    "extent" : "donors",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E72-117",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030422.1600.03-R15-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Nearly every major candidate had more donors and raised more money in California than anywhere else .",
+  "sentence_index" : 39,
+  "Tokens" : [ "Nearly", "every", "major", "candidate", "had", "more", "donors", "and", "raised", "more", "money", "in", "California", "than", "anywhere", "else", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The campaign of Senator John Kerry",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "The campaign of Senator John Kerry",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E81-128",
+    "start" : 0,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030422.1600.03-R16",
+  "mentionArg1" : {
+    "extent" : "Senator John Kerry",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E76-126",
+    "start" : 3,
+    "end" : 5
+  },
+  "id" : "CNN_IP_20030422.1600.03-R16-1",
+  "relationSubType" : "Founder",
+  "Sentence" : "The campaign of Senator John Kerry says it has regular conference calls to keep its key supporters up to date on campaign plans and developments .",
+  "sentence_index" : 42,
+  "Tokens" : [ "The", "campaign", "of", "Senator", "John", "Kerry", "says", "it", "has", "regular", "conference", "calls", "to", "keep", "its", "key", "supporters", "up", "to", "date", "on", "campaign", "plans", "and", "developments", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Kerry money team",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "the Kerry money team",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E81-132",
+    "start" : 4,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030422.1600.03-R16",
+  "mentionArg1" : {
+    "extent" : "Kerry",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E76-65",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "CNN_IP_20030422.1600.03-R16-2",
+  "relationSubType" : "Founder",
+  "Sentence" : "The next one for the Kerry money team is , in fact , next week here in Washington -- Judy .",
+  "sentence_index" : 44,
+  "Tokens" : [ "The", "next", "one", "for", "the", "Kerry", "money", "team", "is", ",", "in", "fact", ",", "next", "week", "here", "in", "Washington", "--", "Judy", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "its key supporters",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "its",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E81-130",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030422.1600.03-R17",
+  "mentionArg1" : {
+    "extent" : "its key supporters",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E82-131",
+    "start" : 14,
+    "end" : 16
+  },
+  "id" : "CNN_IP_20030422.1600.03-R17-1",
+  "relationSubType" : "Investor-Shareholder",
+  "Sentence" : "The campaign of Senator John Kerry says it has regular conference calls to keep its key supporters up to date on campaign plans and developments .",
+  "sentence_index" : 42,
+  "Tokens" : [ "The", "campaign", "of", "Senator", "John", "Kerry", "says", "it", "has", "regular", "conference", "calls", "to", "keep", "its", "key", "supporters", "up", "to", "date", "on", "campaign", "plans", "and", "developments", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "here in Washington",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Washington",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E84-134",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "CNN_IP_20030422.1600.03-R18",
+  "mentionArg1" : {
+    "extent" : "here in Washington",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E83-133",
+    "start" : 15,
+    "end" : 17
+  },
+  "id" : "CNN_IP_20030422.1600.03-R18-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The next one for the Kerry money team is , in fact , next week here in Washington -- Judy .",
+  "sentence_index" : 44,
+  "Tokens" : [ "The", "next", "one", "for", "the", "Kerry", "money", "team", "is", ",", "in", "fact", ",", "next", "week", "here", "in", "Washington", "--", "Judy", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "anyone in Hollywood",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Hollywood",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E18-140",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030422.1600.03-R19",
+  "mentionArg1" : {
+    "extent" : "anyone in Hollywood",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E86-139",
+    "start" : 12,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030422.1600.03-R19-1",
+  "relationSubType" : "Located",
+  "Sentence" : "WOODRUFF And we want to have you back to find out if anyone in Hollywood is giving to the president .",
+  "sentence_index" : 45,
+  "Tokens" : [ "WOODRUFF", "And", "we", "want", "to", "have", "you", "back", "to", "find", "out", "if", "anyone", "in", "Hollywood", "is", "giving", "to", "the", "president", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the company behind Hooters",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "the company behind Hooters",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E89-145",
+    "start" : 12,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030422.1600.03-R20",
+  "mentionArg1" : {
+    "extent" : "Hooters",
+    "argMentionid" : "CNN_IP_20030422.1600.03-E90-146",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030422.1600.03-R20-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Up next , find out who is flying high , courtesy of the company behind Hooters .",
+  "sentence_index" : 48,
+  "Tokens" : [ "Up", "next", ",", "find", "out", "who", "is", "flying", "high", ",", "courtesy", "of", "the", "company", "behind", "Hooters", "." ]
+} ]

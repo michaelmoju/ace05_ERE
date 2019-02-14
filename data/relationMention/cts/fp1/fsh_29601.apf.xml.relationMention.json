@@ -1,0 +1,595 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "their leader",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "their",
+    "argMentionid" : "fsh_29601-E29-176",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "fsh_29601-R1",
+  "mentionArg1" : {
+    "extent" : "their leader",
+    "argMentionid" : "fsh_29601-E17-175",
+    "start" : 12,
+    "end" : 13
+  },
+  "id" : "fsh_29601-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "James and the Palestinians had made it clear -- that Arafat was their leader .",
+  "sentence_index" : 77,
+  "Tokens" : [ "James", "and", "the", "Palestinians", "had", "made", "it", "clear", "--", "that", "Arafat", "was", "their", "leader", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "PLO leader",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "PLO",
+    "argMentionid" : "fsh_29601-E45-199",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "fsh_29601-R2",
+  "mentionArg1" : {
+    "extent" : "PLO leader",
+    "argMentionid" : "fsh_29601-E36-100",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "fsh_29601-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Death of Arafat ( 2 ) PLO leader PLO leader Yasser Arafat died in a Paris hospital last week , after a lot of controversy surrounding his illness and death .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Death", "of", "Arafat", "(", "2", ")", "PLO", "leader", "PLO", "leader", "Yasser", "Arafat", "died", "in", "a", "Paris", "hospital", "last", "week", ",", "after", "a", "lot", "of", "controversy", "surrounding", "his", "illness", "and", "death", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a Paris hospital",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "a Paris hospital",
+    "argMentionid" : "fsh_29601-E48-290",
+    "start" : 14,
+    "end" : 16
+  },
+  "relationID" : "fsh_29601-R3",
+  "mentionArg1" : {
+    "extent" : "Paris",
+    "argMentionid" : "fsh_29601-E49-291",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "fsh_29601-R3-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Death of Arafat ( 2 ) PLO leader PLO leader Yasser Arafat died in a Paris hospital last week , after a lot of controversy surrounding his illness and death .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Death", "of", "Arafat", "(", "2", ")", "PLO", "leader", "PLO", "leader", "Yasser", "Arafat", "died", "in", "a", "Paris", "hospital", "last", "week", ",", "after", "a", "lot", "of", "controversy", "surrounding", "his", "illness", "and", "death", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a senior US official",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "fsh_29601-E3-3",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "fsh_29601-R4",
+  "mentionArg1" : {
+    "extent" : "a senior US official",
+    "argMentionid" : "fsh_29601-E2-2",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "fsh_29601-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Should President Bush or a senior US official have attended Arafat 's funeral ?",
+  "sentence_index" : 4,
+  "Tokens" : [ "Should", "President", "Bush", "or", "a", "senior", "US", "official", "have", "attended", "Arafat", "'s", "funeral", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a senior U.S. official",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "fsh_29601-E3-74",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "fsh_29601-R4",
+  "mentionArg1" : {
+    "extent" : "a senior U.S. official",
+    "argMentionid" : "fsh_29601-E2-73",
+    "start" : 20,
+    "end" : 23
+  },
+  "id" : "fsh_29601-R4-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "I do n't think either side would have really -- let it happen -- and -- and as far as a senior U.S. official going , I do n't think that would have been necessary either .",
+  "sentence_index" : 33,
+  "Tokens" : [ "I", "do", "n't", "think", "either", "side", "would", "have", "really", "--", "let", "it", "happen", "--", "and", "--", "and", "as", "far", "as", "a", "senior", "U.S.", "official", "going", ",", "I", "do", "n't", "think", "that", "would", "have", "been", "necessary", "either", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "James from Detroit",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "Detroit",
+    "argMentionid" : "fsh_29601-E8-11",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "fsh_29601-R5",
+  "mentionArg1" : {
+    "extent" : "James",
+    "argMentionid" : "fsh_29601-E7-10",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29601-R5-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "James I 'm James from Detroit .",
+  "sentence_index" : 8,
+  "Tokens" : [ "James", "I", "'m", "James", "from", "Detroit", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Uh, from, uh, New Jersey, but I'm living in Atlanta now, going to college",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Atlanta",
+    "argMentionid" : "fsh_29601-E10-14",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "fsh_29601-R6",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29601-E6-13",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "fsh_29601-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Joe Uh , from , uh , New Jersey , but I 'm living in Atlanta now , going to college .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Joe", "Uh", ",", "from", ",", "uh", ",", "New", "Jersey", ",", "but", "I", "'m", "living", "in", "Atlanta", "now", ",", "going", "to", "college", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Uh, from, uh, New Jersey, but I'm living in Atlanta now, going to college",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "college",
+    "argMentionid" : "fsh_29601-E11-15",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "fsh_29601-R7",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29601-E6-13",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "fsh_29601-R7-1",
+  "relationSubType" : "Student-Alum",
+  "Sentence" : "Joe Uh , from , uh , New Jersey , but I 'm living in Atlanta now , going to college .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Joe", "Uh", ",", "from", ",", "uh", ",", "New", "Jersey", ",", "but", "I", "'m", "living", "in", "Atlanta", "now", ",", "going", "to", "college", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "And -- I would imagine that living in that compound couldn't have been that conducive to his health",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "that compound",
+    "argMentionid" : "fsh_29601-E12-27",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "fsh_29601-R8",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29601-E17-28",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "fsh_29601-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "And -- I would imagine that living in that compound could n't have been that conducive to his health .",
+  "sentence_index" : 16,
+  "Tokens" : [ "And", "--", "I", "would", "imagine", "that", "living", "in", "that", "compound", "could", "n't", "have", "been", "that", "conducive", "to", "his", "health", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "No, they buried him -- uh, inside that compound",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "that compound",
+    "argMentionid" : "fsh_29601-E12-58",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "fsh_29601-R8",
+  "mentionArg1" : {
+    "extent" : "him",
+    "argMentionid" : "fsh_29601-E17-56",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "fsh_29601-R8-2",
+  "relationSubType" : "Located",
+  "Sentence" : "James No. No , they buried him -- uh , inside that compound .",
+  "sentence_index" : 28,
+  "Tokens" : [ "James", "No.", "No", ",", "they", "buried", "him", "--", "uh", ",", "inside", "that", "compound", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Yeah, they buried him inside that compound",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "that compound",
+    "argMentionid" : "fsh_29601-E12-62",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "fsh_29601-R8",
+  "mentionArg1" : {
+    "extent" : "him",
+    "argMentionid" : "fsh_29601-E17-61",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "fsh_29601-R8-3",
+  "relationSubType" : "Located",
+  "Sentence" : "James Yeah , they buried him inside that compound .",
+  "sentence_index" : 30,
+  "Tokens" : [ "James", "Yeah", ",", "they", "buried", "him", "inside", "that", "compound", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "And I think too -- Israel's -- position toward Arafat -- in terms of keeping him sort of like -- uh -- surrounded in that compound -- I don't think that was a good idea",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "that compound",
+    "argMentionid" : "fsh_29601-E12-162",
+    "start" : 25,
+    "end" : 26
+  },
+  "relationID" : "fsh_29601-R8",
+  "mentionArg1" : {
+    "extent" : "Arafat",
+    "argMentionid" : "fsh_29601-E17-160",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "fsh_29601-R8-4",
+  "relationSubType" : "Located",
+  "Sentence" : "And I think too -- Israel 's -- position toward Arafat -- in terms of keeping him sort of like -- uh -- surrounded in that compound -- I do n't think that was a good idea .",
+  "sentence_index" : 74,
+  "Tokens" : [ "And", "I", "think", "too", "--", "Israel", "'s", "--", "position", "toward", "Arafat", "--", "in", "terms", "of", "keeping", "him", "sort", "of", "like", "--", "uh", "--", "surrounded", "in", "that", "compound", "--", "I", "do", "n't", "think", "that", "was", "a", "good", "idea", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Yeah, he probably should have been in a hospital or a hospice or",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "a hospital",
+    "argMentionid" : "fsh_29601-E13-30",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "fsh_29601-R9",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "fsh_29601-E17-29",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29601-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Joe Yeah , he probably should have been in a hospital or a hospice or James Right .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Joe", "Yeah", ",", "he", "probably", "should", "have", "been", "in", "a", "hospital", "or", "a", "hospice", "or", "James", "Right", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Yeah, he probably should have been in a hospital or a hospice or",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "a hospice",
+    "argMentionid" : "fsh_29601-E14-31",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "fsh_29601-R10",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "fsh_29601-E17-29",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29601-R10-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Joe Yeah , he probably should have been in a hospital or a hospice or James Right .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Joe", "Yeah", ",", "he", "probably", "should", "have", "been", "in", "a", "hospital", "or", "a", "hospice", "or", "James", "Right", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "so, um -- no, so he wasn't buried in Jerusalem",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "Jerusalem",
+    "argMentionid" : "fsh_29601-E5-55",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "fsh_29601-R11",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "fsh_29601-E17-54",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "fsh_29601-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Joe so , um -- no , so he was n't buried in Jerusalem .",
+  "sentence_index" : 27,
+  "Tokens" : [ "Joe", "so", ",", "um", "--", "no", ",", "so", "he", "was", "n't", "buried", "in", "Jerusalem", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "I think a senior U.S. service in there, should have been there, because I mean -- he, Arafat's been -- been the one coming to all these peace talks, you know, with President Clinton and, you know, other",
+  "sentence_length" : 49,
+  "mentionArg2" : {
+    "extent" : "President Clinton",
+    "argMentionid" : "fsh_29601-E22-88",
+    "start" : 38,
+    "end" : 39
+  },
+  "relationID" : "fsh_29601-R14",
+  "mentionArg1" : {
+    "extent" : "Arafat",
+    "argMentionid" : "fsh_29601-E17-86",
+    "start" : 20,
+    "end" : 20
+  },
+  "id" : "fsh_29601-R14-1",
+  "relationSubType" : "Business",
+  "Sentence" : "I think a senior U.S. service in there , should have been there , because I mean -- he , Arafat 's been -- been the one coming to all these peace talks , you know , with President Clinton and , you know , other James Mhm .",
+  "sentence_index" : 36,
+  "Tokens" : [ "I", "think", "a", "senior", "U.S.", "service", "in", "there", ",", "should", "have", "been", "there", ",", "because", "I", "mean", "--", "he", ",", "Arafat", "'s", "been", "--", "been", "the", "one", "coming", "to", "all", "these", "peace", "talks", ",", "you", "know", ",", "with", "President", "Clinton", "and", ",", "you", "know", ",", "other", "James", "Mhm", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Cause at the cause at the end Clinton was doing all this peace talk with Arafat and, um",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Clinton",
+    "argMentionid" : "fsh_29601-E22-136",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "fsh_29601-R14",
+  "mentionArg1" : {
+    "extent" : "Arafat",
+    "argMentionid" : "fsh_29601-E17-137",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "fsh_29601-R14-2",
+  "relationSubType" : "Business",
+  "Sentence" : "Joe Cause at the cause at the end Clinton was doing all this peace talk with Arafat and , um James True .",
+  "sentence_index" : 57,
+  "Tokens" : [ "Joe", "Cause", "at", "the", "cause", "at", "the", "end", "Clinton", "was", "doing", "all", "this", "peace", "talk", "with", "Arafat", "and", ",", "um", "James", "True", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Well it, they sent someone",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "they",
+    "argMentionid" : "fsh_29601-E3-99",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "fsh_29601-R15",
+  "mentionArg1" : {
+    "extent" : "someone",
+    "argMentionid" : "fsh_29601-E24-102",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "fsh_29601-R15-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Well it , they sent someone .",
+  "sentence_index" : 41,
+  "Tokens" : [ "Well", "it", ",", "they", "sent", "someone", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "no senior U.S. official",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "fsh_29601-E3-200",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "fsh_29601-R16",
+  "mentionArg1" : {
+    "extent" : "no senior U.S. official",
+    "argMentionid" : "fsh_29601-E27-112",
+    "start" : 8,
+    "end" : 11
+  },
+  "id" : "fsh_29601-R16-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "There was no senior Joe James there was no senior U.S. official there .",
+  "sentence_index" : 44,
+  "Tokens" : [ "There", "was", "no", "senior", "Joe", "James", "there", "was", "no", "senior", "U.S.", "official", "there", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "But, uh -- you know, uh, Bush's policy -- towards, uh, Yasser Arafat has been hands off",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Yasser Arafat",
+    "argMentionid" : "fsh_29601-E17-115",
+    "start" : 18,
+    "end" : 19
+  },
+  "relationID" : "fsh_29601-R17",
+  "mentionArg1" : {
+    "extent" : "Bush",
+    "argMentionid" : "fsh_29601-E1-114",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "fsh_29601-R17-1",
+  "relationSubType" : "Business",
+  "Sentence" : "James But , uh -- you know , uh , Bush 's policy -- towards , uh , Yasser Arafat has been hands off Joe Yeah .",
+  "sentence_index" : 47,
+  "Tokens" : [ "James", "But", ",", "uh", "--", "you", "know", ",", "uh", ",", "Bush", "'s", "policy", "--", "towards", ",", "uh", ",", "Yasser", "Arafat", "has", "been", "hands", "off", "Joe", "Yeah", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "from from the beginning cause I don't, I don't think he ever even met with him",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "him",
+    "argMentionid" : "fsh_29601-E17-119",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "fsh_29601-R17",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "fsh_29601-E1-118",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "fsh_29601-R17-2",
+  "relationSubType" : "Business",
+  "Sentence" : "James from from the beginning cause I don't , I do n't think he ever even met with him .",
+  "sentence_index" : 48,
+  "Tokens" : [ "James", "from", "from", "the", "beginning", "cause", "I", "don't", ",", "I", "do", "n't", "think", "he", "ever", "even", "met", "with", "him", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Clinton's administration",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Clinton's administration",
+    "argMentionid" : "fsh_29601-E32-135",
+    "start" : 35,
+    "end" : 37
+  },
+  "relationID" : "fsh_29601-R19",
+  "mentionArg1" : {
+    "extent" : "Clinton",
+    "argMentionid" : "fsh_29601-E22-134",
+    "start" : 35,
+    "end" : 35
+  },
+  "id" : "fsh_29601-R19-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "James Yeah , you know you got to engage people in some type of dialogue Joe And James if you Joe to me , the talk , the peace talks should have continued -- after Clinton 's administration left .",
+  "sentence_index" : 55,
+  "Tokens" : [ "James", "Yeah", ",", "you", "know", "you", "got", "to", "engage", "people", "in", "some", "type", "of", "dialogue", "Joe", "And", "James", "if", "you", "Joe", "to", "me", ",", "the", "talk", ",", "the", "peace", "talks", "should", "have", "continued", "--", "after", "Clinton", "'s", "administration", "left", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the um, prime minister in Israel",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Israel",
+    "argMentionid" : "fsh_29601-E28-139",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "fsh_29601-R21",
+  "mentionArg1" : {
+    "extent" : "the um, prime minister in Israel",
+    "argMentionid" : "fsh_29601-E33-138",
+    "start" : 4,
+    "end" : 10
+  },
+  "id" : "fsh_29601-R21-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Joe (( forget )) the um , prime minister in Israel , but he was talking to him .",
+  "sentence_index" : 59,
+  "Tokens" : [ "Joe", "((", "forget", "))", "the", "um", ",", "prime", "minister", "in", "Israel", ",", "but", "he", "was", "talking", "to", "him", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the um, prime minister in Israel, but he was talking to him",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "him",
+    "argMentionid" : "fsh_29601-E33-141",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "fsh_29601-R22",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "fsh_29601-E22-140",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "fsh_29601-R22-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Joe (( forget )) the um , prime minister in Israel , but he was talking to him .",
+  "sentence_index" : 59,
+  "Tokens" : [ "Joe", "((", "forget", "))", "the", "um", ",", "prime", "minister", "in", "Israel", ",", "but", "he", "was", "talking", "to", "him", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "They were doing all these talks in Camp David and and it should have just continued when Br- Bush came into office",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Camp David",
+    "argMentionid" : "fsh_29601-E35-145",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "fsh_29601-R23",
+  "mentionArg1" : {
+    "extent" : "They",
+    "argMentionid" : "fsh_29601-E34-144",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "fsh_29601-R23-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Joe They were doing all these talks in Camp David and and it should have just continued when Br- Bush came into office .",
+  "sentence_index" : 64,
+  "Tokens" : [ "Joe", "They", "were", "doing", "all", "these", "talks", "in", "Camp", "David", "and", "and", "it", "should", "have", "just", "continued", "when", "Br-", "Bush", "came", "into", "office", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "You know, because that, you can't pick a leader for a people",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "a people",
+    "argMentionid" : "fsh_29601-E39-167",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "fsh_29601-R25",
+  "mentionArg1" : {
+    "extent" : "a leader",
+    "argMentionid" : "fsh_29601-E38-166",
+    "start" : 13,
+    "end" : 14
+  },
+  "id" : "fsh_29601-R25-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Joe No. James You know , because that , you ca n't pick a leader for a people .",
+  "sentence_index" : 75,
+  "Tokens" : [ "Joe", "No.", "James", "You", "know", ",", "because", "that", ",", "you", "ca", "n't", "pick", "a", "leader", "for", "a", "people", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "PLO leader",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "PLO",
+    "argMentionid" : "fsh_29601-E45-288",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "fsh_29601-R26",
+  "mentionArg1" : {
+    "extent" : "PLO leader",
+    "argMentionid" : "fsh_29601-E17-287",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "fsh_29601-R26-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Death of Arafat ( 2 ) PLO leader PLO leader Yasser Arafat died in a Paris hospital last week , after a lot of controversy surrounding his illness and death .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Death", "of", "Arafat", "(", "2", ")", "PLO", "leader", "PLO", "leader", "Yasser", "Arafat", "died", "in", "a", "Paris", "hospital", "last", "week", ",", "after", "a", "lot", "of", "controversy", "surrounding", "his", "illness", "and", "death", "." ]
+} ]

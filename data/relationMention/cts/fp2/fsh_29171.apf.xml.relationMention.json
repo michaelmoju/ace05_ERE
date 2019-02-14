@@ -1,0 +1,221 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "your company",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "your company",
+    "argMentionid" : "fsh_29171-E61-221",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "fsh_29171-R2",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29171-E16-222",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29171-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Do you think your company is well-run ?",
+  "sentence_index" : 6,
+  "Tokens" : [ "Do", "you", "think", "your", "company", "is", "well-run", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I'm from Lufkin, Texas",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "Lufkin, Texas",
+    "argMentionid" : "fsh_29171-E1-4",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "fsh_29171-R3",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29171-E63-2",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "fsh_29171-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Diane I 'm from Lufkin , Texas .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Diane", "I", "'m", "from", "Lufkin", ",", "Texas", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Lufkin, Texas",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "Texas",
+    "argMentionid" : "fsh_29171-E2-5",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "fsh_29171-R4",
+  "mentionArg1" : {
+    "extent" : "Lufkin, Texas",
+    "argMentionid" : "fsh_29171-E1-4",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "fsh_29171-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Diane I 'm from Lufkin , Texas .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Diane", "I", "'m", "from", "Lufkin", ",", "Texas", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Atlanta, Georgia",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "Georgia",
+    "argMentionid" : "fsh_29171-E4-7",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "fsh_29171-R5",
+  "mentionArg1" : {
+    "extent" : "Atlanta, Georgia",
+    "argMentionid" : "fsh_29171-E3-6",
+    "start" : 3,
+    "end" : 5
+  },
+  "id" : "fsh_29171-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Roger Uh , Atlanta , Georgia .",
+  "sentence_index" : 12,
+  "Tokens" : [ "Roger", "Uh", ",", "Atlanta", ",", "Georgia", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "I own a restaurant",
+  "sentence_length" : 5,
+  "mentionArg2" : {
+    "extent" : "a restaurant",
+    "argMentionid" : "fsh_29171-E6-25",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "fsh_29171-R6",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29171-E63-24",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29171-R6-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "I own a restaurant .",
+  "sentence_index" : 22,
+  "Tokens" : [ "I", "own", "a", "restaurant", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a Hispanic girl",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "Hispanic",
+    "argMentionid" : "fsh_29171-E18-211",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "fsh_29171-R7",
+  "mentionArg1" : {
+    "extent" : "a Hispanic girl",
+    "argMentionid" : "fsh_29171-E27-127",
+    "start" : 27,
+    "end" : 29
+  },
+  "id" : "fsh_29171-R7-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "I 've got a girl that I 've hired uh well , I hired her , let 's see , about nine years ago -- It 's a Hispanic girl but she speaks fluent English and Spanish , so she can work with both -- you know either language problem .",
+  "sentence_index" : 47,
+  "Tokens" : [ "I", "'ve", "got", "a", "girl", "that", "I", "'ve", "hired", "uh", "well", ",", "I", "hired", "her", ",", "let", "'s", "see", ",", "about", "nine", "years", "ago", "--", "It", "'s", "a", "Hispanic", "girl", "but", "she", "speaks", "fluent", "English", "and", "Spanish", ",", "so", "she", "can", "work", "with", "both", "--", "you", "know", "either", "language", "problem", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Okay, I um,  work at a moving company, Classic Design Services",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "a moving company",
+    "argMentionid" : "fsh_29171-E39-150",
+    "start" : 8,
+    "end" : 10
+  },
+  "relationID" : "fsh_29171-R8",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "fsh_29171-E41-149",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "fsh_29171-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Roger Okay , I um , work at a moving company , Classic Design Services , Diane Okay .",
+  "sentence_index" : 51,
+  "Tokens" : [ "Roger", "Okay", ",", "I", "um", ",", "work", "at", "a", "moving", "company", ",", "Classic", "Design", "Services", ",", "Diane", "Okay", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "um I work for -- this guy named uh Joe, he was a regional -- bank manager for Wachovia for a few years.  and bought our company out from our previous owner",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Wachovia",
+    "argMentionid" : "fsh_29171-E45-162",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "fsh_29171-R9",
+  "mentionArg1" : {
+    "extent" : "this guy named uh Joe",
+    "argMentionid" : "fsh_29171-E43-159",
+    "start" : 5,
+    "end" : 9
+  },
+  "id" : "fsh_29171-R9-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "um I work for -- this guy named uh Joe , he was a regional -- bank manager for Wachovia for a few years .",
+  "sentence_index" : 53,
+  "Tokens" : [ "um", "I", "work", "for", "--", "this", "guy", "named", "uh", "Joe", ",", "he", "was", "a", "regional", "--", "bank", "manager", "for", "Wachovia", "for", "a", "few", "years", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our previous owner",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "fsh_29171-E39-166",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "fsh_29171-R10",
+  "mentionArg1" : {
+    "extent" : "our previous owner",
+    "argMentionid" : "fsh_29171-E46-165",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "fsh_29171-R10-1",
+  "relationSubType" : "Ownership",
+  "Sentence" : "and bought our company out from our previous owner .",
+  "sentence_index" : 54,
+  "Tokens" : [ "and", "bought", "our", "company", "out", "from", "our", "previous", "owner", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Phoenix, Arizona",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Arizona",
+    "argMentionid" : "fsh_29171-E49-178",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "fsh_29171-R11",
+  "mentionArg1" : {
+    "extent" : "Phoenix, Arizona",
+    "argMentionid" : "fsh_29171-E48-177",
+    "start" : 16,
+    "end" : 18
+  },
+  "id" : "fsh_29171-R11-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Roger Yeah , we do , um -- we have a uh -- a office in Phoenix , Arizona , and we do uh basically do continental ~ USA Diane Okay .",
+  "sentence_index" : 58,
+  "Tokens" : [ "Roger", "Yeah", ",", "we", "do", ",", "um", "--", "we", "have", "a", "uh", "--", "a", "office", "in", "Phoenix", ",", "Arizona", ",", "and", "we", "do", "uh", "basically", "do", "continental", "~", "USA", "Diane", "Okay", "." ]
+} ]

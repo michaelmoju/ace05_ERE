@@ -1,0 +1,287 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "I'm from Minneapolis, Minnesota",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "Minneapolis, Minnesota",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E26-68",
+    "start" : 3,
+    "end" : 5
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-2-R1",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E19-65",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_CF_20030305.1900.06-2-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "I 'm from Minneapolis , Minnesota .",
+  "sentence_index" : 1,
+  "Tokens" : [ "I", "'m", "from", "Minneapolis", ",", "Minnesota", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Minneapolis, Minnesota",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "Minnesota",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E27-69",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-2-R2",
+  "mentionArg1" : {
+    "extent" : "Minneapolis, Minnesota",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E26-68",
+    "start" : 3,
+    "end" : 5
+  },
+  "id" : "CNN_CF_20030305.1900.06-2-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "I 'm from Minneapolis , Minnesota .",
+  "sentence_index" : 1,
+  "Tokens" : [ "I", "'m", "from", "Minneapolis", ",", "Minnesota", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "other Middle Eastern countries",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "Middle Eastern",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E11-66",
+    "start" : 22,
+    "end" : 23
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-2-R3",
+  "mentionArg1" : {
+    "extent" : "other Middle Eastern countries",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E30-73",
+    "start" : 21,
+    "end" : 24
+  },
+  "id" : "CNN_CF_20030305.1900.06-2-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "And I was just curious if you feel that the attack on Iraq would actually open a Pandora 's box in other Middle Eastern countries that we are known to aid and harbor terrorists , such as Syria and Iran .",
+  "sentence_index" : 2,
+  "Tokens" : [ "And", "I", "was", "just", "curious", "if", "you", "feel", "that", "the", "attack", "on", "Iraq", "would", "actually", "open", "a", "Pandora", "'s", "box", "in", "other", "Middle", "Eastern", "countries", "that", "we", "are", "known", "to", "aid", "and", "harbor", "terrorists", ",", "such", "as", "Syria", "and", "Iran", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "On the other hand, the region is pretty unstable, filled with people who already hate Americans and seek to do America harm",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the region",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E31-79",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-2-R4",
+  "mentionArg1" : {
+    "extent" : "people who already hate Americans and seek to do America harm",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E35-80",
+    "start" : 13,
+    "end" : 23
+  },
+  "id" : "CNN_CF_20030305.1900.06-2-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "On the other hand , the region is pretty unstable , filled with people who already hate Americans and seek to do America harm .",
+  "sentence_index" : 6,
+  "Tokens" : [ "On", "the", "other", "hand", ",", "the", "region", "is", "pretty", "unstable", ",", "filled", "with", "people", "who", "already", "hate", "Americans", "and", "seek", "to", "do", "America", "harm", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Our president",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "Our",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E1-4",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-2-R5",
+  "mentionArg1" : {
+    "extent" : "Our president",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E2-5",
+    "start" : 1,
+    "end" : 2
+  },
+  "id" : "CNN_CF_20030305.1900.06-2-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "BEGALA Our president believes it will set off a positive domino effect of democracy through the region .",
+  "sentence_index" : 8,
+  "Tokens" : [ "BEGALA", "Our", "president", "believes", "it", "will", "set", "off", "a", "positive", "domino", "effect", "of", "democracy", "through", "the", "region", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Fabian from Bonn, Germany",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "Bonn, Germany",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E5-14",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-2-R6",
+  "mentionArg1" : {
+    "extent" : "Fabian from Bonn, Germany",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E4-13",
+    "start" : 2,
+    "end" : 6
+  },
+  "id" : "CNN_CF_20030305.1900.06-2-R6-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "I 'm Fabian from Bonn , Germany .",
+  "sentence_index" : 15,
+  "Tokens" : [ "I", "'m", "Fabian", "from", "Bonn", ",", "Germany", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Bonn, Germany",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "Germany",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E6-15",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-2-R7",
+  "mentionArg1" : {
+    "extent" : "Bonn, Germany",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E5-14",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "CNN_CF_20030305.1900.06-2-R7-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "I 'm Fabian from Bonn , Germany .",
+  "sentence_index" : 15,
+  "Tokens" : [ "I", "'m", "Fabian", "from", "Bonn", ",", "Germany", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "their own continent",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "their own continent",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E14-30",
+    "start" : 16,
+    "end" : 18
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-2-R8",
+  "mentionArg1" : {
+    "extent" : "their own",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E13-28",
+    "start" : 16,
+    "end" : 17
+  },
+  "id" : "CNN_CF_20030305.1900.06-2-R8-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "So France and Germany -- that 's actually true -- find themselves in the minority on their own continent .",
+  "sentence_index" : 19,
+  "Tokens" : [ "So", "France", "and", "Germany", "--", "that", "'s", "actually", "true", "--", "find", "themselves", "in", "the", "minority", "on", "their", "own", "continent", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "My question is not who votes at the U.N",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "the U.N",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E20-42",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-2-R9",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E17-36",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "CNN_CF_20030305.1900.06-2-R9-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "BEGALA My question is not who votes at the U.N. Who sends troops to die on our side ?",
+  "sentence_index" : 23,
+  "Tokens" : [ "BEGALA", "My", "question", "is", "not", "who", "votes", "at", "the", "U.N.", "Who", "sends", "troops", "to", "die", "on", "our", "side", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "And I was just curious if you feel that the attack on Iraq would actually open a Pandora's box in other Middle Eastern countries that we are known to aid and harbor terrorists, such as Syria and Iran",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "other Middle Eastern countries",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E30-73",
+    "start" : 21,
+    "end" : 24
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-2-R10",
+  "mentionArg1" : {
+    "extent" : "terrorists",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E33-76",
+    "start" : 33,
+    "end" : 33
+  },
+  "id" : "CNN_CF_20030305.1900.06-2-R10-1",
+  "relationSubType" : "Located",
+  "Sentence" : "And I was just curious if you feel that the attack on Iraq would actually open a Pandora 's box in other Middle Eastern countries that we are known to aid and harbor terrorists , such as Syria and Iran .",
+  "sentence_index" : 2,
+  "Tokens" : [ "And", "I", "was", "just", "curious", "if", "you", "feel", "that", "the", "attack", "on", "Iraq", "would", "actually", "open", "a", "Pandora", "'s", "box", "in", "other", "Middle", "Eastern", "countries", "that", "we", "are", "known", "to", "aid", "and", "harbor", "terrorists", ",", "such", "as", "Syria", "and", "Iran", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "And I was just curious if you feel that the attack on Iraq would actually open a Pandora's box in other Middle Eastern countries that we are known to aid and harbor terrorists, such as Syria and Iran",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "Syria",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E22-49",
+    "start" : 37,
+    "end" : 37
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-2-R11",
+  "mentionArg1" : {
+    "extent" : "terrorists",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E33-76",
+    "start" : 33,
+    "end" : 33
+  },
+  "id" : "CNN_CF_20030305.1900.06-2-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "And I was just curious if you feel that the attack on Iraq would actually open a Pandora 's box in other Middle Eastern countries that we are known to aid and harbor terrorists , such as Syria and Iran .",
+  "sentence_index" : 2,
+  "Tokens" : [ "And", "I", "was", "just", "curious", "if", "you", "feel", "that", "the", "attack", "on", "Iraq", "would", "actually", "open", "a", "Pandora", "'s", "box", "in", "other", "Middle", "Eastern", "countries", "that", "we", "are", "known", "to", "aid", "and", "harbor", "terrorists", ",", "such", "as", "Syria", "and", "Iran", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "And I was just curious if you feel that the attack on Iraq would actually open a Pandora's box in other Middle Eastern countries that we are known to aid and harbor terrorists, such as Syria and Iran",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "Iran",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E23-50",
+    "start" : 39,
+    "end" : 39
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-2-R12",
+  "mentionArg1" : {
+    "extent" : "terrorists",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E33-76",
+    "start" : 33,
+    "end" : 33
+  },
+  "id" : "CNN_CF_20030305.1900.06-2-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "And I was just curious if you feel that the attack on Iraq would actually open a Pandora 's box in other Middle Eastern countries that we are known to aid and harbor terrorists , such as Syria and Iran .",
+  "sentence_index" : 2,
+  "Tokens" : [ "And", "I", "was", "just", "curious", "if", "you", "feel", "that", "the", "attack", "on", "Iraq", "would", "actually", "open", "a", "Pandora", "'s", "box", "in", "other", "Middle", "Eastern", "countries", "that", "we", "are", "known", "to", "aid", "and", "harbor", "terrorists", ",", "such", "as", "Syria", "and", "Iran", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "18 European countries",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "European",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E14-29",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-2-R13",
+  "mentionArg1" : {
+    "extent" : "18 European countries",
+    "argMentionid" : "CNN_CF_20030305.1900.06-2-E12-23",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "CNN_CF_20030305.1900.06-2-R13-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "CARLSON It 's actually Western Europe , because 18 European countries are on the side of the United States .",
+  "sentence_index" : 18,
+  "Tokens" : [ "CARLSON", "It", "'s", "actually", "Western", "Europe", ",", "because", "18", "European", "countries", "are", "on", "the", "side", "of", "the", "United", "States", "." ]
+} ]

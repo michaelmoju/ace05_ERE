@@ -1,0 +1,331 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "the military doctor",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "military",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E31-51",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030412.1600.05-R1",
+  "mentionArg1" : {
+    "extent" : "the military doctor",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E30-50",
+    "start" : 13,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030412.1600.05-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "WOODRUFF One of the toughest jobs in Iraq right now is that of the military doctor .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WOODRUFF", "One", "of", "the", "toughest", "jobs", "in", "Iraq", "right", "now", "is", "that", "of", "the", "military", "doctor", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "CNN medical correspondent",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E35-55",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030412.1600.05-R2",
+  "mentionArg1" : {
+    "extent" : "CNN medical correspondent",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E29-53",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030412.1600.05-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "CNN medical correspondent , Dr. Sanjay Gupta , has been traveling with the Devil Docs throughout the war and now they are close to Baghdad .",
+  "sentence_index" : 1,
+  "Tokens" : [ "CNN", "medical", "correspondent", ",", "Dr.", "Sanjay", "Gupta", ",", "has", "been", "traveling", "with", "the", "Devil", "Docs", "throughout", "the", "war", "and", "now", "they", "are", "close", "to", "Baghdad", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Dr. Sanjay Gupta, CNN",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E35-47",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030412.1600.05-R2",
+  "mentionArg1" : {
+    "extent" : "Dr. Sanjay Gupta",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E29-45",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030412.1600.05-R2-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Dr. Sanjay Gupta , CNN with the Devil Docs outside Baghdad .",
+  "sentence_index" : 19,
+  "Tokens" : [ "Dr.", "Sanjay", "Gupta", ",", "CNN", "with", "the", "Devil", "Docs", "outside", "Baghdad", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "CNN medical correspondent, Dr. Sanjay Gupta, has been traveling with the Devil Docs throughout the war and now they are close to Baghdad",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E39-58",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "CNN_IP_20030412.1600.05-R3",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E38-57",
+    "start" : 20,
+    "end" : 20
+  },
+  "id" : "CNN_IP_20030412.1600.05-R3-1",
+  "relationSubType" : "Near",
+  "Sentence" : "CNN medical correspondent , Dr. Sanjay Gupta , has been traveling with the Devil Docs throughout the war and now they are close to Baghdad .",
+  "sentence_index" : 1,
+  "Tokens" : [ "CNN", "medical", "correspondent", ",", "Dr.", "Sanjay", "Gupta", ",", "has", "been", "traveling", "with", "the", "Devil", "Docs", "throughout", "the", "war", "and", "now", "they", "are", "close", "to", "Baghdad", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "coalition force",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E6-10",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030412.1600.05-R4",
+  "mentionArg1" : {
+    "extent" : "coalition force",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E7-11",
+    "start" : 14,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030412.1600.05-R4-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "They are often the first faces the injured see , be they Iraqi or coalition force members .",
+  "sentence_index" : 6,
+  "Tokens" : [ "They", "are", "often", "the", "first", "faces", "the", "injured", "see", ",", "be", "they", "Iraqi", "or", "coalition", "force", "members", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "coalition force members",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "coalition force",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E7-11",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030412.1600.05-R5",
+  "mentionArg1" : {
+    "extent" : "coalition force members",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E5-9",
+    "start" : 14,
+    "end" : 16
+  },
+  "id" : "CNN_IP_20030412.1600.05-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "They are often the first faces the injured see , be they Iraqi or coalition force members .",
+  "sentence_index" : 6,
+  "Tokens" : [ "They", "are", "often", "the", "first", "faces", "the", "injured", "see", ",", "be", "they", "Iraqi", "or", "coalition", "force", "members", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a helicopter landing zone just a 100 meters from a mobile operating room, just on the outskirts of Baghdad",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "a mobile operating room",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E12-17",
+    "start" : 14,
+    "end" : 17
+  },
+  "relationID" : "CNN_IP_20030412.1600.05-R6",
+  "mentionArg1" : {
+    "extent" : "a helicopter landing zone just a 100 meters from a mobile operating room, just on the outskirts of Baghdad",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E11-16",
+    "start" : 5,
+    "end" : 24
+  },
+  "id" : "CNN_IP_20030412.1600.05-R6-1",
+  "relationSubType" : "Near",
+  "Sentence" : "The Navy has set up a helicopter landing zone just a 100 meters from a mobile operating room , just on the outskirts of Baghdad .",
+  "sentence_index" : 9,
+  "Tokens" : [ "The", "Navy", "has", "set", "up", "a", "helicopter", "landing", "zone", "just", "a", "100", "meters", "from", "a", "mobile", "operating", "room", ",", "just", "on", "the", "outskirts", "of", "Baghdad", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a mobile operating room, just on the outskirts of Baghdad",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E39-18",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "CNN_IP_20030412.1600.05-R7",
+  "mentionArg1" : {
+    "extent" : "a mobile operating room",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E12-17",
+    "start" : 14,
+    "end" : 17
+  },
+  "id" : "CNN_IP_20030412.1600.05-R7-1",
+  "relationSubType" : "Near",
+  "Sentence" : "The Navy has set up a helicopter landing zone just a 100 meters from a mobile operating room , just on the outskirts of Baghdad .",
+  "sentence_index" : 9,
+  "Tokens" : [ "The", "Navy", "has", "set", "up", "a", "helicopter", "landing", "zone", "just", "a", "100", "meters", "from", "a", "mobile", "operating", "room", ",", "just", "on", "the", "outskirts", "of", "Baghdad", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "It is there the doctors begin their work",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E12-24",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "CNN_IP_20030412.1600.05-R8",
+  "mentionArg1" : {
+    "extent" : "the doctors",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E1-25",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "CNN_IP_20030412.1600.05-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "It is there the doctors begin their work .",
+  "sentence_index" : 12,
+  "Tokens" : [ "It", "is", "there", "the", "doctors", "begin", "their", "work", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Over 45 minutes as we watched, 32 patients were delivered here, evaluated and nine operations started; 29 of those delivered, Marines involved in a firefight in the center of Baghdad",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E12-29",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030412.1600.05-R9",
+  "mentionArg1" : {
+    "extent" : "32 patients",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E17-28",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030412.1600.05-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Over 45 minutes as we watched , 32 patients were delivered here , evaluated and nine operations started ; 29 of those delivered , Marines involved in a firefight in the center of Baghdad .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Over", "45", "minutes", "as", "we", "watched", ",", "32", "patients", "were", "delivered", "here", ",", "evaluated", "and", "nine", "operations", "started", ";", "29", "of", "those", "delivered", ",", "Marines", "involved", "in", "a", "firefight", "in", "the", "center", "of", "Baghdad", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Marines involved in a firefight in the center of Baghdad",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "the center of Baghdad",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E20-33",
+    "start" : 30,
+    "end" : 33
+  },
+  "relationID" : "CNN_IP_20030412.1600.05-R10",
+  "mentionArg1" : {
+    "extent" : "Marines involved in a firefight in the center of Baghdad",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E18-32",
+    "start" : 24,
+    "end" : 33
+  },
+  "id" : "CNN_IP_20030412.1600.05-R10-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Over 45 minutes as we watched , 32 patients were delivered here , evaluated and nine operations started ; 29 of those delivered , Marines involved in a firefight in the center of Baghdad .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Over", "45", "minutes", "as", "we", "watched", ",", "32", "patients", "were", "delivered", "here", ",", "evaluated", "and", "nine", "operations", "started", ";", "29", "of", "those", "delivered", ",", "Marines", "involved", "in", "a", "firefight", "in", "the", "center", "of", "Baghdad", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the center of Baghdad",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E39-34",
+    "start" : 33,
+    "end" : 33
+  },
+  "relationID" : "CNN_IP_20030412.1600.05-R11",
+  "mentionArg1" : {
+    "extent" : "the center of Baghdad",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E20-33",
+    "start" : 30,
+    "end" : 33
+  },
+  "id" : "CNN_IP_20030412.1600.05-R11-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Over 45 minutes as we watched , 32 patients were delivered here , evaluated and nine operations started ; 29 of those delivered , Marines involved in a firefight in the center of Baghdad .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Over", "45", "minutes", "as", "we", "watched", ",", "32", "patients", "were", "delivered", "here", ",", "evaluated", "and", "nine", "operations", "started", ";", "29", "of", "those", "delivered", ",", "Marines", "involved", "in", "a", "firefight", "in", "the", "center", "of", "Baghdad", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "rocket-propelled grenades",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "rocket-propelled grenades",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E21-36",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030412.1600.05-R12",
+  "mentionArg1" : {
+    "extent" : "rocket",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E22-37",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030412.1600.05-R12-1",
+  "relationSubType" : "Artifact",
+  "Sentence" : "Their stories could be seen in the shrapnel wounds of rocket-propelled grenades and bullet wounds from semi-automatic weapons .",
+  "sentence_index" : 14,
+  "Tokens" : [ "Their", "stories", "could", "be", "seen", "in", "the", "shrapnel", "wounds", "of", "rocket-propelled", "grenades", "and", "bullet", "wounds", "from", "semi-automatic", "weapons", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Dr. Sanjay Gupta, CNN with the Devil Docs outside Baghdad",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E39-49",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030412.1600.05-R14",
+  "mentionArg1" : {
+    "extent" : "Dr. Sanjay Gupta",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E29-45",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030412.1600.05-R14-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Dr. Sanjay Gupta , CNN with the Devil Docs outside Baghdad .",
+  "sentence_index" : 19,
+  "Tokens" : [ "Dr.", "Sanjay", "Gupta", ",", "CNN", "with", "the", "Devil", "Docs", "outside", "Baghdad", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Dr. Sanjay Gupta, CNN with the Devil Docs outside Baghdad",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E39-49",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "CNN_IP_20030412.1600.05-R15",
+  "mentionArg1" : {
+    "extent" : "the Devil Docs",
+    "argMentionid" : "CNN_IP_20030412.1600.05-E1-48",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030412.1600.05-R15-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Dr. Sanjay Gupta , CNN with the Devil Docs outside Baghdad .",
+  "sentence_index" : 19,
+  "Tokens" : [ "Dr.", "Sanjay", "Gupta", ",", "CNN", "with", "the", "Devil", "Docs", "outside", "Baghdad", "." ]
+} ]

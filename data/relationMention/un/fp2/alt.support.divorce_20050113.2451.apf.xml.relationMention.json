@@ -1,0 +1,1321 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "my wife",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "my wife",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E68-251",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R1",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E6-252",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "alt.support.divorce_20050113.2451-R1-1",
+  "relationSubType" : "Family",
+  "Sentence" : "I love my wife , and the kids get along just fine .",
+  "sentence_index" : 3,
+  "Tokens" : [ "I", "love", "my", "wife", ",", "and", "the", "kids", "get", "along", "just", "fine", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "My wife",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "My wife",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E68-52",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R1",
+  "mentionArg1" : {
+    "extent" : "My",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E6-259",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "alt.support.divorce_20050113.2451-R1-2",
+  "relationSubType" : "Family",
+  "Sentence" : "But we all have some sort of personality problems .... My wife belongs to a support group , and just for fun , they all googled their hubbies ex's .",
+  "sentence_index" : 6,
+  "Tokens" : [ "But", "we", "all", "have", "some", "sort", "of", "personality", "problems", "....", "My", "wife", "belongs", "to", "a", "support", "group", ",", "and", "just", "for", "fun", ",", "they", "all", "googled", "their", "hubbies", "ex's", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "My wife",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "My wife",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E68-134",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R1",
+  "mentionArg1" : {
+    "extent" : "My",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E6-19",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "alt.support.divorce_20050113.2451-R1-3",
+  "relationSubType" : "Family",
+  "Sentence" : "My wife 's name is M. We 're going to a bed and breakfast this weekend , to get away , relax .",
+  "sentence_index" : 52,
+  "Tokens" : [ "My", "wife", "'s", "name", "is", "M.", "We", "'re", "going", "to", "a", "bed", "and", "breakfast", "this", "weekend", ",", "to", "get", "away", ",", "relax", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my exwife",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "my exwife",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E1-255",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R2",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E6-256",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "alt.support.divorce_20050113.2451-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "I do n't like my exwife .",
+  "sentence_index" : 4,
+  "Tokens" : [ "I", "do", "n't", "like", "my", "exwife", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my ex",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "my ex",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E1-59",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R2",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E6-261",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "alt.support.divorce_20050113.2451-R2-2",
+  "relationSubType" : "Family",
+  "Sentence" : "Somehow , this lead me to googling my ex 's boyfriend , call him B. And there he was , talking about plans with his wife and kids .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Somehow", ",", "this", "lead", "me", "to", "googling", "my", "ex", "'s", "boyfriend", ",", "call", "him", "B.", "And", "there", "he", "was", ",", "talking", "about", "plans", "with", "his", "wife", "and", "kids", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my exwife",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "my exwife",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E1-69",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R2",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E6-263",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "alt.support.divorce_20050113.2451-R2-3",
+  "relationSubType" : "Family",
+  "Sentence" : "To me , B was just this one dimensional guy that was being dragged along by my exwife .",
+  "sentence_index" : 9,
+  "Tokens" : [ "To", "me", ",", "B", "was", "just", "this", "one", "dimensional", "guy", "that", "was", "being", "dragged", "along", "by", "my", "exwife", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "My ex",
+  "sentence_length" : 5,
+  "mentionArg2" : {
+    "extent" : "My ex",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E1-86",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R2",
+  "mentionArg1" : {
+    "extent" : "My",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E6-270",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "alt.support.divorce_20050113.2451-R2-4",
+  "relationSubType" : "Family",
+  "Sentence" : "My ex threatened that .",
+  "sentence_index" : 18,
+  "Tokens" : [ "My", "ex", "threatened", "that", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my exwife",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "my exwife",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E1-90",
+    "start" : 1,
+    "end" : 2
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R2",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E6-4",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "alt.support.divorce_20050113.2451-R2-5",
+  "relationSubType" : "Family",
+  "Sentence" : "Perhaps my exwife has more sympathy for what its like to be a guy on the receiving end of a divorce now ?",
+  "sentence_index" : 23,
+  "Tokens" : [ "Perhaps", "my", "exwife", "has", "more", "sympathy", "for", "what", "its", "like", "to", "be", "a", "guy", "on", "the", "receiving", "end", "of", "a", "divorce", "now", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "My exwife",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "My exwife",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E1-115",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R2",
+  "mentionArg1" : {
+    "extent" : "My",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E6-12",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "alt.support.divorce_20050113.2451-R2-6",
+  "relationSubType" : "Family",
+  "Sentence" : "My exwife is a total pain in the ass much of the time , and I tried to let her do what she wanted , sometimes I couldn't .",
+  "sentence_index" : 42,
+  "Tokens" : [ "My", "exwife", "is", "a", "total", "pain", "in", "the", "ass", "much", "of", "the", "time", ",", "and", "I", "tried", "to", "let", "her", "do", "what", "she", "wanted", ",", "sometimes", "I", "couldn't", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my exwife",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "my exwife",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E1-150",
+    "start" : 1,
+    "end" : 2
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R2",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E6-33",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "alt.support.divorce_20050113.2451-R2-7",
+  "relationSubType" : "Family",
+  "Sentence" : "If my exwife does n't dump B , maybe they 'll wind up staying together , maybe even getting married .",
+  "sentence_index" : 64,
+  "Tokens" : [ "If", "my", "exwife", "does", "n't", "dump", "B", ",", "maybe", "they", "'ll", "wind", "up", "staying", "together", ",", "maybe", "even", "getting", "married", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my exwife",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "my exwife",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E1-156",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R2",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E6-36",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "alt.support.divorce_20050113.2451-R2-8",
+  "relationSubType" : "Family",
+  "Sentence" : "I 'm assuming there is some humanity beneath my exwife 's narcicistic shell , but I do believe there is .",
+  "sentence_index" : 67,
+  "Tokens" : [ "I", "'m", "assuming", "there", "is", "some", "humanity", "beneath", "my", "exwife", "'s", "narcicistic", "shell", ",", "but", "I", "do", "believe", "there", "is", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my ex",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "my ex",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E1-160",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R2",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E6-38",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "alt.support.divorce_20050113.2451-R2-9",
+  "relationSubType" : "Family",
+  "Sentence" : "So , B and my ex will be doing the same thing that I 'm doing .",
+  "sentence_index" : 69,
+  "Tokens" : [ "So", ",", "B", "and", "my", "ex", "will", "be", "doing", "the", "same", "thing", "that", "I", "'m", "doing", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "your ex",
+  "sentence_length" : 63,
+  "mentionArg2" : {
+    "extent" : "your ex",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E1-249",
+    "start" : 59,
+    "end" : 60
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R2",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E6-248",
+    "start" : 59,
+    "end" : 59
+  },
+  "id" : "alt.support.divorce_20050113.2451-R2-10",
+  "relationSubType" : "Family",
+  "Sentence" : "Especially for those of us who still have so many years ( if one year for every 2 married , then I 've still got another 7 or so ) to go to get our heads screwed back on and find some sort of life that rivals what we had or what our ex has or what you and your ex have .",
+  "sentence_index" : 92,
+  "Tokens" : [ "Especially", "for", "those", "of", "us", "who", "still", "have", "so", "many", "years", "(", "if", "one", "year", "for", "every", "2", "married", ",", "then", "I", "'ve", "still", "got", "another", "7", "or", "so", ")", "to", "go", "to", "get", "our", "heads", "screwed", "back", "on", "and", "find", "some", "sort", "of", "life", "that", "rivals", "what", "we", "had", "or", "what", "our", "ex", "has", "or", "what", "you", "and", "your", "ex", "have", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their hubbies ex's",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "their hubbies ex's",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E4-55",
+    "start" : 26,
+    "end" : 28
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R4",
+  "mentionArg1" : {
+    "extent" : "their hubbies",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E5-56",
+    "start" : 26,
+    "end" : 27
+  },
+  "id" : "alt.support.divorce_20050113.2451-R4-1",
+  "relationSubType" : "Family",
+  "Sentence" : "But we all have some sort of personality problems .... My wife belongs to a support group , and just for fun , they all googled their hubbies ex's .",
+  "sentence_index" : 6,
+  "Tokens" : [ "But", "we", "all", "have", "some", "sort", "of", "personality", "problems", "....", "My", "wife", "belongs", "to", "a", "support", "group", ",", "and", "just", "for", "fun", ",", "they", "all", "googled", "their", "hubbies", "ex's", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their hubbies",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "their hubbies",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E5-56",
+    "start" : 26,
+    "end" : 27
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R5",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E3-57",
+    "start" : 26,
+    "end" : 26
+  },
+  "id" : "alt.support.divorce_20050113.2451-R5-1",
+  "relationSubType" : "Family",
+  "Sentence" : "But we all have some sort of personality problems .... My wife belongs to a support group , and just for fun , they all googled their hubbies ex's .",
+  "sentence_index" : 6,
+  "Tokens" : [ "But", "we", "all", "have", "some", "sort", "of", "personality", "problems", "....", "My", "wife", "belongs", "to", "a", "support", "group", ",", "and", "just", "for", "fun", ",", "they", "all", "googled", "their", "hubbies", "ex's", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my ex's boyfriend",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "my ex's boyfriend",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E7-58",
+    "start" : 7,
+    "end" : 10
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R7",
+  "mentionArg1" : {
+    "extent" : "my ex",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E1-59",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "alt.support.divorce_20050113.2451-R7-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "Somehow , this lead me to googling my ex 's boyfriend , call him B. And there he was , talking about plans with his wife and kids .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Somehow", ",", "this", "lead", "me", "to", "googling", "my", "ex", "'s", "boyfriend", ",", "call", "him", "B.", "And", "there", "he", "was", ",", "talking", "about", "plans", "with", "his", "wife", "and", "kids", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his wife and kids",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "his wife and kids",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E9-64",
+    "start" : 24,
+    "end" : 27
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R8",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E7-63",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "alt.support.divorce_20050113.2451-R8-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Somehow , this lead me to googling my ex 's boyfriend , call him B. And there he was , talking about plans with his wife and kids .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Somehow", ",", "this", "lead", "me", "to", "googling", "my", "ex", "'s", "boyfriend", ",", "call", "him", "B.", "And", "there", "he", "was", ",", "talking", "about", "plans", "with", "his", "wife", "and", "kids", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his ex",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "his ex",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E9-83",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R8",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E7-82",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "alt.support.divorce_20050113.2451-R8-2",
+  "relationSubType" : "Family",
+  "Sentence" : "I wonder if B had a huge messy divorce , and his ex took the kid out of state .",
+  "sentence_index" : 17,
+  "Tokens" : [ "I", "wonder", "if", "B", "had", "a", "huge", "messy", "divorce", ",", "and", "his", "ex", "took", "the", "kid", "out", "of", "state", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "B's exwife",
+  "sentence_length" : 6,
+  "mentionArg2" : {
+    "extent" : "B's exwife",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E9-93",
+    "start" : 2,
+    "end" : 4
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R8",
+  "mentionArg1" : {
+    "extent" : "B",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E7-92",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "alt.support.divorce_20050113.2451-R8-3",
+  "relationSubType" : "Family",
+  "Sentence" : "I found B 's exwife .",
+  "sentence_index" : 26,
+  "Tokens" : [ "I", "found", "B", "'s", "exwife", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Mr. and Mrs. B",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "Mrs. B",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E9-110",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R8",
+  "mentionArg1" : {
+    "extent" : "Mr",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E7-109",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "alt.support.divorce_20050113.2451-R8-4",
+  "relationSubType" : "Family",
+  "Sentence" : "Mr. and Mrs. B had a real life too .",
+  "sentence_index" : 31,
+  "Tokens" : [ "Mr.", "and", "Mrs.", "B", "had", "a", "real", "life", "too", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his wife and kids",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "his wife and kids",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E10-65",
+    "start" : 24,
+    "end" : 27
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R9",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E7-63",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "alt.support.divorce_20050113.2451-R9-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Somehow , this lead me to googling my ex 's boyfriend , call him B. And there he was , talking about plans with his wife and kids .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Somehow", ",", "this", "lead", "me", "to", "googling", "my", "ex", "'s", "boyfriend", ",", "call", "him", "B.", "And", "there", "he", "was", ",", "talking", "about", "plans", "with", "his", "wife", "and", "kids", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "B's son",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "B's son",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E12-73",
+    "start" : 5,
+    "end" : 7
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R11",
+  "mentionArg1" : {
+    "extent" : "B",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E7-74",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "alt.support.divorce_20050113.2451-R11-1",
+  "relationSubType" : "Family",
+  "Sentence" : "I wonder what happenned to B 's son ?",
+  "sentence_index" : 14,
+  "Tokens" : [ "I", "wonder", "what", "happenned", "to", "B", "'s", "son", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "B's son",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "B's son",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E12-78",
+    "start" : 0,
+    "end" : 2
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R11",
+  "mentionArg1" : {
+    "extent" : "B",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E7-79",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "alt.support.divorce_20050113.2451-R11-2",
+  "relationSubType" : "Family",
+  "Sentence" : "B 's son is apparently 16 years old , same age as my daughter .",
+  "sentence_index" : 16,
+  "Tokens" : [ "B", "'s", "son", "is", "apparently", "16", "years", "old", ",", "same", "age", "as", "my", "daughter", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "B's kid",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "B's kid",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E12-106",
+    "start" : 6,
+    "end" : 8
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R11",
+  "mentionArg1" : {
+    "extent" : "B",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E7-104",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "alt.support.divorce_20050113.2451-R11-3",
+  "relationSubType" : "Family",
+  "Sentence" : "I 'll have to ask about B 's kid when my own kids switch off next week .",
+  "sentence_index" : 36,
+  "Tokens" : [ "I", "'ll", "have", "to", "ask", "about", "B", "'s", "kid", "when", "my", "own", "kids", "switch", "off", "next", "week", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "My kids",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "My kids",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E69-75",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R12",
+  "mentionArg1" : {
+    "extent" : "My",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E6-267",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "alt.support.divorce_20050113.2451-R12-1",
+  "relationSubType" : "Family",
+  "Sentence" : "My kids never mentioned B having a son .",
+  "sentence_index" : 15,
+  "Tokens" : [ "My", "kids", "never", "mentioned", "B", "having", "a", "son", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my kids",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "my kids",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E69-88",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R12",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E6-2",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "alt.support.divorce_20050113.2451-R12-2",
+  "relationSubType" : "Family",
+  "Sentence" : "I have my kids almost 50/50 these days , but it was a huge messy post divorce compromise that took a year to complete .",
+  "sentence_index" : 21,
+  "Tokens" : [ "I", "have", "my", "kids", "almost", "50/50", "these", "days", ",", "but", "it", "was", "a", "huge", "messy", "post", "divorce", "compromise", "that", "took", "a", "year", "to", "complete", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my own kids",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "my own kids",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E69-107",
+    "start" : 10,
+    "end" : 12
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R12",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E6-9",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "alt.support.divorce_20050113.2451-R12-3",
+  "relationSubType" : "Family",
+  "Sentence" : "I 'll have to ask about B 's kid when my own kids switch off next week .",
+  "sentence_index" : 36,
+  "Tokens" : [ "I", "'ll", "have", "to", "ask", "about", "B", "'s", "kid", "when", "my", "own", "kids", "switch", "off", "next", "week", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my kids",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "my kids",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E69-142",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R12",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E6-21",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "alt.support.divorce_20050113.2451-R12-4",
+  "relationSubType" : "Family",
+  "Sentence" : "We share adventures together , we share adventure with my kids , and with our dogs .",
+  "sentence_index" : 54,
+  "Tokens" : [ "We", "share", "adventures", "together", ",", "we", "share", "adventure", "with", "my", "kids", ",", "and", "with", "our", "dogs", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my daughter",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "my daughter",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E13-80",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R14",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E6-268",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "alt.support.divorce_20050113.2451-R14-1",
+  "relationSubType" : "Family",
+  "Sentence" : "B 's son is apparently 16 years old , same age as my daughter .",
+  "sentence_index" : 16,
+  "Tokens" : [ "B", "'s", "son", "is", "apparently", "16", "years", "old", ",", "same", "age", "as", "my", "daughter", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the B's kid",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "the B's kid",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E12-113",
+    "start" : 7,
+    "end" : 10
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R20",
+  "mentionArg1" : {
+    "extent" : "the B",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E20-112",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "alt.support.divorce_20050113.2451-R20-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Now I 'm even more curious about the B 's kid .",
+  "sentence_index" : 33,
+  "Tokens" : [ "Now", "I", "'m", "even", "more", "curious", "about", "the", "B", "'s", "kid", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "She still lives in town here",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "town",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E14-84",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R21",
+  "mentionArg1" : {
+    "extent" : "She",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E9-103",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "alt.support.divorce_20050113.2451-R21-1",
+  "relationSubType" : "Located",
+  "Sentence" : "She still lives in town here .",
+  "sentence_index" : 34,
+  "Tokens" : [ "She", "still", "lives", "in", "town", "here", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my family",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "my family",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E26-122",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R26",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E6-17",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "alt.support.divorce_20050113.2451-R26-1",
+  "relationSubType" : "Family",
+  "Sentence" : "She 's lost my family , I 'm slowly drifting out of touch with her family .",
+  "sentence_index" : 45,
+  "Tokens" : [ "She", "'s", "lost", "my", "family", ",", "I", "'m", "slowly", "drifting", "out", "of", "touch", "with", "her", "family", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her family",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "her family",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E27-124",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R27",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E1-125",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "alt.support.divorce_20050113.2451-R27-1",
+  "relationSubType" : "Family",
+  "Sentence" : "She 's lost my family , I 'm slowly drifting out of touch with her family .",
+  "sentence_index" : 45,
+  "Tokens" : [ "She", "'s", "lost", "my", "family", ",", "I", "'m", "slowly", "drifting", "out", "of", "touch", "with", "her", "family", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "We're going to a bed and breakfast this weekend, to get away, relax",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "a bed and breakfast",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E33-136",
+    "start" : 10,
+    "end" : 13
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R29",
+  "mentionArg1" : {
+    "extent" : "We",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E32-135",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "alt.support.divorce_20050113.2451-R29-1",
+  "relationSubType" : "Located",
+  "Sentence" : "My wife 's name is M. We 're going to a bed and breakfast this weekend , to get away , relax .",
+  "sentence_index" : 52,
+  "Tokens" : [ "My", "wife", "'s", "name", "is", "M.", "We", "'re", "going", "to", "a", "bed", "and", "breakfast", "this", "weekend", ",", "to", "get", "away", ",", "relax", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "My ex",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "My ex",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E42-169",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R34",
+  "mentionArg1" : {
+    "extent" : "My",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E41-168",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "alt.support.divorce_20050113.2451-R34-1",
+  "relationSubType" : "Family",
+  "Sentence" : "My ex has that nice new life with the child-bride and the 2 cats and 2 dogs and new house and my son primarily lives with them even though he ends up being at my place 1/2 the time in a 2-week period .",
+  "sentence_index" : 79,
+  "Tokens" : [ "My", "ex", "has", "that", "nice", "new", "life", "with", "the", "child-bride", "and", "the", "2", "cats", "and", "2", "dogs", "and", "new", "house", "and", "my", "son", "primarily", "lives", "with", "them", "even", "though", "he", "ends", "up", "being", "at", "my", "place", "1/2", "the", "time", "in", "a", "2-week", "period", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "My ex",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "My ex",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E42-182",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R34",
+  "mentionArg1" : {
+    "extent" : "My",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E41-183",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "alt.support.divorce_20050113.2451-R34-2",
+  "relationSubType" : "Family",
+  "Sentence" : "My ex has most all of the photos as our son lives there and it 's his history .",
+  "sentence_index" : 81,
+  "Tokens" : [ "My", "ex", "has", "most", "all", "of", "the", "photos", "as", "our", "son", "lives", "there", "and", "it", "'s", "his", "history", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my ex",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "my ex",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E42-189",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R34",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E41-190",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "alt.support.divorce_20050113.2451-R34-3",
+  "relationSubType" : "Family",
+  "Sentence" : "I did get a good bunch of the wedding photos , but my ex refused to give them all to me saying it was \" his life too \" even though I really resent them being under the same roof with his child-bride .",
+  "sentence_index" : 82,
+  "Tokens" : [ "I", "did", "get", "a", "good", "bunch", "of", "the", "wedding", "photos", ",", "but", "my", "ex", "refused", "to", "give", "them", "all", "to", "me", "saying", "it", "was", "\"", "his", "life", "too", "\"", "even", "though", "I", "really", "resent", "them", "being", "under", "the", "same", "roof", "with", "his", "child-bride", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my ex",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "my ex",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E42-231",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R34",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E41-221",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "alt.support.divorce_20050113.2451-R34-4",
+  "relationSubType" : "Family",
+  "Sentence" : "My family thinks my ex is pond scum but because my parents are still members at the same church , they have to see my ex and his new wife every week .",
+  "sentence_index" : 88,
+  "Tokens" : [ "My", "family", "thinks", "my", "ex", "is", "pond", "scum", "but", "because", "my", "parents", "are", "still", "members", "at", "the", "same", "church", ",", "they", "have", "to", "see", "my", "ex", "and", "his", "new", "wife", "every", "week", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my ex",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "my ex",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E42-224",
+    "start" : 24,
+    "end" : 25
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R34",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E41-223",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "alt.support.divorce_20050113.2451-R34-5",
+  "relationSubType" : "Family",
+  "Sentence" : "My family thinks my ex is pond scum but because my parents are still members at the same church , they have to see my ex and his new wife every week .",
+  "sentence_index" : 88,
+  "Tokens" : [ "My", "family", "thinks", "my", "ex", "is", "pond", "scum", "but", "because", "my", "parents", "are", "still", "members", "at", "the", "same", "church", ",", "they", "have", "to", "see", "my", "ex", "and", "his", "new", "wife", "every", "week", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "My ex has that nice new life with the child-bride and the 2 cats and 2 dogs and new house and my son primarily lives with them even though he ends up being at my place 1/2 the time in a 2-week period",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "the child-bride",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E43-170",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R35",
+  "mentionArg1" : {
+    "extent" : "My ex",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E42-169",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "alt.support.divorce_20050113.2451-R35-1",
+  "relationSubType" : "Family",
+  "Sentence" : "My ex has that nice new life with the child-bride and the 2 cats and 2 dogs and new house and my son primarily lives with them even though he ends up being at my place 1/2 the time in a 2-week period .",
+  "sentence_index" : 79,
+  "Tokens" : [ "My", "ex", "has", "that", "nice", "new", "life", "with", "the", "child-bride", "and", "the", "2", "cats", "and", "2", "dogs", "and", "new", "house", "and", "my", "son", "primarily", "lives", "with", "them", "even", "though", "he", "ends", "up", "being", "at", "my", "place", "1/2", "the", "time", "in", "a", "2-week", "period", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his child-bride",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "his child-bride",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E43-194",
+    "start" : 41,
+    "end" : 42
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R35",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E42-196",
+    "start" : 41,
+    "end" : 41
+  },
+  "id" : "alt.support.divorce_20050113.2451-R35-2",
+  "relationSubType" : "Family",
+  "Sentence" : "I did get a good bunch of the wedding photos , but my ex refused to give them all to me saying it was \" his life too \" even though I really resent them being under the same roof with his child-bride .",
+  "sentence_index" : 82,
+  "Tokens" : [ "I", "did", "get", "a", "good", "bunch", "of", "the", "wedding", "photos", ",", "but", "my", "ex", "refused", "to", "give", "them", "all", "to", "me", "saying", "it", "was", "\"", "his", "life", "too", "\"", "even", "though", "I", "really", "resent", "them", "being", "under", "the", "same", "roof", "with", "his", "child-bride", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his new wife",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "his new wife",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E43-226",
+    "start" : 27,
+    "end" : 29
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R35",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E42-225",
+    "start" : 27,
+    "end" : 27
+  },
+  "id" : "alt.support.divorce_20050113.2451-R35-3",
+  "relationSubType" : "Family",
+  "Sentence" : "My family thinks my ex is pond scum but because my parents are still members at the same church , they have to see my ex and his new wife every week .",
+  "sentence_index" : 88,
+  "Tokens" : [ "My", "family", "thinks", "my", "ex", "is", "pond", "scum", "but", "because", "my", "parents", "are", "still", "members", "at", "the", "same", "church", ",", "they", "have", "to", "see", "my", "ex", "and", "his", "new", "wife", "every", "week", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "My ex has that nice new life with the child-bride and the 2 cats and 2 dogs and new house and my son primarily lives with them even though he ends up being at my place 1/2 the time in a 2-week period",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "new house",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E44-171",
+    "start" : 18,
+    "end" : 19
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R36",
+  "mentionArg1" : {
+    "extent" : "My",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E41-168",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "alt.support.divorce_20050113.2451-R36-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "My ex has that nice new life with the child-bride and the 2 cats and 2 dogs and new house and my son primarily lives with them even though he ends up being at my place 1/2 the time in a 2-week period .",
+  "sentence_index" : 79,
+  "Tokens" : [ "My", "ex", "has", "that", "nice", "new", "life", "with", "the", "child-bride", "and", "the", "2", "cats", "and", "2", "dogs", "and", "new", "house", "and", "my", "son", "primarily", "lives", "with", "them", "even", "though", "he", "ends", "up", "being", "at", "my", "place", "1/2", "the", "time", "in", "a", "2-week", "period", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "My ex has that nice new life with the child-bride and the 2 cats and 2 dogs and new house and my son primarily lives with them even though he ends up being at my place 1/2 the time in a 2-week period",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "my place",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E47-178",
+    "start" : 34,
+    "end" : 35
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R37",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E45-176",
+    "start" : 29,
+    "end" : 29
+  },
+  "id" : "alt.support.divorce_20050113.2451-R37-1",
+  "relationSubType" : "Located",
+  "Sentence" : "My ex has that nice new life with the child-bride and the 2 cats and 2 dogs and new house and my son primarily lives with them even though he ends up being at my place 1/2 the time in a 2-week period .",
+  "sentence_index" : 79,
+  "Tokens" : [ "My", "ex", "has", "that", "nice", "new", "life", "with", "the", "child-bride", "and", "the", "2", "cats", "and", "2", "dogs", "and", "new", "house", "and", "my", "son", "primarily", "lives", "with", "them", "even", "though", "he", "ends", "up", "being", "at", "my", "place", "1/2", "the", "time", "in", "a", "2-week", "period", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my son",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "my son",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E45-174",
+    "start" : 21,
+    "end" : 22
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R38",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E41-173",
+    "start" : 21,
+    "end" : 21
+  },
+  "id" : "alt.support.divorce_20050113.2451-R38-1",
+  "relationSubType" : "Family",
+  "Sentence" : "My ex has that nice new life with the child-bride and the 2 cats and 2 dogs and new house and my son primarily lives with them even though he ends up being at my place 1/2 the time in a 2-week period .",
+  "sentence_index" : 79,
+  "Tokens" : [ "My", "ex", "has", "that", "nice", "new", "life", "with", "the", "child-bride", "and", "the", "2", "cats", "and", "2", "dogs", "and", "new", "house", "and", "my", "son", "primarily", "lives", "with", "them", "even", "though", "he", "ends", "up", "being", "at", "my", "place", "1/2", "the", "time", "in", "a", "2-week", "period", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "my place",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "my place",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E47-178",
+    "start" : 34,
+    "end" : 35
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R39",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E41-179",
+    "start" : 34,
+    "end" : 34
+  },
+  "id" : "alt.support.divorce_20050113.2451-R39-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "My ex has that nice new life with the child-bride and the 2 cats and 2 dogs and new house and my son primarily lives with them even though he ends up being at my place 1/2 the time in a 2-week period .",
+  "sentence_index" : 79,
+  "Tokens" : [ "My", "ex", "has", "that", "nice", "new", "life", "with", "the", "child-bride", "and", "the", "2", "cats", "and", "2", "dogs", "and", "new", "house", "and", "my", "son", "primarily", "lives", "with", "them", "even", "though", "he", "ends", "up", "being", "at", "my", "place", "1/2", "the", "time", "in", "a", "2-week", "period", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "I live in a 961 sq. ft. apartment",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "a 961 sq. ft. apartment",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E47-181",
+    "start" : 4,
+    "end" : 8
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R40",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E41-180",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "alt.support.divorce_20050113.2451-R40-1",
+  "relationSubType" : "Located",
+  "Sentence" : "-- I live in a 961 sq. ft. apartment .",
+  "sentence_index" : 80,
+  "Tokens" : [ "--", "I", "live", "in", "a", "961", "sq.", "ft.", "apartment", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "My ex has most all of the photos as our son lives there and it's his history",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E44-186",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R42",
+  "mentionArg1" : {
+    "extent" : "our son",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E45-184",
+    "start" : 9,
+    "end" : 10
+  },
+  "id" : "alt.support.divorce_20050113.2451-R42-1",
+  "relationSubType" : "Located",
+  "Sentence" : "My ex has most all of the photos as our son lives there and it 's his history .",
+  "sentence_index" : 81,
+  "Tokens" : [ "My", "ex", "has", "most", "all", "of", "the", "photos", "as", "our", "son", "lives", "there", "and", "it", "'s", "his", "history", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "our son",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "our son",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E45-184",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R43",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E48-185",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "alt.support.divorce_20050113.2451-R43-1",
+  "relationSubType" : "Family",
+  "Sentence" : "My ex has most all of the photos as our son lives there and it 's his history .",
+  "sentence_index" : 81,
+  "Tokens" : [ "My", "ex", "has", "most", "all", "of", "the", "photos", "as", "our", "son", "lives", "there", "and", "it", "'s", "his", "history", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "His new inlaws",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "His new inlaws",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E39-137",
+    "start" : 0,
+    "end" : 2
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R46",
+  "mentionArg1" : {
+    "extent" : "His",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E42-172",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "alt.support.divorce_20050113.2451-R46-1",
+  "relationSubType" : "Family",
+  "Sentence" : "His new inlaws are all former family friends I do n't have anything to do with anymore for obvious reasons .",
+  "sentence_index" : 85,
+  "Tokens" : [ "His", "new", "inlaws", "are", "all", "former", "family", "friends", "I", "do", "n't", "have", "anything", "to", "do", "with", "anymore", "for", "obvious", "reasons", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "former family friends I don't have anything to do with anymore for obvious reasons",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "family",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E55-211",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R47",
+  "mentionArg1" : {
+    "extent" : "former family friends I don't have anything to do with anymore for obvious reasons",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E39-177",
+    "start" : 5,
+    "end" : 19
+  },
+  "id" : "alt.support.divorce_20050113.2451-R47-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "His new inlaws are all former family friends I do n't have anything to do with anymore for obvious reasons .",
+  "sentence_index" : 85,
+  "Tokens" : [ "His", "new", "inlaws", "are", "all", "former", "family", "friends", "I", "do", "n't", "have", "anything", "to", "do", "with", "anymore", "for", "obvious", "reasons", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "His family (brother, sister, stepmother",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "His family (brother, sister, stepmother",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E50-203",
+    "start" : 0,
+    "end" : 7
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R48",
+  "mentionArg1" : {
+    "extent" : "His",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E42-204",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "alt.support.divorce_20050113.2451-R48-1",
+  "relationSubType" : "Family",
+  "Sentence" : "His family ( brother , sister , stepmother ) conveniently seem to forget that for almost 20 years I was a member of their family .",
+  "sentence_index" : 86,
+  "Tokens" : [ "His", "family", "(", "brother", ",", "sister", ",", "stepmother", ")", "conveniently", "seem", "to", "forget", "that", "for", "almost", "20", "years", "I", "was", "a", "member", "of", "their", "family", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "a member of their family",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "their family",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E55-212",
+    "start" : 23,
+    "end" : 24
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R49",
+  "mentionArg1" : {
+    "extent" : "a member of their family",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E41-209",
+    "start" : 20,
+    "end" : 24
+  },
+  "id" : "alt.support.divorce_20050113.2451-R49-1",
+  "relationSubType" : "Family",
+  "Sentence" : "His family ( brother , sister , stepmother ) conveniently seem to forget that for almost 20 years I was a member of their family .",
+  "sentence_index" : 86,
+  "Tokens" : [ "His", "family", "(", "brother", ",", "sister", ",", "stepmother", ")", "conveniently", "seem", "to", "forget", "that", "for", "almost", "20", "years", "I", "was", "a", "member", "of", "their", "family", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "There was no gradual \"drifting of out touch\" despite the fact that we all live in the same city and my ex BIL and I even work within blocks of each other",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "the same city",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E58-214",
+    "start" : 18,
+    "end" : 20
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R50",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E57-213",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "alt.support.divorce_20050113.2451-R50-1",
+  "relationSubType" : "Located",
+  "Sentence" : "There was no gradual \" drifting of out touch \" despite the fact that we all live in the same city and my ex BIL and I even work within blocks of each other .",
+  "sentence_index" : 87,
+  "Tokens" : [ "There", "was", "no", "gradual", "\"", "drifting", "of", "out", "touch", "\"", "despite", "the", "fact", "that", "we", "all", "live", "in", "the", "same", "city", "and", "my", "ex", "BIL", "and", "I", "even", "work", "within", "blocks", "of", "each", "other", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my ex BIL",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "my ex BIL",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E51-215",
+    "start" : 22,
+    "end" : 24
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R51",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E41-216",
+    "start" : 22,
+    "end" : 22
+  },
+  "id" : "alt.support.divorce_20050113.2451-R51-1",
+  "relationSubType" : "Family",
+  "Sentence" : "There was no gradual \" drifting of out touch \" despite the fact that we all live in the same city and my ex BIL and I even work within blocks of each other .",
+  "sentence_index" : 87,
+  "Tokens" : [ "There", "was", "no", "gradual", "\"", "drifting", "of", "out", "touch", "\"", "despite", "the", "fact", "that", "we", "all", "live", "in", "the", "same", "city", "and", "my", "ex", "BIL", "and", "I", "even", "work", "within", "blocks", "of", "each", "other", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "My family",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "My family",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E60-219",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R52",
+  "mentionArg1" : {
+    "extent" : "My",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E41-220",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "alt.support.divorce_20050113.2451-R52-1",
+  "relationSubType" : "Family",
+  "Sentence" : "My family thinks my ex is pond scum but because my parents are still members at the same church , they have to see my ex and his new wife every week .",
+  "sentence_index" : 88,
+  "Tokens" : [ "My", "family", "thinks", "my", "ex", "is", "pond", "scum", "but", "because", "my", "parents", "are", "still", "members", "at", "the", "same", "church", ",", "they", "have", "to", "see", "my", "ex", "and", "his", "new", "wife", "every", "week", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their family",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "their family",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E55-212",
+    "start" : 23,
+    "end" : 24
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R53",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E50-210",
+    "start" : 23,
+    "end" : 23
+  },
+  "id" : "alt.support.divorce_20050113.2451-R53-1",
+  "relationSubType" : "Family",
+  "Sentence" : "His family ( brother , sister , stepmother ) conveniently seem to forget that for almost 20 years I was a member of their family .",
+  "sentence_index" : 86,
+  "Tokens" : [ "His", "family", "(", "brother", ",", "sister", ",", "stepmother", ")", "conveniently", "seem", "to", "forget", "that", "for", "almost", "20", "years", "I", "was", "a", "member", "of", "their", "family", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my parents",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "my parents",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E61-232",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R55",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E41-222",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "alt.support.divorce_20050113.2451-R55-1",
+  "relationSubType" : "Family",
+  "Sentence" : "My family thinks my ex is pond scum but because my parents are still members at the same church , they have to see my ex and his new wife every week .",
+  "sentence_index" : 88,
+  "Tokens" : [ "My", "family", "thinks", "my", "ex", "is", "pond", "scum", "but", "because", "my", "parents", "are", "still", "members", "at", "the", "same", "church", ",", "they", "have", "to", "see", "my", "ex", "and", "his", "new", "wife", "every", "week", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "members at the same church",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "the same church",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E65-236",
+    "start" : 16,
+    "end" : 18
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R56",
+  "mentionArg1" : {
+    "extent" : "members at the same church",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E61-235",
+    "start" : 14,
+    "end" : 18
+  },
+  "id" : "alt.support.divorce_20050113.2451-R56-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "My family thinks my ex is pond scum but because my parents are still members at the same church , they have to see my ex and his new wife every week .",
+  "sentence_index" : 88,
+  "Tokens" : [ "My", "family", "thinks", "my", "ex", "is", "pond", "scum", "but", "because", "my", "parents", "are", "still", "members", "at", "the", "same", "church", ",", "they", "have", "to", "see", "my", "ex", "and", "his", "new", "wife", "every", "week", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "our ex",
+  "sentence_length" : 63,
+  "mentionArg2" : {
+    "extent" : "our ex",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E67-246",
+    "start" : 52,
+    "end" : 53
+  },
+  "relationID" : "alt.support.divorce_20050113.2451-R59",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "alt.support.divorce_20050113.2451-E66-245",
+    "start" : 52,
+    "end" : 52
+  },
+  "id" : "alt.support.divorce_20050113.2451-R59-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Especially for those of us who still have so many years ( if one year for every 2 married , then I 've still got another 7 or so ) to go to get our heads screwed back on and find some sort of life that rivals what we had or what our ex has or what you and your ex have .",
+  "sentence_index" : 92,
+  "Tokens" : [ "Especially", "for", "those", "of", "us", "who", "still", "have", "so", "many", "years", "(", "if", "one", "year", "for", "every", "2", "married", ",", "then", "I", "'ve", "still", "got", "another", "7", "or", "so", ")", "to", "go", "to", "get", "our", "heads", "screwed", "back", "on", "and", "find", "some", "sort", "of", "life", "that", "rivals", "what", "we", "had", "or", "what", "our", "ex", "has", "or", "what", "you", "and", "your", "ex", "have", "." ]
+} ]

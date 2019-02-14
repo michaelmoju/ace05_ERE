@@ -1,0 +1,89 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "Afghan President",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Afghan",
+    "argMentionid" : "XIN_ENG_20030425.0184-E21-45",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "XIN_ENG_20030425.0184-R1",
+  "mentionArg1" : {
+    "extent" : "Afghan President",
+    "argMentionid" : "XIN_ENG_20030425.0184-E19-44",
+    "start" : 15,
+    "end" : 16
+  },
+  "id" : "XIN_ENG_20030425.0184-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Rashid Ahmed made the remarks when his attention was drawn to the recent visit by Afghan President Hamid Karzai , according to the Associated Press of Pakistan .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Rashid", "Ahmed", "made", "the", "remarks", "when", "his", "attention", "was", "drawn", "to", "the", "recent", "visit", "by", "Afghan", "President", "Hamid", "Karzai", ",", "according", "to", "the", "Associated", "Press", "of", "Pakistan", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Central Asian countries",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Central Asian",
+    "argMentionid" : "XIN_ENG_20030425.0184-E9-20",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "XIN_ENG_20030425.0184-R2",
+  "mentionArg1" : {
+    "extent" : "Central Asian countries",
+    "argMentionid" : "XIN_ENG_20030425.0184-E8-19",
+    "start" : 16,
+    "end" : 18
+  },
+  "id" : "XIN_ENG_20030425.0184-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Pakistan , he said , would benefit immensely from stability in Afghanistan as its trade with Central Asian countries will take place through it .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Pakistan", ",", "he", "said", ",", "would", "benefit", "immensely", "from", "stability", "in", "Afghanistan", "as", "its", "trade", "with", "Central", "Asian", "countries", "will", "take", "place", "through", "it", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "No one would be allowed to live in Pakistan illegally and use its land for achieving their nefarious designs,\" Information Minister Sheikh Rashid Ahmed said on Friday",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "Pakistan",
+    "argMentionid" : "XIN_ENG_20030425.0184-E15-35",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "XIN_ENG_20030425.0184-R3",
+  "mentionArg1" : {
+    "extent" : "No one",
+    "argMentionid" : "XIN_ENG_20030425.0184-E14-34",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "XIN_ENG_20030425.0184-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "ISLAMABAD , April 25 ( Xinhua ) \" No one would be allowed to live in Pakistan illegally and use its land for achieving their nefarious designs , \" Information Minister Sheikh Rashid Ahmed said on Friday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "ISLAMABAD", ",", "April", "25", "(", "Xinhua", ")", "\"", "No", "one", "would", "be", "allowed", "to", "live", "in", "Pakistan", "illegally", "and", "use", "its", "land", "for", "achieving", "their", "nefarious", "designs", ",", "\"", "Information", "Minister", "Sheikh", "Rashid", "Ahmed", "said", "on", "Friday", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Referring to al-Qaeda, Musharraf said that no non-Pakistani would be allowed to live in Pakistan without proper documents",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Pakistan",
+    "argMentionid" : "XIN_ENG_20030425.0184-E15-25",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "XIN_ENG_20030425.0184-R4",
+  "mentionArg1" : {
+    "extent" : "no non-Pakistani",
+    "argMentionid" : "XIN_ENG_20030425.0184-E11-24",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "XIN_ENG_20030425.0184-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Referring to al-Qaeda , Musharraf said that no non-Pakistani would be allowed to live in Pakistan without proper documents .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Referring", "to", "al-Qaeda", ",", "Musharraf", "said", "that", "no", "non-Pakistani", "would", "be", "allowed", "to", "live", "in", "Pakistan", "without", "proper", "documents", "." ]
+} ]

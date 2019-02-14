@@ -1,0 +1,89 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "an ohio truck driver who allegedly has ties to al qaeda",
+  "sentence_length" : 174,
+  "mentionArg2" : {
+    "extent" : "ohio",
+    "argMentionid" : "CNN_ENG_20030619_115954.10-E27-43",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "CNN_ENG_20030619_115954.10-R1",
+  "mentionArg1" : {
+    "extent" : "an ohio truck driver who allegedly has ties to al qaeda",
+    "argMentionid" : "CNN_ENG_20030619_115954.10-E25-1",
+    "start" : 15,
+    "end" : 25
+  },
+  "id" : "CNN_ENG_20030619_115954.10-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "reporter : wolf , the government will announce a plea agreement that was reached with an ohio truck driver who allegedly has ties to al qaeda , and the driver 's name is iman ferris , and according to government sources al qaeda leader , khaled sheikh mohammed told investigators that ferris 's order to surveil the brooklyn bridge was the ultimate goal of trying to cut the suspension bridge 's cables and he was involved in a plot to drive a truck loaded with explosives onto an airport tarmac to blow up a plane. obviously , neither plan came off. ferris disappeared from sight , and cnn has confirmed he was taken into custody. the documents regarding this case , wolf , were just unsealed he pled guilty to two counts back on may 1st , because of the extreme sensitivity of the case , details about the plea arrangement were kept under seal. we are told he pled guilty to conspiracy to provide material support to terrorists and actually providing material support",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "wolf", ",", "the", "government", "will", "announce", "a", "plea", "agreement", "that", "was", "reached", "with", "an", "ohio", "truck", "driver", "who", "allegedly", "has", "ties", "to", "al", "qaeda", ",", "and", "the", "driver", "'s", "name", "is", "iman", "ferris", ",", "and", "according", "to", "government", "sources", "al", "qaeda", "leader", ",", "khaled", "sheikh", "mohammed", "told", "investigators", "that", "ferris", "'s", "order", "to", "surveil", "the", "brooklyn", "bridge", "was", "the", "ultimate", "goal", "of", "trying", "to", "cut", "the", "suspension", "bridge", "'s", "cables", "and", "he", "was", "involved", "in", "a", "plot", "to", "drive", "a", "truck", "loaded", "with", "explosives", "onto", "an", "airport", "tarmac", "to", "blow", "up", "a", "plane.", "obviously", ",", "neither", "plan", "came", "off.", "ferris", "disappeared", "from", "sight", ",", "and", "cnn", "has", "confirmed", "he", "was", "taken", "into", "custody.", "the", "documents", "regarding", "this", "case", ",", "wolf", ",", "were", "just", "unsealed", "he", "pled", "guilty", "to", "two", "counts", "back", "on", "may", "1st", ",", "because", "of", "the", "extreme", "sensitivity", "of", "the", "case", ",", "details", "about", "the", "plea", "arrangement", "were", "kept", "under", "seal.", "we", "are", "told", "he", "pled", "guilty", "to", "conspiracy", "to", "provide", "material", "support", "to", "terrorists", "and", "actually", "providing", "material", "support" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "an ohio truck driver who allegedly has ties to al qaeda",
+  "sentence_length" : 174,
+  "mentionArg2" : {
+    "extent" : "truck",
+    "argMentionid" : "CNN_ENG_20030619_115954.10-E26-42",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "CNN_ENG_20030619_115954.10-R2",
+  "mentionArg1" : {
+    "extent" : "an ohio truck driver who allegedly has ties to al qaeda",
+    "argMentionid" : "CNN_ENG_20030619_115954.10-E25-1",
+    "start" : 15,
+    "end" : 25
+  },
+  "id" : "CNN_ENG_20030619_115954.10-R2-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "reporter : wolf , the government will announce a plea agreement that was reached with an ohio truck driver who allegedly has ties to al qaeda , and the driver 's name is iman ferris , and according to government sources al qaeda leader , khaled sheikh mohammed told investigators that ferris 's order to surveil the brooklyn bridge was the ultimate goal of trying to cut the suspension bridge 's cables and he was involved in a plot to drive a truck loaded with explosives onto an airport tarmac to blow up a plane. obviously , neither plan came off. ferris disappeared from sight , and cnn has confirmed he was taken into custody. the documents regarding this case , wolf , were just unsealed he pled guilty to two counts back on may 1st , because of the extreme sensitivity of the case , details about the plea arrangement were kept under seal. we are told he pled guilty to conspiracy to provide material support to terrorists and actually providing material support",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "wolf", ",", "the", "government", "will", "announce", "a", "plea", "agreement", "that", "was", "reached", "with", "an", "ohio", "truck", "driver", "who", "allegedly", "has", "ties", "to", "al", "qaeda", ",", "and", "the", "driver", "'s", "name", "is", "iman", "ferris", ",", "and", "according", "to", "government", "sources", "al", "qaeda", "leader", ",", "khaled", "sheikh", "mohammed", "told", "investigators", "that", "ferris", "'s", "order", "to", "surveil", "the", "brooklyn", "bridge", "was", "the", "ultimate", "goal", "of", "trying", "to", "cut", "the", "suspension", "bridge", "'s", "cables", "and", "he", "was", "involved", "in", "a", "plot", "to", "drive", "a", "truck", "loaded", "with", "explosives", "onto", "an", "airport", "tarmac", "to", "blow", "up", "a", "plane.", "obviously", ",", "neither", "plan", "came", "off.", "ferris", "disappeared", "from", "sight", ",", "and", "cnn", "has", "confirmed", "he", "was", "taken", "into", "custody.", "the", "documents", "regarding", "this", "case", ",", "wolf", ",", "were", "just", "unsealed", "he", "pled", "guilty", "to", "two", "counts", "back", "on", "may", "1st", ",", "because", "of", "the", "extreme", "sensitivity", "of", "the", "case", ",", "details", "about", "the", "plea", "arrangement", "were", "kept", "under", "seal.", "we", "are", "told", "he", "pled", "guilty", "to", "conspiracy", "to", "provide", "material", "support", "to", "terrorists", "and", "actually", "providing", "material", "support" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "government sources",
+  "sentence_length" : 174,
+  "mentionArg2" : {
+    "extent" : "government",
+    "argMentionid" : "CNN_ENG_20030619_115954.10-E1-5",
+    "start" : 39,
+    "end" : 39
+  },
+  "relationID" : "CNN_ENG_20030619_115954.10-R3",
+  "mentionArg1" : {
+    "extent" : "government sources",
+    "argMentionid" : "CNN_ENG_20030619_115954.10-E2-6",
+    "start" : 39,
+    "end" : 40
+  },
+  "id" : "CNN_ENG_20030619_115954.10-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "reporter : wolf , the government will announce a plea agreement that was reached with an ohio truck driver who allegedly has ties to al qaeda , and the driver 's name is iman ferris , and according to government sources al qaeda leader , khaled sheikh mohammed told investigators that ferris 's order to surveil the brooklyn bridge was the ultimate goal of trying to cut the suspension bridge 's cables and he was involved in a plot to drive a truck loaded with explosives onto an airport tarmac to blow up a plane. obviously , neither plan came off. ferris disappeared from sight , and cnn has confirmed he was taken into custody. the documents regarding this case , wolf , were just unsealed he pled guilty to two counts back on may 1st , because of the extreme sensitivity of the case , details about the plea arrangement were kept under seal. we are told he pled guilty to conspiracy to provide material support to terrorists and actually providing material support",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "wolf", ",", "the", "government", "will", "announce", "a", "plea", "agreement", "that", "was", "reached", "with", "an", "ohio", "truck", "driver", "who", "allegedly", "has", "ties", "to", "al", "qaeda", ",", "and", "the", "driver", "'s", "name", "is", "iman", "ferris", ",", "and", "according", "to", "government", "sources", "al", "qaeda", "leader", ",", "khaled", "sheikh", "mohammed", "told", "investigators", "that", "ferris", "'s", "order", "to", "surveil", "the", "brooklyn", "bridge", "was", "the", "ultimate", "goal", "of", "trying", "to", "cut", "the", "suspension", "bridge", "'s", "cables", "and", "he", "was", "involved", "in", "a", "plot", "to", "drive", "a", "truck", "loaded", "with", "explosives", "onto", "an", "airport", "tarmac", "to", "blow", "up", "a", "plane.", "obviously", ",", "neither", "plan", "came", "off.", "ferris", "disappeared", "from", "sight", ",", "and", "cnn", "has", "confirmed", "he", "was", "taken", "into", "custody.", "the", "documents", "regarding", "this", "case", ",", "wolf", ",", "were", "just", "unsealed", "he", "pled", "guilty", "to", "two", "counts", "back", "on", "may", "1st", ",", "because", "of", "the", "extreme", "sensitivity", "of", "the", "case", ",", "details", "about", "the", "plea", "arrangement", "were", "kept", "under", "seal.", "we", "are", "told", "he", "pled", "guilty", "to", "conspiracy", "to", "provide", "material", "support", "to", "terrorists", "and", "actually", "providing", "material", "support" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "al qaeda leader",
+  "sentence_length" : 174,
+  "mentionArg2" : {
+    "extent" : "al qaeda",
+    "argMentionid" : "CNN_ENG_20030619_115954.10-E3-7",
+    "start" : 41,
+    "end" : 42
+  },
+  "relationID" : "CNN_ENG_20030619_115954.10-R4",
+  "mentionArg1" : {
+    "extent" : "al qaeda leader",
+    "argMentionid" : "CNN_ENG_20030619_115954.10-E4-8",
+    "start" : 41,
+    "end" : 43
+  },
+  "id" : "CNN_ENG_20030619_115954.10-R4-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "reporter : wolf , the government will announce a plea agreement that was reached with an ohio truck driver who allegedly has ties to al qaeda , and the driver 's name is iman ferris , and according to government sources al qaeda leader , khaled sheikh mohammed told investigators that ferris 's order to surveil the brooklyn bridge was the ultimate goal of trying to cut the suspension bridge 's cables and he was involved in a plot to drive a truck loaded with explosives onto an airport tarmac to blow up a plane. obviously , neither plan came off. ferris disappeared from sight , and cnn has confirmed he was taken into custody. the documents regarding this case , wolf , were just unsealed he pled guilty to two counts back on may 1st , because of the extreme sensitivity of the case , details about the plea arrangement were kept under seal. we are told he pled guilty to conspiracy to provide material support to terrorists and actually providing material support",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "wolf", ",", "the", "government", "will", "announce", "a", "plea", "agreement", "that", "was", "reached", "with", "an", "ohio", "truck", "driver", "who", "allegedly", "has", "ties", "to", "al", "qaeda", ",", "and", "the", "driver", "'s", "name", "is", "iman", "ferris", ",", "and", "according", "to", "government", "sources", "al", "qaeda", "leader", ",", "khaled", "sheikh", "mohammed", "told", "investigators", "that", "ferris", "'s", "order", "to", "surveil", "the", "brooklyn", "bridge", "was", "the", "ultimate", "goal", "of", "trying", "to", "cut", "the", "suspension", "bridge", "'s", "cables", "and", "he", "was", "involved", "in", "a", "plot", "to", "drive", "a", "truck", "loaded", "with", "explosives", "onto", "an", "airport", "tarmac", "to", "blow", "up", "a", "plane.", "obviously", ",", "neither", "plan", "came", "off.", "ferris", "disappeared", "from", "sight", ",", "and", "cnn", "has", "confirmed", "he", "was", "taken", "into", "custody.", "the", "documents", "regarding", "this", "case", ",", "wolf", ",", "were", "just", "unsealed", "he", "pled", "guilty", "to", "two", "counts", "back", "on", "may", "1st", ",", "because", "of", "the", "extreme", "sensitivity", "of", "the", "case", ",", "details", "about", "the", "plea", "arrangement", "were", "kept", "under", "seal.", "we", "are", "told", "he", "pled", "guilty", "to", "conspiracy", "to", "provide", "material", "support", "to", "terrorists", "and", "actually", "providing", "material", "support" ]
+} ]

@@ -1,0 +1,45 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "the catholic church in phoenix, arizona",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "phoenix, arizona",
+    "argMentionid" : "CNN_ENG_20030618_150128.5-E3-3",
+    "start" : 7,
+    "end" : 9
+  },
+  "relationID" : "CNN_ENG_20030618_150128.5-R1",
+  "mentionArg1" : {
+    "extent" : "the catholic church in phoenix, arizona",
+    "argMentionid" : "CNN_ENG_20030618_150128.5-E2-2",
+    "start" : 3,
+    "end" : 9
+  },
+  "id" : "CNN_ENG_20030618_150128.5-R1-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "the head of the catholic church in phoenix , arizona , bishop thomas o'brien has resigned. just one day after being charged with a felony. he is accused of leaving the scene of a fatal accident. earlier this month o'brien narrowly escaped prosecution over his handling of sexual abuse allegations against priests .",
+  "sentence_index" : 0,
+  "Tokens" : [ "the", "head", "of", "the", "catholic", "church", "in", "phoenix", ",", "arizona", ",", "bishop", "thomas", "o'brien", "has", "resigned.", "just", "one", "day", "after", "being", "charged", "with", "a", "felony.", "he", "is", "accused", "of", "leaving", "the", "scene", "of", "a", "fatal", "accident.", "earlier", "this", "month", "o'brien", "narrowly", "escaped", "prosecution", "over", "his", "handling", "of", "sexual", "abuse", "allegations", "against", "priests", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the head of the catholic church in phoenix, arizona",
+  "sentence_length" : 53,
+  "mentionArg2" : {
+    "extent" : "the catholic church in phoenix, arizona",
+    "argMentionid" : "CNN_ENG_20030618_150128.5-E2-2",
+    "start" : 3,
+    "end" : 9
+  },
+  "relationID" : "CNN_ENG_20030618_150128.5-R2",
+  "mentionArg1" : {
+    "extent" : "the head of the catholic church in phoenix, arizona",
+    "argMentionid" : "CNN_ENG_20030618_150128.5-E1-1",
+    "start" : 0,
+    "end" : 9
+  },
+  "id" : "CNN_ENG_20030618_150128.5-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "the head of the catholic church in phoenix , arizona , bishop thomas o'brien has resigned. just one day after being charged with a felony. he is accused of leaving the scene of a fatal accident. earlier this month o'brien narrowly escaped prosecution over his handling of sexual abuse allegations against priests .",
+  "sentence_index" : 0,
+  "Tokens" : [ "the", "head", "of", "the", "catholic", "church", "in", "phoenix", ",", "arizona", ",", "bishop", "thomas", "o'brien", "has", "resigned.", "just", "one", "day", "after", "being", "charged", "with", "a", "felony.", "he", "is", "accused", "of", "leaving", "the", "scene", "of", "a", "fatal", "accident.", "earlier", "this", "month", "o'brien", "narrowly", "escaped", "prosecution", "over", "his", "handling", "of", "sexual", "abuse", "allegations", "against", "priests", "." ]
+} ]

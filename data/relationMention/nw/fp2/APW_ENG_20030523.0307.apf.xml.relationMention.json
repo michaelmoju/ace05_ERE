@@ -1,0 +1,1431 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "The Israeli Cabinet",
+  "sentence_length" : 52,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "APW_ENG_20030523.0307-E9-84",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030523.0307-R1",
+  "mentionArg1" : {
+    "extent" : "The Israeli Cabinet",
+    "argMentionid" : "APW_ENG_20030523.0307-E23-1",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030523.0307-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "JERUSALEM ( AP ) The Israeli Cabinet will discuss a U.S.-backed `` road map '' to Mideast peace on Sunday , taking a first step toward a formal response after weeks of hesitation , officials said after the White House announced it would take Israeli reservations about the plan into account .",
+  "sentence_index" : 0,
+  "Tokens" : [ "JERUSALEM", "(", "AP", ")", "The", "Israeli", "Cabinet", "will", "discuss", "a", "U.S.-backed", "``", "road", "map", "''", "to", "Mideast", "peace", "on", "Sunday", ",", "taking", "a", "first", "step", "toward", "a", "formal", "response", "after", "weeks", "of", "hesitation", ",", "officials", "said", "after", "the", "White", "House", "announced", "it", "would", "take", "Israeli", "reservations", "about", "the", "plan", "into", "account", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Israeli Cabinet",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "APW_ENG_20030523.0307-E9-68",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030523.0307-R1",
+  "mentionArg1" : {
+    "extent" : "the Israeli Cabinet",
+    "argMentionid" : "APW_ENG_20030523.0307-E23-67",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030523.0307-R1-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "An Israeli government official said the Israeli Cabinet would discuss the plan on Sunday , a first step toward a formal Israeli response .",
+  "sentence_index" : 14,
+  "Tokens" : [ "An", "Israeli", "government", "official", "said", "the", "Israeli", "Cabinet", "would", "discuss", "the", "plan", "on", "Sunday", ",", "a", "first", "step", "toward", "a", "formal", "Israeli", "response", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "an Israeli bus",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "an Israeli bus",
+    "argMentionid" : "APW_ENG_20030523.0307-E11-197",
+    "start" : 9,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030523.0307-R2",
+  "mentionArg1" : {
+    "extent" : "Israeli",
+    "argMentionid" : "APW_ENG_20030523.0307-E9-198",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "APW_ENG_20030523.0307-R2-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "In the Gaza Strip , meanwhile , Hamas attacked an Israeli bus with explosives Friday _ an apparent challenge to Palestinian Prime Minister Mahmoud Abbas , who a day earlier had asked the Islamic militant group to halt attacks against Israelis .",
+  "sentence_index" : 2,
+  "Tokens" : [ "In", "the", "Gaza", "Strip", ",", "meanwhile", ",", "Hamas", "attacked", "an", "Israeli", "bus", "with", "explosives", "Friday", "_", "an", "apparent", "challenge", "to", "Palestinian", "Prime", "Minister", "Mahmoud", "Abbas", ",", "who", "a", "day", "earlier", "had", "asked", "the", "Islamic", "militant", "group", "to", "halt", "attacks", "against", "Israelis", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Palestinian Prime Minister",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "APW_ENG_20030523.0307-E3-5",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "APW_ENG_20030523.0307-R3",
+  "mentionArg1" : {
+    "extent" : "Palestinian Prime Minister",
+    "argMentionid" : "APW_ENG_20030523.0307-E1-4",
+    "start" : 20,
+    "end" : 22
+  },
+  "id" : "APW_ENG_20030523.0307-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "In the Gaza Strip , meanwhile , Hamas attacked an Israeli bus with explosives Friday _ an apparent challenge to Palestinian Prime Minister Mahmoud Abbas , who a day earlier had asked the Islamic militant group to halt attacks against Israelis .",
+  "sentence_index" : 2,
+  "Tokens" : [ "In", "the", "Gaza", "Strip", ",", "meanwhile", ",", "Hamas", "attacked", "an", "Israeli", "bus", "with", "explosives", "Friday", "_", "an", "apparent", "challenge", "to", "Palestinian", "Prime", "Minister", "Mahmoud", "Abbas", ",", "who", "a", "day", "earlier", "had", "asked", "the", "Islamic", "militant", "group", "to", "halt", "attacks", "against", "Israelis", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Islamic militant group",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "the Islamic militant group",
+    "argMentionid" : "APW_ENG_20030523.0307-E12-6",
+    "start" : 32,
+    "end" : 35
+  },
+  "relationID" : "APW_ENG_20030523.0307-R4",
+  "mentionArg1" : {
+    "extent" : "Islamic militant",
+    "argMentionid" : "APW_ENG_20030523.0307-E5-8",
+    "start" : 33,
+    "end" : 34
+  },
+  "id" : "APW_ENG_20030523.0307-R4-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "In the Gaza Strip , meanwhile , Hamas attacked an Israeli bus with explosives Friday _ an apparent challenge to Palestinian Prime Minister Mahmoud Abbas , who a day earlier had asked the Islamic militant group to halt attacks against Israelis .",
+  "sentence_index" : 2,
+  "Tokens" : [ "In", "the", "Gaza", "Strip", ",", "meanwhile", ",", "Hamas", "attacked", "an", "Israeli", "bus", "with", "explosives", "Friday", "_", "an", "apparent", "challenge", "to", "Palestinian", "Prime", "Minister", "Mahmoud", "Abbas", ",", "who", "a", "day", "earlier", "had", "asked", "the", "Islamic", "militant", "group", "to", "halt", "attacks", "against", "Israelis", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "civilians in Israel",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Israel",
+    "argMentionid" : "APW_ENG_20030523.0307-E9-13",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030523.0307-R5",
+  "mentionArg1" : {
+    "extent" : "civilians in Israel",
+    "argMentionid" : "APW_ENG_20030523.0307-E6-185",
+    "start" : 9,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030523.0307-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Hamas told Abbas it would consider stopping attacks on civilians in Israel , but would continue targeting Israeli settlers and soldiers in the West Bank and Gaza .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Hamas", "told", "Abbas", "it", "would", "consider", "stopping", "attacks", "on", "civilians", "in", "Israel", ",", "but", "would", "continue", "targeting", "Israeli", "settlers", "and", "soldiers", "in", "the", "West", "Bank", "and", "Gaza", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Israeli settlers and soldiers in the West Bank and Gaza",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "APW_ENG_20030523.0307-E9-16",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030523.0307-R6",
+  "mentionArg1" : {
+    "extent" : "Israeli settlers and soldiers in the West Bank and Gaza",
+    "argMentionid" : "APW_ENG_20030523.0307-E7-14",
+    "start" : 17,
+    "end" : 26
+  },
+  "id" : "APW_ENG_20030523.0307-R6-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Hamas told Abbas it would consider stopping attacks on civilians in Israel , but would continue targeting Israeli settlers and soldiers in the West Bank and Gaza .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Hamas", "told", "Abbas", "it", "would", "consider", "stopping", "attacks", "on", "civilians", "in", "Israel", ",", "but", "would", "continue", "targeting", "Israeli", "settlers", "and", "soldiers", "in", "the", "West", "Bank", "and", "Gaza", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Israeli settlers and soldiers in the West Bank and Gaza",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "APW_ENG_20030523.0307-E9-16",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "APW_ENG_20030523.0307-R7",
+  "mentionArg1" : {
+    "extent" : "Israeli settlers and soldiers in the West Bank and Gaza",
+    "argMentionid" : "APW_ENG_20030523.0307-E7-14",
+    "start" : 17,
+    "end" : 26
+  },
+  "id" : "APW_ENG_20030523.0307-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Hamas told Abbas it would consider stopping attacks on civilians in Israel , but would continue targeting Israeli settlers and soldiers in the West Bank and Gaza .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Hamas", "told", "Abbas", "it", "would", "consider", "stopping", "attacks", "on", "civilians", "in", "Israel", ",", "but", "would", "continue", "targeting", "Israeli", "settlers", "and", "soldiers", "in", "the", "West", "Bank", "and", "Gaza", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Israeli settlers and soldiers in the West Bank and Gaza",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "the West Bank",
+    "argMentionid" : "APW_ENG_20030523.0307-E10-17",
+    "start" : 22,
+    "end" : 24
+  },
+  "relationID" : "APW_ENG_20030523.0307-R8",
+  "mentionArg1" : {
+    "extent" : "Israeli settlers and soldiers in the West Bank and Gaza",
+    "argMentionid" : "APW_ENG_20030523.0307-E7-14",
+    "start" : 17,
+    "end" : 26
+  },
+  "id" : "APW_ENG_20030523.0307-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Hamas told Abbas it would consider stopping attacks on civilians in Israel , but would continue targeting Israeli settlers and soldiers in the West Bank and Gaza .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Hamas", "told", "Abbas", "it", "would", "consider", "stopping", "attacks", "on", "civilians", "in", "Israel", ",", "but", "would", "continue", "targeting", "Israeli", "settlers", "and", "soldiers", "in", "the", "West", "Bank", "and", "Gaza", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Israeli settlers and soldiers in the West Bank and Gaza",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Gaza",
+    "argMentionid" : "APW_ENG_20030523.0307-E79-18",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "APW_ENG_20030523.0307-R9",
+  "mentionArg1" : {
+    "extent" : "Israeli settlers and soldiers in the West Bank and Gaza",
+    "argMentionid" : "APW_ENG_20030523.0307-E7-14",
+    "start" : 17,
+    "end" : 26
+  },
+  "id" : "APW_ENG_20030523.0307-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Hamas told Abbas it would consider stopping attacks on civilians in Israel , but would continue targeting Israeli settlers and soldiers in the West Bank and Gaza .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Hamas", "told", "Abbas", "it", "would", "consider", "stopping", "attacks", "on", "civilians", "in", "Israel", ",", "but", "would", "continue", "targeting", "Israeli", "settlers", "and", "soldiers", "in", "the", "West", "Bank", "and", "Gaza", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Israeli settlers and soldiers in the West Bank and Gaza",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "the West Bank",
+    "argMentionid" : "APW_ENG_20030523.0307-E10-17",
+    "start" : 22,
+    "end" : 24
+  },
+  "relationID" : "APW_ENG_20030523.0307-R10",
+  "mentionArg1" : {
+    "extent" : "Israeli settlers and soldiers in the West Bank and Gaza",
+    "argMentionid" : "APW_ENG_20030523.0307-E8-15",
+    "start" : 17,
+    "end" : 26
+  },
+  "id" : "APW_ENG_20030523.0307-R10-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Hamas told Abbas it would consider stopping attacks on civilians in Israel , but would continue targeting Israeli settlers and soldiers in the West Bank and Gaza .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Hamas", "told", "Abbas", "it", "would", "consider", "stopping", "attacks", "on", "civilians", "in", "Israel", ",", "but", "would", "continue", "targeting", "Israeli", "settlers", "and", "soldiers", "in", "the", "West", "Bank", "and", "Gaza", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Israeli settlers and soldiers in the West Bank and Gaza",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Gaza",
+    "argMentionid" : "APW_ENG_20030523.0307-E79-18",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "APW_ENG_20030523.0307-R11",
+  "mentionArg1" : {
+    "extent" : "Israeli settlers and soldiers in the West Bank and Gaza",
+    "argMentionid" : "APW_ENG_20030523.0307-E8-15",
+    "start" : 17,
+    "end" : 26
+  },
+  "id" : "APW_ENG_20030523.0307-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Hamas told Abbas it would consider stopping attacks on civilians in Israel , but would continue targeting Israeli settlers and soldiers in the West Bank and Gaza .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Hamas", "told", "Abbas", "it", "would", "consider", "stopping", "attacks", "on", "civilians", "in", "Israel", ",", "but", "would", "continue", "targeting", "Israeli", "settlers", "and", "soldiers", "in", "the", "West", "Bank", "and", "Gaza", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "some Israeli settlements in the West Bank and Gaza Strip",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "the West Bank",
+    "argMentionid" : "APW_ENG_20030523.0307-E10-27",
+    "start" : 18,
+    "end" : 20
+  },
+  "relationID" : "APW_ENG_20030523.0307-R12",
+  "mentionArg1" : {
+    "extent" : "some Israeli settlements in the West Bank and Gaza Strip",
+    "argMentionid" : "APW_ENG_20030523.0307-E14-25",
+    "start" : 14,
+    "end" : 23
+  },
+  "id" : "APW_ENG_20030523.0307-R12-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The plan which calls for an immediate end to violence , the dismantling of some Israeli settlements in the West Bank and Gaza Strip and the creation of a Palestinian state by 2005 .",
+  "sentence_index" : 6,
+  "Tokens" : [ "The", "plan", "which", "calls", "for", "an", "immediate", "end", "to", "violence", ",", "the", "dismantling", "of", "some", "Israeli", "settlements", "in", "the", "West", "Bank", "and", "Gaza", "Strip", "and", "the", "creation", "of", "a", "Palestinian", "state", "by", "2005", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "some Israeli settlements in the West Bank and Gaza Strip",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "the West Bank",
+    "argMentionid" : "APW_ENG_20030523.0307-E10-27",
+    "start" : 18,
+    "end" : 20
+  },
+  "relationID" : "APW_ENG_20030523.0307-R12",
+  "mentionArg1" : {
+    "extent" : "some Israeli settlements in the West Bank and Gaza Strip",
+    "argMentionid" : "APW_ENG_20030523.0307-E14-25",
+    "start" : 14,
+    "end" : 23
+  },
+  "id" : "APW_ENG_20030523.0307-R12-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The plan which calls for an immediate end to violence , the dismantling of some Israeli settlements in the West Bank and Gaza Strip and the creation of a Palestinian state by 2005 .",
+  "sentence_index" : 6,
+  "Tokens" : [ "The", "plan", "which", "calls", "for", "an", "immediate", "end", "to", "violence", ",", "the", "dismantling", "of", "some", "Israeli", "settlements", "in", "the", "West", "Bank", "and", "Gaza", "Strip", "and", "the", "creation", "of", "a", "Palestinian", "state", "by", "2005", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Israeli Prime Minister",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "APW_ENG_20030523.0307-E9-35",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030523.0307-R14",
+  "mentionArg1" : {
+    "extent" : "Israeli Prime Minister",
+    "argMentionid" : "APW_ENG_20030523.0307-E18-34",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030523.0307-R14-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Israeli Prime Minister Ariel Sharon told the White House through an emissary earlier this week that he would go along with the road map as long as the United States took Israel 's concerns into account .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Israeli", "Prime", "Minister", "Ariel", "Sharon", "told", "the", "White", "House", "through", "an", "emissary", "earlier", "this", "week", "that", "he", "would", "go", "along", "with", "the", "road", "map", "as", "long", "as", "the", "United", "States", "took", "Israel", "'s", "concerns", "into", "account", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Israeli Prime Minister Ariel Sharon told the White House through an emissary earlier this week that he would go along with the road map as long as the United States took Israel's concerns into account",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "an emissary",
+    "argMentionid" : "APW_ENG_20030523.0307-E21-37",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030523.0307-R15",
+  "mentionArg1" : {
+    "extent" : "Israeli Prime Minister Ariel Sharon",
+    "argMentionid" : "APW_ENG_20030523.0307-E18-33",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "APW_ENG_20030523.0307-R15-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Israeli Prime Minister Ariel Sharon told the White House through an emissary earlier this week that he would go along with the road map as long as the United States took Israel 's concerns into account .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Israeli", "Prime", "Minister", "Ariel", "Sharon", "told", "the", "White", "House", "through", "an", "emissary", "earlier", "this", "week", "that", "he", "would", "go", "along", "with", "the", "road", "map", "as", "long", "as", "the", "United", "States", "took", "Israel", "'s", "concerns", "into", "account", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. Secretary of State",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "State",
+    "argMentionid" : "APW_ENG_20030523.0307-E26-49",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030523.0307-R16",
+  "mentionArg1" : {
+    "extent" : "U.S. Secretary of State",
+    "argMentionid" : "APW_ENG_20030523.0307-E24-48",
+    "start" : 4,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030523.0307-R16-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The joint statement from U.S. Secretary of State Colin Powell and National Security Adviser Condoleezza Rice seemed to open the door to slightly revising the plan .",
+  "sentence_index" : 10,
+  "Tokens" : [ "The", "joint", "statement", "from", "U.S.", "Secretary", "of", "State", "Colin", "Powell", "and", "National", "Security", "Adviser", "Condoleezza", "Rice", "seemed", "to", "open", "the", "door", "to", "slightly", "revising", "the", "plan", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "U.S. Secretary of State",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030523.0307-E34-183",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030523.0307-R17",
+  "mentionArg1" : {
+    "extent" : "State",
+    "argMentionid" : "APW_ENG_20030523.0307-E26-49",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030523.0307-R17-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The joint statement from U.S. Secretary of State Colin Powell and National Security Adviser Condoleezza Rice seemed to open the door to slightly revising the plan .",
+  "sentence_index" : 10,
+  "Tokens" : [ "The", "joint", "statement", "from", "U.S.", "Secretary", "of", "State", "Colin", "Powell", "and", "National", "Security", "Adviser", "Condoleezza", "Rice", "seemed", "to", "open", "the", "door", "to", "slightly", "revising", "the", "plan", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Palestinian Information Minister",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "APW_ENG_20030523.0307-E3-58",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030523.0307-R18",
+  "mentionArg1" : {
+    "extent" : "Palestinian Information Minister",
+    "argMentionid" : "APW_ENG_20030523.0307-E31-57",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030523.0307-R18-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Palestinian Information Minister Nabil Amr said Friday that the Palestinians were ready to `` start the implementation process immediately . ''",
+  "sentence_index" : 12,
+  "Tokens" : [ "Palestinian", "Information", "Minister", "Nabil", "Amr", "said", "Friday", "that", "the", "Palestinians", "were", "ready", "to", "``", "start", "the", "implementation", "process", "immediately", ".", "''" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "An Israeli government official",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "An Israeli government",
+    "argMentionid" : "APW_ENG_20030523.0307-E9-65",
+    "start" : 0,
+    "end" : 2
+  },
+  "relationID" : "APW_ENG_20030523.0307-R19",
+  "mentionArg1" : {
+    "extent" : "An Israeli government official",
+    "argMentionid" : "APW_ENG_20030523.0307-E35-63",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "APW_ENG_20030523.0307-R19-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "An Israeli government official said the Israeli Cabinet would discuss the plan on Sunday , a first step toward a formal Israeli response .",
+  "sentence_index" : 14,
+  "Tokens" : [ "An", "Israeli", "government", "official", "said", "the", "Israeli", "Cabinet", "would", "discuss", "the", "plan", "on", "Sunday", ",", "a", "first", "step", "toward", "a", "formal", "Israeli", "response", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his own Cabinet",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "his own Cabinet",
+    "argMentionid" : "APW_ENG_20030523.0307-E23-73",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030523.0307-R21",
+  "mentionArg1" : {
+    "extent" : "his own",
+    "argMentionid" : "APW_ENG_20030523.0307-E18-74",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030523.0307-R21-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Sharon faces stiff opposition from hardliners , including many members of his own Cabinet and Jewish settler leaders .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Sharon", "faces", "stiff", "opposition", "from", "hardliners", ",", "including", "many", "members", "of", "his", "own", "Cabinet", "and", "Jewish", "settler", "leaders", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "many members of his own Cabinet",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "his own Cabinet",
+    "argMentionid" : "APW_ENG_20030523.0307-E23-73",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030523.0307-R22",
+  "mentionArg1" : {
+    "extent" : "many members of his own Cabinet",
+    "argMentionid" : "APW_ENG_20030523.0307-E41-72",
+    "start" : 8,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030523.0307-R22-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Sharon faces stiff opposition from hardliners , including many members of his own Cabinet and Jewish settler leaders .",
+  "sentence_index" : 15,
+  "Tokens" : [ "Sharon", "faces", "stiff", "opposition", "from", "hardliners", ",", "including", "many", "members", "of", "his", "own", "Cabinet", "and", "Jewish", "settler", "leaders", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The settlers' umbrella organization",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "The settlers' umbrella organization",
+    "argMentionid" : "APW_ENG_20030523.0307-E45-78",
+    "start" : 0,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030523.0307-R23",
+  "mentionArg1" : {
+    "extent" : "The settlers",
+    "argMentionid" : "APW_ENG_20030523.0307-E43-79",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030523.0307-R23-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "The settlers ' umbrella organization asked Sharon on Friday not to endorse the road map , saying `` acceptance of the map ... is likely to be interpreted as a prize for terror . ''",
+  "sentence_index" : 16,
+  "Tokens" : [ "The", "settlers", "'", "umbrella", "organization", "asked", "Sharon", "on", "Friday", "not", "to", "endorse", "the", "road", "map", ",", "saying", "``", "acceptance", "of", "the", "map", "...", "is", "likely", "to", "be", "interpreted", "as", "a", "prize", "for", "terror", ".", "''" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Palestinian militant groups that carried out scores of shootings and bombings in the past 32 months of fighting",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "Palestinian militant groups that carried out scores of shootings and bombings in the past 32 months of fighting",
+    "argMentionid" : "APW_ENG_20030523.0307-E46-83",
+    "start" : 20,
+    "end" : 37
+  },
+  "relationID" : "APW_ENG_20030523.0307-R24",
+  "mentionArg1" : {
+    "extent" : "Palestinian militant",
+    "argMentionid" : "APW_ENG_20030523.0307-E47-85",
+    "start" : 20,
+    "end" : 21
+  },
+  "id" : "APW_ENG_20030523.0307-R24-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "One major obstacle to adopting the road map is a disagreement between Sharon and Abbas over how to deal with Palestinian militant groups that carried out scores of shootings and bombings in the past 32 months of fighting .",
+  "sentence_index" : 17,
+  "Tokens" : [ "One", "major", "obstacle", "to", "adopting", "the", "road", "map", "is", "a", "disagreement", "between", "Sharon", "and", "Abbas", "over", "how", "to", "deal", "with", "Palestinian", "militant", "groups", "that", "carried", "out", "scores", "of", "shootings", "and", "bombings", "in", "the", "past", "32", "months", "of", "fighting", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Palestinian militant",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "APW_ENG_20030523.0307-E3-86",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "APW_ENG_20030523.0307-R25",
+  "mentionArg1" : {
+    "extent" : "Palestinian militant",
+    "argMentionid" : "APW_ENG_20030523.0307-E47-85",
+    "start" : 20,
+    "end" : 21
+  },
+  "id" : "APW_ENG_20030523.0307-R25-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "One major obstacle to adopting the road map is a disagreement between Sharon and Abbas over how to deal with Palestinian militant groups that carried out scores of shootings and bombings in the past 32 months of fighting .",
+  "sentence_index" : 17,
+  "Tokens" : [ "One", "major", "obstacle", "to", "adopting", "the", "road", "map", "is", "a", "disagreement", "between", "Sharon", "and", "Abbas", "over", "how", "to", "deal", "with", "Palestinian", "militant", "groups", "that", "carried", "out", "scores", "of", "shootings", "and", "bombings", "in", "the", "past", "32", "months", "of", "fighting", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "their arms",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "their arms",
+    "argMentionid" : "APW_ENG_20030523.0307-E50-90",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030523.0307-R26",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "APW_ENG_20030523.0307-E47-89",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030523.0307-R26-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Abbas wants to persuade militants to lay down their arms , while Sharon insists they be disarmed and arrested .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Abbas", "wants", "to", "persuade", "militants", "to", "lay", "down", "their", "arms", ",", "while", "Sharon", "insists", "they", "be", "disarmed", "and", "arrested", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Hamas leaders",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Hamas",
+    "argMentionid" : "APW_ENG_20030523.0307-E12-95",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "APW_ENG_20030523.0307-R27",
+  "mentionArg1" : {
+    "extent" : "Hamas leaders",
+    "argMentionid" : "APW_ENG_20030523.0307-E51-94",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "APW_ENG_20030523.0307-R27-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Abbas summoned Hamas leaders to his Gaza City office Thursday evening in his first visible effort to help end attacks on Israeli civilians .",
+  "sentence_index" : 19,
+  "Tokens" : [ "Abbas", "summoned", "Hamas", "leaders", "to", "his", "Gaza", "City", "office", "Thursday", "evening", "in", "his", "first", "visible", "effort", "to", "help", "end", "attacks", "on", "Israeli", "civilians", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "his Gaza City office",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Gaza City",
+    "argMentionid" : "APW_ENG_20030523.0307-E54-97",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030523.0307-R28",
+  "mentionArg1" : {
+    "extent" : "his Gaza City office",
+    "argMentionid" : "APW_ENG_20030523.0307-E53-96",
+    "start" : 5,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030523.0307-R28-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Abbas summoned Hamas leaders to his Gaza City office Thursday evening in his first visible effort to help end attacks on Israeli civilians .",
+  "sentence_index" : 19,
+  "Tokens" : [ "Abbas", "summoned", "Hamas", "leaders", "to", "his", "Gaza", "City", "office", "Thursday", "evening", "in", "his", "first", "visible", "effort", "to", "help", "end", "attacks", "on", "Israeli", "civilians", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "his Gaza City office",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "his Gaza City office",
+    "argMentionid" : "APW_ENG_20030523.0307-E53-96",
+    "start" : 5,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030523.0307-R29",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "APW_ENG_20030523.0307-E1-98",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030523.0307-R29-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Abbas summoned Hamas leaders to his Gaza City office Thursday evening in his first visible effort to help end attacks on Israeli civilians .",
+  "sentence_index" : 19,
+  "Tokens" : [ "Abbas", "summoned", "Hamas", "leaders", "to", "his", "Gaza", "City", "office", "Thursday", "evening", "in", "his", "first", "visible", "effort", "to", "help", "end", "attacks", "on", "Israeli", "civilians", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Israeli civilians",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "APW_ENG_20030523.0307-E9-101",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "APW_ENG_20030523.0307-R30",
+  "mentionArg1" : {
+    "extent" : "Israeli civilians",
+    "argMentionid" : "APW_ENG_20030523.0307-E6-100",
+    "start" : 21,
+    "end" : 22
+  },
+  "id" : "APW_ENG_20030523.0307-R30-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Abbas summoned Hamas leaders to his Gaza City office Thursday evening in his first visible effort to help end attacks on Israeli civilians .",
+  "sentence_index" : 19,
+  "Tokens" : [ "Abbas", "summoned", "Hamas", "leaders", "to", "his", "Gaza", "City", "office", "Thursday", "evening", "in", "his", "first", "visible", "effort", "to", "help", "end", "attacks", "on", "Israeli", "civilians", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Abbas summoned Hamas leaders to his Gaza City office Thursday evening in his first visible effort to help end attacks on Israeli civilians",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "his Gaza City office",
+    "argMentionid" : "APW_ENG_20030523.0307-E53-96",
+    "start" : 5,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030523.0307-R31",
+  "mentionArg1" : {
+    "extent" : "Abbas",
+    "argMentionid" : "APW_ENG_20030523.0307-E1-93",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "APW_ENG_20030523.0307-R31-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Abbas summoned Hamas leaders to his Gaza City office Thursday evening in his first visible effort to help end attacks on Israeli civilians .",
+  "sentence_index" : 19,
+  "Tokens" : [ "Abbas", "summoned", "Hamas", "leaders", "to", "his", "Gaza", "City", "office", "Thursday", "evening", "in", "his", "first", "visible", "effort", "to", "help", "end", "attacks", "on", "Israeli", "civilians", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Abbas summoned Hamas leaders to his Gaza City office Thursday evening in his first visible effort to help end attacks on Israeli civilians",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "his Gaza City office",
+    "argMentionid" : "APW_ENG_20030523.0307-E53-96",
+    "start" : 5,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030523.0307-R32",
+  "mentionArg1" : {
+    "extent" : "Hamas leaders",
+    "argMentionid" : "APW_ENG_20030523.0307-E51-94",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "APW_ENG_20030523.0307-R32-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Abbas summoned Hamas leaders to his Gaza City office Thursday evening in his first visible effort to help end attacks on Israeli civilians .",
+  "sentence_index" : 19,
+  "Tokens" : [ "Abbas", "summoned", "Hamas", "leaders", "to", "his", "Gaza", "City", "office", "Thursday", "evening", "in", "his", "first", "visible", "effort", "to", "help", "end", "attacks", "on", "Israeli", "civilians", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Hamas has grown in popularity in the West Bank and Gaza Strip, where many Palestinians are embittered by Israeli military strikes and travel bans that cause much hardship",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "where",
+    "argMentionid" : "APW_ENG_20030523.0307-E57-108",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030523.0307-R33",
+  "mentionArg1" : {
+    "extent" : "many Palestinians",
+    "argMentionid" : "APW_ENG_20030523.0307-E58-109",
+    "start" : 14,
+    "end" : 15
+  },
+  "id" : "APW_ENG_20030523.0307-R33-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Hamas has grown in popularity in the West Bank and Gaza Strip , where many Palestinians are embittered by Israeli military strikes and travel bans that cause much hardship .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Hamas", "has", "grown", "in", "popularity", "in", "the", "West", "Bank", "and", "Gaza", "Strip", ",", "where", "many", "Palestinians", "are", "embittered", "by", "Israeli", "military", "strikes", "and", "travel", "bans", "that", "cause", "much", "hardship", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Israeli military",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "APW_ENG_20030523.0307-E9-111",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030523.0307-R34",
+  "mentionArg1" : {
+    "extent" : "Israeli military",
+    "argMentionid" : "APW_ENG_20030523.0307-E59-110",
+    "start" : 19,
+    "end" : 20
+  },
+  "id" : "APW_ENG_20030523.0307-R34-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Hamas has grown in popularity in the West Bank and Gaza Strip , where many Palestinians are embittered by Israeli military strikes and travel bans that cause much hardship .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Hamas", "has", "grown", "in", "popularity", "in", "the", "West", "Bank", "and", "Gaza", "Strip", ",", "where", "many", "Palestinians", "are", "embittered", "by", "Israeli", "military", "strikes", "and", "travel", "bans", "that", "cause", "much", "hardship", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Palestinian Cabinet Minister",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "APW_ENG_20030523.0307-E3-114",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030523.0307-R35",
+  "mentionArg1" : {
+    "extent" : "Palestinian Cabinet Minister",
+    "argMentionid" : "APW_ENG_20030523.0307-E61-113",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030523.0307-R35-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Palestinian Cabinet Minister Ziad Abu Amr , who participated in the meeting , said using force against the militants `` would be counterproductive . ''",
+  "sentence_index" : 22,
+  "Tokens" : [ "Palestinian", "Cabinet", "Minister", "Ziad", "Abu", "Amr", ",", "who", "participated", "in", "the", "meeting", ",", "said", "using", "force", "against", "the", "militants", "``", "would", "be", "counterproductive", ".", "''" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "other Palestinian militias",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "APW_ENG_20030523.0307-E3-119",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "APW_ENG_20030523.0307-R36",
+  "mentionArg1" : {
+    "extent" : "other Palestinian militias",
+    "argMentionid" : "APW_ENG_20030523.0307-E64-118",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "APW_ENG_20030523.0307-R36-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Earlier this week , Hamas and other Palestinian militias carried out five suicide bombings that killed 12 Israelis and wounded dozens .",
+  "sentence_index" : 23,
+  "Tokens" : [ "Earlier", "this", "week", ",", "Hamas", "and", "other", "Palestinian", "militias", "carried", "out", "five", "suicide", "bombings", "that", "killed", "12", "Israelis", "and", "wounded", "dozens", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Jewish settlement of Netzarim in central Gaza",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "central Gaza",
+    "argMentionid" : "APW_ENG_20030523.0307-E73-129",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030523.0307-R37",
+  "mentionArg1" : {
+    "extent" : "Netzarim",
+    "argMentionid" : "APW_ENG_20030523.0307-E70-128",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030523.0307-R37-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The bus attacked Friday was en route from the Jewish settlement of Netzarim in central Gaza to Israel , with 15 people on board , when the explosion went off .",
+  "sentence_index" : 25,
+  "Tokens" : [ "The", "bus", "attacked", "Friday", "was", "en", "route", "from", "the", "Jewish", "settlement", "of", "Netzarim", "in", "central", "Gaza", "to", "Israel", ",", "with", "15", "people", "on", "board", ",", "when", "the", "explosion", "went", "off", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Jewish settlement of Netzarim in central Gaza",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "the Jewish settlement of Netzarim in central Gaza",
+    "argMentionid" : "APW_ENG_20030523.0307-E70-126",
+    "start" : 8,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030523.0307-R38",
+  "mentionArg1" : {
+    "extent" : "Jewish",
+    "argMentionid" : "APW_ENG_20030523.0307-E71-127",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030523.0307-R38-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The bus attacked Friday was en route from the Jewish settlement of Netzarim in central Gaza to Israel , with 15 people on board , when the explosion went off .",
+  "sentence_index" : 25,
+  "Tokens" : [ "The", "bus", "attacked", "Friday", "was", "en", "route", "from", "the", "Jewish", "settlement", "of", "Netzarim", "in", "central", "Gaza", "to", "Israel", ",", "with", "15", "people", "on", "board", ",", "when", "the", "explosion", "went", "off", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "The bus attacked Friday was en route from the Jewish settlement of Netzarim in central Gaza to Israel, with 15 people on board, when the explosion went off",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "The bus",
+    "argMentionid" : "APW_ENG_20030523.0307-E11-125",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030523.0307-R39",
+  "mentionArg1" : {
+    "extent" : "15 people",
+    "argMentionid" : "APW_ENG_20030523.0307-E74-131",
+    "start" : 20,
+    "end" : 21
+  },
+  "id" : "APW_ENG_20030523.0307-R39-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The bus attacked Friday was en route from the Jewish settlement of Netzarim in central Gaza to Israel , with 15 people on board , when the explosion went off .",
+  "sentence_index" : 25,
+  "Tokens" : [ "The", "bus", "attacked", "Friday", "was", "en", "route", "from", "the", "Jewish", "settlement", "of", "Netzarim", "in", "central", "Gaza", "to", "Israel", ",", "with", "15", "people", "on", "board", ",", "when", "the", "explosion", "went", "off", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The bus attacked Friday was en route from the Jewish settlement of Netzarim in central Gaza to Israel, with 15 people on board, when the explosion went off",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "the Jewish settlement of Netzarim in central Gaza",
+    "argMentionid" : "APW_ENG_20030523.0307-E70-126",
+    "start" : 8,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030523.0307-R40",
+  "mentionArg1" : {
+    "extent" : "15 people",
+    "argMentionid" : "APW_ENG_20030523.0307-E74-131",
+    "start" : 20,
+    "end" : 21
+  },
+  "id" : "APW_ENG_20030523.0307-R40-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The bus attacked Friday was en route from the Jewish settlement of Netzarim in central Gaza to Israel , with 15 people on board , when the explosion went off .",
+  "sentence_index" : 25,
+  "Tokens" : [ "The", "bus", "attacked", "Friday", "was", "en", "route", "from", "the", "Jewish", "settlement", "of", "Netzarim", "in", "central", "Gaza", "to", "Israel", ",", "with", "15", "people", "on", "board", ",", "when", "the", "explosion", "went", "off", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Gaza refugee camp of Jabaliya",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Gaza",
+    "argMentionid" : "APW_ENG_20030523.0307-E79-136",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "APW_ENG_20030523.0307-R41",
+  "mentionArg1" : {
+    "extent" : "the Gaza refugee camp of Jabaliya",
+    "argMentionid" : "APW_ENG_20030523.0307-E75-133",
+    "start" : 7,
+    "end" : 12
+  },
+  "id" : "APW_ENG_20030523.0307-R41-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Hamas claimed responsibility during a rally in the Gaza refugee camp of Jabaliya , saying it had targeted the bus with a pipe bomb .",
+  "sentence_index" : 26,
+  "Tokens" : [ "Hamas", "claimed", "responsibility", "during", "a", "rally", "in", "the", "Gaza", "refugee", "camp", "of", "Jabaliya", ",", "saying", "it", "had", "targeted", "the", "bus", "with", "a", "pipe", "bomb", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the Gaza refugee camp of Jabaliya",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the Gaza refugee camp of Jabaliya",
+    "argMentionid" : "APW_ENG_20030523.0307-E75-133",
+    "start" : 7,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030523.0307-R42",
+  "mentionArg1" : {
+    "extent" : "refugee",
+    "argMentionid" : "APW_ENG_20030523.0307-E77-135",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030523.0307-R42-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Hamas claimed responsibility during a rally in the Gaza refugee camp of Jabaliya , saying it had targeted the bus with a pipe bomb .",
+  "sentence_index" : 26,
+  "Tokens" : [ "Hamas", "claimed", "responsibility", "during", "a", "rally", "in", "the", "Gaza", "refugee", "camp", "of", "Jabaliya", ",", "saying", "it", "had", "targeted", "the", "bus", "with", "a", "pipe", "bomb", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Hamas claimed responsibility during a rally in the Gaza refugee camp of Jabaliya, saying it had targeted the bus with a pipe bomb",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "a pipe bomb",
+    "argMentionid" : "APW_ENG_20030523.0307-E80-139",
+    "start" : 21,
+    "end" : 23
+  },
+  "relationID" : "APW_ENG_20030523.0307-R43",
+  "mentionArg1" : {
+    "extent" : "it",
+    "argMentionid" : "APW_ENG_20030523.0307-E12-137",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "APW_ENG_20030523.0307-R43-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Hamas claimed responsibility during a rally in the Gaza refugee camp of Jabaliya , saying it had targeted the bus with a pipe bomb .",
+  "sentence_index" : 26,
+  "Tokens" : [ "Hamas", "claimed", "responsibility", "during", "a", "rally", "in", "the", "Gaza", "refugee", "camp", "of", "Jabaliya", ",", "saying", "it", "had", "targeted", "the", "bus", "with", "a", "pipe", "bomb", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "The Israeli military",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "APW_ENG_20030523.0307-E9-141",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "APW_ENG_20030523.0307-R44",
+  "mentionArg1" : {
+    "extent" : "The Israeli military",
+    "argMentionid" : "APW_ENG_20030523.0307-E81-140",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "APW_ENG_20030523.0307-R44-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The Israeli military said the explosion came from a `` roadside bomb . ''",
+  "sentence_index" : 27,
+  "Tokens" : [ "The", "Israeli", "military", "said", "the", "explosion", "came", "from", "a", "``", "roadside", "bomb", ".", "''" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Israeli army",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "APW_ENG_20030523.0307-E9-143",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "APW_ENG_20030523.0307-R45",
+  "mentionArg1" : {
+    "extent" : "the Israeli army",
+    "argMentionid" : "APW_ENG_20030523.0307-E83-142",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030523.0307-R45-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Following the attack , the Israeli army fired tank shells near neighboring Palestinian areas , and soldiers began searching farms , according to residents .",
+  "sentence_index" : 28,
+  "Tokens" : [ "Following", "the", "attack", ",", "the", "Israeli", "army", "fired", "tank", "shells", "near", "neighboring", "Palestinian", "areas", ",", "and", "soldiers", "began", "searching", "farms", ",", "according", "to", "residents", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Following the attack, the Israeli army fired tank shells near neighboring Palestinian areas, and soldiers began searching farms, according to residents",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "farms",
+    "argMentionid" : "APW_ENG_20030523.0307-E89-148",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030523.0307-R46",
+  "mentionArg1" : {
+    "extent" : "soldiers",
+    "argMentionid" : "APW_ENG_20030523.0307-E88-147",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "APW_ENG_20030523.0307-R46-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Following the attack , the Israeli army fired tank shells near neighboring Palestinian areas , and soldiers began searching farms , according to residents .",
+  "sentence_index" : 28,
+  "Tokens" : [ "Following", "the", "attack", ",", "the", "Israeli", "army", "fired", "tank", "shells", "near", "neighboring", "Palestinian", "areas", ",", "and", "soldiers", "began", "searching", "farms", ",", "according", "to", "residents", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Following the attack, the Israeli army fired tank shells near neighboring Palestinian areas, and soldiers began searching farms, according to residents",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "tank shells",
+    "argMentionid" : "APW_ENG_20030523.0307-E85-144",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030523.0307-R47",
+  "mentionArg1" : {
+    "extent" : "the Israeli army",
+    "argMentionid" : "APW_ENG_20030523.0307-E83-142",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "APW_ENG_20030523.0307-R47-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Following the attack , the Israeli army fired tank shells near neighboring Palestinian areas , and soldiers began searching farms , according to residents .",
+  "sentence_index" : 28,
+  "Tokens" : [ "Following", "the", "attack", ",", "the", "Israeli", "army", "fired", "tank", "shells", "near", "neighboring", "Palestinian", "areas", ",", "and", "soldiers", "began", "searching", "farms", ",", "according", "to", "residents", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "neighboring Palestinian areas",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Palestinian",
+    "argMentionid" : "APW_ENG_20030523.0307-E3-146",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "APW_ENG_20030523.0307-R48",
+  "mentionArg1" : {
+    "extent" : "neighboring Palestinian areas",
+    "argMentionid" : "APW_ENG_20030523.0307-E86-145",
+    "start" : 11,
+    "end" : 13
+  },
+  "id" : "APW_ENG_20030523.0307-R48-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Following the attack , the Israeli army fired tank shells near neighboring Palestinian areas , and soldiers began searching farms , according to residents .",
+  "sentence_index" : 28,
+  "Tokens" : [ "Following", "the", "attack", ",", "the", "Israeli", "army", "fired", "tank", "shells", "near", "neighboring", "Palestinian", "areas", ",", "and", "soldiers", "began", "searching", "farms", ",", "according", "to", "residents", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Following the attack, the Israeli army fired tank shells near neighboring Palestinian areas, and soldiers began searching farms, according to residents",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "neighboring Palestinian areas",
+    "argMentionid" : "APW_ENG_20030523.0307-E86-145",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030523.0307-R49",
+  "mentionArg1" : {
+    "extent" : "residents",
+    "argMentionid" : "APW_ENG_20030523.0307-E90-149",
+    "start" : 23,
+    "end" : 23
+  },
+  "id" : "APW_ENG_20030523.0307-R49-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Following the attack , the Israeli army fired tank shells near neighboring Palestinian areas , and soldiers began searching farms , according to residents .",
+  "sentence_index" : 28,
+  "Tokens" : [ "Following", "the", "attack", ",", "the", "Israeli", "army", "fired", "tank", "shells", "near", "neighboring", "Palestinian", "areas", ",", "and", "soldiers", "began", "searching", "farms", ",", "according", "to", "residents", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Israeli military",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "Israeli",
+    "argMentionid" : "APW_ENG_20030523.0307-E9-151",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "APW_ENG_20030523.0307-R50",
+  "mentionArg1" : {
+    "extent" : "the Israeli military",
+    "argMentionid" : "APW_ENG_20030523.0307-E91-150",
+    "start" : 3,
+    "end" : 5
+  },
+  "id" : "APW_ENG_20030523.0307-R50-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Also Friday , the Israeli military destroyed a house belonging to the family of Hiba Daraghmeh , the 19-year-old bomber who killed herself and three Israelis Monday in a suicide attack outside a shopping mall in the northern Israeli city of Afula .",
+  "sentence_index" : 29,
+  "Tokens" : [ "Also", "Friday", ",", "the", "Israeli", "military", "destroyed", "a", "house", "belonging", "to", "the", "family", "of", "Hiba", "Daraghmeh", ",", "the", "19-year-old", "bomber", "who", "killed", "herself", "and", "three", "Israelis", "Monday", "in", "a", "suicide", "attack", "outside", "a", "shopping", "mall", "in", "the", "northern", "Israeli", "city", "of", "Afula", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "a house belonging to the family of Hiba Daraghmeh, the 19-year-old bomber who killed herself and three Israelis Monday in a suicide attack outside a shopping mall in the northern Israeli city of Afula",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "a house belonging to the family of Hiba Daraghmeh, the 19-year-old bomber who killed herself and three Israelis Monday in a suicide attack outside a shopping mall in the northern Israeli city of Afula",
+    "argMentionid" : "APW_ENG_20030523.0307-E93-152",
+    "start" : 7,
+    "end" : 41
+  },
+  "relationID" : "APW_ENG_20030523.0307-R51",
+  "mentionArg1" : {
+    "extent" : "the family of Hiba Daraghmeh, the 19-year-old bomber who killed herself and three Israelis Monday in a suicide attack outside a shopping mall in the northern Israeli city of Afula",
+    "argMentionid" : "APW_ENG_20030523.0307-E94-153",
+    "start" : 11,
+    "end" : 41
+  },
+  "id" : "APW_ENG_20030523.0307-R51-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Also Friday , the Israeli military destroyed a house belonging to the family of Hiba Daraghmeh , the 19-year-old bomber who killed herself and three Israelis Monday in a suicide attack outside a shopping mall in the northern Israeli city of Afula .",
+  "sentence_index" : 29,
+  "Tokens" : [ "Also", "Friday", ",", "the", "Israeli", "military", "destroyed", "a", "house", "belonging", "to", "the", "family", "of", "Hiba", "Daraghmeh", ",", "the", "19-year-old", "bomber", "who", "killed", "herself", "and", "three", "Israelis", "Monday", "in", "a", "suicide", "attack", "outside", "a", "shopping", "mall", "in", "the", "northern", "Israeli", "city", "of", "Afula", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Also Friday, the Israeli military destroyed a house belonging to the family of Hiba Daraghmeh, the 19-year-old bomber who killed herself and three Israelis Monday in a suicide attack outside a shopping mall in the northern Israeli city of Afula",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "a shopping mall in the northern Israeli city of Afula",
+    "argMentionid" : "APW_ENG_20030523.0307-E99-160",
+    "start" : 32,
+    "end" : 41
+  },
+  "relationID" : "APW_ENG_20030523.0307-R52",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "APW_ENG_20030523.0307-E95-157",
+    "start" : 20,
+    "end" : 20
+  },
+  "id" : "APW_ENG_20030523.0307-R52-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Also Friday , the Israeli military destroyed a house belonging to the family of Hiba Daraghmeh , the 19-year-old bomber who killed herself and three Israelis Monday in a suicide attack outside a shopping mall in the northern Israeli city of Afula .",
+  "sentence_index" : 29,
+  "Tokens" : [ "Also", "Friday", ",", "the", "Israeli", "military", "destroyed", "a", "house", "belonging", "to", "the", "family", "of", "Hiba", "Daraghmeh", ",", "the", "19-year-old", "bomber", "who", "killed", "herself", "and", "three", "Israelis", "Monday", "in", "a", "suicide", "attack", "outside", "a", "shopping", "mall", "in", "the", "northern", "Israeli", "city", "of", "Afula", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a shopping mall in the northern Israeli city of Afula",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "the northern Israeli city of Afula",
+    "argMentionid" : "APW_ENG_20030523.0307-E100-161",
+    "start" : 36,
+    "end" : 41
+  },
+  "relationID" : "APW_ENG_20030523.0307-R53",
+  "mentionArg1" : {
+    "extent" : "a shopping mall in the northern Israeli city of Afula",
+    "argMentionid" : "APW_ENG_20030523.0307-E99-160",
+    "start" : 32,
+    "end" : 41
+  },
+  "id" : "APW_ENG_20030523.0307-R53-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Also Friday , the Israeli military destroyed a house belonging to the family of Hiba Daraghmeh , the 19-year-old bomber who killed herself and three Israelis Monday in a suicide attack outside a shopping mall in the northern Israeli city of Afula .",
+  "sentence_index" : 29,
+  "Tokens" : [ "Also", "Friday", ",", "the", "Israeli", "military", "destroyed", "a", "house", "belonging", "to", "the", "family", "of", "Hiba", "Daraghmeh", ",", "the", "19-year-old", "bomber", "who", "killed", "herself", "and", "three", "Israelis", "Monday", "in", "a", "suicide", "attack", "outside", "a", "shopping", "mall", "in", "the", "northern", "Israeli", "city", "of", "Afula", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the northern Israeli city of Afula",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "the northern Israeli",
+    "argMentionid" : "APW_ENG_20030523.0307-E101-162",
+    "start" : 36,
+    "end" : 38
+  },
+  "relationID" : "APW_ENG_20030523.0307-R54",
+  "mentionArg1" : {
+    "extent" : "the northern Israeli city of Afula",
+    "argMentionid" : "APW_ENG_20030523.0307-E100-161",
+    "start" : 36,
+    "end" : 41
+  },
+  "id" : "APW_ENG_20030523.0307-R54-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Also Friday , the Israeli military destroyed a house belonging to the family of Hiba Daraghmeh , the 19-year-old bomber who killed herself and three Israelis Monday in a suicide attack outside a shopping mall in the northern Israeli city of Afula .",
+  "sentence_index" : 29,
+  "Tokens" : [ "Also", "Friday", ",", "the", "Israeli", "military", "destroyed", "a", "house", "belonging", "to", "the", "family", "of", "Hiba", "Daraghmeh", ",", "the", "19-year-old", "bomber", "who", "killed", "herself", "and", "three", "Israelis", "Monday", "in", "a", "suicide", "attack", "outside", "a", "shopping", "mall", "in", "the", "northern", "Israeli", "city", "of", "Afula", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Nine others lived in the house in the village of Tubas, northeast of the West Bank city of Nablus",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "the house in the village of Tubas, northeast of the West Bank city of Nablus",
+    "argMentionid" : "APW_ENG_20030523.0307-E93-165",
+    "start" : 4,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030523.0307-R55",
+  "mentionArg1" : {
+    "extent" : "Nine others",
+    "argMentionid" : "APW_ENG_20030523.0307-E103-164",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030523.0307-R55-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Nine others lived in the house in the village of Tubas , northeast of the West Bank city of Nablus .",
+  "sentence_index" : 30,
+  "Tokens" : [ "Nine", "others", "lived", "in", "the", "house", "in", "the", "village", "of", "Tubas", ",", "northeast", "of", "the", "West", "Bank", "city", "of", "Nablus", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the house in the village of Tubas, northeast of the West Bank city of Nablus",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "the village of Tubas, northeast of the West Bank city of Nablus",
+    "argMentionid" : "APW_ENG_20030523.0307-E104-166",
+    "start" : 7,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030523.0307-R56",
+  "mentionArg1" : {
+    "extent" : "the house in the village of Tubas, northeast of the West Bank city of Nablus",
+    "argMentionid" : "APW_ENG_20030523.0307-E93-165",
+    "start" : 4,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030523.0307-R56-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Nine others lived in the house in the village of Tubas , northeast of the West Bank city of Nablus .",
+  "sentence_index" : 30,
+  "Tokens" : [ "Nine", "others", "lived", "in", "the", "house", "in", "the", "village", "of", "Tubas", ",", "northeast", "of", "the", "West", "Bank", "city", "of", "Nablus", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the village of Tubas, northeast of the West Bank city of Nablus",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "the West Bank city of Nablus",
+    "argMentionid" : "APW_ENG_20030523.0307-E106-168",
+    "start" : 14,
+    "end" : 19
+  },
+  "relationID" : "APW_ENG_20030523.0307-R57",
+  "mentionArg1" : {
+    "extent" : "the village of Tubas, northeast of the West Bank city of Nablus",
+    "argMentionid" : "APW_ENG_20030523.0307-E104-166",
+    "start" : 7,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030523.0307-R57-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Nine others lived in the house in the village of Tubas , northeast of the West Bank city of Nablus .",
+  "sentence_index" : 30,
+  "Tokens" : [ "Nine", "others", "lived", "in", "the", "house", "in", "the", "village", "of", "Tubas", ",", "northeast", "of", "the", "West", "Bank", "city", "of", "Nablus", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the West Bank city of Nablus",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "West Bank",
+    "argMentionid" : "APW_ENG_20030523.0307-E10-170",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "APW_ENG_20030523.0307-R58",
+  "mentionArg1" : {
+    "extent" : "the West Bank city of Nablus",
+    "argMentionid" : "APW_ENG_20030523.0307-E106-168",
+    "start" : 14,
+    "end" : 19
+  },
+  "id" : "APW_ENG_20030523.0307-R58-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Nine others lived in the house in the village of Tubas , northeast of the West Bank city of Nablus .",
+  "sentence_index" : 30,
+  "Tokens" : [ "Nine", "others", "lived", "in", "the", "house", "in", "the", "village", "of", "Tubas", ",", "northeast", "of", "the", "West", "Bank", "city", "of", "Nablus", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. President",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "APW_ENG_20030523.0307-E34-184",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "APW_ENG_20030523.0307-R59",
+  "mentionArg1" : {
+    "extent" : "U.S. President",
+    "argMentionid" : "APW_ENG_20030523.0307-E109-172",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030523.0307-R59-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "U.S. President George W. Bush is considering a three-way meeting with Sharon and Abbas in Egypt to prod them into implementing the road map , officials involved in the planning said Thursday .",
+  "sentence_index" : 31,
+  "Tokens" : [ "U.S.", "President", "George", "W.", "Bush", "is", "considering", "a", "three-way", "meeting", "with", "Sharon", "and", "Abbas", "in", "Egypt", "to", "prod", "them", "into", "implementing", "the", "road", "map", ",", "officials", "involved", "in", "the", "planning", "said", "Thursday", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "U.S. President George W. Bush is considering a three-way meeting with Sharon and Abbas in Egypt to prod them into implementing the road map, officials involved in the planning said Thursday",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Egypt",
+    "argMentionid" : "APW_ENG_20030523.0307-E111-176",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030523.0307-R60",
+  "mentionArg1" : {
+    "extent" : "U.S. President",
+    "argMentionid" : "APW_ENG_20030523.0307-E109-172",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "APW_ENG_20030523.0307-R60-1",
+  "relationSubType" : "Located",
+  "Sentence" : "U.S. President George W. Bush is considering a three-way meeting with Sharon and Abbas in Egypt to prod them into implementing the road map , officials involved in the planning said Thursday .",
+  "sentence_index" : 31,
+  "Tokens" : [ "U.S.", "President", "George", "W.", "Bush", "is", "considering", "a", "three-way", "meeting", "with", "Sharon", "and", "Abbas", "in", "Egypt", "to", "prod", "them", "into", "implementing", "the", "road", "map", ",", "officials", "involved", "in", "the", "planning", "said", "Thursday", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "U.S. President George W. Bush is considering a three-way meeting with Sharon and Abbas in Egypt to prod them into implementing the road map, officials involved in the planning said Thursday",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Egypt",
+    "argMentionid" : "APW_ENG_20030523.0307-E111-176",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "APW_ENG_20030523.0307-R61",
+  "mentionArg1" : {
+    "extent" : "them",
+    "argMentionid" : "APW_ENG_20030523.0307-E112-177",
+    "start" : 18,
+    "end" : 18
+  },
+  "id" : "APW_ENG_20030523.0307-R61-1",
+  "relationSubType" : "Located",
+  "Sentence" : "U.S. President George W. Bush is considering a three-way meeting with Sharon and Abbas in Egypt to prod them into implementing the road map , officials involved in the planning said Thursday .",
+  "sentence_index" : 31,
+  "Tokens" : [ "U.S.", "President", "George", "W.", "Bush", "is", "considering", "a", "three-way", "meeting", "with", "Sharon", "and", "Abbas", "in", "Egypt", "to", "prod", "them", "into", "implementing", "the", "road", "map", ",", "officials", "involved", "in", "the", "planning", "said", "Thursday", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "In the Gaza Strip, meanwhile, Hamas attacked an Israeli bus with explosives Friday  _  an apparent challenge to Palestinian Prime Minister Mahmoud Abbas, who a day earlier had asked the Islamic militant group to halt attacks against Israelis",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "explosives",
+    "argMentionid" : "APW_ENG_20030523.0307-E119-187",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "APW_ENG_20030523.0307-R62",
+  "mentionArg1" : {
+    "extent" : "Hamas",
+    "argMentionid" : "APW_ENG_20030523.0307-E12-196",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "APW_ENG_20030523.0307-R62-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "In the Gaza Strip , meanwhile , Hamas attacked an Israeli bus with explosives Friday _ an apparent challenge to Palestinian Prime Minister Mahmoud Abbas , who a day earlier had asked the Islamic militant group to halt attacks against Israelis .",
+  "sentence_index" : 2,
+  "Tokens" : [ "In", "the", "Gaza", "Strip", ",", "meanwhile", ",", "Hamas", "attacked", "an", "Israeli", "bus", "with", "explosives", "Friday", "_", "an", "apparent", "challenge", "to", "Palestinian", "Prime", "Minister", "Mahmoud", "Abbas", ",", "who", "a", "day", "earlier", "had", "asked", "the", "Islamic", "militant", "group", "to", "halt", "attacks", "against", "Israelis", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Powell, however, told a news conference in Paris on Friday that, ``With respect to the road map, we're not planning on making any changes",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Paris",
+    "argMentionid" : "APW_ENG_20030523.0307-E29-53",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030523.0307-R63",
+  "mentionArg1" : {
+    "extent" : "Powell",
+    "argMentionid" : "APW_ENG_20030523.0307-E24-52",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "APW_ENG_20030523.0307-R63-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Powell , however , told a news conference in Paris on Friday that , `` With respect to the road map , we 're not planning on making any changes . ''",
+  "sentence_index" : 11,
+  "Tokens" : [ "Powell", ",", "however", ",", "told", "a", "news", "conference", "in", "Paris", "on", "Friday", "that", ",", "``", "With", "respect", "to", "the", "road", "map", ",", "we", "'re", "not", "planning", "on", "making", "any", "changes", ".", "''" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a news conference in Paris",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Paris",
+    "argMentionid" : "APW_ENG_20030523.0307-E29-53",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "APW_ENG_20030523.0307-R64",
+  "mentionArg1" : {
+    "extent" : "a news conference in Paris",
+    "argMentionid" : "APW_ENG_20030523.0307-E30-54",
+    "start" : 5,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030523.0307-R64-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Powell , however , told a news conference in Paris on Friday that , `` With respect to the road map , we 're not planning on making any changes . ''",
+  "sentence_index" : 11,
+  "Tokens" : [ "Powell", ",", "however", ",", "told", "a", "news", "conference", "in", "Paris", "on", "Friday", "that", ",", "``", "With", "respect", "to", "the", "road", "map", ",", "we", "'re", "not", "planning", "on", "making", "any", "changes", ".", "''" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a news conference in Paris",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "news",
+    "argMentionid" : "APW_ENG_20030523.0307-E121-188",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "APW_ENG_20030523.0307-R65",
+  "mentionArg1" : {
+    "extent" : "a news conference in Paris",
+    "argMentionid" : "APW_ENG_20030523.0307-E30-54",
+    "start" : 5,
+    "end" : 9
+  },
+  "id" : "APW_ENG_20030523.0307-R65-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Powell , however , told a news conference in Paris on Friday that , `` With respect to the road map , we 're not planning on making any changes . ''",
+  "sentence_index" : 11,
+  "Tokens" : [ "Powell", ",", "however", ",", "told", "a", "news", "conference", "in", "Paris", "on", "Friday", "that", ",", "``", "With", "respect", "to", "the", "road", "map", ",", "we", "'re", "not", "planning", "on", "making", "any", "changes", ".", "''" ]
+} ]

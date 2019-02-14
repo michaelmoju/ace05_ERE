@@ -1,0 +1,287 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "Governor of uh New Jersey",
+  "sentence_length" : 51,
+  "mentionArg2" : {
+    "extent" : "New Jersey",
+    "argMentionid" : "fsh_29195-E22-133",
+    "start" : 48,
+    "end" : 49
+  },
+  "relationID" : "fsh_29195-R1",
+  "mentionArg1" : {
+    "extent" : "Governor of uh New Jersey",
+    "argMentionid" : "fsh_29195-E24-132",
+    "start" : 45,
+    "end" : 49
+  },
+  "id" : "fsh_29195-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Yeah I think I was -- I think I was -- I was on a cruise , and I put on the television uh when I got in at the six oh clock news , and bingo , there he is , uh resigning as Governor of uh New Jersey .",
+  "sentence_index" : 58,
+  "Tokens" : [ "Yeah", "I", "think", "I", "was", "--", "I", "think", "I", "was", "--", "I", "was", "on", "a", "cruise", ",", "and", "I", "put", "on", "the", "television", "uh", "when", "I", "got", "in", "at", "the", "six", "oh", "clock", "news", ",", "and", "bingo", ",", "there", "he", "is", ",", "uh", "resigning", "as", "Governor", "of", "uh", "New", "Jersey", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "some Green Party people",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Green Party",
+    "argMentionid" : "fsh_29195-E35-181",
+    "start" : 18,
+    "end" : 19
+  },
+  "relationID" : "fsh_29195-R2",
+  "mentionArg1" : {
+    "extent" : "some Green Party people",
+    "argMentionid" : "fsh_29195-E34-180",
+    "start" : 17,
+    "end" : 20
+  },
+  "id" : "fsh_29195-R2-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "He he needs some liberals in there and he needs some -- Ralph Nader people , and some Green Party people , and some , just some .",
+  "sentence_index" : 70,
+  "Tokens" : [ "He", "he", "needs", "some", "liberals", "in", "there", "and", "he", "needs", "some", "--", "Ralph", "Nader", "people", ",", "and", "some", "Green", "Party", "people", ",", "and", "some", ",", "just", "some", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Bush Cabinet",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "Bush Cabinet",
+    "argMentionid" : "fsh_29195-E52-9",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "fsh_29195-R3",
+  "mentionArg1" : {
+    "extent" : "Bush",
+    "argMentionid" : "fsh_29195-E12-85",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29195-R3-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Bush Cabinet President Bush has just been elected to another term in office , and he has already started to appoint new people to his political cabinet as current members like Colin Powell and John Ashcroft resign .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Bush", "Cabinet", "President", "Bush", "has", "just", "been", "elected", "to", "another", "term", "in", "office", ",", "and", "he", "has", "already", "started", "to", "appoint", "new", "people", "to", "his", "political", "cabinet", "as", "current", "members", "like", "Colin", "Powell", "and", "John", "Ashcroft", "resign", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his cabinet",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "his cabinet",
+    "argMentionid" : "fsh_29195-E52-297",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "fsh_29195-R3",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29195-E12-296",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "fsh_29195-R3-2",
+  "relationSubType" : "Business",
+  "Sentence" : "Who would you like to see appointed to his cabinet next term ?",
+  "sentence_index" : 2,
+  "Tokens" : [ "Who", "would", "you", "like", "to", "see", "appointed", "to", "his", "cabinet", "next", "term", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his political cabinet",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "his political cabinet",
+    "argMentionid" : "fsh_29195-E52-290",
+    "start" : 24,
+    "end" : 26
+  },
+  "relationID" : "fsh_29195-R3",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29195-E12-287",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "fsh_29195-R3-3",
+  "relationSubType" : "Business",
+  "Sentence" : "Bush Cabinet President Bush has just been elected to another term in office , and he has already started to appoint new people to his political cabinet as current members like Colin Powell and John Ashcroft resign .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Bush", "Cabinet", "President", "Bush", "has", "just", "been", "elected", "to", "another", "term", "in", "office", ",", "and", "he", "has", "already", "started", "to", "appoint", "new", "people", "to", "his", "political", "cabinet", "as", "current", "members", "like", "Colin", "Powell", "and", "John", "Ashcroft", "resign", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "President Bush has just been elected to another term in office, and he has already started to appoint new people to his political cabinet as current members like Colin Powell and John Ashcroft resign",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "current members like Colin Powell and John Ashcroft",
+    "argMentionid" : "fsh_29195-E53-291",
+    "start" : 28,
+    "end" : 35
+  },
+  "relationID" : "fsh_29195-R4",
+  "mentionArg1" : {
+    "extent" : "his political cabinet",
+    "argMentionid" : "fsh_29195-E52-290",
+    "start" : 24,
+    "end" : 26
+  },
+  "id" : "fsh_29195-R4-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Bush Cabinet President Bush has just been elected to another term in office , and he has already started to appoint new people to his political cabinet as current members like Colin Powell and John Ashcroft resign .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Bush", "Cabinet", "President", "Bush", "has", "just", "been", "elected", "to", "another", "term", "in", "office", ",", "and", "he", "has", "already", "started", "to", "appoint", "new", "people", "to", "his", "political", "cabinet", "as", "current", "members", "like", "Colin", "Powell", "and", "John", "Ashcroft", "resign", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "President Bush has just been elected to another term in office, and he has already started to appoint new people to his political cabinet as current members like Colin Powell and John Ashcroft resign",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "his political cabinet",
+    "argMentionid" : "fsh_29195-E52-290",
+    "start" : 24,
+    "end" : 26
+  },
+  "relationID" : "fsh_29195-R5",
+  "mentionArg1" : {
+    "extent" : "new people",
+    "argMentionid" : "fsh_29195-E51-211",
+    "start" : 21,
+    "end" : 22
+  },
+  "id" : "fsh_29195-R5-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Bush Cabinet President Bush has just been elected to another term in office , and he has already started to appoint new people to his political cabinet as current members like Colin Powell and John Ashcroft resign .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Bush", "Cabinet", "President", "Bush", "has", "just", "been", "elected", "to", "another", "term", "in", "office", ",", "and", "he", "has", "already", "started", "to", "appoint", "new", "people", "to", "his", "political", "cabinet", "as", "current", "members", "like", "Colin", "Powell", "and", "John", "Ashcroft", "resign", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the uh -- government officials",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "government",
+    "argMentionid" : "fsh_29195-E11-221",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "fsh_29195-R6",
+  "mentionArg1" : {
+    "extent" : "the uh -- government officials",
+    "argMentionid" : "fsh_29195-E30-164",
+    "start" : 12,
+    "end" : 16
+  },
+  "id" : "fsh_29195-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "B Well , for one thing , it it ends up as the uh -- government officials are those seeking office , and uh -- preaching and teaching to people , and that 's my job .",
+  "sentence_index" : 86,
+  "Tokens" : [ "B", "Well", ",", "for", "one", "thing", ",", "it", "it", "ends", "up", "as", "the", "uh", "--", "government", "officials", "are", "those", "seeking", "office", ",", "and", "uh", "--", "preaching", "and", "teaching", "to", "people", ",", "and", "that", "'s", "my", "job", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Who would you like to see appointed to his cabinet next term",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "his",
+    "argMentionid" : "fsh_29195-E12-296",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "fsh_29195-R7",
+  "mentionArg1" : {
+    "extent" : "Who",
+    "argMentionid" : "fsh_29195-E56-294",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "fsh_29195-R7-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Who would you like to see appointed to his cabinet next term ?",
+  "sentence_index" : 2,
+  "Tokens" : [ "Who", "would", "you", "like", "to", "see", "appointed", "to", "his", "cabinet", "next", "term", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my people",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "my people",
+    "argMentionid" : "fsh_29195-E41-209",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "fsh_29195-R8",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "fsh_29195-E4-208",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "fsh_29195-R8-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "You mind your stuff , I 'll tell my people what we 're doing .",
+  "sentence_index" : 90,
+  "Tokens" : [ "You", "mind", "your", "stuff", ",", "I", "'ll", "tell", "my", "people", "what", "we", "'re", "doing", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "your cabinet",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "your cabinet",
+    "argMentionid" : "fsh_29195-E1-4",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "fsh_29195-R10",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "fsh_29195-E57-2",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "fsh_29195-R10-1",
+  "relationSubType" : "Business",
+  "Sentence" : "If you were president , which national figures would you appoint to your cabinet and why ?",
+  "sentence_index" : 4,
+  "Tokens" : [ "If", "you", "were", "president", ",", "which", "national", "figures", "would", "you", "appoint", "to", "your", "cabinet", "and", "why", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the rest of the country",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "the country",
+    "argMentionid" : "fsh_29195-E15-61",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "fsh_29195-R11",
+  "mentionArg1" : {
+    "extent" : "the rest of the country",
+    "argMentionid" : "fsh_29195-E14-60",
+    "start" : 9,
+    "end" : 13
+  },
+  "id" : "fsh_29195-R11-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "B And if if if I do n't think the rest of the country knows that , because they do n't know what he did before nine eleven , because they do n't pay any attention .",
+  "sentence_index" : 28,
+  "Tokens" : [ "B", "And", "if", "if", "if", "I", "do", "n't", "think", "the", "rest", "of", "the", "country", "knows", "that", ",", "because", "they", "do", "n't", "know", "what", "he", "did", "before", "nine", "eleven", ",", "because", "they", "do", "n't", "pay", "any", "attention", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "And -- I think that if he did get a government agency,  it would have to be one that was having crisis a lot of times I mean,  he would just have to devote himself to that",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "a government agency",
+    "argMentionid" : "fsh_29195-E16-69",
+    "start" : 10,
+    "end" : 12
+  },
+  "relationID" : "fsh_29195-R12",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "fsh_29195-E3-68",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "fsh_29195-R12-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "B And -- I think that if he did get a government agency , it would have to be one that was having crisis a lot of times I mean , he would just have to devote himself to that .",
+  "sentence_index" : 31,
+  "Tokens" : [ "B", "And", "--", "I", "think", "that", "if", "he", "did", "get", "a", "government", "agency", ",", "it", "would", "have", "to", "be", "one", "that", "was", "having", "crisis", "a", "lot", "of", "times", "I", "mean", ",", "he", "would", "just", "have", "to", "devote", "himself", "to", "that", "." ]
+} ]

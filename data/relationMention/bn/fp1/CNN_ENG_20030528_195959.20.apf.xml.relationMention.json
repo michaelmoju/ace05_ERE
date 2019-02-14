@@ -1,0 +1,111 @@
+[ {
+  "relationType" : "ART",
+  "extent" : "moving ahead now to a developing story, the hunt for so-called smoking gun, meant to prove that iraq was developing weapons of mass destruction",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "weapons of mass destruction",
+    "argMentionid" : "CNN_ENG_20030528_195959.20-E17-26",
+    "start" : 22,
+    "end" : 25
+  },
+  "relationID" : "CNN_ENG_20030528_195959.20-R1",
+  "mentionArg1" : {
+    "extent" : "iraq",
+    "argMentionid" : "CNN_ENG_20030528_195959.20-E16-1",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "CNN_ENG_20030528_195959.20-R1-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "moving ahead now to a developing story , the hunt for so-called smoking gun , meant to prove that iraq was developing weapons of mass destruction. here 's national security correspondent david ensor .",
+  "sentence_index" : 0,
+  "Tokens" : [ "moving", "ahead", "now", "to", "a", "developing", "story", ",", "the", "hunt", "for", "so-called", "smoking", "gun", ",", "meant", "to", "prove", "that", "iraq", "was", "developing", "weapons", "of", "mass", "destruction.", "here", "'s", "national", "security", "correspondent", "david", "ensor", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "u.s. forces",
+  "sentence_length" : 61,
+  "mentionArg2" : {
+    "extent" : "u.s",
+    "argMentionid" : "CNN_ENG_20030528_195959.20-E6-30",
+    "start" : 3,
+    "end" : 5
+  },
+  "relationID" : "CNN_ENG_20030528_195959.20-R2",
+  "mentionArg1" : {
+    "extent" : "u.s. forces",
+    "argMentionid" : "CNN_ENG_20030528_195959.20-E20-29",
+    "start" : 3,
+    "end" : 6
+  },
+  "id" : "CNN_ENG_20030528_195959.20-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "reporter : while u . s. forces still have n't found any weapons of mass destruction , the new cia pentagon report says officials are now confident the mysterious trucks filled with high-tech equipment found in iraq are indeed mobile biological weapons production facilities , just as secretary of state powell predicted and presented the united nations before the war .",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "while", "u", ".", "s.", "forces", "still", "have", "n't", "found", "any", "weapons", "of", "mass", "destruction", ",", "the", "new", "cia", "pentagon", "report", "says", "officials", "are", "now", "confident", "the", "mysterious", "trucks", "filled", "with", "high-tech", "equipment", "found", "in", "iraq", "are", "indeed", "mobile", "biological", "weapons", "production", "facilities", ",", "just", "as", "secretary", "of", "state", "powell", "predicted", "and", "presented", "the", "united", "nations", "before", "the", "war", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "secretary of state",
+  "sentence_length" : 61,
+  "mentionArg2" : {
+    "extent" : "state",
+    "argMentionid" : "CNN_ENG_20030528_195959.20-E3-3",
+    "start" : 49,
+    "end" : 49
+  },
+  "relationID" : "CNN_ENG_20030528_195959.20-R3",
+  "mentionArg1" : {
+    "extent" : "secretary of state",
+    "argMentionid" : "CNN_ENG_20030528_195959.20-E1-2",
+    "start" : 47,
+    "end" : 49
+  },
+  "id" : "CNN_ENG_20030528_195959.20-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "reporter : while u . s. forces still have n't found any weapons of mass destruction , the new cia pentagon report says officials are now confident the mysterious trucks filled with high-tech equipment found in iraq are indeed mobile biological weapons production facilities , just as secretary of state powell predicted and presented the united nations before the war .",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "while", "u", ".", "s.", "forces", "still", "have", "n't", "found", "any", "weapons", "of", "mass", "destruction", ",", "the", "new", "cia", "pentagon", "report", "says", "officials", "are", "now", "confident", "the", "mysterious", "trucks", "filled", "with", "high-tech", "equipment", "found", "in", "iraq", "are", "indeed", "mobile", "biological", "weapons", "production", "facilities", ",", "just", "as", "secretary", "of", "state", "powell", "predicted", "and", "presented", "the", "united", "nations", "before", "the", "war", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "u.s. intelligence officials",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "u.s",
+    "argMentionid" : "CNN_ENG_20030528_195959.20-E6-9",
+    "start" : 14,
+    "end" : 16
+  },
+  "relationID" : "CNN_ENG_20030528_195959.20-R4",
+  "mentionArg1" : {
+    "extent" : "u.s. intelligence officials",
+    "argMentionid" : "CNN_ENG_20030528_195959.20-E26-8",
+    "start" : 14,
+    "end" : 18
+  },
+  "id" : "CNN_ENG_20030528_195959.20-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "reporter : though no trace of biological toxin was found in the trucks , u . s. intelligence officials say they have largely eliminated any other possible use for the fermenters and other equipment. not everyone is convinced .",
+  "sentence_index" : 3,
+  "Tokens" : [ "reporter", ":", "though", "no", "trace", "of", "biological", "toxin", "was", "found", "in", "the", "trucks", ",", "u", ".", "s.", "intelligence", "officials", "say", "they", "have", "largely", "eliminated", "any", "other", "possible", "use", "for", "the", "fermenters", "and", "other", "equipment.", "not", "everyone", "is", "convinced", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the cia-pentagon reports admits the trucks were not an efficient way to produce biological weapons, but officials argue the point for the iraqis was to produce some and not to be caught doing it",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "some",
+    "argMentionid" : "CNN_ENG_20030528_195959.20-E14-23",
+    "start" : 29,
+    "end" : 29
+  },
+  "relationID" : "CNN_ENG_20030528_195959.20-R5",
+  "mentionArg1" : {
+    "extent" : "the iraqis",
+    "argMentionid" : "CNN_ENG_20030528_195959.20-E16-22",
+    "start" : 24,
+    "end" : 25
+  },
+  "id" : "CNN_ENG_20030528_195959.20-R5-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "reporter : the cia-pentagon reports admits the trucks were not an efficient way to produce biological weapons , but officials argue the point for the iraqis was to produce some and not to be caught doing it .",
+  "sentence_index" : 5,
+  "Tokens" : [ "reporter", ":", "the", "cia-pentagon", "reports", "admits", "the", "trucks", "were", "not", "an", "efficient", "way", "to", "produce", "biological", "weapons", ",", "but", "officials", "argue", "the", "point", "for", "the", "iraqis", "was", "to", "produce", "some", "and", "not", "to", "be", "caught", "doing", "it", "." ]
+} ]

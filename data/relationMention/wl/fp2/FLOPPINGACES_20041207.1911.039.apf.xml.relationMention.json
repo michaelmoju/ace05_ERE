@@ -1,0 +1,947 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Japanese military",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Japanese",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E4-312",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R1",
+  "mentionArg1" : {
+    "extent" : "Japanese military",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E184-315",
+    "start" : 4,
+    "end" : 5
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R1-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "\" -- Winston Churchill Japanese military leaders recognized American naval strength as the chief deterrent to war with the United States .",
+  "sentence_index" : 2,
+  "Tokens" : [ "\"", "--", "Winston", "Churchill", "Japanese", "military", "leaders", "recognized", "American", "naval", "strength", "as", "the", "chief", "deterrent", "to", "war", "with", "the", "United", "States", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Japanese military leaders",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Japanese military",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E184-315",
+    "start" : 4,
+    "end" : 5
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R2",
+  "mentionArg1" : {
+    "extent" : "Japanese military leaders",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E183-313",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "\" -- Winston Churchill Japanese military leaders recognized American naval strength as the chief deterrent to war with the United States .",
+  "sentence_index" : 2,
+  "Tokens" : [ "\"", "--", "Winston", "Churchill", "Japanese", "military", "leaders", "recognized", "American", "naval", "strength", "as", "the", "chief", "deterrent", "to", "war", "with", "the", "United", "States", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the Japanese Combined Fleet",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "the Japanese Combined Fleet",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E3-3",
+    "start" : 10,
+    "end" : 13
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R3",
+  "mentionArg1" : {
+    "extent" : "Japanese",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E4-4",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R3-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Early in 1941 , Admiral Isoroku Yamamoto , Commander of the Japanese Combined Fleet , had initiated planning for a surprise attack on the United States Pacific Fleet at the beginning of any hostilities that the Japanese might undertake .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Early", "in", "1941", ",", "Admiral", "Isoroku", "Yamamoto", ",", "Commander", "of", "the", "Japanese", "Combined", "Fleet", ",", "had", "initiated", "planning", "for", "a", "surprise", "attack", "on", "the", "United", "States", "Pacific", "Fleet", "at", "the", "beginning", "of", "any", "hostilities", "that", "the", "Japanese", "might", "undertake", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the United States Pacific Fleet",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "the United States Pacific Fleet",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E5-5",
+    "start" : 23,
+    "end" : 27
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R4",
+  "mentionArg1" : {
+    "extent" : "United States",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E6-6",
+    "start" : 24,
+    "end" : 25
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R4-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Early in 1941 , Admiral Isoroku Yamamoto , Commander of the Japanese Combined Fleet , had initiated planning for a surprise attack on the United States Pacific Fleet at the beginning of any hostilities that the Japanese might undertake .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Early", "in", "1941", ",", "Admiral", "Isoroku", "Yamamoto", ",", "Commander", "of", "the", "Japanese", "Combined", "Fleet", ",", "had", "initiated", "planning", "for", "a", "surprise", "attack", "on", "the", "United", "States", "Pacific", "Fleet", "at", "the", "beginning", "of", "any", "hostilities", "that", "the", "Japanese", "might", "undertake", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Hawaiian Island of Oahu",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "Hawaiian",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E18-23",
+    "start" : 42,
+    "end" : 42
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R5",
+  "mentionArg1" : {
+    "extent" : "the Hawaiian Island of Oahu",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E17-21",
+    "start" : 41,
+    "end" : 45
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "By September 1941 the Japanese had practically completed secret plans for a huge assault against Malaya , the Philippines , and the Netherlands East Indies , to be coordinated with a crushing blow on the Pacific Fleet at Pearl Harbor in the Hawaiian Island of Oahu .",
+  "sentence_index" : 5,
+  "Tokens" : [ "By", "September", "1941", "the", "Japanese", "had", "practically", "completed", "secret", "plans", "for", "a", "huge", "assault", "against", "Malaya", ",", "the", "Philippines", ",", "and", "the", "Netherlands", "East", "Indies", ",", "to", "be", "coordinated", "with", "a", "crushing", "blow", "on", "the", "Pacific", "Fleet", "at", "Pearl", "Harbor", "in", "the", "Hawaiian", "Island", "of", "Oahu", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Kure naval base on the west coast of Honshu",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "the west coast of Honshu",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E13-16",
+    "start" : 21,
+    "end" : 25
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R6",
+  "mentionArg1" : {
+    "extent" : "Kure naval base on the west coast of Honshu",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E12-314",
+    "start" : 17,
+    "end" : 25
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R6-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "At the same time , a Japanese Advance Expeditionary Force of some 20 submarines was assembled at Kure naval base on the west coast of Honshu to cooperate in the attack .",
+  "sentence_index" : 8,
+  "Tokens" : [ "At", "the", "same", "time", ",", "a", "Japanese", "Advance", "Expeditionary", "Force", "of", "some", "20", "submarines", "was", "assembled", "at", "Kure", "naval", "base", "on", "the", "west", "coast", "of", "Honshu", "to", "cooperate", "in", "the", "attack", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the west coast of Honshu",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Honshu",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E23-26",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R7",
+  "mentionArg1" : {
+    "extent" : "the west coast of Honshu",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E13-16",
+    "start" : 21,
+    "end" : 25
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R7-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "At the same time , a Japanese Advance Expeditionary Force of some 20 submarines was assembled at Kure naval base on the west coast of Honshu to cooperate in the attack .",
+  "sentence_index" : 8,
+  "Tokens" : [ "At", "the", "same", "time", ",", "a", "Japanese", "Advance", "Expeditionary", "Force", "of", "some", "20", "submarines", "was", "assembled", "at", "Kure", "naval", "base", "on", "the", "west", "coast", "of", "Honshu", "to", "cooperate", "in", "the", "attack", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Army forces in Hawaii, including the 24th and 25th Infantry Divisions",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Army",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E46-73",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R8",
+  "mentionArg1" : {
+    "extent" : "Army forces in Hawaii, including the 24th and 25th Infantry Divisions",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E171-298",
+    "start" : 0,
+    "end" : 11
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R8-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Army forces in Hawaii , including the 24th and 25th Infantry Divisions , were under the command of Lt. Gen. Walter C. Short , Commanding General of the Hawaiian Department .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Army", "forces", "in", "Hawaii", ",", "including", "the", "24th", "and", "25th", "Infantry", "Divisions", ",", "were", "under", "the", "command", "of", "Lt.", "Gen.", "Walter", "C.", "Short", ",", "Commanding", "General", "of", "the", "Hawaiian", "Department", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Army forces in Hawaii, including the 24th and 25th Infantry Divisions",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Hawaii",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E18-74",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R9",
+  "mentionArg1" : {
+    "extent" : "Army forces in Hawaii, including the 24th and 25th Infantry Divisions",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E171-298",
+    "start" : 0,
+    "end" : 11
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Army forces in Hawaii , including the 24th and 25th Infantry Divisions , were under the command of Lt. Gen. Walter C. Short , Commanding General of the Hawaiian Department .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Army", "forces", "in", "Hawaii", ",", "including", "the", "24th", "and", "25th", "Infantry", "Divisions", ",", "were", "under", "the", "command", "of", "Lt.", "Gen.", "Walter", "C.", "Short", ",", "Commanding", "General", "of", "the", "Hawaiian", "Department", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the 24th and 25th Infantry Divisions",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "Infantry",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E170-297",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R10",
+  "mentionArg1" : {
+    "extent" : "the 24th and 25th Infantry Divisions",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E48-75",
+    "start" : 6,
+    "end" : 11
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R10-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Army forces in Hawaii , including the 24th and 25th Infantry Divisions , were under the command of Lt. Gen. Walter C. Short , Commanding General of the Hawaiian Department .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Army", "forces", "in", "Hawaii", ",", "including", "the", "24th", "and", "25th", "Infantry", "Divisions", ",", "were", "under", "the", "command", "of", "Lt.", "Gen.", "Walter", "C.", "Short", ",", "Commanding", "General", "of", "the", "Hawaiian", "Department", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Commanding General of the Hawaiian Department",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "the Hawaiian Department",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E52-81",
+    "start" : 27,
+    "end" : 29
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R11",
+  "mentionArg1" : {
+    "extent" : "Commanding General of the Hawaiian Department",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E49-80",
+    "start" : 24,
+    "end" : 29
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R11-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Army forces in Hawaii , including the 24th and 25th Infantry Divisions , were under the command of Lt. Gen. Walter C. Short , Commanding General of the Hawaiian Department .",
+  "sentence_index" : 17,
+  "Tokens" : [ "Army", "forces", "in", "Hawaii", ",", "including", "the", "24th", "and", "25th", "Infantry", "Divisions", ",", "were", "under", "the", "command", "of", "Lt.", "Gen.", "Walter", "C.", "Short", ",", "Commanding", "General", "of", "the", "Hawaiian", "Department", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the airfields of Oahu",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Oahu",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E17-93",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R12",
+  "mentionArg1" : {
+    "extent" : "the airfields of Oahu",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E59-92",
+    "start" : 9,
+    "end" : 12
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R12-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The Japanese air attack on Pearl Harbor and on the airfields of Oahu began at 0755 on December 7 , 1941 and ended shortly before 1000 .",
+  "sentence_index" : 19,
+  "Tokens" : [ "The", "Japanese", "air", "attack", "on", "Pearl", "Harbor", "and", "on", "the", "airfields", "of", "Oahu", "began", "at", "0755", "on", "December", "7", ",", "1941", "and", "ended", "shortly", "before", "1000", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "only a few American planes",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "only a few American planes",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E64-97",
+    "start" : 10,
+    "end" : 14
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R13",
+  "mentionArg1" : {
+    "extent" : "American",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E6-98",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R13-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Devastation of the airfields was so quick and thorough that only a few American planes were able to participate in the counterattack .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Devastation", "of", "the", "airfields", "was", "so", "quick", "and", "thorough", "that", "only", "a", "few", "American", "planes", "were", "able", "to", "participate", "in", "the", "counterattack", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Army 74",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Army 74",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E75-116",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R14",
+  "mentionArg1" : {
+    "extent" : "Army",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E46-121",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R14-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "On the airfields the Japanese destroyed 161 American planes ( Army 74 , Navy 87 ) and seriously damaged 102 ( Army 71 , Navy 31 ) .",
+  "sentence_index" : 25,
+  "Tokens" : [ "On", "the", "airfields", "the", "Japanese", "destroyed", "161", "American", "planes", "(", "Army", "74", ",", "Navy", "87", ")", "and", "seriously", "damaged", "102", "(", "Army", "71", ",", "Navy", "31", ")", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Navy 87",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Navy 87",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E76-117",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R15",
+  "mentionArg1" : {
+    "extent" : "Navy",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E57-123",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R15-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "On the airfields the Japanese destroyed 161 American planes ( Army 74 , Navy 87 ) and seriously damaged 102 ( Army 71 , Navy 31 ) .",
+  "sentence_index" : 25,
+  "Tokens" : [ "On", "the", "airfields", "the", "Japanese", "destroyed", "161", "American", "planes", "(", "Army", "74", ",", "Navy", "87", ")", "and", "seriously", "damaged", "102", "(", "Army", "71", ",", "Navy", "31", ")", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Army 71",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Army 71",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E78-119",
+    "start" : 21,
+    "end" : 22
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R16",
+  "mentionArg1" : {
+    "extent" : "Army",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E46-122",
+    "start" : 21,
+    "end" : 21
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R16-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "On the airfields the Japanese destroyed 161 American planes ( Army 74 , Navy 87 ) and seriously damaged 102 ( Army 71 , Navy 31 ) .",
+  "sentence_index" : 25,
+  "Tokens" : [ "On", "the", "airfields", "the", "Japanese", "destroyed", "161", "American", "planes", "(", "Army", "74", ",", "Navy", "87", ")", "and", "seriously", "damaged", "102", "(", "Army", "71", ",", "Navy", "31", ")", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Navy 31",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Navy 31",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E79-120",
+    "start" : 24,
+    "end" : 25
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R17",
+  "mentionArg1" : {
+    "extent" : "Navy",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E57-124",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R17-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "On the airfields the Japanese destroyed 161 American planes ( Army 74 , Navy 87 ) and seriously damaged 102 ( Army 71 , Navy 31 ) .",
+  "sentence_index" : 25,
+  "Tokens" : [ "On", "the", "airfields", "the", "Japanese", "destroyed", "161", "American", "planes", "(", "Army", "74", ",", "Navy", "87", ")", "and", "seriously", "damaged", "102", "(", "Army", "71", ",", "Navy", "31", ")", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The Army (as of midnight, 10 December) lost 228 killed or died of wounds, 113 seriously wounded and 346 slightly wounded. In addition, at least 57 civilians were killed and nearly as many seriously injured",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "The Army",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E46-133",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R18",
+  "mentionArg1" : {
+    "extent" : "228",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E83-137",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R18-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The Army ( as of midnight , 10 December ) lost 228 killed or died of wounds , 113 seriously wounded and 346 slightly wounded .",
+  "sentence_index" : 27,
+  "Tokens" : [ "The", "Army", "(", "as", "of", "midnight", ",", "10", "December", ")", "lost", "228", "killed", "or", "died", "of", "wounds", ",", "113", "seriously", "wounded", "and", "346", "slightly", "wounded", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The Army (as of midnight, 10 December) lost 228 killed or died of wounds, 113 seriously wounded and 346 slightly wounded. In addition, at least 57 civilians were killed and nearly as many seriously injured",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "The Army",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E46-133",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R19",
+  "mentionArg1" : {
+    "extent" : "113",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E84-138",
+    "start" : 18,
+    "end" : 18
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R19-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The Army ( as of midnight , 10 December ) lost 228 killed or died of wounds , 113 seriously wounded and 346 slightly wounded .",
+  "sentence_index" : 27,
+  "Tokens" : [ "The", "Army", "(", "as", "of", "midnight", ",", "10", "December", ")", "lost", "228", "killed", "or", "died", "of", "wounds", ",", "113", "seriously", "wounded", "and", "346", "slightly", "wounded", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The Army (as of midnight, 10 December) lost 228 killed or died of wounds, 113 seriously wounded and 346 slightly wounded. In addition, at least 57 civilians were killed and nearly as many seriously injured",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "The Army",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E46-133",
+    "start" : 0,
+    "end" : 1
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R20",
+  "mentionArg1" : {
+    "extent" : "346",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E85-139",
+    "start" : 22,
+    "end" : 22
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R20-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The Army ( as of midnight , 10 December ) lost 228 killed or died of wounds , 113 seriously wounded and 346 slightly wounded .",
+  "sentence_index" : 27,
+  "Tokens" : [ "The", "Army", "(", "as", "of", "midnight", ",", "10", "December", ")", "lost", "228", "killed", "or", "died", "of", "wounds", ",", "113", "seriously", "wounded", "and", "346", "slightly", "wounded", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "The Japanese lost 29 planes over Oahu, one large submarine (on 10 December), and all five of the midget submarines",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "29 planes",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E161-282",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R21",
+  "mentionArg1" : {
+    "extent" : "The Japanese",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E4-142",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R21-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The Japanese lost 29 planes over Oahu , one large submarine ( on 10 December ) , and all five of the midget submarines .",
+  "sentence_index" : 29,
+  "Tokens" : [ "The", "Japanese", "lost", "29", "planes", "over", "Oahu", ",", "one", "large", "submarine", "(", "on", "10", "December", ")", ",", "and", "all", "five", "of", "the", "midget", "submarines", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "The Japanese lost 29 planes over Oahu, one large submarine (on 10 December), and all five of the midget submarines",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "one large submarine",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E162-283",
+    "start" : 8,
+    "end" : 10
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R22",
+  "mentionArg1" : {
+    "extent" : "The Japanese",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E4-142",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R22-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The Japanese lost 29 planes over Oahu , one large submarine ( on 10 December ) , and all five of the midget submarines .",
+  "sentence_index" : 29,
+  "Tokens" : [ "The", "Japanese", "lost", "29", "planes", "over", "Oahu", ",", "one", "large", "submarine", "(", "on", "10", "December", ")", ",", "and", "all", "five", "of", "the", "midget", "submarines", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "The Japanese lost 29 planes over Oahu, one large submarine (on 10 December), and all five of the midget submarines",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "all five of the midget submarines",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E34-284",
+    "start" : 18,
+    "end" : 23
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R23",
+  "mentionArg1" : {
+    "extent" : "The Japanese",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E4-142",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R23-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The Japanese lost 29 planes over Oahu , one large submarine ( on 10 December ) , and all five of the midget submarines .",
+  "sentence_index" : 29,
+  "Tokens" : [ "The", "Japanese", "lost", "29", "planes", "over", "Oahu", ",", "one", "large", "submarine", "(", "on", "10", "December", ")", ",", "and", "all", "five", "of", "the", "midget", "submarines", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Their personnel losses (according to Japanese sources) were 55 airmen, nine crewmen on the midget submarines, and an unknown number on the large submarines",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Their",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E4-143",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R24",
+  "mentionArg1" : {
+    "extent" : "55 airmen",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E165-291",
+    "start" : 10,
+    "end" : 11
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R24-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Their personnel losses ( according to Japanese sources ) were 55 airmen , nine crewmen on the midget submarines , and an unknown number on the large submarines .",
+  "sentence_index" : 30,
+  "Tokens" : [ "Their", "personnel", "losses", "(", "according", "to", "Japanese", "sources", ")", "were", "55", "airmen", ",", "nine", "crewmen", "on", "the", "midget", "submarines", ",", "and", "an", "unknown", "number", "on", "the", "large", "submarines", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Their personnel losses (according to Japanese sources) were 55 airmen, nine crewmen on the midget submarines, and an unknown number on the large submarines",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Their",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E4-143",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R25",
+  "mentionArg1" : {
+    "extent" : "nine crewmen on the midget submarines",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E166-293",
+    "start" : 13,
+    "end" : 18
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R25-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Their personnel losses ( according to Japanese sources ) were 55 airmen , nine crewmen on the midget submarines , and an unknown number on the large submarines .",
+  "sentence_index" : 30,
+  "Tokens" : [ "Their", "personnel", "losses", "(", "according", "to", "Japanese", "sources", ")", "were", "55", "airmen", ",", "nine", "crewmen", "on", "the", "midget", "submarines", ",", "and", "an", "unknown", "number", "on", "the", "large", "submarines", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Their personnel losses (according to Japanese sources) were 55 airmen, nine crewmen on the midget submarines, and an unknown number on the large submarines",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Their",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E4-143",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R26",
+  "mentionArg1" : {
+    "extent" : "an unknown number on the large submarines",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E167-294",
+    "start" : 21,
+    "end" : 27
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R26-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Their personnel losses ( according to Japanese sources ) were 55 airmen , nine crewmen on the midget submarines , and an unknown number on the large submarines .",
+  "sentence_index" : 30,
+  "Tokens" : [ "Their", "personnel", "losses", "(", "according", "to", "Japanese", "sources", ")", "were", "55", "airmen", ",", "nine", "crewmen", "on", "the", "midget", "submarines", ",", "and", "an", "unknown", "number", "on", "the", "large", "submarines", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "The Japanese carrier task force",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "The Japanese carrier task force",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E25-286",
+    "start" : 0,
+    "end" : 4
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R27",
+  "mentionArg1" : {
+    "extent" : "Japanese",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E4-145",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R27-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The Japanese carrier task force sailed away undetected and unscathed .",
+  "sentence_index" : 31,
+  "Tokens" : [ "The", "Japanese", "carrier", "task", "force", "sailed", "away", "undetected", "and", "unscathed", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "American armed forces",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E6-160",
+    "start" : 37,
+    "end" : 37
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R28",
+  "mentionArg1" : {
+    "extent" : "American armed forces",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E96-159",
+    "start" : 37,
+    "end" : 39
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R28-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Congress , this time without a dissenting vote , immediately recognized the existence of a state of war with Germany and Italy , and also rescinded an article of the Selective Service Act prohibiting the use of American armed forces beyond the Western Hemisphere .",
+  "sentence_index" : 34,
+  "Tokens" : [ "Congress", ",", "this", "time", "without", "a", "dissenting", "vote", ",", "immediately", "recognized", "the", "existence", "of", "a", "state", "of", "war", "with", "Germany", "and", "Italy", ",", "and", "also", "rescinded", "an", "article", "of", "the", "Selective", "Service", "Act", "prohibiting", "the", "use", "of", "American", "armed", "forces", "beyond", "the", "Western", "Hemisphere", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "U.S. Naval Reserve",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E6-168",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R29",
+  "mentionArg1" : {
+    "extent" : "U.S. Naval Reserve",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E103-167",
+    "start" : 17,
+    "end" : 19
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R29-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "And here are a few of the hero 's of that day FRANCIS C. FLAHERTY Ensign , U.S. Naval Reserve .",
+  "sentence_index" : 35,
+  "Tokens" : [ "And", "here", "are", "a", "few", "of", "the", "hero", "'s", "of", "that", "day", "FRANCIS", "C.", "FLAHERTY", "Ensign", ",", "U.S.", "Naval", "Reserve", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Charlotte, Michigan",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "Michigan",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E113-178",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R30",
+  "mentionArg1" : {
+    "extent" : "Charlotte, Michigan",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E112-177",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R30-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Born : 15 March 1919 , Charlotte , Michigan .",
+  "sentence_index" : 36,
+  "Tokens" : [ "Born", ":", "15", "March", "1919", ",", "Charlotte", ",", "Michigan", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Lieutenant, U.S. Navy, U.S.S. California",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "U.S.S. California",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E109-174",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R31",
+  "mentionArg1" : {
+    "extent" : "Lieutenant",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E110-176",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R31-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "JACKSON CHARLES PHARRIS Lieutenant , U.S. Navy , U.S.S. California .",
+  "sentence_index" : 38,
+  "Tokens" : [ "JACKSON", "CHARLES", "PHARRIS", "Lieutenant", ",", "U.S.", "Navy", ",", "U.S.S.", "California", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "his ship",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "his ship",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E109-207",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R31",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E110-200",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R31-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "By his inspiring leadership , his valiant efforts and his extreme loyalty to his ship and her crew , he saved many of his shipmates from death and was largely responsible for keeping the California in action during the attack .",
+  "sentence_index" : 44,
+  "Tokens" : [ "By", "his", "inspiring", "leadership", ",", "his", "valiant", "efforts", "and", "his", "extreme", "loyalty", "to", "his", "ship", "and", "her", "crew", ",", "he", "saved", "many", "of", "his", "shipmates", "from", "death", "and", "was", "largely", "responsible", "for", "keeping", "the", "California", "in", "action", "during", "the", "attack", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Lieutenant, U.S. Navy",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "U.S. Navy",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E57-173",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R32",
+  "mentionArg1" : {
+    "extent" : "Lieutenant",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E110-176",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R32-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "JACKSON CHARLES PHARRIS Lieutenant , U.S. Navy , U.S.S. California .",
+  "sentence_index" : 38,
+  "Tokens" : [ "JACKSON", "CHARLES", "PHARRIS", "Lieutenant", ",", "U.S.", "Navy", ",", "U.S.S.", "California", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Columbus, Georgia",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "Georgia",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E115-182",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R33",
+  "mentionArg1" : {
+    "extent" : "Columbus, Georgia",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E114-181",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R33-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Born : 26 June 1912 , Columbus , Georgia .",
+  "sentence_index" : 39,
+  "Tokens" : [ "Born", ":", "26", "June", "1912", ",", "Columbus", ",", "Georgia", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "her crew",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "her",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E109-208",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R34",
+  "mentionArg1" : {
+    "extent" : "her crew",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E134-227",
+    "start" : 16,
+    "end" : 17
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R34-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "By his inspiring leadership , his valiant efforts and his extreme loyalty to his ship and her crew , he saved many of his shipmates from death and was largely responsible for keeping the California in action during the attack .",
+  "sentence_index" : 44,
+  "Tokens" : [ "By", "his", "inspiring", "leadership", ",", "his", "valiant", "efforts", "and", "his", "extreme", "loyalty", "to", "his", "ship", "and", "her", "crew", ",", "he", "saved", "many", "of", "his", "shipmates", "from", "death", "and", "was", "largely", "responsible", "for", "keeping", "the", "California", "in", "action", "during", "the", "attack", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "By his inspiring leadership, his valiant efforts and his extreme loyalty to his ship and her crew, he saved many of his shipmates from death and was largely responsible for keeping the California in action during the attack",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "many of his shipmates",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E135-228",
+    "start" : 21,
+    "end" : 24
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R35",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E110-202",
+    "start" : 23,
+    "end" : 23
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R35-1",
+  "relationSubType" : "Business",
+  "Sentence" : "By his inspiring leadership , his valiant efforts and his extreme loyalty to his ship and her crew , he saved many of his shipmates from death and was largely responsible for keeping the California in action during the attack .",
+  "sentence_index" : 44,
+  "Tokens" : [ "By", "his", "inspiring", "leadership", ",", "his", "valiant", "efforts", "and", "his", "extreme", "loyalty", "to", "his", "ship", "and", "her", "crew", ",", "he", "saved", "many", "of", "his", "shipmates", "from", "death", "and", "was", "largely", "responsible", "for", "keeping", "the", "California", "in", "action", "during", "the", "attack", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "U.S. Naval Service",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E6-132",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R36",
+  "mentionArg1" : {
+    "extent" : "U.S. Naval Service",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E57-131",
+    "start" : 26,
+    "end" : 28
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R36-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "His heroic conduct throughout this first eventful engagement of World War 11 reflects the highest credit upon Lt. Pharris and enhances the finest traditions of the U.S. Naval Service .",
+  "sentence_index" : 45,
+  "Tokens" : [ "His", "heroic", "conduct", "throughout", "this", "first", "eventful", "engagement", "of", "World", "War", "11", "reflects", "the", "highest", "credit", "upon", "Lt.", "Pharris", "and", "enhances", "the", "finest", "traditions", "of", "the", "U.S.", "Naval", "Service", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Machinist, U.S. Navy, U.S.S. Nevada",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "U.S.S. Nevada",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E138-232",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R37",
+  "mentionArg1" : {
+    "extent" : "Machinist",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E136-231",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R37-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "DONALD KIRBY ROSS Machinist , U.S. Navy , U.S.S. Nevada .",
+  "sentence_index" : 46,
+  "Tokens" : [ "DONALD", "KIRBY", "ROSS", "Machinist", ",", "U.S.", "Navy", ",", "U.S.S.", "Nevada", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Machinist, U.S. Navy",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "U.S. Navy",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E57-130",
+    "start" : 5,
+    "end" : 6
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R38",
+  "mentionArg1" : {
+    "extent" : "Machinist",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E136-231",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R38-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "DONALD KIRBY ROSS Machinist , U.S. Navy , U.S.S. Nevada .",
+  "sentence_index" : 46,
+  "Tokens" : [ "DONALD", "KIRBY", "ROSS", "Machinist", ",", "U.S.", "Navy", ",", "U.S.S.", "Nevada", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Beverly, Kansas",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "Kansas",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E140-234",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R39",
+  "mentionArg1" : {
+    "extent" : "Beverly, Kansas",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E139-233",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R39-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Born : 8 December 1910 , Beverly , Kansas .",
+  "sentence_index" : 47,
+  "Tokens" : [ "Born", ":", "8", "December", "1910", ",", "Beverly", ",", "Kansas", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Machinist's Mate First Class, U.S. Navy",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "U.S. Navy",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E57-129",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R40",
+  "mentionArg1" : {
+    "extent" : "Machinist's Mate First Class",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E144-251",
+    "start" : 3,
+    "end" : 7
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R40-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "ROBERT R. SCOTT Machinist 's Mate First Class , U.S. Navy .",
+  "sentence_index" : 51,
+  "Tokens" : [ "ROBERT", "R.", "SCOTT", "Machinist", "'s", "Mate", "First", "Class", ",", "U.S.", "Navy", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Massillon, Ohio",
+  "sentence_length" : 10,
+  "mentionArg2" : {
+    "extent" : "Ohio",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E148-254",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R41",
+  "mentionArg1" : {
+    "extent" : "Massillon, Ohio",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E147-253",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R41-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Born : 13 July 1915 , Massillon , Ohio .",
+  "sentence_index" : 52,
+  "Tokens" : [ "Born", ":", "13", "July", "1915", ",", "Massillon", ",", "Ohio", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "I read through these citations and get such a feeling of pride that our country has produced these fine men",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "our country",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E6-272",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "FLOPPINGACES_20041207.1911.039-R42",
+  "mentionArg1" : {
+    "extent" : "these fine men",
+    "argMentionid" : "FLOPPINGACES_20041207.1911.039-E155-273",
+    "start" : 17,
+    "end" : 19
+  },
+  "id" : "FLOPPINGACES_20041207.1911.039-R42-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "I read through these citations and get such a feeling of pride that our country has produced these fine men .",
+  "sentence_index" : 55,
+  "Tokens" : [ "I", "read", "through", "these", "citations", "and", "get", "such", "a", "feeling", "of", "pride", "that", "our", "country", "has", "produced", "these", "fine", "men", "." ]
+} ]

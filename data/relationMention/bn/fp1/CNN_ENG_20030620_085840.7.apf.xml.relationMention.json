@@ -1,0 +1,111 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "convicted rapist and max factor heir",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "max factor",
+    "argMentionid" : "CNN_ENG_20030620_085840.7-E4-4",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "CNN_ENG_20030620_085840.7-R1",
+  "mentionArg1" : {
+    "extent" : "convicted rapist and max factor heir",
+    "argMentionid" : "CNN_ENG_20030620_085840.7-E1-3",
+    "start" : 0,
+    "end" : 5
+  },
+  "id" : "CNN_ENG_20030620_085840.7-R1-1",
+  "relationSubType" : "Investor-Shareholder",
+  "Sentence" : "convicted rapist and max factor heir andrew luster is back in california. luster returned to los angeles yesterday from mexico following his capture tuesday by american bounlty hunters. luster skipped bail during his trial in january for raping and drugging three women. he was sentenced in an sten shah to 124 years in prison .",
+  "sentence_index" : 0,
+  "Tokens" : [ "convicted", "rapist", "and", "max", "factor", "heir", "andrew", "luster", "is", "back", "in", "california.", "luster", "returned", "to", "los", "angeles", "yesterday", "from", "mexico", "following", "his", "capture", "tuesday", "by", "american", "bounlty", "hunters.", "luster", "skipped", "bail", "during", "his", "trial", "in", "january", "for", "raping", "and", "drugging", "three", "women.", "he", "was", "sentenced", "in", "an", "sten", "shah", "to", "124", "years", "in", "prison", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "convicted rapist and max factor heir andrew luster is back in california",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "california",
+    "argMentionid" : "CNN_ENG_20030620_085840.7-E5-5",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_ENG_20030620_085840.7-R2",
+  "mentionArg1" : {
+    "extent" : "convicted rapist and max factor heir andrew luster",
+    "argMentionid" : "CNN_ENG_20030620_085840.7-E1-1",
+    "start" : 0,
+    "end" : 7
+  },
+  "id" : "CNN_ENG_20030620_085840.7-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "convicted rapist and max factor heir andrew luster is back in california. luster returned to los angeles yesterday from mexico following his capture tuesday by american bounlty hunters. luster skipped bail during his trial in january for raping and drugging three women. he was sentenced in an sten shah to 124 years in prison .",
+  "sentence_index" : 0,
+  "Tokens" : [ "convicted", "rapist", "and", "max", "factor", "heir", "andrew", "luster", "is", "back", "in", "california.", "luster", "returned", "to", "los", "angeles", "yesterday", "from", "mexico", "following", "his", "capture", "tuesday", "by", "american", "bounlty", "hunters.", "luster", "skipped", "bail", "during", "his", "trial", "in", "january", "for", "raping", "and", "drugging", "three", "women.", "he", "was", "sentenced", "in", "an", "sten", "shah", "to", "124", "years", "in", "prison", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "luster returned to los angeles yesterday from mexico following his capture tuesday by american bounlty hunters",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "los angeles",
+    "argMentionid" : "CNN_ENG_20030620_085840.7-E6-7",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "CNN_ENG_20030620_085840.7-R3",
+  "mentionArg1" : {
+    "extent" : "luster",
+    "argMentionid" : "CNN_ENG_20030620_085840.7-E1-6",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "CNN_ENG_20030620_085840.7-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "convicted rapist and max factor heir andrew luster is back in california. luster returned to los angeles yesterday from mexico following his capture tuesday by american bounlty hunters. luster skipped bail during his trial in january for raping and drugging three women. he was sentenced in an sten shah to 124 years in prison .",
+  "sentence_index" : 0,
+  "Tokens" : [ "convicted", "rapist", "and", "max", "factor", "heir", "andrew", "luster", "is", "back", "in", "california.", "luster", "returned", "to", "los", "angeles", "yesterday", "from", "mexico", "following", "his", "capture", "tuesday", "by", "american", "bounlty", "hunters.", "luster", "skipped", "bail", "during", "his", "trial", "in", "january", "for", "raping", "and", "drugging", "three", "women.", "he", "was", "sentenced", "in", "an", "sten", "shah", "to", "124", "years", "in", "prison", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "luster returned to los angeles yesterday from mexico following his capture tuesday by american bounlty hunters",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "mexico",
+    "argMentionid" : "CNN_ENG_20030620_085840.7-E7-8",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "CNN_ENG_20030620_085840.7-R4",
+  "mentionArg1" : {
+    "extent" : "luster",
+    "argMentionid" : "CNN_ENG_20030620_085840.7-E1-6",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "CNN_ENG_20030620_085840.7-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "convicted rapist and max factor heir andrew luster is back in california. luster returned to los angeles yesterday from mexico following his capture tuesday by american bounlty hunters. luster skipped bail during his trial in january for raping and drugging three women. he was sentenced in an sten shah to 124 years in prison .",
+  "sentence_index" : 0,
+  "Tokens" : [ "convicted", "rapist", "and", "max", "factor", "heir", "andrew", "luster", "is", "back", "in", "california.", "luster", "returned", "to", "los", "angeles", "yesterday", "from", "mexico", "following", "his", "capture", "tuesday", "by", "american", "bounlty", "hunters.", "luster", "skipped", "bail", "during", "his", "trial", "in", "january", "for", "raping", "and", "drugging", "three", "women.", "he", "was", "sentenced", "in", "an", "sten", "shah", "to", "124", "years", "in", "prison", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "american bounlty hunters",
+  "sentence_length" : 55,
+  "mentionArg2" : {
+    "extent" : "american",
+    "argMentionid" : "CNN_ENG_20030620_085840.7-E9-11",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "CNN_ENG_20030620_085840.7-R5",
+  "mentionArg1" : {
+    "extent" : "american bounlty hunters",
+    "argMentionid" : "CNN_ENG_20030620_085840.7-E8-10",
+    "start" : 25,
+    "end" : 27
+  },
+  "id" : "CNN_ENG_20030620_085840.7-R5-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "convicted rapist and max factor heir andrew luster is back in california. luster returned to los angeles yesterday from mexico following his capture tuesday by american bounlty hunters. luster skipped bail during his trial in january for raping and drugging three women. he was sentenced in an sten shah to 124 years in prison .",
+  "sentence_index" : 0,
+  "Tokens" : [ "convicted", "rapist", "and", "max", "factor", "heir", "andrew", "luster", "is", "back", "in", "california.", "luster", "returned", "to", "los", "angeles", "yesterday", "from", "mexico", "following", "his", "capture", "tuesday", "by", "american", "bounlty", "hunters.", "luster", "skipped", "bail", "during", "his", "trial", "in", "january", "for", "raping", "and", "drugging", "three", "women.", "he", "was", "sentenced", "in", "an", "sten", "shah", "to", "124", "years", "in", "prison", "." ]
+} ]

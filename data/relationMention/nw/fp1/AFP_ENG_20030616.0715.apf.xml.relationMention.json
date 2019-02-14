@@ -1,0 +1,705 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a rural Wisconsin home where a 22-year-old woman's dead infant was discovered in a blue plastic container June 8",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "Wisconsin",
+    "argMentionid" : "AFP_ENG_20030616.0715-E21-57",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R1",
+  "mentionArg1" : {
+    "extent" : "a rural Wisconsin home where a 22-year-old woman's dead infant was discovered in a blue plastic container June 8",
+    "argMentionid" : "AFP_ENG_20030616.0715-E23-56",
+    "start" : 19,
+    "end" : 38
+  },
+  "id" : "AFP_ENG_20030616.0715-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "MADISON , Wisconsin , June 16 ( AFP ) The skeleton of a second baby has been found at a rural Wisconsin home where a 22-year-old woman 's dead infant was discovered in a blue plastic container June 8 , officials said Monday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "MADISON", ",", "Wisconsin", ",", "June", "16", "(", "AFP", ")", "The", "skeleton", "of", "a", "second", "baby", "has", "been", "found", "at", "a", "rural", "Wisconsin", "home", "where", "a", "22-year-old", "woman", "'s", "dead", "infant", "was", "discovered", "in", "a", "blue", "plastic", "container", "June", "8", ",", "officials", "said", "Monday", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "a 22-year-old woman's dead infant",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "a 22-year-old woman's dead infant",
+    "argMentionid" : "AFP_ENG_20030616.0715-E6-34",
+    "start" : 24,
+    "end" : 29
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R2",
+  "mentionArg1" : {
+    "extent" : "a 22-year-old woman",
+    "argMentionid" : "AFP_ENG_20030616.0715-E25-60",
+    "start" : 24,
+    "end" : 26
+  },
+  "id" : "AFP_ENG_20030616.0715-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "MADISON , Wisconsin , June 16 ( AFP ) The skeleton of a second baby has been found at a rural Wisconsin home where a 22-year-old woman 's dead infant was discovered in a blue plastic container June 8 , officials said Monday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "MADISON", ",", "Wisconsin", ",", "June", "16", "(", "AFP", ")", "The", "skeleton", "of", "a", "second", "baby", "has", "been", "found", "at", "a", "rural", "Wisconsin", "home", "where", "a", "22-year-old", "woman", "'s", "dead", "infant", "was", "discovered", "in", "a", "blue", "plastic", "container", "June", "8", ",", "officials", "said", "Monday", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The skeleton of a second baby has been found at a rural Wisconsin home where a 22-year-old woman's dead infant was discovered in a blue plastic container June 8, officials said Monday",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "a rural Wisconsin home where a 22-year-old woman's dead infant was discovered in a blue plastic container June 8",
+    "argMentionid" : "AFP_ENG_20030616.0715-E23-56",
+    "start" : 19,
+    "end" : 38
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R3",
+  "mentionArg1" : {
+    "extent" : "The skeleton of a second baby",
+    "argMentionid" : "AFP_ENG_20030616.0715-E4-31",
+    "start" : 9,
+    "end" : 14
+  },
+  "id" : "AFP_ENG_20030616.0715-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "MADISON , Wisconsin , June 16 ( AFP ) The skeleton of a second baby has been found at a rural Wisconsin home where a 22-year-old woman 's dead infant was discovered in a blue plastic container June 8 , officials said Monday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "MADISON", ",", "Wisconsin", ",", "June", "16", "(", "AFP", ")", "The", "skeleton", "of", "a", "second", "baby", "has", "been", "found", "at", "a", "rural", "Wisconsin", "home", "where", "a", "22-year-old", "woman", "'s", "dead", "infant", "was", "discovered", "in", "a", "blue", "plastic", "container", "June", "8", ",", "officials", "said", "Monday", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Kristin Scott, the mother, told police she gave birth secretly to both babies at her parents' home in Byrds Creek, Richland County, one of unknown sex in April 2001 and the other, a fullterm girl, January 14",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "her parents' home in Byrds Creek, Richland County",
+    "argMentionid" : "AFP_ENG_20030616.0715-E23-70",
+    "start" : 16,
+    "end" : 25
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R3",
+  "mentionArg1" : {
+    "extent" : "one of unknown sex",
+    "argMentionid" : "AFP_ENG_20030616.0715-E4-5",
+    "start" : 27,
+    "end" : 30
+  },
+  "id" : "AFP_ENG_20030616.0715-R3-2",
+  "relationSubType" : "Located",
+  "Sentence" : "Kristin Scott , the mother , told police she gave birth secretly to both babies at her parents ' home in Byrds Creek , Richland County , one of unknown sex in April 2001 and the other , a fullterm girl , January 14 .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Kristin", "Scott", ",", "the", "mother", ",", "told", "police", "she", "gave", "birth", "secretly", "to", "both", "babies", "at", "her", "parents", "'", "home", "in", "Byrds", "Creek", ",", "Richland", "County", ",", "one", "of", "unknown", "sex", "in", "April", "2001", "and", "the", "other", ",", "a", "fullterm", "girl", ",", "January", "14", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The skeleton of a second baby has been found at a rural Wisconsin home where a 22-year-old woman's dead infant was discovered in a blue plastic container June 8, officials said Monday",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "where",
+    "argMentionid" : "AFP_ENG_20030616.0715-E23-58",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R4",
+  "mentionArg1" : {
+    "extent" : "a 22-year-old woman's dead infant",
+    "argMentionid" : "AFP_ENG_20030616.0715-E6-34",
+    "start" : 24,
+    "end" : 29
+  },
+  "id" : "AFP_ENG_20030616.0715-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "MADISON , Wisconsin , June 16 ( AFP ) The skeleton of a second baby has been found at a rural Wisconsin home where a 22-year-old woman 's dead infant was discovered in a blue plastic container June 8 , officials said Monday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "MADISON", ",", "Wisconsin", ",", "June", "16", "(", "AFP", ")", "The", "skeleton", "of", "a", "second", "baby", "has", "been", "found", "at", "a", "rural", "Wisconsin", "home", "where", "a", "22-year-old", "woman", "'s", "dead", "infant", "was", "discovered", "in", "a", "blue", "plastic", "container", "June", "8", ",", "officials", "said", "Monday", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Kristin Scott, the mother, told police she gave birth secretly to both babies at her parents' home in Byrds Creek, Richland County, one of unknown sex in April 2001 and the other, a fullterm girl, January 14",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "her parents' home in Byrds Creek, Richland County",
+    "argMentionid" : "AFP_ENG_20030616.0715-E23-70",
+    "start" : 16,
+    "end" : 25
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R4",
+  "mentionArg1" : {
+    "extent" : "the other",
+    "argMentionid" : "AFP_ENG_20030616.0715-E6-9",
+    "start" : 35,
+    "end" : 36
+  },
+  "id" : "AFP_ENG_20030616.0715-R4-2",
+  "relationSubType" : "Located",
+  "Sentence" : "Kristin Scott , the mother , told police she gave birth secretly to both babies at her parents ' home in Byrds Creek , Richland County , one of unknown sex in April 2001 and the other , a fullterm girl , January 14 .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Kristin", "Scott", ",", "the", "mother", ",", "told", "police", "she", "gave", "birth", "secretly", "to", "both", "babies", "at", "her", "parents", "'", "home", "in", "Byrds", "Creek", ",", "Richland", "County", ",", "one", "of", "unknown", "sex", "in", "April", "2001", "and", "the", "other", ",", "a", "fullterm", "girl", ",", "January", "14", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Kristin Scott, the mother, told police she gave birth secretly to both babies at her parents' home in Byrds Creek, Richland County, one of unknown sex in April 2001 and the other, a fullterm girl, January 14",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "both babies",
+    "argMentionid" : "AFP_ENG_20030616.0715-E30-69",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R5",
+  "mentionArg1" : {
+    "extent" : "she",
+    "argMentionid" : "AFP_ENG_20030616.0715-E25-68",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "AFP_ENG_20030616.0715-R5-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Kristin Scott , the mother , told police she gave birth secretly to both babies at her parents ' home in Byrds Creek , Richland County , one of unknown sex in April 2001 and the other , a fullterm girl , January 14 .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Kristin", "Scott", ",", "the", "mother", ",", "told", "police", "she", "gave", "birth", "secretly", "to", "both", "babies", "at", "her", "parents", "'", "home", "in", "Byrds", "Creek", ",", "Richland", "County", ",", "one", "of", "unknown", "sex", "in", "April", "2001", "and", "the", "other", ",", "a", "fullterm", "girl", ",", "January", "14", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Kristin Scott, the mother, told police she gave birth secretly to both babies at her parents' home in Byrds Creek, Richland County, one of unknown sex in April 2001 and the other, a fullterm girl, January 14",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "her parents' home in Byrds Creek, Richland County",
+    "argMentionid" : "AFP_ENG_20030616.0715-E23-70",
+    "start" : 16,
+    "end" : 25
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R6",
+  "mentionArg1" : {
+    "extent" : "she",
+    "argMentionid" : "AFP_ENG_20030616.0715-E25-68",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "AFP_ENG_20030616.0715-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Kristin Scott , the mother , told police she gave birth secretly to both babies at her parents ' home in Byrds Creek , Richland County , one of unknown sex in April 2001 and the other , a fullterm girl , January 14 .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Kristin", "Scott", ",", "the", "mother", ",", "told", "police", "she", "gave", "birth", "secretly", "to", "both", "babies", "at", "her", "parents", "'", "home", "in", "Byrds", "Creek", ",", "Richland", "County", ",", "one", "of", "unknown", "sex", "in", "April", "2001", "and", "the", "other", ",", "a", "fullterm", "girl", ",", "January", "14", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her parents",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "her parents",
+    "argMentionid" : "AFP_ENG_20030616.0715-E1-72",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R7",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "AFP_ENG_20030616.0715-E25-2",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "AFP_ENG_20030616.0715-R7-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Kristin Scott , the mother , told police she gave birth secretly to both babies at her parents ' home in Byrds Creek , Richland County , one of unknown sex in April 2001 and the other , a fullterm girl , January 14 .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Kristin", "Scott", ",", "the", "mother", ",", "told", "police", "she", "gave", "birth", "secretly", "to", "both", "babies", "at", "her", "parents", "'", "home", "in", "Byrds", "Creek", ",", "Richland", "County", ",", "one", "of", "unknown", "sex", "in", "April", "2001", "and", "the", "other", ",", "a", "fullterm", "girl", ",", "January", "14", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "The woman's parents, William and Nancy Scott",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "The woman's parents, William and Nancy Scott",
+    "argMentionid" : "AFP_ENG_20030616.0715-E1-27",
+    "start" : 0,
+    "end" : 8
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R7",
+  "mentionArg1" : {
+    "extent" : "The woman",
+    "argMentionid" : "AFP_ENG_20030616.0715-E25-54",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "AFP_ENG_20030616.0715-R7-2",
+  "relationSubType" : "Family",
+  "Sentence" : "The woman 's parents , William and Nancy Scott , found the decomposing body of the first baby in her closet after they went looking for the source of a foul odor in their house .",
+  "sentence_index" : 6,
+  "Tokens" : [ "The", "woman", "'s", "parents", ",", "William", "and", "Nancy", "Scott", ",", "found", "the", "decomposing", "body", "of", "the", "first", "baby", "in", "her", "closet", "after", "they", "went", "looking", "for", "the", "source", "of", "a", "foul", "odor", "in", "their", "house", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "her parents' home in Byrds Creek, Richland County",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "her parents' home in Byrds Creek, Richland County",
+    "argMentionid" : "AFP_ENG_20030616.0715-E23-70",
+    "start" : 16,
+    "end" : 25
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R8",
+  "mentionArg1" : {
+    "extent" : "her parents",
+    "argMentionid" : "AFP_ENG_20030616.0715-E1-72",
+    "start" : 16,
+    "end" : 17
+  },
+  "id" : "AFP_ENG_20030616.0715-R8-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Kristin Scott , the mother , told police she gave birth secretly to both babies at her parents ' home in Byrds Creek , Richland County , one of unknown sex in April 2001 and the other , a fullterm girl , January 14 .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Kristin", "Scott", ",", "the", "mother", ",", "told", "police", "she", "gave", "birth", "secretly", "to", "both", "babies", "at", "her", "parents", "'", "home", "in", "Byrds", "Creek", ",", "Richland", "County", ",", "one", "of", "unknown", "sex", "in", "April", "2001", "and", "the", "other", ",", "a", "fullterm", "girl", ",", "January", "14", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "their house",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "their house",
+    "argMentionid" : "AFP_ENG_20030616.0715-E23-18",
+    "start" : 33,
+    "end" : 34
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R8",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "AFP_ENG_20030616.0715-E1-28",
+    "start" : 33,
+    "end" : 33
+  },
+  "id" : "AFP_ENG_20030616.0715-R8-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The woman 's parents , William and Nancy Scott , found the decomposing body of the first baby in her closet after they went looking for the source of a foul odor in their house .",
+  "sentence_index" : 6,
+  "Tokens" : [ "The", "woman", "'s", "parents", ",", "William", "and", "Nancy", "Scott", ",", "found", "the", "decomposing", "body", "of", "the", "first", "baby", "in", "her", "closet", "after", "they", "went", "looking", "for", "the", "source", "of", "a", "foul", "odor", "in", "their", "house", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "her parents' home in Byrds Creek, Richland County",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "Byrds Creek, Richland County",
+    "argMentionid" : "AFP_ENG_20030616.0715-E2-3",
+    "start" : 21,
+    "end" : 25
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R9",
+  "mentionArg1" : {
+    "extent" : "her parents' home in Byrds Creek, Richland County",
+    "argMentionid" : "AFP_ENG_20030616.0715-E23-70",
+    "start" : 16,
+    "end" : 25
+  },
+  "id" : "AFP_ENG_20030616.0715-R9-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Kristin Scott , the mother , told police she gave birth secretly to both babies at her parents ' home in Byrds Creek , Richland County , one of unknown sex in April 2001 and the other , a fullterm girl , January 14 .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Kristin", "Scott", ",", "the", "mother", ",", "told", "police", "she", "gave", "birth", "secretly", "to", "both", "babies", "at", "her", "parents", "'", "home", "in", "Byrds", "Creek", ",", "Richland", "County", ",", "one", "of", "unknown", "sex", "in", "April", "2001", "and", "the", "other", ",", "a", "fullterm", "girl", ",", "January", "14", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Byrds Creek house",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "Byrds Creek",
+    "argMentionid" : "AFP_ENG_20030616.0715-E2-43",
+    "start" : 21,
+    "end" : 22
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R9",
+  "mentionArg1" : {
+    "extent" : "the Byrds Creek house",
+    "argMentionid" : "AFP_ENG_20030616.0715-E23-42",
+    "start" : 20,
+    "end" : 23
+  },
+  "id" : "AFP_ENG_20030616.0715-R9-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Scott told investigators she had moved that body around before she moved to Texas , sometimes in the closet at the Byrds Creek house , in the trunk of her car and in the closet of her apartment in Richland Center , the complaint said .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Scott", "told", "investigators", "she", "had", "moved", "that", "body", "around", "before", "she", "moved", "to", "Texas", ",", "sometimes", "in", "the", "closet", "at", "the", "Byrds", "Creek", "house", ",", "in", "the", "trunk", "of", "her", "car", "and", "in", "the", "closet", "of", "her", "apartment", "in", "Richland", "Center", ",", "the", "complaint", "said", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Kristin Scott, the mother, told police she gave birth secretly to both babies at her parents' home in Byrds Creek, Richland County, one of unknown sex in April 2001 and the other, a fullterm girl, January 14",
+  "sentence_length" : 45,
+  "mentionArg2" : {
+    "extent" : "her parents' home in Byrds Creek, Richland County",
+    "argMentionid" : "AFP_ENG_20030616.0715-E23-70",
+    "start" : 16,
+    "end" : 25
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R10",
+  "mentionArg1" : {
+    "extent" : "both babies",
+    "argMentionid" : "AFP_ENG_20030616.0715-E30-69",
+    "start" : 13,
+    "end" : 14
+  },
+  "id" : "AFP_ENG_20030616.0715-R10-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Kristin Scott , the mother , told police she gave birth secretly to both babies at her parents ' home in Byrds Creek , Richland County , one of unknown sex in April 2001 and the other , a fullterm girl , January 14 .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Kristin", "Scott", ",", "the", "mother", ",", "told", "police", "she", "gave", "birth", "secretly", "to", "both", "babies", "at", "her", "parents", "'", "home", "in", "Byrds", "Creek", ",", "Richland", "County", ",", "one", "of", "unknown", "sex", "in", "April", "2001", "and", "the", "other", ",", "a", "fullterm", "girl", ",", "January", "14", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Police arrested her in Abilene, Texas, Saturday where she had moved with a friend June 2",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Abilene, Texas",
+    "argMentionid" : "AFP_ENG_20030616.0715-E5-71",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R11",
+  "mentionArg1" : {
+    "extent" : "Police",
+    "argMentionid" : "AFP_ENG_20030616.0715-E29-11",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "AFP_ENG_20030616.0715-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Police arrested her in Abilene , Texas , Saturday where she had moved with a friend June 2 .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Police", "arrested", "her", "in", "Abilene", ",", "Texas", ",", "Saturday", "where", "she", "had", "moved", "with", "a", "friend", "June", "2", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Police arrested her in Abilene, Texas, Saturday where she had moved with a friend June 2",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Abilene, Texas",
+    "argMentionid" : "AFP_ENG_20030616.0715-E5-71",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R12",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "AFP_ENG_20030616.0715-E25-12",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "AFP_ENG_20030616.0715-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Police arrested her in Abilene , Texas , Saturday where she had moved with a friend June 2 .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Police", "arrested", "her", "in", "Abilene", ",", "Texas", ",", "Saturday", "where", "she", "had", "moved", "with", "a", "friend", "June", "2", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Police arrested her in Abilene, Texas, Saturday where she had moved with a friend June 2",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "where",
+    "argMentionid" : "AFP_ENG_20030616.0715-E5-13",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R12",
+  "mentionArg1" : {
+    "extent" : "she",
+    "argMentionid" : "AFP_ENG_20030616.0715-E25-14",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "AFP_ENG_20030616.0715-R12-2",
+  "relationSubType" : "Located",
+  "Sentence" : "Police arrested her in Abilene , Texas , Saturday where she had moved with a friend June 2 .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Police", "arrested", "her", "in", "Abilene", ",", "Texas", ",", "Saturday", "where", "she", "had", "moved", "with", "a", "friend", "June", "2", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Police arrested her in Abilene, Texas, Saturday where she had moved with a friend June 2",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "where",
+    "argMentionid" : "AFP_ENG_20030616.0715-E5-13",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R13",
+  "mentionArg1" : {
+    "extent" : "a friend",
+    "argMentionid" : "AFP_ENG_20030616.0715-E9-15",
+    "start" : 14,
+    "end" : 15
+  },
+  "id" : "AFP_ENG_20030616.0715-R13-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Police arrested her in Abilene , Texas , Saturday where she had moved with a friend June 2 .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Police", "arrested", "her", "in", "Abilene", ",", "Texas", ",", "Saturday", "where", "she", "had", "moved", "with", "a", "friend", "June", "2", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the decomposing body of the first baby in her closet",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "her closet",
+    "argMentionid" : "AFP_ENG_20030616.0715-E26-59",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R17",
+  "mentionArg1" : {
+    "extent" : "the decomposing body of the first baby in her closet",
+    "argMentionid" : "AFP_ENG_20030616.0715-E6-32",
+    "start" : 11,
+    "end" : 20
+  },
+  "id" : "AFP_ENG_20030616.0715-R17-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The woman 's parents , William and Nancy Scott , found the decomposing body of the first baby in her closet after they went looking for the source of a foul odor in their house .",
+  "sentence_index" : 6,
+  "Tokens" : [ "The", "woman", "'s", "parents", ",", "William", "and", "Nancy", "Scott", ",", "found", "the", "decomposing", "body", "of", "the", "first", "baby", "in", "her", "closet", "after", "they", "went", "looking", "for", "the", "source", "of", "a", "foul", "odor", "in", "their", "house", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Scott told investigators she had moved that body around before she moved to Texas, sometimes in the closet at the Byrds Creek house, in the trunk of her car and in the closet of her apartment in Richland Center, the complaint said",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "the closet at the Byrds Creek house",
+    "argMentionid" : "AFP_ENG_20030616.0715-E26-41",
+    "start" : 17,
+    "end" : 23
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R17",
+  "mentionArg1" : {
+    "extent" : "that body",
+    "argMentionid" : "AFP_ENG_20030616.0715-E6-38",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "AFP_ENG_20030616.0715-R17-2",
+  "relationSubType" : "Located",
+  "Sentence" : "Scott told investigators she had moved that body around before she moved to Texas , sometimes in the closet at the Byrds Creek house , in the trunk of her car and in the closet of her apartment in Richland Center , the complaint said .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Scott", "told", "investigators", "she", "had", "moved", "that", "body", "around", "before", "she", "moved", "to", "Texas", ",", "sometimes", "in", "the", "closet", "at", "the", "Byrds", "Creek", "house", ",", "in", "the", "trunk", "of", "her", "car", "and", "in", "the", "closet", "of", "her", "apartment", "in", "Richland", "Center", ",", "the", "complaint", "said", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "her closet",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "her closet",
+    "argMentionid" : "AFP_ENG_20030616.0715-E26-59",
+    "start" : 19,
+    "end" : 20
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R18",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "AFP_ENG_20030616.0715-E25-64",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "AFP_ENG_20030616.0715-R18-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The woman 's parents , William and Nancy Scott , found the decomposing body of the first baby in her closet after they went looking for the source of a foul odor in their house .",
+  "sentence_index" : 6,
+  "Tokens" : [ "The", "woman", "'s", "parents", ",", "William", "and", "Nancy", "Scott", ",", "found", "the", "decomposing", "body", "of", "the", "first", "baby", "in", "her", "closet", "after", "they", "went", "looking", "for", "the", "source", "of", "a", "foul", "odor", "in", "their", "house", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the closet at the Byrds Creek house",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "the Byrds Creek house",
+    "argMentionid" : "AFP_ENG_20030616.0715-E23-42",
+    "start" : 20,
+    "end" : 23
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R23",
+  "mentionArg1" : {
+    "extent" : "the closet at the Byrds Creek house",
+    "argMentionid" : "AFP_ENG_20030616.0715-E26-41",
+    "start" : 17,
+    "end" : 23
+  },
+  "id" : "AFP_ENG_20030616.0715-R23-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Scott told investigators she had moved that body around before she moved to Texas , sometimes in the closet at the Byrds Creek house , in the trunk of her car and in the closet of her apartment in Richland Center , the complaint said .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Scott", "told", "investigators", "she", "had", "moved", "that", "body", "around", "before", "she", "moved", "to", "Texas", ",", "sometimes", "in", "the", "closet", "at", "the", "Byrds", "Creek", "house", ",", "in", "the", "trunk", "of", "her", "car", "and", "in", "the", "closet", "of", "her", "apartment", "in", "Richland", "Center", ",", "the", "complaint", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the trunk of her car",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "her car",
+    "argMentionid" : "AFP_ENG_20030616.0715-E15-45",
+    "start" : 29,
+    "end" : 30
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R24",
+  "mentionArg1" : {
+    "extent" : "the trunk of her car",
+    "argMentionid" : "AFP_ENG_20030616.0715-E14-44",
+    "start" : 26,
+    "end" : 30
+  },
+  "id" : "AFP_ENG_20030616.0715-R24-1",
+  "relationSubType" : "Artifact",
+  "Sentence" : "Scott told investigators she had moved that body around before she moved to Texas , sometimes in the closet at the Byrds Creek house , in the trunk of her car and in the closet of her apartment in Richland Center , the complaint said .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Scott", "told", "investigators", "she", "had", "moved", "that", "body", "around", "before", "she", "moved", "to", "Texas", ",", "sometimes", "in", "the", "closet", "at", "the", "Byrds", "Creek", "house", ",", "in", "the", "trunk", "of", "her", "car", "and", "in", "the", "closet", "of", "her", "apartment", "in", "Richland", "Center", ",", "the", "complaint", "said", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "her car",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "her car",
+    "argMentionid" : "AFP_ENG_20030616.0715-E15-45",
+    "start" : 29,
+    "end" : 30
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R25",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "AFP_ENG_20030616.0715-E25-46",
+    "start" : 29,
+    "end" : 29
+  },
+  "id" : "AFP_ENG_20030616.0715-R25-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Scott told investigators she had moved that body around before she moved to Texas , sometimes in the closet at the Byrds Creek house , in the trunk of her car and in the closet of her apartment in Richland Center , the complaint said .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Scott", "told", "investigators", "she", "had", "moved", "that", "body", "around", "before", "she", "moved", "to", "Texas", ",", "sometimes", "in", "the", "closet", "at", "the", "Byrds", "Creek", "house", ",", "in", "the", "trunk", "of", "her", "car", "and", "in", "the", "closet", "of", "her", "apartment", "in", "Richland", "Center", ",", "the", "complaint", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the closet of her apartment in Richland Center",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "her apartment in Richland Center",
+    "argMentionid" : "AFP_ENG_20030616.0715-E18-48",
+    "start" : 36,
+    "end" : 40
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R26",
+  "mentionArg1" : {
+    "extent" : "the closet of her apartment in Richland Center",
+    "argMentionid" : "AFP_ENG_20030616.0715-E17-47",
+    "start" : 33,
+    "end" : 40
+  },
+  "id" : "AFP_ENG_20030616.0715-R26-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Scott told investigators she had moved that body around before she moved to Texas , sometimes in the closet at the Byrds Creek house , in the trunk of her car and in the closet of her apartment in Richland Center , the complaint said .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Scott", "told", "investigators", "she", "had", "moved", "that", "body", "around", "before", "she", "moved", "to", "Texas", ",", "sometimes", "in", "the", "closet", "at", "the", "Byrds", "Creek", "house", ",", "in", "the", "trunk", "of", "her", "car", "and", "in", "the", "closet", "of", "her", "apartment", "in", "Richland", "Center", ",", "the", "complaint", "said", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "her apartment in Richland Center",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "Richland Center",
+    "argMentionid" : "AFP_ENG_20030616.0715-E19-50",
+    "start" : 39,
+    "end" : 40
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R27",
+  "mentionArg1" : {
+    "extent" : "her apartment in Richland Center",
+    "argMentionid" : "AFP_ENG_20030616.0715-E18-48",
+    "start" : 36,
+    "end" : 40
+  },
+  "id" : "AFP_ENG_20030616.0715-R27-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Scott told investigators she had moved that body around before she moved to Texas , sometimes in the closet at the Byrds Creek house , in the trunk of her car and in the closet of her apartment in Richland Center , the complaint said .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Scott", "told", "investigators", "she", "had", "moved", "that", "body", "around", "before", "she", "moved", "to", "Texas", ",", "sometimes", "in", "the", "closet", "at", "the", "Byrds", "Creek", "house", ",", "in", "the", "trunk", "of", "her", "car", "and", "in", "the", "closet", "of", "her", "apartment", "in", "Richland", "Center", ",", "the", "complaint", "said", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "her apartment in Richland Center",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "her apartment in Richland Center",
+    "argMentionid" : "AFP_ENG_20030616.0715-E18-48",
+    "start" : 36,
+    "end" : 40
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R28",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "AFP_ENG_20030616.0715-E25-49",
+    "start" : 36,
+    "end" : 36
+  },
+  "id" : "AFP_ENG_20030616.0715-R28-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Scott told investigators she had moved that body around before she moved to Texas , sometimes in the closet at the Byrds Creek house , in the trunk of her car and in the closet of her apartment in Richland Center , the complaint said .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Scott", "told", "investigators", "she", "had", "moved", "that", "body", "around", "before", "she", "moved", "to", "Texas", ",", "sometimes", "in", "the", "closet", "at", "the", "Byrds", "Creek", "house", ",", "in", "the", "trunk", "of", "her", "car", "and", "in", "the", "closet", "of", "her", "apartment", "in", "Richland", "Center", ",", "the", "complaint", "said", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The woman's parents, William and Nancy Scott, found the decomposing body of the first baby in her closet after they went looking for the source of a foul odor in their house",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "their house",
+    "argMentionid" : "AFP_ENG_20030616.0715-E23-18",
+    "start" : 33,
+    "end" : 34
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R29",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "AFP_ENG_20030616.0715-E1-8",
+    "start" : 22,
+    "end" : 22
+  },
+  "id" : "AFP_ENG_20030616.0715-R29-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The woman 's parents , William and Nancy Scott , found the decomposing body of the first baby in her closet after they went looking for the source of a foul odor in their house .",
+  "sentence_index" : 6,
+  "Tokens" : [ "The", "woman", "'s", "parents", ",", "William", "and", "Nancy", "Scott", ",", "found", "the", "decomposing", "body", "of", "the", "first", "baby", "in", "her", "closet", "after", "they", "went", "looking", "for", "the", "source", "of", "a", "foul", "odor", "in", "their", "house", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Scott told investigators she had moved that body around before she moved to Texas, sometimes in the closet at the Byrds Creek house, in the trunk of her car and in the closet of her apartment in Richland Center, the complaint said",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "Texas",
+    "argMentionid" : "AFP_ENG_20030616.0715-E8-40",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R30",
+  "mentionArg1" : {
+    "extent" : "she",
+    "argMentionid" : "AFP_ENG_20030616.0715-E25-39",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "AFP_ENG_20030616.0715-R30-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Scott told investigators she had moved that body around before she moved to Texas , sometimes in the closet at the Byrds Creek house , in the trunk of her car and in the closet of her apartment in Richland Center , the complaint said .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Scott", "told", "investigators", "she", "had", "moved", "that", "body", "around", "before", "she", "moved", "to", "Texas", ",", "sometimes", "in", "the", "closet", "at", "the", "Byrds", "Creek", "house", ",", "in", "the", "trunk", "of", "her", "car", "and", "in", "the", "closet", "of", "her", "apartment", "in", "Richland", "Center", ",", "the", "complaint", "said", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Scott told investigators she had moved that body around before she moved to Texas, sometimes in the closet at the Byrds Creek house, in the trunk of her car and in the closet of her apartment in Richland Center, the complaint said",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "the closet of her apartment in Richland Center",
+    "argMentionid" : "AFP_ENG_20030616.0715-E17-47",
+    "start" : 33,
+    "end" : 40
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R31",
+  "mentionArg1" : {
+    "extent" : "that body",
+    "argMentionid" : "AFP_ENG_20030616.0715-E6-38",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "AFP_ENG_20030616.0715-R31-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Scott told investigators she had moved that body around before she moved to Texas , sometimes in the closet at the Byrds Creek house , in the trunk of her car and in the closet of her apartment in Richland Center , the complaint said .",
+  "sentence_index" : 7,
+  "Tokens" : [ "Scott", "told", "investigators", "she", "had", "moved", "that", "body", "around", "before", "she", "moved", "to", "Texas", ",", "sometimes", "in", "the", "closet", "at", "the", "Byrds", "Creek", "house", ",", "in", "the", "trunk", "of", "her", "car", "and", "in", "the", "closet", "of", "her", "apartment", "in", "Richland", "Center", ",", "the", "complaint", "said", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Police arrested her in Abilene, Texas, Saturday where she had moved with a friend June 2",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "a friend",
+    "argMentionid" : "AFP_ENG_20030616.0715-E9-15",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "AFP_ENG_20030616.0715-R32",
+  "mentionArg1" : {
+    "extent" : "she",
+    "argMentionid" : "AFP_ENG_20030616.0715-E25-14",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "AFP_ENG_20030616.0715-R32-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "Police arrested her in Abilene , Texas , Saturday where she had moved with a friend June 2 .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Police", "arrested", "her", "in", "Abilene", ",", "Texas", ",", "Saturday", "where", "she", "had", "moved", "with", "a", "friend", "June", "2", "." ]
+} ]

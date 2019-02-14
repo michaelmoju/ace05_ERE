@@ -1,0 +1,133 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "Former Illinois Senator",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "Illinois",
+    "argMentionid" : "CNN_CF_20030305.1900.00-3-E38-64",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-3-R1",
+  "mentionArg1" : {
+    "extent" : "Former Illinois Senator",
+    "argMentionid" : "CNN_CF_20030305.1900.00-3-E24-61",
+    "start" : 1,
+    "end" : 3
+  },
+  "id" : "CNN_CF_20030305.1900.00-3-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "CARLSON Former Illinois Senator Carol Moseley-Braun recently decided to run for president .",
+  "sentence_index" : 0,
+  "Tokens" : [ "CARLSON", "Former", "Illinois", "Senator", "Carol", "Moseley-Braun", "recently", "decided", "to", "run", "for", "president", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her staff",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "her staff",
+    "argMentionid" : "CNN_CF_20030305.1900.00-3-E40-71",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-3-R2",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_CF_20030305.1900.00-3-E24-72",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "CNN_CF_20030305.1900.00-3-R2-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Not even to her staff , which is , of course , tiny .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Not", "even", "to", "her", "staff", ",", "which", "is", ",", "of", "course", ",", "tiny", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "primary voters in Iowa and New Hampshire",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Iowa",
+    "argMentionid" : "CNN_CF_20030305.1900.00-3-E43-81",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-3-R3",
+  "mentionArg1" : {
+    "extent" : "primary voters in Iowa and New Hampshire",
+    "argMentionid" : "CNN_CF_20030305.1900.00-3-E42-80",
+    "start" : 4,
+    "end" : 10
+  },
+  "id" : "CNN_CF_20030305.1900.00-3-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Moseley Braun expects that primary voters in Iowa and New Hampshire will react enthusiastically to this radical , grammatical transformation .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Moseley", "Braun", "expects", "that", "primary", "voters", "in", "Iowa", "and", "New", "Hampshire", "will", "react", "enthusiastically", "to", "this", "radical", ",", "grammatical", "transformation", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "primary voters in Iowa and New Hampshire",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "New Hampshire",
+    "argMentionid" : "CNN_CF_20030305.1900.00-3-E1-82",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-3-R4",
+  "mentionArg1" : {
+    "extent" : "primary voters in Iowa and New Hampshire",
+    "argMentionid" : "CNN_CF_20030305.1900.00-3-E42-80",
+    "start" : 4,
+    "end" : 10
+  },
+  "id" : "CNN_CF_20030305.1900.00-3-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Moseley Braun expects that primary voters in Iowa and New Hampshire will react enthusiastically to this radical , grammatical transformation .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Moseley", "Braun", "expects", "that", "primary", "voters", "in", "Iowa", "and", "New", "Hampshire", "will", "react", "enthusiastically", "to", "this", "radical", ",", "grammatical", "transformation", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "two members of Congress",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Congress",
+    "argMentionid" : "CNN_CF_20030305.1900.00-3-E31-49",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-3-R5",
+  "mentionArg1" : {
+    "extent" : "two members of Congress",
+    "argMentionid" : "CNN_CF_20030305.1900.00-3-E30-48",
+    "start" : 7,
+    "end" : 10
+  },
+  "id" : "CNN_CF_20030305.1900.00-3-R5-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "In a moment , we 'll ask two members of Congress if they 're convinced that war is the only way to make Saddam Hussein disarm .",
+  "sentence_index" : 28,
+  "Tokens" : [ "In", "a", "moment", ",", "we", "'ll", "ask", "two", "members", "of", "Congress", "if", "they", "'re", "convinced", "that", "war", "is", "the", "only", "way", "to", "make", "Saddam", "Hussein", "disarm", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "your party",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "your party",
+    "argMentionid" : "CNN_CF_20030305.1900.00-3-E39-65",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNN_CF_20030305.1900.00-3-R6",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "CNN_CF_20030305.1900.00-3-E17-28",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "CNN_CF_20030305.1900.00-3-R6-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "CARLSON By embodying the values of your party .",
+  "sentence_index" : 18,
+  "Tokens" : [ "CARLSON", "By", "embodying", "the", "values", "of", "your", "party", "." ]
+} ]

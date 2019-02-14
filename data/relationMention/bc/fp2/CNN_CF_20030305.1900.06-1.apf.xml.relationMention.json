@@ -1,0 +1,111 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "Don from Denver, Colorado",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Denver, Colorado",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E34-81",
+    "start" : 2,
+    "end" : 4
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-1-R1",
+  "mentionArg1" : {
+    "extent" : "Don from Denver, Colorado",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E33-80",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "CNN_CF_20030305.1900.06-1-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Don from Denver , Colorado writes , \" Paul , you keep referencing Halliburton selling equipment to Iraq \" -- which I do .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Don", "from", "Denver", ",", "Colorado", "writes", ",", "\"", "Paul", ",", "you", "keep", "referencing", "Halliburton", "selling", "equipment", "to", "Iraq", "\"", "--", "which", "I", "do", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Denver, Colorado",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Colorado",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E35-82",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-1-R2",
+  "mentionArg1" : {
+    "extent" : "Denver, Colorado",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E34-81",
+    "start" : 2,
+    "end" : 4
+  },
+  "id" : "CNN_CF_20030305.1900.06-1-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Don from Denver , Colorado writes , \" Paul , you keep referencing Halliburton selling equipment to Iraq \" -- which I do .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Don", "from", "Denver", ",", "Colorado", "writes", ",", "\"", "Paul", ",", "you", "keep", "referencing", "Halliburton", "selling", "equipment", "to", "Iraq", "\"", "--", "which", "I", "do", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "They went through a foreign subsidiary",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "They",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E36-5",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-1-R3",
+  "mentionArg1" : {
+    "extent" : "a foreign subsidiary",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E4-6",
+    "start" : 3,
+    "end" : 5
+  },
+  "id" : "CNN_CF_20030305.1900.06-1-R3-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "They went through a foreign subsidiary .",
+  "sentence_index" : 7,
+  "Tokens" : [ "They", "went", "through", "a", "foreign", "subsidiary", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Chad Hensley, from Fairfax, Virginia",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Fairfax, Virginia",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E15-39",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-1-R4",
+  "mentionArg1" : {
+    "extent" : "Chad Hensley, from Fairfax, Virginia",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E14-38",
+    "start" : 0,
+    "end" : 6
+  },
+  "id" : "CNN_CF_20030305.1900.06-1-R4-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Chad Hensley , from Fairfax , Virginia , writes , \" France , Russia and German have all multi-billion dollar oil deals with Saddam in Iraq .",
+  "sentence_index" : 24,
+  "Tokens" : [ "Chad", "Hensley", ",", "from", "Fairfax", ",", "Virginia", ",", "writes", ",", "\"", "France", ",", "Russia", "and", "German", "have", "all", "multi-billion", "dollar", "oil", "deals", "with", "Saddam", "in", "Iraq", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Fairfax, Virginia",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Virginia",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E16-40",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-1-R5",
+  "mentionArg1" : {
+    "extent" : "Fairfax, Virginia",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E15-39",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "CNN_CF_20030305.1900.06-1-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Chad Hensley , from Fairfax , Virginia , writes , \" France , Russia and German have all multi-billion dollar oil deals with Saddam in Iraq .",
+  "sentence_index" : 24,
+  "Tokens" : [ "Chad", "Hensley", ",", "from", "Fairfax", ",", "Virginia", ",", "writes", ",", "\"", "France", ",", "Russia", "and", "German", "have", "all", "multi-billion", "dollar", "oil", "deals", "with", "Saddam", "in", "Iraq", "." ]
+} ]

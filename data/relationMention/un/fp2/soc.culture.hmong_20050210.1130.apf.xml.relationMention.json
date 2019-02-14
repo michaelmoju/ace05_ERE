@@ -1,0 +1,441 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "one or two Hmong individuals",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Hmong",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E1-24",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "soc.culture.hmong_20050210.1130-R1",
+  "mentionArg1" : {
+    "extent" : "one or two Hmong individuals",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E12-23",
+    "start" : 4,
+    "end" : 8
+  },
+  "id" : "soc.culture.hmong_20050210.1130-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "The US will support one or two Hmong individuals to speak out against LPDR human rights violation and Chao Fa resistance fighters .",
+  "sentence_index" : 13,
+  "Tokens" : [ "The", "US", "will", "support", "one", "or", "two", "Hmong", "individuals", "to", "speak", "out", "against", "LPDR", "human", "rights", "violation", "and", "Chao", "Fa", "resistance", "fighters", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Chao Fa resistance fighters",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Chao Fa",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E16-27",
+    "start" : 18,
+    "end" : 19
+  },
+  "relationID" : "soc.culture.hmong_20050210.1130-R2",
+  "mentionArg1" : {
+    "extent" : "Chao Fa resistance fighters",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E15-26",
+    "start" : 18,
+    "end" : 21
+  },
+  "id" : "soc.culture.hmong_20050210.1130-R2-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "The US will support one or two Hmong individuals to speak out against LPDR human rights violation and Chao Fa resistance fighters .",
+  "sentence_index" : 13,
+  "Tokens" : [ "The", "US", "will", "support", "one", "or", "two", "Hmong", "individuals", "to", "speak", "out", "against", "LPDR", "human", "rights", "violation", "and", "Chao", "Fa", "resistance", "fighters", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "U.S. military",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E8-31",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "soc.culture.hmong_20050210.1130-R3",
+  "mentionArg1" : {
+    "extent" : "U.S. military",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E19-30",
+    "start" : 23,
+    "end" : 24
+  },
+  "id" : "soc.culture.hmong_20050210.1130-R3-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "With a precedant set in Iraq for preemptive attacks , Laos will be taken overnight and become a source of invaluable logistics for U.S. military attacks on China .",
+  "sentence_index" : 14,
+  "Tokens" : [ "With", "a", "precedant", "set", "in", "Iraq", "for", "preemptive", "attacks", ",", "Laos", "will", "be", "taken", "overnight", "and", "become", "a", "source", "of", "invaluable", "logistics", "for", "U.S.", "military", "attacks", "on", "China", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the surrounding countries of China",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "China",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E11-35",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "soc.culture.hmong_20050210.1130-R4",
+  "mentionArg1" : {
+    "extent" : "the surrounding countries of China",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E21-34",
+    "start" : 18,
+    "end" : 22
+  },
+  "id" : "soc.culture.hmong_20050210.1130-R4-1",
+  "relationSubType" : "Near",
+  "Sentence" : "The US 's policy of handing out NTR will have the desired effect of reeling in alliances from the surrounding countries of China .",
+  "sentence_index" : 16,
+  "Tokens" : [ "The", "US", "'s", "policy", "of", "handing", "out", "NTR", "will", "have", "the", "desired", "effect", "of", "reeling", "in", "alliances", "from", "the", "surrounding", "countries", "of", "China", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Some Hmong Americans",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "Hmong",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E1-47",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "soc.culture.hmong_20050210.1130-R5",
+  "mentionArg1" : {
+    "extent" : "Some Hmong Americans",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E26-46",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "soc.culture.hmong_20050210.1130-R5-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Some Hmong Americans may be reintroduced to Laos .",
+  "sentence_index" : 21,
+  "Tokens" : [ "Some", "Hmong", "Americans", "may", "be", "reintroduced", "to", "Laos", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Some Hmong in Laos, namely, Chao Fa",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Laos",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E10-50",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "soc.culture.hmong_20050210.1130-R6",
+  "mentionArg1" : {
+    "extent" : "Some Hmong in Laos, namely, Chao Fa",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E28-49",
+    "start" : 0,
+    "end" : 8
+  },
+  "id" : "soc.culture.hmong_20050210.1130-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Some Hmong in Laos , namely , Chao Fa , will be a good source of intelligence on Lao-China border activities .",
+  "sentence_index" : 22,
+  "Tokens" : [ "Some", "Hmong", "in", "Laos", ",", "namely", ",", "Chao", "Fa", ",", "will", "be", "a", "good", "source", "of", "intelligence", "on", "Lao-China", "border", "activities", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Lao-China border",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "Lao",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E10-53",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "soc.culture.hmong_20050210.1130-R7",
+  "mentionArg1" : {
+    "extent" : "Lao-China border",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E29-52",
+    "start" : 18,
+    "end" : 19
+  },
+  "id" : "soc.culture.hmong_20050210.1130-R7-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Some Hmong in Laos , namely , Chao Fa , will be a good source of intelligence on Lao-China border activities .",
+  "sentence_index" : 22,
+  "Tokens" : [ "Some", "Hmong", "in", "Laos", ",", "namely", ",", "Chao", "Fa", ",", "will", "be", "a", "good", "source", "of", "intelligence", "on", "Lao-China", "border", "activities", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Lao-China border",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "China",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E11-54",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "soc.culture.hmong_20050210.1130-R8",
+  "mentionArg1" : {
+    "extent" : "Lao-China border",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E29-52",
+    "start" : 18,
+    "end" : 19
+  },
+  "id" : "soc.culture.hmong_20050210.1130-R8-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Some Hmong in Laos , namely , Chao Fa , will be a good source of intelligence on Lao-China border activities .",
+  "sentence_index" : 22,
+  "Tokens" : [ "Some", "Hmong", "in", "Laos", ",", "namely", ",", "Chao", "Fa", ",", "will", "be", "a", "good", "source", "of", "intelligence", "on", "Lao-China", "border", "activities", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Arabic-speaking CIA agents",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "CIA",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E32-125",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "soc.culture.hmong_20050210.1130-R9",
+  "mentionArg1" : {
+    "extent" : "Arabic-speaking CIA agents",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E34-67",
+    "start" : 12,
+    "end" : 14
+  },
+  "id" : "soc.culture.hmong_20050210.1130-R9-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Unlike the current situation in the Middle-East , where the number of Arabic-speaking CIA agents are few , there will be plenty of Hmong / Chinese-speaking CIA agents for disposal and use in the looming Sino-US war .",
+  "sentence_index" : 27,
+  "Tokens" : [ "Unlike", "the", "current", "situation", "in", "the", "Middle-East", ",", "where", "the", "number", "of", "Arabic-speaking", "CIA", "agents", "are", "few", ",", "there", "will", "be", "plenty", "of", "Hmong", "/", "Chinese-speaking", "CIA", "agents", "for", "disposal", "and", "use", "in", "the", "looming", "Sino-US", "war", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "plenty of Hmong/Chinese-speaking CIA agents for disposal and use in the looming Sino-US war",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "Hmong",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E1-69",
+    "start" : 23,
+    "end" : 23
+  },
+  "relationID" : "soc.culture.hmong_20050210.1130-R10",
+  "mentionArg1" : {
+    "extent" : "plenty of Hmong/Chinese-speaking CIA agents for disposal and use in the looming Sino-US war",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E35-68",
+    "start" : 21,
+    "end" : 36
+  },
+  "id" : "soc.culture.hmong_20050210.1130-R10-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Unlike the current situation in the Middle-East , where the number of Arabic-speaking CIA agents are few , there will be plenty of Hmong / Chinese-speaking CIA agents for disposal and use in the looming Sino-US war .",
+  "sentence_index" : 27,
+  "Tokens" : [ "Unlike", "the", "current", "situation", "in", "the", "Middle-East", ",", "where", "the", "number", "of", "Arabic-speaking", "CIA", "agents", "are", "few", ",", "there", "will", "be", "plenty", "of", "Hmong", "/", "Chinese-speaking", "CIA", "agents", "for", "disposal", "and", "use", "in", "the", "looming", "Sino-US", "war", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "plenty of Hmong/Chinese-speaking CIA agents for disposal and use in the looming Sino-US war",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "Chinese",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E11-70",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "soc.culture.hmong_20050210.1130-R11",
+  "mentionArg1" : {
+    "extent" : "plenty of Hmong/Chinese-speaking CIA agents for disposal and use in the looming Sino-US war",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E35-68",
+    "start" : 21,
+    "end" : 36
+  },
+  "id" : "soc.culture.hmong_20050210.1130-R11-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Unlike the current situation in the Middle-East , where the number of Arabic-speaking CIA agents are few , there will be plenty of Hmong / Chinese-speaking CIA agents for disposal and use in the looming Sino-US war .",
+  "sentence_index" : 27,
+  "Tokens" : [ "Unlike", "the", "current", "situation", "in", "the", "Middle-East", ",", "where", "the", "number", "of", "Arabic-speaking", "CIA", "agents", "are", "few", ",", "there", "will", "be", "plenty", "of", "Hmong", "/", "Chinese-speaking", "CIA", "agents", "for", "disposal", "and", "use", "in", "the", "looming", "Sino-US", "war", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "plenty of Hmong/Chinese-speaking CIA agents for disposal and use in the looming Sino-US war",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "CIA",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E32-71",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "soc.culture.hmong_20050210.1130-R12",
+  "mentionArg1" : {
+    "extent" : "plenty of Hmong/Chinese-speaking CIA agents for disposal and use in the looming Sino-US war",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E35-68",
+    "start" : 21,
+    "end" : 36
+  },
+  "id" : "soc.culture.hmong_20050210.1130-R12-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Unlike the current situation in the Middle-East , where the number of Arabic-speaking CIA agents are few , there will be plenty of Hmong / Chinese-speaking CIA agents for disposal and use in the looming Sino-US war .",
+  "sentence_index" : 27,
+  "Tokens" : [ "Unlike", "the", "current", "situation", "in", "the", "Middle-East", ",", "where", "the", "number", "of", "Arabic-speaking", "CIA", "agents", "are", "few", ",", "there", "will", "be", "plenty", "of", "Hmong", "/", "Chinese-speaking", "CIA", "agents", "for", "disposal", "and", "use", "in", "the", "looming", "Sino-US", "war", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the southern provinces of China",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "China",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E11-78",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "soc.culture.hmong_20050210.1130-R13",
+  "mentionArg1" : {
+    "extent" : "the southern provinces of China",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E42-77",
+    "start" : 18,
+    "end" : 22
+  },
+  "id" : "soc.culture.hmong_20050210.1130-R13-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Perhaps by route of Thailand , if LPDR does not cooperate , the US will incite insurrection in the southern provinces of China .",
+  "sentence_index" : 28,
+  "Tokens" : [ "Perhaps", "by", "route", "of", "Thailand", ",", "if", "LPDR", "does", "not", "cooperate", ",", "the", "US", "will", "incite", "insurrection", "in", "the", "southern", "provinces", "of", "China", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a lot of Hmong people",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Hmong",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E1-81",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "soc.culture.hmong_20050210.1130-R14",
+  "mentionArg1" : {
+    "extent" : "a lot of Hmong people",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E43-80",
+    "start" : 3,
+    "end" : 7
+  },
+  "id" : "soc.culture.hmong_20050210.1130-R14-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "These provinces have a lot of Hmong people , and have been known to be the fiercest opposition to Chinese rule ( aka Remember the Miao Rebellions ? ) .",
+  "sentence_index" : 29,
+  "Tokens" : [ "These", "provinces", "have", "a", "lot", "of", "Hmong", "people", ",", "and", "have", "been", "known", "to", "be", "the", "fiercest", "opposition", "to", "Chinese", "rule", "(", "aka", "Remember", "the", "Miao", "Rebellions", "?", ")", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "their own country",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "their own country",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E47-86",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "soc.culture.hmong_20050210.1130-R15",
+  "mentionArg1" : {
+    "extent" : "their own",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E1-87",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "soc.culture.hmong_20050210.1130-R15-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "This will be the Hmong 's God-given chance to fight for their own country .",
+  "sentence_index" : 30,
+  "Tokens" : [ "This", "will", "be", "the", "Hmong", "'s", "God-given", "chance", "to", "fight", "for", "their", "own", "country", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Kurds in Iraq",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E18-93",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "soc.culture.hmong_20050210.1130-R16",
+  "mentionArg1" : {
+    "extent" : "the Kurds in Iraq",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E50-92",
+    "start" : 15,
+    "end" : 18
+  },
+  "id" : "soc.culture.hmong_20050210.1130-R16-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Let 's see if they ( and we ) agree to a coaltion government like the Kurds in Iraq .",
+  "sentence_index" : 31,
+  "Tokens" : [ "Let", "'s", "see", "if", "they", "(", "and", "we", ")", "agree", "to", "a", "coaltion", "government", "like", "the", "Kurds", "in", "Iraq", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Hmong people",
+  "sentence_length" : 6,
+  "mentionArg2" : {
+    "extent" : "Hmong people",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E51-94",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "soc.culture.hmong_20050210.1130-R17",
+  "mentionArg1" : {
+    "extent" : "Hmong",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E1-95",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "soc.culture.hmong_20050210.1130-R17-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "They all involve Hmong people .",
+  "sentence_index" : 33,
+  "Tokens" : [ "They", "all", "involve", "Hmong", "people", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Hmong people",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "Hmong people",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E51-105",
+    "start" : 1,
+    "end" : 2
+  },
+  "relationID" : "soc.culture.hmong_20050210.1130-R17",
+  "mentionArg1" : {
+    "extent" : "Hmong",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E1-106",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "soc.culture.hmong_20050210.1130-R17-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "As Hmong people say , \" Water runs strongly , engine sounds good . \"",
+  "sentence_index" : 38,
+  "Tokens" : [ "As", "Hmong", "people", "say", ",", "\"", "Water", "runs", "strongly", ",", "engine", "sounds", "good", ".", "\"" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the world that we live in",
+  "sentence_length" : 81,
+  "mentionArg2" : {
+    "extent" : "the world that we live in",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E60-113",
+    "start" : 21,
+    "end" : 26
+  },
+  "relationID" : "soc.culture.hmong_20050210.1130-R19",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E61-115",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "soc.culture.hmong_20050210.1130-R19-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Nuked is a key element to have a vote in this current day. it will make more stable and balance of the world that we live in because no one can deter the others. and , no country will have absolute power and authority ....... cuz the deter of Nuked .... to wide out world wide .................... WW3 with Nuked , could dry and free some new dry sand land for Hmong men as Zhen 's wishful dream ... hahhahah !",
+  "sentence_index" : 41,
+  "Tokens" : [ "Nuked", "is", "a", "key", "element", "to", "have", "a", "vote", "in", "this", "current", "day.", "it", "will", "make", "more", "stable", "and", "balance", "of", "the", "world", "that", "we", "live", "in", "because", "no", "one", "can", "deter", "the", "others.", "and", ",", "no", "country", "will", "have", "absolute", "power", "and", "authority", ".......", "cuz", "the", "deter", "of", "Nuked", "....", "to", "wide", "out", "world", "wide", "....................", "WW3", "with", "Nuked", ",", "could", "dry", "and", "free", "some", "new", "dry", "sand", "land", "for", "Hmong", "men", "as", "Zhen", "'s", "wishful", "dream", "...", "hahhahah", "!" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Hmong men",
+  "sentence_length" : 81,
+  "mentionArg2" : {
+    "extent" : "Hmong men",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E65-119",
+    "start" : 71,
+    "end" : 72
+  },
+  "relationID" : "soc.culture.hmong_20050210.1130-R20",
+  "mentionArg1" : {
+    "extent" : "Hmong",
+    "argMentionid" : "soc.culture.hmong_20050210.1130-E1-120",
+    "start" : 71,
+    "end" : 71
+  },
+  "id" : "soc.culture.hmong_20050210.1130-R20-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Nuked is a key element to have a vote in this current day. it will make more stable and balance of the world that we live in because no one can deter the others. and , no country will have absolute power and authority ....... cuz the deter of Nuked .... to wide out world wide .................... WW3 with Nuked , could dry and free some new dry sand land for Hmong men as Zhen 's wishful dream ... hahhahah !",
+  "sentence_index" : 41,
+  "Tokens" : [ "Nuked", "is", "a", "key", "element", "to", "have", "a", "vote", "in", "this", "current", "day.", "it", "will", "make", "more", "stable", "and", "balance", "of", "the", "world", "that", "we", "live", "in", "because", "no", "one", "can", "deter", "the", "others.", "and", ",", "no", "country", "will", "have", "absolute", "power", "and", "authority", ".......", "cuz", "the", "deter", "of", "Nuked", "....", "to", "wide", "out", "world", "wide", "....................", "WW3", "with", "Nuked", ",", "could", "dry", "and", "free", "some", "new", "dry", "sand", "land", "for", "Hmong", "men", "as", "Zhen", "'s", "wishful", "dream", "...", "hahhahah", "!" ]
+} ]

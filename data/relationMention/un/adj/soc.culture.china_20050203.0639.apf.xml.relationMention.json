@@ -1,0 +1,287 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Sunni clerics",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "Sunni",
+    "argMentionid" : "soc.culture.china_20050203.0639-E4-66",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "soc.culture.china_20050203.0639-R2",
+  "mentionArg1" : {
+    "extent" : "the Sunni clerics",
+    "argMentionid" : "soc.culture.china_20050203.0639-E2-65",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "soc.culture.china_20050203.0639-R2-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "However , it is not the Sunni clerics ' complaints .",
+  "sentence_index" : 33,
+  "Tokens" : [ "However", ",", "it", "is", "not", "the", "Sunni", "clerics", "'", "complaints", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a city of 200,000",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "a city of 200,000",
+    "argMentionid" : "soc.culture.china_20050203.0639-E58-135",
+    "start" : 4,
+    "end" : 7
+  },
+  "relationID" : "soc.culture.china_20050203.0639-R3",
+  "mentionArg1" : {
+    "extent" : "200,000",
+    "argMentionid" : "soc.culture.china_20050203.0639-E59-136",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "soc.culture.china_20050203.0639-R3-1",
+  "relationSubType" : "Located",
+  "Sentence" : "For example , in a city of 200,000 only 1400 had casted their votes .",
+  "sentence_index" : 5,
+  "Tokens" : [ "For", "example", ",", "in", "a", "city", "of", "200,000", "only", "1400", "had", "casted", "their", "votes", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iraqi Sunni clerics",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "soc.culture.china_20050203.0639-E1-5",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "soc.culture.china_20050203.0639-R4",
+  "mentionArg1" : {
+    "extent" : "Iraqi Sunni clerics",
+    "argMentionid" : "soc.culture.china_20050203.0639-E3-3",
+    "start" : 10,
+    "end" : 12
+  },
+  "id" : "soc.culture.china_20050203.0639-R4-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "------------------ Sunnis say Iraq poll illegitimate A leading group of Iraqi Sunni clerics have said the country 's landmark election lacks legitimacy as so many Sunnis did not take part in the vote .",
+  "sentence_index" : 10,
+  "Tokens" : [ "------------------", "Sunnis", "say", "Iraq", "poll", "illegitimate", "A", "leading", "group", "of", "Iraqi", "Sunni", "clerics", "have", "said", "the", "country", "'s", "landmark", "election", "lacks", "legitimacy", "as", "so", "many", "Sunnis", "did", "not", "take", "part", "in", "the", "vote", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "US and foreign troops",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "soc.culture.china_20050203.0639-E6-8",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "soc.culture.china_20050203.0639-R5",
+  "mentionArg1" : {
+    "extent" : "US and foreign troops",
+    "argMentionid" : "soc.culture.china_20050203.0639-E36-127",
+    "start" : 14,
+    "end" : 17
+  },
+  "id" : "soc.culture.china_20050203.0639-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The clerics had encouraged Sunnis to boycott the elections because of the presence of US and foreign troops .",
+  "sentence_index" : 11,
+  "Tokens" : [ "The", "clerics", "had", "encouraged", "Sunnis", "to", "boycott", "the", "elections", "because", "of", "the", "presence", "of", "US", "and", "foreign", "troops", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The US and Iraqi authorities",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "soc.culture.china_20050203.0639-E6-11",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "soc.culture.china_20050203.0639-R6",
+  "mentionArg1" : {
+    "extent" : "The US and Iraqi authorities",
+    "argMentionid" : "soc.culture.china_20050203.0639-E7-9",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "soc.culture.china_20050203.0639-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The US and Iraqi authorities , as well as the United Nations , have hailed the election as a \" victory for democracy \" .",
+  "sentence_index" : 12,
+  "Tokens" : [ "The", "US", "and", "Iraqi", "authorities", ",", "as", "well", "as", "the", "United", "Nations", ",", "have", "hailed", "the", "election", "as", "a", "\"", "victory", "for", "democracy", "\"", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The US and Iraqi authorities",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "soc.culture.china_20050203.0639-E1-10",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "soc.culture.china_20050203.0639-R7",
+  "mentionArg1" : {
+    "extent" : "The US and Iraqi authorities",
+    "argMentionid" : "soc.culture.china_20050203.0639-E7-9",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "soc.culture.china_20050203.0639-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The US and Iraqi authorities , as well as the United Nations , have hailed the election as a \" victory for democracy \" .",
+  "sentence_index" : 12,
+  "Tokens" : [ "The", "US", "and", "Iraqi", "authorities", ",", "as", "well", "as", "the", "United", "Nations", ",", "have", "hailed", "the", "election", "as", "a", "\"", "victory", "for", "democracy", "\"", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "their own city",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "their own city",
+    "argMentionid" : "soc.culture.china_20050203.0639-E40-75",
+    "start" : 16,
+    "end" : 18
+  },
+  "relationID" : "soc.culture.china_20050203.0639-R8",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "soc.culture.china_20050203.0639-E4-119",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "soc.culture.china_20050203.0639-R8-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "In addition , they are restricted from moving freely in their own country and / or their own city , would that not restricted their election related activities ?",
+  "sentence_index" : 37,
+  "Tokens" : [ "In", "addition", ",", "they", "are", "restricted", "from", "moving", "freely", "in", "their", "own", "country", "and", "/", "or", "their", "own", "city", ",", "would", "that", "not", "restricted", "their", "election", "related", "activities", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "their own country",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "their own country",
+    "argMentionid" : "soc.culture.china_20050203.0639-E1-72",
+    "start" : 10,
+    "end" : 12
+  },
+  "relationID" : "soc.culture.china_20050203.0639-R9",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "soc.culture.china_20050203.0639-E4-117",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "soc.culture.china_20050203.0639-R9-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "In addition , they are restricted from moving freely in their own country and / or their own city , would that not restricted their election related activities ?",
+  "sentence_index" : 37,
+  "Tokens" : [ "In", "addition", ",", "they", "are", "restricted", "from", "moving", "freely", "in", "their", "own", "country", "and", "/", "or", "their", "own", "city", ",", "would", "that", "not", "restricted", "their", "election", "related", "activities", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "their own country",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "their own country",
+    "argMentionid" : "soc.culture.china_20050203.0639-E1-105",
+    "start" : 7,
+    "end" : 9
+  },
+  "relationID" : "soc.culture.china_20050203.0639-R9",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "soc.culture.china_20050203.0639-E4-103",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "soc.culture.china_20050203.0639-R9-2",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "They are not restricted from moving within their own country .",
+  "sentence_index" : 50,
+  "Tokens" : [ "They", "are", "not", "restricted", "from", "moving", "within", "their", "own", "country", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "In Fallujah, there were 5 voting stations with only ONE vote casted",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "Fallujah",
+    "argMentionid" : "soc.culture.china_20050203.0639-E63-142",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "soc.culture.china_20050203.0639-R10",
+  "mentionArg1" : {
+    "extent" : "5 voting stations with only ONE vote casted",
+    "argMentionid" : "soc.culture.china_20050203.0639-E64-143",
+    "start" : 5,
+    "end" : 12
+  },
+  "id" : "soc.culture.china_20050203.0639-R10-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "In Fallujah , there were 5 voting stations with only ONE vote casted .",
+  "sentence_index" : 7,
+  "Tokens" : [ "In", "Fallujah", ",", "there", "were", "5", "voting", "stations", "with", "only", "ONE", "vote", "casted", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Iraqi Sunni clerics",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "Sunni",
+    "argMentionid" : "soc.culture.china_20050203.0639-E4-4",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "soc.culture.china_20050203.0639-R11",
+  "mentionArg1" : {
+    "extent" : "Iraqi Sunni clerics",
+    "argMentionid" : "soc.culture.china_20050203.0639-E3-3",
+    "start" : 10,
+    "end" : 12
+  },
+  "id" : "soc.culture.china_20050203.0639-R11-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "------------------ Sunnis say Iraq poll illegitimate A leading group of Iraqi Sunni clerics have said the country 's landmark election lacks legitimacy as so many Sunnis did not take part in the vote .",
+  "sentence_index" : 10,
+  "Tokens" : [ "------------------", "Sunnis", "say", "Iraq", "poll", "illegitimate", "A", "leading", "group", "of", "Iraqi", "Sunni", "clerics", "have", "said", "the", "country", "'s", "landmark", "election", "lacks", "legitimacy", "as", "so", "many", "Sunnis", "did", "not", "take", "part", "in", "the", "vote", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a large segment of different sects, parties and currents with their influence in Iraq",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "different sects, parties and currents with their influence in Iraq",
+    "argMentionid" : "soc.culture.china_20050203.0639-E38-71",
+    "start" : 10,
+    "end" : 20
+  },
+  "relationID" : "soc.culture.china_20050203.0639-R12",
+  "mentionArg1" : {
+    "extent" : "a large segment of different sects, parties and currents with their influence in Iraq",
+    "argMentionid" : "soc.culture.china_20050203.0639-E37-70",
+    "start" : 6,
+    "end" : 20
+  },
+  "id" : "soc.culture.china_20050203.0639-R12-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "\" These elections lack legitimacy because a large segment of different sects , parties and currents with their influence in Iraq boycotted , \" the association said in a statement .",
+  "sentence_index" : 14,
+  "Tokens" : [ "\"", "These", "elections", "lack", "legitimacy", "because", "a", "large", "segment", "of", "different", "sects", ",", "parties", "and", "currents", "with", "their", "influence", "in", "Iraq", "boycotted", ",", "\"", "the", "association", "said", "in", "a", "statement", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a large segment of different sects, parties and currents with their influence in Iraq",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "different sects, parties and currents with their influence in Iraq",
+    "argMentionid" : "soc.culture.china_20050203.0639-E39-74",
+    "start" : 10,
+    "end" : 20
+  },
+  "relationID" : "soc.culture.china_20050203.0639-R13",
+  "mentionArg1" : {
+    "extent" : "a large segment of different sects, parties and currents with their influence in Iraq",
+    "argMentionid" : "soc.culture.china_20050203.0639-E37-70",
+    "start" : 6,
+    "end" : 20
+  },
+  "id" : "soc.culture.china_20050203.0639-R13-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "\" These elections lack legitimacy because a large segment of different sects , parties and currents with their influence in Iraq boycotted , \" the association said in a statement .",
+  "sentence_index" : 14,
+  "Tokens" : [ "\"", "These", "elections", "lack", "legitimacy", "because", "a", "large", "segment", "of", "different", "sects", ",", "parties", "and", "currents", "with", "their", "influence", "in", "Iraq", "boycotted", ",", "\"", "the", "association", "said", "in", "a", "statement", "." ]
+} ]

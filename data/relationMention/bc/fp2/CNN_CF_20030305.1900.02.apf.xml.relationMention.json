@@ -1,0 +1,441 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "any new U.N. Security Council that could threaten Saddam Hussein's grip on power",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "U.N",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E75-189",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "CNN_CF_20030305.1900.02-R1",
+  "mentionArg1" : {
+    "extent" : "any new U.N. Security Council that could threaten Saddam Hussein's grip on power",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E74-188",
+    "start" : 10,
+    "end" : 23
+  },
+  "id" : "CNN_CF_20030305.1900.02-R1-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "France , Russia and Germany today restated their opposition to any new U.N. Security Council that could threaten Saddam Hussein 's grip on power .",
+  "sentence_index" : 1,
+  "Tokens" : [ "France", ",", "Russia", "and", "Germany", "today", "restated", "their", "opposition", "to", "any", "new", "U.N.", "Security", "Council", "that", "could", "threaten", "Saddam", "Hussein", "'s", "grip", "on", "power", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a New York Democrat",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "New York",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E3-4",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "CNN_CF_20030305.1900.02-R2",
+  "mentionArg1" : {
+    "extent" : "a New York Democrat",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E1-3",
+    "start" : 13,
+    "end" : 16
+  },
+  "id" : "CNN_CF_20030305.1900.02-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "We 're talking with potential war in Iraq with Congressman Charlie Rangel , a New York Democrat and his fellow New Yorker Republican Congressman Peter King .",
+  "sentence_index" : 3,
+  "Tokens" : [ "We", "'re", "talking", "with", "potential", "war", "in", "Iraq", "with", "Congressman", "Charlie", "Rangel", ",", "a", "New", "York", "Democrat", "and", "his", "fellow", "New", "Yorker", "Republican", "Congressman", "Peter", "King", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "his country",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "his country",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E15-27",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "CNN_CF_20030305.1900.02-R3",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E5-28",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "CNN_CF_20030305.1900.02-R3-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "And you 're a congressman who has put his constituents and his country ahead of his partisan interests .",
+  "sentence_index" : 7,
+  "Tokens" : [ "And", "you", "'re", "a", "congressman", "who", "has", "put", "his", "constituents", "and", "his", "country", "ahead", "of", "his", "partisan", "interests", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our servicemen",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E15-36",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "CNN_CF_20030305.1900.02-R4",
+  "mentionArg1" : {
+    "extent" : "our servicemen",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E18-35",
+    "start" : 28,
+    "end" : 29
+  },
+  "id" : "CNN_CF_20030305.1900.02-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "So I wonder if you 'll join Charlie Rangel , who put out a press release today , decrying the Republican attempt to hijack a bill to help our servicemen to use it to give special interest tax breaks to corporations .",
+  "sentence_index" : 8,
+  "Tokens" : [ "So", "I", "wonder", "if", "you", "'ll", "join", "Charlie", "Rangel", ",", "who", "put", "out", "a", "press", "release", "today", ",", "decrying", "the", "Republican", "attempt", "to", "hijack", "a", "bill", "to", "help", "our", "servicemen", "to", "use", "it", "to", "give", "special", "interest", "tax", "breaks", "to", "corporations", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the No. 2 member of al Qaeda",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "al Qaeda",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E26-61",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "CNN_CF_20030305.1900.02-R5",
+  "mentionArg1" : {
+    "extent" : "the No. 2 member of al Qaeda",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E28-60",
+    "start" : 6,
+    "end" : 12
+  },
+  "id" : "CNN_CF_20030305.1900.02-R5-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "This weekend Khalid Shaikh Mohammed , the No. 2 member of al Qaeda and another significant al Qaeda member were captured in Rawalpindi , Pakistan .",
+  "sentence_index" : 18,
+  "Tokens" : [ "This", "weekend", "Khalid", "Shaikh", "Mohammed", ",", "the", "No.", "2", "member", "of", "al", "Qaeda", "and", "another", "significant", "al", "Qaeda", "member", "were", "captured", "in", "Rawalpindi", ",", "Pakistan", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "one of the central figures in al Qaeda",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "al Qaeda",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E26-112",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "CNN_CF_20030305.1900.02-R5",
+  "mentionArg1" : {
+    "extent" : "one of the central figures in al Qaeda",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E28-109",
+    "start" : 11,
+    "end" : 18
+  },
+  "id" : "CNN_CF_20030305.1900.02-R5-2",
+  "relationSubType" : "Membership",
+  "Sentence" : "CARLSON I have n't heard anybody suggest that he 's not one of the central figures in al Qaeda .",
+  "sentence_index" : 30,
+  "Tokens" : [ "CARLSON", "I", "have", "n't", "heard", "anybody", "suggest", "that", "he", "'s", "not", "one", "of", "the", "central", "figures", "in", "al", "Qaeda", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "another significant al Qaeda member",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "al Qaeda",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E26-63",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "CNN_CF_20030305.1900.02-R6",
+  "mentionArg1" : {
+    "extent" : "another significant al Qaeda member",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E30-62",
+    "start" : 14,
+    "end" : 18
+  },
+  "id" : "CNN_CF_20030305.1900.02-R6-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "This weekend Khalid Shaikh Mohammed , the No. 2 member of al Qaeda and another significant al Qaeda member were captured in Rawalpindi , Pakistan .",
+  "sentence_index" : 18,
+  "Tokens" : [ "This", "weekend", "Khalid", "Shaikh", "Mohammed", ",", "the", "No.", "2", "member", "of", "al", "Qaeda", "and", "another", "significant", "al", "Qaeda", "member", "were", "captured", "in", "Rawalpindi", ",", "Pakistan", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "This weekend Khalid Shaikh Mohammed, the No. 2 member of al Qaeda and another significant al Qaeda member were captured in Rawalpindi, Pakistan",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Rawalpindi, Pakistan",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E32-64",
+    "start" : 22,
+    "end" : 24
+  },
+  "relationID" : "CNN_CF_20030305.1900.02-R7",
+  "mentionArg1" : {
+    "extent" : "Khalid Shaikh Mohammed",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E28-59",
+    "start" : 2,
+    "end" : 4
+  },
+  "id" : "CNN_CF_20030305.1900.02-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "This weekend Khalid Shaikh Mohammed , the No. 2 member of al Qaeda and another significant al Qaeda member were captured in Rawalpindi , Pakistan .",
+  "sentence_index" : 18,
+  "Tokens" : [ "This", "weekend", "Khalid", "Shaikh", "Mohammed", ",", "the", "No.", "2", "member", "of", "al", "Qaeda", "and", "another", "significant", "al", "Qaeda", "member", "were", "captured", "in", "Rawalpindi", ",", "Pakistan", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "This weekend Khalid Shaikh Mohammed, the No. 2 member of al Qaeda and another significant al Qaeda member were captured in Rawalpindi, Pakistan",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Rawalpindi, Pakistan",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E32-64",
+    "start" : 22,
+    "end" : 24
+  },
+  "relationID" : "CNN_CF_20030305.1900.02-R8",
+  "mentionArg1" : {
+    "extent" : "another significant al Qaeda member",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E30-62",
+    "start" : 14,
+    "end" : 18
+  },
+  "id" : "CNN_CF_20030305.1900.02-R8-1",
+  "relationSubType" : "Located",
+  "Sentence" : "This weekend Khalid Shaikh Mohammed , the No. 2 member of al Qaeda and another significant al Qaeda member were captured in Rawalpindi , Pakistan .",
+  "sentence_index" : 18,
+  "Tokens" : [ "This", "weekend", "Khalid", "Shaikh", "Mohammed", ",", "the", "No.", "2", "member", "of", "al", "Qaeda", "and", "another", "significant", "al", "Qaeda", "member", "were", "captured", "in", "Rawalpindi", ",", "Pakistan", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Rawalpindi, Pakistan",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Pakistan",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E33-65",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "CNN_CF_20030305.1900.02-R9",
+  "mentionArg1" : {
+    "extent" : "Rawalpindi, Pakistan",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E32-64",
+    "start" : 22,
+    "end" : 24
+  },
+  "id" : "CNN_CF_20030305.1900.02-R9-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "This weekend Khalid Shaikh Mohammed , the No. 2 member of al Qaeda and another significant al Qaeda member were captured in Rawalpindi , Pakistan .",
+  "sentence_index" : 18,
+  "Tokens" : [ "This", "weekend", "Khalid", "Shaikh", "Mohammed", ",", "the", "No.", "2", "member", "of", "al", "Qaeda", "and", "another", "significant", "al", "Qaeda", "member", "were", "captured", "in", "Rawalpindi", ",", "Pakistan", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the most important drug dealer in the world",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "the world",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E40-82",
+    "start" : 39,
+    "end" : 40
+  },
+  "relationID" : "CNN_CF_20030305.1900.02-R10",
+  "mentionArg1" : {
+    "extent" : "the most important drug dealer in the world",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E38-81",
+    "start" : 33,
+    "end" : 40
+  },
+  "id" : "CNN_CF_20030305.1900.02-R10-1",
+  "relationSubType" : "Located",
+  "Sentence" : "RANGEL If they do n't have the pencil that 's keeping score , they ought to keep their mouth shut because as a former federal prosecutor , every drug dealer I busted was the most important drug dealer in the world .",
+  "sentence_index" : 21,
+  "Tokens" : [ "RANGEL", "If", "they", "do", "n't", "have", "the", "pencil", "that", "'s", "keeping", "score", ",", "they", "ought", "to", "keep", "their", "mouth", "shut", "because", "as", "a", "former", "federal", "prosecutor", ",", "every", "drug", "dealer", "I", "busted", "was", "the", "most", "important", "drug", "dealer", "in", "the", "world", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "I think that puts you pretty high up in the organization",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "the organization",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E26-95",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "CNN_CF_20030305.1900.02-R11",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E11-94",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "CNN_CF_20030305.1900.02-R11-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "I think that puts you pretty high up in the organization .",
+  "sentence_index" : 27,
+  "Tokens" : [ "I", "think", "that", "puts", "you", "pretty", "high", "up", "in", "the", "organization", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the central figures in al Qaeda",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "al Qaeda",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E26-112",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "CNN_CF_20030305.1900.02-R13",
+  "mentionArg1" : {
+    "extent" : "the central figures in al Qaeda",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E48-110",
+    "start" : 13,
+    "end" : 18
+  },
+  "id" : "CNN_CF_20030305.1900.02-R13-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "CARLSON I have n't heard anybody suggest that he 's not one of the central figures in al Qaeda .",
+  "sentence_index" : 30,
+  "Tokens" : [ "CARLSON", "I", "have", "n't", "heard", "anybody", "suggest", "that", "he", "'s", "not", "one", "of", "the", "central", "figures", "in", "al", "Qaeda", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "They have biological weapons",
+  "sentence_length" : 5,
+  "mentionArg2" : {
+    "extent" : "biological weapons",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E51-123",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "CNN_CF_20030305.1900.02-R14",
+  "mentionArg1" : {
+    "extent" : "They",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E82-122",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_CF_20030305.1900.02-R14-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "They have biological weapons .",
+  "sentence_index" : 35,
+  "Tokens" : [ "They", "have", "biological", "weapons", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "And how'd they get them",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "them",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E51-126",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_CF_20030305.1900.02-R14",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E82-125",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "CNN_CF_20030305.1900.02-R14-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "BEGALA And how 'd they get them ?",
+  "sentence_index" : 37,
+  "Tokens" : [ "BEGALA", "And", "how", "'d", "they", "get", "them", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "It was our fault that they have biological and chemical weapons",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "biological and chemical weapons",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E52-129",
+    "start" : 15,
+    "end" : 18
+  },
+  "relationID" : "CNN_CF_20030305.1900.02-R16",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E82-128",
+    "start" : 13,
+    "end" : 13
+  },
+  "id" : "CNN_CF_20030305.1900.02-R16-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "RANGEL Listen , if this is ... CARLSON It was our fault that they have biological and chemical weapons ?",
+  "sentence_index" : 38,
+  "Tokens" : [ "RANGEL", "Listen", ",", "if", "this", "is", "...", "CARLSON", "It", "was", "our", "fault", "that", "they", "have", "biological", "and", "chemical", "weapons", "?" ]
+}, {
+  "relationType" : "ART",
+  "extent" : "They have it and we supported them having it when they were fighting Iran so it's no big deal there",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "it",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E52-133",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "CNN_CF_20030305.1900.02-R16",
+  "mentionArg1" : {
+    "extent" : "They",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E82-132",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_CF_20030305.1900.02-R16-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "They have it and we supported them having it when they were fighting Iran so it 's no big deal there .",
+  "sentence_index" : 41,
+  "Tokens" : [ "They", "have", "it", "and", "we", "supported", "them", "having", "it", "when", "they", "were", "fighting", "Iran", "so", "it", "'s", "no", "big", "deal", "there", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Congressman Peter King from New York",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "New York",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E3-166",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "CNN_CF_20030305.1900.02-R18",
+  "mentionArg1" : {
+    "extent" : "Congressman Peter King from New York",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E5-164",
+    "start" : 3,
+    "end" : 8
+  },
+  "id" : "CNN_CF_20030305.1900.02-R18-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "I want have Congressman Peter King from New York back on , and Congressman Charlie Rangel .",
+  "sentence_index" : 49,
+  "Tokens" : [ "I", "want", "have", "Congressman", "Peter", "King", "from", "New", "York", "back", "on", ",", "and", "Congressman", "Charlie", "Rangel", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "One of the most admired men in the world",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "the world",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E55-172",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "CNN_CF_20030305.1900.02-R19",
+  "mentionArg1" : {
+    "extent" : "One of the most admired men in the world",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E64-170",
+    "start" : 0,
+    "end" : 8
+  },
+  "id" : "CNN_CF_20030305.1900.02-R19-1",
+  "relationSubType" : "Located",
+  "Sentence" : "One of the most admired men in the world is doing everything he can to avert the horror of war .",
+  "sentence_index" : 51,
+  "Tokens" : [ "One", "of", "the", "most", "admired", "men", "in", "the", "world", "is", "doing", "everything", "he", "can", "to", "avert", "the", "horror", "of", "war", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the most admired men in the world",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "the world",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E55-172",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "CNN_CF_20030305.1900.02-R20",
+  "mentionArg1" : {
+    "extent" : "the most admired men in the world",
+    "argMentionid" : "CNN_CF_20030305.1900.02-E65-171",
+    "start" : 2,
+    "end" : 8
+  },
+  "id" : "CNN_CF_20030305.1900.02-R20-1",
+  "relationSubType" : "Located",
+  "Sentence" : "One of the most admired men in the world is doing everything he can to avert the horror of war .",
+  "sentence_index" : 51,
+  "Tokens" : [ "One", "of", "the", "most", "admired", "men", "in", "the", "world", "is", "doing", "everything", "he", "can", "to", "avert", "the", "horror", "of", "war", "." ]
+} ]

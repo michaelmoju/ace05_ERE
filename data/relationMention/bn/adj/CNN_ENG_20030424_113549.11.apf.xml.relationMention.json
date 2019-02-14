@@ -1,0 +1,287 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "some u.s. troops",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "u.s",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E29-62",
+    "start" : 1,
+    "end" : 3
+  },
+  "relationID" : "CNN_ENG_20030424_113549.11-R1",
+  "mentionArg1" : {
+    "extent" : "some u.s. troops",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E13-1",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "CNN_ENG_20030424_113549.11-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "some u . s. troops have not had a chance to call home since they were deployed for duty in \" operation iraqi freedom . \"",
+  "sentence_index" : 0,
+  "Tokens" : [ "some", "u", ".", "s.", "troops", "have", "not", "had", "a", "chance", "to", "call", "home", "since", "they", "were", "deployed", "for", "duty", "in", "\"", "operation", "iraqi", "freedom", ".", "\"" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "jamie's husband",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "jamie's husband",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E34-77",
+    "start" : 2,
+    "end" : 4
+  },
+  "relationID" : "CNN_ENG_20030424_113549.11-R2",
+  "mentionArg1" : {
+    "extent" : "jamie",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E23-78",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "CNN_ENG_20030424_113549.11-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : jamie 's husband jack was deployed a couple of weeks ago. she and her daughter jordan often shuffle through these pictures of him taken before he left. she has no idea where her husband is now , but thanks to a little help from a delta flight attendant , she knew he got where he was going .",
+  "sentence_index" : 2,
+  "Tokens" : [ "reporter", ":", "jamie", "'s", "husband", "jack", "was", "deployed", "a", "couple", "of", "weeks", "ago.", "she", "and", "her", "daughter", "jordan", "often", "shuffle", "through", "these", "pictures", "of", "him", "taken", "before", "he", "left.", "she", "has", "no", "idea", "where", "her", "husband", "is", "now", ",", "but", "thanks", "to", "a", "little", "help", "from", "a", "delta", "flight", "attendant", ",", "she", "knew", "he", "got", "where", "he", "was", "going", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her husband",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "her husband",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E34-88",
+    "start" : 34,
+    "end" : 35
+  },
+  "relationID" : "CNN_ENG_20030424_113549.11-R2",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E23-2",
+    "start" : 34,
+    "end" : 34
+  },
+  "id" : "CNN_ENG_20030424_113549.11-R2-2",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : jamie 's husband jack was deployed a couple of weeks ago. she and her daughter jordan often shuffle through these pictures of him taken before he left. she has no idea where her husband is now , but thanks to a little help from a delta flight attendant , she knew he got where he was going .",
+  "sentence_index" : 2,
+  "Tokens" : [ "reporter", ":", "jamie", "'s", "husband", "jack", "was", "deployed", "a", "couple", "of", "weeks", "ago.", "she", "and", "her", "daughter", "jordan", "often", "shuffle", "through", "these", "pictures", "of", "him", "taken", "before", "he", "left.", "she", "has", "no", "idea", "where", "her", "husband", "is", "now", ",", "but", "thanks", "to", "a", "little", "help", "from", "a", "delta", "flight", "attendant", ",", "she", "knew", "he", "got", "where", "he", "was", "going", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a delta flight attendant",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "delta",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E2-4",
+    "start" : 47,
+    "end" : 47
+  },
+  "relationID" : "CNN_ENG_20030424_113549.11-R3",
+  "mentionArg1" : {
+    "extent" : "a delta flight attendant",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E1-3",
+    "start" : 46,
+    "end" : 49
+  },
+  "id" : "CNN_ENG_20030424_113549.11-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "reporter : jamie 's husband jack was deployed a couple of weeks ago. she and her daughter jordan often shuffle through these pictures of him taken before he left. she has no idea where her husband is now , but thanks to a little help from a delta flight attendant , she knew he got where he was going .",
+  "sentence_index" : 2,
+  "Tokens" : [ "reporter", ":", "jamie", "'s", "husband", "jack", "was", "deployed", "a", "couple", "of", "weeks", "ago.", "she", "and", "her", "daughter", "jordan", "often", "shuffle", "through", "these", "pictures", "of", "him", "taken", "before", "he", "left.", "she", "has", "no", "idea", "where", "her", "husband", "is", "now", ",", "but", "thanks", "to", "a", "little", "help", "from", "a", "delta", "flight", "attendant", ",", "she", "knew", "he", "got", "where", "he", "was", "going", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her friend",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "her friend",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E7-28",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "CNN_ENG_20030424_113549.11-R4",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E23-29",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "CNN_ENG_20030424_113549.11-R4-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "reporter : jamie is not the only military wife who received a photo and letter. her friend anna also got one. turns out anna 's husband flew out on the same flight as jack. although a small gesture , anna says it 's maents a great deal .",
+  "sentence_index" : 6,
+  "Tokens" : [ "reporter", ":", "jamie", "is", "not", "the", "only", "military", "wife", "who", "received", "a", "photo", "and", "letter.", "her", "friend", "anna", "also", "got", "one.", "turns", "out", "anna", "'s", "husband", "flew", "out", "on", "the", "same", "flight", "as", "jack.", "although", "a", "small", "gesture", ",", "anna", "says", "it", "'s", "maents", "a", "great", "deal", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her daughter",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "her daughter",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E37-82",
+    "start" : 15,
+    "end" : 16
+  },
+  "relationID" : "CNN_ENG_20030424_113549.11-R5",
+  "mentionArg1" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E23-83",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "CNN_ENG_20030424_113549.11-R5-1",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : jamie 's husband jack was deployed a couple of weeks ago. she and her daughter jordan often shuffle through these pictures of him taken before he left. she has no idea where her husband is now , but thanks to a little help from a delta flight attendant , she knew he got where he was going .",
+  "sentence_index" : 2,
+  "Tokens" : [ "reporter", ":", "jamie", "'s", "husband", "jack", "was", "deployed", "a", "couple", "of", "weeks", "ago.", "she", "and", "her", "daughter", "jordan", "often", "shuffle", "through", "these", "pictures", "of", "him", "taken", "before", "he", "left.", "she", "has", "no", "idea", "where", "her", "husband", "is", "now", ",", "but", "thanks", "to", "a", "little", "help", "from", "a", "delta", "flight", "attendant", ",", "she", "knew", "he", "got", "where", "he", "was", "going", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "anna's husband",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "anna's husband",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E9-31",
+    "start" : 23,
+    "end" : 25
+  },
+  "relationID" : "CNN_ENG_20030424_113549.11-R6",
+  "mentionArg1" : {
+    "extent" : "anna",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E7-32",
+    "start" : 23,
+    "end" : 23
+  },
+  "id" : "CNN_ENG_20030424_113549.11-R6-1",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : jamie is not the only military wife who received a photo and letter. her friend anna also got one. turns out anna 's husband flew out on the same flight as jack. although a small gesture , anna says it 's maents a great deal .",
+  "sentence_index" : 6,
+  "Tokens" : [ "reporter", ":", "jamie", "is", "not", "the", "only", "military", "wife", "who", "received", "a", "photo", "and", "letter.", "her", "friend", "anna", "also", "got", "one.", "turns", "out", "anna", "'s", "husband", "flew", "out", "on", "the", "same", "flight", "as", "jack.", "although", "a", "small", "gesture", ",", "anna", "says", "it", "'s", "maents", "a", "great", "deal", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my husband",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "my husband",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E9-37",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "CNN_ENG_20030424_113549.11-R6",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E7-38",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "CNN_ENG_20030424_113549.11-R6-2",
+  "relationSubType" : "Family",
+  "Sentence" : "it made me realize that someone out there does care about my husband and the rest of the military , and it 's not all anti-war .",
+  "sentence_index" : 7,
+  "Tokens" : [ "it", "made", "me", "realize", "that", "someone", "out", "there", "does", "care", "about", "my", "husband", "and", "the", "rest", "of", "the", "military", ",", "and", "it", "'s", "not", "all", "anti-war", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "our kids",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "our kids",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E5-24",
+    "start" : 24,
+    "end" : 25
+  },
+  "relationID" : "CNN_ENG_20030424_113549.11-R8",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E6-25",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "CNN_ENG_20030424_113549.11-R8-1",
+  "relationSubType" : "Family",
+  "Sentence" : "he asked us to call you to let you know he 's okay , and she told us that he whipped out pictures of our kids and everything and showed all the family pictures and stuff .",
+  "sentence_index" : 5,
+  "Tokens" : [ "he", "asked", "us", "to", "call", "you", "to", "let", "you", "know", "he", "'s", "okay", ",", "and", "she", "told", "us", "that", "he", "whipped", "out", "pictures", "of", "our", "kids", "and", "everything", "and", "showed", "all", "the", "family", "pictures", "and", "stuff", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the rest of the military",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "the military",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E11-39",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "CNN_ENG_20030424_113549.11-R10",
+  "mentionArg1" : {
+    "extent" : "the rest of the military",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E28-70",
+    "start" : 14,
+    "end" : 18
+  },
+  "id" : "CNN_ENG_20030424_113549.11-R10-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "it made me realize that someone out there does care about my husband and the rest of the military , and it 's not all anti-war .",
+  "sentence_index" : 7,
+  "Tokens" : [ "it", "made", "me", "realize", "that", "someone", "out", "there", "does", "care", "about", "my", "husband", "and", "the", "rest", "of", "the", "military", ",", "and", "it", "'s", "not", "all", "anti-war", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "some u.s. troops have not had a chance to call home since they were deployed for duty in \"operation iraqi freedom",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "home",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E29-71",
+    "start" : 12,
+    "end" : 12
+  },
+  "relationID" : "CNN_ENG_20030424_113549.11-R11",
+  "mentionArg1" : {
+    "extent" : "some u.s. troops",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E13-1",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "CNN_ENG_20030424_113549.11-R11-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "some u . s. troops have not had a chance to call home since they were deployed for duty in \" operation iraqi freedom . \"",
+  "sentence_index" : 0,
+  "Tokens" : [ "some", "u", ".", "s.", "troops", "have", "not", "had", "a", "chance", "to", "call", "home", "since", "they", "were", "deployed", "for", "duty", "in", "\"", "operation", "iraqi", "freedom", ".", "\"" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "she has no idea where her husband is now, but thanks to a little help from a delta flight attendant, she knew he got where he was going",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "where",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E18-55",
+    "start" : 33,
+    "end" : 33
+  },
+  "relationID" : "CNN_ENG_20030424_113549.11-R12",
+  "mentionArg1" : {
+    "extent" : "her husband",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E34-88",
+    "start" : 34,
+    "end" : 35
+  },
+  "id" : "CNN_ENG_20030424_113549.11-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "reporter : jamie 's husband jack was deployed a couple of weeks ago. she and her daughter jordan often shuffle through these pictures of him taken before he left. she has no idea where her husband is now , but thanks to a little help from a delta flight attendant , she knew he got where he was going .",
+  "sentence_index" : 2,
+  "Tokens" : [ "reporter", ":", "jamie", "'s", "husband", "jack", "was", "deployed", "a", "couple", "of", "weeks", "ago.", "she", "and", "her", "daughter", "jordan", "often", "shuffle", "through", "these", "pictures", "of", "him", "taken", "before", "he", "left.", "she", "has", "no", "idea", "where", "her", "husband", "is", "now", ",", "but", "thanks", "to", "a", "little", "help", "from", "a", "delta", "flight", "attendant", ",", "she", "knew", "he", "got", "where", "he", "was", "going", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "she has no idea where her husband is now, but thanks to a little help from a delta flight attendant, she knew he got where he was going",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "where",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E19-56",
+    "start" : 55,
+    "end" : 55
+  },
+  "relationID" : "CNN_ENG_20030424_113549.11-R13",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "CNN_ENG_20030424_113549.11-E34-6",
+    "start" : 53,
+    "end" : 53
+  },
+  "id" : "CNN_ENG_20030424_113549.11-R13-1",
+  "relationSubType" : "Located",
+  "Sentence" : "reporter : jamie 's husband jack was deployed a couple of weeks ago. she and her daughter jordan often shuffle through these pictures of him taken before he left. she has no idea where her husband is now , but thanks to a little help from a delta flight attendant , she knew he got where he was going .",
+  "sentence_index" : 2,
+  "Tokens" : [ "reporter", ":", "jamie", "'s", "husband", "jack", "was", "deployed", "a", "couple", "of", "weeks", "ago.", "she", "and", "her", "daughter", "jordan", "often", "shuffle", "through", "these", "pictures", "of", "him", "taken", "before", "he", "left.", "she", "has", "no", "idea", "where", "her", "husband", "is", "now", ",", "but", "thanks", "to", "a", "little", "help", "from", "a", "delta", "flight", "attendant", ",", "she", "knew", "he", "got", "where", "he", "was", "going", "." ]
+} ]

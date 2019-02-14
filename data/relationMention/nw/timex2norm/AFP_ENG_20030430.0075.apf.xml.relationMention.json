@@ -1,0 +1,441 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a 150-200 room hotel in Nevada",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Nevada",
+    "argMentionid" : "AFP_ENG_20030430.0075-E35-80",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "AFP_ENG_20030430.0075-R1",
+  "mentionArg1" : {
+    "extent" : "a 150-200 room hotel in Nevada",
+    "argMentionid" : "AFP_ENG_20030430.0075-E33-78",
+    "start" : 11,
+    "end" : 16
+  },
+  "id" : "AFP_ENG_20030430.0075-R1-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "\" We want to build a little city called Metropolis with a 150-200 room hotel in Nevada . \"",
+  "sentence_index" : 16,
+  "Tokens" : [ "\"", "We", "want", "to", "build", "a", "little", "city", "called", "Metropolis", "with", "a", "150-200", "room", "hotel", "in", "Nevada", ".", "\"" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a complete adult venue with adult cinemas, adult shops",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "a complete adult venue with adult cinemas, adult shops",
+    "argMentionid" : "AFP_ENG_20030430.0075-E39-85",
+    "start" : 11,
+    "end" : 20
+  },
+  "relationID" : "AFP_ENG_20030430.0075-R2",
+  "mentionArg1" : {
+    "extent" : "adult cinemas",
+    "argMentionid" : "AFP_ENG_20030430.0075-E18-47",
+    "start" : 16,
+    "end" : 17
+  },
+  "id" : "AFP_ENG_20030430.0075-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "\" We want a complete one-stop adult venue -- we want a complete adult venue with adult cinemas , adult shops ... we have found much bigger premises in a much better location to create a sex Disneyland . \"",
+  "sentence_index" : 12,
+  "Tokens" : [ "\"", "We", "want", "a", "complete", "one-stop", "adult", "venue", "--", "we", "want", "a", "complete", "adult", "venue", "with", "adult", "cinemas", ",", "adult", "shops", "...", "we", "have", "found", "much", "bigger", "premises", "in", "a", "much", "better", "location", "to", "create", "a", "sex", "Disneyland", ".", "\"" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a complete adult venue with adult cinemas, adult shops",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "a complete adult venue with adult cinemas, adult shops",
+    "argMentionid" : "AFP_ENG_20030430.0075-E39-85",
+    "start" : 11,
+    "end" : 20
+  },
+  "relationID" : "AFP_ENG_20030430.0075-R3",
+  "mentionArg1" : {
+    "extent" : "adult shops",
+    "argMentionid" : "AFP_ENG_20030430.0075-E19-48",
+    "start" : 19,
+    "end" : 20
+  },
+  "id" : "AFP_ENG_20030430.0075-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "\" We want a complete one-stop adult venue -- we want a complete adult venue with adult cinemas , adult shops ... we have found much bigger premises in a much better location to create a sex Disneyland . \"",
+  "sentence_index" : 12,
+  "Tokens" : [ "\"", "We", "want", "a", "complete", "one-stop", "adult", "venue", "--", "we", "want", "a", "complete", "adult", "venue", "with", "adult", "cinemas", ",", "adult", "shops", "...", "we", "have", "found", "much", "bigger", "premises", "in", "a", "much", "better", "location", "to", "create", "a", "sex", "Disneyland", ".", "\"" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "The Daily Planet Ltd, about to become the first brothel to list on the Australian Stock Exchange, plans to follow up its May Day launching by opening a \"sex Disneyland\" here, the Melbourne-based bordello announced Wednesday",
+  "sentence_length" : 49,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "AFP_ENG_20030430.0075-E15-92",
+    "start" : 41,
+    "end" : 41
+  },
+  "relationID" : "AFP_ENG_20030430.0075-R4",
+  "mentionArg1" : {
+    "extent" : "a \"sex Disneyland",
+    "argMentionid" : "AFP_ENG_20030430.0075-E37-91",
+    "start" : 36,
+    "end" : 39
+  },
+  "id" : "AFP_ENG_20030430.0075-R4-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "SYDNEY , April 30 ( AFP ) The Daily Planet Ltd , about to become the first brothel to list on the Australian Stock Exchange , plans to follow up its May Day launching by opening a \" sex Disneyland \" here , the Melbourne-based bordello announced Wednesday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "SYDNEY", ",", "April", "30", "(", "AFP", ")", "The", "Daily", "Planet", "Ltd", ",", "about", "to", "become", "the", "first", "brothel", "to", "list", "on", "the", "Australian", "Stock", "Exchange", ",", "plans", "to", "follow", "up", "its", "May", "Day", "launching", "by", "opening", "a", "\"", "sex", "Disneyland", "\"", "here", ",", "the", "Melbourne-based", "bordello", "announced", "Wednesday", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Melbourne-based bordello",
+  "sentence_length" : 49,
+  "mentionArg2" : {
+    "extent" : "Melbourne",
+    "argMentionid" : "AFP_ENG_20030430.0075-E44-93",
+    "start" : 44,
+    "end" : 44
+  },
+  "relationID" : "AFP_ENG_20030430.0075-R5",
+  "mentionArg1" : {
+    "extent" : "the Melbourne-based bordello",
+    "argMentionid" : "AFP_ENG_20030430.0075-E11-94",
+    "start" : 43,
+    "end" : 45
+  },
+  "id" : "AFP_ENG_20030430.0075-R5-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "SYDNEY , April 30 ( AFP ) The Daily Planet Ltd , about to become the first brothel to list on the Australian Stock Exchange , plans to follow up its May Day launching by opening a \" sex Disneyland \" here , the Melbourne-based bordello announced Wednesday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "SYDNEY", ",", "April", "30", "(", "AFP", ")", "The", "Daily", "Planet", "Ltd", ",", "about", "to", "become", "the", "first", "brothel", "to", "list", "on", "the", "Australian", "Stock", "Exchange", ",", "plans", "to", "follow", "up", "its", "May", "Day", "launching", "by", "opening", "a", "\"", "sex", "Disneyland", "\"", "here", ",", "the", "Melbourne-based", "bordello", "announced", "Wednesday", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a hotel in Sydney's Kings Cross red light district",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Sydney's Kings Cross red light district",
+    "argMentionid" : "AFP_ENG_20030430.0075-E49-100",
+    "start" : 17,
+    "end" : 23
+  },
+  "relationID" : "AFP_ENG_20030430.0075-R6",
+  "mentionArg1" : {
+    "extent" : "a hotel in Sydney's Kings Cross red light district",
+    "argMentionid" : "AFP_ENG_20030430.0075-E48-98",
+    "start" : 14,
+    "end" : 23
+  },
+  "id" : "AFP_ENG_20030430.0075-R6-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Chief executive Andrew Harris said the company was likely to abandon plans to acquire a hotel in Sydney 's Kings Cross red light district and acquire another property three times the size in a better location .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Chief", "executive", "Andrew", "Harris", "said", "the", "company", "was", "likely", "to", "abandon", "plans", "to", "acquire", "a", "hotel", "in", "Sydney", "'s", "Kings", "Cross", "red", "light", "district", "and", "acquire", "another", "property", "three", "times", "the", "size", "in", "a", "better", "location", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Sydney's Kings Cross red light district",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "Sydney",
+    "argMentionid" : "AFP_ENG_20030430.0075-E15-99",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "AFP_ENG_20030430.0075-R7",
+  "mentionArg1" : {
+    "extent" : "Sydney's Kings Cross red light district",
+    "argMentionid" : "AFP_ENG_20030430.0075-E49-100",
+    "start" : 17,
+    "end" : 23
+  },
+  "id" : "AFP_ENG_20030430.0075-R7-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Chief executive Andrew Harris said the company was likely to abandon plans to acquire a hotel in Sydney 's Kings Cross red light district and acquire another property three times the size in a better location .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Chief", "executive", "Andrew", "Harris", "said", "the", "company", "was", "likely", "to", "abandon", "plans", "to", "acquire", "a", "hotel", "in", "Sydney", "'s", "Kings", "Cross", "red", "light", "district", "and", "acquire", "another", "property", "three", "times", "the", "size", "in", "a", "better", "location", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "another property three times the size in a better location",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "a better location",
+    "argMentionid" : "AFP_ENG_20030430.0075-E1-2",
+    "start" : 33,
+    "end" : 35
+  },
+  "relationID" : "AFP_ENG_20030430.0075-R8",
+  "mentionArg1" : {
+    "extent" : "another property three times the size in a better location",
+    "argMentionid" : "AFP_ENG_20030430.0075-E51-102",
+    "start" : 26,
+    "end" : 35
+  },
+  "id" : "AFP_ENG_20030430.0075-R8-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Chief executive Andrew Harris said the company was likely to abandon plans to acquire a hotel in Sydney 's Kings Cross red light district and acquire another property three times the size in a better location .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Chief", "executive", "Andrew", "Harris", "said", "the", "company", "was", "likely", "to", "abandon", "plans", "to", "acquire", "a", "hotel", "in", "Sydney", "'s", "Kings", "Cross", "red", "light", "district", "and", "acquire", "another", "property", "three", "times", "the", "size", "in", "a", "better", "location", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "much bigger premises in a much better location",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "a much better location",
+    "argMentionid" : "AFP_ENG_20030430.0075-E1-53",
+    "start" : 29,
+    "end" : 32
+  },
+  "relationID" : "AFP_ENG_20030430.0075-R8",
+  "mentionArg1" : {
+    "extent" : "much bigger premises in a much better location",
+    "argMentionid" : "AFP_ENG_20030430.0075-E51-52",
+    "start" : 25,
+    "end" : 32
+  },
+  "id" : "AFP_ENG_20030430.0075-R8-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "\" We want a complete one-stop adult venue -- we want a complete adult venue with adult cinemas , adult shops ... we have found much bigger premises in a much better location to create a sex Disneyland . \"",
+  "sentence_index" : 12,
+  "Tokens" : [ "\"", "We", "want", "a", "complete", "one-stop", "adult", "venue", "--", "we", "want", "a", "complete", "adult", "venue", "with", "adult", "cinemas", ",", "adult", "shops", "...", "we", "have", "found", "much", "bigger", "premises", "in", "a", "much", "better", "location", "to", "create", "a", "sex", "Disneyland", ".", "\"" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Renowned Hollywood madam",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Hollywood",
+    "argMentionid" : "AFP_ENG_20030430.0075-E6-8",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "AFP_ENG_20030430.0075-R9",
+  "mentionArg1" : {
+    "extent" : "Renowned Hollywood madam",
+    "argMentionid" : "AFP_ENG_20030430.0075-E4-7",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "AFP_ENG_20030430.0075-R9-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Renowned Hollywood madam Heidi Fleiss has been flown to Melbourne as guest of honour at Thursday 's market debut and , according to Harris , has already played a key role in attracting worldwide media attention to the event .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Renowned", "Hollywood", "madam", "Heidi", "Fleiss", "has", "been", "flown", "to", "Melbourne", "as", "guest", "of", "honour", "at", "Thursday", "'s", "market", "debut", "and", ",", "according", "to", "Harris", ",", "has", "already", "played", "a", "key", "role", "in", "attracting", "worldwide", "media", "attention", "to", "the", "event", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Renowned Hollywood madam Heidi Fleiss has been flown to Melbourne as guest of honour at Thursday's market debut and, according to Harris, has already played a key role in attracting worldwide media attention to the event",
+  "sentence_length" : 40,
+  "mentionArg2" : {
+    "extent" : "Melbourne",
+    "argMentionid" : "AFP_ENG_20030430.0075-E44-9",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "AFP_ENG_20030430.0075-R10",
+  "mentionArg1" : {
+    "extent" : "Renowned Hollywood madam Heidi Fleiss",
+    "argMentionid" : "AFP_ENG_20030430.0075-E4-16",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "AFP_ENG_20030430.0075-R10-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Renowned Hollywood madam Heidi Fleiss has been flown to Melbourne as guest of honour at Thursday 's market debut and , according to Harris , has already played a key role in attracting worldwide media attention to the event .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Renowned", "Hollywood", "madam", "Heidi", "Fleiss", "has", "been", "flown", "to", "Melbourne", "as", "guest", "of", "honour", "at", "Thursday", "'s", "market", "debut", "and", ",", "according", "to", "Harris", ",", "has", "already", "played", "a", "key", "role", "in", "attracting", "worldwide", "media", "attention", "to", "the", "event", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "likely venues in Perth, Brisbane, Sydney's western suburbs",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Perth",
+    "argMentionid" : "AFP_ENG_20030430.0075-E24-59",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "AFP_ENG_20030430.0075-R11",
+  "mentionArg1" : {
+    "extent" : "likely venues in Perth, Brisbane, Sydney's western suburbs",
+    "argMentionid" : "AFP_ENG_20030430.0075-E23-58",
+    "start" : 12,
+    "end" : 22
+  },
+  "id" : "AFP_ENG_20030430.0075-R11-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "The company is also considering franchising The Daily Planet within Australia with likely venues in Perth , Brisbane , Sydney 's western suburbs and a second venue in Melbourne .",
+  "sentence_index" : 13,
+  "Tokens" : [ "The", "company", "is", "also", "considering", "franchising", "The", "Daily", "Planet", "within", "Australia", "with", "likely", "venues", "in", "Perth", ",", "Brisbane", ",", "Sydney", "'s", "western", "suburbs", "and", "a", "second", "venue", "in", "Melbourne", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "likely venues in Perth, Brisbane, Sydney's western suburbs",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Brisbane",
+    "argMentionid" : "AFP_ENG_20030430.0075-E25-60",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "AFP_ENG_20030430.0075-R12",
+  "mentionArg1" : {
+    "extent" : "likely venues in Perth, Brisbane, Sydney's western suburbs",
+    "argMentionid" : "AFP_ENG_20030430.0075-E23-58",
+    "start" : 12,
+    "end" : 22
+  },
+  "id" : "AFP_ENG_20030430.0075-R12-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "The company is also considering franchising The Daily Planet within Australia with likely venues in Perth , Brisbane , Sydney 's western suburbs and a second venue in Melbourne .",
+  "sentence_index" : 13,
+  "Tokens" : [ "The", "company", "is", "also", "considering", "franchising", "The", "Daily", "Planet", "within", "Australia", "with", "likely", "venues", "in", "Perth", ",", "Brisbane", ",", "Sydney", "'s", "western", "suburbs", "and", "a", "second", "venue", "in", "Melbourne", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "likely venues in Perth, Brisbane, Sydney's western suburbs",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Sydney's western suburbs",
+    "argMentionid" : "AFP_ENG_20030430.0075-E26-62",
+    "start" : 19,
+    "end" : 22
+  },
+  "relationID" : "AFP_ENG_20030430.0075-R13",
+  "mentionArg1" : {
+    "extent" : "likely venues in Perth, Brisbane, Sydney's western suburbs",
+    "argMentionid" : "AFP_ENG_20030430.0075-E23-58",
+    "start" : 12,
+    "end" : 22
+  },
+  "id" : "AFP_ENG_20030430.0075-R13-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "The company is also considering franchising The Daily Planet within Australia with likely venues in Perth , Brisbane , Sydney 's western suburbs and a second venue in Melbourne .",
+  "sentence_index" : 13,
+  "Tokens" : [ "The", "company", "is", "also", "considering", "franchising", "The", "Daily", "Planet", "within", "Australia", "with", "likely", "venues", "in", "Perth", ",", "Brisbane", ",", "Sydney", "'s", "western", "suburbs", "and", "a", "second", "venue", "in", "Melbourne", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Sydney's western suburbs",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Sydney's western suburbs",
+    "argMentionid" : "AFP_ENG_20030430.0075-E26-62",
+    "start" : 19,
+    "end" : 22
+  },
+  "relationID" : "AFP_ENG_20030430.0075-R14",
+  "mentionArg1" : {
+    "extent" : "Sydney",
+    "argMentionid" : "AFP_ENG_20030430.0075-E15-61",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "AFP_ENG_20030430.0075-R14-1",
+  "relationSubType" : "Near",
+  "Sentence" : "The company is also considering franchising The Daily Planet within Australia with likely venues in Perth , Brisbane , Sydney 's western suburbs and a second venue in Melbourne .",
+  "sentence_index" : 13,
+  "Tokens" : [ "The", "company", "is", "also", "considering", "franchising", "The", "Daily", "Planet", "within", "Australia", "with", "likely", "venues", "in", "Perth", ",", "Brisbane", ",", "Sydney", "'s", "western", "suburbs", "and", "a", "second", "venue", "in", "Melbourne", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "a second venue in Melbourne",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Melbourne",
+    "argMentionid" : "AFP_ENG_20030430.0075-E44-64",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "AFP_ENG_20030430.0075-R16",
+  "mentionArg1" : {
+    "extent" : "a second venue in Melbourne",
+    "argMentionid" : "AFP_ENG_20030430.0075-E27-63",
+    "start" : 24,
+    "end" : 28
+  },
+  "id" : "AFP_ENG_20030430.0075-R16-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "The company is also considering franchising The Daily Planet within Australia with likely venues in Perth , Brisbane , Sydney 's western suburbs and a second venue in Melbourne .",
+  "sentence_index" : 13,
+  "Tokens" : [ "The", "company", "is", "also", "considering", "franchising", "The", "Daily", "Planet", "within", "Australia", "with", "likely", "venues", "in", "Perth", ",", "Brisbane", ",", "Sydney", "'s", "western", "suburbs", "and", "a", "second", "venue", "in", "Melbourne", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "two well-known US personalities",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "AFP_ENG_20030430.0075-E28-71",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "AFP_ENG_20030430.0075-R17",
+  "mentionArg1" : {
+    "extent" : "two well-known US personalities",
+    "argMentionid" : "AFP_ENG_20030430.0075-E29-70",
+    "start" : 18,
+    "end" : 21
+  },
+  "id" : "AFP_ENG_20030430.0075-R17-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "But The Daily Planet is saving its big plans for the United States where it is negotiating with two well-known US personalities to join the board .",
+  "sentence_index" : 14,
+  "Tokens" : [ "But", "The", "Daily", "Planet", "is", "saving", "its", "big", "plans", "for", "the", "United", "States", "where", "it", "is", "negotiating", "with", "two", "well-known", "US", "personalities", "to", "join", "the", "board", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a little city called Metropolis with a 150-200 room hotel in Nevada",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "a little city called Metropolis with a 150-200 room hotel in Nevada",
+    "argMentionid" : "AFP_ENG_20030430.0075-E32-77",
+    "start" : 5,
+    "end" : 16
+  },
+  "relationID" : "AFP_ENG_20030430.0075-R18",
+  "mentionArg1" : {
+    "extent" : "a 150-200 room hotel in Nevada",
+    "argMentionid" : "AFP_ENG_20030430.0075-E33-78",
+    "start" : 11,
+    "end" : 16
+  },
+  "id" : "AFP_ENG_20030430.0075-R18-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "\" We want to build a little city called Metropolis with a 150-200 room hotel in Nevada . \"",
+  "sentence_index" : 16,
+  "Tokens" : [ "\"", "We", "want", "to", "build", "a", "little", "city", "called", "Metropolis", "with", "a", "150-200", "room", "hotel", "in", "Nevada", ".", "\"" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a 150-200 room hotel in Nevada",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "a 150-200 room hotel in Nevada",
+    "argMentionid" : "AFP_ENG_20030430.0075-E33-78",
+    "start" : 11,
+    "end" : 16
+  },
+  "relationID" : "AFP_ENG_20030430.0075-R19",
+  "mentionArg1" : {
+    "extent" : "150-200 room",
+    "argMentionid" : "AFP_ENG_20030430.0075-E36-81",
+    "start" : 12,
+    "end" : 13
+  },
+  "id" : "AFP_ENG_20030430.0075-R19-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "\" We want to build a little city called Metropolis with a 150-200 room hotel in Nevada . \"",
+  "sentence_index" : 16,
+  "Tokens" : [ "\"", "We", "want", "to", "build", "a", "little", "city", "called", "Metropolis", "with", "a", "150-200", "room", "hotel", "in", "Nevada", ".", "\"" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The Daily Planet raised 3.5 million dollars (2.2 million US) in its initial public offering with one of the new 600 shareholders acquiring 1.0 million dollars worth of shares",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "its",
+    "argMentionid" : "AFP_ENG_20030430.0075-E11-4",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "AFP_ENG_20030430.0075-R20",
+  "mentionArg1" : {
+    "extent" : "one of the new 600 shareholders",
+    "argMentionid" : "AFP_ENG_20030430.0075-E2-5",
+    "start" : 18,
+    "end" : 23
+  },
+  "id" : "AFP_ENG_20030430.0075-R20-1",
+  "relationSubType" : "Investor-Shareholder",
+  "Sentence" : "The Daily Planet raised 3.5 million dollars ( 2.2 million US ) in its initial public offering with one of the new 600 shareholders acquiring 1.0 million dollars worth of shares .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "Daily", "Planet", "raised", "3.5", "million", "dollars", "(", "2.2", "million", "US", ")", "in", "its", "initial", "public", "offering", "with", "one", "of", "the", "new", "600", "shareholders", "acquiring", "1.0", "million", "dollars", "worth", "of", "shares", "." ]
+} ]

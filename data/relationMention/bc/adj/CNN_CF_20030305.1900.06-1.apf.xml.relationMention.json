@@ -1,0 +1,199 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "Don from Denver, Colorado",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Denver, Colorado",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E32-83",
+    "start" : 2,
+    "end" : 4
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-1-R1",
+  "mentionArg1" : {
+    "extent" : "Don from Denver, Colorado",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E31-82",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "CNN_CF_20030305.1900.06-1-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Don from Denver , Colorado writes , \" Paul , you keep referencing Halliburton selling equipment to Iraq \" -- which I do .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Don", "from", "Denver", ",", "Colorado", "writes", ",", "\"", "Paul", ",", "you", "keep", "referencing", "Halliburton", "selling", "equipment", "to", "Iraq", "\"", "--", "which", "I", "do", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Denver, Colorado",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "Colorado",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E33-84",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-1-R2",
+  "mentionArg1" : {
+    "extent" : "Denver, Colorado",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E32-83",
+    "start" : 2,
+    "end" : 4
+  },
+  "id" : "CNN_CF_20030305.1900.06-1-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Don from Denver , Colorado writes , \" Paul , you keep referencing Halliburton selling equipment to Iraq \" -- which I do .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Don", "from", "Denver", ",", "Colorado", "writes", ",", "\"", "Paul", ",", "you", "keep", "referencing", "Halliburton", "selling", "equipment", "to", "Iraq", "\"", "--", "which", "I", "do", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "They went through a foreign subsidiary",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "They",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E34-5",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-1-R3",
+  "mentionArg1" : {
+    "extent" : "a foreign subsidiary",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E4-6",
+    "start" : 3,
+    "end" : 5
+  },
+  "id" : "CNN_CF_20030305.1900.06-1-R3-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "They went through a foreign subsidiary .",
+  "sentence_index" : 7,
+  "Tokens" : [ "They", "went", "through", "a", "foreign", "subsidiary", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Chad Hensley, from Fairfax, Virginia",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Fairfax, Virginia",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E12-34",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-1-R4",
+  "mentionArg1" : {
+    "extent" : "Chad Hensley, from Fairfax, Virginia",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E7-67",
+    "start" : 0,
+    "end" : 6
+  },
+  "id" : "CNN_CF_20030305.1900.06-1-R4-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Chad Hensley , from Fairfax , Virginia , writes , \" France , Russia and German have all multi-billion dollar oil deals with Saddam in Iraq .",
+  "sentence_index" : 24,
+  "Tokens" : [ "Chad", "Hensley", ",", "from", "Fairfax", ",", "Virginia", ",", "writes", ",", "\"", "France", ",", "Russia", "and", "German", "have", "all", "multi-billion", "dollar", "oil", "deals", "with", "Saddam", "in", "Iraq", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Fairfax, Virginia",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Virginia",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E13-35",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-1-R5",
+  "mentionArg1" : {
+    "extent" : "Fairfax, Virginia",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E12-34",
+    "start" : 4,
+    "end" : 6
+  },
+  "id" : "CNN_CF_20030305.1900.06-1-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Chad Hensley , from Fairfax , Virginia , writes , \" France , Russia and German have all multi-billion dollar oil deals with Saddam in Iraq .",
+  "sentence_index" : 24,
+  "Tokens" : [ "Chad", "Hensley", ",", "from", "Fairfax", ",", "Virginia", ",", "writes", ",", "\"", "France", ",", "Russia", "and", "German", "have", "all", "multi-billion", "dollar", "oil", "deals", "with", "Saddam", "in", "Iraq", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Mr. Cheney's company",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "Mr. Cheney's company",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E34-4",
+    "start" : 4,
+    "end" : 7
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-1-R6",
+  "mentionArg1" : {
+    "extent" : "Mr. Cheney",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E2-2",
+    "start" : 4,
+    "end" : 5
+  },
+  "id" : "CNN_CF_20030305.1900.06-1-R6-1",
+  "relationSubType" : "Ownership",
+  "Sentence" : "They were legal because Mr. Cheney 's company used a loophole .",
+  "sentence_index" : 6,
+  "Tokens" : [ "They", "were", "legal", "because", "Mr.", "Cheney", "'s", "company", "used", "a", "loophole", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "his evil, ruthless regime",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "his evil, ruthless regime",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E6-9",
+    "start" : 7,
+    "end" : 11
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-1-R7",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E5-10",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "CNN_CF_20030305.1900.06-1-R7-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "But they did enrich Saddam Hussein and his evil , ruthless regime , and they were immoral .",
+  "sentence_index" : 8,
+  "Tokens" : [ "But", "they", "did", "enrich", "Saddam", "Hussein", "and", "his", "evil", ",", "ruthless", "regime", ",", "and", "they", "were", "immoral", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Dick Cheney should have never profited off of doing business with Saddam Hussein",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "Saddam Hussein",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E5-14",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-1-R8",
+  "mentionArg1" : {
+    "extent" : "Dick Cheney",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E2-13",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_CF_20030305.1900.06-1-R8-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Dick Cheney should have never profited off of doing business with Saddam Hussein .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Dick", "Cheney", "should", "have", "never", "profited", "off", "of", "doing", "business", "with", "Saddam", "Hussein", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his valued customers",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "his valued customers",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E9-20",
+    "start" : 12,
+    "end" : 14
+  },
+  "relationID" : "CNN_CF_20030305.1900.06-1-R9",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_CF_20030305.1900.06-1-E2-21",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "CNN_CF_20030305.1900.06-1-R9-1",
+  "relationSubType" : "Business",
+  "Sentence" : "He 's trying to lead us into a war against one of his valued customers .",
+  "sentence_index" : 14,
+  "Tokens" : [ "He", "'s", "trying", "to", "lead", "us", "into", "a", "war", "against", "one", "of", "his", "valued", "customers", "." ]
+} ]

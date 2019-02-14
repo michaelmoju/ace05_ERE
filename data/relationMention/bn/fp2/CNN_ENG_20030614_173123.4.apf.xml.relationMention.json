@@ -1,0 +1,177 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "hamas was founded in 1988 by a blind paraplegic cleric who was influenced by the islamic muslim brotherhood, with backing from israel, he set up sharities in the improverished strip in the 1970s",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "hamas",
+    "argMentionid" : "CNN_ENG_20030614_173123.4-E52-5",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_ENG_20030614_173123.4-R1",
+  "mentionArg1" : {
+    "extent" : "a blind paraplegic cleric who was influenced by the islamic muslim brotherhood",
+    "argMentionid" : "CNN_ENG_20030614_173123.4-E2-6",
+    "start" : 6,
+    "end" : 17
+  },
+  "id" : "CNN_ENG_20030614_173123.4-R1-1",
+  "relationSubType" : "Founder",
+  "Sentence" : "hamas was founded in 1988 by a blind paraplegic cleric who was influenced by the islamic muslim brotherhood , with backing from israel , he set up sharities in the improverished strip in the 1970s .",
+  "sentence_index" : 3,
+  "Tokens" : [ "hamas", "was", "founded", "in", "1988", "by", "a", "blind", "paraplegic", "cleric", "who", "was", "influenced", "by", "the", "islamic", "muslim", "brotherhood", ",", "with", "backing", "from", "israel", ",", "he", "set", "up", "sharities", "in", "the", "improverished", "strip", "in", "the", "1970s", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "hamas was founded in 1988 by a blind paraplegic cleric who was influenced by the islamic muslim brotherhood, with backing from israel, he set up sharities in the improverished strip in the 1970s",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "the improverished strip",
+    "argMentionid" : "CNN_ENG_20030614_173123.4-E5-12",
+    "start" : 29,
+    "end" : 31
+  },
+  "relationID" : "CNN_ENG_20030614_173123.4-R2",
+  "mentionArg1" : {
+    "extent" : "sharities",
+    "argMentionid" : "CNN_ENG_20030614_173123.4-E6-13",
+    "start" : 27,
+    "end" : 27
+  },
+  "id" : "CNN_ENG_20030614_173123.4-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "hamas was founded in 1988 by a blind paraplegic cleric who was influenced by the islamic muslim brotherhood , with backing from israel , he set up sharities in the improverished strip in the 1970s .",
+  "sentence_index" : 3,
+  "Tokens" : [ "hamas", "was", "founded", "in", "1988", "by", "a", "blind", "paraplegic", "cleric", "who", "was", "influenced", "by", "the", "islamic", "muslim", "brotherhood", ",", "with", "backing", "from", "israel", ",", "he", "set", "up", "sharities", "in", "the", "improverished", "strip", "in", "the", "1970s", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "an israeli army outpost in gaza",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "israeli",
+    "argMentionid" : "CNN_ENG_20030614_173123.4-E20-77",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "CNN_ENG_20030614_173123.4-R3",
+  "mentionArg1" : {
+    "extent" : "israeli army",
+    "argMentionid" : "CNN_ENG_20030614_173123.4-E40-78",
+    "start" : 20,
+    "end" : 21
+  },
+  "id" : "CNN_ENG_20030614_173123.4-R3-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "hamas and other palestinian militant group rejected abbas ' call to end their attacks with a deadly raid on an israeli army outpost in gaza .",
+  "sentence_index" : 11,
+  "Tokens" : [ "hamas", "and", "other", "palestinian", "militant", "group", "rejected", "abbas", "'", "call", "to", "end", "their", "attacks", "with", "a", "deadly", "raid", "on", "an", "israeli", "army", "outpost", "in", "gaza", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "an israeli army outpost in gaza",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "an israeli army outpost in gaza",
+    "argMentionid" : "CNN_ENG_20030614_173123.4-E41-79",
+    "start" : 19,
+    "end" : 24
+  },
+  "relationID" : "CNN_ENG_20030614_173123.4-R4",
+  "mentionArg1" : {
+    "extent" : "israeli army",
+    "argMentionid" : "CNN_ENG_20030614_173123.4-E40-78",
+    "start" : 20,
+    "end" : 21
+  },
+  "id" : "CNN_ENG_20030614_173123.4-R4-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "hamas and other palestinian militant group rejected abbas ' call to end their attacks with a deadly raid on an israeli army outpost in gaza .",
+  "sentence_index" : 11,
+  "Tokens" : [ "hamas", "and", "other", "palestinian", "militant", "group", "rejected", "abbas", "'", "call", "to", "end", "their", "attacks", "with", "a", "deadly", "raid", "on", "an", "israeli", "army", "outpost", "in", "gaza", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "an israeli army outpost in gaza",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "gaza",
+    "argMentionid" : "CNN_ENG_20030614_173123.4-E42-80",
+    "start" : 24,
+    "end" : 24
+  },
+  "relationID" : "CNN_ENG_20030614_173123.4-R5",
+  "mentionArg1" : {
+    "extent" : "an israeli army outpost in gaza",
+    "argMentionid" : "CNN_ENG_20030614_173123.4-E41-79",
+    "start" : 19,
+    "end" : 24
+  },
+  "id" : "CNN_ENG_20030614_173123.4-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "hamas and other palestinian militant group rejected abbas ' call to end their attacks with a deadly raid on an israeli army outpost in gaza .",
+  "sentence_index" : 11,
+  "Tokens" : [ "hamas", "and", "other", "palestinian", "militant", "group", "rejected", "abbas", "'", "call", "to", "end", "their", "attacks", "with", "a", "deadly", "raid", "on", "an", "israeli", "army", "outpost", "in", "gaza", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "hamas leaders targeted for assassination",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "hamas",
+    "argMentionid" : "CNN_ENG_20030614_173123.4-E52-105",
+    "start" : 35,
+    "end" : 35
+  },
+  "relationID" : "CNN_ENG_20030614_173123.4-R6",
+  "mentionArg1" : {
+    "extent" : "hamas leaders targeted for assassination",
+    "argMentionid" : "CNN_ENG_20030614_173123.4-E23-82",
+    "start" : 35,
+    "end" : 39
+  },
+  "id" : "CNN_ENG_20030614_173123.4-R6-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "reporter : since the second intifada began in 2000 , over 700 israelis have been killed , during the same time there have been more than 2,000 palestinian deaths according to the red crescent. including hamas leaders targeted for assassination .",
+  "sentence_index" : 15,
+  "Tokens" : [ "reporter", ":", "since", "the", "second", "intifada", "began", "in", "2000", ",", "over", "700", "israelis", "have", "been", "killed", ",", "during", "the", "same", "time", "there", "have", "been", "more", "than", "2,000", "palestinian", "deaths", "according", "to", "the", "red", "crescent.", "including", "hamas", "leaders", "targeted", "for", "assassination", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "hamas will not drop our weapons, even if all leaders are assassinated",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "hamas",
+    "argMentionid" : "CNN_ENG_20030614_173123.4-E52-39",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "CNN_ENG_20030614_173123.4-R6",
+  "mentionArg1" : {
+    "extent" : "all leaders",
+    "argMentionid" : "CNN_ENG_20030614_173123.4-E23-49",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "CNN_ENG_20030614_173123.4-R6-2",
+  "relationSubType" : "Membership",
+  "Sentence" : "translator : hamas will not drop our weapons , even if all leaders are assassinated .",
+  "sentence_index" : 14,
+  "Tokens" : [ "translator", ":", "hamas", "will", "not", "drop", "our", "weapons", ",", "even", "if", "all", "leaders", "are", "assassinated", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "our weapons",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "our weapons",
+    "argMentionid" : "CNN_ENG_20030614_173123.4-E54-108",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNN_ENG_20030614_173123.4-R7",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_ENG_20030614_173123.4-E52-43",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "CNN_ENG_20030614_173123.4-R7-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "translator : hamas will not drop our weapons , even if all leaders are assassinated .",
+  "sentence_index" : 14,
+  "Tokens" : [ "translator", ":", "hamas", "will", "not", "drop", "our", "weapons", ",", "even", "if", "all", "leaders", "are", "assassinated", "." ]
+} ]

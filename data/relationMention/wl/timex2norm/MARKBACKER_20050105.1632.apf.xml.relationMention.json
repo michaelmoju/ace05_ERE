@@ -1,0 +1,287 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "several OSU players",
+  "sentence_length" : 67,
+  "mentionArg2" : {
+    "extent" : "OSU",
+    "argMentionid" : "MARKBACKER_20050105.1632-E27-49",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "MARKBACKER_20050105.1632-R1",
+  "mentionArg1" : {
+    "extent" : "several OSU players",
+    "argMentionid" : "MARKBACKER_20050105.1632-E7-13",
+    "start" : 6,
+    "end" : 8
+  },
+  "id" : "MARKBACKER_20050105.1632-R1-1",
+  "relationSubType" : "Sports-Affiliation",
+  "Sentence" : "Allegations have come to light that several OSU players received illegal benefits including cash , access to cars , etc. Now , I do n't expect the AD and coach to know everything , but when a player is driving a brand new car every couple of weeks or months , well , somebody ought to jot a memo and get to the bottom of that .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Allegations", "have", "come", "to", "light", "that", "several", "OSU", "players", "received", "illegal", "benefits", "including", "cash", ",", "access", "to", "cars", ",", "etc.", "Now", ",", "I", "do", "n't", "expect", "the", "AD", "and", "coach", "to", "know", "everything", ",", "but", "when", "a", "player", "is", "driving", "a", "brand", "new", "car", "every", "couple", "of", "weeks", "or", "months", ",", "well", ",", "somebody", "ought", "to", "jot", "a", "memo", "and", "get", "to", "the", "bottom", "of", "that", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "It seems they had a very important and very ineligible player that season, and maybe many",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "they",
+    "argMentionid" : "MARKBACKER_20050105.1632-E27-51",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "MARKBACKER_20050105.1632-R2",
+  "mentionArg1" : {
+    "extent" : "a very important and very ineligible player",
+    "argMentionid" : "MARKBACKER_20050105.1632-E3-36",
+    "start" : 4,
+    "end" : 10
+  },
+  "id" : "MARKBACKER_20050105.1632-R2-1",
+  "relationSubType" : "Sports-Affiliation",
+  "Sentence" : "It seems they had a very important and very ineligible player that season , and maybe many .",
+  "sentence_index" : 12,
+  "Tokens" : [ "It", "seems", "they", "had", "a", "very", "important", "and", "very", "ineligible", "player", "that", "season", ",", "and", "maybe", "many", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "AD and frequent \"No we didn't\" Ohio State front man",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "Ohio State",
+    "argMentionid" : "MARKBACKER_20050105.1632-E27-50",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "MARKBACKER_20050105.1632-R3",
+  "mentionArg1" : {
+    "extent" : "AD and frequent \"No we didn't\" Ohio State front man",
+    "argMentionid" : "MARKBACKER_20050105.1632-E39-69",
+    "start" : 3,
+    "end" : 14
+  },
+  "id" : "MARKBACKER_20050105.1632-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "It seems that AD and frequent \" No we didn't \" Ohio State front man Andy Geiger is \" retiring \" after 11 years at the helm .",
+  "sentence_index" : 1,
+  "Tokens" : [ "It", "seems", "that", "AD", "and", "frequent", "\"", "No", "we", "didn't", "\"", "Ohio", "State", "front", "man", "Andy", "Geiger", "is", "\"", "retiring", "\"", "after", "11", "years", "at", "the", "helm", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their athletes in general",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "their athletes in general",
+    "argMentionid" : "MARKBACKER_20050105.1632-E2-2",
+    "start" : 30,
+    "end" : 33
+  },
+  "relationID" : "MARKBACKER_20050105.1632-R4",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "MARKBACKER_20050105.1632-E6-55",
+    "start" : 30,
+    "end" : 30
+  },
+  "id" : "MARKBACKER_20050105.1632-R4-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Maybe it 's me , but I 'm guessing Andy 's tired of putting on TV makeup and going on the news lying about what he or Tressel knew about their athletes in general and their football program in particular .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Maybe", "it", "'s", "me", ",", "but", "I", "'m", "guessing", "Andy", "'s", "tired", "of", "putting", "on", "TV", "makeup", "and", "going", "on", "the", "news", "lying", "about", "what", "he", "or", "Tressel", "knew", "about", "their", "athletes", "in", "general", "and", "their", "football", "program", "in", "particular", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "It shouldn't surprise Buckeye fans either, since Tressel had similar problems at Youngstown State, and left a wake of controversy behind himself there as well, including (surprise) illegal benefits including cash, cars, grade fixing, etc",
+  "sentence_length" : 63,
+  "mentionArg2" : {
+    "extent" : "Youngstown State",
+    "argMentionid" : "MARKBACKER_20050105.1632-E11-21",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "MARKBACKER_20050105.1632-R5",
+  "mentionArg1" : {
+    "extent" : "Tressel",
+    "argMentionid" : "MARKBACKER_20050105.1632-E1-20",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "MARKBACKER_20050105.1632-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "It should n't surprise Buckeye fans either , since Tressel had similar problems at Youngstown State , and left a wake of controversy behind himself there as well , including ( surprise ) illegal benefits including cash , cars , grade fixing , etc. Geiger is also tired from saying \" we did n't do anything wrong \" about his basketball program .",
+  "sentence_index" : 9,
+  "Tokens" : [ "It", "should", "n't", "surprise", "Buckeye", "fans", "either", ",", "since", "Tressel", "had", "similar", "problems", "at", "Youngstown", "State", ",", "and", "left", "a", "wake", "of", "controversy", "behind", "himself", "there", "as", "well", ",", "including", "(", "surprise", ")", "illegal", "benefits", "including", "cash", ",", "cars", ",", "grade", "fixing", ",", "etc.", "Geiger", "is", "also", "tired", "from", "saying", "\"", "we", "did", "n't", "do", "anything", "wrong", "\"", "about", "his", "basketball", "program", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his men's basketball coach",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "his men's basketball coach",
+    "argMentionid" : "MARKBACKER_20050105.1632-E13-25",
+    "start" : 7,
+    "end" : 11
+  },
+  "relationID" : "MARKBACKER_20050105.1632-R6",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "MARKBACKER_20050105.1632-E39-53",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "MARKBACKER_20050105.1632-R6-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Of course , it was discovered that his men 's basketball coach had directly given six grand to a Yugoslavian recruit , but that was just his stipend for travel and coach Jim O'Brien was just having a problem with the currency exchange rates ... right Andy ?",
+  "sentence_index" : 10,
+  "Tokens" : [ "Of", "course", ",", "it", "was", "discovered", "that", "his", "men", "'s", "basketball", "coach", "had", "directly", "given", "six", "grand", "to", "a", "Yugoslavian", "recruit", ",", "but", "that", "was", "just", "his", "stipend", "for", "travel", "and", "coach", "Jim", "O'Brien", "was", "just", "having", "a", "problem", "with", "the", "currency", "exchange", "rates", "...", "right", "Andy", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a Yugoslavian recruit",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "Yugoslavian",
+    "argMentionid" : "MARKBACKER_20050105.1632-E15-27",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "MARKBACKER_20050105.1632-R7",
+  "mentionArg1" : {
+    "extent" : "a Yugoslavian recruit",
+    "argMentionid" : "MARKBACKER_20050105.1632-E14-26",
+    "start" : 18,
+    "end" : 20
+  },
+  "id" : "MARKBACKER_20050105.1632-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Of course , it was discovered that his men 's basketball coach had directly given six grand to a Yugoslavian recruit , but that was just his stipend for travel and coach Jim O'Brien was just having a problem with the currency exchange rates ... right Andy ?",
+  "sentence_index" : 10,
+  "Tokens" : [ "Of", "course", ",", "it", "was", "discovered", "that", "his", "men", "'s", "basketball", "coach", "had", "directly", "given", "six", "grand", "to", "a", "Yugoslavian", "recruit", ",", "but", "that", "was", "just", "his", "stipend", "for", "travel", "and", "coach", "Jim", "O'Brien", "was", "just", "having", "a", "problem", "with", "the", "currency", "exchange", "rates", "...", "right", "Andy", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the UGA basketball program",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "UGA",
+    "argMentionid" : "MARKBACKER_20050105.1632-E30-57",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "MARKBACKER_20050105.1632-R8",
+  "mentionArg1" : {
+    "extent" : "the UGA basketball program",
+    "argMentionid" : "MARKBACKER_20050105.1632-E35-63",
+    "start" : 16,
+    "end" : 19
+  },
+  "id" : "MARKBACKER_20050105.1632-R8-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "Mark Backer 2005-01-05T16:32:00 Much like the \" I told you so's \" everyone is throwing at the UGA basketball program after their hiring and subsequent firing of The Harricks , folks around the Buckeye state have to be having similar thoughts .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Mark", "Backer", "2005-01-05T16:32:00", "Much", "like", "the", "\"", "I", "told", "you", "so's", "\"", "everyone", "is", "throwing", "at", "the", "UGA", "basketball", "program", "after", "their", "hiring", "and", "subsequent", "firing", "of", "The", "Harricks", ",", "folks", "around", "the", "Buckeye", "state", "have", "to", "be", "having", "similar", "thoughts", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "folks around the Buckeye state",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "the Buckeye state",
+    "argMentionid" : "MARKBACKER_20050105.1632-E37-65",
+    "start" : 32,
+    "end" : 34
+  },
+  "relationID" : "MARKBACKER_20050105.1632-R9",
+  "mentionArg1" : {
+    "extent" : "folks around the Buckeye state",
+    "argMentionid" : "MARKBACKER_20050105.1632-E38-66",
+    "start" : 30,
+    "end" : 34
+  },
+  "id" : "MARKBACKER_20050105.1632-R9-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Mark Backer 2005-01-05T16:32:00 Much like the \" I told you so's \" everyone is throwing at the UGA basketball program after their hiring and subsequent firing of The Harricks , folks around the Buckeye state have to be having similar thoughts .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Mark", "Backer", "2005-01-05T16:32:00", "Much", "like", "the", "\"", "I", "told", "you", "so's", "\"", "everyone", "is", "throwing", "at", "the", "UGA", "basketball", "program", "after", "their", "hiring", "and", "subsequent", "firing", "of", "The", "Harricks", ",", "folks", "around", "the", "Buckeye", "state", "have", "to", "be", "having", "similar", "thoughts", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "their football program in particular",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "their football program in particular",
+    "argMentionid" : "MARKBACKER_20050105.1632-E24-43",
+    "start" : 35,
+    "end" : 39
+  },
+  "relationID" : "MARKBACKER_20050105.1632-R10",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "MARKBACKER_20050105.1632-E6-54",
+    "start" : 35,
+    "end" : 35
+  },
+  "id" : "MARKBACKER_20050105.1632-R10-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Maybe it 's me , but I 'm guessing Andy 's tired of putting on TV makeup and going on the news lying about what he or Tressel knew about their athletes in general and their football program in particular .",
+  "sentence_index" : 2,
+  "Tokens" : [ "Maybe", "it", "'s", "me", ",", "but", "I", "'m", "guessing", "Andy", "'s", "tired", "of", "putting", "on", "TV", "makeup", "and", "going", "on", "the", "news", "lying", "about", "what", "he", "or", "Tressel", "knew", "about", "their", "athletes", "in", "general", "and", "their", "football", "program", "in", "particular", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "Now, I don't expect the AD and coach to know everything, but when a player is driving a brand new car every couple of weeks or months, well, somebody ought to jot a memo and get to the bottom of that",
+  "sentence_length" : 67,
+  "mentionArg2" : {
+    "extent" : "a brand new car",
+    "argMentionid" : "MARKBACKER_20050105.1632-E25-44",
+    "start" : 40,
+    "end" : 43
+  },
+  "relationID" : "MARKBACKER_20050105.1632-R11",
+  "mentionArg1" : {
+    "extent" : "a player",
+    "argMentionid" : "MARKBACKER_20050105.1632-E8-17",
+    "start" : 36,
+    "end" : 37
+  },
+  "id" : "MARKBACKER_20050105.1632-R11-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Allegations have come to light that several OSU players received illegal benefits including cash , access to cars , etc. Now , I do n't expect the AD and coach to know everything , but when a player is driving a brand new car every couple of weeks or months , well , somebody ought to jot a memo and get to the bottom of that .",
+  "sentence_index" : 8,
+  "Tokens" : [ "Allegations", "have", "come", "to", "light", "that", "several", "OSU", "players", "received", "illegal", "benefits", "including", "cash", ",", "access", "to", "cars", ",", "etc.", "Now", ",", "I", "do", "n't", "expect", "the", "AD", "and", "coach", "to", "know", "everything", ",", "but", "when", "a", "player", "is", "driving", "a", "brand", "new", "car", "every", "couple", "of", "weeks", "or", "months", ",", "well", ",", "somebody", "ought", "to", "jot", "a", "memo", "and", "get", "to", "the", "bottom", "of", "that", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "his basketball program",
+  "sentence_length" : 63,
+  "mentionArg2" : {
+    "extent" : "his basketball program",
+    "argMentionid" : "MARKBACKER_20050105.1632-E22-40",
+    "start" : 59,
+    "end" : 61
+  },
+  "relationID" : "MARKBACKER_20050105.1632-R12",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "MARKBACKER_20050105.1632-E39-52",
+    "start" : 59,
+    "end" : 59
+  },
+  "id" : "MARKBACKER_20050105.1632-R12-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "It should n't surprise Buckeye fans either , since Tressel had similar problems at Youngstown State , and left a wake of controversy behind himself there as well , including ( surprise ) illegal benefits including cash , cars , grade fixing , etc. Geiger is also tired from saying \" we did n't do anything wrong \" about his basketball program .",
+  "sentence_index" : 9,
+  "Tokens" : [ "It", "should", "n't", "surprise", "Buckeye", "fans", "either", ",", "since", "Tressel", "had", "similar", "problems", "at", "Youngstown", "State", ",", "and", "left", "a", "wake", "of", "controversy", "behind", "himself", "there", "as", "well", ",", "including", "(", "surprise", ")", "illegal", "benefits", "including", "cash", ",", "cars", ",", "grade", "fixing", ",", "etc.", "Geiger", "is", "also", "tired", "from", "saying", "\"", "we", "did", "n't", "do", "anything", "wrong", "\"", "about", "his", "basketball", "program", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Much like the \"I told you so's\" everyone is throwing at the UGA basketball program after their hiring and subsequent firing of The Harricks, folks around the Buckeye state have to be having similar thoughts",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "their",
+    "argMentionid" : "MARKBACKER_20050105.1632-E35-56",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "MARKBACKER_20050105.1632-R13",
+  "mentionArg1" : {
+    "extent" : "The Harricks",
+    "argMentionid" : "MARKBACKER_20050105.1632-E36-64",
+    "start" : 27,
+    "end" : 28
+  },
+  "id" : "MARKBACKER_20050105.1632-R13-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Mark Backer 2005-01-05T16:32:00 Much like the \" I told you so's \" everyone is throwing at the UGA basketball program after their hiring and subsequent firing of The Harricks , folks around the Buckeye state have to be having similar thoughts .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Mark", "Backer", "2005-01-05T16:32:00", "Much", "like", "the", "\"", "I", "told", "you", "so's", "\"", "everyone", "is", "throwing", "at", "the", "UGA", "basketball", "program", "after", "their", "hiring", "and", "subsequent", "firing", "of", "The", "Harricks", ",", "folks", "around", "the", "Buckeye", "state", "have", "to", "be", "having", "similar", "thoughts", "." ]
+} ]

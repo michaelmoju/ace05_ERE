@@ -1,0 +1,287 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "well, also in england, he's rich, handsome, got millions of adoring fans, and today he celebrates a birthday, big 21",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "england",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E21-1",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_ENG_20030621_160254.25-R1",
+  "mentionArg1" : {
+    "extent" : "he",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E10-86",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "CNN_ENG_20030621_160254.25-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "well , also in england , he 's rich , handsome , got millions of adoring fans , and today he celebrates a birthday , big 21. prince william , second in line to the british throne , cnn 's walter rodgers has the story .",
+  "sentence_index" : 0,
+  "Tokens" : [ "well", ",", "also", "in", "england", ",", "he", "'s", "rich", ",", "handsome", ",", "got", "millions", "of", "adoring", "fans", ",", "and", "today", "he", "celebrates", "a", "birthday", ",", "big", "21.", "prince", "william", ",", "second", "in", "line", "to", "the", "british", "throne", ",", "cnn", "'s", "walter", "rodgers", "has", "the", "story", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "cnn's walter rodgers",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "cnn",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E49-96",
+    "start" : 38,
+    "end" : 38
+  },
+  "relationID" : "CNN_ENG_20030621_160254.25-R2",
+  "mentionArg1" : {
+    "extent" : "cnn's walter rodgers",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E48-95",
+    "start" : 38,
+    "end" : 41
+  },
+  "id" : "CNN_ENG_20030621_160254.25-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "well , also in england , he 's rich , handsome , got millions of adoring fans , and today he celebrates a birthday , big 21. prince william , second in line to the british throne , cnn 's walter rodgers has the story .",
+  "sentence_index" : 0,
+  "Tokens" : [ "well", ",", "also", "in", "england", ",", "he", "'s", "rich", ",", "handsome", ",", "got", "millions", "of", "adoring", "fans", ",", "and", "today", "he", "celebrates", "a", "birthday", ",", "big", "21.", "prince", "william", ",", "second", "in", "line", "to", "the", "british", "throne", ",", "cnn", "'s", "walter", "rodgers", "has", "the", "story", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "an english prince",
+  "sentence_length" : 106,
+  "mentionArg2" : {
+    "extent" : "english",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E21-100",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "CNN_ENG_20030621_160254.25-R3",
+  "mentionArg1" : {
+    "extent" : "an english prince",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E50-97",
+    "start" : 7,
+    "end" : 9
+  },
+  "id" : "CNN_ENG_20030621_160254.25-R3-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "reporter : in days of yore , an english prince , a king in waiting would be charging off to battle on a horse , just before his 21st birthday , prince william is chasing a polo ball , such of what has become of the british monarchy over time. buckingham palace released his pictures of william , brother harry and their father , prince charles in what some see as a skilled marketing campaign to sell the monarchy to the next generation of britains. after 15 years of scandals and embarrassment , many see prince william as the house of windsor 's only hope .",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "in", "days", "of", "yore", ",", "an", "english", "prince", ",", "a", "king", "in", "waiting", "would", "be", "charging", "off", "to", "battle", "on", "a", "horse", ",", "just", "before", "his", "21st", "birthday", ",", "prince", "william", "is", "chasing", "a", "polo", "ball", ",", "such", "of", "what", "has", "become", "of", "the", "british", "monarchy", "over", "time.", "buckingham", "palace", "released", "his", "pictures", "of", "william", ",", "brother", "harry", "and", "their", "father", ",", "prince", "charles", "in", "what", "some", "see", "as", "a", "skilled", "marketing", "campaign", "to", "sell", "the", "monarchy", "to", "the", "next", "generation", "of", "britains.", "after", "15", "years", "of", "scandals", "and", "embarrassment", ",", "many", "see", "prince", "william", "as", "the", "house", "of", "windsor", "'s", "only", "hope", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "buckingham palace released his pictures of william, brother harry and their father, prince charles in what some see as a skilled marketing campaign to sell the monarchy to the next generation of britains",
+  "sentence_length" : 106,
+  "mentionArg2" : {
+    "extent" : "brother",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E1-4",
+    "start" : 58,
+    "end" : 58
+  },
+  "relationID" : "CNN_ENG_20030621_160254.25-R4",
+  "mentionArg1" : {
+    "extent" : "william",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E10-2",
+    "start" : 56,
+    "end" : 56
+  },
+  "id" : "CNN_ENG_20030621_160254.25-R4-1",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : in days of yore , an english prince , a king in waiting would be charging off to battle on a horse , just before his 21st birthday , prince william is chasing a polo ball , such of what has become of the british monarchy over time. buckingham palace released his pictures of william , brother harry and their father , prince charles in what some see as a skilled marketing campaign to sell the monarchy to the next generation of britains. after 15 years of scandals and embarrassment , many see prince william as the house of windsor 's only hope .",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "in", "days", "of", "yore", ",", "an", "english", "prince", ",", "a", "king", "in", "waiting", "would", "be", "charging", "off", "to", "battle", "on", "a", "horse", ",", "just", "before", "his", "21st", "birthday", ",", "prince", "william", "is", "chasing", "a", "polo", "ball", ",", "such", "of", "what", "has", "become", "of", "the", "british", "monarchy", "over", "time.", "buckingham", "palace", "released", "his", "pictures", "of", "william", ",", "brother", "harry", "and", "their", "father", ",", "prince", "charles", "in", "what", "some", "see", "as", "a", "skilled", "marketing", "campaign", "to", "sell", "the", "monarchy", "to", "the", "next", "generation", "of", "britains.", "after", "15", "years", "of", "scandals", "and", "embarrassment", ",", "many", "see", "prince", "william", "as", "the", "house", "of", "windsor", "'s", "only", "hope", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their father",
+  "sentence_length" : 106,
+  "mentionArg2" : {
+    "extent" : "their father",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E4-6",
+    "start" : 61,
+    "end" : 62
+  },
+  "relationID" : "CNN_ENG_20030621_160254.25-R5",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E3-5",
+    "start" : 61,
+    "end" : 61
+  },
+  "id" : "CNN_ENG_20030621_160254.25-R5-1",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : in days of yore , an english prince , a king in waiting would be charging off to battle on a horse , just before his 21st birthday , prince william is chasing a polo ball , such of what has become of the british monarchy over time. buckingham palace released his pictures of william , brother harry and their father , prince charles in what some see as a skilled marketing campaign to sell the monarchy to the next generation of britains. after 15 years of scandals and embarrassment , many see prince william as the house of windsor 's only hope .",
+  "sentence_index" : 1,
+  "Tokens" : [ "reporter", ":", "in", "days", "of", "yore", ",", "an", "english", "prince", ",", "a", "king", "in", "waiting", "would", "be", "charging", "off", "to", "battle", "on", "a", "horse", ",", "just", "before", "his", "21st", "birthday", ",", "prince", "william", "is", "chasing", "a", "polo", "ball", ",", "such", "of", "what", "has", "become", "of", "the", "british", "monarchy", "over", "time.", "buckingham", "palace", "released", "his", "pictures", "of", "william", ",", "brother", "harry", "and", "their", "father", ",", "prince", "charles", "in", "what", "some", "see", "as", "a", "skilled", "marketing", "campaign", "to", "sell", "the", "monarchy", "to", "the", "next", "generation", "of", "britains.", "after", "15", "years", "of", "scandals", "and", "embarrassment", ",", "many", "see", "prince", "william", "as", "the", "house", "of", "windsor", "'s", "only", "hope", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his mother",
+  "sentence_length" : 77,
+  "mentionArg2" : {
+    "extent" : "his mother",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E15-29",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "CNN_ENG_20030621_160254.25-R6",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E10-30",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "CNN_ENG_20030621_160254.25-R6-1",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : william does not lack for fans. those who wept when his mother , princess di anna , died , apparently transfered their affection to her eldest son. he is part teen idol , part king in the making , but unlike his father , prince charles , who is likely to precede him to the throne , this prince sustains -- disdains being called your royal highness , signing his name , william wales .",
+  "sentence_index" : 3,
+  "Tokens" : [ "reporter", ":", "william", "does", "not", "lack", "for", "fans.", "those", "who", "wept", "when", "his", "mother", ",", "princess", "di", "anna", ",", "died", ",", "apparently", "transfered", "their", "affection", "to", "her", "eldest", "son.", "he", "is", "part", "teen", "idol", ",", "part", "king", "in", "the", "making", ",", "but", "unlike", "his", "father", ",", "prince", "charles", ",", "who", "is", "likely", "to", "precede", "him", "to", "the", "throne", ",", "this", "prince", "sustains", "--", "disdains", "being", "called", "your", "royal", "highness", ",", "signing", "his", "name", ",", "william", "wales", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "her eldest son",
+  "sentence_length" : 77,
+  "mentionArg2" : {
+    "extent" : "her",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E15-34",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "CNN_ENG_20030621_160254.25-R6",
+  "mentionArg1" : {
+    "extent" : "her eldest son",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E10-35",
+    "start" : 26,
+    "end" : 28
+  },
+  "id" : "CNN_ENG_20030621_160254.25-R6-2",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : william does not lack for fans. those who wept when his mother , princess di anna , died , apparently transfered their affection to her eldest son. he is part teen idol , part king in the making , but unlike his father , prince charles , who is likely to precede him to the throne , this prince sustains -- disdains being called your royal highness , signing his name , william wales .",
+  "sentence_index" : 3,
+  "Tokens" : [ "reporter", ":", "william", "does", "not", "lack", "for", "fans.", "those", "who", "wept", "when", "his", "mother", ",", "princess", "di", "anna", ",", "died", ",", "apparently", "transfered", "their", "affection", "to", "her", "eldest", "son.", "he", "is", "part", "teen", "idol", ",", "part", "king", "in", "the", "making", ",", "but", "unlike", "his", "father", ",", "prince", "charles", ",", "who", "is", "likely", "to", "precede", "him", "to", "the", "throne", ",", "this", "prince", "sustains", "--", "disdains", "being", "called", "your", "royal", "highness", ",", "signing", "his", "name", ",", "william", "wales", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his mother",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "his mother",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E15-75",
+    "start" : 16,
+    "end" : 17
+  },
+  "relationID" : "CNN_ENG_20030621_160254.25-R6",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E10-74",
+    "start" : 16,
+    "end" : 16
+  },
+  "id" : "CNN_ENG_20030621_160254.25-R6-3",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : the younger king in the making calls britain's next king pa. william , once his mother 's confidante and protector now sees the apple of his father 's eye .",
+  "sentence_index" : 7,
+  "Tokens" : [ "reporter", ":", "the", "younger", "king", "in", "the", "making", "calls", "britain's", "next", "king", "pa.", "william", ",", "once", "his", "mother", "'s", "confidante", "and", "protector", "now", "sees", "the", "apple", "of", "his", "father", "'s", "eye", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his father",
+  "sentence_length" : 77,
+  "mentionArg2" : {
+    "extent" : "his father",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E4-43",
+    "start" : 43,
+    "end" : 44
+  },
+  "relationID" : "CNN_ENG_20030621_160254.25-R8",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E10-40",
+    "start" : 43,
+    "end" : 43
+  },
+  "id" : "CNN_ENG_20030621_160254.25-R8-1",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : william does not lack for fans. those who wept when his mother , princess di anna , died , apparently transfered their affection to her eldest son. he is part teen idol , part king in the making , but unlike his father , prince charles , who is likely to precede him to the throne , this prince sustains -- disdains being called your royal highness , signing his name , william wales .",
+  "sentence_index" : 3,
+  "Tokens" : [ "reporter", ":", "william", "does", "not", "lack", "for", "fans.", "those", "who", "wept", "when", "his", "mother", ",", "princess", "di", "anna", ",", "died", ",", "apparently", "transfered", "their", "affection", "to", "her", "eldest", "son.", "he", "is", "part", "teen", "idol", ",", "part", "king", "in", "the", "making", ",", "but", "unlike", "his", "father", ",", "prince", "charles", ",", "who", "is", "likely", "to", "precede", "him", "to", "the", "throne", ",", "this", "prince", "sustains", "--", "disdains", "being", "called", "your", "royal", "highness", ",", "signing", "his", "name", ",", "william", "wales", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "father and son",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "father",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E4-67",
+    "start" : 39,
+    "end" : 39
+  },
+  "relationID" : "CNN_ENG_20030621_160254.25-R8",
+  "mentionArg1" : {
+    "extent" : "son",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E10-68",
+    "start" : 41,
+    "end" : 41
+  },
+  "id" : "CNN_ENG_20030621_160254.25-R8-2",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : prince william is most at ease with those closest to him. those he can trust not to run to britain's gossipy feed ya. despite prince charles ' ugly divorce with princess di anna , the affection between father and son is now palpable and enviable .",
+  "sentence_index" : 5,
+  "Tokens" : [ "reporter", ":", "prince", "william", "is", "most", "at", "ease", "with", "those", "closest", "to", "him.", "those", "he", "can", "trust", "not", "to", "run", "to", "britain's", "gossipy", "feed", "ya.", "despite", "prince", "charles", "'", "ugly", "divorce", "with", "princess", "di", "anna", ",", "the", "affection", "between", "father", "and", "son", "is", "now", "palpable", "and", "enviable", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his father",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "his father",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E4-79",
+    "start" : 27,
+    "end" : 28
+  },
+  "relationID" : "CNN_ENG_20030621_160254.25-R8",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E10-78",
+    "start" : 27,
+    "end" : 27
+  },
+  "id" : "CNN_ENG_20030621_160254.25-R8-3",
+  "relationSubType" : "Family",
+  "Sentence" : "reporter : the younger king in the making calls britain's next king pa. william , once his mother 's confidante and protector now sees the apple of his father 's eye .",
+  "sentence_index" : 7,
+  "Tokens" : [ "reporter", ":", "the", "younger", "king", "in", "the", "making", "calls", "britain's", "next", "king", "pa.", "william", ",", "once", "his", "mother", "'s", "confidante", "and", "protector", "now", "sees", "the", "apple", "of", "his", "father", "'s", "eye", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "britain's next king",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "britain",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E21-72",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNN_ENG_20030621_160254.25-R10",
+  "mentionArg1" : {
+    "extent" : "britain's next king",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E4-71",
+    "start" : 9,
+    "end" : 11
+  },
+  "id" : "CNN_ENG_20030621_160254.25-R10-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "reporter : the younger king in the making calls britain's next king pa. william , once his mother 's confidante and protector now sees the apple of his father 's eye .",
+  "sentence_index" : 7,
+  "Tokens" : [ "reporter", ":", "the", "younger", "king", "in", "the", "making", "calls", "britain's", "next", "king", "pa.", "william", ",", "once", "his", "mother", "'s", "confidante", "and", "protector", "now", "sees", "the", "apple", "of", "his", "father", "'s", "eye", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "friends of the future king",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "the future king",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E10-85",
+    "start" : 25,
+    "end" : 27
+  },
+  "relationID" : "CNN_ENG_20030621_160254.25-R13",
+  "mentionArg1" : {
+    "extent" : "friends of the future king",
+    "argMentionid" : "CNN_ENG_20030621_160254.25-E39-84",
+    "start" : 23,
+    "end" : 27
+  },
+  "id" : "CNN_ENG_20030621_160254.25-R13-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "reporter : there 's a huge birthday bash for william at windsor castle , more than 300 guests invited , all ffk , friends of the future king. that birthday party has now been under way about",
+  "sentence_index" : 9,
+  "Tokens" : [ "reporter", ":", "there", "'s", "a", "huge", "birthday", "bash", "for", "william", "at", "windsor", "castle", ",", "more", "than", "300", "guests", "invited", ",", "all", "ffk", ",", "friends", "of", "the", "future", "king.", "that", "birthday", "party", "has", "now", "been", "under", "way", "about" ]
+} ]

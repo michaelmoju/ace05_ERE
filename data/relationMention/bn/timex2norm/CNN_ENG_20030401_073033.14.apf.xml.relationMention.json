@@ -1,0 +1,89 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "the dying regime if iraq",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "iraq",
+    "argMentionid" : "CNN_ENG_20030401_073033.14-E19-53",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_ENG_20030401_073033.14-R1",
+  "mentionArg1" : {
+    "extent" : "the dying regime if iraq",
+    "argMentionid" : "CNN_ENG_20030401_073033.14-E18-52",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "CNN_ENG_20030401_073033.14-R1-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "the dying regime if iraq may try to bring terror to our shore shores. other parts of the global terror network may view this as a moment to strike , thinking that we 're distracted. they 're wrong .",
+  "sentence_index" : 1,
+  "Tokens" : [ "the", "dying", "regime", "if", "iraq", "may", "try", "to", "bring", "terror", "to", "our", "shore", "shores.", "other", "parts", "of", "the", "global", "terror", "network", "may", "view", "this", "as", "a", "moment", "to", "strike", ",", "thinking", "that", "we", "'re", "distracted.", "they", "'re", "wrong", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "other parts of the global terror network",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "the global terror network",
+    "argMentionid" : "CNN_ENG_20030401_073033.14-E22-58",
+    "start" : 17,
+    "end" : 20
+  },
+  "relationID" : "CNN_ENG_20030401_073033.14-R2",
+  "mentionArg1" : {
+    "extent" : "other parts of the global terror network",
+    "argMentionid" : "CNN_ENG_20030401_073033.14-E21-57",
+    "start" : 14,
+    "end" : 20
+  },
+  "id" : "CNN_ENG_20030401_073033.14-R2-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "the dying regime if iraq may try to bring terror to our shore shores. other parts of the global terror network may view this as a moment to strike , thinking that we 're distracted. they 're wrong .",
+  "sentence_index" : 1,
+  "Tokens" : [ "the", "dying", "regime", "if", "iraq", "may", "try", "to", "bring", "terror", "to", "our", "shore", "shores.", "other", "parts", "of", "the", "global", "terror", "network", "may", "view", "this", "as", "a", "moment", "to", "strike", ",", "thinking", "that", "we", "'re", "distracted.", "they", "'re", "wrong", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the global terror network",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "global",
+    "argMentionid" : "CNN_ENG_20030401_073033.14-E23-59",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "CNN_ENG_20030401_073033.14-R3",
+  "mentionArg1" : {
+    "extent" : "the global terror network",
+    "argMentionid" : "CNN_ENG_20030401_073033.14-E22-58",
+    "start" : 17,
+    "end" : 20
+  },
+  "id" : "CNN_ENG_20030401_073033.14-R3-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "the dying regime if iraq may try to bring terror to our shore shores. other parts of the global terror network may view this as a moment to strike , thinking that we 're distracted. they 're wrong .",
+  "sentence_index" : 1,
+  "Tokens" : [ "the", "dying", "regime", "if", "iraq", "may", "try", "to", "bring", "terror", "to", "our", "shore", "shores.", "other", "parts", "of", "the", "global", "terror", "network", "may", "view", "this", "as", "a", "moment", "to", "strike", ",", "thinking", "that", "we", "'re", "distracted.", "they", "'re", "wrong", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "we're vulnerable right out on the streets here",
+  "sentence_length" : 183,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_ENG_20030401_073033.14-E15-41",
+    "start" : 135,
+    "end" : 135
+  },
+  "relationID" : "CNN_ENG_20030401_073033.14-R4",
+  "mentionArg1" : {
+    "extent" : "the streets",
+    "argMentionid" : "CNN_ENG_20030401_073033.14-E10-40",
+    "start" : 133,
+    "end" : 134
+  },
+  "id" : "CNN_ENG_20030401_073033.14-R4-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "well , quite vulnerable in some places and yet we 've made great strides. the access i had was not only at top but the people who were on the front lines. and this is really the behind the scenes story of everything they had been doing to make this country safer. i think we decided on the morning of september 12th we 're not going to be victim , we 're not just going to sit there. we 're going to try to do something. we 're not just going to say we 're lucky we did n't get attacked today. in the ports , at the airports , even with our food supply , we have taken all kinds of steps. but we are vulnerable. we 're vulnerable right out on the streets here. we 're vulnerable in mass transit systems because we ca n't involve this problem infin any lu we 've made good strides in the last we're. that 's the story i try to to tell about the men and women who have brought us this point .",
+  "sentence_index" : 8,
+  "Tokens" : [ "well", ",", "quite", "vulnerable", "in", "some", "places", "and", "yet", "we", "'ve", "made", "great", "strides.", "the", "access", "i", "had", "was", "not", "only", "at", "top", "but", "the", "people", "who", "were", "on", "the", "front", "lines.", "and", "this", "is", "really", "the", "behind", "the", "scenes", "story", "of", "everything", "they", "had", "been", "doing", "to", "make", "this", "country", "safer.", "i", "think", "we", "decided", "on", "the", "morning", "of", "september", "12th", "we", "'re", "not", "going", "to", "be", "victim", ",", "we", "'re", "not", "just", "going", "to", "sit", "there.", "we", "'re", "going", "to", "try", "to", "do", "something.", "we", "'re", "not", "just", "going", "to", "say", "we", "'re", "lucky", "we", "did", "n't", "get", "attacked", "today.", "in", "the", "ports", ",", "at", "the", "airports", ",", "even", "with", "our", "food", "supply", ",", "we", "have", "taken", "all", "kinds", "of", "steps.", "but", "we", "are", "vulnerable.", "we", "'re", "vulnerable", "right", "out", "on", "the", "streets", "here.", "we", "'re", "vulnerable", "in", "mass", "transit", "systems", "because", "we", "ca", "n't", "involve", "this", "problem", "infin", "any", "lu", "we", "'ve", "made", "good", "strides", "in", "the", "last", "we're.", "that", "'s", "the", "story", "i", "try", "to", "to", "tell", "about", "the", "men", "and", "women", "who", "have", "brought", "us", "this", "point", "." ]
+} ]

@@ -1,0 +1,45 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "the State of Georgia's Superintendant of schools",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "the State of Georgia",
+    "argMentionid" : "MARKBACKER_20041117.1107-E19-41",
+    "start" : 16,
+    "end" : 19
+  },
+  "relationID" : "MARKBACKER_20041117.1107-R1",
+  "mentionArg1" : {
+    "extent" : "the State of Georgia's Superintendant of schools",
+    "argMentionid" : "MARKBACKER_20041117.1107-E5-40",
+    "start" : 16,
+    "end" : 23
+  },
+  "id" : "MARKBACKER_20041117.1107-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Mark Backer 2004-11-17T11:07:00 For those of you not from around these parts , Linda Schrenko WAS the State of Georgia 's Superintendant of schools .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Mark", "Backer", "2004-11-17T11:07:00", "For", "those", "of", "you", "not", "from", "around", "these", "parts", ",", "Linda", "Schrenko", "WAS", "the", "State", "of", "Georgia", "'s", "Superintendant", "of", "schools", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "jail cell",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "jail",
+    "argMentionid" : "MARKBACKER_20041117.1107-E6-32",
+    "start" : 21,
+    "end" : 21
+  },
+  "relationID" : "MARKBACKER_20041117.1107-R2",
+  "mentionArg1" : {
+    "extent" : "jail cell",
+    "argMentionid" : "MARKBACKER_20041117.1107-E11-31",
+    "start" : 21,
+    "end" : 22
+  },
+  "id" : "MARKBACKER_20041117.1107-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Schrenko stole 20 times what Martha Stewart did , and I bet she wo n't see the wrong side of a jail cell door , and that 's sad .",
+  "sentence_index" : 14,
+  "Tokens" : [ "Schrenko", "stole", "20", "times", "what", "Martha", "Stewart", "did", ",", "and", "I", "bet", "she", "wo", "n't", "see", "the", "wrong", "side", "of", "a", "jail", "cell", "door", ",", "and", "that", "'s", "sad", "." ]
+} ]

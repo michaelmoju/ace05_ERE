@@ -1,0 +1,331 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the nasa and the european space agency",
+  "sentence_length" : 80,
+  "mentionArg2" : {
+    "extent" : "european",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E25-88",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_ENG_20030622_173306.9-R1",
+  "mentionArg1" : {
+    "extent" : "the nasa and the european space agency",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E11-1",
+    "start" : 0,
+    "end" : 6
+  },
+  "id" : "CNN_ENG_20030622_173306.9-R1-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "the nasa and the european space agency both launch missions to mars this month sending rovers and ashters to probe the red planet. one of the big questions about mars is when or whether humans will ever be able to visit. it 's an idea plagued with unsolved problems. the latest issue of \" popular science magazine \" takes a look at the challenges nasa is facing. joining us is the contributing editor. good to see you , jeff .",
+  "sentence_index" : 0,
+  "Tokens" : [ "the", "nasa", "and", "the", "european", "space", "agency", "both", "launch", "missions", "to", "mars", "this", "month", "sending", "rovers", "and", "ashters", "to", "probe", "the", "red", "planet.", "one", "of", "the", "big", "questions", "about", "mars", "is", "when", "or", "whether", "humans", "will", "ever", "be", "able", "to", "visit.", "it", "'s", "an", "idea", "plagued", "with", "unsolved", "problems.", "the", "latest", "issue", "of", "\"", "popular", "science", "magazine", "\"", "takes", "a", "look", "at", "the", "challenges", "nasa", "is", "facing.", "joining", "us", "is", "the", "contributing", "editor.", "good", "to", "see", "you", ",", "jeff", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the nasa and the european space agency both launch missions to mars this month sending rovers and ashters to probe the red planet",
+  "sentence_length" : 80,
+  "mentionArg2" : {
+    "extent" : "rovers",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E29-91",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "CNN_ENG_20030622_173306.9-R2",
+  "mentionArg1" : {
+    "extent" : "the nasa and the european space agency",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E11-1",
+    "start" : 0,
+    "end" : 6
+  },
+  "id" : "CNN_ENG_20030622_173306.9-R2-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "the nasa and the european space agency both launch missions to mars this month sending rovers and ashters to probe the red planet. one of the big questions about mars is when or whether humans will ever be able to visit. it 's an idea plagued with unsolved problems. the latest issue of \" popular science magazine \" takes a look at the challenges nasa is facing. joining us is the contributing editor. good to see you , jeff .",
+  "sentence_index" : 0,
+  "Tokens" : [ "the", "nasa", "and", "the", "european", "space", "agency", "both", "launch", "missions", "to", "mars", "this", "month", "sending", "rovers", "and", "ashters", "to", "probe", "the", "red", "planet.", "one", "of", "the", "big", "questions", "about", "mars", "is", "when", "or", "whether", "humans", "will", "ever", "be", "able", "to", "visit.", "it", "'s", "an", "idea", "plagued", "with", "unsolved", "problems.", "the", "latest", "issue", "of", "\"", "popular", "science", "magazine", "\"", "takes", "a", "look", "at", "the", "challenges", "nasa", "is", "facing.", "joining", "us", "is", "the", "contributing", "editor.", "good", "to", "see", "you", ",", "jeff", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the nasa and the european space agency both launch missions to mars this month sending rovers and ashters to probe the red planet",
+  "sentence_length" : 80,
+  "mentionArg2" : {
+    "extent" : "ashters",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E30-92",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "CNN_ENG_20030622_173306.9-R3",
+  "mentionArg1" : {
+    "extent" : "the nasa and the european space agency",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E11-1",
+    "start" : 0,
+    "end" : 6
+  },
+  "id" : "CNN_ENG_20030622_173306.9-R3-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "the nasa and the european space agency both launch missions to mars this month sending rovers and ashters to probe the red planet. one of the big questions about mars is when or whether humans will ever be able to visit. it 's an idea plagued with unsolved problems. the latest issue of \" popular science magazine \" takes a look at the challenges nasa is facing. joining us is the contributing editor. good to see you , jeff .",
+  "sentence_index" : 0,
+  "Tokens" : [ "the", "nasa", "and", "the", "european", "space", "agency", "both", "launch", "missions", "to", "mars", "this", "month", "sending", "rovers", "and", "ashters", "to", "probe", "the", "red", "planet.", "one", "of", "the", "big", "questions", "about", "mars", "is", "when", "or", "whether", "humans", "will", "ever", "be", "able", "to", "visit.", "it", "'s", "an", "idea", "plagued", "with", "unsolved", "problems.", "the", "latest", "issue", "of", "\"", "popular", "science", "magazine", "\"", "takes", "a", "look", "at", "the", "challenges", "nasa", "is", "facing.", "joining", "us", "is", "the", "contributing", "editor.", "good", "to", "see", "you", ",", "jeff", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the communications conditions once you're on mars, just to talk to people on earth, there's a 20 minute delay in the conversation",
+  "sentence_length" : 103,
+  "mentionArg2" : {
+    "extent" : "mars",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E28-9",
+    "start" : 66,
+    "end" : 66
+  },
+  "relationID" : "CNN_ENG_20030622_173306.9-R4",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E5-8",
+    "start" : 63,
+    "end" : 63
+  },
+  "id" : "CNN_ENG_20030622_173306.9-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "it 's unimaginably difficult and different. mars is at most times 100 million miles away from us. it 's a nine-month trip. then if we stay there for about a year or two , the whole trip could last about three years. we 're talking about conditions where there 's radiation in space cosmic radiation that could cause cancer. the communications conditions once you 're on mars , just to talk to people on earth , there 's a 20 minute delay in the conversation. so the -- you know , the issues are so much larger than going to the moon .",
+  "sentence_index" : 3,
+  "Tokens" : [ "it", "'s", "unimaginably", "difficult", "and", "different.", "mars", "is", "at", "most", "times", "100", "million", "miles", "away", "from", "us.", "it", "'s", "a", "nine-month", "trip.", "then", "if", "we", "stay", "there", "for", "about", "a", "year", "or", "two", ",", "the", "whole", "trip", "could", "last", "about", "three", "years.", "we", "'re", "talking", "about", "conditions", "where", "there", "'s", "radiation", "in", "space", "cosmic", "radiation", "that", "could", "cause", "cancer.", "the", "communications", "conditions", "once", "you", "'re", "on", "mars", ",", "just", "to", "talk", "to", "people", "on", "earth", ",", "there", "'s", "a", "20", "minute", "delay", "in", "the", "conversation.", "so", "the", "--", "you", "know", ",", "the", "issues", "are", "so", "much", "larger", "than", "going", "to", "the", "moon", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "people on earth",
+  "sentence_length" : 103,
+  "mentionArg2" : {
+    "extent" : "earth",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E2-85",
+    "start" : 74,
+    "end" : 74
+  },
+  "relationID" : "CNN_ENG_20030622_173306.9-R5",
+  "mentionArg1" : {
+    "extent" : "people on earth",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E6-10",
+    "start" : 72,
+    "end" : 74
+  },
+  "id" : "CNN_ENG_20030622_173306.9-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "it 's unimaginably difficult and different. mars is at most times 100 million miles away from us. it 's a nine-month trip. then if we stay there for about a year or two , the whole trip could last about three years. we 're talking about conditions where there 's radiation in space cosmic radiation that could cause cancer. the communications conditions once you 're on mars , just to talk to people on earth , there 's a 20 minute delay in the conversation. so the -- you know , the issues are so much larger than going to the moon .",
+  "sentence_index" : 3,
+  "Tokens" : [ "it", "'s", "unimaginably", "difficult", "and", "different.", "mars", "is", "at", "most", "times", "100", "million", "miles", "away", "from", "us.", "it", "'s", "a", "nine-month", "trip.", "then", "if", "we", "stay", "there", "for", "about", "a", "year", "or", "two", ",", "the", "whole", "trip", "could", "last", "about", "three", "years.", "we", "'re", "talking", "about", "conditions", "where", "there", "'s", "radiation", "in", "space", "cosmic", "radiation", "that", "could", "cause", "cancer.", "the", "communications", "conditions", "once", "you", "'re", "on", "mars", ",", "just", "to", "talk", "to", "people", "on", "earth", ",", "there", "'s", "a", "20", "minute", "delay", "in", "the", "conversation.", "so", "the", "--", "you", "know", ",", "the", "issues", "are", "so", "much", "larger", "than", "going", "to", "the", "moon", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "astronauts in space",
+  "sentence_length" : 82,
+  "mentionArg2" : {
+    "extent" : "space",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E26-14",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "CNN_ENG_20030622_173306.9-R6",
+  "mentionArg1" : {
+    "extent" : "astronauts in space",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E7-13",
+    "start" : 16,
+    "end" : 18
+  },
+  "id" : "CNN_ENG_20030622_173306.9-R6-1",
+  "relationSubType" : "Located",
+  "Sentence" : "and for now , it 's 250 days , which seems to be the maximum for astronauts in space anyway. but as you say , it 's a much further travel. but let 's talk about some of the hurdles that hamper humans to be able to survive there. the dust , for one thing. cataracts another. let 's talk about the right kind of spacecraft that would be able to allow humans to actually get that far and to survive .",
+  "sentence_index" : 4,
+  "Tokens" : [ "and", "for", "now", ",", "it", "'s", "250", "days", ",", "which", "seems", "to", "be", "the", "maximum", "for", "astronauts", "in", "space", "anyway.", "but", "as", "you", "say", ",", "it", "'s", "a", "much", "further", "travel.", "but", "let", "'s", "talk", "about", "some", "of", "the", "hurdles", "that", "hamper", "humans", "to", "be", "able", "to", "survive", "there.", "the", "dust", ",", "for", "one", "thing.", "cataracts", "another.", "let", "'s", "talk", "about", "the", "right", "kind", "of", "spacecraft", "that", "would", "be", "able", "to", "allow", "humans", "to", "actually", "get", "that", "far", "and", "to", "survive", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "you'd have to launch is from in space already, which means we would have to build it in space",
+  "sentence_length" : 236,
+  "mentionArg2" : {
+    "extent" : "space",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E26-86",
+    "start" : 35,
+    "end" : 35
+  },
+  "relationID" : "CNN_ENG_20030622_173306.9-R7",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E3-27",
+    "start" : 28,
+    "end" : 28
+  },
+  "id" : "CNN_ENG_20030622_173306.9-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "right. well , first of all , the spacecraft would not be launched from earth. you 'd have to launch is from in space already , which means we would have to build it in space. so that means we need a good shuttle that 's going to take us back and forth to build the spacecraft. then we have to come up with the fuel that will take it out of the earth 's orbit all the way to mars. that 's probably going to be nuclear propulsion at this point again something we have n't really developed yet , because we could n't carry that much fuel , obviously. liquid oxygen would be way too heavy to carry all the way to mars. the bigger issue is once we get there , we ca n't carry oxygen or water or food to stay there three years , so we 're going to have to do all of that on the surface of the planet. and think of it. mars is carbon dioxide. so we ca n't breathe there. so we 're going to have to come up with some conversion technique to create water , to create oxygen and then some way of growing food on the planet itself. all of this is in the works now , but i think it 's going to take quite a few years to develop it .",
+  "sentence_index" : 5,
+  "Tokens" : [ "right.", "well", ",", "first", "of", "all", ",", "the", "spacecraft", "would", "not", "be", "launched", "from", "earth.", "you", "'d", "have", "to", "launch", "is", "from", "in", "space", "already", ",", "which", "means", "we", "would", "have", "to", "build", "it", "in", "space.", "so", "that", "means", "we", "need", "a", "good", "shuttle", "that", "'s", "going", "to", "take", "us", "back", "and", "forth", "to", "build", "the", "spacecraft.", "then", "we", "have", "to", "come", "up", "with", "the", "fuel", "that", "will", "take", "it", "out", "of", "the", "earth", "'s", "orbit", "all", "the", "way", "to", "mars.", "that", "'s", "probably", "going", "to", "be", "nuclear", "propulsion", "at", "this", "point", "again", "something", "we", "have", "n't", "really", "developed", "yet", ",", "because", "we", "could", "n't", "carry", "that", "much", "fuel", ",", "obviously.", "liquid", "oxygen", "would", "be", "way", "too", "heavy", "to", "carry", "all", "the", "way", "to", "mars.", "the", "bigger", "issue", "is", "once", "we", "get", "there", ",", "we", "ca", "n't", "carry", "oxygen", "or", "water", "or", "food", "to", "stay", "there", "three", "years", ",", "so", "we", "'re", "going", "to", "have", "to", "do", "all", "of", "that", "on", "the", "surface", "of", "the", "planet.", "and", "think", "of", "it.", "mars", "is", "carbon", "dioxide.", "so", "we", "ca", "n't", "breathe", "there.", "so", "we", "'re", "going", "to", "have", "to", "come", "up", "with", "some", "conversion", "technique", "to", "create", "water", ",", "to", "create", "oxygen", "and", "then", "some", "way", "of", "growing", "food", "on", "the", "planet", "itself.", "all", "of", "this", "is", "in", "the", "works", "now", ",", "but", "i", "think", "it", "'s", "going", "to", "take", "quite", "a", "few", "years", "to", "develop", "it", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "so that means we need a good shuttle that's going to take us back and forth to build the spacecraft",
+  "sentence_length" : 236,
+  "mentionArg2" : {
+    "extent" : "a good shuttle that's going to take us back and forth to build the spacecraft",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E9-29",
+    "start" : 41,
+    "end" : 56
+  },
+  "relationID" : "CNN_ENG_20030622_173306.9-R8",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E3-28",
+    "start" : 39,
+    "end" : 39
+  },
+  "id" : "CNN_ENG_20030622_173306.9-R8-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "right. well , first of all , the spacecraft would not be launched from earth. you 'd have to launch is from in space already , which means we would have to build it in space. so that means we need a good shuttle that 's going to take us back and forth to build the spacecraft. then we have to come up with the fuel that will take it out of the earth 's orbit all the way to mars. that 's probably going to be nuclear propulsion at this point again something we have n't really developed yet , because we could n't carry that much fuel , obviously. liquid oxygen would be way too heavy to carry all the way to mars. the bigger issue is once we get there , we ca n't carry oxygen or water or food to stay there three years , so we 're going to have to do all of that on the surface of the planet. and think of it. mars is carbon dioxide. so we ca n't breathe there. so we 're going to have to come up with some conversion technique to create water , to create oxygen and then some way of growing food on the planet itself. all of this is in the works now , but i think it 's going to take quite a few years to develop it .",
+  "sentence_index" : 5,
+  "Tokens" : [ "right.", "well", ",", "first", "of", "all", ",", "the", "spacecraft", "would", "not", "be", "launched", "from", "earth.", "you", "'d", "have", "to", "launch", "is", "from", "in", "space", "already", ",", "which", "means", "we", "would", "have", "to", "build", "it", "in", "space.", "so", "that", "means", "we", "need", "a", "good", "shuttle", "that", "'s", "going", "to", "take", "us", "back", "and", "forth", "to", "build", "the", "spacecraft.", "then", "we", "have", "to", "come", "up", "with", "the", "fuel", "that", "will", "take", "it", "out", "of", "the", "earth", "'s", "orbit", "all", "the", "way", "to", "mars.", "that", "'s", "probably", "going", "to", "be", "nuclear", "propulsion", "at", "this", "point", "again", "something", "we", "have", "n't", "really", "developed", "yet", ",", "because", "we", "could", "n't", "carry", "that", "much", "fuel", ",", "obviously.", "liquid", "oxygen", "would", "be", "way", "too", "heavy", "to", "carry", "all", "the", "way", "to", "mars.", "the", "bigger", "issue", "is", "once", "we", "get", "there", ",", "we", "ca", "n't", "carry", "oxygen", "or", "water", "or", "food", "to", "stay", "there", "three", "years", ",", "so", "we", "'re", "going", "to", "have", "to", "do", "all", "of", "that", "on", "the", "surface", "of", "the", "planet.", "and", "think", "of", "it.", "mars", "is", "carbon", "dioxide.", "so", "we", "ca", "n't", "breathe", "there.", "so", "we", "'re", "going", "to", "have", "to", "come", "up", "with", "some", "conversion", "technique", "to", "create", "water", ",", "to", "create", "oxygen", "and", "then", "some", "way", "of", "growing", "food", "on", "the", "planet", "itself.", "all", "of", "this", "is", "in", "the", "works", "now", ",", "but", "i", "think", "it", "'s", "going", "to", "take", "quite", "a", "few", "years", "to", "develop", "it", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the bigger issue is once we get there, we can't carry oxygen or water or food to stay there three years, so we're going to have to do all of that on the surface of the planet",
+  "sentence_length" : 236,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E28-42",
+    "start" : 132,
+    "end" : 132
+  },
+  "relationID" : "CNN_ENG_20030622_173306.9-R9",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E3-40",
+    "start" : 130,
+    "end" : 130
+  },
+  "id" : "CNN_ENG_20030622_173306.9-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "right. well , first of all , the spacecraft would not be launched from earth. you 'd have to launch is from in space already , which means we would have to build it in space. so that means we need a good shuttle that 's going to take us back and forth to build the spacecraft. then we have to come up with the fuel that will take it out of the earth 's orbit all the way to mars. that 's probably going to be nuclear propulsion at this point again something we have n't really developed yet , because we could n't carry that much fuel , obviously. liquid oxygen would be way too heavy to carry all the way to mars. the bigger issue is once we get there , we ca n't carry oxygen or water or food to stay there three years , so we 're going to have to do all of that on the surface of the planet. and think of it. mars is carbon dioxide. so we ca n't breathe there. so we 're going to have to come up with some conversion technique to create water , to create oxygen and then some way of growing food on the planet itself. all of this is in the works now , but i think it 's going to take quite a few years to develop it .",
+  "sentence_index" : 5,
+  "Tokens" : [ "right.", "well", ",", "first", "of", "all", ",", "the", "spacecraft", "would", "not", "be", "launched", "from", "earth.", "you", "'d", "have", "to", "launch", "is", "from", "in", "space", "already", ",", "which", "means", "we", "would", "have", "to", "build", "it", "in", "space.", "so", "that", "means", "we", "need", "a", "good", "shuttle", "that", "'s", "going", "to", "take", "us", "back", "and", "forth", "to", "build", "the", "spacecraft.", "then", "we", "have", "to", "come", "up", "with", "the", "fuel", "that", "will", "take", "it", "out", "of", "the", "earth", "'s", "orbit", "all", "the", "way", "to", "mars.", "that", "'s", "probably", "going", "to", "be", "nuclear", "propulsion", "at", "this", "point", "again", "something", "we", "have", "n't", "really", "developed", "yet", ",", "because", "we", "could", "n't", "carry", "that", "much", "fuel", ",", "obviously.", "liquid", "oxygen", "would", "be", "way", "too", "heavy", "to", "carry", "all", "the", "way", "to", "mars.", "the", "bigger", "issue", "is", "once", "we", "get", "there", ",", "we", "ca", "n't", "carry", "oxygen", "or", "water", "or", "food", "to", "stay", "there", "three", "years", ",", "so", "we", "'re", "going", "to", "have", "to", "do", "all", "of", "that", "on", "the", "surface", "of", "the", "planet.", "and", "think", "of", "it.", "mars", "is", "carbon", "dioxide.", "so", "we", "ca", "n't", "breathe", "there.", "so", "we", "'re", "going", "to", "have", "to", "come", "up", "with", "some", "conversion", "technique", "to", "create", "water", ",", "to", "create", "oxygen", "and", "then", "some", "way", "of", "growing", "food", "on", "the", "planet", "itself.", "all", "of", "this", "is", "in", "the", "works", "now", ",", "but", "i", "think", "it", "'s", "going", "to", "take", "quite", "a", "few", "years", "to", "develop", "it", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "thank you for joining us. looks like it will be some time before we make our way to mars",
+  "sentence_length" : 117,
+  "mentionArg2" : {
+    "extent" : "mars",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E28-70",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "CNN_ENG_20030622_173306.9-R9",
+  "mentionArg1" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E3-69",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "CNN_ENG_20030622_173306.9-R9-2",
+  "relationSubType" : "Located",
+  "Sentence" : "jeff rothfeder. thank you for joining us. looks like it will be some time before we make our way to mars. that 's it for us. but before we go , a look at what 's coming up next week. a controversial incinerator just about ready to destroy weapons at an anniston , alabama , military facility. what might be the risk to people downwind. that story and much more coming up next week. coming up next on \" cnn live sunday \" a look at america 's storage of gas. that 's followed by \" people in the news \" profiling harrison ford and harry potter. at 8:00 eastern , cnn presents road to baghdad .",
+  "sentence_index" : 10,
+  "Tokens" : [ "jeff", "rothfeder.", "thank", "you", "for", "joining", "us.", "looks", "like", "it", "will", "be", "some", "time", "before", "we", "make", "our", "way", "to", "mars.", "that", "'s", "it", "for", "us.", "but", "before", "we", "go", ",", "a", "look", "at", "what", "'s", "coming", "up", "next", "week.", "a", "controversial", "incinerator", "just", "about", "ready", "to", "destroy", "weapons", "at", "an", "anniston", ",", "alabama", ",", "military", "facility.", "what", "might", "be", "the", "risk", "to", "people", "downwind.", "that", "story", "and", "much", "more", "coming", "up", "next", "week.", "coming", "up", "next", "on", "\"", "cnn", "live", "sunday", "\"", "a", "look", "at", "america", "'s", "storage", "of", "gas.", "that", "'s", "followed", "by", "\"", "people", "in", "the", "news", "\"", "profiling", "harrison", "ford", "and", "harry", "potter.", "at", "8:00", "eastern", ",", "cnn", "presents", "road", "to", "baghdad", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the bigger issue is once we get there, we can't carry oxygen or water or food to stay there three years, so we're going to have to do all of that on the surface of the planet",
+  "sentence_length" : 236,
+  "mentionArg2" : {
+    "extent" : "the surface of the planet",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E10-45",
+    "start" : 161,
+    "end" : 165
+  },
+  "relationID" : "CNN_ENG_20030622_173306.9-R10",
+  "mentionArg1" : {
+    "extent" : "we",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E3-44",
+    "start" : 150,
+    "end" : 150
+  },
+  "id" : "CNN_ENG_20030622_173306.9-R10-1",
+  "relationSubType" : "Located",
+  "Sentence" : "right. well , first of all , the spacecraft would not be launched from earth. you 'd have to launch is from in space already , which means we would have to build it in space. so that means we need a good shuttle that 's going to take us back and forth to build the spacecraft. then we have to come up with the fuel that will take it out of the earth 's orbit all the way to mars. that 's probably going to be nuclear propulsion at this point again something we have n't really developed yet , because we could n't carry that much fuel , obviously. liquid oxygen would be way too heavy to carry all the way to mars. the bigger issue is once we get there , we ca n't carry oxygen or water or food to stay there three years , so we 're going to have to do all of that on the surface of the planet. and think of it. mars is carbon dioxide. so we ca n't breathe there. so we 're going to have to come up with some conversion technique to create water , to create oxygen and then some way of growing food on the planet itself. all of this is in the works now , but i think it 's going to take quite a few years to develop it .",
+  "sentence_index" : 5,
+  "Tokens" : [ "right.", "well", ",", "first", "of", "all", ",", "the", "spacecraft", "would", "not", "be", "launched", "from", "earth.", "you", "'d", "have", "to", "launch", "is", "from", "in", "space", "already", ",", "which", "means", "we", "would", "have", "to", "build", "it", "in", "space.", "so", "that", "means", "we", "need", "a", "good", "shuttle", "that", "'s", "going", "to", "take", "us", "back", "and", "forth", "to", "build", "the", "spacecraft.", "then", "we", "have", "to", "come", "up", "with", "the", "fuel", "that", "will", "take", "it", "out", "of", "the", "earth", "'s", "orbit", "all", "the", "way", "to", "mars.", "that", "'s", "probably", "going", "to", "be", "nuclear", "propulsion", "at", "this", "point", "again", "something", "we", "have", "n't", "really", "developed", "yet", ",", "because", "we", "could", "n't", "carry", "that", "much", "fuel", ",", "obviously.", "liquid", "oxygen", "would", "be", "way", "too", "heavy", "to", "carry", "all", "the", "way", "to", "mars.", "the", "bigger", "issue", "is", "once", "we", "get", "there", ",", "we", "ca", "n't", "carry", "oxygen", "or", "water", "or", "food", "to", "stay", "there", "three", "years", ",", "so", "we", "'re", "going", "to", "have", "to", "do", "all", "of", "that", "on", "the", "surface", "of", "the", "planet.", "and", "think", "of", "it.", "mars", "is", "carbon", "dioxide.", "so", "we", "ca", "n't", "breathe", "there.", "so", "we", "'re", "going", "to", "have", "to", "come", "up", "with", "some", "conversion", "technique", "to", "create", "water", ",", "to", "create", "oxygen", "and", "then", "some", "way", "of", "growing", "food", "on", "the", "planet", "itself.", "all", "of", "this", "is", "in", "the", "works", "now", ",", "but", "i", "think", "it", "'s", "going", "to", "take", "quite", "a", "few", "years", "to", "develop", "it", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the surface of the planet",
+  "sentence_length" : 236,
+  "mentionArg2" : {
+    "extent" : "the planet",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E28-46",
+    "start" : 164,
+    "end" : 165
+  },
+  "relationID" : "CNN_ENG_20030622_173306.9-R11",
+  "mentionArg1" : {
+    "extent" : "the surface of the planet",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E10-45",
+    "start" : 161,
+    "end" : 165
+  },
+  "id" : "CNN_ENG_20030622_173306.9-R11-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "right. well , first of all , the spacecraft would not be launched from earth. you 'd have to launch is from in space already , which means we would have to build it in space. so that means we need a good shuttle that 's going to take us back and forth to build the spacecraft. then we have to come up with the fuel that will take it out of the earth 's orbit all the way to mars. that 's probably going to be nuclear propulsion at this point again something we have n't really developed yet , because we could n't carry that much fuel , obviously. liquid oxygen would be way too heavy to carry all the way to mars. the bigger issue is once we get there , we ca n't carry oxygen or water or food to stay there three years , so we 're going to have to do all of that on the surface of the planet. and think of it. mars is carbon dioxide. so we ca n't breathe there. so we 're going to have to come up with some conversion technique to create water , to create oxygen and then some way of growing food on the planet itself. all of this is in the works now , but i think it 's going to take quite a few years to develop it .",
+  "sentence_index" : 5,
+  "Tokens" : [ "right.", "well", ",", "first", "of", "all", ",", "the", "spacecraft", "would", "not", "be", "launched", "from", "earth.", "you", "'d", "have", "to", "launch", "is", "from", "in", "space", "already", ",", "which", "means", "we", "would", "have", "to", "build", "it", "in", "space.", "so", "that", "means", "we", "need", "a", "good", "shuttle", "that", "'s", "going", "to", "take", "us", "back", "and", "forth", "to", "build", "the", "spacecraft.", "then", "we", "have", "to", "come", "up", "with", "the", "fuel", "that", "will", "take", "it", "out", "of", "the", "earth", "'s", "orbit", "all", "the", "way", "to", "mars.", "that", "'s", "probably", "going", "to", "be", "nuclear", "propulsion", "at", "this", "point", "again", "something", "we", "have", "n't", "really", "developed", "yet", ",", "because", "we", "could", "n't", "carry", "that", "much", "fuel", ",", "obviously.", "liquid", "oxygen", "would", "be", "way", "too", "heavy", "to", "carry", "all", "the", "way", "to", "mars.", "the", "bigger", "issue", "is", "once", "we", "get", "there", ",", "we", "ca", "n't", "carry", "oxygen", "or", "water", "or", "food", "to", "stay", "there", "three", "years", ",", "so", "we", "'re", "going", "to", "have", "to", "do", "all", "of", "that", "on", "the", "surface", "of", "the", "planet.", "and", "think", "of", "it.", "mars", "is", "carbon", "dioxide.", "so", "we", "ca", "n't", "breathe", "there.", "so", "we", "'re", "going", "to", "have", "to", "come", "up", "with", "some", "conversion", "technique", "to", "create", "water", ",", "to", "create", "oxygen", "and", "then", "some", "way", "of", "growing", "food", "on", "the", "planet", "itself.", "all", "of", "this", "is", "in", "the", "works", "now", ",", "but", "i", "think", "it", "'s", "going", "to", "take", "quite", "a", "few", "years", "to", "develop", "it", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "astronauts in mars",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "mars",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E28-56",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "CNN_ENG_20030622_173306.9-R12",
+  "mentionArg1" : {
+    "extent" : "astronauts",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E7-55",
+    "start" : 12,
+    "end" : 12
+  },
+  "id" : "CNN_ENG_20030622_173306.9-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "absolutely. there could be as much as 50 % bone loss in astronauts in mars .",
+  "sentence_index" : 7,
+  "Tokens" : [ "absolutely.", "there", "could", "be", "as", "much", "as", "50", "%", "bone", "loss", "in", "astronauts", "in", "mars", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "anniston, alabama",
+  "sentence_length" : 117,
+  "mentionArg2" : {
+    "extent" : "alabama",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E17-77",
+    "start" : 53,
+    "end" : 53
+  },
+  "relationID" : "CNN_ENG_20030622_173306.9-R14",
+  "mentionArg1" : {
+    "extent" : "anniston, alabama",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E16-76",
+    "start" : 51,
+    "end" : 53
+  },
+  "id" : "CNN_ENG_20030622_173306.9-R14-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "jeff rothfeder. thank you for joining us. looks like it will be some time before we make our way to mars. that 's it for us. but before we go , a look at what 's coming up next week. a controversial incinerator just about ready to destroy weapons at an anniston , alabama , military facility. what might be the risk to people downwind. that story and much more coming up next week. coming up next on \" cnn live sunday \" a look at america 's storage of gas. that 's followed by \" people in the news \" profiling harrison ford and harry potter. at 8:00 eastern , cnn presents road to baghdad .",
+  "sentence_index" : 10,
+  "Tokens" : [ "jeff", "rothfeder.", "thank", "you", "for", "joining", "us.", "looks", "like", "it", "will", "be", "some", "time", "before", "we", "make", "our", "way", "to", "mars.", "that", "'s", "it", "for", "us.", "but", "before", "we", "go", ",", "a", "look", "at", "what", "'s", "coming", "up", "next", "week.", "a", "controversial", "incinerator", "just", "about", "ready", "to", "destroy", "weapons", "at", "an", "anniston", ",", "alabama", ",", "military", "facility.", "what", "might", "be", "the", "risk", "to", "people", "downwind.", "that", "story", "and", "much", "more", "coming", "up", "next", "week.", "coming", "up", "next", "on", "\"", "cnn", "live", "sunday", "\"", "a", "look", "at", "america", "'s", "storage", "of", "gas.", "that", "'s", "followed", "by", "\"", "people", "in", "the", "news", "\"", "profiling", "harrison", "ford", "and", "harry", "potter.", "at", "8:00", "eastern", ",", "cnn", "presents", "road", "to", "baghdad", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "an anniston, alabama, military facility",
+  "sentence_length" : 117,
+  "mentionArg2" : {
+    "extent" : "an anniston, alabama, military facility",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E14-74",
+    "start" : 50,
+    "end" : 56
+  },
+  "relationID" : "CNN_ENG_20030622_173306.9-R15",
+  "mentionArg1" : {
+    "extent" : "military",
+    "argMentionid" : "CNN_ENG_20030622_173306.9-E15-75",
+    "start" : 55,
+    "end" : 55
+  },
+  "id" : "CNN_ENG_20030622_173306.9-R15-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "jeff rothfeder. thank you for joining us. looks like it will be some time before we make our way to mars. that 's it for us. but before we go , a look at what 's coming up next week. a controversial incinerator just about ready to destroy weapons at an anniston , alabama , military facility. what might be the risk to people downwind. that story and much more coming up next week. coming up next on \" cnn live sunday \" a look at america 's storage of gas. that 's followed by \" people in the news \" profiling harrison ford and harry potter. at 8:00 eastern , cnn presents road to baghdad .",
+  "sentence_index" : 10,
+  "Tokens" : [ "jeff", "rothfeder.", "thank", "you", "for", "joining", "us.", "looks", "like", "it", "will", "be", "some", "time", "before", "we", "make", "our", "way", "to", "mars.", "that", "'s", "it", "for", "us.", "but", "before", "we", "go", ",", "a", "look", "at", "what", "'s", "coming", "up", "next", "week.", "a", "controversial", "incinerator", "just", "about", "ready", "to", "destroy", "weapons", "at", "an", "anniston", ",", "alabama", ",", "military", "facility.", "what", "might", "be", "the", "risk", "to", "people", "downwind.", "that", "story", "and", "much", "more", "coming", "up", "next", "week.", "coming", "up", "next", "on", "\"", "cnn", "live", "sunday", "\"", "a", "look", "at", "america", "'s", "storage", "of", "gas.", "that", "'s", "followed", "by", "\"", "people", "in", "the", "news", "\"", "profiling", "harrison", "ford", "and", "harry", "potter.", "at", "8:00", "eastern", ",", "cnn", "presents", "road", "to", "baghdad", "." ]
+} ]

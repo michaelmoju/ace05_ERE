@@ -1,0 +1,45 @@
+[ {
+  "relationType" : "ART",
+  "extent" : "a Boeing Delta II rocket",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "a Boeing Delta II rocket",
+    "argMentionid" : "APW_ENG_20030610.0554-E23-55",
+    "start" : 14,
+    "end" : 18
+  },
+  "relationID" : "APW_ENG_20030610.0554-R1",
+  "mentionArg1" : {
+    "extent" : "Boeing",
+    "argMentionid" : "APW_ENG_20030610.0554-E1-57",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "APW_ENG_20030610.0554-R1-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The rover named Spirit lifted off from the Cape Canaveral Air Force Station aboard a Boeing Delta II rocket at 1:58 p . m .",
+  "sentence_index" : 1,
+  "Tokens" : [ "The", "rover", "named", "Spirit", "lifted", "off", "from", "the", "Cape", "Canaveral", "Air", "Force", "Station", "aboard", "a", "Boeing", "Delta", "II", "rocket", "at", "1:58", "p", ".", "m", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "opposite sides of the planet",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "the planet",
+    "argMentionid" : "APW_ENG_20030610.0554-E11-19",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "APW_ENG_20030610.0554-R2",
+  "mentionArg1" : {
+    "extent" : "opposite sides of the planet",
+    "argMentionid" : "APW_ENG_20030610.0554-E9-18",
+    "start" : 7,
+    "end" : 11
+  },
+  "id" : "APW_ENG_20030610.0554-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The rovers ' landing sites , on opposite sides of the planet , were chosen for their likelihood of holding evidence of water .",
+  "sentence_index" : 10,
+  "Tokens" : [ "The", "rovers", "'", "landing", "sites", ",", "on", "opposite", "sides", "of", "the", "planet", ",", "were", "chosen", "for", "their", "likelihood", "of", "holding", "evidence", "of", "water", "." ]
+} ]

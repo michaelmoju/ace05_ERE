@@ -1,0 +1,1211 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. and coalition troops",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E50-179",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R1",
+  "mentionArg1" : {
+    "extent" : "U.S. and coalition troops",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E74-159",
+    "start" : 9,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Well , when they do finally enter Baghdad , U.S. and coalition troops could face urban combat with the Republican Guard , some of whom may have withdrawn into the city .",
+  "sentence_index" : 51,
+  "Tokens" : [ "Well", ",", "when", "they", "do", "finally", "enter", "Baghdad", ",", "U.S.", "and", "coalition", "troops", "could", "face", "urban", "combat", "with", "the", "Republican", "Guard", ",", "some", "of", "whom", "may", "have", "withdrawn", "into", "the", "city", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "home to one of Islam's holiest sites",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "home to one of Islam's holiest sites",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E23-178",
+    "start" : 14,
+    "end" : 21
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R2",
+  "mentionArg1" : {
+    "extent" : "one of Islam's holiest sites",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E24-195",
+    "start" : 16,
+    "end" : 21
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "WOODRUFF Back now to the battlefront and to the southern city of Najaf , home to one of Islam 's holiest sites , moments of tension that could have gone either way today .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WOODRUFF", "Back", "now", "to", "the", "battlefront", "and", "to", "the", "southern", "city", "of", "Najaf", ",", "home", "to", "one", "of", "Islam", "'s", "holiest", "sites", ",", "moments", "of", "tension", "that", "could", "have", "gone", "either", "way", "today", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Armed coalition soldiers",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E50-204",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R4",
+  "mentionArg1" : {
+    "extent" : "Armed coalition soldiers",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E100-203",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Armed coalition soldiers moving toward a venerated mosque at the request of a Muslim cleric , but angry locals who did n't understand what they were trying to do .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Armed", "coalition", "soldiers", "moving", "toward", "a", "venerated", "mosque", "at", "the", "request", "of", "a", "Muslim", "cleric", ",", "but", "angry", "locals", "who", "did", "n't", "understand", "what", "they", "were", "trying", "to", "do", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Ryan Chilcote, CNN",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E103-112",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R6",
+  "mentionArg1" : {
+    "extent" : "Ryan Chilcote",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E104-111",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R6-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Ryan Chilcote , CNN with the 101st Airborne in Najaf , Iraq .",
+  "sentence_index" : 39,
+  "Tokens" : [ "Ryan", "Chilcote", ",", "CNN", "with", "the", "101st", "Airborne", "in", "Najaf", ",", "Iraq", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "CNN's Ryan Chilcote",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E103-209",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R6",
+  "mentionArg1" : {
+    "extent" : "CNN's Ryan Chilcote",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E104-210",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R6-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "CNN 's Ryan Chilcote is in Najaf with the 101st Airborne .",
+  "sentence_index" : 2,
+  "Tokens" : [ "CNN", "'s", "Ryan", "Chilcote", "is", "in", "Najaf", "with", "the", "101st", "Airborne", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Ryan Chilcote, CNN with the 101st Airborne in Najaf, Iraq",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "Najaf, Iraq",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E23-114",
+    "start" : 9,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R7",
+  "mentionArg1" : {
+    "extent" : "Ryan Chilcote",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E104-111",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R7-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Ryan Chilcote , CNN with the 101st Airborne in Najaf , Iraq .",
+  "sentence_index" : 39,
+  "Tokens" : [ "Ryan", "Chilcote", ",", "CNN", "with", "the", "101st", "Airborne", "in", "Najaf", ",", "Iraq", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "CNN's Ryan Chilcote is in Najaf with the 101st Airborne",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "Najaf",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E23-211",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R7",
+  "mentionArg1" : {
+    "extent" : "CNN's Ryan Chilcote",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E104-210",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R7-2",
+  "relationSubType" : "Located",
+  "Sentence" : "CNN 's Ryan Chilcote is in Najaf with the 101st Airborne .",
+  "sentence_index" : 2,
+  "Tokens" : [ "CNN", "'s", "Ryan", "Chilcote", "is", "in", "Najaf", "with", "the", "101st", "Airborne", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Bastogne Brigade's No Slack Batallion",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "the Bastogne Brigade",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E3-4",
+    "start" : 15,
+    "end" : 17
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R8",
+  "mentionArg1" : {
+    "extent" : "the Bastogne Brigade's No Slack Batallion",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E2-3",
+    "start" : 15,
+    "end" : 21
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R8-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "( BEGIN VIDEOTAPE ) RYAN CHILCOTE , CNN CORRESPONDENT ( voice-over ) A tip leads the Bastogne Brigade 's No Slack Batallion to this parking lot in Najaf where the Fedayeen are said to have stashed weapons .",
+  "sentence_index" : 3,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "RYAN", "CHILCOTE", ",", "CNN", "CORRESPONDENT", "(", "voice-over", ")", "A", "tip", "leads", "the", "Bastogne", "Brigade", "'s", "No", "Slack", "Batallion", "to", "this", "parking", "lot", "in", "Najaf", "where", "the", "Fedayeen", "are", "said", "to", "have", "stashed", "weapons", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "this parking lot in Najaf where the Fedayeen are said to have stashed weapons",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "Najaf",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E23-5",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R9",
+  "mentionArg1" : {
+    "extent" : "this parking lot in Najaf where the Fedayeen are said to have stashed weapons",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E5-202",
+    "start" : 23,
+    "end" : 36
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R9-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "( BEGIN VIDEOTAPE ) RYAN CHILCOTE , CNN CORRESPONDENT ( voice-over ) A tip leads the Bastogne Brigade 's No Slack Batallion to this parking lot in Najaf where the Fedayeen are said to have stashed weapons .",
+  "sentence_index" : 3,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "RYAN", "CHILCOTE", ",", "CNN", "CORRESPONDENT", "(", "voice-over", ")", "A", "tip", "leads", "the", "Bastogne", "Brigade", "'s", "No", "Slack", "Batallion", "to", "this", "parking", "lot", "in", "Najaf", "where", "the", "Fedayeen", "are", "said", "to", "have", "stashed", "weapons", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my family",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "my family",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E15-22",
+    "start" : 14,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R10",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E10-21",
+    "start" : 14,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R10-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Anybody could be an informer and punish us for talking to you , even my family , he tells me in Arabic .",
+  "sentence_index" : 9,
+  "Tokens" : [ "Anybody", "could", "be", "an", "informer", "and", "punish", "us", "for", "talking", "to", "you", ",", "even", "my", "family", ",", "he", "tells", "me", "in", "Arabic", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Sergeant Rod Sutton from Indiana",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Indiana",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E21-33",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R11",
+  "mentionArg1" : {
+    "extent" : "Sergeant Rod Sutton from Indiana",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E19-31",
+    "start" : 1,
+    "end" : 5
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R11-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "CHILCOTE Sergeant Rod Sutton from Indiana on the corner of a street leading to the highly sensitive Imam Ali Shrine , one of the holiest sites in the world for Shia Muslims .",
+  "sentence_index" : 13,
+  "Tokens" : [ "CHILCOTE", "Sergeant", "Rod", "Sutton", "from", "Indiana", "on", "the", "corner", "of", "a", "street", "leading", "to", "the", "highly", "sensitive", "Imam", "Ali", "Shrine", ",", "one", "of", "the", "holiest", "sites", "in", "the", "world", "for", "Shia", "Muslims", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Sergeant Rod Sutton from Indiana on the corner of a street leading to the highly sensitive Imam Ali Shrine, one of the holiest sites in the world for Shia Muslims",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "the corner of a street leading to the highly sensitive Imam Ali Shrine, one of the holiest sites in the world for Shia Muslims",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E22-34",
+    "start" : 7,
+    "end" : 31
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R12",
+  "mentionArg1" : {
+    "extent" : "Sergeant Rod Sutton from Indiana",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E19-31",
+    "start" : 1,
+    "end" : 5
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "CHILCOTE Sergeant Rod Sutton from Indiana on the corner of a street leading to the highly sensitive Imam Ali Shrine , one of the holiest sites in the world for Shia Muslims .",
+  "sentence_index" : 13,
+  "Tokens" : [ "CHILCOTE", "Sergeant", "Rod", "Sutton", "from", "Indiana", "on", "the", "corner", "of", "a", "street", "leading", "to", "the", "highly", "sensitive", "Imam", "Ali", "Shrine", ",", "one", "of", "the", "holiest", "sites", "in", "the", "world", "for", "Shia", "Muslims", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the corner of a street leading to the highly sensitive Imam Ali Shrine, one of the holiest sites in the world for Shia Muslims",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "a street leading to the highly sensitive Imam Ali Shrine, one of the holiest sites in the world for Shia Muslims",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E97-199",
+    "start" : 10,
+    "end" : 31
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R13",
+  "mentionArg1" : {
+    "extent" : "the corner of a street leading to the highly sensitive Imam Ali Shrine, one of the holiest sites in the world for Shia Muslims",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E22-34",
+    "start" : 7,
+    "end" : 31
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R13-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "CHILCOTE Sergeant Rod Sutton from Indiana on the corner of a street leading to the highly sensitive Imam Ali Shrine , one of the holiest sites in the world for Shia Muslims .",
+  "sentence_index" : 13,
+  "Tokens" : [ "CHILCOTE", "Sergeant", "Rod", "Sutton", "from", "Indiana", "on", "the", "corner", "of", "a", "street", "leading", "to", "the", "highly", "sensitive", "Imam", "Ali", "Shrine", ",", "one", "of", "the", "holiest", "sites", "in", "the", "world", "for", "Shia", "Muslims", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Does it make you nervous that you're so close to the Ali mosque",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "the Ali mosque",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E24-45",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R14",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E19-44",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R14-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Does it make you nervous that you 're so close to the Ali mosque ?",
+  "sentence_index" : 14,
+  "Tokens" : [ "Does", "it", "make", "you", "nervous", "that", "you", "'re", "so", "close", "to", "the", "Ali", "mosque", "?" ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "To some extent, I feel fortunate that I'm here, because this is something I never would have seen before",
+  "sentence_length" : 24,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E24-50",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R15",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E19-49",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R15-1",
+  "relationSubType" : "Located",
+  "Sentence" : "SUTTON To some extent , I feel fortunate that I 'm here , because this is something I never would have seen before .",
+  "sentence_index" : 19,
+  "Tokens" : [ "SUTTON", "To", "some", "extent", ",", "I", "feel", "fortunate", "that", "I", "'m", "here", ",", "because", "this", "is", "something", "I", "never", "would", "have", "seen", "before", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the American commander",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "American",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E32-73",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R16",
+  "mentionArg1" : {
+    "extent" : "the American commander",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E30-72",
+    "start" : 14,
+    "end" : 16
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R16-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "CHILCOTE Word comes from the grand Ayatollah Sistani that he 's willing to meet the American commander , but he asks first for soldiers to secure his compound , located halfway down the road to the mosque .",
+  "sentence_index" : 24,
+  "Tokens" : [ "CHILCOTE", "Word", "comes", "from", "the", "grand", "Ayatollah", "Sistani", "that", "he", "'s", "willing", "to", "meet", "the", "American", "commander", ",", "but", "he", "asks", "first", "for", "soldiers", "to", "secure", "his", "compound", ",", "located", "halfway", "down", "the", "road", "to", "the", "mosque", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "his compound",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "his compound",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E34-77",
+    "start" : 26,
+    "end" : 27
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R17",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E28-76",
+    "start" : 26,
+    "end" : 26
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R17-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "CHILCOTE Word comes from the grand Ayatollah Sistani that he 's willing to meet the American commander , but he asks first for soldiers to secure his compound , located halfway down the road to the mosque .",
+  "sentence_index" : 24,
+  "Tokens" : [ "CHILCOTE", "Word", "comes", "from", "the", "grand", "Ayatollah", "Sistani", "that", "he", "'s", "willing", "to", "meet", "the", "American", "commander", ",", "but", "he", "asks", "first", "for", "soldiers", "to", "secure", "his", "compound", ",", "located", "halfway", "down", "the", "road", "to", "the", "mosque", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the U.S. soldiers",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E32-185",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R18",
+  "mentionArg1" : {
+    "extent" : "the U.S. soldiers",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E42-94",
+    "start" : 15,
+    "end" : 17
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R18-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "( on camera ) : There is no more striking example of the sensitivities that the U.S. soldiers face here than what is taking place on the streets right up from the ah Ali mosque right now .",
+  "sentence_index" : 26,
+  "Tokens" : [ "(", "on", "camera", ")", ":", "There", "is", "no", "more", "striking", "example", "of", "the", "sensitivities", "that", "the", "U.S.", "soldiers", "face", "here", "than", "what", "is", "taking", "place", "on", "the", "streets", "right", "up", "from", "the", "ah", "Ali", "mosque", "right", "now", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "There is no more striking example of the sensitivities that the U.S. soldiers face here than what is taking place on the streets right up from the ah Ali mosque right now",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E11-95",
+    "start" : 19,
+    "end" : 19
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R19",
+  "mentionArg1" : {
+    "extent" : "the U.S. soldiers",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E42-94",
+    "start" : 15,
+    "end" : 17
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R19-1",
+  "relationSubType" : "Located",
+  "Sentence" : "( on camera ) : There is no more striking example of the sensitivities that the U.S. soldiers face here than what is taking place on the streets right up from the ah Ali mosque right now .",
+  "sentence_index" : 26,
+  "Tokens" : [ "(", "on", "camera", ")", ":", "There", "is", "no", "more", "striking", "example", "of", "the", "sensitivities", "that", "the", "U.S.", "soldiers", "face", "here", "than", "what", "is", "taking", "place", "on", "the", "streets", "right", "up", "from", "the", "ah", "Ali", "mosque", "right", "now", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "They want to get inside the holy shrine of Imam Ali",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "the holy shrine of Imam Ali",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E24-131",
+    "start" : 7,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R20",
+  "mentionArg1" : {
+    "extent" : "They",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E40-110",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R20-1",
+  "relationSubType" : "Located",
+  "Sentence" : "UNIDENTIFIED MALE They want to get inside the holy shrine of Imam Ali .",
+  "sentence_index" : 28,
+  "Tokens" : [ "UNIDENTIFIED", "MALE", "They", "want", "to", "get", "inside", "the", "holy", "shrine", "of", "Imam", "Ali", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "He orders his men back to their compound to await cooler heads",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "their compound",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E94-191",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R21",
+  "mentionArg1" : {
+    "extent" : "his men",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E40-107",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R21-1",
+  "relationSubType" : "Located",
+  "Sentence" : "CHILCOTE He orders his men back to their compound to await cooler heads .",
+  "sentence_index" : 38,
+  "Tokens" : [ "CHILCOTE", "He", "orders", "his", "men", "back", "to", "their", "compound", "to", "await", "cooler", "heads", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Najaf, Iraq",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E11-115",
+    "start" : 11,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R22",
+  "mentionArg1" : {
+    "extent" : "Najaf, Iraq",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E23-114",
+    "start" : 9,
+    "end" : 11
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R22-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Ryan Chilcote , CNN with the 101st Airborne in Najaf , Iraq .",
+  "sentence_index" : 39,
+  "Tokens" : [ "Ryan", "Chilcote", ",", "CNN", "with", "the", "101st", "Airborne", "in", "Najaf", ",", "Iraq", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "CNN's Nic Robertson",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E103-116",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R23",
+  "mentionArg1" : {
+    "extent" : "CNN's Nic Robertson",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E45-117",
+    "start" : 6,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R23-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "( END VIDEOTAPE ) WOODRUFF And CNN 's Nic Robertson telling us earlier , significant that the Shia Muslim Ayatollahs , what they did , that they were cooperating with coalition and U.S. troops , saying that that will send an important signal to Shia Muslims throughout the country .",
+  "sentence_index" : 40,
+  "Tokens" : [ "(", "END", "VIDEOTAPE", ")", "WOODRUFF", "And", "CNN", "'s", "Nic", "Robertson", "telling", "us", "earlier", ",", "significant", "that", "the", "Shia", "Muslim", "Ayatollahs", ",", "what", "they", "did", ",", "that", "they", "were", "cooperating", "with", "coalition", "and", "U.S.", "troops", ",", "saying", "that", "that", "will", "send", "an", "important", "signal", "to", "Shia", "Muslims", "throughout", "the", "country", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "coalition and U.S. troops",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E32-126",
+    "start" : 32,
+    "end" : 32
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R24",
+  "mentionArg1" : {
+    "extent" : "coalition and U.S. troops",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E49-124",
+    "start" : 30,
+    "end" : 33
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R24-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "( END VIDEOTAPE ) WOODRUFF And CNN 's Nic Robertson telling us earlier , significant that the Shia Muslim Ayatollahs , what they did , that they were cooperating with coalition and U.S. troops , saying that that will send an important signal to Shia Muslims throughout the country .",
+  "sentence_index" : 40,
+  "Tokens" : [ "(", "END", "VIDEOTAPE", ")", "WOODRUFF", "And", "CNN", "'s", "Nic", "Robertson", "telling", "us", "earlier", ",", "significant", "that", "the", "Shia", "Muslim", "Ayatollahs", ",", "what", "they", "did", ",", "that", "they", "were", "cooperating", "with", "coalition", "and", "U.S.", "troops", ",", "saying", "that", "that", "will", "send", "an", "important", "signal", "to", "Shia", "Muslims", "throughout", "the", "country", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Shia Muslims throughout the country",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "the country",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E11-177",
+    "start" : 47,
+    "end" : 48
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R25",
+  "mentionArg1" : {
+    "extent" : "Shia Muslims throughout the country",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E9-190",
+    "start" : 44,
+    "end" : 48
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R25-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "( END VIDEOTAPE ) WOODRUFF And CNN 's Nic Robertson telling us earlier , significant that the Shia Muslim Ayatollahs , what they did , that they were cooperating with coalition and U.S. troops , saying that that will send an important signal to Shia Muslims throughout the country .",
+  "sentence_index" : 40,
+  "Tokens" : [ "(", "END", "VIDEOTAPE", ")", "WOODRUFF", "And", "CNN", "'s", "Nic", "Robertson", "telling", "us", "earlier", ",", "significant", "that", "the", "Shia", "Muslim", "Ayatollahs", ",", "what", "they", "did", ",", "that", "they", "were", "cooperating", "with", "coalition", "and", "U.S.", "troops", ",", "saying", "that", "that", "will", "send", "an", "important", "signal", "to", "Shia", "Muslims", "throughout", "the", "country", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. officials",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E32-127",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R26",
+  "mentionArg1" : {
+    "extent" : "U.S. officials",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E68-197",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R26-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Well , U.S. officials are investigating two possible friendly fire incidents in which coalition forces may have mistakenly shot at allied aircraft .",
+  "sentence_index" : 41,
+  "Tokens" : [ "Well", ",", "U.S.", "officials", "are", "investigating", "two", "possible", "friendly", "fire", "incidents", "in", "which", "coalition", "forces", "may", "have", "mistakenly", "shot", "at", "allied", "aircraft", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. officials",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E32-128",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R26",
+  "mentionArg1" : {
+    "extent" : "U.S. officials",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E68-147",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R26-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "U.S. officials say more than 4,000 Iraqis have been captured .",
+  "sentence_index" : 48,
+  "Tokens" : [ "U.S.", "officials", "say", "more", "than", "4,000", "Iraqis", "have", "been", "captured", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "coalition forces",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E50-133",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R27",
+  "mentionArg1" : {
+    "extent" : "coalition forces",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E58-134",
+    "start" : 13,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R27-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Well , U.S. officials are investigating two possible friendly fire incidents in which coalition forces may have mistakenly shot at allied aircraft .",
+  "sentence_index" : 41,
+  "Tokens" : [ "Well", ",", "U.S.", "officials", "are", "investigating", "two", "possible", "friendly", "fire", "incidents", "in", "which", "coalition", "forces", "may", "have", "mistakenly", "shot", "at", "allied", "aircraft", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "prisoners of war in Iraq",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E11-149",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R29",
+  "mentionArg1" : {
+    "extent" : "prisoners of war",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E71-153",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R29-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Seven Americans we know remain prisoners of war in Iraq .",
+  "sentence_index" : 49,
+  "Tokens" : [ "Seven", "Americans", "we", "know", "remain", "prisoners", "of", "war", "in", "Iraq", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Well, when they do finally enter Baghdad, U.S. and coalition troops could face urban combat with the Republican Guard, some of whom may have withdrawn into the city",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E75-156",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R30",
+  "mentionArg1" : {
+    "extent" : "they",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E74-155",
+    "start" : 3,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R30-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Well , when they do finally enter Baghdad , U.S. and coalition troops could face urban combat with the Republican Guard , some of whom may have withdrawn into the city .",
+  "sentence_index" : 51,
+  "Tokens" : [ "Well", ",", "when", "they", "do", "finally", "enter", "Baghdad", ",", "U.S.", "and", "coalition", "troops", "could", "face", "urban", "combat", "with", "the", "Republican", "Guard", ",", "some", "of", "whom", "may", "have", "withdrawn", "into", "the", "city", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Well, when they do finally enter Baghdad, U.S. and coalition troops could face urban combat with the Republican Guard, some of whom may have withdrawn into the city",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "the city",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E75-157",
+    "start" : 29,
+    "end" : 30
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R31",
+  "mentionArg1" : {
+    "extent" : "some of whom",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E77-161",
+    "start" : 22,
+    "end" : 24
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R31-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Well , when they do finally enter Baghdad , U.S. and coalition troops could face urban combat with the Republican Guard , some of whom may have withdrawn into the city .",
+  "sentence_index" : 51,
+  "Tokens" : [ "Well", ",", "when", "they", "do", "finally", "enter", "Baghdad", ",", "U.S.", "and", "coalition", "troops", "could", "face", "urban", "combat", "with", "the", "Republican", "Guard", ",", "some", "of", "whom", "may", "have", "withdrawn", "into", "the", "city", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the U.S. military",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E32-130",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R32",
+  "mentionArg1" : {
+    "extent" : "the U.S. military",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E78-162",
+    "start" : 1,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R32-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "But the U.S. military is expecting to remain focused on specific targets in the Iraqi capital .",
+  "sentence_index" : 52,
+  "Tokens" : [ "But", "the", "U.S.", "military", "is", "expecting", "to", "remain", "focused", "on", "specific", "targets", "in", "the", "Iraqi", "capital", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Iraqi capital",
+  "sentence_length" : 17,
+  "mentionArg2" : {
+    "extent" : "Iraqi",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E11-150",
+    "start" : 14,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R33",
+  "mentionArg1" : {
+    "extent" : "the Iraqi capital",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E75-158",
+    "start" : 13,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R33-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "But the U.S. military is expecting to remain focused on specific targets in the Iraqi capital .",
+  "sentence_index" : 52,
+  "Tokens" : [ "But", "the", "U.S.", "military", "is", "expecting", "to", "remain", "focused", "on", "specific", "targets", "in", "the", "Iraqi", "capital", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "CNN's Miles O'Brien",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E103-163",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R34",
+  "mentionArg1" : {
+    "extent" : "CNN's Miles O'Brien",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E79-166",
+    "start" : 2,
+    "end" : 5
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R34-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Nevertheless , CNN 's Miles O'Brien is with our military analyst , Lieutenant Colonel Robert Leonard , he is a Persian Gulf War veteran and a military science professor at West Virginia University -- Miles .",
+  "sentence_index" : 53,
+  "Tokens" : [ "Nevertheless", ",", "CNN", "'s", "Miles", "O'Brien", "is", "with", "our", "military", "analyst", ",", "Lieutenant", "Colonel", "Robert", "Leonard", ",", "he", "is", "a", "Persian", "Gulf", "War", "veteran", "and", "a", "military", "science", "professor", "at", "West", "Virginia", "University", "--", "Miles", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our military analyst",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E103-164",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R35",
+  "mentionArg1" : {
+    "extent" : "our military analyst",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E48-169",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R35-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Nevertheless , CNN 's Miles O'Brien is with our military analyst , Lieutenant Colonel Robert Leonard , he is a Persian Gulf War veteran and a military science professor at West Virginia University -- Miles .",
+  "sentence_index" : 53,
+  "Tokens" : [ "Nevertheless", ",", "CNN", "'s", "Miles", "O'Brien", "is", "with", "our", "military", "analyst", ",", "Lieutenant", "Colonel", "Robert", "Leonard", ",", "he", "is", "a", "Persian", "Gulf", "War", "veteran", "and", "a", "military", "science", "professor", "at", "West", "Virginia", "University", "--", "Miles", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "a military science professor at West Virginia University",
+  "sentence_length" : 36,
+  "mentionArg2" : {
+    "extent" : "West Virginia University",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E84-173",
+    "start" : 30,
+    "end" : 32
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R36",
+  "mentionArg1" : {
+    "extent" : "a military science professor at West Virginia University",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E48-172",
+    "start" : 25,
+    "end" : 32
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R36-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Nevertheless , CNN 's Miles O'Brien is with our military analyst , Lieutenant Colonel Robert Leonard , he is a Persian Gulf War veteran and a military science professor at West Virginia University -- Miles .",
+  "sentence_index" : 53,
+  "Tokens" : [ "Nevertheless", ",", "CNN", "'s", "Miles", "O'Brien", "is", "with", "our", "military", "analyst", ",", "Lieutenant", "Colonel", "Robert", "Leonard", ",", "he", "is", "a", "Persian", "Gulf", "War", "veteran", "and", "a", "military", "science", "professor", "at", "West", "Virginia", "University", "--", "Miles", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "CNN's Ryan Chilcote is in Najaf with the 101st Airborne",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "Najaf",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E23-211",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R37",
+  "mentionArg1" : {
+    "extent" : "the 101st Airborne",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E1-2",
+    "start" : 8,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R37-1",
+  "relationSubType" : "Located",
+  "Sentence" : "CNN 's Ryan Chilcote is in Najaf with the 101st Airborne .",
+  "sentence_index" : 2,
+  "Tokens" : [ "CNN", "'s", "Ryan", "Chilcote", "is", "in", "Najaf", "with", "the", "101st", "Airborne", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the 101st Airborne in Najaf, Iraq",
+  "sentence_length" : 13,
+  "mentionArg2" : {
+    "extent" : "Najaf, Iraq",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E23-114",
+    "start" : 9,
+    "end" : 11
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R37",
+  "mentionArg1" : {
+    "extent" : "the 101st Airborne",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E1-113",
+    "start" : 5,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R37-2",
+  "relationSubType" : "Located",
+  "Sentence" : "Ryan Chilcote , CNN with the 101st Airborne in Najaf , Iraq .",
+  "sentence_index" : 39,
+  "Tokens" : [ "Ryan", "Chilcote", ",", "CNN", "with", "the", "101st", "Airborne", "in", "Najaf", ",", "Iraq", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "A tip leads the Bastogne Brigade's No Slack Batallion to this parking lot in Najaf where the Fedayeen are said to have stashed weapons",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "this parking lot in Najaf where the Fedayeen are said to have stashed weapons",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E5-202",
+    "start" : 23,
+    "end" : 36
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R38",
+  "mentionArg1" : {
+    "extent" : "the Bastogne Brigade's No Slack Batallion",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E2-3",
+    "start" : 15,
+    "end" : 21
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R38-1",
+  "relationSubType" : "Located",
+  "Sentence" : "( BEGIN VIDEOTAPE ) RYAN CHILCOTE , CNN CORRESPONDENT ( voice-over ) A tip leads the Bastogne Brigade 's No Slack Batallion to this parking lot in Najaf where the Fedayeen are said to have stashed weapons .",
+  "sentence_index" : 3,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "RYAN", "CHILCOTE", ",", "CNN", "CORRESPONDENT", "(", "voice-over", ")", "A", "tip", "leads", "the", "Bastogne", "Brigade", "'s", "No", "Slack", "Batallion", "to", "this", "parking", "lot", "in", "Najaf", "where", "the", "Fedayeen", "are", "said", "to", "have", "stashed", "weapons", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "a street leading to the highly sensitive Imam Ali Shrine, one of the holiest sites in the world for Shia Muslims",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "the highly sensitive Imam Ali Shrine",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E24-37",
+    "start" : 14,
+    "end" : 19
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R39",
+  "mentionArg1" : {
+    "extent" : "a street leading to the highly sensitive Imam Ali Shrine, one of the holiest sites in the world for Shia Muslims",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E97-199",
+    "start" : 10,
+    "end" : 31
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R39-1",
+  "relationSubType" : "Near",
+  "Sentence" : "CHILCOTE Sergeant Rod Sutton from Indiana on the corner of a street leading to the highly sensitive Imam Ali Shrine , one of the holiest sites in the world for Shia Muslims .",
+  "sentence_index" : 13,
+  "Tokens" : [ "CHILCOTE", "Sergeant", "Rod", "Sutton", "from", "Indiana", "on", "the", "corner", "of", "a", "street", "leading", "to", "the", "highly", "sensitive", "Imam", "Ali", "Shrine", ",", "one", "of", "the", "holiest", "sites", "in", "the", "world", "for", "Shia", "Muslims", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the holiest sites in the world for Shia Muslims",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "the world",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E85-175",
+    "start" : 27,
+    "end" : 28
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R40",
+  "mentionArg1" : {
+    "extent" : "the holiest sites in the world for Shia Muslims",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E4-207",
+    "start" : 23,
+    "end" : 31
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R40-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "CHILCOTE Sergeant Rod Sutton from Indiana on the corner of a street leading to the highly sensitive Imam Ali Shrine , one of the holiest sites in the world for Shia Muslims .",
+  "sentence_index" : 13,
+  "Tokens" : [ "CHILCOTE", "Sergeant", "Rod", "Sutton", "from", "Indiana", "on", "the", "corner", "of", "a", "street", "leading", "to", "the", "highly", "sensitive", "Imam", "Ali", "Shrine", ",", "one", "of", "the", "holiest", "sites", "in", "the", "world", "for", "Shia", "Muslims", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "soldiers to secure his compound, located halfway down the road to the mosque",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "his compound",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E34-77",
+    "start" : 26,
+    "end" : 27
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R41",
+  "mentionArg1" : {
+    "extent" : "soldiers",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E33-75",
+    "start" : 23,
+    "end" : 23
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R41-1",
+  "relationSubType" : "Located",
+  "Sentence" : "CHILCOTE Word comes from the grand Ayatollah Sistani that he 's willing to meet the American commander , but he asks first for soldiers to secure his compound , located halfway down the road to the mosque .",
+  "sentence_index" : 24,
+  "Tokens" : [ "CHILCOTE", "Word", "comes", "from", "the", "grand", "Ayatollah", "Sistani", "that", "he", "'s", "willing", "to", "meet", "the", "American", "commander", ",", "but", "he", "asks", "first", "for", "soldiers", "to", "secure", "his", "compound", ",", "located", "halfway", "down", "the", "road", "to", "the", "mosque", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the road to the mosque",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "the mosque",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E24-80",
+    "start" : 35,
+    "end" : 36
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R42",
+  "mentionArg1" : {
+    "extent" : "the road to the mosque",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E35-78",
+    "start" : 32,
+    "end" : 36
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R42-1",
+  "relationSubType" : "Near",
+  "Sentence" : "CHILCOTE Word comes from the grand Ayatollah Sistani that he 's willing to meet the American commander , but he asks first for soldiers to secure his compound , located halfway down the road to the mosque .",
+  "sentence_index" : 24,
+  "Tokens" : [ "CHILCOTE", "Word", "comes", "from", "the", "grand", "Ayatollah", "Sistani", "that", "he", "'s", "willing", "to", "meet", "the", "American", "commander", ",", "but", "he", "asks", "first", "for", "soldiers", "to", "secure", "his", "compound", ",", "located", "halfway", "down", "the", "road", "to", "the", "mosque", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the streets right up from the ah Ali mosque right now",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "the ah Ali mosque",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E24-81",
+    "start" : 31,
+    "end" : 34
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R43",
+  "mentionArg1" : {
+    "extent" : "the streets right up from the ah Ali mosque",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E43-96",
+    "start" : 26,
+    "end" : 34
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R43-1",
+  "relationSubType" : "Near",
+  "Sentence" : "( on camera ) : There is no more striking example of the sensitivities that the U.S. soldiers face here than what is taking place on the streets right up from the ah Ali mosque right now .",
+  "sentence_index" : 26,
+  "Tokens" : [ "(", "on", "camera", ")", ":", "There", "is", "no", "more", "striking", "example", "of", "the", "sensitivities", "that", "the", "U.S.", "soldiers", "face", "here", "than", "what", "is", "taking", "place", "on", "the", "streets", "right", "up", "from", "the", "ah", "Ali", "mosque", "right", "now", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "His soldiers",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "His",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E30-193",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R44",
+  "mentionArg1" : {
+    "extent" : "His soldiers",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E40-100",
+    "start" : 1,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R44-1",
+  "relationSubType" : "Business",
+  "Sentence" : "CHILCOTE His soldiers take a knee , their weapons brought down from the ready position .",
+  "sentence_index" : 33,
+  "Tokens" : [ "CHILCOTE", "His", "soldiers", "take", "a", "knee", ",", "their", "weapons", "brought", "down", "from", "the", "ready", "position", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his men",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E30-106",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R44",
+  "mentionArg1" : {
+    "extent" : "his men",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E40-107",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R44-2",
+  "relationSubType" : "Business",
+  "Sentence" : "CHILCOTE He orders his men back to their compound to await cooler heads .",
+  "sentence_index" : 38,
+  "Tokens" : [ "CHILCOTE", "He", "orders", "his", "men", "back", "to", "their", "compound", "to", "await", "cooler", "heads", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his men",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E30-194",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R44",
+  "mentionArg1" : {
+    "extent" : "his men",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E40-90",
+    "start" : 3,
+    "end" : 4
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R44-3",
+  "relationSubType" : "Business",
+  "Sentence" : "The colonel instructs his men to stay calm .",
+  "sentence_index" : 30,
+  "Tokens" : [ "The", "colonel", "instructs", "his", "men", "to", "stay", "calm", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "their weapons",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "their weapons",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E93-189",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R45",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E40-101",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R45-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "CHILCOTE His soldiers take a knee , their weapons brought down from the ready position .",
+  "sentence_index" : 33,
+  "Tokens" : [ "CHILCOTE", "His", "soldiers", "take", "a", "knee", ",", "their", "weapons", "brought", "down", "from", "the", "ready", "position", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "their compound",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "their compound",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E94-191",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R46",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E40-108",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R46-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "CHILCOTE He orders his men back to their compound to await cooler heads .",
+  "sentence_index" : 38,
+  "Tokens" : [ "CHILCOTE", "He", "orders", "his", "men", "back", "to", "their", "compound", "to", "await", "cooler", "heads", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Shia Muslim Ayatollahs",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "Shia Muslim",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E9-184",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R48",
+  "mentionArg1" : {
+    "extent" : "the Shia Muslim Ayatollahs",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E46-119",
+    "start" : 16,
+    "end" : 19
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R48-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "( END VIDEOTAPE ) WOODRUFF And CNN 's Nic Robertson telling us earlier , significant that the Shia Muslim Ayatollahs , what they did , that they were cooperating with coalition and U.S. troops , saying that that will send an important signal to Shia Muslims throughout the country .",
+  "sentence_index" : 40,
+  "Tokens" : [ "(", "END", "VIDEOTAPE", ")", "WOODRUFF", "And", "CNN", "'s", "Nic", "Robertson", "telling", "us", "earlier", ",", "significant", "that", "the", "Shia", "Muslim", "Ayatollahs", ",", "what", "they", "did", ",", "that", "they", "were", "cooperating", "with", "coalition", "and", "U.S.", "troops", ",", "saying", "that", "that", "will", "send", "an", "important", "signal", "to", "Shia", "Muslims", "throughout", "the", "country", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "allied aircraft",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "allied aircraft",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E59-135",
+    "start" : 20,
+    "end" : 21
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R49",
+  "mentionArg1" : {
+    "extent" : "allied",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E50-132",
+    "start" : 20,
+    "end" : 20
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R49-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "Well , U.S. officials are investigating two possible friendly fire incidents in which coalition forces may have mistakenly shot at allied aircraft .",
+  "sentence_index" : 41,
+  "Tokens" : [ "Well", ",", "U.S.", "officials", "are", "investigating", "two", "possible", "friendly", "fire", "incidents", "in", "which", "coalition", "forces", "may", "have", "mistakenly", "shot", "at", "allied", "aircraft", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Most of the 27 British troops killed",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E96-192",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R50",
+  "mentionArg1" : {
+    "extent" : "Most of the 27 British troops killed",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E64-140",
+    "start" : 0,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R50-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Most of the 27 British troops killed have been victims of friendly fire or accidents .",
+  "sentence_index" : 45,
+  "Tokens" : [ "Most", "of", "the", "27", "British", "troops", "killed", "have", "been", "victims", "of", "friendly", "fire", "or", "accidents", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Meantime, Iraq says that 420 civilians, they say, have been killed during the war",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "Iraq",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E11-143",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R51",
+  "mentionArg1" : {
+    "extent" : "420 civilians",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E66-145",
+    "start" : 5,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R51-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "Meantime , Iraq says that 420 civilians , they say , have been killed during the war .",
+  "sentence_index" : 46,
+  "Tokens" : [ "Meantime", ",", "Iraq", "says", "that", "420", "civilians", ",", "they", "say", ",", "have", "been", "killed", "during", "the", "war", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "coalition and U.S. troops",
+  "sentence_length" : 50,
+  "mentionArg2" : {
+    "extent" : "coalition",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E50-125",
+    "start" : 30,
+    "end" : 30
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R54",
+  "mentionArg1" : {
+    "extent" : "coalition and U.S. troops",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E49-124",
+    "start" : 30,
+    "end" : 33
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R54-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "( END VIDEOTAPE ) WOODRUFF And CNN 's Nic Robertson telling us earlier , significant that the Shia Muslim Ayatollahs , what they did , that they were cooperating with coalition and U.S. troops , saying that that will send an important signal to Shia Muslims throughout the country .",
+  "sentence_index" : 40,
+  "Tokens" : [ "(", "END", "VIDEOTAPE", ")", "WOODRUFF", "And", "CNN", "'s", "Nic", "Robertson", "telling", "us", "earlier", ",", "significant", "that", "the", "Shia", "Muslim", "Ayatollahs", ",", "what", "they", "did", ",", "that", "they", "were", "cooperating", "with", "coalition", "and", "U.S.", "troops", ",", "saying", "that", "that", "will", "send", "an", "important", "signal", "to", "Shia", "Muslims", "throughout", "the", "country", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. and coalition troops",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "U.S",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E32-129",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030403.1600.00-3-R55",
+  "mentionArg1" : {
+    "extent" : "U.S. and coalition troops",
+    "argMentionid" : "CNN_IP_20030403.1600.00-3-E74-159",
+    "start" : 9,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030403.1600.00-3-R55-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Well , when they do finally enter Baghdad , U.S. and coalition troops could face urban combat with the Republican Guard , some of whom may have withdrawn into the city .",
+  "sentence_index" : 51,
+  "Tokens" : [ "Well", ",", "when", "they", "do", "finally", "enter", "Baghdad", ",", "U.S.", "and", "coalition", "troops", "could", "face", "urban", "combat", "with", "the", "Republican", "Guard", ",", "some", "of", "whom", "may", "have", "withdrawn", "into", "the", "city", "." ]
+} ]

@@ -1,0 +1,111 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "she said she was embarrassed to be from the same state as president bush",
+  "sentence_length" : 56,
+  "mentionArg2" : {
+    "extent" : "the same state as president bush",
+    "argMentionid" : "CNNHL_ENG_20030430_220712.37-E25-46",
+    "start" : 42,
+    "end" : 47
+  },
+  "relationID" : "CNNHL_ENG_20030430_220712.37-R1",
+  "mentionArg1" : {
+    "extent" : "she",
+    "argMentionid" : "CNNHL_ENG_20030430_220712.37-E23-45",
+    "start" : 36,
+    "end" : 36
+  },
+  "id" : "CNNHL_ENG_20030430_220712.37-R1-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "and the dixie chicks open their u . s. tour tomorrow night in greenville , south carolina. the popular band has been criticized within country music circles for comments by lead singer natalie maines. she said she was embarrassed to be from the same state as president bush. she has since apologized for her remarks .",
+  "sentence_index" : 0,
+  "Tokens" : [ "and", "the", "dixie", "chicks", "open", "their", "u", ".", "s.", "tour", "tomorrow", "night", "in", "greenville", ",", "south", "carolina.", "the", "popular", "band", "has", "been", "criticized", "within", "country", "music", "circles", "for", "comments", "by", "lead", "singer", "natalie", "maines.", "she", "said", "she", "was", "embarrassed", "to", "be", "from", "the", "same", "state", "as", "president", "bush.", "she", "has", "since", "apologized", "for", "her", "remarks", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "she said she was embarrassed to be from the same state as president bush",
+  "sentence_length" : 56,
+  "mentionArg2" : {
+    "extent" : "the same state as president bush",
+    "argMentionid" : "CNNHL_ENG_20030430_220712.37-E25-46",
+    "start" : 42,
+    "end" : 47
+  },
+  "relationID" : "CNNHL_ENG_20030430_220712.37-R2",
+  "mentionArg1" : {
+    "extent" : "president bush",
+    "argMentionid" : "CNNHL_ENG_20030430_220712.37-E26-47",
+    "start" : 46,
+    "end" : 47
+  },
+  "id" : "CNNHL_ENG_20030430_220712.37-R2-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "and the dixie chicks open their u . s. tour tomorrow night in greenville , south carolina. the popular band has been criticized within country music circles for comments by lead singer natalie maines. she said she was embarrassed to be from the same state as president bush. she has since apologized for her remarks .",
+  "sentence_index" : 0,
+  "Tokens" : [ "and", "the", "dixie", "chicks", "open", "their", "u", ".", "s.", "tour", "tomorrow", "night", "in", "greenville", ",", "south", "carolina.", "the", "popular", "band", "has", "been", "criticized", "within", "country", "music", "circles", "for", "comments", "by", "lead", "singer", "natalie", "maines.", "she", "said", "she", "was", "embarrassed", "to", "be", "from", "the", "same", "state", "as", "president", "bush.", "she", "has", "since", "apologized", "for", "her", "remarks", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "andrea ash from kezi in portland",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "kezi in portland",
+    "argMentionid" : "CNNHL_ENG_20030430_220712.37-E4-5",
+    "start" : 3,
+    "end" : 5
+  },
+  "relationID" : "CNNHL_ENG_20030430_220712.37-R3",
+  "mentionArg1" : {
+    "extent" : "andrea ash from kezi in portland",
+    "argMentionid" : "CNNHL_ENG_20030430_220712.37-E28-52",
+    "start" : 0,
+    "end" : 5
+  },
+  "id" : "CNNHL_ENG_20030430_220712.37-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "andrea ash from kezi in portland has this story of chicken that decided to take a new day job .",
+  "sentence_index" : 2,
+  "Tokens" : [ "andrea", "ash", "from", "kezi", "in", "portland", "has", "this", "story", "of", "chicken", "that", "decided", "to", "take", "a", "new", "day", "job", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "kezi in portland",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "portland",
+    "argMentionid" : "CNNHL_ENG_20030430_220712.37-E5-6",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNNHL_ENG_20030430_220712.37-R4",
+  "mentionArg1" : {
+    "extent" : "kezi in portland",
+    "argMentionid" : "CNNHL_ENG_20030430_220712.37-E4-5",
+    "start" : 3,
+    "end" : 5
+  },
+  "id" : "CNNHL_ENG_20030430_220712.37-R4-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "andrea ash from kezi in portland has this story of chicken that decided to take a new day job .",
+  "sentence_index" : 2,
+  "Tokens" : [ "andrea", "ash", "from", "kezi", "in", "portland", "has", "this", "story", "of", "chicken", "that", "decided", "to", "take", "a", "new", "day", "job", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their vet",
+  "sentence_length" : 54,
+  "mentionArg2" : {
+    "extent" : "their vet",
+    "argMentionid" : "CNNHL_ENG_20030430_220712.37-E9-16",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "CNNHL_ENG_20030430_220712.37-R5",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNNHL_ENG_20030430_220712.37-E3-17",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "CNNHL_ENG_20030430_220712.37-R5-1",
+  "relationSubType" : "Business",
+  "Sentence" : "reporter : the scotts ran it past their vet and the vet assured the em if a , as long as the hen left her crate to the do business , she was no harm to the pup. the family says the chicken keeps the place clean. so she 's free to stay .",
+  "sentence_index" : 11,
+  "Tokens" : [ "reporter", ":", "the", "scotts", "ran", "it", "past", "their", "vet", "and", "the", "vet", "assured", "the", "em", "if", "a", ",", "as", "long", "as", "the", "hen", "left", "her", "crate", "to", "the", "do", "business", ",", "she", "was", "no", "harm", "to", "the", "pup.", "the", "family", "says", "the", "chicken", "keeps", "the", "place", "clean.", "so", "she", "'s", "free", "to", "stay", "." ]
+} ]

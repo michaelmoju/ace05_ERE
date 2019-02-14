@@ -1,0 +1,23 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "I have stock in one of the deal's participants, Movie Gallery",
+  "sentence_length" : 58,
+  "mentionArg2" : {
+    "extent" : "one of the deal's participants",
+    "argMentionid" : "MARKETVIEW_20050212.1607-E7-11",
+    "start" : 28,
+    "end" : 33
+  },
+  "relationID" : "MARKETVIEW_20050212.1607-R1",
+  "mentionArg1" : {
+    "extent" : "I",
+    "argMentionid" : "MARKETVIEW_20050212.1607-E4-8",
+    "start" : 24,
+    "end" : 24
+  },
+  "id" : "MARKETVIEW_20050212.1607-R1-1",
+  "relationSubType" : "Investor-Shareholder",
+  "Sentence" : "Byrne 2005-02-12T16:07:00 I 've been keeping a careful eye on the Blockbuster / Hollywood machinations for a while ( and well I should -- I have stock in one of the deal 's participants , Movie Gallery ) , but even so I 'm surprised that Blockbuster 's latest gambit is to buy up Hollywood 's debt .",
+  "sentence_index" : 0,
+  "Tokens" : [ "Byrne", "2005-02-12T16:07:00", "I", "'ve", "been", "keeping", "a", "careful", "eye", "on", "the", "Blockbuster", "/", "Hollywood", "machinations", "for", "a", "while", "(", "and", "well", "I", "should", "--", "I", "have", "stock", "in", "one", "of", "the", "deal", "'s", "participants", ",", "Movie", "Gallery", ")", ",", "but", "even", "so", "I", "'m", "surprised", "that", "Blockbuster", "'s", "latest", "gambit", "is", "to", "buy", "up", "Hollywood", "'s", "debt", "." ]
+} ]

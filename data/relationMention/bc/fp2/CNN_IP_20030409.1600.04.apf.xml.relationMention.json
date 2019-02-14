@@ -1,0 +1,529 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "The United States Navy and Coast Guard crews",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "The United States Navy and Coast Guard",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E5-120",
+    "start" : 1,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030409.1600.04-R1",
+  "mentionArg1" : {
+    "extent" : "The United States Navy and Coast Guard crews",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E36-69",
+    "start" : 1,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030409.1600.04-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "WOODRUFF The United States Navy and Coast Guard crews are providing port security in the Persian Gulf during the Iraq war .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WOODRUFF", "The", "United", "States", "Navy", "and", "Coast", "Guard", "crews", "are", "providing", "port", "security", "in", "the", "Persian", "Gulf", "during", "the", "Iraq", "war", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. Navy and Coast Guard reserves",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "U.S. Navy and Coast Guard",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E5-7",
+    "start" : 22,
+    "end" : 26
+  },
+  "relationID" : "CNN_IP_20030409.1600.04-R3",
+  "mentionArg1" : {
+    "extent" : "U.S. Navy and Coast Guard reserves",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E3-5",
+    "start" : 22,
+    "end" : 27
+  },
+  "id" : "CNN_IP_20030409.1600.04-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "( BEGIN VIDEOTAPE ) DARYN KAGAN , CNN CORRESPONDENT ( voice-over ) It started as a story on port security , how U.S. Navy and Coast Guard reserves are keeping ships safe from attack in Kuwait and Iraq .",
+  "sentence_index" : 3,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "DARYN", "KAGAN", ",", "CNN", "CORRESPONDENT", "(", "voice-over", ")", "It", "started", "as", "a", "story", "on", "port", "security", ",", "how", "U.S.", "Navy", "and", "Coast", "Guard", "reserves", "are", "keeping", "ships", "safe", "from", "attack", "in", "Kuwait", "and", "Iraq", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "My sister is a grammar school teacher in Clayton, North Carolina",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "Clayton, North Carolina",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E22-44",
+    "start" : 9,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030409.1600.04-R10",
+  "mentionArg1" : {
+    "extent" : "My sister",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E18-23",
+    "start" : 1,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030409.1600.04-R10-1",
+  "relationSubType" : "Located",
+  "Sentence" : "ROBERTS My sister is a grammar school teacher in Clayton , North Carolina .",
+  "sentence_index" : 24,
+  "Tokens" : [ "ROBERTS", "My", "sister", "is", "a", "grammar", "school", "teacher", "in", "Clayton", ",", "North", "Carolina", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The United States Navy and Coast Guard crews",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "The United States Navy and Coast Guard",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E4-119",
+    "start" : 1,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030409.1600.04-R11",
+  "mentionArg1" : {
+    "extent" : "The United States Navy and Coast Guard crews",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E36-69",
+    "start" : 1,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030409.1600.04-R11-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "WOODRUFF The United States Navy and Coast Guard crews are providing port security in the Persian Gulf during the Iraq war .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WOODRUFF", "The", "United", "States", "Navy", "and", "Coast", "Guard", "crews", "are", "providing", "port", "security", "in", "the", "Persian", "Gulf", "during", "the", "Iraq", "war", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "North Carolina, the Riverwood Elementary second-graders",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "North Carolina",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E49-70",
+    "start" : 2,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030409.1600.04-R12",
+  "mentionArg1" : {
+    "extent" : "the Riverwood Elementary second-graders",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E12-71",
+    "start" : 5,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030409.1600.04-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Back in North Carolina , the Riverwood Elementary second-graders are working on the next batch .",
+  "sentence_index" : 38,
+  "Tokens" : [ "Back", "in", "North", "Carolina", ",", "the", "Riverwood", "Elementary", "second-graders", "are", "working", "on", "the", "next", "batch", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "elementary school children in North Carolina",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "North Carolina",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E49-130",
+    "start" : 13,
+    "end" : 14
+  },
+  "relationID" : "CNN_IP_20030409.1600.04-R12",
+  "mentionArg1" : {
+    "extent" : "elementary school children in North Carolina",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E12-128",
+    "start" : 9,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030409.1600.04-R12-2",
+  "relationSubType" : "Located",
+  "Sentence" : "And one group of sailors is getting letters from elementary school children in North Carolina .",
+  "sentence_index" : 1,
+  "Tokens" : [ "And", "one", "group", "of", "sailors", "is", "getting", "letters", "from", "elementary", "school", "children", "in", "North", "Carolina", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their teacher",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "their teacher",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E18-133",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030409.1600.04-R13",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E12-132",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030409.1600.04-R13-1",
+  "relationSubType" : "Business",
+  "Sentence" : "The students are getting inspiration from their teacher , who has a personal connection , as CNN 's Daryn Kagan reports .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "students", "are", "getting", "inspiration", "from", "their", "teacher", ",", "who", "has", "a", "personal", "connection", ",", "as", "CNN", "'s", "Daryn", "Kagan", "reports", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Her second-graders",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "Her",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E18-53",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "CNN_IP_20030409.1600.04-R13",
+  "mentionArg1" : {
+    "extent" : "Her second-graders",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E12-52",
+    "start" : 1,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030409.1600.04-R13-2",
+  "relationSubType" : "Business",
+  "Sentence" : "ROBERTS Her second-graders were very interested in sending some letters out to the troops .",
+  "sentence_index" : 27,
+  "Tokens" : [ "ROBERTS", "Her", "second-graders", "were", "very", "interested", "in", "sending", "some", "letters", "out", "to", "the", "troops", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my children",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "my",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E18-57",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030409.1600.04-R13",
+  "mentionArg1" : {
+    "extent" : "my children",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E12-56",
+    "start" : 13,
+    "end" : 14
+  },
+  "id" : "CNN_IP_20030409.1600.04-R13-3",
+  "relationSubType" : "Business",
+  "Sentence" : "CUPOLO So , I knew that , at one point or another , my children needed to write .",
+  "sentence_index" : 28,
+  "Tokens" : [ "CUPOLO", "So", ",", "I", "knew", "that", ",", "at", "one", "point", "or", "another", ",", "my", "children", "needed", "to", "write", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "your students",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "your",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E18-104",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030409.1600.04-R13",
+  "mentionArg1" : {
+    "extent" : "your students",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E12-106",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "CNN_IP_20030409.1600.04-R13-4",
+  "relationSubType" : "Business",
+  "Sentence" : "And thank you very much to your students for all the support and the letters that they sent out to us .",
+  "sentence_index" : 57,
+  "Tokens" : [ "And", "thank", "you", "very", "much", "to", "your", "students", "for", "all", "the", "support", "and", "the", "letters", "that", "they", "sent", "out", "to", "us", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "CNN's Daryn Kagan",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E2-4",
+    "start" : 16,
+    "end" : 16
+  },
+  "relationID" : "CNN_IP_20030409.1600.04-R14",
+  "mentionArg1" : {
+    "extent" : "CNN's Daryn Kagan",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E1-3",
+    "start" : 16,
+    "end" : 19
+  },
+  "id" : "CNN_IP_20030409.1600.04-R14-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "The students are getting inspiration from their teacher , who has a personal connection , as CNN 's Daryn Kagan reports .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "students", "are", "getting", "inspiration", "from", "their", "teacher", ",", "who", "has", "a", "personal", "connection", ",", "as", "CNN", "'s", "Daryn", "Kagan", "reports", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Daryn Kagan, CNN",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "CNN",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E2-114",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030409.1600.04-R14",
+  "mentionArg1" : {
+    "extent" : "Daryn Kagan",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E1-113",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030409.1600.04-R14-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Daryn Kagan , CNN , Kuwait .",
+  "sentence_index" : 59,
+  "Tokens" : [ "Daryn", "Kagan", ",", "CNN", ",", "Kuwait", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "U.S. Navy and Coast Guard reserves",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "U.S. Navy and Coast Guard",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E4-6",
+    "start" : 22,
+    "end" : 26
+  },
+  "relationID" : "CNN_IP_20030409.1600.04-R15",
+  "mentionArg1" : {
+    "extent" : "U.S. Navy and Coast Guard reserves",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E3-5",
+    "start" : 22,
+    "end" : 27
+  },
+  "id" : "CNN_IP_20030409.1600.04-R15-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "( BEGIN VIDEOTAPE ) DARYN KAGAN , CNN CORRESPONDENT ( voice-over ) It started as a story on port security , how U.S. Navy and Coast Guard reserves are keeping ships safe from attack in Kuwait and Iraq .",
+  "sentence_index" : 3,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "DARYN", "KAGAN", ",", "CNN", "CORRESPONDENT", "(", "voice-over", ")", "It", "started", "as", "a", "story", "on", "port", "security", ",", "how", "U.S.", "Navy", "and", "Coast", "Guard", "reserves", "are", "keeping", "ships", "safe", "from", "attack", "in", "Kuwait", "and", "Iraq", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my best friend",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "my best friend",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E14-34",
+    "start" : 5,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030409.1600.04-R16",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E16-33",
+    "start" : 5,
+    "end" : 5
+  },
+  "id" : "CNN_IP_20030409.1600.04-R16-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "UNIDENTIFIED MALE \" You are my best friend .",
+  "sentence_index" : 17,
+  "Tokens" : [ "UNIDENTIFIED", "MALE", "\"", "You", "are", "my", "best", "friend", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "your sister",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "your sister",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E18-97",
+    "start" : 8,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030409.1600.04-R17",
+  "mentionArg1" : {
+    "extent" : "your",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E14-96",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030409.1600.04-R17-1",
+  "relationSubType" : "Family",
+  "Sentence" : "KAGAN ( on camera ) Any message to your sister ?",
+  "sentence_index" : 53,
+  "Tokens" : [ "KAGAN", "(", "on", "camera", ")", "Any", "message", "to", "your", "sister", "?" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "It turns out this is actually a story about a brother, Lieutenant Commander Mike Roberts, and a supportive sister, Christine Cupolo",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Christine Cupolo",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E18-123",
+    "start" : 23,
+    "end" : 24
+  },
+  "relationID" : "CNN_IP_20030409.1600.04-R17",
+  "mentionArg1" : {
+    "extent" : "Lieutenant Commander Mike Roberts",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E14-42",
+    "start" : 13,
+    "end" : 16
+  },
+  "id" : "CNN_IP_20030409.1600.04-R17-2",
+  "relationSubType" : "Family",
+  "Sentence" : "KAGAN It turns out this is actually a story about a brother , Lieutenant Commander Mike Roberts , and a supportive sister , Christine Cupolo .",
+  "sentence_index" : 21,
+  "Tokens" : [ "KAGAN", "It", "turns", "out", "this", "is", "actually", "a", "story", "about", "a", "brother", ",", "Lieutenant", "Commander", "Mike", "Roberts", ",", "and", "a", "supportive", "sister", ",", "Christine", "Cupolo", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "my brother",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "my",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E18-94",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "CNN_IP_20030409.1600.04-R17",
+  "mentionArg1" : {
+    "extent" : "my brother",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E14-95",
+    "start" : 9,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030409.1600.04-R17-3",
+  "relationSubType" : "Family",
+  "Sentence" : "But I think this helps me stay closer to my brother .",
+  "sentence_index" : 52,
+  "Tokens" : [ "But", "I", "think", "this", "helps", "me", "stay", "closer", "to", "my", "brother", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "My sister",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "My sister",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E18-23",
+    "start" : 1,
+    "end" : 2
+  },
+  "relationID" : "CNN_IP_20030409.1600.04-R17",
+  "mentionArg1" : {
+    "extent" : "My",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E14-22",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030409.1600.04-R17-4",
+  "relationSubType" : "Family",
+  "Sentence" : "ROBERTS My sister is a grammar school teacher in Clayton , North Carolina .",
+  "sentence_index" : 24,
+  "Tokens" : [ "ROBERTS", "My", "sister", "is", "a", "grammar", "school", "teacher", "in", "Clayton", ",", "North", "Carolina", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Hope you're doing well in North Carolina",
+  "sentence_length" : 9,
+  "mentionArg2" : {
+    "extent" : "North Carolina",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E49-105",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030409.1600.04-R18",
+  "mentionArg1" : {
+    "extent" : "you",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E18-102",
+    "start" : 1,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030409.1600.04-R18-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Hope you 're doing well in North Carolina .",
+  "sentence_index" : 56,
+  "Tokens" : [ "Hope", "you", "'re", "doing", "well", "in", "North", "Carolina", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Their second-grade work keeping watch over those who keep watch in the Persian Gulf",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "the Persian Gulf",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E43-112",
+    "start" : 15,
+    "end" : 17
+  },
+  "relationID" : "CNN_IP_20030409.1600.04-R19",
+  "mentionArg1" : {
+    "extent" : "those",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E35-110",
+    "start" : 10,
+    "end" : 10
+  },
+  "id" : "CNN_IP_20030409.1600.04-R19-1",
+  "relationSubType" : "Located",
+  "Sentence" : "KAGAN ( voice-over ) Their second-grade work keeping watch over those who keep watch in the Persian Gulf .",
+  "sentence_index" : 58,
+  "Tokens" : [ "KAGAN", "(", "voice-over", ")", "Their", "second-grade", "work", "keeping", "watch", "over", "those", "who", "keep", "watch", "in", "the", "Persian", "Gulf", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Daryn Kagan, CNN, Kuwait",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "Kuwait",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E8-115",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030409.1600.04-R21",
+  "mentionArg1" : {
+    "extent" : "Daryn Kagan",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E1-113",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030409.1600.04-R21-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Daryn Kagan , CNN , Kuwait .",
+  "sentence_index" : 59,
+  "Tokens" : [ "Daryn", "Kagan", ",", "CNN", ",", "Kuwait", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Judy Woodruff in Washington",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "Washington",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E38-118",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030409.1600.04-R22",
+  "mentionArg1" : {
+    "extent" : "Judy Woodruff",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E37-117",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030409.1600.04-R22-1",
+  "relationSubType" : "Located",
+  "Sentence" : "I 'm Judy Woodruff in Washington .",
+  "sentence_index" : 62,
+  "Tokens" : [ "I", "'m", "Judy", "Woodruff", "in", "Washington", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "My brother is in Kuwait",
+  "sentence_length" : 6,
+  "mentionArg2" : {
+    "extent" : "Kuwait",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E8-13",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030409.1600.04-R23",
+  "mentionArg1" : {
+    "extent" : "My brother",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E14-11",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030409.1600.04-R23-1",
+  "relationSubType" : "Located",
+  "Sentence" : "My brother is in Kuwait .",
+  "sentence_index" : 23,
+  "Tokens" : [ "My", "brother", "is", "in", "Kuwait", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Clayton, North Carolina",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "North Carolina",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E49-46",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "CNN_IP_20030409.1600.04-R24",
+  "mentionArg1" : {
+    "extent" : "Clayton, North Carolina",
+    "argMentionid" : "CNN_IP_20030409.1600.04-E22-44",
+    "start" : 9,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030409.1600.04-R24-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "ROBERTS My sister is a grammar school teacher in Clayton , North Carolina .",
+  "sentence_index" : 24,
+  "Tokens" : [ "ROBERTS", "My", "sister", "is", "a", "grammar", "school", "teacher", "in", "Clayton", ",", "North", "Carolina", "." ]
+} ]

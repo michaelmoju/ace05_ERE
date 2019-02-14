@@ -1,0 +1,793 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "Andrews Air Force Base, just close to the Washington area",
+  "sentence_length" : 66,
+  "mentionArg2" : {
+    "extent" : "the Washington area",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E81-181",
+    "start" : 36,
+    "end" : 38
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R5",
+  "mentionArg1" : {
+    "extent" : "Andrews Air Force Base",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E82-182",
+    "start" : 28,
+    "end" : 31
+  },
+  "id" : "CNN_IP_20030408.1600.03-R5-1",
+  "relationSubType" : "Near",
+  "Sentence" : "WOODRUFF And , as we listened to John King 's report , we can tell you that President Bush has just -- his plane has just landed at Andrews Air Force Base , just close to the Washington area , the president having flown back to the United States from that meeting in Northern Ireland in Belfast with the British prime minister , Tony Blair .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WOODRUFF", "And", ",", "as", "we", "listened", "to", "John", "King", "'s", "report", ",", "we", "can", "tell", "you", "that", "President", "Bush", "has", "just", "--", "his", "plane", "has", "just", "landed", "at", "Andrews", "Air", "Force", "Base", ",", "just", "close", "to", "the", "Washington", "area", ",", "the", "president", "having", "flown", "back", "to", "the", "United", "States", "from", "that", "meeting", "in", "Northern", "Ireland", "in", "Belfast", "with", "the", "British", "prime", "minister", ",", "Tony", "Blair", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the Washington area",
+  "sentence_length" : 66,
+  "mentionArg2" : {
+    "extent" : "Washington",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E80-180",
+    "start" : 37,
+    "end" : 37
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R6",
+  "mentionArg1" : {
+    "extent" : "the Washington area",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E81-181",
+    "start" : 36,
+    "end" : 38
+  },
+  "id" : "CNN_IP_20030408.1600.03-R6-1",
+  "relationSubType" : "Near",
+  "Sentence" : "WOODRUFF And , as we listened to John King 's report , we can tell you that President Bush has just -- his plane has just landed at Andrews Air Force Base , just close to the Washington area , the president having flown back to the United States from that meeting in Northern Ireland in Belfast with the British prime minister , Tony Blair .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WOODRUFF", "And", ",", "as", "we", "listened", "to", "John", "King", "'s", "report", ",", "we", "can", "tell", "you", "that", "President", "Bush", "has", "just", "--", "his", "plane", "has", "just", "landed", "at", "Andrews", "Air", "Force", "Base", ",", "just", "close", "to", "the", "Washington", "area", ",", "the", "president", "having", "flown", "back", "to", "the", "United", "States", "from", "that", "meeting", "in", "Northern", "Ireland", "in", "Belfast", "with", "the", "British", "prime", "minister", ",", "Tony", "Blair", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the British prime minister",
+  "sentence_length" : 66,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E5-7",
+    "start" : 59,
+    "end" : 59
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R7",
+  "mentionArg1" : {
+    "extent" : "the British prime minister",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E4-6",
+    "start" : 58,
+    "end" : 61
+  },
+  "id" : "CNN_IP_20030408.1600.03-R7-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "WOODRUFF And , as we listened to John King 's report , we can tell you that President Bush has just -- his plane has just landed at Andrews Air Force Base , just close to the Washington area , the president having flown back to the United States from that meeting in Northern Ireland in Belfast with the British prime minister , Tony Blair .",
+  "sentence_index" : 0,
+  "Tokens" : [ "WOODRUFF", "And", ",", "as", "we", "listened", "to", "John", "King", "'s", "report", ",", "we", "can", "tell", "you", "that", "President", "Bush", "has", "just", "--", "his", "plane", "has", "just", "landed", "at", "Andrews", "Air", "Force", "Base", ",", "just", "close", "to", "the", "Washington", "area", ",", "the", "president", "having", "flown", "back", "to", "the", "United", "States", "from", "that", "meeting", "in", "Northern", "Ireland", "in", "Belfast", "with", "the", "British", "prime", "minister", ",", "Tony", "Blair", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "The abandoned secret police headquarters in Basra",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "The abandoned secret police headquarters in Basra",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E1-175",
+    "start" : 0,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R8",
+  "mentionArg1" : {
+    "extent" : "secret police",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E8-2",
+    "start" : 2,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030408.1600.03-R8-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "The abandoned secret police headquarters in Basra is just one example .",
+  "sentence_index" : 7,
+  "Tokens" : [ "The", "abandoned", "secret", "police", "headquarters", "in", "Basra", "is", "just", "one", "example", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the headquarters of his secret police",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "the headquarters of his secret police",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E1-131",
+    "start" : 32,
+    "end" : 37
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R8",
+  "mentionArg1" : {
+    "extent" : "his secret police",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E8-35",
+    "start" : 35,
+    "end" : 37
+  },
+  "id" : "CNN_IP_20030408.1600.03-R8-2",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "( BEGIN VIDEOTAPE ) BILL NEELY , ITN REPORTER ( voice-over ) Saddam Hussein 's Iraq is a state of terror , and this is where it 's planned and perpetrated , the headquarters of his secret police , this one in Basra .",
+  "sentence_index" : 9,
+  "Tokens" : [ "(", "BEGIN", "VIDEOTAPE", ")", "BILL", "NEELY", ",", "ITN", "REPORTER", "(", "voice-over", ")", "Saddam", "Hussein", "'s", "Iraq", "is", "a", "state", "of", "terror", ",", "and", "this", "is", "where", "it", "'s", "planned", "and", "perpetrated", ",", "the", "headquarters", "of", "his", "secret", "police", ",", "this", "one", "in", "Basra", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "the Mukhabarat headquarters",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "the Mukhabarat headquarters",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E1-56",
+    "start" : 5,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R8",
+  "mentionArg1" : {
+    "extent" : "Mukhabarat",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E8-57",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030408.1600.03-R8-3",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "( voice-over ) : But the Mukhabarat headquarters had more horrors to reveal .",
+  "sentence_index" : 32,
+  "Tokens" : [ "(", "voice-over", ")", ":", "But", "the", "Mukhabarat", "headquarters", "had", "more", "horrors", "to", "reveal", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "The abandoned secret police headquarters in Basra",
+  "sentence_length" : 12,
+  "mentionArg2" : {
+    "extent" : "Basra",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E15-27",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R9",
+  "mentionArg1" : {
+    "extent" : "The abandoned secret police headquarters in Basra",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E1-175",
+    "start" : 0,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030408.1600.03-R9-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "The abandoned secret police headquarters in Basra is just one example .",
+  "sentence_index" : 7,
+  "Tokens" : [ "The", "abandoned", "secret", "police", "headquarters", "in", "Basra", "is", "just", "one", "example", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Basra's chamber of horrors",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Basra",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E15-32",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R9",
+  "mentionArg1" : {
+    "extent" : "Basra's chamber of horrors",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E1-33",
+    "start" : 17,
+    "end" : 21
+  },
+  "id" : "CNN_IP_20030408.1600.03-R9-2",
+  "relationSubType" : "Geographical",
+  "Sentence" : "ITN 's Bill Neely is with the Royal Marines and he takes us on a tour of Basra 's chamber of horrors .",
+  "sentence_index" : 8,
+  "Tokens" : [ "ITN", "'s", "Bill", "Neely", "is", "with", "the", "Royal", "Marines", "and", "he", "takes", "us", "on", "a", "tour", "of", "Basra", "'s", "chamber", "of", "horrors", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "ITN's Bill Neely",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "ITN",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E16-28",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R10",
+  "mentionArg1" : {
+    "extent" : "ITN's Bill Neely",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E17-29",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "CNN_IP_20030408.1600.03-R10-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "ITN 's Bill Neely is with the Royal Marines and he takes us on a tour of Basra 's chamber of horrors .",
+  "sentence_index" : 8,
+  "Tokens" : [ "ITN", "'s", "Bill", "Neely", "is", "with", "the", "Royal", "Marines", "and", "he", "takes", "us", "on", "a", "tour", "of", "Basra", "'s", "chamber", "of", "horrors", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Bill Neely, ITV News",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "ITV News",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E16-69",
+    "start" : 3,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R10",
+  "mentionArg1" : {
+    "extent" : "Bill Neely",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E17-68",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030408.1600.03-R10-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "Bill Neely , ITV News , Basra .",
+  "sentence_index" : 56,
+  "Tokens" : [ "Bill", "Neely", ",", "ITV", "News", ",", "Basra", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "No British soldier",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E5-39",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R11",
+  "mentionArg1" : {
+    "extent" : "No British soldier",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E20-38",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030408.1600.03-R11-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "No British soldier has been here yet .",
+  "sentence_index" : 10,
+  "Tokens" : [ "No", "British", "soldier", "has", "been", "here", "yet", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "No British soldier has been here yet",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E1-74",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R12",
+  "mentionArg1" : {
+    "extent" : "No British soldier",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E20-38",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030408.1600.03-R12-1",
+  "relationSubType" : "Located",
+  "Sentence" : "No British soldier has been here yet .",
+  "sentence_index" : 10,
+  "Tokens" : [ "No", "British", "soldier", "has", "been", "here", "yet", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "in the smoking basement of the bombed building, a warren of cells",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "the smoking basement of the bombed building",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E25-45",
+    "start" : 14,
+    "end" : 20
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R13",
+  "mentionArg1" : {
+    "extent" : "a warren of cells",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E25-168",
+    "start" : 22,
+    "end" : 25
+  },
+  "id" : "CNN_IP_20030408.1600.03-R13-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "What was to follow was a horrific education in terror and torture : in the smoking basement of the bombed building , a warren of cells .",
+  "sentence_index" : 12,
+  "Tokens" : [ "What", "was", "to", "follow", "was", "a", "horrific", "education", "in", "terror", "and", "torture", ":", "in", "the", "smoking", "basement", "of", "the", "bombed", "building", ",", "a", "warren", "of", "cells", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the smoking basement of the bombed building",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "the bombed building",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E1-46",
+    "start" : 18,
+    "end" : 20
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R14",
+  "mentionArg1" : {
+    "extent" : "the smoking basement of the bombed building",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E25-45",
+    "start" : 14,
+    "end" : 20
+  },
+  "id" : "CNN_IP_20030408.1600.03-R14-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "What was to follow was a horrific education in terror and torture : in the smoking basement of the bombed building , a warren of cells .",
+  "sentence_index" : 12,
+  "Tokens" : [ "What", "was", "to", "follow", "was", "a", "horrific", "education", "in", "terror", "and", "torture", ":", "in", "the", "smoking", "basement", "of", "the", "bombed", "building", ",", "a", "warren", "of", "cells", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Here, prisoners were tortured",
+  "sentence_length" : 6,
+  "mentionArg2" : {
+    "extent" : "Here",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E25-169",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R15",
+  "mentionArg1" : {
+    "extent" : "prisoners",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E75-170",
+    "start" : 2,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030408.1600.03-R15-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Here , prisoners were tortured .",
+  "sentence_index" : 13,
+  "Tokens" : [ "Here", ",", "prisoners", "were", "tortured", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "people in prison without court, without trial",
+  "sentence_length" : 14,
+  "mentionArg2" : {
+    "extent" : "prison",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E28-48",
+    "start" : 7,
+    "end" : 7
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R16",
+  "mentionArg1" : {
+    "extent" : "people in prison without court, without trial",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E27-153",
+    "start" : 5,
+    "end" : 12
+  },
+  "id" : "CNN_IP_20030408.1600.03-R16-1",
+  "relationSubType" : "Located",
+  "Sentence" : "UNIDENTIFIED MALE People died , people in prison without court , without trial .",
+  "sentence_index" : 16,
+  "Tokens" : [ "UNIDENTIFIED", "MALE", "People", "died", ",", "people", "in", "prison", "without", "court", ",", "without", "trial", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "So many people come here, but we don't know about them at all",
+  "sentence_length" : 16,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E1-52",
+    "start" : 4,
+    "end" : 4
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R17",
+  "mentionArg1" : {
+    "extent" : "So many people",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E33-78",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030408.1600.03-R17-1",
+  "relationSubType" : "Located",
+  "Sentence" : "So many people come here , but we do n't know about them at all .",
+  "sentence_index" : 23,
+  "Tokens" : [ "So", "many", "people", "come", "here", ",", "but", "we", "do", "n't", "know", "about", "them", "at", "all", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "These ordinary Iraqis had been terrified to come here, until today, though one student on the left had been here before",
+  "sentence_length" : 25,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E1-54",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R18",
+  "mentionArg1" : {
+    "extent" : "one student on the left",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E35-81",
+    "start" : 15,
+    "end" : 19
+  },
+  "id" : "CNN_IP_20030408.1600.03-R18-1",
+  "relationSubType" : "Located",
+  "Sentence" : "NEELY These ordinary Iraqis had been terrified to come here , until today , though one student on the left had been here before .",
+  "sentence_index" : 24,
+  "Tokens" : [ "NEELY", "These", "ordinary", "Iraqis", "had", "been", "terrified", "to", "come", "here", ",", "until", "today", ",", "though", "one", "student", "on", "the", "left", "had", "been", "here", "before", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "These men had relatives murdered here",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "relatives murdered here",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E39-90",
+    "start" : 4,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R19",
+  "mentionArg1" : {
+    "extent" : "These men",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E22-89",
+    "start" : 1,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030408.1600.03-R19-1",
+  "relationSubType" : "Family",
+  "Sentence" : "NEELY These men had relatives murdered here .",
+  "sentence_index" : 34,
+  "Tokens" : [ "NEELY", "These", "men", "had", "relatives", "murdered", "here", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their brothers and friends",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "their brothers and friends",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E41-97",
+    "start" : 15,
+    "end" : 18
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R20",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E22-96",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030408.1600.03-R20-1",
+  "relationSubType" : "Family",
+  "Sentence" : "So desperate are they to tell their story that they began reenacting what they and their brothers and friends have suffered .",
+  "sentence_index" : 35,
+  "Tokens" : [ "So", "desperate", "are", "they", "to", "tell", "their", "story", "that", "they", "began", "reenacting", "what", "they", "and", "their", "brothers", "and", "friends", "have", "suffered", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "their brothers and friends",
+  "sentence_length" : 22,
+  "mentionArg2" : {
+    "extent" : "their brothers and friends",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E42-98",
+    "start" : 15,
+    "end" : 18
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R21",
+  "mentionArg1" : {
+    "extent" : "their",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E22-96",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030408.1600.03-R21-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "So desperate are they to tell their story that they began reenacting what they and their brothers and friends have suffered .",
+  "sentence_index" : 35,
+  "Tokens" : [ "So", "desperate", "are", "they", "to", "tell", "their", "story", "that", "they", "began", "reenacting", "what", "they", "and", "their", "brothers", "and", "friends", "have", "suffered", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "And it happened here to tens of thousands of Iraqis that Saddam's secret police deemed dangerous",
+  "sentence_length" : 18,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E1-59",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R22",
+  "mentionArg1" : {
+    "extent" : "tens of thousands of Iraqis that Saddam's secret police deemed dangerous",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E44-100",
+    "start" : 5,
+    "end" : 16
+  },
+  "id" : "CNN_IP_20030408.1600.03-R22-1",
+  "relationSubType" : "Located",
+  "Sentence" : "And it happened here to tens of thousands of Iraqis that Saddam 's secret police deemed dangerous .",
+  "sentence_index" : 38,
+  "Tokens" : [ "And", "it", "happened", "here", "to", "tens", "of", "thousands", "of", "Iraqis", "that", "Saddam", "'s", "secret", "police", "deemed", "dangerous", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "This man cowered for months, crammed with 300 mothers into a huge cell",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "a huge cell",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E46-104",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R23",
+  "mentionArg1" : {
+    "extent" : "This man",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E45-102",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030408.1600.03-R23-1",
+  "relationSubType" : "Located",
+  "Sentence" : "This man cowered for months , crammed with 300 mothers into a huge cell .",
+  "sentence_index" : 39,
+  "Tokens" : [ "This", "man", "cowered", "for", "months", ",", "crammed", "with", "300", "mothers", "into", "a", "huge", "cell", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "This man cowered for months, crammed with 300 mothers into a huge cell",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "a huge cell",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E46-104",
+    "start" : 11,
+    "end" : 13
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R23",
+  "mentionArg1" : {
+    "extent" : "This man",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E45-102",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030408.1600.03-R23-2",
+  "relationSubType" : "Located",
+  "Sentence" : "This man cowered for months , crammed with 300 mothers into a huge cell .",
+  "sentence_index" : 39,
+  "Tokens" : [ "This", "man", "cowered", "for", "months", ",", "crammed", "with", "300", "mothers", "into", "a", "huge", "cell", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "his two brothers, who were executed",
+  "sentence_length" : 28,
+  "mentionArg2" : {
+    "extent" : "his two brothers, who were executed",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E48-109",
+    "start" : 20,
+    "end" : 26
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R25",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E45-108",
+    "start" : 20,
+    "end" : 20
+  },
+  "id" : "CNN_IP_20030408.1600.03-R25-1",
+  "relationSubType" : "Family",
+  "Sentence" : "Hamid Fatil ( ph ) may look like he 's acting , but he was tortured here , along with his two brothers , who were executed .",
+  "sentence_index" : 40,
+  "Tokens" : [ "Hamid", "Fatil", "(", "ph", ")", "may", "look", "like", "he", "'s", "acting", ",", "but", "he", "was", "tortured", "here", ",", "along", "with", "his", "two", "brothers", ",", "who", "were", "executed", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "This man was here, too, with his brother",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E1-61",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R26",
+  "mentionArg1" : {
+    "extent" : "This man",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E49-111",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030408.1600.03-R26-1",
+  "relationSubType" : "Located",
+  "Sentence" : "This man was here , too , with his brother .",
+  "sentence_index" : 41,
+  "Tokens" : [ "This", "man", "was", "here", ",", "too", ",", "with", "his", "brother", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "This man was here, too, with his brother",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E1-61",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R27",
+  "mentionArg1" : {
+    "extent" : "his brother",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E50-113",
+    "start" : 8,
+    "end" : 9
+  },
+  "id" : "CNN_IP_20030408.1600.03-R27-1",
+  "relationSubType" : "Located",
+  "Sentence" : "This man was here , too , with his brother .",
+  "sentence_index" : 41,
+  "Tokens" : [ "This", "man", "was", "here", ",", "too", ",", "with", "his", "brother", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "He was hanged there, hanged",
+  "sentence_length" : 7,
+  "mentionArg2" : {
+    "extent" : "there",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E12-119",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R28",
+  "mentionArg1" : {
+    "extent" : "He",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E50-118",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "CNN_IP_20030408.1600.03-R28-1",
+  "relationSubType" : "Located",
+  "Sentence" : "He was hanged there , hanged .",
+  "sentence_index" : 44,
+  "Tokens" : [ "He", "was", "hanged", "there", ",", "hanged", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In this block, it was men over here, hundreds of them, and women and children here",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "this block",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E53-126",
+    "start" : 1,
+    "end" : 2
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R29",
+  "mentionArg1" : {
+    "extent" : "men",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E55-128",
+    "start" : 6,
+    "end" : 6
+  },
+  "id" : "CNN_IP_20030408.1600.03-R29-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In this block , it was men over here , hundreds of them , and women and children here .",
+  "sentence_index" : 49,
+  "Tokens" : [ "In", "this", "block", ",", "it", "was", "men", "over", "here", ",", "hundreds", "of", "them", ",", "and", "women", "and", "children", "here", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In this block, it was men over here, hundreds of them, and women and children here",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "this block",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E53-126",
+    "start" : 1,
+    "end" : 2
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R30",
+  "mentionArg1" : {
+    "extent" : "women",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E56-129",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "CNN_IP_20030408.1600.03-R30-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In this block , it was men over here , hundreds of them , and women and children here .",
+  "sentence_index" : 49,
+  "Tokens" : [ "In", "this", "block", ",", "it", "was", "men", "over", "here", ",", "hundreds", "of", "them", ",", "and", "women", "and", "children", "here", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "In this block, it was men over here, hundreds of them, and women and children here",
+  "sentence_length" : 20,
+  "mentionArg2" : {
+    "extent" : "this block",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E53-126",
+    "start" : 1,
+    "end" : 2
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R31",
+  "mentionArg1" : {
+    "extent" : "children",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E57-130",
+    "start" : 17,
+    "end" : 17
+  },
+  "id" : "CNN_IP_20030408.1600.03-R31-1",
+  "relationSubType" : "Located",
+  "Sentence" : "In this block , it was men over here , hundreds of them , and women and children here .",
+  "sentence_index" : 49,
+  "Tokens" : [ "In", "this", "block", ",", "it", "was", "men", "over", "here", ",", "hundreds", "of", "them", ",", "and", "women", "and", "children", "here", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The hundreds or thousands who died here who were given no trial, no voice, cry out",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E1-66",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R32",
+  "mentionArg1" : {
+    "extent" : "who",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E58-132",
+    "start" : 4,
+    "end" : 4
+  },
+  "id" : "CNN_IP_20030408.1600.03-R32-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The hundreds or thousands who died here who were given no trial , no voice , cry out .",
+  "sentence_index" : 52,
+  "Tokens" : [ "The", "hundreds", "or", "thousands", "who", "died", "here", "who", "were", "given", "no", "trial", ",", "no", "voice", ",", "cry", "out", "." ]
+}, {
+  "relationType" : "ART",
+  "extent" : "On the ground, I found a book called \"The Psychology of Interrogation,\" as if the men who worked here for Saddam",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "here",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E1-67",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R33",
+  "mentionArg1" : {
+    "extent" : "the men who worked here for Saddam",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E59-135",
+    "start" : 18,
+    "end" : 24
+  },
+  "id" : "CNN_IP_20030408.1600.03-R33-1",
+  "relationSubType" : "User-Owner-Inventor-Manufacturer",
+  "Sentence" : "On the ground , I found a book called \" The Psychology of Interrogation , \" as if the men who worked here for Saddam needed a handbook .",
+  "sentence_index" : 53,
+  "Tokens" : [ "On", "the", "ground", ",", "I", "found", "a", "book", "called", "\"", "The", "Psychology", "of", "Interrogation", ",", "\"", "as", "if", "the", "men", "who", "worked", "here", "for", "Saddam", "needed", "a", "handbook", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Bill Neely, ITV News, Basra",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "Basra",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E15-70",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R34",
+  "mentionArg1" : {
+    "extent" : "Bill Neely",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E17-68",
+    "start" : 0,
+    "end" : 1
+  },
+  "id" : "CNN_IP_20030408.1600.03-R34-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Bill Neely , ITV News , Basra .",
+  "sentence_index" : 56,
+  "Tokens" : [ "Bill", "Neely", ",", "ITV", "News", ",", "Basra", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Journalists killed in the line of duty in Baghdad",
+  "sentence_length" : 21,
+  "mentionArg2" : {
+    "extent" : "Baghdad",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E12-25",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R35",
+  "mentionArg1" : {
+    "extent" : "Journalists killed in the line of duty in Baghdad",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E62-140",
+    "start" : 0,
+    "end" : 8
+  },
+  "id" : "CNN_IP_20030408.1600.03-R35-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Journalists killed in the line of duty in Baghdad -- how neutral are reporters in a war supposed to be ?",
+  "sentence_index" : 58,
+  "Tokens" : [ "Journalists", "killed", "in", "the", "line", "of", "duty", "in", "Baghdad", "--", "how", "neutral", "are", "reporters", "in", "a", "war", "supposed", "to", "be", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Our Jeff Greenfield",
+  "sentence_length" : 11,
+  "mentionArg2" : {
+    "extent" : "Our",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E47-143",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_IP_20030408.1600.03-R36",
+  "mentionArg1" : {
+    "extent" : "Our Jeff Greenfield",
+    "argMentionid" : "CNN_IP_20030408.1600.03-E64-142",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "CNN_IP_20030408.1600.03-R36-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Our Jeff Greenfield examines that question when we come back .",
+  "sentence_index" : 59,
+  "Tokens" : [ "Our", "Jeff", "Greenfield", "examines", "that", "question", "when", "we", "come", "back", "." ]
+} ]

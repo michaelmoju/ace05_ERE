@@ -1,0 +1,331 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "its air crews",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "its",
+    "argMentionid" : "XIN_ENG_20030514.0157-E24-39",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "XIN_ENG_20030514.0157-R1",
+  "mentionArg1" : {
+    "extent" : "its air crews",
+    "argMentionid" : "XIN_ENG_20030514.0157-E26-41",
+    "start" : 20,
+    "end" : 22
+  },
+  "id" : "XIN_ENG_20030514.0157-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "LONDON , May 14 ( Xinhua ) British Airways ( BA ) announced on Wednesday it had canceled stopovers for its air crews in Saudi Arabia following a change in the British government 's travel advice after the suicide blasts in the Saudi capital of Riyadh .",
+  "sentence_index" : 0,
+  "Tokens" : [ "LONDON", ",", "May", "14", "(", "Xinhua", ")", "British", "Airways", "(", "BA", ")", "announced", "on", "Wednesday", "it", "had", "canceled", "stopovers", "for", "its", "air", "crews", "in", "Saudi", "Arabia", "following", "a", "change", "in", "the", "British", "government", "'s", "travel", "advice", "after", "the", "suicide", "blasts", "in", "the", "Saudi", "capital", "of", "Riyadh", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Saudi capital of Riyadh",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "Saudi",
+    "argMentionid" : "XIN_ENG_20030514.0157-E7-45",
+    "start" : 42,
+    "end" : 42
+  },
+  "relationID" : "XIN_ENG_20030514.0157-R2",
+  "mentionArg1" : {
+    "extent" : "the Saudi capital of Riyadh",
+    "argMentionid" : "XIN_ENG_20030514.0157-E28-43",
+    "start" : 41,
+    "end" : 45
+  },
+  "id" : "XIN_ENG_20030514.0157-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "LONDON , May 14 ( Xinhua ) British Airways ( BA ) announced on Wednesday it had canceled stopovers for its air crews in Saudi Arabia following a change in the British government 's travel advice after the suicide blasts in the Saudi capital of Riyadh .",
+  "sentence_index" : 0,
+  "Tokens" : [ "LONDON", ",", "May", "14", "(", "Xinhua", ")", "British", "Airways", "(", "BA", ")", "announced", "on", "Wednesday", "it", "had", "canceled", "stopovers", "for", "its", "air", "crews", "in", "Saudi", "Arabia", "following", "a", "change", "in", "the", "British", "government", "'s", "travel", "advice", "after", "the", "suicide", "blasts", "in", "the", "Saudi", "capital", "of", "Riyadh", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "A spokeswoman for Europe's biggest airline",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "Europe's biggest airline",
+    "argMentionid" : "XIN_ENG_20030514.0157-E24-47",
+    "start" : 3,
+    "end" : 6
+  },
+  "relationID" : "XIN_ENG_20030514.0157-R3",
+  "mentionArg1" : {
+    "extent" : "A spokeswoman for Europe's biggest airline",
+    "argMentionid" : "XIN_ENG_20030514.0157-E30-46",
+    "start" : 0,
+    "end" : 6
+  },
+  "id" : "XIN_ENG_20030514.0157-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "A spokeswoman for Europe 's biggest airline said the decision to stop using hotels in Riyadh and Jeddah and instead lodge crew in Larnaca , Cyprus was taken after the British Foreign Office advised on Tuesday against non-essential travel to Saudi Arabia .",
+  "sentence_index" : 1,
+  "Tokens" : [ "A", "spokeswoman", "for", "Europe", "'s", "biggest", "airline", "said", "the", "decision", "to", "stop", "using", "hotels", "in", "Riyadh", "and", "Jeddah", "and", "instead", "lodge", "crew", "in", "Larnaca", ",", "Cyprus", "was", "taken", "after", "the", "British", "Foreign", "Office", "advised", "on", "Tuesday", "against", "non-essential", "travel", "to", "Saudi", "Arabia", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Europe's biggest airline",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "Europe",
+    "argMentionid" : "XIN_ENG_20030514.0157-E31-48",
+    "start" : 3,
+    "end" : 3
+  },
+  "relationID" : "XIN_ENG_20030514.0157-R4",
+  "mentionArg1" : {
+    "extent" : "Europe's biggest airline",
+    "argMentionid" : "XIN_ENG_20030514.0157-E24-47",
+    "start" : 3,
+    "end" : 6
+  },
+  "id" : "XIN_ENG_20030514.0157-R4-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "A spokeswoman for Europe 's biggest airline said the decision to stop using hotels in Riyadh and Jeddah and instead lodge crew in Larnaca , Cyprus was taken after the British Foreign Office advised on Tuesday against non-essential travel to Saudi Arabia .",
+  "sentence_index" : 1,
+  "Tokens" : [ "A", "spokeswoman", "for", "Europe", "'s", "biggest", "airline", "said", "the", "decision", "to", "stop", "using", "hotels", "in", "Riyadh", "and", "Jeddah", "and", "instead", "lodge", "crew", "in", "Larnaca", ",", "Cyprus", "was", "taken", "after", "the", "British", "Foreign", "Office", "advised", "on", "Tuesday", "against", "non-essential", "travel", "to", "Saudi", "Arabia", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "hotels in Riyadh and Jeddah",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "Riyadh",
+    "argMentionid" : "XIN_ENG_20030514.0157-E28-50",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "XIN_ENG_20030514.0157-R5",
+  "mentionArg1" : {
+    "extent" : "hotels in Riyadh and Jeddah",
+    "argMentionid" : "XIN_ENG_20030514.0157-E32-49",
+    "start" : 13,
+    "end" : 17
+  },
+  "id" : "XIN_ENG_20030514.0157-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "A spokeswoman for Europe 's biggest airline said the decision to stop using hotels in Riyadh and Jeddah and instead lodge crew in Larnaca , Cyprus was taken after the British Foreign Office advised on Tuesday against non-essential travel to Saudi Arabia .",
+  "sentence_index" : 1,
+  "Tokens" : [ "A", "spokeswoman", "for", "Europe", "'s", "biggest", "airline", "said", "the", "decision", "to", "stop", "using", "hotels", "in", "Riyadh", "and", "Jeddah", "and", "instead", "lodge", "crew", "in", "Larnaca", ",", "Cyprus", "was", "taken", "after", "the", "British", "Foreign", "Office", "advised", "on", "Tuesday", "against", "non-essential", "travel", "to", "Saudi", "Arabia", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "hotels in Riyadh and Jeddah",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "Jeddah",
+    "argMentionid" : "XIN_ENG_20030514.0157-E1-2",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "XIN_ENG_20030514.0157-R6",
+  "mentionArg1" : {
+    "extent" : "hotels in Riyadh and Jeddah",
+    "argMentionid" : "XIN_ENG_20030514.0157-E32-49",
+    "start" : 13,
+    "end" : 17
+  },
+  "id" : "XIN_ENG_20030514.0157-R6-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "A spokeswoman for Europe 's biggest airline said the decision to stop using hotels in Riyadh and Jeddah and instead lodge crew in Larnaca , Cyprus was taken after the British Foreign Office advised on Tuesday against non-essential travel to Saudi Arabia .",
+  "sentence_index" : 1,
+  "Tokens" : [ "A", "spokeswoman", "for", "Europe", "'s", "biggest", "airline", "said", "the", "decision", "to", "stop", "using", "hotels", "in", "Riyadh", "and", "Jeddah", "and", "instead", "lodge", "crew", "in", "Larnaca", ",", "Cyprus", "was", "taken", "after", "the", "British", "Foreign", "Office", "advised", "on", "Tuesday", "against", "non-essential", "travel", "to", "Saudi", "Arabia", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Larnaca, Cyprus",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "Cyprus",
+    "argMentionid" : "XIN_ENG_20030514.0157-E3-5",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "XIN_ENG_20030514.0157-R7",
+  "mentionArg1" : {
+    "extent" : "Larnaca, Cyprus",
+    "argMentionid" : "XIN_ENG_20030514.0157-E2-4",
+    "start" : 23,
+    "end" : 25
+  },
+  "id" : "XIN_ENG_20030514.0157-R7-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "A spokeswoman for Europe 's biggest airline said the decision to stop using hotels in Riyadh and Jeddah and instead lodge crew in Larnaca , Cyprus was taken after the British Foreign Office advised on Tuesday against non-essential travel to Saudi Arabia .",
+  "sentence_index" : 1,
+  "Tokens" : [ "A", "spokeswoman", "for", "Europe", "'s", "biggest", "airline", "said", "the", "decision", "to", "stop", "using", "hotels", "in", "Riyadh", "and", "Jeddah", "and", "instead", "lodge", "crew", "in", "Larnaca", ",", "Cyprus", "was", "taken", "after", "the", "British", "Foreign", "Office", "advised", "on", "Tuesday", "against", "non-essential", "travel", "to", "Saudi", "Arabia", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the British Foreign Office",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "British",
+    "argMentionid" : "XIN_ENG_20030514.0157-E20-33",
+    "start" : 30,
+    "end" : 30
+  },
+  "relationID" : "XIN_ENG_20030514.0157-R8",
+  "mentionArg1" : {
+    "extent" : "the British Foreign Office",
+    "argMentionid" : "XIN_ENG_20030514.0157-E4-32",
+    "start" : 29,
+    "end" : 32
+  },
+  "id" : "XIN_ENG_20030514.0157-R8-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "A spokeswoman for Europe 's biggest airline said the decision to stop using hotels in Riyadh and Jeddah and instead lodge crew in Larnaca , Cyprus was taken after the British Foreign Office advised on Tuesday against non-essential travel to Saudi Arabia .",
+  "sentence_index" : 1,
+  "Tokens" : [ "A", "spokeswoman", "for", "Europe", "'s", "biggest", "airline", "said", "the", "decision", "to", "stop", "using", "hotels", "in", "Riyadh", "and", "Jeddah", "and", "instead", "lodge", "crew", "in", "Larnaca", ",", "Cyprus", "was", "taken", "after", "the", "British", "Foreign", "Office", "advised", "on", "Tuesday", "against", "non-essential", "travel", "to", "Saudi", "Arabia", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "A spokeswoman for Europe's biggest airline said the decision to stop using hotels in Riyadh and Jeddah and instead lodge crew in Larnaca, Cyprus was taken after the British Foreign Office advised on Tuesday against non-essential travel to Saudi Arabia",
+  "sentence_length" : 43,
+  "mentionArg2" : {
+    "extent" : "Larnaca, Cyprus",
+    "argMentionid" : "XIN_ENG_20030514.0157-E2-4",
+    "start" : 23,
+    "end" : 25
+  },
+  "relationID" : "XIN_ENG_20030514.0157-R9",
+  "mentionArg1" : {
+    "extent" : "crew",
+    "argMentionid" : "XIN_ENG_20030514.0157-E26-3",
+    "start" : 21,
+    "end" : 21
+  },
+  "id" : "XIN_ENG_20030514.0157-R9-1",
+  "relationSubType" : "Located",
+  "Sentence" : "A spokeswoman for Europe 's biggest airline said the decision to stop using hotels in Riyadh and Jeddah and instead lodge crew in Larnaca , Cyprus was taken after the British Foreign Office advised on Tuesday against non-essential travel to Saudi Arabia .",
+  "sentence_index" : 1,
+  "Tokens" : [ "A", "spokeswoman", "for", "Europe", "'s", "biggest", "airline", "said", "the", "decision", "to", "stop", "using", "hotels", "in", "Riyadh", "and", "Jeddah", "and", "instead", "lodge", "crew", "in", "Larnaca", ",", "Cyprus", "was", "taken", "after", "the", "British", "Foreign", "Office", "advised", "on", "Tuesday", "against", "non-essential", "travel", "to", "Saudi", "Arabia", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Our cabin and flight crews will stay overnight in Larnaca as they did during the (Iraq) war,\" said the spokeswoman, adding that BA would continue direct flights to both Saudi cities from London, but return flights would be via Larnaca",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "Larnaca",
+    "argMentionid" : "XIN_ENG_20030514.0157-E2-8",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "XIN_ENG_20030514.0157-R9",
+  "mentionArg1" : {
+    "extent" : "Our cabin and flight crews",
+    "argMentionid" : "XIN_ENG_20030514.0157-E26-7",
+    "start" : 1,
+    "end" : 5
+  },
+  "id" : "XIN_ENG_20030514.0157-R9-2",
+  "relationSubType" : "Located",
+  "Sentence" : "\" Our cabin and flight crews will stay overnight in Larnaca as they did during the ( Iraq ) war , \" said the spokeswoman , adding that BA would continue direct flights to both Saudi cities from London , but return flights would be via Larnaca .",
+  "sentence_index" : 2,
+  "Tokens" : [ "\"", "Our", "cabin", "and", "flight", "crews", "will", "stay", "overnight", "in", "Larnaca", "as", "they", "did", "during", "the", "(", "Iraq", ")", "war", ",", "\"", "said", "the", "spokeswoman", ",", "adding", "that", "BA", "would", "continue", "direct", "flights", "to", "both", "Saudi", "cities", "from", "London", ",", "but", "return", "flights", "would", "be", "via", "Larnaca", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "suspected al-Qaeda suicide bombers",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "al-Qaeda",
+    "argMentionid" : "XIN_ENG_20030514.0157-E11-20",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "XIN_ENG_20030514.0157-R10",
+  "mentionArg1" : {
+    "extent" : "suspected al-Qaeda suicide bombers",
+    "argMentionid" : "XIN_ENG_20030514.0157-E10-19",
+    "start" : 16,
+    "end" : 19
+  },
+  "id" : "XIN_ENG_20030514.0157-R10-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "At least 34 people , including up to 10 Americans , were killed Monday night when suspected al-Qaeda suicide bombers shot their way into housing compounds in Riyadh , hours before US Secretary of State Colin Powell was due to visit .",
+  "sentence_index" : 3,
+  "Tokens" : [ "At", "least", "34", "people", ",", "including", "up", "to", "10", "Americans", ",", "were", "killed", "Monday", "night", "when", "suspected", "al-Qaeda", "suicide", "bombers", "shot", "their", "way", "into", "housing", "compounds", "in", "Riyadh", ",", "hours", "before", "US", "Secretary", "of", "State", "Colin", "Powell", "was", "due", "to", "visit", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "At least 34 people, including up to 10 Americans, were killed Monday night when suspected al-Qaeda suicide bombers shot their way into housing compounds in Riyadh, hours before US Secretary of State Colin Powell was due to visit",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "housing compounds in Riyadh",
+    "argMentionid" : "XIN_ENG_20030514.0157-E12-22",
+    "start" : 24,
+    "end" : 27
+  },
+  "relationID" : "XIN_ENG_20030514.0157-R11",
+  "mentionArg1" : {
+    "extent" : "suspected al-Qaeda suicide bombers",
+    "argMentionid" : "XIN_ENG_20030514.0157-E10-19",
+    "start" : 16,
+    "end" : 19
+  },
+  "id" : "XIN_ENG_20030514.0157-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "At least 34 people , including up to 10 Americans , were killed Monday night when suspected al-Qaeda suicide bombers shot their way into housing compounds in Riyadh , hours before US Secretary of State Colin Powell was due to visit .",
+  "sentence_index" : 3,
+  "Tokens" : [ "At", "least", "34", "people", ",", "including", "up", "to", "10", "Americans", ",", "were", "killed", "Monday", "night", "when", "suspected", "al-Qaeda", "suicide", "bombers", "shot", "their", "way", "into", "housing", "compounds", "in", "Riyadh", ",", "hours", "before", "US", "Secretary", "of", "State", "Colin", "Powell", "was", "due", "to", "visit", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "both Saudi cities",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "Saudi",
+    "argMentionid" : "XIN_ENG_20030514.0157-E7-14",
+    "start" : 35,
+    "end" : 35
+  },
+  "relationID" : "XIN_ENG_20030514.0157-R12",
+  "mentionArg1" : {
+    "extent" : "both Saudi cities",
+    "argMentionid" : "XIN_ENG_20030514.0157-E6-13",
+    "start" : 34,
+    "end" : 36
+  },
+  "id" : "XIN_ENG_20030514.0157-R12-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "\" Our cabin and flight crews will stay overnight in Larnaca as they did during the ( Iraq ) war , \" said the spokeswoman , adding that BA would continue direct flights to both Saudi cities from London , but return flights would be via Larnaca .",
+  "sentence_index" : 2,
+  "Tokens" : [ "\"", "Our", "cabin", "and", "flight", "crews", "will", "stay", "overnight", "in", "Larnaca", "as", "they", "did", "during", "the", "(", "Iraq", ")", "war", ",", "\"", "said", "the", "spokeswoman", ",", "adding", "that", "BA", "would", "continue", "direct", "flights", "to", "both", "Saudi", "cities", "from", "London", ",", "but", "return", "flights", "would", "be", "via", "Larnaca", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "housing compounds in Riyadh",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Riyadh",
+    "argMentionid" : "XIN_ENG_20030514.0157-E28-23",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "XIN_ENG_20030514.0157-R13",
+  "mentionArg1" : {
+    "extent" : "housing compounds in Riyadh",
+    "argMentionid" : "XIN_ENG_20030514.0157-E12-22",
+    "start" : 24,
+    "end" : 27
+  },
+  "id" : "XIN_ENG_20030514.0157-R13-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "At least 34 people , including up to 10 Americans , were killed Monday night when suspected al-Qaeda suicide bombers shot their way into housing compounds in Riyadh , hours before US Secretary of State Colin Powell was due to visit .",
+  "sentence_index" : 3,
+  "Tokens" : [ "At", "least", "34", "people", ",", "including", "up", "to", "10", "Americans", ",", "were", "killed", "Monday", "night", "when", "suspected", "al-Qaeda", "suicide", "bombers", "shot", "their", "way", "into", "housing", "compounds", "in", "Riyadh", ",", "hours", "before", "US", "Secretary", "of", "State", "Colin", "Powell", "was", "due", "to", "visit", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "US Secretary of State",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "XIN_ENG_20030514.0157-E15-26",
+    "start" : 31,
+    "end" : 31
+  },
+  "relationID" : "XIN_ENG_20030514.0157-R14",
+  "mentionArg1" : {
+    "extent" : "US Secretary of State",
+    "argMentionid" : "XIN_ENG_20030514.0157-E13-25",
+    "start" : 31,
+    "end" : 34
+  },
+  "id" : "XIN_ENG_20030514.0157-R14-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "At least 34 people , including up to 10 Americans , were killed Monday night when suspected al-Qaeda suicide bombers shot their way into housing compounds in Riyadh , hours before US Secretary of State Colin Powell was due to visit .",
+  "sentence_index" : 3,
+  "Tokens" : [ "At", "least", "34", "people", ",", "including", "up", "to", "10", "Americans", ",", "were", "killed", "Monday", "night", "when", "suspected", "al-Qaeda", "suicide", "bombers", "shot", "their", "way", "into", "housing", "compounds", "in", "Riyadh", ",", "hours", "before", "US", "Secretary", "of", "State", "Colin", "Powell", "was", "due", "to", "visit", "." ]
+} ]

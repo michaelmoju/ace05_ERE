@@ -1,0 +1,705 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "Hu, who was appointed to the top job in March, will meet his Russian counterpart Vladimir Putin",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Vladimir Putin",
+    "argMentionid" : "AFP_ENG_20030522.0878-E60-151",
+    "start" : 17,
+    "end" : 18
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R1",
+  "mentionArg1" : {
+    "extent" : "Hu, who was appointed to the top job in March",
+    "argMentionid" : "AFP_ENG_20030522.0878-E64-148",
+    "start" : 0,
+    "end" : 10
+  },
+  "id" : "AFP_ENG_20030522.0878-R1-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Hu , who was appointed to the top job in March , will meet his Russian counterpart Vladimir Putin during his three-day state visit from May 26 to 28 .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Hu", ",", "who", "was", "appointed", "to", "the", "top", "job", "in", "March", ",", "will", "meet", "his", "Russian", "counterpart", "Vladimir", "Putin", "during", "his", "three-day", "state", "visit", "from", "May", "26", "to", "28", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Putin, who enjoyed a warm relationship with former Chinese president Jiang Zeming, has made efforts to nurture ties with Hu",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Putin, who enjoyed a warm relationship with former Chinese president Jiang Zeming",
+    "argMentionid" : "AFP_ENG_20030522.0878-E60-21",
+    "start" : 0,
+    "end" : 12
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R1",
+  "mentionArg1" : {
+    "extent" : "Hu",
+    "argMentionid" : "AFP_ENG_20030522.0878-E64-25",
+    "start" : 21,
+    "end" : 21
+  },
+  "id" : "AFP_ENG_20030522.0878-R1-2",
+  "relationSubType" : "Business",
+  "Sentence" : "Putin , who enjoyed a warm relationship with former Chinese president Jiang Zeming , has made efforts to nurture ties with Hu and was the first world leader to go to Beijing to meet him in December when he was president-in-waiting .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Putin", ",", "who", "enjoyed", "a", "warm", "relationship", "with", "former", "Chinese", "president", "Jiang", "Zeming", ",", "has", "made", "efforts", "to", "nurture", "ties", "with", "Hu", "and", "was", "the", "first", "world", "leader", "to", "go", "to", "Beijing", "to", "meet", "him", "in", "December", "when", "he", "was", "president-in-waiting", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Presidents Vladimir Putin and Hu Jintao have developed good personal contacts",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "Presidents Vladimir Putin",
+    "argMentionid" : "AFP_ENG_20030522.0878-E60-31",
+    "start" : 1,
+    "end" : 3
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R1",
+  "mentionArg1" : {
+    "extent" : "Presidents Vladimir Putin and Hu Jintao",
+    "argMentionid" : "AFP_ENG_20030522.0878-E64-32",
+    "start" : 1,
+    "end" : 6
+  },
+  "id" : "AFP_ENG_20030522.0878-R1-3",
+  "relationSubType" : "Business",
+  "Sentence" : "\" Presidents Vladimir Putin and Hu Jintao have developed good personal contacts , which will undoubtedly facilitate the promotion of the Russian strategic partnership , \" Russia 's ambassador to China Igor Rogachyov said , quoted by Interfax .",
+  "sentence_index" : 7,
+  "Tokens" : [ "\"", "Presidents", "Vladimir", "Putin", "and", "Hu", "Jintao", "have", "developed", "good", "personal", "contacts", ",", "which", "will", "undoubtedly", "facilitate", "the", "promotion", "of", "the", "Russian", "strategic", "partnership", ",", "\"", "Russia", "'s", "ambassador", "to", "China", "Igor", "Rogachyov", "said", ",", "quoted", "by", "Interfax", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "The Chinese are trying to establish a rapport (between Hu and Putin",
+  "sentence_length" : 23,
+  "mentionArg2" : {
+    "extent" : "Putin",
+    "argMentionid" : "AFP_ENG_20030522.0878-E60-122",
+    "start" : 13,
+    "end" : 13
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R1",
+  "mentionArg1" : {
+    "extent" : "Hu",
+    "argMentionid" : "AFP_ENG_20030522.0878-E64-121",
+    "start" : 11,
+    "end" : 11
+  },
+  "id" : "AFP_ENG_20030522.0878-R1-4",
+  "relationSubType" : "Business",
+  "Sentence" : "\" The Chinese are trying to establish a rapport ( between Hu and Putin ) and this is in Russia 's interests .",
+  "sentence_index" : 22,
+  "Tokens" : [ "\"", "The", "Chinese", "are", "trying", "to", "establish", "a", "rapport", "(", "between", "Hu", "and", "Putin", ")", "and", "this", "is", "in", "Russia", "'s", "interests", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Chinese President Hu Jintao Monday will make Russia his first foreign destination",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "Russia",
+    "argMentionid" : "AFP_ENG_20030522.0878-E3-142",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R2",
+  "mentionArg1" : {
+    "extent" : "Chinese President",
+    "argMentionid" : "AFP_ENG_20030522.0878-E64-138",
+    "start" : 15,
+    "end" : 16
+  },
+  "id" : "AFP_ENG_20030522.0878-R2-1",
+  "relationSubType" : "Located",
+  "Sentence" : "MOSCOW , May 23 ( AFP ) Highlighting close ties between Moscow and Beijing , Chinese President Hu Jintao Monday will make Russia his first foreign destination since becoming leader in a visit that could seal a major pipeline accord .",
+  "sentence_index" : 0,
+  "Tokens" : [ "MOSCOW", ",", "May", "23", "(", "AFP", ")", "Highlighting", "close", "ties", "between", "Moscow", "and", "Beijing", ",", "Chinese", "President", "Hu", "Jintao", "Monday", "will", "make", "Russia", "his", "first", "foreign", "destination", "since", "becoming", "leader", "in", "a", "visit", "that", "could", "seal", "a", "major", "pipeline", "accord", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "This upcoming visit to Russia will be my first trip aboard",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "Russia",
+    "argMentionid" : "AFP_ENG_20030522.0878-E3-3",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R2",
+  "mentionArg1" : {
+    "extent" : "my",
+    "argMentionid" : "AFP_ENG_20030522.0878-E64-131",
+    "start" : 8,
+    "end" : 8
+  },
+  "id" : "AFP_ENG_20030522.0878-R2-2",
+  "relationSubType" : "Located",
+  "Sentence" : "\" This upcoming visit to Russia will be my first trip aboard since I became president of China .",
+  "sentence_index" : 3,
+  "Tokens" : [ "\"", "This", "upcoming", "visit", "to", "Russia", "will", "be", "my", "first", "trip", "aboard", "since", "I", "became", "president", "of", "China", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Chinese President Hu Jintao",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "Chinese",
+    "argMentionid" : "AFP_ENG_20030522.0878-E4-13",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R3",
+  "mentionArg1" : {
+    "extent" : "Chinese President Hu Jintao",
+    "argMentionid" : "AFP_ENG_20030522.0878-E64-140",
+    "start" : 15,
+    "end" : 18
+  },
+  "id" : "AFP_ENG_20030522.0878-R3-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "MOSCOW , May 23 ( AFP ) Highlighting close ties between Moscow and Beijing , Chinese President Hu Jintao Monday will make Russia his first foreign destination since becoming leader in a visit that could seal a major pipeline accord .",
+  "sentence_index" : 0,
+  "Tokens" : [ "MOSCOW", ",", "May", "23", "(", "AFP", ")", "Highlighting", "close", "ties", "between", "Moscow", "and", "Beijing", ",", "Chinese", "President", "Hu", "Jintao", "Monday", "will", "make", "Russia", "his", "first", "foreign", "destination", "since", "becoming", "leader", "in", "a", "visit", "that", "could", "seal", "a", "major", "pipeline", "accord", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "president of China",
+  "sentence_length" : 19,
+  "mentionArg2" : {
+    "extent" : "China",
+    "argMentionid" : "AFP_ENG_20030522.0878-E4-6",
+    "start" : 17,
+    "end" : 17
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R3",
+  "mentionArg1" : {
+    "extent" : "president of China",
+    "argMentionid" : "AFP_ENG_20030522.0878-E64-5",
+    "start" : 15,
+    "end" : 17
+  },
+  "id" : "AFP_ENG_20030522.0878-R3-2",
+  "relationSubType" : "Employment",
+  "Sentence" : "\" This upcoming visit to Russia will be my first trip aboard since I became president of China .",
+  "sentence_index" : 3,
+  "Tokens" : [ "\"", "This", "upcoming", "visit", "to", "Russia", "will", "be", "my", "first", "trip", "aboard", "since", "I", "became", "president", "of", "China", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "He will then stay on for a regional summit before heading to Saint Petersburg",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Saint Petersburg",
+    "argMentionid" : "AFP_ENG_20030522.0878-E1-157",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R4",
+  "mentionArg1" : {
+    "extent" : "He",
+    "argMentionid" : "AFP_ENG_20030522.0878-E64-156",
+    "start" : 0,
+    "end" : 0
+  },
+  "id" : "AFP_ENG_20030522.0878-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "He will then stay on for a regional summit before heading to Saint Petersburg for celebrations marking the 300th anniversary of the city 's founding .",
+  "sentence_index" : 2,
+  "Tokens" : [ "He", "will", "then", "stay", "on", "for", "a", "regional", "summit", "before", "heading", "to", "Saint", "Petersburg", "for", "celebrations", "marking", "the", "300th", "anniversary", "of", "the", "city", "'s", "founding", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Russian counterpart Vladimir Putin",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "Russian",
+    "argMentionid" : "AFP_ENG_20030522.0878-E3-14",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R5",
+  "mentionArg1" : {
+    "extent" : "Vladimir Putin",
+    "argMentionid" : "AFP_ENG_20030522.0878-E60-151",
+    "start" : 17,
+    "end" : 18
+  },
+  "id" : "AFP_ENG_20030522.0878-R5-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Hu , who was appointed to the top job in March , will meet his Russian counterpart Vladimir Putin during his three-day state visit from May 26 to 28 .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Hu", ",", "who", "was", "appointed", "to", "the", "top", "job", "in", "March", ",", "will", "meet", "his", "Russian", "counterpart", "Vladimir", "Putin", "during", "his", "three-day", "state", "visit", "from", "May", "26", "to", "28", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Russia's Interfax news agency",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Russia",
+    "argMentionid" : "AFP_ENG_20030522.0878-E3-12",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R6",
+  "mentionArg1" : {
+    "extent" : "Interfax",
+    "argMentionid" : "AFP_ENG_20030522.0878-E2-11",
+    "start" : 29,
+    "end" : 29
+  },
+  "id" : "AFP_ENG_20030522.0878-R6-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "I plan a thorough exchange of views with President Vladimir Putin on bilateral and important regional and international issues , \" Hu said in an interview with Russia 's Interfax news agency .",
+  "sentence_index" : 4,
+  "Tokens" : [ "I", "plan", "a", "thorough", "exchange", "of", "views", "with", "President", "Vladimir", "Putin", "on", "bilateral", "and", "important", "regional", "and", "international", "issues", ",", "\"", "Hu", "said", "in", "an", "interview", "with", "Russia", "'s", "Interfax", "news", "agency", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Russia's Interfax news agency",
+  "sentence_length" : 33,
+  "mentionArg2" : {
+    "extent" : "Russia",
+    "argMentionid" : "AFP_ENG_20030522.0878-E3-12",
+    "start" : 27,
+    "end" : 27
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R7",
+  "mentionArg1" : {
+    "extent" : "Interfax",
+    "argMentionid" : "AFP_ENG_20030522.0878-E2-11",
+    "start" : 29,
+    "end" : 29
+  },
+  "id" : "AFP_ENG_20030522.0878-R7-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "I plan a thorough exchange of views with President Vladimir Putin on bilateral and important regional and international issues , \" Hu said in an interview with Russia 's Interfax news agency .",
+  "sentence_index" : 4,
+  "Tokens" : [ "I", "plan", "a", "thorough", "exchange", "of", "views", "with", "President", "Vladimir", "Putin", "on", "bilateral", "and", "important", "regional", "and", "international", "issues", ",", "\"", "Hu", "said", "in", "an", "interview", "with", "Russia", "'s", "Interfax", "news", "agency", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Russian crude to energy-hungry China",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "energy-hungry China",
+    "argMentionid" : "AFP_ENG_20030522.0878-E4-70",
+    "start" : 43,
+    "end" : 44
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R8",
+  "mentionArg1" : {
+    "extent" : "Russian",
+    "argMentionid" : "AFP_ENG_20030522.0878-E3-69",
+    "start" : 40,
+    "end" : 40
+  },
+  "id" : "AFP_ENG_20030522.0878-R8-1",
+  "relationSubType" : "Near",
+  "Sentence" : "Leaders of the two Asian giants , according to UFG financial brokerage , may ink a deal for the construction of a 2,400 kilometre ( 1,500-mile ) oil pipeline from eastern Siberia to the Chinese city of Daqing , bringing Russian crude to energy-hungry China .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Leaders", "of", "the", "two", "Asian", "giants", ",", "according", "to", "UFG", "financial", "brokerage", ",", "may", "ink", "a", "deal", "for", "the", "construction", "of", "a", "2,400", "kilometre", "(", "1,500-mile", ")", "oil", "pipeline", "from", "eastern", "Siberia", "to", "the", "Chinese", "city", "of", "Daqing", ",", "bringing", "Russian", "crude", "to", "energy-hungry", "China", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "It's a very important relationship. China is a very dynamic neighbour and a rising world power. In many ways it is far ahead of Russia",
+  "sentence_length" : 8,
+  "mentionArg2" : {
+    "extent" : "China",
+    "argMentionid" : "AFP_ENG_20030522.0878-E4-109",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R8",
+  "mentionArg1" : {
+    "extent" : "Russia",
+    "argMentionid" : "AFP_ENG_20030522.0878-E3-113",
+    "start" : 28,
+    "end" : 28
+  },
+  "id" : "AFP_ENG_20030522.0878-R8-2",
+  "relationSubType" : "Near",
+  "Sentence" : "\" It 's a very important relationship .",
+  "sentence_index" : 17,
+  "Tokens" : [ "\"", "It", "'s", "a", "very", "important", "relationship", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "former Chinese president Jiang Zeming",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Chinese",
+    "argMentionid" : "AFP_ENG_20030522.0878-E4-24",
+    "start" : 9,
+    "end" : 9
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R9",
+  "mentionArg1" : {
+    "extent" : "Jiang Zeming",
+    "argMentionid" : "AFP_ENG_20030522.0878-E10-23",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "AFP_ENG_20030522.0878-R9-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "Putin , who enjoyed a warm relationship with former Chinese president Jiang Zeming , has made efforts to nurture ties with Hu and was the first world leader to go to Beijing to meet him in December when he was president-in-waiting .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Putin", ",", "who", "enjoyed", "a", "warm", "relationship", "with", "former", "Chinese", "president", "Jiang", "Zeming", ",", "has", "made", "efforts", "to", "nurture", "ties", "with", "Hu", "and", "was", "the", "first", "world", "leader", "to", "go", "to", "Beijing", "to", "meet", "him", "in", "December", "when", "he", "was", "president-in-waiting", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Putin, who enjoyed a warm relationship with former Chinese president Jiang Zeming",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Jiang Zeming",
+    "argMentionid" : "AFP_ENG_20030522.0878-E10-23",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R10",
+  "mentionArg1" : {
+    "extent" : "Putin, who enjoyed a warm relationship with former Chinese president Jiang Zeming",
+    "argMentionid" : "AFP_ENG_20030522.0878-E60-21",
+    "start" : 0,
+    "end" : 12
+  },
+  "id" : "AFP_ENG_20030522.0878-R10-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Putin , who enjoyed a warm relationship with former Chinese president Jiang Zeming , has made efforts to nurture ties with Hu and was the first world leader to go to Beijing to meet him in December when he was president-in-waiting .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Putin", ",", "who", "enjoyed", "a", "warm", "relationship", "with", "former", "Chinese", "president", "Jiang", "Zeming", ",", "has", "made", "efforts", "to", "nurture", "ties", "with", "Hu", "and", "was", "the", "first", "world", "leader", "to", "go", "to", "Beijing", "to", "meet", "him", "in", "December", "when", "he", "was", "president-in-waiting", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "the first world leader to go to Beijing to meet him in December",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Beijing",
+    "argMentionid" : "AFP_ENG_20030522.0878-E12-27",
+    "start" : 31,
+    "end" : 31
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R11",
+  "mentionArg1" : {
+    "extent" : "the first world leader",
+    "argMentionid" : "AFP_ENG_20030522.0878-E60-26",
+    "start" : 24,
+    "end" : 27
+  },
+  "id" : "AFP_ENG_20030522.0878-R11-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Putin , who enjoyed a warm relationship with former Chinese president Jiang Zeming , has made efforts to nurture ties with Hu and was the first world leader to go to Beijing to meet him in December when he was president-in-waiting .",
+  "sentence_index" : 6,
+  "Tokens" : [ "Putin", ",", "who", "enjoyed", "a", "warm", "relationship", "with", "former", "Chinese", "president", "Jiang", "Zeming", ",", "has", "made", "efforts", "to", "nurture", "ties", "with", "Hu", "and", "was", "the", "first", "world", "leader", "to", "go", "to", "Beijing", "to", "meet", "him", "in", "December", "when", "he", "was", "president-in-waiting", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Russia's ambassador to China Igor Rogachyov",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "Russia",
+    "argMentionid" : "AFP_ENG_20030522.0878-E3-35",
+    "start" : 26,
+    "end" : 26
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R12",
+  "mentionArg1" : {
+    "extent" : "Igor Rogachyov",
+    "argMentionid" : "AFP_ENG_20030522.0878-E14-37",
+    "start" : 31,
+    "end" : 32
+  },
+  "id" : "AFP_ENG_20030522.0878-R12-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "\" Presidents Vladimir Putin and Hu Jintao have developed good personal contacts , which will undoubtedly facilitate the promotion of the Russian strategic partnership , \" Russia 's ambassador to China Igor Rogachyov said , quoted by Interfax .",
+  "sentence_index" : 7,
+  "Tokens" : [ "\"", "Presidents", "Vladimir", "Putin", "and", "Hu", "Jintao", "have", "developed", "good", "personal", "contacts", ",", "which", "will", "undoubtedly", "facilitate", "the", "promotion", "of", "the", "Russian", "strategic", "partnership", ",", "\"", "Russia", "'s", "ambassador", "to", "China", "Igor", "Rogachyov", "said", ",", "quoted", "by", "Interfax", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "US President George W. Bush",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "US",
+    "argMentionid" : "AFP_ENG_20030522.0878-E16-52",
+    "start" : 22,
+    "end" : 22
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R13",
+  "mentionArg1" : {
+    "extent" : "George W. Bush",
+    "argMentionid" : "AFP_ENG_20030522.0878-E21-51",
+    "start" : 24,
+    "end" : 26
+  },
+  "id" : "AFP_ENG_20030522.0878-R13-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "But China remains a key Russian ally , demonstrated by the fact that Hu will be the only foreign leader apart from US President George W. Bush to hold a summit with Putin in the days surrounding the Saint Petersburg festivities .",
+  "sentence_index" : 9,
+  "Tokens" : [ "But", "China", "remains", "a", "key", "Russian", "ally", ",", "demonstrated", "by", "the", "fact", "that", "Hu", "will", "be", "the", "only", "foreign", "leader", "apart", "from", "US", "President", "George", "W.", "Bush", "to", "hold", "a", "summit", "with", "Putin", "in", "the", "days", "surrounding", "the", "Saint", "Petersburg", "festivities", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Hu will be the only foreign leader apart from US President George W. Bush to hold a summit with Putin",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "Putin",
+    "argMentionid" : "AFP_ENG_20030522.0878-E60-54",
+    "start" : 32,
+    "end" : 32
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R14",
+  "mentionArg1" : {
+    "extent" : "George W. Bush",
+    "argMentionid" : "AFP_ENG_20030522.0878-E21-51",
+    "start" : 24,
+    "end" : 26
+  },
+  "id" : "AFP_ENG_20030522.0878-R14-1",
+  "relationSubType" : "Business",
+  "Sentence" : "But China remains a key Russian ally , demonstrated by the fact that Hu will be the only foreign leader apart from US President George W. Bush to hold a summit with Putin in the days surrounding the Saint Petersburg festivities .",
+  "sentence_index" : 9,
+  "Tokens" : [ "But", "China", "remains", "a", "key", "Russian", "ally", ",", "demonstrated", "by", "the", "fact", "that", "Hu", "will", "be", "the", "only", "foreign", "leader", "apart", "from", "US", "President", "George", "W.", "Bush", "to", "hold", "a", "summit", "with", "Putin", "in", "the", "days", "surrounding", "the", "Saint", "Petersburg", "festivities", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Russian oil giant Yukos",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "Russian",
+    "argMentionid" : "AFP_ENG_20030522.0878-E3-81",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R15",
+  "mentionArg1" : {
+    "extent" : "Russian oil giant Yukos",
+    "argMentionid" : "AFP_ENG_20030522.0878-E41-80",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "AFP_ENG_20030522.0878-R15-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Russian oil giant Yukos , whose output will be shipped through the pipeline , had lobbied furiously for the Chinese route although the state pipeline monopoly Transneft argued that it was wrong to tie strategic Russian energy resources to the whims of a single buyer .",
+  "sentence_index" : 12,
+  "Tokens" : [ "Russian", "oil", "giant", "Yukos", ",", "whose", "output", "will", "be", "shipped", "through", "the", "pipeline", ",", "had", "lobbied", "furiously", "for", "the", "Chinese", "route", "although", "the", "state", "pipeline", "monopoly", "Transneft", "argued", "that", "it", "was", "wrong", "to", "tie", "strategic", "Russian", "energy", "resources", "to", "the", "whims", "of", "a", "single", "buyer", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Chinese city of Daqing",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "Chinese",
+    "argMentionid" : "AFP_ENG_20030522.0878-E4-67",
+    "start" : 34,
+    "end" : 34
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R16",
+  "mentionArg1" : {
+    "extent" : "Daqing",
+    "argMentionid" : "AFP_ENG_20030522.0878-E29-68",
+    "start" : 37,
+    "end" : 37
+  },
+  "id" : "AFP_ENG_20030522.0878-R16-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Leaders of the two Asian giants , according to UFG financial brokerage , may ink a deal for the construction of a 2,400 kilometre ( 1,500-mile ) oil pipeline from eastern Siberia to the Chinese city of Daqing , bringing Russian crude to energy-hungry China .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Leaders", "of", "the", "two", "Asian", "giants", ",", "according", "to", "UFG", "financial", "brokerage", ",", "may", "ink", "a", "deal", "for", "the", "construction", "of", "a", "2,400", "kilometre", "(", "1,500-mile", ")", "oil", "pipeline", "from", "eastern", "Siberia", "to", "the", "Chinese", "city", "of", "Daqing", ",", "bringing", "Russian", "crude", "to", "energy-hungry", "China", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "the Russian government",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "Russian",
+    "argMentionid" : "AFP_ENG_20030522.0878-E3-72",
+    "start" : 2,
+    "end" : 2
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R17",
+  "mentionArg1" : {
+    "extent" : "the Russian government",
+    "argMentionid" : "AFP_ENG_20030522.0878-E32-71",
+    "start" : 1,
+    "end" : 3
+  },
+  "id" : "AFP_ENG_20030522.0878-R17-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "Although the Russian government is formally committed to building an extension of the pipeline that would supply Japan through the Russian port of Nakhodka , experts believe that project is unlikely to see the light of day .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Although", "the", "Russian", "government", "is", "formally", "committed", "to", "building", "an", "extension", "of", "the", "pipeline", "that", "would", "supply", "Japan", "through", "the", "Russian", "port", "of", "Nakhodka", ",", "experts", "believe", "that", "project", "is", "unlikely", "to", "see", "the", "light", "of", "day", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Russian port of Nakhodka",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "Russian",
+    "argMentionid" : "AFP_ENG_20030522.0878-E3-78",
+    "start" : 20,
+    "end" : 20
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R18",
+  "mentionArg1" : {
+    "extent" : "the Russian port of Nakhodka",
+    "argMentionid" : "AFP_ENG_20030522.0878-E36-76",
+    "start" : 19,
+    "end" : 23
+  },
+  "id" : "AFP_ENG_20030522.0878-R18-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Although the Russian government is formally committed to building an extension of the pipeline that would supply Japan through the Russian port of Nakhodka , experts believe that project is unlikely to see the light of day .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Although", "the", "Russian", "government", "is", "formally", "committed", "to", "building", "an", "extension", "of", "the", "pipeline", "that", "would", "supply", "Japan", "through", "the", "Russian", "port", "of", "Nakhodka", ",", "experts", "believe", "that", "project", "is", "unlikely", "to", "see", "the", "light", "of", "day", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a 2,400 kilometre (1,500-mile) oil pipeline from eastern Siberia",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "eastern Siberia",
+    "argMentionid" : "AFP_ENG_20030522.0878-E27-63",
+    "start" : 30,
+    "end" : 31
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R19",
+  "mentionArg1" : {
+    "extent" : "a 2,400 kilometre (1,500-mile) oil pipeline",
+    "argMentionid" : "AFP_ENG_20030522.0878-E26-61",
+    "start" : 21,
+    "end" : 28
+  },
+  "id" : "AFP_ENG_20030522.0878-R19-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Leaders of the two Asian giants , according to UFG financial brokerage , may ink a deal for the construction of a 2,400 kilometre ( 1,500-mile ) oil pipeline from eastern Siberia to the Chinese city of Daqing , bringing Russian crude to energy-hungry China .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Leaders", "of", "the", "two", "Asian", "giants", ",", "according", "to", "UFG", "financial", "brokerage", ",", "may", "ink", "a", "deal", "for", "the", "construction", "of", "a", "2,400", "kilometre", "(", "1,500-mile", ")", "oil", "pipeline", "from", "eastern", "Siberia", "to", "the", "Chinese", "city", "of", "Daqing", ",", "bringing", "Russian", "crude", "to", "energy-hungry", "China", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "an extension of the pipeline that would supply Japan through the Russian port of Nakhodka",
+  "sentence_length" : 38,
+  "mentionArg2" : {
+    "extent" : "the Russian port of Nakhodka",
+    "argMentionid" : "AFP_ENG_20030522.0878-E36-76",
+    "start" : 19,
+    "end" : 23
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R20",
+  "mentionArg1" : {
+    "extent" : "an extension of the pipeline",
+    "argMentionid" : "AFP_ENG_20030522.0878-E34-73",
+    "start" : 9,
+    "end" : 13
+  },
+  "id" : "AFP_ENG_20030522.0878-R20-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Although the Russian government is formally committed to building an extension of the pipeline that would supply Japan through the Russian port of Nakhodka , experts believe that project is unlikely to see the light of day .",
+  "sentence_index" : 11,
+  "Tokens" : [ "Although", "the", "Russian", "government", "is", "formally", "committed", "to", "building", "an", "extension", "of", "the", "pipeline", "that", "would", "supply", "Japan", "through", "the", "Russian", "port", "of", "Nakhodka", ",", "experts", "believe", "that", "project", "is", "unlikely", "to", "see", "the", "light", "of", "day", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Asia expert Dmitry Trenin, deputy director in Moscow of the Carnegie Center, a Washington-based think tank",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "the Carnegie Center, a Washington-based think tank",
+    "argMentionid" : "AFP_ENG_20030522.0878-E49-99",
+    "start" : 20,
+    "end" : 27
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R21",
+  "mentionArg1" : {
+    "extent" : "Dmitry Trenin",
+    "argMentionid" : "AFP_ENG_20030522.0878-E47-94",
+    "start" : 12,
+    "end" : 13
+  },
+  "id" : "AFP_ENG_20030522.0878-R21-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "However , the project makes economic sense , \" commented Asia expert Dmitry Trenin , deputy director in Moscow of the Carnegie Center , a Washington-based think tank .",
+  "sentence_index" : 14,
+  "Tokens" : [ "However", ",", "the", "project", "makes", "economic", "sense", ",", "\"", "commented", "Asia", "expert", "Dmitry", "Trenin", ",", "deputy", "director", "in", "Moscow", "of", "the", "Carnegie", "Center", ",", "a", "Washington-based", "think", "tank", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Asia expert Dmitry Trenin, deputy director in Moscow of the Carnegie Center, a Washington-based think tank",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Moscow",
+    "argMentionid" : "AFP_ENG_20030522.0878-E19-98",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R25",
+  "mentionArg1" : {
+    "extent" : "Dmitry Trenin",
+    "argMentionid" : "AFP_ENG_20030522.0878-E47-94",
+    "start" : 12,
+    "end" : 13
+  },
+  "id" : "AFP_ENG_20030522.0878-R25-1",
+  "relationSubType" : "Located",
+  "Sentence" : "However , the project makes economic sense , \" commented Asia expert Dmitry Trenin , deputy director in Moscow of the Carnegie Center , a Washington-based think tank .",
+  "sentence_index" : 14,
+  "Tokens" : [ "However", ",", "the", "project", "makes", "economic", "sense", ",", "\"", "commented", "Asia", "expert", "Dmitry", "Trenin", ",", "deputy", "director", "in", "Moscow", "of", "the", "Carnegie", "Center", ",", "a", "Washington-based", "think", "tank", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Asia expert Dmitry Trenin, deputy director in Moscow of the Carnegie Center, a Washington-based think tank",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Moscow",
+    "argMentionid" : "AFP_ENG_20030522.0878-E19-98",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R26",
+  "mentionArg1" : {
+    "extent" : "the Carnegie Center, a Washington-based think tank",
+    "argMentionid" : "AFP_ENG_20030522.0878-E49-99",
+    "start" : 20,
+    "end" : 27
+  },
+  "id" : "AFP_ENG_20030522.0878-R26-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "However , the project makes economic sense , \" commented Asia expert Dmitry Trenin , deputy director in Moscow of the Carnegie Center , a Washington-based think tank .",
+  "sentence_index" : 14,
+  "Tokens" : [ "However", ",", "the", "project", "makes", "economic", "sense", ",", "\"", "commented", "Asia", "expert", "Dmitry", "Trenin", ",", "deputy", "director", "in", "Moscow", "of", "the", "Carnegie", "Center", ",", "a", "Washington-based", "think", "tank", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a 2,400 kilometre (1,500-mile) oil pipeline from eastern Siberia to the Chinese city of Daqing",
+  "sentence_length" : 46,
+  "mentionArg2" : {
+    "extent" : "the Chinese city of Daqing",
+    "argMentionid" : "AFP_ENG_20030522.0878-E29-65",
+    "start" : 33,
+    "end" : 37
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R28",
+  "mentionArg1" : {
+    "extent" : "a 2,400 kilometre (1,500-mile) oil pipeline",
+    "argMentionid" : "AFP_ENG_20030522.0878-E26-61",
+    "start" : 21,
+    "end" : 28
+  },
+  "id" : "AFP_ENG_20030522.0878-R28-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Leaders of the two Asian giants , according to UFG financial brokerage , may ink a deal for the construction of a 2,400 kilometre ( 1,500-mile ) oil pipeline from eastern Siberia to the Chinese city of Daqing , bringing Russian crude to energy-hungry China .",
+  "sentence_index" : 10,
+  "Tokens" : [ "Leaders", "of", "the", "two", "Asian", "giants", ",", "according", "to", "UFG", "financial", "brokerage", ",", "may", "ink", "a", "deal", "for", "the", "construction", "of", "a", "2,400", "kilometre", "(", "1,500-mile", ")", "oil", "pipeline", "from", "eastern", "Siberia", "to", "the", "Chinese", "city", "of", "Daqing", ",", "bringing", "Russian", "crude", "to", "energy-hungry", "China", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "Asia expert Dmitry Trenin, deputy director in Moscow of the Carnegie Center, a Washington-based think tank",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "Washington",
+    "argMentionid" : "AFP_ENG_20030522.0878-E50-100",
+    "start" : 25,
+    "end" : 25
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R29",
+  "mentionArg1" : {
+    "extent" : "the Carnegie Center, a Washington-based think tank",
+    "argMentionid" : "AFP_ENG_20030522.0878-E49-99",
+    "start" : 20,
+    "end" : 27
+  },
+  "id" : "AFP_ENG_20030522.0878-R29-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "However , the project makes economic sense , \" commented Asia expert Dmitry Trenin , deputy director in Moscow of the Carnegie Center , a Washington-based think tank .",
+  "sentence_index" : 14,
+  "Tokens" : [ "However", ",", "the", "project", "makes", "economic", "sense", ",", "\"", "commented", "Asia", "expert", "Dmitry", "Trenin", ",", "deputy", "director", "in", "Moscow", "of", "the", "Carnegie", "Center", ",", "a", "Washington-based", "think", "tank", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "The Chinese president",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "Chinese",
+    "argMentionid" : "AFP_ENG_20030522.0878-E4-116",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "AFP_ENG_20030522.0878-R30",
+  "mentionArg1" : {
+    "extent" : "The Chinese president",
+    "argMentionid" : "AFP_ENG_20030522.0878-E64-115",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "AFP_ENG_20030522.0878-R30-1",
+  "relationSubType" : "Located",
+  "Sentence" : "The Chinese president expressed the hope that bilateral trade could be raised from its current level of 12 billion dollars a year to 20 billion dollars .",
+  "sentence_index" : 20,
+  "Tokens" : [ "The", "Chinese", "president", "expressed", "the", "hope", "that", "bilateral", "trade", "could", "be", "raised", "from", "its", "current", "level", "of", "12", "billion", "dollars", "a", "year", "to", "20", "billion", "dollars", "." ]
+} ]

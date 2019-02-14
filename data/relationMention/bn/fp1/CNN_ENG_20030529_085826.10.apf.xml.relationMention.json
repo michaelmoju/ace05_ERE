@@ -1,0 +1,133 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "israeli prime minister ariel sharon",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "israeli",
+    "argMentionid" : "CNN_ENG_20030529_085826.10-E7-7",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNN_ENG_20030529_085826.10-R1",
+  "mentionArg1" : {
+    "extent" : "israeli prime minister ariel sharon",
+    "argMentionid" : "CNN_ENG_20030529_085826.10-E5-1",
+    "start" : 0,
+    "end" : 4
+  },
+  "id" : "CNN_ENG_20030529_085826.10-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "israeli prime minister ariel sharon and palestinian prime minister mahmoud abbas scheduled to meet today , their second chance now to discuss the bush administration 's road map more mideast peace. both sides will meet with president bush when he arrives in the mideast next week. our jerusalem bureau chief mike hanna standing by with more and that. mike ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "israeli", "prime", "minister", "ariel", "sharon", "and", "palestinian", "prime", "minister", "mahmoud", "abbas", "scheduled", "to", "meet", "today", ",", "their", "second", "chance", "now", "to", "discuss", "the", "bush", "administration", "'s", "road", "map", "more", "mideast", "peace.", "both", "sides", "will", "meet", "with", "president", "bush", "when", "he", "arrives", "in", "the", "mideast", "next", "week.", "our", "jerusalem", "bureau", "chief", "mike", "hanna", "standing", "by", "with", "more", "and", "that.", "mike", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "palestinian prime minister mahmoud abbas",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "palestinian",
+    "argMentionid" : "CNN_ENG_20030529_085826.10-E10-10",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNN_ENG_20030529_085826.10-R2",
+  "mentionArg1" : {
+    "extent" : "palestinian prime minister mahmoud abbas",
+    "argMentionid" : "CNN_ENG_20030529_085826.10-E8-8",
+    "start" : 6,
+    "end" : 10
+  },
+  "id" : "CNN_ENG_20030529_085826.10-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "israeli prime minister ariel sharon and palestinian prime minister mahmoud abbas scheduled to meet today , their second chance now to discuss the bush administration 's road map more mideast peace. both sides will meet with president bush when he arrives in the mideast next week. our jerusalem bureau chief mike hanna standing by with more and that. mike ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "israeli", "prime", "minister", "ariel", "sharon", "and", "palestinian", "prime", "minister", "mahmoud", "abbas", "scheduled", "to", "meet", "today", ",", "their", "second", "chance", "now", "to", "discuss", "the", "bush", "administration", "'s", "road", "map", "more", "mideast", "peace.", "both", "sides", "will", "meet", "with", "president", "bush", "when", "he", "arrives", "in", "the", "mideast", "next", "week.", "our", "jerusalem", "bureau", "chief", "mike", "hanna", "standing", "by", "with", "more", "and", "that.", "mike", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the bush administration's",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "the bush administration's",
+    "argMentionid" : "CNN_ENG_20030529_085826.10-E12-12",
+    "start" : 22,
+    "end" : 25
+  },
+  "relationID" : "CNN_ENG_20030529_085826.10-R3",
+  "mentionArg1" : {
+    "extent" : "bush",
+    "argMentionid" : "CNN_ENG_20030529_085826.10-E13-13",
+    "start" : 23,
+    "end" : 23
+  },
+  "id" : "CNN_ENG_20030529_085826.10-R3-1",
+  "relationSubType" : "Ownership",
+  "Sentence" : "israeli prime minister ariel sharon and palestinian prime minister mahmoud abbas scheduled to meet today , their second chance now to discuss the bush administration 's road map more mideast peace. both sides will meet with president bush when he arrives in the mideast next week. our jerusalem bureau chief mike hanna standing by with more and that. mike ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "israeli", "prime", "minister", "ariel", "sharon", "and", "palestinian", "prime", "minister", "mahmoud", "abbas", "scheduled", "to", "meet", "today", ",", "their", "second", "chance", "now", "to", "discuss", "the", "bush", "administration", "'s", "road", "map", "more", "mideast", "peace.", "both", "sides", "will", "meet", "with", "president", "bush", "when", "he", "arrives", "in", "the", "mideast", "next", "week.", "our", "jerusalem", "bureau", "chief", "mike", "hanna", "standing", "by", "with", "more", "and", "that.", "mike", "?" ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "our jerusalem bureau chief mike hanna",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_ENG_20030529_085826.10-E4-4",
+    "start" : 46,
+    "end" : 46
+  },
+  "relationID" : "CNN_ENG_20030529_085826.10-R4",
+  "mentionArg1" : {
+    "extent" : "our jerusalem bureau chief mike hanna",
+    "argMentionid" : "CNN_ENG_20030529_085826.10-E1-20",
+    "start" : 46,
+    "end" : 51
+  },
+  "id" : "CNN_ENG_20030529_085826.10-R4-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "israeli prime minister ariel sharon and palestinian prime minister mahmoud abbas scheduled to meet today , their second chance now to discuss the bush administration 's road map more mideast peace. both sides will meet with president bush when he arrives in the mideast next week. our jerusalem bureau chief mike hanna standing by with more and that. mike ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "israeli", "prime", "minister", "ariel", "sharon", "and", "palestinian", "prime", "minister", "mahmoud", "abbas", "scheduled", "to", "meet", "today", ",", "their", "second", "chance", "now", "to", "discuss", "the", "bush", "administration", "'s", "road", "map", "more", "mideast", "peace.", "both", "sides", "will", "meet", "with", "president", "bush", "when", "he", "arrives", "in", "the", "mideast", "next", "week.", "our", "jerusalem", "bureau", "chief", "mike", "hanna", "standing", "by", "with", "more", "and", "that.", "mike", "?" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "jerusalem bureau",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "jerusalem",
+    "argMentionid" : "CNN_ENG_20030529_085826.10-E3-3",
+    "start" : 47,
+    "end" : 47
+  },
+  "relationID" : "CNN_ENG_20030529_085826.10-R5",
+  "mentionArg1" : {
+    "extent" : "jerusalem bureau",
+    "argMentionid" : "CNN_ENG_20030529_085826.10-E2-2",
+    "start" : 47,
+    "end" : 48
+  },
+  "id" : "CNN_ENG_20030529_085826.10-R5-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "israeli prime minister ariel sharon and palestinian prime minister mahmoud abbas scheduled to meet today , their second chance now to discuss the bush administration 's road map more mideast peace. both sides will meet with president bush when he arrives in the mideast next week. our jerusalem bureau chief mike hanna standing by with more and that. mike ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "israeli", "prime", "minister", "ariel", "sharon", "and", "palestinian", "prime", "minister", "mahmoud", "abbas", "scheduled", "to", "meet", "today", ",", "their", "second", "chance", "now", "to", "discuss", "the", "bush", "administration", "'s", "road", "map", "more", "mideast", "peace.", "both", "sides", "will", "meet", "with", "president", "bush", "when", "he", "arrives", "in", "the", "mideast", "next", "week.", "our", "jerusalem", "bureau", "chief", "mike", "hanna", "standing", "by", "with", "more", "and", "that.", "mike", "?" ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "our jerusalem bureau chief mike hanna",
+  "sentence_length" : 60,
+  "mentionArg2" : {
+    "extent" : "our",
+    "argMentionid" : "CNN_ENG_20030529_085826.10-E4-4",
+    "start" : 46,
+    "end" : 46
+  },
+  "relationID" : "CNN_ENG_20030529_085826.10-R6",
+  "mentionArg1" : {
+    "extent" : "jerusalem bureau",
+    "argMentionid" : "CNN_ENG_20030529_085826.10-E2-2",
+    "start" : 47,
+    "end" : 48
+  },
+  "id" : "CNN_ENG_20030529_085826.10-R6-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "israeli prime minister ariel sharon and palestinian prime minister mahmoud abbas scheduled to meet today , their second chance now to discuss the bush administration 's road map more mideast peace. both sides will meet with president bush when he arrives in the mideast next week. our jerusalem bureau chief mike hanna standing by with more and that. mike ?",
+  "sentence_index" : 0,
+  "Tokens" : [ "israeli", "prime", "minister", "ariel", "sharon", "and", "palestinian", "prime", "minister", "mahmoud", "abbas", "scheduled", "to", "meet", "today", ",", "their", "second", "chance", "now", "to", "discuss", "the", "bush", "administration", "'s", "road", "map", "more", "mideast", "peace.", "both", "sides", "will", "meet", "with", "president", "bush", "when", "he", "arrives", "in", "the", "mideast", "next", "week.", "our", "jerusalem", "bureau", "chief", "mike", "hanna", "standing", "by", "with", "more", "and", "that.", "mike", "?" ]
+} ]

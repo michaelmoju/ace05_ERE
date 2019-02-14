@@ -1,0 +1,89 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "israeli prime minister - ariel sharon",
+  "sentence_length" : 37,
+  "mentionArg2" : {
+    "extent" : "israeli",
+    "argMentionid" : "CNNHL_ENG_20030527_230053.30-E5-31",
+    "start" : 0,
+    "end" : 0
+  },
+  "relationID" : "CNNHL_ENG_20030527_230053.30-R1",
+  "mentionArg1" : {
+    "extent" : "israeli prime minister - ariel sharon",
+    "argMentionid" : "CNNHL_ENG_20030527_230053.30-E18-1",
+    "start" : 0,
+    "end" : 5
+  },
+  "id" : "CNNHL_ENG_20030527_230053.30-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "israeli prime minister - ariel sharon and palestinian prime minister mahmoud abbas have postponed wednesday 's planned meeting on the mideast peace plan. it 's because of what 's being described as \" scheduling conflicts . \"",
+  "sentence_index" : 0,
+  "Tokens" : [ "israeli", "prime", "minister", "-", "ariel", "sharon", "and", "palestinian", "prime", "minister", "mahmoud", "abbas", "have", "postponed", "wednesday", "'s", "planned", "meeting", "on", "the", "mideast", "peace", "plan.", "it", "'s", "because", "of", "what", "'s", "being", "described", "as", "\"", "scheduling", "conflicts", ".", "\"" ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "israeli sources",
+  "sentence_length" : 56,
+  "mentionArg2" : {
+    "extent" : "israeli",
+    "argMentionid" : "CNNHL_ENG_20030527_230053.30-E5-6",
+    "start" : 6,
+    "end" : 6
+  },
+  "relationID" : "CNNHL_ENG_20030527_230053.30-R2",
+  "mentionArg1" : {
+    "extent" : "israeli sources",
+    "argMentionid" : "CNNHL_ENG_20030527_230053.30-E4-5",
+    "start" : 6,
+    "end" : 7
+  },
+  "id" : "CNNHL_ENG_20030527_230053.30-R2-1",
+  "relationSubType" : "Citizen-Resident-Religion-Ethnicity",
+  "Sentence" : "- - - - - - israeli sources say sharon will - - repeat his position that - - - - - - - - - - - - the palestinians must first - - f | - f | ring crack down on islamic militant no carrier - - - groups , like hamas .",
+  "sentence_index" : 4,
+  "Tokens" : [ "-", "-", "-", "-", "-", "-", "israeli", "sources", "say", "sharon", "will", "-", "-", "repeat", "his", "position", "that", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "the", "palestinians", "must", "first", "-", "-", "f", "|", "-", "f", "|", "ring", "crack", "down", "on", "islamic", "militant", "no", "carrier", "-", "-", "-", "groups", ",", "like", "hamas", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "islamic militant no carrier - - - groups",
+  "sentence_length" : 56,
+  "mentionArg2" : {
+    "extent" : "islamic militant no carrier - - - groups",
+    "argMentionid" : "CNNHL_ENG_20030527_230053.30-E7-10",
+    "start" : 44,
+    "end" : 51
+  },
+  "relationID" : "CNNHL_ENG_20030527_230053.30-R3",
+  "mentionArg1" : {
+    "extent" : "islamic",
+    "argMentionid" : "CNNHL_ENG_20030527_230053.30-E8-11",
+    "start" : 44,
+    "end" : 44
+  },
+  "id" : "CNNHL_ENG_20030527_230053.30-R3-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "- - - - - - israeli sources say sharon will - - repeat his position that - - - - - - - - - - - - the palestinians must first - - f | - f | ring crack down on islamic militant no carrier - - - groups , like hamas .",
+  "sentence_index" : 4,
+  "Tokens" : [ "-", "-", "-", "-", "-", "-", "israeli", "sources", "say", "sharon", "will", "-", "-", "repeat", "his", "position", "that", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "the", "palestinians", "must", "first", "-", "-", "f", "|", "-", "f", "|", "ring", "crack", "down", "on", "islamic", "militant", "no", "carrier", "-", "-", "-", "groups", ",", "like", "hamas", "." ]
+}, {
+  "relationType" : "GEN-AFF",
+  "extent" : "israeli military",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "israeli",
+    "argMentionid" : "CNNHL_ENG_20030527_230053.30-E5-23",
+    "start" : 28,
+    "end" : 28
+  },
+  "relationID" : "CNNHL_ENG_20030527_230053.30-R4",
+  "mentionArg1" : {
+    "extent" : "israeli military",
+    "argMentionid" : "CNNHL_ENG_20030527_230053.30-E15-22",
+    "start" : 28,
+    "end" : 29
+  },
+  "id" : "CNNHL_ENG_20030527_230053.30-R4-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "- he later released a clarifying - - - f | statement saying he was - referring to the more than 3 million palestinians now - - under israeli military control - and not to the land itself .",
+  "sentence_index" : 6,
+  "Tokens" : [ "-", "he", "later", "released", "a", "clarifying", "-", "-", "-", "f", "|", "statement", "saying", "he", "was", "-", "referring", "to", "the", "more", "than", "3", "million", "palestinians", "now", "-", "-", "under", "israeli", "military", "control", "-", "and", "not", "to", "the", "land", "itself", "." ]
+} ]

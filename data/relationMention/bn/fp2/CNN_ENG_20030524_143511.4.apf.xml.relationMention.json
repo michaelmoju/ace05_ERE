@@ -1,0 +1,45 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "the couple is preparing to tie the knot at gracie mansion in new york tonight",
+  "sentence_length" : 62,
+  "mentionArg2" : {
+    "extent" : "gracie mansion in new york",
+    "argMentionid" : "CNN_ENG_20030524_143511.4-E5-5",
+    "start" : 20,
+    "end" : 24
+  },
+  "relationID" : "CNN_ENG_20030524_143511.4-R1",
+  "mentionArg1" : {
+    "extent" : "the couple",
+    "argMentionid" : "CNN_ENG_20030524_143511.4-E4-4",
+    "start" : 11,
+    "end" : 12
+  },
+  "id" : "CNN_ENG_20030524_143511.4-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "judith nathan will wake up tomorrow the wife of rudy giuliani. the couple is preparing to tie the knot at gracie mansion in new york tonight. mayor michael bloomberg will perform the ceremony. hundreds have been invited and placido domgo will provide the music. more top stories at the top of the hour. now back to \" next @ cnn . \"",
+  "sentence_index" : 0,
+  "Tokens" : [ "judith", "nathan", "will", "wake", "up", "tomorrow", "the", "wife", "of", "rudy", "giuliani.", "the", "couple", "is", "preparing", "to", "tie", "the", "knot", "at", "gracie", "mansion", "in", "new", "york", "tonight.", "mayor", "michael", "bloomberg", "will", "perform", "the", "ceremony.", "hundreds", "have", "been", "invited", "and", "placido", "domgo", "will", "provide", "the", "music.", "more", "top", "stories", "at", "the", "top", "of", "the", "hour.", "now", "back", "to", "\"", "next", "@", "cnn", ".", "\"" ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the wife of rudy giuliani",
+  "sentence_length" : 62,
+  "mentionArg2" : {
+    "extent" : "rudy giuliani",
+    "argMentionid" : "CNN_ENG_20030524_143511.4-E3-3",
+    "start" : 9,
+    "end" : 10
+  },
+  "relationID" : "CNN_ENG_20030524_143511.4-R2",
+  "mentionArg1" : {
+    "extent" : "the wife of rudy giuliani",
+    "argMentionid" : "CNN_ENG_20030524_143511.4-E1-2",
+    "start" : 6,
+    "end" : 10
+  },
+  "id" : "CNN_ENG_20030524_143511.4-R2-1",
+  "relationSubType" : "Family",
+  "Sentence" : "judith nathan will wake up tomorrow the wife of rudy giuliani. the couple is preparing to tie the knot at gracie mansion in new york tonight. mayor michael bloomberg will perform the ceremony. hundreds have been invited and placido domgo will provide the music. more top stories at the top of the hour. now back to \" next @ cnn . \"",
+  "sentence_index" : 0,
+  "Tokens" : [ "judith", "nathan", "will", "wake", "up", "tomorrow", "the", "wife", "of", "rudy", "giuliani.", "the", "couple", "is", "preparing", "to", "tie", "the", "knot", "at", "gracie", "mansion", "in", "new", "york", "tonight.", "mayor", "michael", "bloomberg", "will", "perform", "the", "ceremony.", "hundreds", "have", "been", "invited", "and", "placido", "domgo", "will", "provide", "the", "music.", "more", "top", "stories", "at", "the", "top", "of", "the", "hour.", "now", "back", "to", "\"", "next", "@", "cnn", ".", "\"" ]
+} ]

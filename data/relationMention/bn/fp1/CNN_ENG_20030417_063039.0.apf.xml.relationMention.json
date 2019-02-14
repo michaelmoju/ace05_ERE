@@ -1,0 +1,133 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "u.s. forces",
+  "sentence_length" : 212,
+  "mentionArg2" : {
+    "extent" : "u.s",
+    "argMentionid" : "CNN_ENG_20030417_063039.0-E17-24",
+    "start" : 1,
+    "end" : 3
+  },
+  "relationID" : "CNN_ENG_20030417_063039.0-R1",
+  "mentionArg1" : {
+    "extent" : "u.s. forces",
+    "argMentionid" : "CNN_ENG_20030417_063039.0-E16-1",
+    "start" : 1,
+    "end" : 4
+  },
+  "id" : "CNN_ENG_20030417_063039.0-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "by u . s. forces and which appears to be run by members of the the war began in iraq several weeks ago. the operation as it continues in the north continues to be a situation of unrest. the area around mosul described as uncertain in terms of its stability with deliberate agitation. those are the words there that general brooks used a short time ago. the unrest continues there and this follows up the shooting we talked about yesterday in which at least seven iraqis were killed by u . s. fire after they apparently came under fire trying to secure a certain part of the central part of mosul. also , news about another half-broth of saddam hussein apparently now apprehended overnight in baghdad with the i assistance of local iraqis. not sure where in baghdad , personal the person western neighborhood of mansour. you might remember last week when another half-brother of saddam hussein was picked up trying to cross into syria and that time , we have been told syria has closed its border with iraq to prevent any of that ongoing. we 'll go through all of this throughout the morning here. first , to the pentagon and barbara starr to pick up what 's happening .",
+  "sentence_index" : 0,
+  "Tokens" : [ "by", "u", ".", "s.", "forces", "and", "which", "appears", "to", "be", "run", "by", "members", "of", "the", "the", "war", "began", "in", "iraq", "several", "weeks", "ago.", "the", "operation", "as", "it", "continues", "in", "the", "north", "continues", "to", "be", "a", "situation", "of", "unrest.", "the", "area", "around", "mosul", "described", "as", "uncertain", "in", "terms", "of", "its", "stability", "with", "deliberate", "agitation.", "those", "are", "the", "words", "there", "that", "general", "brooks", "used", "a", "short", "time", "ago.", "the", "unrest", "continues", "there", "and", "this", "follows", "up", "the", "shooting", "we", "talked", "about", "yesterday", "in", "which", "at", "least", "seven", "iraqis", "were", "killed", "by", "u", ".", "s.", "fire", "after", "they", "apparently", "came", "under", "fire", "trying", "to", "secure", "a", "certain", "part", "of", "the", "central", "part", "of", "mosul.", "also", ",", "news", "about", "another", "half-broth", "of", "saddam", "hussein", "apparently", "now", "apprehended", "overnight", "in", "baghdad", "with", "the", "i", "assistance", "of", "local", "iraqis.", "not", "sure", "where", "in", "baghdad", ",", "personal", "the", "person", "western", "neighborhood", "of", "mansour.", "you", "might", "remember", "last", "week", "when", "another", "half-brother", "of", "saddam", "hussein", "was", "picked", "up", "trying", "to", "cross", "into", "syria", "and", "that", "time", ",", "we", "have", "been", "told", "syria", "has", "closed", "its", "border", "with", "iraq", "to", "prevent", "any", "of", "that", "ongoing.", "we", "'ll", "go", "through", "all", "of", "this", "throughout", "the", "morning", "here.", "first", ",", "to", "the", "pentagon", "and", "barbara", "starr", "to", "pick", "up", "what", "'s", "happening", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "a certain part of the central part of mosul",
+  "sentence_length" : 212,
+  "mentionArg2" : {
+    "extent" : "mosul",
+    "argMentionid" : "CNN_ENG_20030417_063039.0-E22-3",
+    "start" : 110,
+    "end" : 110
+  },
+  "relationID" : "CNN_ENG_20030417_063039.0-R2",
+  "mentionArg1" : {
+    "extent" : "a certain part of the central part of mosul",
+    "argMentionid" : "CNN_ENG_20030417_063039.0-E1-38",
+    "start" : 102,
+    "end" : 110
+  },
+  "id" : "CNN_ENG_20030417_063039.0-R2-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "by u . s. forces and which appears to be run by members of the the war began in iraq several weeks ago. the operation as it continues in the north continues to be a situation of unrest. the area around mosul described as uncertain in terms of its stability with deliberate agitation. those are the words there that general brooks used a short time ago. the unrest continues there and this follows up the shooting we talked about yesterday in which at least seven iraqis were killed by u . s. fire after they apparently came under fire trying to secure a certain part of the central part of mosul. also , news about another half-broth of saddam hussein apparently now apprehended overnight in baghdad with the i assistance of local iraqis. not sure where in baghdad , personal the person western neighborhood of mansour. you might remember last week when another half-brother of saddam hussein was picked up trying to cross into syria and that time , we have been told syria has closed its border with iraq to prevent any of that ongoing. we 'll go through all of this throughout the morning here. first , to the pentagon and barbara starr to pick up what 's happening .",
+  "sentence_index" : 0,
+  "Tokens" : [ "by", "u", ".", "s.", "forces", "and", "which", "appears", "to", "be", "run", "by", "members", "of", "the", "the", "war", "began", "in", "iraq", "several", "weeks", "ago.", "the", "operation", "as", "it", "continues", "in", "the", "north", "continues", "to", "be", "a", "situation", "of", "unrest.", "the", "area", "around", "mosul", "described", "as", "uncertain", "in", "terms", "of", "its", "stability", "with", "deliberate", "agitation.", "those", "are", "the", "words", "there", "that", "general", "brooks", "used", "a", "short", "time", "ago.", "the", "unrest", "continues", "there", "and", "this", "follows", "up", "the", "shooting", "we", "talked", "about", "yesterday", "in", "which", "at", "least", "seven", "iraqis", "were", "killed", "by", "u", ".", "s.", "fire", "after", "they", "apparently", "came", "under", "fire", "trying", "to", "secure", "a", "certain", "part", "of", "the", "central", "part", "of", "mosul.", "also", ",", "news", "about", "another", "half-broth", "of", "saddam", "hussein", "apparently", "now", "apprehended", "overnight", "in", "baghdad", "with", "the", "i", "assistance", "of", "local", "iraqis.", "not", "sure", "where", "in", "baghdad", ",", "personal", "the", "person", "western", "neighborhood", "of", "mansour.", "you", "might", "remember", "last", "week", "when", "another", "half-brother", "of", "saddam", "hussein", "was", "picked", "up", "trying", "to", "cross", "into", "syria", "and", "that", "time", ",", "we", "have", "been", "told", "syria", "has", "closed", "its", "border", "with", "iraq", "to", "prevent", "any", "of", "that", "ongoing.", "we", "'ll", "go", "through", "all", "of", "this", "throughout", "the", "morning", "here.", "first", ",", "to", "the", "pentagon", "and", "barbara", "starr", "to", "pick", "up", "what", "'s", "happening", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "another half-broth of saddam hussein",
+  "sentence_length" : 212,
+  "mentionArg2" : {
+    "extent" : "saddam hussein",
+    "argMentionid" : "CNN_ENG_20030417_063039.0-E4-5",
+    "start" : 118,
+    "end" : 119
+  },
+  "relationID" : "CNN_ENG_20030417_063039.0-R3",
+  "mentionArg1" : {
+    "extent" : "another half-broth of saddam hussein",
+    "argMentionid" : "CNN_ENG_20030417_063039.0-E3-4",
+    "start" : 115,
+    "end" : 119
+  },
+  "id" : "CNN_ENG_20030417_063039.0-R3-1",
+  "relationSubType" : "Family",
+  "Sentence" : "by u . s. forces and which appears to be run by members of the the war began in iraq several weeks ago. the operation as it continues in the north continues to be a situation of unrest. the area around mosul described as uncertain in terms of its stability with deliberate agitation. those are the words there that general brooks used a short time ago. the unrest continues there and this follows up the shooting we talked about yesterday in which at least seven iraqis were killed by u . s. fire after they apparently came under fire trying to secure a certain part of the central part of mosul. also , news about another half-broth of saddam hussein apparently now apprehended overnight in baghdad with the i assistance of local iraqis. not sure where in baghdad , personal the person western neighborhood of mansour. you might remember last week when another half-brother of saddam hussein was picked up trying to cross into syria and that time , we have been told syria has closed its border with iraq to prevent any of that ongoing. we 'll go through all of this throughout the morning here. first , to the pentagon and barbara starr to pick up what 's happening .",
+  "sentence_index" : 0,
+  "Tokens" : [ "by", "u", ".", "s.", "forces", "and", "which", "appears", "to", "be", "run", "by", "members", "of", "the", "the", "war", "began", "in", "iraq", "several", "weeks", "ago.", "the", "operation", "as", "it", "continues", "in", "the", "north", "continues", "to", "be", "a", "situation", "of", "unrest.", "the", "area", "around", "mosul", "described", "as", "uncertain", "in", "terms", "of", "its", "stability", "with", "deliberate", "agitation.", "those", "are", "the", "words", "there", "that", "general", "brooks", "used", "a", "short", "time", "ago.", "the", "unrest", "continues", "there", "and", "this", "follows", "up", "the", "shooting", "we", "talked", "about", "yesterday", "in", "which", "at", "least", "seven", "iraqis", "were", "killed", "by", "u", ".", "s.", "fire", "after", "they", "apparently", "came", "under", "fire", "trying", "to", "secure", "a", "certain", "part", "of", "the", "central", "part", "of", "mosul.", "also", ",", "news", "about", "another", "half-broth", "of", "saddam", "hussein", "apparently", "now", "apprehended", "overnight", "in", "baghdad", "with", "the", "i", "assistance", "of", "local", "iraqis.", "not", "sure", "where", "in", "baghdad", ",", "personal", "the", "person", "western", "neighborhood", "of", "mansour.", "you", "might", "remember", "last", "week", "when", "another", "half-brother", "of", "saddam", "hussein", "was", "picked", "up", "trying", "to", "cross", "into", "syria", "and", "that", "time", ",", "we", "have", "been", "told", "syria", "has", "closed", "its", "border", "with", "iraq", "to", "prevent", "any", "of", "that", "ongoing.", "we", "'ll", "go", "through", "all", "of", "this", "throughout", "the", "morning", "here.", "first", ",", "to", "the", "pentagon", "and", "barbara", "starr", "to", "pick", "up", "what", "'s", "happening", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "also, news about another half-broth of saddam hussein apparently now apprehended overnight in baghdad with the i assistance of local iraqis",
+  "sentence_length" : 212,
+  "mentionArg2" : {
+    "extent" : "baghdad",
+    "argMentionid" : "CNN_ENG_20030417_063039.0-E5-6",
+    "start" : 125,
+    "end" : 125
+  },
+  "relationID" : "CNN_ENG_20030417_063039.0-R4",
+  "mentionArg1" : {
+    "extent" : "another half-broth of saddam hussein",
+    "argMentionid" : "CNN_ENG_20030417_063039.0-E3-4",
+    "start" : 115,
+    "end" : 119
+  },
+  "id" : "CNN_ENG_20030417_063039.0-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "by u . s. forces and which appears to be run by members of the the war began in iraq several weeks ago. the operation as it continues in the north continues to be a situation of unrest. the area around mosul described as uncertain in terms of its stability with deliberate agitation. those are the words there that general brooks used a short time ago. the unrest continues there and this follows up the shooting we talked about yesterday in which at least seven iraqis were killed by u . s. fire after they apparently came under fire trying to secure a certain part of the central part of mosul. also , news about another half-broth of saddam hussein apparently now apprehended overnight in baghdad with the i assistance of local iraqis. not sure where in baghdad , personal the person western neighborhood of mansour. you might remember last week when another half-brother of saddam hussein was picked up trying to cross into syria and that time , we have been told syria has closed its border with iraq to prevent any of that ongoing. we 'll go through all of this throughout the morning here. first , to the pentagon and barbara starr to pick up what 's happening .",
+  "sentence_index" : 0,
+  "Tokens" : [ "by", "u", ".", "s.", "forces", "and", "which", "appears", "to", "be", "run", "by", "members", "of", "the", "the", "war", "began", "in", "iraq", "several", "weeks", "ago.", "the", "operation", "as", "it", "continues", "in", "the", "north", "continues", "to", "be", "a", "situation", "of", "unrest.", "the", "area", "around", "mosul", "described", "as", "uncertain", "in", "terms", "of", "its", "stability", "with", "deliberate", "agitation.", "those", "are", "the", "words", "there", "that", "general", "brooks", "used", "a", "short", "time", "ago.", "the", "unrest", "continues", "there", "and", "this", "follows", "up", "the", "shooting", "we", "talked", "about", "yesterday", "in", "which", "at", "least", "seven", "iraqis", "were", "killed", "by", "u", ".", "s.", "fire", "after", "they", "apparently", "came", "under", "fire", "trying", "to", "secure", "a", "certain", "part", "of", "the", "central", "part", "of", "mosul.", "also", ",", "news", "about", "another", "half-broth", "of", "saddam", "hussein", "apparently", "now", "apprehended", "overnight", "in", "baghdad", "with", "the", "i", "assistance", "of", "local", "iraqis.", "not", "sure", "where", "in", "baghdad", ",", "personal", "the", "person", "western", "neighborhood", "of", "mansour.", "you", "might", "remember", "last", "week", "when", "another", "half-brother", "of", "saddam", "hussein", "was", "picked", "up", "trying", "to", "cross", "into", "syria", "and", "that", "time", ",", "we", "have", "been", "told", "syria", "has", "closed", "its", "border", "with", "iraq", "to", "prevent", "any", "of", "that", "ongoing.", "we", "'ll", "go", "through", "all", "of", "this", "throughout", "the", "morning", "here.", "first", ",", "to", "the", "pentagon", "and", "barbara", "starr", "to", "pick", "up", "what", "'s", "happening", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "where in baghdad",
+  "sentence_length" : 212,
+  "mentionArg2" : {
+    "extent" : "baghdad",
+    "argMentionid" : "CNN_ENG_20030417_063039.0-E5-9",
+    "start" : 137,
+    "end" : 137
+  },
+  "relationID" : "CNN_ENG_20030417_063039.0-R5",
+  "mentionArg1" : {
+    "extent" : "where in baghdad",
+    "argMentionid" : "CNN_ENG_20030417_063039.0-E7-8",
+    "start" : 135,
+    "end" : 137
+  },
+  "id" : "CNN_ENG_20030417_063039.0-R5-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "by u . s. forces and which appears to be run by members of the the war began in iraq several weeks ago. the operation as it continues in the north continues to be a situation of unrest. the area around mosul described as uncertain in terms of its stability with deliberate agitation. those are the words there that general brooks used a short time ago. the unrest continues there and this follows up the shooting we talked about yesterday in which at least seven iraqis were killed by u . s. fire after they apparently came under fire trying to secure a certain part of the central part of mosul. also , news about another half-broth of saddam hussein apparently now apprehended overnight in baghdad with the i assistance of local iraqis. not sure where in baghdad , personal the person western neighborhood of mansour. you might remember last week when another half-brother of saddam hussein was picked up trying to cross into syria and that time , we have been told syria has closed its border with iraq to prevent any of that ongoing. we 'll go through all of this throughout the morning here. first , to the pentagon and barbara starr to pick up what 's happening .",
+  "sentence_index" : 0,
+  "Tokens" : [ "by", "u", ".", "s.", "forces", "and", "which", "appears", "to", "be", "run", "by", "members", "of", "the", "the", "war", "began", "in", "iraq", "several", "weeks", "ago.", "the", "operation", "as", "it", "continues", "in", "the", "north", "continues", "to", "be", "a", "situation", "of", "unrest.", "the", "area", "around", "mosul", "described", "as", "uncertain", "in", "terms", "of", "its", "stability", "with", "deliberate", "agitation.", "those", "are", "the", "words", "there", "that", "general", "brooks", "used", "a", "short", "time", "ago.", "the", "unrest", "continues", "there", "and", "this", "follows", "up", "the", "shooting", "we", "talked", "about", "yesterday", "in", "which", "at", "least", "seven", "iraqis", "were", "killed", "by", "u", ".", "s.", "fire", "after", "they", "apparently", "came", "under", "fire", "trying", "to", "secure", "a", "certain", "part", "of", "the", "central", "part", "of", "mosul.", "also", ",", "news", "about", "another", "half-broth", "of", "saddam", "hussein", "apparently", "now", "apprehended", "overnight", "in", "baghdad", "with", "the", "i", "assistance", "of", "local", "iraqis.", "not", "sure", "where", "in", "baghdad", ",", "personal", "the", "person", "western", "neighborhood", "of", "mansour.", "you", "might", "remember", "last", "week", "when", "another", "half-brother", "of", "saddam", "hussein", "was", "picked", "up", "trying", "to", "cross", "into", "syria", "and", "that", "time", ",", "we", "have", "been", "told", "syria", "has", "closed", "its", "border", "with", "iraq", "to", "prevent", "any", "of", "that", "ongoing.", "we", "'ll", "go", "through", "all", "of", "this", "throughout", "the", "morning", "here.", "first", ",", "to", "the", "pentagon", "and", "barbara", "starr", "to", "pick", "up", "what", "'s", "happening", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "another half-brother of saddam hussein",
+  "sentence_length" : 212,
+  "mentionArg2" : {
+    "extent" : "saddam hussein",
+    "argMentionid" : "CNN_ENG_20030417_063039.0-E4-14",
+    "start" : 155,
+    "end" : 156
+  },
+  "relationID" : "CNN_ENG_20030417_063039.0-R6",
+  "mentionArg1" : {
+    "extent" : "another half-brother of saddam hussein",
+    "argMentionid" : "CNN_ENG_20030417_063039.0-E11-13",
+    "start" : 152,
+    "end" : 156
+  },
+  "id" : "CNN_ENG_20030417_063039.0-R6-1",
+  "relationSubType" : "Family",
+  "Sentence" : "by u . s. forces and which appears to be run by members of the the war began in iraq several weeks ago. the operation as it continues in the north continues to be a situation of unrest. the area around mosul described as uncertain in terms of its stability with deliberate agitation. those are the words there that general brooks used a short time ago. the unrest continues there and this follows up the shooting we talked about yesterday in which at least seven iraqis were killed by u . s. fire after they apparently came under fire trying to secure a certain part of the central part of mosul. also , news about another half-broth of saddam hussein apparently now apprehended overnight in baghdad with the i assistance of local iraqis. not sure where in baghdad , personal the person western neighborhood of mansour. you might remember last week when another half-brother of saddam hussein was picked up trying to cross into syria and that time , we have been told syria has closed its border with iraq to prevent any of that ongoing. we 'll go through all of this throughout the morning here. first , to the pentagon and barbara starr to pick up what 's happening .",
+  "sentence_index" : 0,
+  "Tokens" : [ "by", "u", ".", "s.", "forces", "and", "which", "appears", "to", "be", "run", "by", "members", "of", "the", "the", "war", "began", "in", "iraq", "several", "weeks", "ago.", "the", "operation", "as", "it", "continues", "in", "the", "north", "continues", "to", "be", "a", "situation", "of", "unrest.", "the", "area", "around", "mosul", "described", "as", "uncertain", "in", "terms", "of", "its", "stability", "with", "deliberate", "agitation.", "those", "are", "the", "words", "there", "that", "general", "brooks", "used", "a", "short", "time", "ago.", "the", "unrest", "continues", "there", "and", "this", "follows", "up", "the", "shooting", "we", "talked", "about", "yesterday", "in", "which", "at", "least", "seven", "iraqis", "were", "killed", "by", "u", ".", "s.", "fire", "after", "they", "apparently", "came", "under", "fire", "trying", "to", "secure", "a", "certain", "part", "of", "the", "central", "part", "of", "mosul.", "also", ",", "news", "about", "another", "half-broth", "of", "saddam", "hussein", "apparently", "now", "apprehended", "overnight", "in", "baghdad", "with", "the", "i", "assistance", "of", "local", "iraqis.", "not", "sure", "where", "in", "baghdad", ",", "personal", "the", "person", "western", "neighborhood", "of", "mansour.", "you", "might", "remember", "last", "week", "when", "another", "half-brother", "of", "saddam", "hussein", "was", "picked", "up", "trying", "to", "cross", "into", "syria", "and", "that", "time", ",", "we", "have", "been", "told", "syria", "has", "closed", "its", "border", "with", "iraq", "to", "prevent", "any", "of", "that", "ongoing.", "we", "'ll", "go", "through", "all", "of", "this", "throughout", "the", "morning", "here.", "first", ",", "to", "the", "pentagon", "and", "barbara", "starr", "to", "pick", "up", "what", "'s", "happening", "." ]
+} ]

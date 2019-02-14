@@ -1,0 +1,67 @@
+[ {
+  "relationType" : "PART-WHOLE",
+  "extent" : "their own state oil companies, who are picking apart the carcasses of once-private concerns",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "state",
+    "argMentionid" : "MARKETVIEW_20050205.1358-E4-11",
+    "start" : 18,
+    "end" : 18
+  },
+  "relationID" : "MARKETVIEW_20050205.1358-R1",
+  "mentionArg1" : {
+    "extent" : "their own state oil companies, who are picking apart the carcasses of once-private concerns",
+    "argMentionid" : "MARKETVIEW_20050205.1358-E7-10",
+    "start" : 16,
+    "end" : 30
+  },
+  "id" : "MARKETVIEW_20050205.1358-R1-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "We 've progressed a bit since then : Now , the third world countries all have their own state oil companies , who are picking apart the carcasses of once-private concerns .",
+  "sentence_index" : 1,
+  "Tokens" : [ "We", "'ve", "progressed", "a", "bit", "since", "then", ":", "Now", ",", "the", "third", "world", "countries", "all", "have", "their", "own", "state", "oil", "companies", ",", "who", "are", "picking", "apart", "the", "carcasses", "of", "once-private", "concerns", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "India's state oil company",
+  "sentence_length" : 27,
+  "mentionArg2" : {
+    "extent" : "state",
+    "argMentionid" : "MARKETVIEW_20050205.1358-E11-17",
+    "start" : 15,
+    "end" : 15
+  },
+  "relationID" : "MARKETVIEW_20050205.1358-R2",
+  "mentionArg1" : {
+    "extent" : "India's state oil company",
+    "argMentionid" : "MARKETVIEW_20050205.1358-E12-16",
+    "start" : 13,
+    "end" : 17
+  },
+  "id" : "MARKETVIEW_20050205.1358-R2-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The Capital Spectator reports on the latest : Not only China , but India 's state oil company has decided to get into the Yukos-dismemberment trade .",
+  "sentence_index" : 2,
+  "Tokens" : [ "The", "Capital", "Spectator", "reports", "on", "the", "latest", ":", "Not", "only", "China", ",", "but", "India", "'s", "state", "oil", "company", "has", "decided", "to", "get", "into", "the", "Yukos-dismemberment", "trade", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the third world countries",
+  "sentence_length" : 32,
+  "mentionArg2" : {
+    "extent" : "third world",
+    "argMentionid" : "MARKETVIEW_20050205.1358-E6-8",
+    "start" : 11,
+    "end" : 12
+  },
+  "relationID" : "MARKETVIEW_20050205.1358-R3",
+  "mentionArg1" : {
+    "extent" : "the third world countries",
+    "argMentionid" : "MARKETVIEW_20050205.1358-E4-7",
+    "start" : 10,
+    "end" : 13
+  },
+  "id" : "MARKETVIEW_20050205.1358-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "We 've progressed a bit since then : Now , the third world countries all have their own state oil companies , who are picking apart the carcasses of once-private concerns .",
+  "sentence_index" : 1,
+  "Tokens" : [ "We", "'ve", "progressed", "a", "bit", "since", "then", ":", "Now", ",", "the", "third", "world", "countries", "all", "have", "their", "own", "state", "oil", "companies", ",", "who", "are", "picking", "apart", "the", "carcasses", "of", "once-private", "concerns", "." ]
+} ]

@@ -1,0 +1,89 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "other Peoplesoft shareholders",
+  "sentence_length" : 48,
+  "mentionArg2" : {
+    "extent" : "Peoplesoft",
+    "argMentionid" : "MARKETVIEW_20041213.0722-E6-24",
+    "start" : 39,
+    "end" : 39
+  },
+  "relationID" : "MARKETVIEW_20041213.0722-R1",
+  "mentionArg1" : {
+    "extent" : "other Peoplesoft shareholders",
+    "argMentionid" : "MARKETVIEW_20041213.0722-E8-22",
+    "start" : 38,
+    "end" : 40
+  },
+  "id" : "MARKETVIEW_20041213.0722-R1-1",
+  "relationSubType" : "Ownership",
+  "Sentence" : "The final price , $26.50 per share , beats all the previous bids by a huge margin -- of course , Oracle lowballed their earlier offers , and ended up basically bidding against themselves and the optimism of other Peoplesoft shareholders for a year and a half .",
+  "sentence_index" : 1,
+  "Tokens" : [ "The", "final", "price", ",", "$26.50", "per", "share", ",", "beats", "all", "the", "previous", "bids", "by", "a", "huge", "margin", "--", "of", "course", ",", "Oracle", "lowballed", "their", "earlier", "offers", ",", "and", "ended", "up", "basically", "bidding", "against", "themselves", "and", "the", "optimism", "of", "other", "Peoplesoft", "shareholders", "for", "a", "year", "and", "a", "half", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "an Oracle employee",
+  "sentence_length" : 66,
+  "mentionArg2" : {
+    "extent" : "Oracle",
+    "argMentionid" : "MARKETVIEW_20041213.0722-E5-34",
+    "start" : 10,
+    "end" : 10
+  },
+  "relationID" : "MARKETVIEW_20041213.0722-R2",
+  "mentionArg1" : {
+    "extent" : "an Oracle employee",
+    "argMentionid" : "MARKETVIEW_20041213.0722-E12-33",
+    "start" : 9,
+    "end" : 11
+  },
+  "id" : "MARKETVIEW_20041213.0722-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "And I wo n't dwell on the irony of an Oracle employee being driven out of Oracle , starting his own company , and forcing Ellison to spend $10.3 billion to get his company -- but not him -- back ( though it does rather delightfully remind me of Coca-Cola basically giving away the bottling franchise and then spending billions to buy it back ) .",
+  "sentence_index" : 7,
+  "Tokens" : [ "And", "I", "wo", "n't", "dwell", "on", "the", "irony", "of", "an", "Oracle", "employee", "being", "driven", "out", "of", "Oracle", ",", "starting", "his", "own", "company", ",", "and", "forcing", "Ellison", "to", "spend", "$10.3", "billion", "to", "get", "his", "company", "--", "but", "not", "him", "--", "back", "(", "though", "it", "does", "rather", "delightfully", "remind", "me", "of", "Coca-Cola", "basically", "giving", "away", "the", "bottling", "franchise", "and", "then", "spending", "billions", "to", "buy", "it", "back", ")", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "his own company",
+  "sentence_length" : 66,
+  "mentionArg2" : {
+    "extent" : "his own company",
+    "argMentionid" : "MARKETVIEW_20041213.0722-E6-36",
+    "start" : 19,
+    "end" : 21
+  },
+  "relationID" : "MARKETVIEW_20041213.0722-R3",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "MARKETVIEW_20041213.0722-E12-37",
+    "start" : 19,
+    "end" : 19
+  },
+  "id" : "MARKETVIEW_20041213.0722-R3-1",
+  "relationSubType" : "Founder",
+  "Sentence" : "And I wo n't dwell on the irony of an Oracle employee being driven out of Oracle , starting his own company , and forcing Ellison to spend $10.3 billion to get his company -- but not him -- back ( though it does rather delightfully remind me of Coca-Cola basically giving away the bottling franchise and then spending billions to buy it back ) .",
+  "sentence_index" : 7,
+  "Tokens" : [ "And", "I", "wo", "n't", "dwell", "on", "the", "irony", "of", "an", "Oracle", "employee", "being", "driven", "out", "of", "Oracle", ",", "starting", "his", "own", "company", ",", "and", "forcing", "Ellison", "to", "spend", "$10.3", "billion", "to", "get", "his", "company", "--", "but", "not", "him", "--", "back", "(", "though", "it", "does", "rather", "delightfully", "remind", "me", "of", "Coca-Cola", "basically", "giving", "away", "the", "bottling", "franchise", "and", "then", "spending", "billions", "to", "buy", "it", "back", ")", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "his company",
+  "sentence_length" : 66,
+  "mentionArg2" : {
+    "extent" : "his company",
+    "argMentionid" : "MARKETVIEW_20041213.0722-E6-3",
+    "start" : 32,
+    "end" : 33
+  },
+  "relationID" : "MARKETVIEW_20041213.0722-R4",
+  "mentionArg1" : {
+    "extent" : "his",
+    "argMentionid" : "MARKETVIEW_20041213.0722-E12-4",
+    "start" : 32,
+    "end" : 32
+  },
+  "id" : "MARKETVIEW_20041213.0722-R4-1",
+  "relationSubType" : "Ownership",
+  "Sentence" : "And I wo n't dwell on the irony of an Oracle employee being driven out of Oracle , starting his own company , and forcing Ellison to spend $10.3 billion to get his company -- but not him -- back ( though it does rather delightfully remind me of Coca-Cola basically giving away the bottling franchise and then spending billions to buy it back ) .",
+  "sentence_index" : 7,
+  "Tokens" : [ "And", "I", "wo", "n't", "dwell", "on", "the", "irony", "of", "an", "Oracle", "employee", "being", "driven", "out", "of", "Oracle", ",", "starting", "his", "own", "company", ",", "and", "forcing", "Ellison", "to", "spend", "$10.3", "billion", "to", "get", "his", "company", "--", "but", "not", "him", "--", "back", "(", "though", "it", "does", "rather", "delightfully", "remind", "me", "of", "Coca-Cola", "basically", "giving", "away", "the", "bottling", "franchise", "and", "then", "spending", "billions", "to", "buy", "it", "back", ")", "." ]
+} ]

@@ -1,0 +1,199 @@
+[ {
+  "relationType" : "PHYS",
+  "extent" : "Estrada, who was ousted in a military-backed popular revolt in January 2001, has been detained for almost two years at the Veterans Memorial Medical Center in Metro Manila on plunder charges",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "the Veterans Memorial Medical Center in Metro Manila",
+    "argMentionid" : "XIN_ENG_20030523.0202-E7-16",
+    "start" : 22,
+    "end" : 29
+  },
+  "relationID" : "XIN_ENG_20030523.0202-R1",
+  "mentionArg1" : {
+    "extent" : "Estrada, who was ousted in a military-backed popular revolt in January 2001",
+    "argMentionid" : "XIN_ENG_20030523.0202-E4-12",
+    "start" : 0,
+    "end" : 12
+  },
+  "id" : "XIN_ENG_20030523.0202-R1-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Estrada , who was ousted in a military-backed popular revolt in January 2001 , has been detained for almost two years at the Veterans Memorial Medical Center in Metro Manila on plunder charges .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Estrada", ",", "who", "was", "ousted", "in", "a", "military-backed", "popular", "revolt", "in", "January", "2001", ",", "has", "been", "detained", "for", "almost", "two", "years", "at", "the", "Veterans", "Memorial", "Medical", "Center", "in", "Metro", "Manila", "on", "plunder", "charges", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the country's legitimate president",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "the country",
+    "argMentionid" : "XIN_ENG_20030523.0202-E3-35",
+    "start" : 29,
+    "end" : 30
+  },
+  "relationID" : "XIN_ENG_20030523.0202-R2",
+  "mentionArg1" : {
+    "extent" : "the country's legitimate president",
+    "argMentionid" : "XIN_ENG_20030523.0202-E4-34",
+    "start" : 29,
+    "end" : 33
+  },
+  "id" : "XIN_ENG_20030523.0202-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "MANILA , May 23 ( Xinhua ) The Philippine Presidential Palace Friday dismissed as an \" old tune \" deposed leader Joseph Estrada 's claim that he was still the country 's legitimate president .",
+  "sentence_index" : 0,
+  "Tokens" : [ "MANILA", ",", "May", "23", "(", "Xinhua", ")", "The", "Philippine", "Presidential", "Palace", "Friday", "dismissed", "as", "an", "\"", "old", "tune", "\"", "deposed", "leader", "Joseph", "Estrada", "'s", "claim", "that", "he", "was", "still", "the", "country", "'s", "legitimate", "president", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "The Philippine Presidential Palace",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Philippine",
+    "argMentionid" : "XIN_ENG_20030523.0202-E3-27",
+    "start" : 8,
+    "end" : 8
+  },
+  "relationID" : "XIN_ENG_20030523.0202-R3",
+  "mentionArg1" : {
+    "extent" : "The Philippine Presidential Palace",
+    "argMentionid" : "XIN_ENG_20030523.0202-E5-21",
+    "start" : 7,
+    "end" : 10
+  },
+  "id" : "XIN_ENG_20030523.0202-R3-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "MANILA , May 23 ( Xinhua ) The Philippine Presidential Palace Friday dismissed as an \" old tune \" deposed leader Joseph Estrada 's claim that he was still the country 's legitimate president .",
+  "sentence_index" : 0,
+  "Tokens" : [ "MANILA", ",", "May", "23", "(", "Xinhua", ")", "The", "Philippine", "Presidential", "Palace", "Friday", "dismissed", "as", "an", "\"", "old", "tune", "\"", "deposed", "leader", "Joseph", "Estrada", "'s", "claim", "that", "he", "was", "still", "the", "country", "'s", "legitimate", "president", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Estrada's camp",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "Estrada's camp",
+    "argMentionid" : "XIN_ENG_20030523.0202-E22-40",
+    "start" : 7,
+    "end" : 9
+  },
+  "relationID" : "XIN_ENG_20030523.0202-R4",
+  "mentionArg1" : {
+    "extent" : "Estrada",
+    "argMentionid" : "XIN_ENG_20030523.0202-E4-41",
+    "start" : 7,
+    "end" : 7
+  },
+  "id" : "XIN_ENG_20030523.0202-R4-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Presidential Chief of Staff Rigoberto Tiglao said Estrada 's camp was trying to revive the issue on the legality of President Gloria Macapagal-Arroyo 's administration when this was upheld twice by the Supreme Court .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Presidential", "Chief", "of", "Staff", "Rigoberto", "Tiglao", "said", "Estrada", "'s", "camp", "was", "trying", "to", "revive", "the", "issue", "on", "the", "legality", "of", "President", "Gloria", "Macapagal-Arroyo", "'s", "administration", "when", "this", "was", "upheld", "twice", "by", "the", "Supreme", "Court", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "President Gloria Macapagal-Arroyo's administration",
+  "sentence_length" : 35,
+  "mentionArg2" : {
+    "extent" : "President Gloria Macapagal-Arroyo's administration",
+    "argMentionid" : "XIN_ENG_20030523.0202-E23-43",
+    "start" : 20,
+    "end" : 24
+  },
+  "relationID" : "XIN_ENG_20030523.0202-R5",
+  "mentionArg1" : {
+    "extent" : "President Gloria Macapagal-Arroyo",
+    "argMentionid" : "XIN_ENG_20030523.0202-E6-44",
+    "start" : 20,
+    "end" : 22
+  },
+  "id" : "XIN_ENG_20030523.0202-R5-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Presidential Chief of Staff Rigoberto Tiglao said Estrada 's camp was trying to revive the issue on the legality of President Gloria Macapagal-Arroyo 's administration when this was upheld twice by the Supreme Court .",
+  "sentence_index" : 1,
+  "Tokens" : [ "Presidential", "Chief", "of", "Staff", "Rigoberto", "Tiglao", "said", "Estrada", "'s", "camp", "was", "trying", "to", "revive", "the", "issue", "on", "the", "legality", "of", "President", "Gloria", "Macapagal-Arroyo", "'s", "administration", "when", "this", "was", "upheld", "twice", "by", "the", "Supreme", "Court", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "Estrada's lawyer",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "Estrada's lawyer",
+    "argMentionid" : "XIN_ENG_20030523.0202-E14-29",
+    "start" : 9,
+    "end" : 11
+  },
+  "relationID" : "XIN_ENG_20030523.0202-R6",
+  "mentionArg1" : {
+    "extent" : "Estrada",
+    "argMentionid" : "XIN_ENG_20030523.0202-E4-30",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "XIN_ENG_20030523.0202-R6-1",
+  "relationSubType" : "Business",
+  "Sentence" : "Meanwhile , the court shrugged off the claim of Estrada 's lawyer Alan Paguia that its ruling on the legitimacy of the Arroyo administration was illegal and cautioned that the tribunal 's decision was final and could not be overturned by the Sandiganbayan .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Meanwhile", ",", "the", "court", "shrugged", "off", "the", "claim", "of", "Estrada", "'s", "lawyer", "Alan", "Paguia", "that", "its", "ruling", "on", "the", "legitimacy", "of", "the", "Arroyo", "administration", "was", "illegal", "and", "cautioned", "that", "the", "tribunal", "'s", "decision", "was", "final", "and", "could", "not", "be", "overturned", "by", "the", "Sandiganbayan", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "The Sandiganbayan Special Division",
+  "sentence_length" : 26,
+  "mentionArg2" : {
+    "extent" : "Sandiganbayan",
+    "argMentionid" : "XIN_ENG_20030523.0202-E1-22",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "XIN_ENG_20030523.0202-R7",
+  "mentionArg1" : {
+    "extent" : "The Sandiganbayan Special Division",
+    "argMentionid" : "XIN_ENG_20030523.0202-E1-14",
+    "start" : 0,
+    "end" : 3
+  },
+  "id" : "XIN_ENG_20030523.0202-R7-1",
+  "relationSubType" : "Subsidiary",
+  "Sentence" : "The Sandiganbayan Special Division Friday reset for June 16 the resumption of Estrada 's plunder case hearing , which was originally scheduled for June 2 .",
+  "sentence_index" : 4,
+  "Tokens" : [ "The", "Sandiganbayan", "Special", "Division", "Friday", "reset", "for", "June", "16", "the", "resumption", "of", "Estrada", "'s", "plunder", "case", "hearing", ",", "which", "was", "originally", "scheduled", "for", "June", "2", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "the Veterans Memorial Medical Center in Metro Manila",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "Metro Manila",
+    "argMentionid" : "XIN_ENG_20030523.0202-E8-20",
+    "start" : 28,
+    "end" : 29
+  },
+  "relationID" : "XIN_ENG_20030523.0202-R8",
+  "mentionArg1" : {
+    "extent" : "the Veterans Memorial Medical Center in Metro Manila",
+    "argMentionid" : "XIN_ENG_20030523.0202-E7-16",
+    "start" : 22,
+    "end" : 29
+  },
+  "id" : "XIN_ENG_20030523.0202-R8-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "Estrada , who was ousted in a military-backed popular revolt in January 2001 , has been detained for almost two years at the Veterans Memorial Medical Center in Metro Manila on plunder charges .",
+  "sentence_index" : 5,
+  "Tokens" : [ "Estrada", ",", "who", "was", "ousted", "in", "a", "military-backed", "popular", "revolt", "in", "January", "2001", ",", "has", "been", "detained", "for", "almost", "two", "years", "at", "the", "Veterans", "Memorial", "Medical", "Center", "in", "Metro", "Manila", "on", "plunder", "charges", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "the Arroyo administration",
+  "sentence_length" : 44,
+  "mentionArg2" : {
+    "extent" : "the Arroyo administration",
+    "argMentionid" : "XIN_ENG_20030523.0202-E5-4",
+    "start" : 21,
+    "end" : 23
+  },
+  "relationID" : "XIN_ENG_20030523.0202-R9",
+  "mentionArg1" : {
+    "extent" : "Arroyo",
+    "argMentionid" : "XIN_ENG_20030523.0202-E6-11",
+    "start" : 22,
+    "end" : 22
+  },
+  "id" : "XIN_ENG_20030523.0202-R9-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Meanwhile , the court shrugged off the claim of Estrada 's lawyer Alan Paguia that its ruling on the legitimacy of the Arroyo administration was illegal and cautioned that the tribunal 's decision was final and could not be overturned by the Sandiganbayan .",
+  "sentence_index" : 3,
+  "Tokens" : [ "Meanwhile", ",", "the", "court", "shrugged", "off", "the", "claim", "of", "Estrada", "'s", "lawyer", "Alan", "Paguia", "that", "its", "ruling", "on", "the", "legitimacy", "of", "the", "Arroyo", "administration", "was", "illegal", "and", "cautioned", "that", "the", "tribunal", "'s", "decision", "was", "final", "and", "could", "not", "be", "overturned", "by", "the", "Sandiganbayan", "." ]
+} ]

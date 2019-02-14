@@ -1,0 +1,155 @@
+[ {
+  "relationType" : "GEN-AFF",
+  "extent" : "South Korea's ruling party",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "South Korea",
+    "argMentionid" : "AFP_ENG_20030429.0007-E12-23",
+    "start" : 7,
+    "end" : 8
+  },
+  "relationID" : "AFP_ENG_20030429.0007-R1",
+  "mentionArg1" : {
+    "extent" : "South Korea's ruling party",
+    "argMentionid" : "AFP_ENG_20030429.0007-E1-24",
+    "start" : 7,
+    "end" : 11
+  },
+  "id" : "AFP_ENG_20030429.0007-R1-1",
+  "relationSubType" : "Org-Location",
+  "Sentence" : "SEOUL , April 29 ( AFP ) South Korea 's ruling party is facing an internal reformist call for dissolving itself to create a new group after a humiliating defeat at last week 's by-elections , party officials said Tuesday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "SEOUL", ",", "April", "29", "(", "AFP", ")", "South", "Korea", "'s", "ruling", "party", "is", "facing", "an", "internal", "reformist", "call", "for", "dissolving", "itself", "to", "create", "a", "new", "group", "after", "a", "humiliating", "defeat", "at", "last", "week", "'s", "by-elections", ",", "party", "officials", "said", "Tuesday", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "party officials",
+  "sentence_length" : 41,
+  "mentionArg2" : {
+    "extent" : "party",
+    "argMentionid" : "AFP_ENG_20030429.0007-E1-27",
+    "start" : 36,
+    "end" : 36
+  },
+  "relationID" : "AFP_ENG_20030429.0007-R2",
+  "mentionArg1" : {
+    "extent" : "party officials",
+    "argMentionid" : "AFP_ENG_20030429.0007-E16-28",
+    "start" : 36,
+    "end" : 37
+  },
+  "id" : "AFP_ENG_20030429.0007-R2-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "SEOUL , April 29 ( AFP ) South Korea 's ruling party is facing an internal reformist call for dissolving itself to create a new group after a humiliating defeat at last week 's by-elections , party officials said Tuesday .",
+  "sentence_index" : 0,
+  "Tokens" : [ "SEOUL", ",", "April", "29", "(", "AFP", ")", "South", "Korea", "'s", "ruling", "party", "is", "facing", "an", "internal", "reformist", "call", "for", "dissolving", "itself", "to", "create", "a", "new", "group", "after", "a", "humiliating", "defeat", "at", "last", "week", "'s", "by-elections", ",", "party", "officials", "said", "Tuesday", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "MDP officials",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "MDP",
+    "argMentionid" : "AFP_ENG_20030429.0007-E1-6",
+    "start" : 30,
+    "end" : 30
+  },
+  "relationID" : "AFP_ENG_20030429.0007-R2",
+  "mentionArg1" : {
+    "extent" : "MDP officials",
+    "argMentionid" : "AFP_ENG_20030429.0007-E16-5",
+    "start" : 30,
+    "end" : 31
+  },
+  "id" : "AFP_ENG_20030429.0007-R2-2",
+  "relationSubType" : "Membership",
+  "Sentence" : "A group of 18 reformist MDP lawmakers , mostly Roh 's confidants , demanded late Wednesday that the party be \" constructively dissolved \" to create a new grouping , MDP officials said .",
+  "sentence_index" : 2,
+  "Tokens" : [ "A", "group", "of", "18", "reformist", "MDP", "lawmakers", ",", "mostly", "Roh", "'s", "confidants", ",", "demanded", "late", "Wednesday", "that", "the", "party", "be", "\"", "constructively", "dissolved", "\"", "to", "create", "a", "new", "grouping", ",", "MDP", "officials", "said", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "The ruling Millennium Democratic Party (MDP), founded by former president Kim Dae-Jung",
+  "sentence_length" : 29,
+  "mentionArg2" : {
+    "extent" : "The ruling Millennium Democratic Party",
+    "argMentionid" : "AFP_ENG_20030429.0007-E1-29",
+    "start" : 0,
+    "end" : 4
+  },
+  "relationID" : "AFP_ENG_20030429.0007-R3",
+  "mentionArg1" : {
+    "extent" : "former president Kim Dae-Jung",
+    "argMentionid" : "AFP_ENG_20030429.0007-E17-31",
+    "start" : 11,
+    "end" : 14
+  },
+  "id" : "AFP_ENG_20030429.0007-R3-1",
+  "relationSubType" : "Founder",
+  "Sentence" : "The ruling Millennium Democratic Party ( MDP ) , founded by former president Kim Dae-Jung , has suffered declining popularity since President Roh Moo-Hyun took office in February .",
+  "sentence_index" : 1,
+  "Tokens" : [ "The", "ruling", "Millennium", "Democratic", "Party", "(", "MDP", ")", ",", "founded", "by", "former", "president", "Kim", "Dae-Jung", ",", "has", "suffered", "declining", "popularity", "since", "President", "Roh", "Moo-Hyun", "took", "office", "in", "February", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "18 reformist MDP lawmakers",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "MDP",
+    "argMentionid" : "AFP_ENG_20030429.0007-E1-36",
+    "start" : 5,
+    "end" : 5
+  },
+  "relationID" : "AFP_ENG_20030429.0007-R4",
+  "mentionArg1" : {
+    "extent" : "18 reformist MDP lawmakers",
+    "argMentionid" : "AFP_ENG_20030429.0007-E21-35",
+    "start" : 3,
+    "end" : 6
+  },
+  "id" : "AFP_ENG_20030429.0007-R4-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "A group of 18 reformist MDP lawmakers , mostly Roh 's confidants , demanded late Wednesday that the party be \" constructively dissolved \" to create a new grouping , MDP officials said .",
+  "sentence_index" : 2,
+  "Tokens" : [ "A", "group", "of", "18", "reformist", "MDP", "lawmakers", ",", "mostly", "Roh", "'s", "confidants", ",", "demanded", "late", "Wednesday", "that", "the", "party", "be", "\"", "constructively", "dissolved", "\"", "to", "create", "a", "new", "grouping", ",", "MDP", "officials", "said", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "mostly Roh's confidants",
+  "sentence_length" : 34,
+  "mentionArg2" : {
+    "extent" : "mostly Roh's confidants",
+    "argMentionid" : "AFP_ENG_20030429.0007-E21-37",
+    "start" : 8,
+    "end" : 11
+  },
+  "relationID" : "AFP_ENG_20030429.0007-R5",
+  "mentionArg1" : {
+    "extent" : "Roh",
+    "argMentionid" : "AFP_ENG_20030429.0007-E19-38",
+    "start" : 9,
+    "end" : 9
+  },
+  "id" : "AFP_ENG_20030429.0007-R5-1",
+  "relationSubType" : "Business",
+  "Sentence" : "A group of 18 reformist MDP lawmakers , mostly Roh 's confidants , demanded late Wednesday that the party be \" constructively dissolved \" to create a new grouping , MDP officials said .",
+  "sentence_index" : 2,
+  "Tokens" : [ "A", "group", "of", "18", "reformist", "MDP", "lawmakers", ",", "mostly", "Roh", "'s", "confidants", ",", "demanded", "late", "Wednesday", "that", "the", "party", "be", "\"", "constructively", "dissolved", "\"", "to", "create", "a", "new", "grouping", ",", "MDP", "officials", "said", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "Reformist MDP members",
+  "sentence_length" : 30,
+  "mentionArg2" : {
+    "extent" : "MDP",
+    "argMentionid" : "AFP_ENG_20030429.0007-E1-10",
+    "start" : 1,
+    "end" : 1
+  },
+  "relationID" : "AFP_ENG_20030429.0007-R6",
+  "mentionArg1" : {
+    "extent" : "Reformist MDP members",
+    "argMentionid" : "AFP_ENG_20030429.0007-E3-9",
+    "start" : 0,
+    "end" : 2
+  },
+  "id" : "AFP_ENG_20030429.0007-R6-1",
+  "relationSubType" : "Membership",
+  "Sentence" : "Reformist MDP members , however , vowed to launch a preparatory committee next month and to make \" tangible progress \" in the process of forging a new party .",
+  "sentence_index" : 4,
+  "Tokens" : [ "Reformist", "MDP", "members", ",", "however", ",", "vowed", "to", "launch", "a", "preparatory", "committee", "next", "month", "and", "to", "make", "\"", "tangible", "progress", "\"", "in", "the", "process", "of", "forging", "a", "new", "party", "." ]
+} ]

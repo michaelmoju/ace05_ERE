@@ -1,0 +1,111 @@
+[ {
+  "relationType" : "ORG-AFF",
+  "extent" : "the board of the company",
+  "sentence_length" : 47,
+  "mentionArg2" : {
+    "extent" : "the company",
+    "argMentionid" : "CNN_ENG_20030424_070008.15-E33-53",
+    "start" : 10,
+    "end" : 11
+  },
+  "relationID" : "CNN_ENG_20030424_070008.15-R1",
+  "mentionArg1" : {
+    "extent" : "the board",
+    "argMentionid" : "CNN_ENG_20030424_070008.15-E26-45",
+    "start" : 7,
+    "end" : 8
+  },
+  "id" : "CNN_ENG_20030424_070008.15-R1-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "the big focus is american airlines , the board of the company meeting today , possibly discussing the future of ceo don carty , he got in trouble when he jacked up pensions of the guys in top while asking employees to take big pay cuts .",
+  "sentence_index" : 2,
+  "Tokens" : [ "the", "big", "focus", "is", "american", "airlines", ",", "the", "board", "of", "the", "company", "meeting", "today", ",", "possibly", "discussing", "the", "future", "of", "ceo", "don", "carty", ",", "he", "got", "in", "trouble", "when", "he", "jacked", "up", "pensions", "of", "the", "guys", "in", "top", "while", "asking", "employees", "to", "take", "big", "pay", "cuts", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "last night, former general electric ceo jack welch talked to paula zahn about this issue of corporate greed",
+  "sentence_length" : 31,
+  "mentionArg2" : {
+    "extent" : "general electric",
+    "argMentionid" : "CNN_ENG_20030424_070008.15-E37-62",
+    "start" : 6,
+    "end" : 7
+  },
+  "relationID" : "CNN_ENG_20030424_070008.15-R2",
+  "mentionArg1" : {
+    "extent" : "former general electric ceo jack welch",
+    "argMentionid" : "CNN_ENG_20030424_070008.15-E36-60",
+    "start" : 5,
+    "end" : 10
+  },
+  "id" : "CNN_ENG_20030424_070008.15-R2-1",
+  "relationSubType" : "Employment",
+  "Sentence" : "$1.8 billion. last night , former general electric ceo jack welch talked to paula zahn about this issue of corporate greed. let 's listen to what he had to say .",
+  "sentence_index" : 3,
+  "Tokens" : [ "$1.8", "billion.", "last", "night", ",", "former", "general", "electric", "ceo", "jack", "welch", "talked", "to", "paula", "zahn", "about", "this", "issue", "of", "corporate", "greed.", "let", "'s", "listen", "to", "what", "he", "had", "to", "say", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "and annual meeting, every year, i went they complained about executive salaries, even though the team that i managed increase shareholder value to $600 billion that sharoners received, the larger share orns being employees",
+  "sentence_length" : 67,
+  "mentionArg2" : {
+    "extent" : "the team that i managed",
+    "argMentionid" : "CNN_ENG_20030424_070008.15-E35-56",
+    "start" : 45,
+    "end" : 49
+  },
+  "relationID" : "CNN_ENG_20030424_070008.15-R3",
+  "mentionArg1" : {
+    "extent" : "i",
+    "argMentionid" : "CNN_ENG_20030424_070008.15-E5-61",
+    "start" : 48,
+    "end" : 48
+  },
+  "id" : "CNN_ENG_20030424_070008.15-R3-1",
+  "relationSubType" : "Business",
+  "Sentence" : "it 's one of the parts of america that is great. people want more and they want other people to have less. that 's part of the system. and annual meeting , every year , i went they complained about executive salaries , even though the team that i managed increase shareholder value to $600 billion that sharoners received , the larger share orns being employees .",
+  "sentence_index" : 4,
+  "Tokens" : [ "it", "'s", "one", "of", "the", "parts", "of", "america", "that", "is", "great.", "people", "want", "more", "and", "they", "want", "other", "people", "to", "have", "less.", "that", "'s", "part", "of", "the", "system.", "and", "annual", "meeting", ",", "every", "year", ",", "i", "went", "they", "complained", "about", "executive", "salaries", ",", "even", "though", "the", "team", "that", "i", "managed", "increase", "shareholder", "value", "to", "$600", "billion", "that", "sharoners", "received", ",", "the", "larger", "share", "orns", "being", "employees", "." ]
+}, {
+  "relationType" : "PER-SOC",
+  "extent" : "the board is who decides that and board is so often chock full of the ceos golfing buddies, they serve on each other's boards and problem here is gap between what the average worker makes and ceo is making is increasing and everyone agrees that is not a good thing for this country, plus the fact, when the guys get the big packageses, so often you see the companies going down the zblubs thank you for updating us. back over to bill",
+  "sentence_length" : 88,
+  "mentionArg2" : {
+    "extent" : "the ceos golfing buddies",
+    "argMentionid" : "CNN_ENG_20030424_070008.15-E12-36",
+    "start" : 14,
+    "end" : 17
+  },
+  "relationID" : "CNN_ENG_20030424_070008.15-R4",
+  "mentionArg1" : {
+    "extent" : "ceo",
+    "argMentionid" : "CNN_ENG_20030424_070008.15-E19-37",
+    "start" : 15,
+    "end" : 15
+  },
+  "id" : "CNN_ENG_20030424_070008.15-R4-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "the board is who decides that and board is so often chock full of the ceos golfing buddies , they serve on each other 's boards and problem here is gap between what the average worker makes and ceo is making is increasing and everyone agrees that is not a good thing for this country , plus the fact , when the guys get the big packageses , so often you see the companies going down the zblubs thank you for updating us. back over to bill .",
+  "sentence_index" : 8,
+  "Tokens" : [ "the", "board", "is", "who", "decides", "that", "and", "board", "is", "so", "often", "chock", "full", "of", "the", "ceos", "golfing", "buddies", ",", "they", "serve", "on", "each", "other", "'s", "boards", "and", "problem", "here", "is", "gap", "between", "what", "the", "average", "worker", "makes", "and", "ceo", "is", "making", "is", "increasing", "and", "everyone", "agrees", "that", "is", "not", "a", "good", "thing", "for", "this", "country", ",", "plus", "the", "fact", ",", "when", "the", "guys", "get", "the", "big", "packageses", ",", "so", "often", "you", "see", "the", "companies", "going", "down", "the", "zblubs", "thank", "you", "for", "updating", "us.", "back", "over", "to", "bill", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "250 deaths in 27 countries",
+  "sentence_length" : 56,
+  "mentionArg2" : {
+    "extent" : "27 countries",
+    "argMentionid" : "CNN_ENG_20030424_070008.15-E29-48",
+    "start" : 26,
+    "end" : 27
+  },
+  "relationID" : "CNN_ENG_20030424_070008.15-R5",
+  "mentionArg1" : {
+    "extent" : "250",
+    "argMentionid" : "CNN_ENG_20030424_070008.15-E28-47",
+    "start" : 23,
+    "end" : 23
+  },
+  "id" : "CNN_ENG_20030424_070008.15-R5-1",
+  "relationSubType" : "Located",
+  "Sentence" : "talking about the sars threat worldwide this morning. the world health organization says there are 4200 sars cases so far , more than 250 deaths in 27 countries and there is no cure. and nobody knows what is causing it. the question is , would you change your plans because of the threat of sars ?",
+  "sentence_index" : 11,
+  "Tokens" : [ "talking", "about", "the", "sars", "threat", "worldwide", "this", "morning.", "the", "world", "health", "organization", "says", "there", "are", "4200", "sars", "cases", "so", "far", ",", "more", "than", "250", "deaths", "in", "27", "countries", "and", "there", "is", "no", "cure.", "and", "nobody", "knows", "what", "is", "causing", "it.", "the", "question", "is", ",", "would", "you", "change", "your", "plans", "because", "of", "the", "threat", "of", "sars", "?" ]
+} ]

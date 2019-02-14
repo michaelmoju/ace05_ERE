@@ -1,0 +1,89 @@
+[ {
+  "relationType" : "PER-SOC",
+  "extent" : "I kept reading the website of propoganda and found that the first person to come up with the idea was Benjamin Franklin who did it on behalf of some friends that owned oil companies (oil was used in lamps",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "some friends that owned oil companies (oil was used in lamps",
+    "argMentionid" : "MARKBACKER_20041103.1300-E1-2",
+    "start" : 28,
+    "end" : 39
+  },
+  "relationID" : "MARKBACKER_20041103.1300-R1",
+  "mentionArg1" : {
+    "extent" : "Benjamin Franklin who did it on behalf of some friends that owned oil companies (oil was used in lamps",
+    "argMentionid" : "MARKBACKER_20041103.1300-E39-84",
+    "start" : 20,
+    "end" : 39
+  },
+  "id" : "MARKBACKER_20041103.1300-R1-1",
+  "relationSubType" : "Lasting-Personal",
+  "Sentence" : "I kept reading the website of propoganda and found that the first person to come up with the idea was Benjamin Franklin who did it on behalf of some friends that owned oil companies ( oil was used in lamps ) .",
+  "sentence_index" : 10,
+  "Tokens" : [ "I", "kept", "reading", "the", "website", "of", "propoganda", "and", "found", "that", "the", "first", "person", "to", "come", "up", "with", "the", "idea", "was", "Benjamin", "Franklin", "who", "did", "it", "on", "behalf", "of", "some", "friends", "that", "owned", "oil", "companies", "(", "oil", "was", "used", "in", "lamps", ")", "." ]
+}, {
+  "relationType" : "ORG-AFF",
+  "extent" : "some friends that owned oil companies (oil was used in lamps",
+  "sentence_length" : 42,
+  "mentionArg2" : {
+    "extent" : "oil companies",
+    "argMentionid" : "MARKBACKER_20041103.1300-E2-3",
+    "start" : 32,
+    "end" : 33
+  },
+  "relationID" : "MARKBACKER_20041103.1300-R2",
+  "mentionArg1" : {
+    "extent" : "some friends that owned oil companies (oil was used in lamps",
+    "argMentionid" : "MARKBACKER_20041103.1300-E1-2",
+    "start" : 28,
+    "end" : 39
+  },
+  "id" : "MARKBACKER_20041103.1300-R2-1",
+  "relationSubType" : "Ownership",
+  "Sentence" : "I kept reading the website of propoganda and found that the first person to come up with the idea was Benjamin Franklin who did it on behalf of some friends that owned oil companies ( oil was used in lamps ) .",
+  "sentence_index" : 10,
+  "Tokens" : [ "I", "kept", "reading", "the", "website", "of", "propoganda", "and", "found", "that", "the", "first", "person", "to", "come", "up", "with", "the", "idea", "was", "Benjamin", "Franklin", "who", "did", "it", "on", "behalf", "of", "some", "friends", "that", "owned", "oil", "companies", "(", "oil", "was", "used", "in", "lamps", ")", "." ]
+}, {
+  "relationType" : "PART-WHOLE",
+  "extent" : "Indiana's eastern half",
+  "sentence_length" : 39,
+  "mentionArg2" : {
+    "extent" : "Indiana",
+    "argMentionid" : "MARKBACKER_20041103.1300-E10-15",
+    "start" : 30,
+    "end" : 30
+  },
+  "relationID" : "MARKBACKER_20041103.1300-R3",
+  "mentionArg1" : {
+    "extent" : "Indiana's eastern half",
+    "argMentionid" : "MARKBACKER_20041103.1300-E28-61",
+    "start" : 30,
+    "end" : 33
+  },
+  "id" : "MARKBACKER_20041103.1300-R3-1",
+  "relationSubType" : "Geographical",
+  "Sentence" : "There 's a LOT more to this since then , and you can read a lot more it if you want to , but this is what I know : Indiana 's eastern half does n't use it .",
+  "sentence_index" : 16,
+  "Tokens" : [ "There", "'s", "a", "LOT", "more", "to", "this", "since", "then", ",", "and", "you", "can", "read", "a", "lot", "more", "it", "if", "you", "want", "to", ",", "but", "this", "is", "what", "I", "know", ":", "Indiana", "'s", "eastern", "half", "does", "n't", "use", "it", "." ]
+}, {
+  "relationType" : "PHYS",
+  "extent" : "Arizona doesn't use it because one tribe of Indians stretches into three states",
+  "sentence_length" : 15,
+  "mentionArg2" : {
+    "extent" : "three states",
+    "argMentionid" : "MARKBACKER_20041103.1300-E29-62",
+    "start" : 12,
+    "end" : 13
+  },
+  "relationID" : "MARKBACKER_20041103.1300-R4",
+  "mentionArg1" : {
+    "extent" : "one tribe of Indians",
+    "argMentionid" : "MARKBACKER_20041103.1300-E12-17",
+    "start" : 6,
+    "end" : 9
+  },
+  "id" : "MARKBACKER_20041103.1300-R4-1",
+  "relationSubType" : "Located",
+  "Sentence" : "Arizona does n't use it because one tribe of Indians stretches into three states .",
+  "sentence_index" : 18,
+  "Tokens" : [ "Arizona", "does", "n't", "use", "it", "because", "one", "tribe", "of", "Indians", "stretches", "into", "three", "states", "." ]
+} ]
