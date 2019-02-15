@@ -17,20 +17,32 @@ def load_relation_from_files(json_files, val_portion=0.0):
     :return: a tuple of the data and validation data
     """
     data = []
+    clean_data = []
     for json_file in json_files:
         with open(json_file) as f:
-            data = data + json.load(f)
+            data += json.load(f)
     print("Loaded data size:", len(data))
+
+    for g in data:
+        # if len(g["Tokens"]) > 200:
+        #     data.remove(g)
+        if len(g["Tokens"]) <= 200:
+            clean_data.append(g)
+    print("Clean data size:", len(data))
+    print("Clean data size:", len(clean_data))
+
+    for g in clean_data:
+        assert len(g["Tokens"]) <= 200
 
     val_data = []
     if val_portion > 0.0:
-        val_size = int(len(data) * val_portion)
-        rest_size = len(data) - val_size
-        val_data = data[rest_size:]
-        data = data[:rest_size]
-        print("Training and dev set sizes:", (len(data), len(val_data)))
+        val_size = int(len(clean_data) * val_portion)
+        rest_size = len(clean_data) - val_size
+        val_data = clean_data[rest_size:]
+        data = clean_data[:rest_size]
+        print("Training and dev set sizes:", (len(clean_data), len(val_data)))
 
-    return data, val_data
+    return clean_data, val_data
 
 def load_relation_from_file(json_file, val_portion=0.0, load_vertices=True):
     """
