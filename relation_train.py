@@ -139,7 +139,7 @@ if __name__ == '__main__':
 
 		callback_history = model.fit(train_as_indices[:-1],
 									[train_y_properties_one_hot],
-									epochs=2,
+									epochs=50,
 									batch_size=keras_models.model_params['batch_size'],
 									verbose=1,
 									validation_data=(val_as_indices[:-1], val_y_properties_one_hot),
@@ -155,7 +155,7 @@ if __name__ == '__main__':
 		plt.title('Model accuracy')
 		plt.ylabel('Accuracy')
 		plt.xlabel('Epoch')
-		plt.legend(['Train', 'Test'], loc='upper left')
+		plt.legend(['Train', 'Validation'], loc='upper left')
 		plt.savefig(args.models_folder + 'accuracy.png')
 		plt.clf()
 		# plt.show()
@@ -166,7 +166,7 @@ if __name__ == '__main__':
 		plt.title('Model loss')
 		plt.ylabel('Loss')
 		plt.xlabel('Epoch')
-		plt.legend(['Train', 'Test'], loc='upper left')
+		plt.legend(['Train', 'Validation'], loc='upper left')
 		plt.savefig(args.models_folder + 'loss.png')
 		# plt.show()
 		plt.clf()
