@@ -11,6 +11,7 @@ from keras import callbacks
 from keras.utils import np_utils
 import numpy as np
 import hyperopt as hy
+import matplotlib.pyplot as plt
 from evaluation import metrics
 from collections import OrderedDict
 
@@ -138,7 +139,7 @@ if __name__ == '__main__':
 
 		callback_history = model.fit(train_as_indices[:-1],
 									[train_y_properties_one_hot],
-									epochs=10,
+									epochs=2,
 									batch_size=keras_models.model_params['batch_size'],
 									verbose=1,
 									validation_data=(val_as_indices[:-1], val_y_properties_one_hot),
@@ -148,11 +149,28 @@ if __name__ == '__main__':
 													monitor='val_loss', verbose=1, save_best_only=True)]
 									)
 
-		# callback_history = model.fit(train_as_indices[:-1],
-		# 							 [train_y_properties_one_hot],
-		# 							 epochs=10,
-		# 							 batch_size=keras_models.model_params['batch_size'],
-		# 							 )
+		# Plot training & validation accuracy values
+		plt.plot(callback_history.history['acc'])
+		plt.plot(callback_history.history['val_acc'])
+		plt.title('Model accuracy')
+		plt.ylabel('Accuracy')
+		plt.xlabel('Epoch')
+		plt.legend(['Train', 'Test'], loc='upper left')
+		plt.savefig(args.models_folder + 'accuracy.png')
+		plt.clf()
+		# plt.show()
+
+		# Plot training & validation loss values
+		plt.plot(callback_history.history['loss'])
+		plt.plot(callback_history.history['val_loss'])
+		plt.title('Model loss')
+		plt.ylabel('Loss')
+		plt.xlabel('Epoch')
+		plt.legend(['Train', 'Test'], loc='upper left')
+		plt.savefig(args.models_folder + 'loss.png')
+		# plt.show()
+		plt.clf()
+
 
 		score = model.evaluate(train_as_indices[:-1], train_y_properties_one_hot)
 		print("Results on the training set:", score[0], score[1])
