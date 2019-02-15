@@ -39,7 +39,7 @@ def load_relation_from_files(json_files, val_portion=0.0):
         val_size = int(len(clean_data) * val_portion)
         rest_size = len(clean_data) - val_size
         val_data = clean_data[rest_size:]
-        data = clean_data[:rest_size]
+        clean_data = clean_data[:rest_size]
         print("Training and dev set sizes:", (len(clean_data), len(val_data)))
 
     return clean_data, val_data
