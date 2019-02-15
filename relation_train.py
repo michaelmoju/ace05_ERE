@@ -91,8 +91,8 @@ if __name__ == '__main__':
 		print(max_sent_len)
 		print(max_graph["id"])
 
-		max_sent_len = keras_models.model_params['max_sent_len']  # 200
-		print("Max sentence length set to: {}".format(max_sent_len))
+	max_sent_len = keras_models.model_params['max_sent_len']  # 200
+	print("Max sentence length set to: {}".format(max_sent_len))
 
 	to_one_hot = np_utils.to_categorical
 	graphs_to_indices = keras_models.to_indices
