@@ -70,6 +70,8 @@ if __name__ == '__main__':
 	parser.add_argument('train_set')
 	# parser.add_argument('val_set')
 	parser.add_argument('--models_folder', default="./trainedmodels/")
+	parser.add_argument('--earlystop', default=False)
+	parser.add_argument('--epoch', default=50)
 
 	args = parser.parse_args()
 
@@ -137,17 +139,22 @@ if __name__ == '__main__':
 
 		test_y_properties_one_hot = to_one_hot(test_as_indices[-1], n_out)
 
+		cbfunctions = []
+		tensorboard = callbacks.TensorBoard(log_dir="./trainedmodels/", histogram_freq=True, write_graph=True, write_images=False)
+		if args.earlystop:
+			earlystop = callbacks.EarlyStopping(monitor="val_loss", patience=5, verbose=1)
+			cbfunctions.append(earlystop)
+		checkpoint = callbacks.ModelCheckpoint(args.models_folder + model_name + ".kerasmodel",monitor='val_loss', verbose=1, save_best_only=True)
+
+		cbfunctions.append(tensorboard)
+		cbfunctions.append(checkpoint)
 		callback_history = model.fit(train_as_indices[:-1],
 									[train_y_properties_one_hot],
-									epochs=50,
+									epochs=args.epoch,
 									batch_size=keras_models.model_params['batch_size'],
 									verbose=1,
 									validation_data=(val_as_indices[:-1], val_y_properties_one_hot),
-									callbacks=[callbacks.EarlyStopping(monitor="val_loss", patience=5, verbose=1),
-												callbacks.ModelCheckpoint(
-													args.models_folder + model_name + ".kerasmodel",
-													monitor='val_loss', verbose=1, save_best_only=True)]
-									)
+									callbacks=cbfunctions)
 
 		# Plot training & validation accuracy values
 		plt.plot(callback_history.history['acc'])
@@ -170,7 +177,6 @@ if __name__ == '__main__':
 		plt.savefig(args.models_folder + 'loss.png')
 		# plt.show()
 		plt.clf()
-
 
 		score = model.evaluate(train_as_indices[:-1], train_y_properties_one_hot)
 		print("Results on the training set:", score[0], score[1])
