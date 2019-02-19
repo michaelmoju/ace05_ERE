@@ -8,7 +8,11 @@ import tqdm
 
 
 def accuracy(prediction_classes, gold_labels):
-    acc = len((prediction_classes == gold_labels).nonzero()[0]) / len(gold_labels)
+    correct = 0
+    for index, i in enumerate(prediction_classes):
+        if i == gold_labels[index]:
+            correct +=1
+    acc = correct / len(gold_labels)
     return acc
 
 

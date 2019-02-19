@@ -48,7 +48,6 @@ def evaluate(model, data_input, gold_output):
 	else:
 		predictions_classes = np.argmax(predictions, axis=1)
 		train_y_properties_stream = gold_output
-
 	accuracy = metrics.accuracy(predictions_classes, train_y_properties_stream)
 	micro_scores = metrics.compute_micro_PRF(predictions_classes, train_y_properties_stream,
 											 empty_label=keras_models.p0_index)
@@ -66,12 +65,12 @@ if __name__ == '__main__':
 
 	parser = argparse.ArgumentParser()
 	parser.add_argument('model_name')
-	parser.add_argument('mode', choices=['train', 'optimize', 'train-continue'])
+	parser.add_argument('mode', choices=['train', 'optimize', 'train-continue', 'eval'])
 	parser.add_argument('train_set')
 	# parser.add_argument('val_set')
 	parser.add_argument('--models_folder', default="./trainedmodels/")
 	parser.add_argument('--earlystop', default=False)
-	parser.add_argument('--epoch', default=50)
+	parser.add_argument('--epoch', default=50, type=int)
 
 	args = parser.parse_args()
 
@@ -140,11 +139,11 @@ if __name__ == '__main__':
 		test_y_properties_one_hot = to_one_hot(test_as_indices[-1], n_out)
 
 		cbfunctions = []
-		tensorboard = callbacks.TensorBoard(log_dir="./trainedmodels/", histogram_freq=True, write_graph=True, write_images=False)
+		tensorboard = callbacks.TensorBoard(log_dir="./trainedmodels/logs", histogram_freq=True, write_graph=True, write_images=False)
 		if args.earlystop:
 			earlystop = callbacks.EarlyStopping(monitor="val_loss", patience=5, verbose=1)
 			cbfunctions.append(earlystop)
-		checkpoint = callbacks.ModelCheckpoint(args.models_folder + model_name + ".kerasmodel",monitor='val_loss', verbose=1, save_best_only=True)
+		checkpoint = callbacks.ModelCheckpoint(args.models_folder + model_name + ".kerasmodel", monitor='val_loss', verbose=1, save_best_only=True)
 
 		cbfunctions.append(tensorboard)
 		cbfunctions.append(checkpoint)
@@ -154,7 +153,8 @@ if __name__ == '__main__':
 									batch_size=keras_models.model_params['batch_size'],
 									verbose=1,
 									validation_data=(val_as_indices[:-1], val_y_properties_one_hot),
-									callbacks=cbfunctions)
+									callbacks=[tensorboard,
+											   checkpoint])
 
 		# Plot training & validation accuracy values
 		plt.plot(callback_history.history['acc'])
@@ -201,15 +201,15 @@ if __name__ == '__main__':
 		with open("../data/trials/" + model_name + "_final_trials.json", 'w') as ftf:
 			json.dump([(t['misc']['vals'], t['result']) for t in trials.trials], ftf)
 
+	elif mode == "eval":
 
+		print("Loading the best model")
+		model = getattr(keras_models, model_name)(keras_models.model_params, embedding_matrix, max_sent_len, n_out)
+		model.load_weights(args.models_folder + model_name + ".kerasmodel")
 
-	# print("Loading the best model")
-	# 	model = getattr(keras_models, model_name)(keras_models.model_params, embedding_matrix, max_sent_len, n_out)
-	# 	model.load_weights(args.models_folder + model_name + ".kerasmodel")
-	#
-	# 	score = model.evaluate(train_as_indices[:-1], train_y_properties_one_hot)
-	# 	print("Results on the training set:", score[0], score[1])
-	# 	score = model.evaluate(val_as_indices[:-1], val_y_properties_one_hot)
-	# 	# evaluate(model, train_as_indices[:-1], train_as_indices[-1])
-	# 	print("Results on the validation set: ", score[0], score[1])
-	# 	# evaluate(model, val_as_indices[:-1], val_as_indices[-1])
+		print("Results on the training set")
+		evaluate(model, train_as_indices[:-1], train_as_indices[-1])
+		print("Results on the validation set")
+		evaluate(model, val_as_indices[:-1], val_as_indices[-1])
+		print("Results on the test set")
+		evaluate(model, test_as_indices[:-1], test_as_indices[-1])
