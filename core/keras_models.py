@@ -37,6 +37,50 @@ MAX_EDGES_PER_GRAPH = 7
 POSITION_EMBEDDING_MODE = "mark-bi"
 POSITION_VOCAB_SIZE = 4
 
+def model_LSTMbaseline_mask(p, embedding_matrix, max_sent_len, n_out):
+	print("Parameters:", p)
+	# Take sentence encoded as indices and convert it to embeddings
+	sentence_input = layers.Input(shape=(max_sent_len,), dtype='int32', name='sentence_input')
+	word_embeddings = layers.Embedding(output_dim=embedding_matrix.shape[1],
+									   input_dim=embedding_matrix.shape[0],
+									   input_length=max_sent_len, weights=[embedding_matrix],
+									   mask_zero=True, trainable=False)(sentence_input)
+	word_embeddings = layers.Dropout(p['dropout1'])(word_embeddings)
+
+	# Take arg1_markers that identify entity positions, convert to position embeddings
+	arg1_markers = layers.Input(shape=(max_sent_len,), dtype='int8', name='arg1_markers')
+	arg1_pos_embeddings = layers.Embedding(output_dim=p['position_emb'], input_dim=POSITION_VOCAB_SIZE,
+										   input_length=max_sent_len,
+										   embeddings_regularizer=regularizers.l2(), trainable=True)(arg1_markers)
+
+	# Take arg2_markers that identify entity positions, convert to position embeddings
+	arg2_markers = layers.Input(shape=(max_sent_len,), dtype='int8', name='arg2_markers')
+	arg2_pos_embeddings = layers.Embedding(output_dim=p['position_emb'], input_dim=POSITION_VOCAB_SIZE,
+										   input_length=max_sent_len,
+										   embeddings_regularizer=regularizers.l2(), trainable=True)(arg2_markers)
+
+	# Merge word and position embeddings and apply the specified amount of RNN layers
+	x = layers.concatenate([word_embeddings, arg1_pos_embeddings, arg2_pos_embeddings])
+
+	for i in range(p["rnn1_layers"] - 1):
+		lstm_layer = layers.LSTM(p['units1'], return_sequences=True)
+		if p['bidirectional']:
+			lstm_layer = layers.Bidirectional(lstm_layer)
+		x = lstm_layer(x)
+
+	lstm_layer = layers.LSTM(p['units1'], return_sequences=False)
+	if p['bidirectional']:
+		lstm_layer = layers.Bidirectional(lstm_layer)
+	sentence_vector = lstm_layer(x)
+
+	# Apply softmax
+	sentence_vector = layers.Dropout(p['dropout1'])(sentence_vector)
+	main_output = layers.Dense(n_out, activation="softmax", name='main_output')(sentence_vector)
+
+	model = models.Model(inputs=[sentence_input, arg1_markers, arg2_markers], outputs=[main_output])
+	model.compile(optimizer=p['optimizer'], loss='categorical_crossentropy', metrics=['accuracy'])
+
+	return model
 
 def model_LSTMbaseline(p, embedding_matrix, max_sent_len, n_out):
 	print("Parameters:", p)
@@ -355,8 +399,10 @@ def to_indices_with_extracted_entities(graphs, word2idx):
 	"""
 	max_sent_len = model_params['max_sent_len']  # 200
 	sentences_matrix = np.zeros((len(graphs), max_sent_len), dtype="int32")  # (sentence_number, sentence_len)
-	arg1_matrix = np.ones((len(graphs), max_sent_len), dtype="int8")
-	arg2_matrix = np.ones((len(graphs), max_sent_len), dtype="int8")
+	# arg1_matrix = np.ones((len(graphs), max_sent_len), dtype="int8")
+	# arg2_matrix = np.ones((len(graphs), max_sent_len), dtype="int8")
+	arg1_matrix = np.zeros((len(graphs), max_sent_len), dtype="int8")
+	arg2_matrix = np.zeros((len(graphs), max_sent_len), dtype="int8")
 	y_matrix = np.zeros((len(graphs), 1), dtype="int16")  # relation type 1~7
 
 	for index, g in enumerate(tqdm.tqdm(graphs, ascii=True)):
@@ -364,8 +410,8 @@ def to_indices_with_extracted_entities(graphs, word2idx):
 		token_wordvec_ids = embeddings.get_idx_sequence(g["Tokens"], word2idx)
 		sentences_matrix[index, :len(token_wordvec_ids)] = token_wordvec_ids
 
-		arg1_matrix[index, range(g["mentionArg1"]["start"], g["mentionArg1"]["end"]+1)] = 2
-		arg2_matrix[index, range(g["mentionArg2"]["start"], g["mentionArg2"]["end"]+1)] = 2
+		arg1_matrix[index, range(g["mentionArg1"]["start"], g["mentionArg1"]["end"]+1)] = 1
+		arg2_matrix[index, range(g["mentionArg2"]["start"], g["mentionArg2"]["end"]+1)] = 1
 
 		relation_type = g["relationType"]
 		relation_type_id = property2idx.get(relation_type)
