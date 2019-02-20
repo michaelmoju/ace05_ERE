@@ -60,6 +60,7 @@ if __name__ == '__main__':
 	import argparse
 	import glob
 	from graph import graph_utils
+	import os
 
 	DEBUG = 0
 
@@ -67,6 +68,7 @@ if __name__ == '__main__':
 	parser.add_argument('model_name')
 	parser.add_argument('mode', choices=['train', 'optimize', 'train-continue', 'eval'])
 	parser.add_argument('train_set')
+	parser.add_argument('--word_embedding', default='../resource/embeddings/glove/glove.6B.50d.txt')
 	# parser.add_argument('val_set')
 	parser.add_argument('--models_folder', default="./trainedmodels/")
 	parser.add_argument('--earlystop', default=False)
@@ -77,7 +79,7 @@ if __name__ == '__main__':
 	model_name = args.model_name
 	mode = args.mode
 
-	embedding_matrix, word2idx = embeddings.load(keras_models.model_params['wordembeddings'])
+	embedding_matrix, word2idx = embeddings.load(args.word_embedding)
 
 	relationMention_files = glob.glob(args.train_set)
 	train_data, val_data, test_data = io.load_relation_from_files(relationMention_files, val_portion=0.1, test_portion=0.1)

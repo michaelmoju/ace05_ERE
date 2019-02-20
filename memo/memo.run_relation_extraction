@@ -55,5 +55,8 @@ date)
 train
 --------------------------------------------------------------------------------
 
-python3.6 relation_train.py --epoch 100 model_LSTMbaseline train "./data/relationMention/bc/adj/*.json"
+python3.6 relation_train.py --epoch 100 model_LSTMbaseline train "./data/relationMention/*/adj/*.json"
+python3.6 relation_train.py --epoch 100 model_LSTMbaseline train "./data/relationMention/*/adj/*.json" glove50
+
+
 python3 relation_train.py --epoch 100 model_LSTMbaseline train "./data/relationMention/*/adj/*.json"
