@@ -211,9 +211,22 @@ if __name__ == '__main__':
 		model = getattr(keras_models, model_name)(keras_models.model_params, embedding_matrix, max_sent_len, n_out)
 		model.load_weights(args.models_folder + model_name + ".kerasmodel")
 
-		print("Results on the training set")
-		evaluate(model, train_as_indices[:-1], train_as_indices[-1])
-		print("Results on the validation set")
-		evaluate(model, val_as_indices[:-1], val_as_indices[-1])
-		print("Results on the test set")
-		evaluate(model, test_as_indices[:-1], test_as_indices[-1])
+		# print("Results on the training set")
+		# evaluate(model, train_as_indices[:-1], train_as_indices[-1])
+		# print("Results on the validation set")
+		# evaluate(model, val_as_indices[:-1], val_as_indices[-1])
+		# print("Results on the test set")
+		# evaluate(model, test_as_indices[:-1], test_as_indices[-1])
+
+		train_y_properties_one_hot = to_one_hot(train_as_indices[-1], n_out)
+
+		val_y_properties_one_hot = to_one_hot(val_as_indices[-1], n_out)
+
+		test_y_properties_one_hot = to_one_hot(test_as_indices[-1], n_out)
+
+		score = model.evaluate(train_as_indices[:-1], train_y_properties_one_hot)
+		print("Results on the training set:", score[0], score[1])
+		score = model.evaluate(val_as_indices[:-1], val_y_properties_one_hot)
+		print("Results on the validation set: ", score[0], score[1])
+		score = model.evaluate(test_as_indices[:-1], test_y_properties_one_hot)
+		print("Results on the testing set: ", score[0], score[1])
