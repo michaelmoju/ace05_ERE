@@ -146,7 +146,9 @@ if __name__ == '__main__':
 			earlystop = callbacks.EarlyStopping(monitor="val_loss", patience=5, verbose=1)
 			cbfunctions.append(earlystop)
 		if args.checkpoint:
-			checkpoint = callbacks.ModelCheckpoint(args.models_folder + model_name + ".kerasmodel", monitor='val_loss', verbose=1, save_best_only=True)
+			checkpoint = callbacks.ModelCheckpoint(
+				args.models_folder + model_name + '-{epoch:02d}-{val_loss:.2f}' + ".kerasmodel",
+				monitor='val_loss', verbose=1, save_best_only=True)
 			cbfunctions.append(checkpoint)
 		if args.tensorboard:
 			tensorboard = callbacks.TensorBoard(log_dir="./trainedmodels/logs", histogram_freq=True, write_graph=True,
