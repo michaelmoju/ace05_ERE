@@ -111,8 +111,7 @@ def model_LSTMbaseline(p, embedding_matrix, max_sent_len, n_out):
 
 	# Merge word and position embeddings and apply the specified amount of RNN layers
 	x = layers.concatenate([word_embeddings, arg1_pos_embeddings, arg2_pos_embeddings])
-	print(x.shape)
-	exit(1)
+
 	for i in range(p["rnn1_layers"] - 1):
 		lstm_layer = layers.LSTM(p['units1'], return_sequences=True)
 		if p['bidirectional']:
