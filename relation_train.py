@@ -60,7 +60,6 @@ if __name__ == '__main__':
 	import argparse
 	import glob
 	from graph import graph_utils
-	import os
 
 	DEBUG = 0
 
