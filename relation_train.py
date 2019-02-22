@@ -152,7 +152,7 @@ if __name__ == '__main__':
 				monitor='val_loss', verbose=1, save_best_only=True)
 			cbfunctions.append(checkpoint)
 		if args.tensorboard:
-			tensorboard = callbacks.TensorBoard(log_dir="./trainedmodels/logs", histogram_freq=True, write_graph=True,
+			tensorboard = callbacks.TensorBoard(log_dir=args.models_folder + "logs" , histogram_freq=True, write_graph=True,
 												write_images=False)
 			cbfunctions.append(tensorboard)
 		callback_history = model.fit(train_as_indices[:-1],
