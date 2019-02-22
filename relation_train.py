@@ -74,6 +74,7 @@ if __name__ == '__main__':
 	parser.add_argument('--epoch', default=50, type=int)
 	parser.add_argument('--checkpoint', default=False)
 	parser.add_argument('--tensorboard', default=False)
+	parser.add_argument('--metadata', type=str)
 
 	args = parser.parse_args()
 
@@ -211,7 +212,7 @@ if __name__ == '__main__':
 
 		print("Loading the best model")
 		model = getattr(keras_models, model_name)(keras_models.model_params, embedding_matrix, max_sent_len, n_out)
-		model.load_weights(args.models_folder + model_name + ".kerasmodel")
+		model.load_weights(args.models_folder + model_name + "-" + args.metadata + ".kerasmodel")
 
 		# print("Results on the training set")
 		# evaluate(model, train_as_indices[:-1], train_as_indices[-1])
