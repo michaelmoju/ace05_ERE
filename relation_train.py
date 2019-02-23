@@ -221,6 +221,7 @@ if __name__ == '__main__':
 		# print("Results on the test set")
 		# evaluate(model, test_as_indices[:-1], test_as_indices[-1])
 
+		# sentences_matrix, arg1_matrix, arg2_matrix, y_matrix
 		train_y_properties_one_hot = to_one_hot(train_as_indices[-1], n_out)
 
 		val_y_properties_one_hot = to_one_hot(val_as_indices[-1], n_out)

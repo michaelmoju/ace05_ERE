@@ -38,28 +38,31 @@ MAX_EDGES_PER_GRAPH = 7
 POSITION_EMBEDDING_MODE = "mark-bi"
 POSITION_VOCAB_SIZE = 4
 
-def model_LSTMbaseline_mask(p, embedding_matrix, max_sent_len, n_out):
+
+def model_LSTMbaseline_without_mask(p, embedding_matrix, max_sent_len, n_out):
 	print("Parameters:", p)
 	# Take sentence encoded as indices and convert it to embeddings
 	sentence_input = layers.Input(shape=(max_sent_len,), dtype='int32', name='sentence_input')
 	word_embeddings = layers.Embedding(output_dim=embedding_matrix.shape[1],
 									   input_dim=embedding_matrix.shape[0],
 									   input_length=max_sent_len, weights=[embedding_matrix],
-									   mask_zero=True, trainable=False)(sentence_input)
-	word_embeddings = layers.Dropout(p['dropout1'])(word_embeddings)
+									   mask_zero=False, trainable=False)(sentence_input)
 
+	word_embeddings = layers.Dropout(p['dropout1'])(word_embeddings)
 
 	# Take arg1_markers that identify entity positions, convert to position embeddings
 	arg1_markers = layers.Input(shape=(max_sent_len,), dtype='int8', name='arg1_markers')
 	arg1_pos_embeddings = layers.Embedding(output_dim=p['position_emb'], input_dim=POSITION_VOCAB_SIZE,
-										   input_length=max_sent_len,
-										   embeddings_regularizer=regularizers.l2(), trainable=True)(arg1_markers)
+									  input_length=max_sent_len,
+									  mask_zero=False,
+									  embeddings_regularizer=regularizers.l2(), trainable=True)(arg1_markers)
 
 	# Take arg2_markers that identify entity positions, convert to position embeddings
 	arg2_markers = layers.Input(shape=(max_sent_len,), dtype='int8', name='arg2_markers')
 	arg2_pos_embeddings = layers.Embedding(output_dim=p['position_emb'], input_dim=POSITION_VOCAB_SIZE,
-										   input_length=max_sent_len,
-										   embeddings_regularizer=regularizers.l2(), trainable=True)(arg2_markers)
+									  input_length=max_sent_len,
+									  mask_zero=False,
+									  embeddings_regularizer=regularizers.l2(), trainable=True)(arg2_markers)
 
 	# Merge word and position embeddings and apply the specified amount of RNN layers
 	x = layers.concatenate([word_embeddings, arg1_pos_embeddings, arg2_pos_embeddings])
@@ -71,8 +74,10 @@ def model_LSTMbaseline_mask(p, embedding_matrix, max_sent_len, n_out):
 		x = lstm_layer(x)
 
 	lstm_layer = layers.LSTM(p['units1'], return_sequences=False)
+
 	if p['bidirectional']:
 		lstm_layer = layers.Bidirectional(lstm_layer)
+
 	sentence_vector = lstm_layer(x)
 
 	# Apply softmax
@@ -83,6 +88,7 @@ def model_LSTMbaseline_mask(p, embedding_matrix, max_sent_len, n_out):
 	model.compile(optimizer=p['optimizer'], loss='categorical_crossentropy', metrics=['accuracy'])
 
 	return model
+
 
 def model_LSTMbaseline(p, embedding_matrix, max_sent_len, n_out):
 	print("Parameters:", p)
@@ -119,8 +125,10 @@ def model_LSTMbaseline(p, embedding_matrix, max_sent_len, n_out):
 		x = lstm_layer(x)
 
 	lstm_layer = layers.LSTM(p['units1'], return_sequences=False)
+
 	if p['bidirectional']:
 		lstm_layer = layers.Bidirectional(lstm_layer)
+
 	sentence_vector = lstm_layer(x)
 
 	# Apply softmax
