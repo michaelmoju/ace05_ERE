@@ -65,7 +65,7 @@ if __name__ == '__main__':
 
 	parser = argparse.ArgumentParser()
 	parser.add_argument('model_name')
-	parser.add_argument('mode', choices=['train', 'optimize', 'train-continue', 'eval'])
+	parser.add_argument('mode', choices=['train', 'optimize', 'train-continue', 'eval', 'summary'])
 	parser.add_argument('train_set')
 	parser.add_argument('--word_embedding', default='../resource/embeddings/glove/glove.6B.50d.txt')
 	# parser.add_argument('val_set')
@@ -82,6 +82,7 @@ if __name__ == '__main__':
 	mode = args.mode
 
 	embedding_matrix, word2idx = embeddings.load(args.word_embedding)
+	print("embedding_matrix: " + str(embedding_matrix.shape))
 
 	relationMention_files = glob.glob(args.train_set)
 	train_data, val_data, test_data = io.load_relation_from_files(relationMention_files, val_portion=0.1, test_portion=0.1)
@@ -234,3 +235,7 @@ if __name__ == '__main__':
 		print("Results on the validation set: ", score[0], score[1])
 		score = model.evaluate(test_as_indices[:-1], test_y_properties_one_hot)
 		print("Results on the testing set: ", score[0], score[1])
+
+	elif mode == "summary":
+		model = getattr(keras_models, model_name)(keras_models.model_params, embedding_matrix, max_sent_len, n_out)
+		print(model.summary())

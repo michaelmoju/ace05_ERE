@@ -33,10 +33,9 @@ _, position2idx = embeddings.init_random(np.arange(-model_params['max_sent_len']
 										 1, add_all_zeroes=True)
 
 p0_index = 1
-
 MAX_EDGES_PER_GRAPH = 7
 POSITION_EMBEDDING_MODE = "mark-bi"
-POSITION_VOCAB_SIZE = 4
+POSITION_VOCAB_SIZE = 3
 
 
 def model_LSTMbaseline_without_mask(p, embedding_matrix, max_sent_len, n_out):
