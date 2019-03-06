@@ -1,7 +1,7 @@
 """
 Date: 2019/2/13
 Version: 0
-Last update: 2019/2/13
+Last update: 2019/3/13
 Author: Moju Wu
 """
 
@@ -55,6 +55,14 @@ def evaluate(model, data_input, gold_output):
 	print("Results: Micro-Average F1: ", micro_scores)
 	return predictions_classes, predictions
 
+def error_analysis(model, data_inputs, gold_outputs):
+	for index, data_input in enumerate(data_inputs):
+		prediction = model.predict(data_input, batch_size=keras_models.model_params['batch_size'], verbose=1)
+		predicted_class = np.argmax(prediction, axis=1)
+		if predicted_class != gold_outputs(index):
+			print(predicted_class)
+			print(gold_outputs)
+
 
 if __name__ == '__main__':
 	import argparse
@@ -65,7 +73,7 @@ if __name__ == '__main__':
 
 	parser = argparse.ArgumentParser()
 	parser.add_argument('model_name')
-	parser.add_argument('mode', choices=['train', 'optimize', 'train-continue', 'eval', 'summary'])
+	parser.add_argument('mode', choices=['train', 'optimize', 'train-continue', 'eval', 'summary', 'analysis'])
 	parser.add_argument('train_set')
 	parser.add_argument('--word_embedding', default='../resource/embeddings/glove/glove.6B.50d.txt')
 	# parser.add_argument('val_set')
@@ -153,7 +161,7 @@ if __name__ == '__main__':
 				monitor='val_loss', verbose=1, save_best_only=True)
 			cbfunctions.append(checkpoint)
 		if args.tensorboard:
-			tensorboard = callbacks.TensorBoard(log_dir=args.models_folder + "logs" , histogram_freq=True, write_graph=True,
+			tensorboard = callbacks.TensorBoard(log_dir=args.models_folder + "logs", histogram_freq=True, write_graph=True,
 												write_images=False)
 			cbfunctions.append(tensorboard)
 		callback_history = model.fit(train_as_indices[:-1],
@@ -239,3 +247,14 @@ if __name__ == '__main__':
 	elif mode == "summary":
 		model = getattr(keras_models, model_name)(keras_models.model_params, embedding_matrix, max_sent_len, n_out)
 		print(model.summary())
+
+	elif mode == 'analysis':
+
+		print("Loading the best model")
+		model = getattr(keras_models, model_name)(keras_models.model_params, embedding_matrix, max_sent_len, n_out)
+		model.load_weights(args.models_folder + model_name + "-" + args.metadata + ".kerasmodel")
+
+		val_y_properties_one_hot = to_one_hot(val_as_indices[-1], n_out)
+
+		error_analysis(model, val_as_indices[:-1], val_y_properties_one_hot)
+

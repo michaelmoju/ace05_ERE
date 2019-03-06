@@ -98,6 +98,8 @@ def model_LSTMbaseline(p, embedding_matrix, max_sent_len, n_out):
 									   input_length=max_sent_len, weights=[embedding_matrix],
 									   mask_zero=True, trainable=False)(sentence_input)
 
+
+
 	word_embeddings = layers.Dropout(p['dropout1'])(word_embeddings)
 
 	# Take arg1_markers that identify entity positions, convert to position embeddings
@@ -116,6 +118,7 @@ def model_LSTMbaseline(p, embedding_matrix, max_sent_len, n_out):
 
 	# Merge word and position embeddings and apply the specified amount of RNN layers
 	x = layers.concatenate([word_embeddings, arg1_pos_embeddings, arg2_pos_embeddings])
+
 
 	for i in range(p["rnn1_layers"] - 1):
 		lstm_layer = layers.LSTM(p['units1'], return_sequences=True)
@@ -150,6 +153,7 @@ def model_CNN(p, embedding_matrix, max_sent_len, n_out):
 									   mask_zero=True, trainable=False)(sentence_input)
 	word_embeddings = layers.Dropout(p['dropout1'])(word_embeddings)
 
+
 	# Take token markers that identify entity positions, convert to position embeddings
 	entity_markers = layers.Input(shape=(2, max_sent_len,), dtype='int8', name='entity_markers')
 
@@ -178,6 +182,61 @@ def model_CNN(p, embedding_matrix, max_sent_len, n_out):
 
 	return model
 
+
+def model_multitask_LSTM(p, embedding_matrix, max_sent_len, n_out):
+	print("Parameters:", p)
+	# Take sentence encoded as indices and convert it to embeddings
+	sentence_input = layers.Input(shape=(max_sent_len,), dtype='int32', name='sentence_input')
+	word_embeddings = layers.Embedding(output_dim=embedding_matrix.shape[1],
+									   input_dim=embedding_matrix.shape[0],
+									   input_length=max_sent_len, weights=[embedding_matrix],
+									   mask_zero=True, trainable=False)(sentence_input)
+
+	word_embeddings = layers.Dropout(p['dropout1'])(word_embeddings)
+
+	# Take arg1_markers that identify entity positions, convert to position embeddings
+	arg1_markers = layers.Input(shape=(max_sent_len,), dtype='int8', name='arg1_markers')
+	arg1_pos_embeddings = layers.Embedding(output_dim=p['position_emb'], input_dim=POSITION_VOCAB_SIZE,
+										   input_length=max_sent_len,
+										   mask_zero=True,
+										   embeddings_regularizer=regularizers.l2(), trainable=True)(arg1_markers)
+
+	# Take arg2_markers that identify entity positions, convert to position embeddings
+	arg2_markers = layers.Input(shape=(max_sent_len,), dtype='int8', name='arg2_markers')
+	arg2_pos_embeddings = layers.Embedding(output_dim=p['position_emb'], input_dim=POSITION_VOCAB_SIZE,
+										   input_length=max_sent_len,
+										   mask_zero=True,
+										   embeddings_regularizer=regularizers.l2(), trainable=True)(arg2_markers)
+
+	# Merge word and position embeddings and apply the specified amount of RNN layers
+	x = layers.concatenate([word_embeddings, arg1_pos_embeddings, arg2_pos_embeddings])
+
+	for i in range(p["rnn1_layers"] - 1):
+		lstm_layer = layers.LSTM(p['units1'], return_sequences=True)
+		if p['bidirectional']:
+			lstm_layer = layers.Bidirectional(lstm_layer)
+		x = lstm_layer(x)
+
+	lstm_layer = layers.LSTM(p['units1'], return_sequences=False)
+	entity_lstm_layer = layers.LSTM(p['units1'], return_sequences=True)
+
+	if p['bidirectional']:
+		lstm_layer = layers.Bidirectional(lstm_layer)
+		entity_lstm_layer = layers.Bidirectional(entity_lstm_layer)
+
+	entity_vector = entity_lstm_layer(x)
+	sentence_vector = lstm_layer(x)
+
+	# Apply softmax
+	entity_vector = layers.Dropout(p['dropout1'])(entity_vector)
+	sentence_vector = layers.Dropout(p['dropout1'])(sentence_vector)
+	entity_output = layers.Dense(n_out, activation="softmax", name='main_output')(entity_vector)
+	relation_output = layers.Dense(n_out, activation="softmax", name='main_output')(sentence_vector)
+
+	model = models.Model(inputs=[sentence_input], outputs=[entity_output, relation_output])
+	model.compile(optimizer=p['optimizer'], loss='categorical_crossentropy', metrics=['accuracy'])
+
+	return model
 
 def masked_categorical_crossentropy(y_true, y_pred):
 	mask = K.equal(y_true[..., 0], K.variable(1))
