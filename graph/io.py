@@ -8,8 +8,6 @@ import json
 import random
 from core import keras_models
 
-random.seed(1)
-
 
 def load_relation_from_files(json_files, val_portion=0.0, test_portion=0.0):
 	"""
@@ -98,6 +96,25 @@ def load_relation_graphs_from_file(json_file, val_portion=0.0, load_vertices=Tru
 	:return: a tuple of the data and validation data
 	"""
 	return load_relation_graphs_from_files([json_file], val_portion, load_vertices)
+
+
+def read_relations_from_file(json_file):
+	data = []
+	with open(json_file) as f:
+		data += json.load(f)
+	return data
+
+
+def load_relation_from_existing_sets(relationMention_ph):
+
+	train_data = read_relations_from_file(relationMention_ph+'train.relationMention.json')
+	val_data = read_relations_from_file(relationMention_ph+'val.relationMention.json')
+	test_data = read_relations_from_file(relationMention_ph+'test.relationMention.json')
+
+	print("Train set size:", len(train_data))
+	print("Val set size:", len(val_data))
+	print("Test set size:", len(test_data))
+	return train_data, val_data, test_data
 
 
 def dict_to_graph_with_no_vertices(d):

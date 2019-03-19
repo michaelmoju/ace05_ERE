@@ -105,13 +105,14 @@ if __name__ == '__main__':
 	parser.add_argument('model_name')
 	parser.add_argument('mode', choices=['train', 'optimize', 'train-continue', 'eval', 'summary', 'analysis', 'create-data-set'])
 	parser.add_argument('train_set')
+	parser.add_argument('--exist', action='store_true')
 	parser.add_argument('--word_embedding', default='../resource/embeddings/glove/glove.6B.50d.txt')
 	# parser.add_argument('val_set')
 	parser.add_argument('--models_folder', default="./trainedmodels/")
-	parser.add_argument('--earlystop', default=False)
+	parser.add_argument('--earlystop', action='store_true')
 	parser.add_argument('--epoch', default=50, type=int)
-	parser.add_argument('--checkpoint', default=False)
-	parser.add_argument('--tensorboard', default=False)
+	parser.add_argument('--checkpoint', action='store_true')
+	parser.add_argument('--tensorboard', action='store_true')
 	parser.add_argument('--metadata', type=str)
 	parser.add_argument('--error_out_folder', default='./error_output/')
 
@@ -124,8 +125,13 @@ if __name__ == '__main__':
 	embedding_matrix, word2idx = embeddings.load(args.word_embedding)
 	print("embedding_matrix: " + str(embedding_matrix.shape))
 
-	relationMention_files = glob.glob(args.train_set)
-	train_data, val_data, test_data = io.load_relation_from_files(relationMention_files, val_portion=0.1, test_portion=0.1)
+	if args.exist:
+		relationMention_ph = args.train_set
+		train_data, val_data, test_data = io.load_relation_from_existing_sets(relationMention_ph)
+	else:
+		relationMention_files = glob.glob(args.train_set)
+		train_data, val_data, test_data = io.load_relation_from_files(relationMention_files, val_portion=0.1,
+																	  test_portion=0.1)
 	print("Document number: {}".format(len(relationMention_files)))
 
 	if mode == 'create-data-set':
