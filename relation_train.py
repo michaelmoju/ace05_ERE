@@ -103,7 +103,7 @@ if __name__ == '__main__':
 
 	parser = argparse.ArgumentParser()
 	parser.add_argument('model_name')
-	parser.add_argument('mode', choices=['train', 'optimize', 'train-continue', 'eval', 'summary', 'analysis'])
+	parser.add_argument('mode', choices=['train', 'optimize', 'train-continue', 'eval', 'summary', 'analysis', 'create-data-set'])
 	parser.add_argument('train_set')
 	parser.add_argument('--word_embedding', default='../resource/embeddings/glove/glove.6B.50d.txt')
 	# parser.add_argument('val_set')
@@ -127,6 +127,14 @@ if __name__ == '__main__':
 	relationMention_files = glob.glob(args.train_set)
 	train_data, val_data, test_data = io.load_relation_from_files(relationMention_files, val_portion=0.1, test_portion=0.1)
 	print("Document number: {}".format(len(relationMention_files)))
+
+	if mode == 'create-data-set':
+		with open('./data/relationMention/train.relationMention.json', 'w') as f:
+			json.dump(train_data, f, indent=4)
+		with open('./data/relationMention/val.relationMention.json', 'w') as f:
+			json.dump(val_data, f, indent=4)
+		with open('./data/relationMention/test.relationMention.json', 'w') as f:
+			json.dump(test_data, f, indent=4)
 
 	if DEBUG == 1:
 

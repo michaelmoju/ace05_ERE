@@ -92,7 +92,7 @@ def prepro_files(fdir):
 			out_file_name = fname[:-4]
 			with open(PREPRO_DIR+category+'/'+out_file_name+'.prepro.json', 'w') as f:
 				json.dump(out_list, f, indent=4)
-	lprint("f_count=", f_count)
+	print("f_count=", f_count)
 	nlp.close()
 
 
