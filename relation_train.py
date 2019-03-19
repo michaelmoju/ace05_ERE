@@ -132,7 +132,7 @@ if __name__ == '__main__':
 		relationMention_files = glob.glob(args.train_set)
 		train_data, val_data, test_data = io.load_relation_from_files(relationMention_files, val_portion=0.1,
 																	  test_portion=0.1)
-	print("Document number: {}".format(len(relationMention_files)))
+		print("Document number: {}".format(len(relationMention_files)))
 
 	if mode == 'create-data-set':
 		with open('./data/relationMention/train.relationMention.json', 'w') as f:
