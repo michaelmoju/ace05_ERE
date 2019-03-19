@@ -1,7 +1,7 @@
 {
   "rnn1_layers": 1,
   "bidirectional": false,
-  "units1": 256,
+  "units1": 128,
   "dropout1": 0.5,
   "optimizer": "adam",
   "window_size": 3,

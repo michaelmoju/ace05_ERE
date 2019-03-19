@@ -2,7 +2,7 @@
 Entity/Relation/Event extraction on ACE 2005 corpus 
 
 Some codes are refereced from emnlp2017-relation-extraction 
-https://github.com/michaelmoju/emnlp2017-relation-extraction
+https://github.com/UKPLab/emnlp2017-relation-extraction
 
 ---------------
 Train the model
