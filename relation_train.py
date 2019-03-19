@@ -83,6 +83,8 @@ def error_analysis(model, data_inputs, gold_outputs, out_folder, val_data):
 	fig = plt.figure()
 	ax = fig.add_subplot(111)
 	cax = ax.matshow(cm)
+	for (i, j), z in np.ndenumerate(cm):
+		ax.text(j, i, '{:0.0f}'.format(z), ha='center', va='center', color='white')
 	plt.title('Confusion matrix of the relation classifier')
 	fig.colorbar(cax)
 	ax.set_xticklabels([''] + labels)
