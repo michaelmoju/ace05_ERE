@@ -93,7 +93,7 @@ def error_analysis(model, data_inputs, gold_outputs, out_folder, val_data):
 	plt.ylabel('True')
 
 	plt.savefig(out_folder + 'confusion_matrix.png')
-	plt.clf()
+	plt.show()
 
 
 if __name__ == '__main__':
