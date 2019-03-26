@@ -57,6 +57,16 @@ def evaluate(model, data_input, gold_output):
 	return predictions_classes, predictions
 
 
+def write_to_file(fh, relation, yhat, true_class):
+	fh.write("relationID: " + relation.get('relationID') + '\n')
+	fh.write("Sentence: " + relation.get('Sentence') + '\n')
+	fh.write("mentionArg1: " + relation.get('mentionArg1').get('extent') + '\n')
+	fh.write("mentionArg2: " + relation.get('mentionArg2').get('extent') + '\n')
+	fh.write("predict: " + yhat + '\n')
+	fh.write("true: " + true_class + '\n')
+	fh.write('\n')
+
+
 def error_analysis(model, data_inputs, gold_outputs, out_folder, val_data):
 	predictions = model.predict(data_inputs, batch_size=keras_models.model_params['batch_size'], verbose=1)
 
@@ -66,16 +76,12 @@ def error_analysis(model, data_inputs, gold_outputs, out_folder, val_data):
 	predictions_classes = [keras_models.idx2property.get(i) for i in predictions_classes]
 	true_classes = [keras_models.idx2property.get(i) for i in true_classes]
 
-	with open(out_folder+'error.txt', 'w') as f:
+	with open(out_folder+'error.txt', 'w') as e_f, open(out_folder+'valout.txt', 'w') as v_f:
 		for index, yhat in enumerate(predictions_classes):
 			if yhat != true_classes[index]:
-				f.write("relationID: " + val_data[index].get('relationID') + '\n')
-				f.write("Sentence: " + val_data[index].get('Sentence') + '\n')
-				f.write("mentionArg1: " + val_data[index].get('mentionArg1').get('extent') + '\n')
-				f.write("mentionArg2: " + val_data[index].get('mentionArg2').get('extent') + '\n')
-				f.write("predict: " + yhat + '\n')
-				f.write("true: " + true_classes[index] + '\n')
-				f.write('\n')
+				write_to_file(e_f, val_data[index], yhat, true_classes[index])
+			elif yhat == true_classes[index]:
+				write_to_file(v_f, val_data[index], yhat, true_classes[index])
 
 	labels = ['PHYS', 'PART-WHOLE', 'PER-SOC', 'ORG-AFF', 'ART', 'GEN-AFF', 'METONYMY']
 	cm = confusion_matrix(true_classes, predictions_classes, labels)
